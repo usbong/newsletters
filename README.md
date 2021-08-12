@@ -1,5 +1,6 @@
 # Usbong Newsletters
-## 1. Screenshots
+## 1. Screenshot
+<img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersScreenshotV20210812T1910.png" width="80%">
 
 ## 2. Add-on Software Requirements
 ### XAMPP
