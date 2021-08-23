@@ -3,10 +3,15 @@
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersScreenshotV20210812T1910.png" width="80%">
 
 ## 2. Add-on Software Requirements
-### XAMPP
-https://www.apachefriends.org/index.html
+### 2.1. XAMPP
+https://www.apachefriends.org/index.html; last accessed: 20210823<br/>
 
 <b>Technologies:</b> Apache Web Server, MySQL, PHP, phpMyAdmin
+
+### 2.2. PhantomJS
+https://phantomjs.org/; last accessed: 20210823<br/>
+
+<b>Install:</b> https://phantomjs.org/download.html; last accessed: 20210823<br/>
 
 ## 3. Open Source Software License
 Copyright 2019~2021 SYSON, MICHAEL B.
