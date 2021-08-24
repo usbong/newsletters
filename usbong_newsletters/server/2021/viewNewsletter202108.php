@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210824
+  @date updated: 20210825
   @website address: http://www.usbong.ph
 
   Input:
@@ -106,7 +106,7 @@
 					
 						h4
 						{
-							color: rgb(64,64,64); /* from black to white */							
+							color: rgb(64,64,64);	
 						}
 
 						h5
@@ -474,8 +474,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</td>
 	</tr>
 </table>
-<br/>
 <!-- TO-DO: -add: stackoverflow answer to Rabbid76's answer
+<br/>
 <table>
 	<tr>
 		<td>
@@ -503,9 +503,42 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			--> In this case, the two (2) remaining angle degrees vales: 45 and 45;<br/>
 			--> from 90/2=45;<br/>
 			<br/>
+			2) step in X-axis; we set it to be the A, i.e. adjacent side of angle theta<br/>
+			3) step in Y-axis; we set it to be the O, i.e. opposite side of angle theta<br/>
+			<br/>
+			Recommended Action: learn: Maparaang Pagbibilang;<br/>
+			Recommended Reference:<br/> 
+			learn: <a class="webServiceLink" href="http://www.mathisfun.com/sine-cosine-tangent.html">http://www.mathisfun.com/sine-cosine-tangent.html</a><br/>
+			--> last accessed: 20210810<br/> 
+			<br/> 
+			Additional Note:<br/> 
+			1) added: gravity in the world<br/> 
+			--> Otherwise, Pilot as Unit member shall appear to float when moving in the opposite direction, e.g. in the x-axis;<br/>
+			--> This is instead of moving down due to gravity.<br/> 
+			--> 重力がなかったら、山を登れない。<br/> 
+			--> juuryoku ga nakattara, yama wo noborenai.<br/> 
+			--> Kung walang bigat+lakas, i.e. gravity, hindi makaaakyat ng bundok.<br/>
 		</td>
 	</tr>
 </table>
+
+<h4>1.2) added: web page version of select forms, e.g. from Laboratory Unit</h4>
+--> This action is to assist Unit members who need to find, answer, and print the correct forms.
+<table>
+	<tr>
+		<td>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> added: .csv (Comma Separated Values) template for this form<br/>
+--> reminder: computer auto-generates the Hypertext Markup Language (HTML) web page<br/>
+--> Template used as input to identify the positions,<br/>
+--> when creating the table with columns and rows<br/>
 
 <!-- TO-DO: -update: this -->
 
