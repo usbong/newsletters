@@ -45,6 +45,7 @@
 							font-family: Arial;
 							font-size: 12pt;
 							color: rgb(120,63,4);
+							font-weight: bold;
 
 							/* This makes the width of the output page that is displayed on a browser equal with that of the printed page. */
 							/* Legal Size; Landscape*/							
@@ -236,6 +237,7 @@
 						{
 							background-color: rgb(146,208,80);
 							text-align: center;							
+							font-weight: 1;
 						}
 						
 						td.menuColumn
@@ -468,7 +470,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/drawCircleExample.jpg"><br/>
+			<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202108/drawCircleExample.jpg"><br/>
 				Auto-drawn Circle Shape
 			</div>
 		</td>
@@ -539,6 +541,77 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> reminder: computer auto-generates the Hypertext Markup Language (HTML) web page<br/>
 --> Template used as input to identify the positions,<br/>
 --> when creating the table with columns and rows<br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			Recommended Reading:<br/>
+			Johnson, S. (1998). Who moved my cheese? UK: Vermilion<br/>
+			<br/>
+			Johnson writes a story of mice and the value of change to achieve cheese, i.e. wealth.<br/>
+			<br/>
+			There exist variations of mice:<br/>
+			1) Those who do NOT change due to already hve cheese; Did NOT want to accept the pattern of decreasing cheese.<br/>
+			<br/>
+			2) Those who do NOT change due to FEAR of NOT finding more cheese; Prefers to stay as is, despite the pattern of decreasing cheese.<br/>
+			<br/>
+			3) Those who do change to find new cheese; accepts the pattern of decreasing cheese; Executes action despite need for movement.<br/>
+			<br/>
+			Additional Notes:<br/>
+			1) observation: Expenses > Income Pattern;<br/>
+			--> Budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group continues to misues wireless broadcasting technology to cause noise pollution and physical injury.<br/>
+			--> Objective: Quick money;<br/>
+			--> Recommended Action: Puksain and Teroristang Komunista;<br> 
+			No need for negotion<br/> 
+			<br/>
+			2) Increase in Tamad causes Increase in Masama, e.g. Manloloko<br/>
+			--> This is due to as wealth increases, people classified as communist increase.<br/>
+			--> "Communist"/Komunista: Tao na naniniwala na dahil sagana na tayo, hindi na natin kailangang maghanap-buhay.<br/>
+			--> We clarify that a Communist is NOT necessarily evil.<br/>
+			--> Indeed, a Communist may still go to work, albeit believes that it's NOT necessary.<br/>
+			--> The problem occurs when they become Terrorists.<br/>
+			--> "Terrorist"/Terorista: Tao na gumagawa ng panloloko at pisikal na pananakit sa isa at higit pang mga tao.<br/>
+			--> "Communist Terrorist": Tao na naniwala na sagana na siya, kaya lang naubasan gawa ng pagwawaldas; naging Terorista upang mabilis na makakuha ng pera.<br/>
+			--> As the next generation continues, e.g. the family business, the increasing number of members in the household causes the previously sufficient income to become insufficient.<br/>
+			--> Solution: It is vital that each communist・family・company member learn the value of honest work.
+		</td>
+	</tr>
+</table>
+
+<h3>2) Continued to share information on Health</h3>
+--> Security Defense Forece: Part 23: BMI: Body Mass Index = 体格指数 (katawan maramihang turong bilang)<br/>
+<br/>
+BMI＝体重［kg］/ 身長［m]^2 ≧ 25のもの<br/>
+where: BMI = Body Mass Index<br/>
+体重 (taijuu) = katawan bigat<br/>
+身長 (shinchou) = katawan haba<br/>
+<br/>
+Example: 80kg / (1.80mm)^2 = 24.69<br/>
+Reminder: 180cm = 1.80mm<br/>
+Reminder: 18.5 ≦～＜25 普通体重 (futsuu taijuu; ordinary body weight); Normal Range<br/>
+<h4>2.1) Dagdag na Sanggunian:</h4>
+<a class="webServiceLink" href="http://www.jasso.or.jp/data/magazine/pdf/chart_A.pdf">http://www.jasso.or.jp/data/magazine/pdf/chart_A.pdf</a>; last accessed: 20210809<br/>
+日本肥満学会　(nihon himan gakkai)<br/>
+Japan Society for the Study of Obesity<br/>
+<br/>
+
+<h4>2.2) Mungkahing Aksyon:</h4>
+<h5>2.2.1) verify: body weight each day; increasing, decreasing, no change?<br/>
+--> verify: actions to achieve correct body weight for your height<br/>
+--> example#1: continuous walking of at least 20mins daily.<br/> 
+--> This action reduces body weight by at least 1kg.<br/>
+--> example#2: choosing NOT to eat meat in the evening.<br/> 
+--> This is after already eating meat during lunch.<br/>
+--> In its stead, eat fruits, vegetables, even rice.<br/>
+--> This action also reduces body weight by at least 1kg.<br/>
+--> example#3: drink milk <1/2 cup every other day (approx).<br/>
+--> Otherwise, due to not as physically active as growing children, we shall grow excessively big.<br/>
+</h5>
+
 
 <!-- TO-DO: -update: this -->
 
