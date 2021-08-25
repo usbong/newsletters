@@ -12,6 +12,7 @@ We use the PHP Computer Language to execute Commands with the Database (DB) Stor
 
 ### 2.1. Linux Machine ([LUBUNTU LTS 20.4](http://lubuntu.me))
 #### 2.1.1. Download Usbong Newsletters .zip file
+<img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersDownloadZipFile.jpg" width="80%">
 
 #### 2.1.2. Execute the following Bash Shell Command using the Terminal Window
 sudo chmod -R 777 "/var/www/html/"
@@ -27,6 +28,15 @@ sudo ./etc.init.d/apache2 start</b><br/>
 ### 3.1. Linux Machine ([LUBUNTU LTS 20.4](http://lubuntu.me))
 --> Enter on Web Browser, the following web page address:<br/> 
 --> http://localhost/usbong_newsletters/server/2021/viewNewsletter202108.php<br/>
+
+<img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersExampleOutputWebBrowserAddress.jpg" width="50%">
+
+#### Reminder:
+We can view the following web page with the list of folders and files:<br/>
+<br/>
+<img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersFoldersAndFilesList.jpg" width="40%"><br/>
+<br/>
+<b>web page address:</b> http://localhost/usbong_newsletters
 
 ## 4. Add-on Software Requirements
 ### 4.1. Linux Machine 
