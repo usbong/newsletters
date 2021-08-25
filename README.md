@@ -8,7 +8,11 @@ Otherwise, the web page file shall NOT be viewable on a Web Browser.<br/>
 
 ### Reminders: 
 .php Web Page file contains Commands, e.g. written using the PHP Computer Language.<br/>
-We use the PHP Computer Language to execute Commands with the Database (DB) Storage, e.g. MySQL.
+<br/>
+We use the PHP Computer Language to execute Commands with the Database (DB) Storage,<br/> 
+e.g. MySQL (Structured Query Language).<br/>
+<br/>
+Outputs from the DB become viewable as web page files using PHP with Hypertext Markup Language (HTML) Commands.
 
 ### 2.1. Linux Machine ([LUBUNTU LTS 20.4](http://lubuntu.me))
 #### 2.1.1. Download Usbong Newsletters .zip file
@@ -18,6 +22,7 @@ We use the PHP Computer Language to execute Commands with the Database (DB) Stor
 sudo chmod -R 777 "/var/www/html/"
 
 #### 2.1.3. Copy and Paste the extracted Usbong Newsletters .zip file to the "var/www/html" folder
+<img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersLinuxHTMLFolder.jpg" width="50%">
 
 #### 2.1.4. Execute the following Bash Shell Command using the Terminal Window
 sudo ./etc.init.d/apache2 start</b><br/>
@@ -36,7 +41,7 @@ We can view the following web page with the list of folders and files:<br/>
 <br/>
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersFoldersAndFilesList.jpg" width="40%"><br/>
 <br/>
-<b>web page address:</b> http://localhost/usbong_newsletters
+<b>Web page address:</b> http://localhost/usbong_newsletters
 
 ## 4. Add-on Software Requirements
 ### 4.1. Linux Machine 
