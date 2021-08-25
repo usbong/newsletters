@@ -3,16 +3,16 @@
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersScreenshotV20210812T1910.png" width="80%">
 
 ## 2. Installation
-We need to add the Apache Server due to web page file is .php (PHP Hypertext Preprocessor) format.<br/>
+We need to add the `Apache Server` due to web page file is `.php (PHP Hypertext Preprocessor)` format.<br/>
 Otherwise, the web page file shall NOT be viewable on a Web Browser.<br/>
 
 ### Reminders: 
-.php Web Page file contains Commands, e.g. written using the PHP Computer Language.<br/>
+`.php Web Page` file contains Commands, e.g. written using the `PHP Computer Language`.<br/>
 <br/>
 We use the PHP Computer Language to execute Commands with the Database (DB) Storage,<br/> 
-e.g. MySQL (Structured Query Language).<br/>
+e.g. `MySQL (Structured Query Language)`.<br/>
 <br/>
-Outputs from the DB become viewable as web page files using PHP with Hypertext Markup Language (HTML) Commands.
+Outputs from the DB become viewable as web page files using PHP with `Hypertext Markup Language (HTML)` Commands.
 
 ### 2.1. Linux Machine ([LUBUNTU LTS 20.4](http://lubuntu.me))
 #### 2.1.1. Download Usbong Newsletters .zip file
@@ -45,7 +45,7 @@ We can view the following web page with the list of folders and files:<br/>
 
 ## 4. Add-on Software Requirements
 ### 4.1. Linux Machine 
-<b>Note:</b> Apache Web Server already included in [LUBUNTU LTS 20.4](http://lubuntu.me)) Operating System (OS)
+<b>Note:</b> `Apache Web Server` already included in [LUBUNTU LTS 20.4](http://lubuntu.me)) Operating System (OS)
 
 ### 4.2. Windows Machine
 #### XAMPP
