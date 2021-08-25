@@ -71,3 +71,27 @@ Unless required by applicable law or agreed to in writing, software distributed 
 @company: USBONG<br/>
 @author: SYSON, MICHAEL B.<br/>
 @website address: http://www.usbong.ph<br/>
+
+## 6. With Available Technology Infrastructure
+### 6.1. Elapsed Time Speed-up History (from Most Recent)
+--> <b>Note:</b> By End, output is ready to be published for public use.<br/>
+--> <b>Reminder:</b> System maintenance includes among others:<br/> 
+--> corrections in computer instructions, e.g. spelling, computation,<br/>
+--> that occur with increasing usage
+
+#### 6.1.1. UsbongLikhaApp (mobile); Where is Heaven?: 60 days
+--> <b>Start:</b> 2017-10-21<br/>
+--> <b>End:</b> 2017-12-20<br/>
+
+#### 6.1.2. UsbongStore (web): 43 days<br/>
+--> <b>Start:</b> 2017-06-09<br/>
+--> <b>End:</b> 2017-07-22<br/>
+
+#### 6.1.3. UsbongStoreApp (mobile): 26 days
+--> <b>Start:</b> 2017-05-15<br/>
+--> <b>End:</b> 2017-06-10<br/>
+
+#### 6.1.4. UsbongSpecialtyBookstoreApp (mobile): 27 days
+--> <b>Start:</b> 2017-04-17<br/>
+--> <b>End:</b> 2017-05-14<br/>
+
