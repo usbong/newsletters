@@ -45,7 +45,7 @@ We can view the following web page with the list of folders and files:<br/>
 
 ## 4. Add-on Software Requirements
 ### 4.1. Linux Machine 
-<b>Note:</b> `Apache Web Server` already included in [LUBUNTU LTS 20.4](http://lubuntu.me)) Operating System (OS)
+<b>Note:</b> `Apache Web Server` already included in [LUBUNTU LTS 20.4](http://lubuntu.me) Operating System (OS)
 
 ### 4.2. Windows Machine
 #### XAMPP
