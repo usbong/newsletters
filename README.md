@@ -37,7 +37,7 @@ sudo ./etc.init.d/apache2 start</b><br/>
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersExampleOutputWebBrowserAddress.jpg" width="50%">
 
 #### Reminder:
-We can view the following web page with the list of folders and files:<br/>
+We can view using a Web Browser the following web page with the list of folders and files:<br/>
 <br/>
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersFoldersAndFilesList.jpg" width="40%"><br/>
 <br/>
