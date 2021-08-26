@@ -79,19 +79,19 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> corrections in computer instructions, e.g. spelling, computation,<br/>
 --> that occur with increasing usage
 
-#### 6.1.1. UsbongLikhaApp (mobile); Where is Heaven?: 60 days
+#### 6.1.1. [UsbongLikhaApp (mobile)](https://github.com/usbong/usbong_pagtsing); Where is Heaven?: 60 days
 --> <b>Start:</b> 2017-10-21<br/>
 --> <b>End:</b> 2017-12-20<br/>
 
-#### 6.1.2. UsbongStore (web): 43 days<br/>
+#### 6.1.2. [UsbongStore (web)](https://github.com/usbong/UsbongStore): 43 days<br/>
 --> <b>Start:</b> 2017-06-09<br/>
 --> <b>End:</b> 2017-07-22<br/>
 
-#### 6.1.3. UsbongStoreApp (mobile): 26 days
+#### 6.1.3. [UsbongStoreApp (mobile)](https://github.com/usbong/UsbongStoreApp): 26 days
 --> <b>Start:</b> 2017-05-15<br/>
 --> <b>End:</b> 2017-06-10<br/>
 
-#### 6.1.4. UsbongSpecialtyBookstoreApp (mobile): 27 days
+#### 6.1.4. [UsbongSpecialtyBookstoreApp (mobile)](https://github.com/usbong/UsbongSpecialtyBookstoreApp): 27 days
 --> <b>Start:</b> 2017-04-17<br/>
 --> <b>End:</b> 2017-05-14<br/>
 
