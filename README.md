@@ -94,6 +94,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>End:</b> 2017-06-10<br/>
 
 #### 6.1.4. [UsbongSpecialtyBookstoreApp (mobile)](https://github.com/usbong/UsbongSpecialtyBookstoreApp): 27 days
+<img src="https://github.com/usbong/newsletters/blob/main/res/usbongSpecialtyBookstore.jpg" width="20%">
 --> <b>Start:</b> 2017-04-17<br/>
 --> <b>End:</b> 2017-05-14<br/>
 
