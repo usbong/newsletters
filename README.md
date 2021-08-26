@@ -84,8 +84,11 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>End:</b> 2017-12-20<br/>
 
 #### 6.1.2. [UsbongStore (web)](https://github.com/usbong/UsbongStore): 43 days<br/>
+<img src="https://github.com/usbong/newsletters/blob/main/res/usbongStoreWeb.jpg" width="70%">
+<br/>
 --> <b>Start:</b> 2017-06-09<br/>
 --> <b>End:</b> 2017-07-22<br/>
+<br/>
 
 #### 6.1.3. [UsbongStoreApp (mobile)](https://github.com/usbong/UsbongStoreApp): 26 days
 --> <b>Start:</b> 2017-05-15<br/>
