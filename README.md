@@ -77,7 +77,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>Note:</b> By End, output is ready to be published for public use.<br/>
 --> <b>Reminder:</b> System maintenance includes among others:<br/> 
 --> corrections in computer instructions, e.g. spelling, computation,<br/>
---> that occur with increasing usage
+--> that become noticeable with increasing usage
 
 #### 6.1.1. [UsbongLikhaApp (mobile)](https://github.com/usbong/usbong_pagtsing); Where is Heaven?: 60 days
 --> <b>Start:</b> 2017-10-21<br/>
@@ -85,12 +85,11 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 #### 6.1.2. [UsbongStore (web)](https://github.com/usbong/UsbongStore): 43 days<br/>
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongStoreWeb.jpg" width="70%">
-<br/>
 --> <b>Start:</b> 2017-06-09<br/>
 --> <b>End:</b> 2017-07-22<br/>
-<br/>
 
 #### 6.1.3. [UsbongStoreApp (mobile)](https://github.com/usbong/UsbongStoreApp): 26 days
+<img src="https://github.com/usbong/newsletters/blob/main/res/usbongStoreMobile.jpg" width="20%">
 --> <b>Start:</b> 2017-05-15<br/>
 --> <b>End:</b> 2017-06-10<br/>
 
