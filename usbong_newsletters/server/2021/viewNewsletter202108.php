@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210825
+  @date updated: 20210826
   @website address: http://www.usbong.ph
 
   Input:
@@ -612,6 +612,131 @@ Japan Society for the Study of Obesity<br/>
 --> Otherwise, due to not as physically active as growing children, we shall grow excessively big.<br/>
 </h5>
 
+<h3>3) Continued with Research & Development (R&D)</h3>
+--> increased know-how causes increased available products・services<br/>
+--> Example: know-how of computer hardware parts and software instructions<br/>
+
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				<br/>
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<br/>
+				g++ library not yet installed<br/>
+				reminder: library contains reusable sets of instructions<br/>			
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				<br/>
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<br/>
+				GL not yet installed<br/>
+				where: GL = Graphics Library from OpenGL<br/>			
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				<br/>
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<br/>
+				Computer Solution#1: Not to install<br/>
+				Computer Solution#2: Downgrade existing packages to install<br/>			
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> computer repair skill increased; service via computer repair unlocked
+<br/>
+<h4>3.1) Example Computer Repaired:</h4>
+<h5>3.1.1) Hardware:</h4>
+
+<table>
+	<tr>
+		<td width="65%">
+			<div class="newsletterImageTextDiv">
+				<br/>
+				System: 64-bit Operating System (OS)<br/>
+				Processor: Intel(R) Core(TM) i3-4160 CPU @3.60GHz<br/>			
+				Memory: 4GB Random Access Memory (RAM)<br/>			
+				+Digial Video Disc (DVD) hardware device<br/>			
+			</div>
+		</td>
+		<td width="35%">
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+			</div>
+		</td>
+	</tr>
+</table>
+
+<br/>
+--> SATA Harddisk Storage read problem;<br/>
+--> where: SATA = Serial Advanced Technology Attachment<br/>
+<br/>
+<div class="newsletterImageTextDiv">
+	<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+</div>
+<br/>
+--> verified: replacing SATA cable part (PHP35) to connect to POWER<br/>
+--> and data transfer unit;<br/>
+--> reminder: variations in SATA cable part exist;<br/>
+<br/>
+<table>
+	<tr>
+		<td width="30%">
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+			</div>
+		</td>
+		<td width="30%">
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="30%">
+			<div class="newsletterImageTextDiv">
+				SATA cable head variation#1
+			</div>
+		</td>
+		<td width="30%">
+			<div class="newsletterImageTextDiv">
+				SATA cable head variation#2
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> available physical space still insufficient to cause excess bending of cable to cause read problem<br/>
+--> replaced: SATA Harddisk Storage with mini version (PHP650; 160GB) used with Laptop computers<br/>
+<br/>
+--> Computer Estimated Cost with SATA Harddisk Storage (250GB): PHP6,000<br/>
+
+<h5>3.1.2) Software:</h4>
+--> Basic Input Output System (BIOS) Only
+
+<h4>3.2) Results:</h4>
+<h5>3.2.1) Hardware:<br/>
+obtained: computer valued at PHP4,000 from &#60;PHP4,000 due to un-repaired<br/>
+obtained: know-how to execute service repair valued at >PHP685 from PHP0<br/>
+obtained: computer product valued at >PHP4,685 from &#60;PHP4,000<br/>
+</h5>
+<h5>3.2.2) Software:<br/>
+obtained: <a class="webServiceLink" href="http://lubuntu.me">LUBUNTU (LTS 20.04) OS</a>; from None<br/>
+obtained: <a class="webServiceLink" href="http://www.gimp.org">GNU Image Manipulation Program (GIMP)</a>; from None<br/>
+obtained: <a class="webServiceLink" href="https://www.libreoffice.org/discover/calc/">LibreOffice Suite, e.g. Calc</a>; from None<br/>
+obtained: <a class="webServiceLink" href="https://github.com/usbong/pagong">Usbong Pagong</a>; from <a class="webServiceLink" href="https://github.com/usbong/story">Usbong Story</a><br/>
+</h5>
 
 <!-- TO-DO: -update: this -->
 
