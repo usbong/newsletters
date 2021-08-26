@@ -85,9 +85,11 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> After verification, Unit members attacked; result: delay in receiving payments.<br/> 
 
 #### 6.1.1. [UsbongLikhaApp (mobile)](https://github.com/usbong/usbong_pagtsing); Where is Heaven?: 60 days
+<img src="https://github.com/usbong/newsletters/blob/main/res/whereIsHeavenFilipino.jpg" width="20%">
 --> <b>Start:</b> 2017-10-21<br/>
 --> <b>End:</b> 2017-12-20<br/>
---> <b>Note:</b> With multiple Unit members working on focused set of tasks, e.g. illustration, voice-overs;<br/> 
+--> <b>Note:</b> Multilingual Interactive Storybook Application<br/>
+--> Multiple Unit members worked on focused set of tasks, e.g. illustration, voice-overs;<br/> 
 --> Gained time from speed-up, used to further speed-up system<br/>
 
 #### 6.1.2. [UsbongStore (web)](https://github.com/usbong/UsbongStore): 43 days<br/>
