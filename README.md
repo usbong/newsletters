@@ -100,7 +100,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>Start:</b> 2017-06-09<br/>
 --> <b>End:</b> 2017-07-22<br/>
 --> <b>Note:</b> Focused on increasing know-how and reusable component parts, instead of profit from items, e.g. books<br/>
---> +added: in item pages, lessons-learned notes as part of item's value
+--> +added: in item pages, lessons-learned notes as part of item's value<br/>
 
 #### 6.1.3. [UsbongStoreApp (mobile)](https://github.com/usbong/UsbongStoreApp): 26 days
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongStoreMobile.jpg" width="20%">
@@ -113,4 +113,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>Start:</b> 2017-04-17<br/>
 --> <b>End:</b> 2017-05-14<br/>
 --> <b>Note:</b> +added: "Beverages", e.g. green tea, earl grey tea, for customers to regularly return after supply consumption<br/>
-
+--> +set: item price of books to be more inexpensive than those sold at local bookstores; book items used/pre-owned<br/>
+--> +added: items NOT sold at local bookstores<br/>
