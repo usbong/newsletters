@@ -742,23 +742,80 @@ Japan Society for the Study of Obesity<br/>
 --> available physical space still insufficient to cause excess bending of cable to cause read problem<br/>
 --> replaced: SATA Harddisk Storage with mini version (PHP650; 160GB) used with Laptop computers<br/>
 <br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">		
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/sataHarddiskMiniAndNotMini.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				LEFT: SATA HARDDISK (MINI VERSION);<br/>
+				RIGHT: SATA HARDDISK
+			</div>
+		</td>		
+	</tr>
+</table>
+
+<br/>
 --> Computer Estimated Cost with SATA Harddisk Storage (250GB): PHP6,000<br/>
 
 <h5>3.1.2) Software:</h4>
 --> Basic Input Output System (BIOS) Only
 
-<h4>3.2) Results:</h4>
-<h5>3.2.1) Hardware:<br/>
+<h5>3.1.3) Results:</h5>
+<h5>3.1.3.1) Hardware:<br/>
 obtained: computer valued at PHP4,000 from &#60;PHP4,000 due to un-repaired<br/>
 obtained: know-how to execute service repair valued at >PHP685 from PHP0<br/>
 obtained: computer product valued at >PHP4,685 from &#60;PHP4,000<br/>
 </h5>
-<h5>3.2.2) Software:<br/>
-obtained: <a class="webServiceLink" href="http://lubuntu.me">LUBUNTU (LTS 20.04) OS</a>; from None<br/>
-obtained: <a class="webServiceLink" href="http://www.gimp.org">GNU Image Manipulation Program (GIMP)</a>; from None<br/>
-obtained: <a class="webServiceLink" href="https://www.libreoffice.org/discover/calc/">LibreOffice Suite, e.g. Calc</a>; from None<br/>
-obtained: <a class="webServiceLink" href="https://github.com/usbong/pagong">Usbong Pagong</a>; from <a class="webServiceLink" href="https://github.com/usbong/story">Usbong Story</a><br/>
+<h5>3.1.3.2) Software:<br/>
+obtained: <a class="webServiceLink" target="_blank" href="http://lubuntu.me">LUBUNTU (LTS 20.04) OS</a>; from None<br/>
+obtained: <a class="webServiceLink" target="_blank" href="http://www.gimp.org">GNU Image Manipulation Program (GIMP)</a>; from None<br/>
+obtained: <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Suite, e.g. Calc</a>; from None<br/>
+obtained: <a class="webServiceLink" target="_blank" href="https://github.com/usbong/pagong">Usbong Pagong</a>; from <a class="webServiceLink" target="_blank" href="https://github.com/usbong/story">Usbong Story</a><br/>
 </h5>
+
+<h4>3.2) Example Computer Reused:</h4>
+<div class="newsletterImageTextDiv">
+	<!-- added by Mike, 20210828 -->
+	<!-- TO-DO: -reverify: adding video -->
+	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/reuseMiniComputerV20210815T1215.jpg">
+</div>
+<h5>3.2.1) Hardware:<br/>
+System: 32-bit Operating System (OS)<br/>
+Processor: Intel(R) Core(TM) Solo CPU U1400 @1.20GHz<br/>
+Memory: 1GB Random Access Memory (RAM)<br/>
+Storage: 40GB Harddisk<br/>
+<br/>
+Computer Purchased Cost: PHP4,000</h5>
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+Computers used at the Cashier Unit need NOT be the fastest.<br/>
+<br/>
+Even computers with the hardware and software specifications in our example can be reused. In addition, they can execute the following software applications, which our partner clinic, Sta. Lucia Health Care Center (SLHCC), uses.<br/>
+<br/>
+1) <a class="webServiceLink" href="https://github.com/usbong/SLHCC/tree/master/SLHCC/Cashier/generatePayslipAndORSlipForTheDay" target="_blank">auto-generate Payslip for the Day</a><br/>
+2) <a class="webServiceLink" href="https://github.com/usbong/SLHCC/tree/master/SLHCC/Cashier/generatePayslipAndORSlipForTheDay" target="_blank">auto-generate Official Receipt for the Day</a><br/>
+<br/>
+The output of these are printed using a dot-matrix printer connected to each computer.<br/>
+<br/>
+The computers also connect to a computer server at another Unit using a router with a small antenna. The wireless signal is sufficient to reach 30m (approx) distance. The computers form a Local Area Network (LAN).<br/>
+<br/>
+By removing excess Graphical User Interface (GUI), such that only the Command Prompt Window remains, the computers can quickly send the Payslip reports for re-verification at the other Unit. 
+		</td>
+	</tr>
+</table>
+
 
 <!-- TO-DO: -update: this -->
 
