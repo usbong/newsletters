@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210827
+  @date updated: 20210828
   @website address: http://www.usbong.ph
 
   Input:
@@ -643,7 +643,7 @@ Japan Society for the Study of Obesity<br/>
 		<td>
 			<div class="newsletterImageTextDiv">
 				<br/>
-				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/makeCommandNotFound.jpg">
 				<br/>
 				g++ library not yet installed<br/>
 				reminder: library contains reusable sets of instructions<br/>			
@@ -655,7 +655,7 @@ Japan Society for the Study of Obesity<br/>
 		<td>
 			<div class="newsletterImageTextDiv">
 				<br/>
-				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/fatalError.jpg">
 				<br/>
 				GL not yet installed<br/>
 				where: GL = Graphics Library from OpenGL<br/>			
@@ -667,7 +667,7 @@ Japan Society for the Study of Obesity<br/>
 		<td>
 			<div class="newsletterImageTextDiv">
 				<br/>
-				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/ComputerNoInstallDueToDependenciesToAcceptOrNot.jpg">
 				<br/>
 				Computer Solution#1: Not to install<br/>
 				Computer Solution#2: Downgrade existing packages to install<br/>			
