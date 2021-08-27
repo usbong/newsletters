@@ -92,6 +92,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>Start:</b> 2017-10-21<br/>
 --> <b>End:</b> 2017-12-20<br/>
 --> <b>Note:</b> Multilingual Interactive Storybook Application<br/>
+--> includes: languages, e.g. Filipino language<br/>
 --> Multiple Unit members worked on focused set of tasks, e.g. illustration, voice-overs;<br/> 
 --> Gained time from speed-up, used to further speed-up system<br/>
 
@@ -101,6 +102,10 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>End:</b> 2017-07-22<br/>
 --> <b>Note:</b> Focused on increasing know-how and reusable component parts, instead of profit from items, e.g. books<br/>
 --> +added: in item pages, lessons-learned notes as part of item's value<br/>
+--> observed: local books as literature NOT as read as foreign books, e.g. via New York Times Bestsellers,<br/>
+--> to cause author advertize Usbong Store platform effect;<br/>
+--> reminder: books classified to be "New York Times Bestseller" total sales valued >= USD 1 Million<br/>
+--> where: USD = United States Dollar<br/>
 
 #### 6.1.3. [UsbongStoreApp (mobile)](https://github.com/usbong/UsbongStoreApp): 26 days
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongStoreMobile.jpg" width="20%">
