@@ -107,11 +107,15 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>Start:</b> 2017-05-15<br/>
 --> <b>End:</b> 2017-06-10<br/>
 --> <b>Note:</b> +added: multiple merchants in addition to the Usbong Specialty Bookstore<br/>
+--> +added: items, e.g. new books, from merchants<br/>
 
 #### 6.1.4. [UsbongSpecialtyBookstoreApp (mobile)](https://github.com/usbong/UsbongSpecialtyBookstoreApp): 27 days
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongSpecialtyBookstore.jpg" width="20%">
 --> <b>Start:</b> 2017-04-17<br/>
 --> <b>End:</b> 2017-05-14<br/>
 --> <b>Note:</b> +added: "Beverages", e.g. green tea, earl grey tea, for customers to regularly return after supply consumption<br/>
---> +set: item price of books to be more inexpensive than those sold at local bookstores; book items used/pre-owned<br/>
+--> <b>Objective:</b> +set: item price, e.g. of books to be more inexpensive than those sold at local bookstores;<br/> 
+--> Book items used/pre-owned<br/>
+--> Books can be returned back to Usbong Specialty Bookstore; in exchange, customer receives PHP50 for each book<br/> 
+--> Items can be picked up @USBONG HQ to decrease price by PHP70 for each item<br/>
 --> +added: items NOT sold at local bookstores<br/>
