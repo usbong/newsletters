@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210826
+  @date updated: 20210827
   @website address: http://www.usbong.ph
 
   Input:
@@ -464,7 +464,6 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> where: logical = clear, not emotional<br/>
 --> where: logical questions = mga tanong ukol sa Maparaang Pagbibilang.<br/>
 --> Example Question: How to execute <a class="webServiceLink" href="http://https://stackoverflow.com/questions/46258919/drawing-circle-with-gl-polygon-radius-out-of-scale" target="_blank">"Drawing circle with GL_POLYGON, radius out of scale"</a>?<br/>
---> Example Answer (executed on <a class="webServiceLink" href="http://www.lubuntu.me">LUBUNTU (LTS 20.04)</a> machine):<br/>
 --> Example OUTPUT:</h5>
 <table>
 	<tr>
@@ -476,19 +475,26 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</td>
 	</tr>
 </table>
-<!-- TO-DO: -add: stackoverflow answer to Rabbid76's answer
+<br/>
+--> Example Answer (executed on <a class="webServiceLink" href="http://www.lubuntu.me">LUBUNTU (LTS 20.04)</a> machine):<br/>
 <br/>
 <table>
 	<tr>
-		<td>
+		<td width="35%">
 			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/drawCircleExample.jpg"><br/>
-				Auto-drawn Circle Shape
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/drawCircleStackoverflowAnswerPart1V20210908T0917.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="35%">
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202108/drawCircleStackoverflowAnswerPart2V20210908T0917.jpg">
 			</div>
 		</td>
 	</tr>
 </table>
--->
+
 <h5>1.1.2) shared: computer instructions to climb diagonal of right triangle tile on <a class="webServiceLink" href="http://www.github.com/usbong/story">www.github.com</a>
 </h5>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
@@ -672,7 +678,7 @@ Japan Society for the Study of Obesity<br/>
 		</td>
 		<td width="35%">
 			<div class="newsletterImageTextDiv">
-				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202108/repairedComputerMachine.jpg">
 			</div>
 		</td>
 	</tr>
@@ -683,7 +689,7 @@ Japan Society for the Study of Obesity<br/>
 --> where: SATA = Serial Advanced Technology Attachment<br/>
 <br/>
 <div class="newsletterImageTextDiv">
-	<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/repairHardDiskStorageV2.jpg">
 </div>
 <br/>
 --> verified: replacing SATA cable part (PHP35) to connect to POWER<br/>
@@ -694,12 +700,12 @@ Japan Society for the Study of Obesity<br/>
 	<tr>
 		<td width="30%">
 			<div class="newsletterImageTextDiv">
-				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/sataCableVariation1.jpg">
 			</div>
 		</td>
 		<td width="30%">
 			<div class="newsletterImageTextDiv">
-				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/moscLabResultsMiscFormV20210809V2.png">
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202108/sataCableVariation2.jpg">
 			</div>
 		</td>
 	</tr>
