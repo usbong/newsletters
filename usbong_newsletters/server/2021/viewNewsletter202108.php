@@ -497,6 +497,22 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <h5>1.1.2) shared: computer instructions to climb diagonal of right triangle tile on <a class="webServiceLink" href="http://www.github.com/usbong/story">www.github.com</a>
 </h5>
+
+<table>
+	<tr>
+		<td width="50%">
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/diagonalMovementTriangleTileWorkInProgressV20210803T1149.jpg">
+			</div>
+		</td>
+		<td width="40%">
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202108/usbongExampleSOH-CAH-TOA.jpg">
+			</div>
+		</td>
+	</tr>	
+</table>
+<br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
