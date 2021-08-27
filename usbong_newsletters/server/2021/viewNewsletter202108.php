@@ -816,6 +816,50 @@ By removing excess Graphical User Interface (GUI), such that only the Command Pr
 	</tr>
 </table>
 
+<h5>3.1.2) Software:</h5>
+--> Basic Input Output System (BIOS)<br/>
+--> added: <a class="webServiceLink" href="https://docs.microsoft.com/en-us/lifecycle/products/windows-7" target="_blank">Windows 7 Ultimate Service Pack 1</a>; Year 2009<br/>
+--> added: <a class="webServiceLink" href="https://www.java.com/en/" target="_blank">Java Virtual Machine (JVM)</a>; from None<br/>
+--> added: <a class="webServiceLink" href="https://www.python.org/downloads/" target="_blank">Python Library (version 2.7.18)</a>; from None<br/>
+--> added: <a class="webServiceLink" href="https://www.libreoffice.org/discover/calc/" target="_blank">LibreOffice Suite, e.g. Calc</a>; from None<br/>
+--> added: <a class="webServiceLink" href="https://github.com/usbong/story" target="_blank">Usbong Story</a>; from None<br/>
+--> added: <a class="webServiceLink" href="https://github.com/usbong/pagong" target="_blank">Usbong Pagong</a>; from <a class="webServiceLink" href="https://github.com/usbong/story" target="_blank">Usbong Story</a><br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			After verification, execution speed by 32-bit computer of OpenGL instructions is noticeably slow.<br/>
+			<br/>
+			<b>Reminder:</b> OpenGL contains sets of reusable instructions to execute 3D and 2D computations.<br/>
+			<br/>
+			However, due to technique used in OpenGL's instructions, even 2D computations become as noticeably slow, as those of 3D.<br/>
+			<br/>
+			To solve this, we used Simple Directmedia Layer (SDL) and SDL Image to speed-up execution of 2D computations, and removed OpenGL.<br/>
+			<br/>
+			<b>Output:</b> <a class="webServiceLink" href="https://github.com/usbong/pagong" target="_blank">Usbong Pagong</a><br/>
+			<video width="320" height="240" controls>
+			  <source src="assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4" type="video/mp4">
+			  Your browser does not support the video tag.
+			</video><br/>			
+			<br/>
+			<b>Additional Notes:</b><br/>
+			1) "Command & Conquer: Red Alert" (Year 1996): execution speed noticeably fast<br/>
+			--> even with Windows XP machines (32-bit OS);<br/>
+			<br/>
+			2) "Command & Conquer: Tiberian Sun" (Year 1999): execution speed became noticeably slow; from SDL to Non-SDL?<br/>
+			--> observed: NON-SDL and OpenGL NOT anymore noticeably slow with 64-bit Operating Systems<br/>
+			<br/>
+			3)  There now exists OpenRA: "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X."<br/>
+			--> <a class="webServiceLink" href="https://github.com/OpenRA/OpenRA" target="_blank">https://github.com/OpenRA/OpenRA</a>; last accessed: 20210821<br/>
+			--> reminder: Open Source = computer instructions are available to the public
+		</td>
+	</tr>
+</table>
+
 
 <!-- TO-DO: -update: this -->
 
