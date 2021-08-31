@@ -352,7 +352,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20210831
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
+-->
+	<base href="http://store.usbong.ph/" target="_blank">
+
   </head>
 	  <script>
 	  </script>
@@ -378,6 +382,7 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/usbong_newsletters/server/usbong-kms-connect.php');
 	$mysqli->set_charset("utf8");
 */
+
 	//TO-DO: -update: this
 
 ?>
