@@ -1,4 +1,8 @@
 # Usbong Newsletters
+## 0. Demonstration
+http://store.usbong.ph/server/2021/viewNewsletter202108.php;<br/>
+where: Newsletter (2021-08)
+
 ## 1. Screenshot
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersScreenshotV20210812T1910.png" width="80%">
 
