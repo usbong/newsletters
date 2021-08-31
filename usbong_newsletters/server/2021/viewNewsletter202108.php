@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210828
+  @date updated: 20210831
   @website address: http://www.usbong.ph
 
   Input:
@@ -605,7 +605,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 
 <h3>2) Continued to share information on Health</h3>
---> Security Defense Forece: Part 23: BMI: Body Mass Index = 体格指数 (katawan maramihang turong bilang)<br/>
+--> Security Defense Force: Part 23: BMI: Body Mass Index = 体格指数 (katawan maramihang turong bilang)<br/>
 <br/>
 BMI＝体重［kg］/ 身長［m]^2 ≧ 25のもの<br/>
 where: BMI = Body Mass Index<br/>
@@ -860,6 +860,49 @@ By removing excess Graphical User Interface (GUI), such that only the Command Pr
 	</tr>
 </table>
 
+<h3>4) Continued to share information on Security Defense Force</h3>
+Part 24: Pera, Batas<br/>
+<h4>4.1) Pera: Money History</h4>
+--> exchange of items: guitar to exchange with fish<br/>
+--> fish to exchange with vegetables<br/>
+--> currency, e.g. Philippine Peso (PHP), speeds-up system<br/>
+--> no need to find a person who is willing to exchange his fish for your guitar<br/>
+--> we can quickly exchange the guitar for a set amount of money in PHP currency<br/>
+--> A set of this set amount we can use in exchange for vegatables, et cetera<br/>
+--> <b>Reminder:</b> There also exists exchange of service<br/>
+--> <b>Example:</b> Computer repair service<br/>
+--> <b>Additional Reminder:</b> What we only need is 金 (money) from those who receive quality products and services from us.<br/>
+--> <b>observation:</b> a person in-need of money does not create quality products・services.
+
+<h4>4.2) Batas: Law Interpretation</h4>
+--> observation: from American literature, e.g. New York Times, we learn that the law was created to have variations in its interpretation.<br/>
+--> Ginawa ang batas na nakabatay sa kung paano mo nauunawaan ito.<br/>
+--> However, due to majority wins, a majority group of people has to interpret it in the same way.<br/>
+<br/>
+--> <b>Problem:</b> in select systems, only a minority has learned Maparaang Pagbibilang<br/>
+--> Therefore, the majority can be manipulated to agree in a minority's interpretation<br/>
+<br/>
+--> <b>Example:</b> A person in-need of money shall accept whatever interpretation to receive money.<br/>
+--> A person in such need may be a Father of an ill Mother.<br/>
+--> <b>Reminder:</b> maintenance medicine of a Senior Citizen can cost >= PHP5,000 per month<br/>
+<br/>
+--> However, after verification, the Teroristang Komunista had been using as weapon wireless broadcasting technology<br/>
+--> to cause the person to become ill.<br/>
+--> <b>Cause:</b> Quick Money;<br/>
+--> Kung kailangan-na-kailangan mo ng pera, maipagagawa niya sa iyo ang nais niya.<br/>
+--> Therefore, as long as the majority is in-need of money, a minority can manipulate them to accept the interpretation.<br/>
+--> <b>Reminder:</b> a pie chart can have one (1) majority and several minorities;<br/>
+--> The Teroristang Komunista is an example minority that has NOT learned Maparaang Pagbibilang<br/>
+<br/>
+--> observation: in nations, e.g. Japan, France, Germany, Switzerland,<br/>
+--> people learn to be NOT in-need of money;<br/>
+--> <b>Example:</b> eating food readily available to the common people;<br/>
+--> contributing via work to the increase in value of the hometown itself<br/>
+--> where: hometown is where you live<br/>
+<br/>
+--> The Teroristang Komunista executes the opposite of these actions,<br/>
+--> promulgating: Quick Money<br/>
+--> <b>Mungkahing Aksyon:</b> Puksain ang mga Teroristang Komunista; No need for negotiation<br/>
 
 <!-- TO-DO: -update: this -->
 
