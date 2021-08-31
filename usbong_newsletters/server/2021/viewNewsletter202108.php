@@ -374,10 +374,10 @@
 	//edited: 20171021T0640	
 		
 	//echo $_SERVER['DOCUMENT_ROOT']; //example output: C:/xampp/htdocs
+/*	//removed by Mike, 20210831
 	include($_SERVER['DOCUMENT_ROOT'].'/usbong_newsletters/server/usbong-kms-connect.php');
-
 	$mysqli->set_charset("utf8");
-
+*/
 	//TO-DO: -update: this
 
 ?>
