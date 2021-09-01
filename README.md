@@ -57,12 +57,20 @@ sudo ./etc.init.d/apache2 start</b><br/>
 
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersExampleOutputWebBrowserAddress.jpg" width="50%">
 
-#### Reminder:
+#### Reminder#1:
 We can view using a Web Browser the following web page with the list of folders and files:<br/>
 <br/>
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersFoldersAndFilesList.jpg" width="40%"><br/>
 <br/>
 <b>Web page address:</b> http://localhost/usbong_newsletters<br/>
+
+#### Reminder#2:
+After computation, when the total transactions count with the set member id, i.e. identification, is over 10,000, computer instruction `GROUP BY added_datetime_stamp` COMMAND causes computer to noticeably LOAD without finish.<br/>
+<br/>
+After verification, we need to execute computer restart to solve the problem. If computer is classified to be the Computer Server, Computer Clients do not receive the requested data, e.g. last member visit.<br/>
+<br/>
+<b>Reminder:</b> Computer Server executing on Windows 7 machine can restart in 60secs.<br/>
+However, without detection and Command to restart, service operation is stopped.<br/>
 
 #### Additional Note:
 Unless set to auto-execute when the Operating System restarts, we again execute the following Bash Shell Command using the Terminal Window:<br/>
@@ -103,7 +111,8 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>Reminder:</b> System maintenance includes among others:<br/> 
 --> corrections in computer instructions, e.g. spelling, computation,<br/>
 --> that become noticeable with increasing usage<br/>
---> Attacks from the budol-budol/carnapper/manloloko/cybercriminal/Teroristang Komunista group<br/> 
+<br/>
+--> <b>Additional Note:</b> Attacks from the budol-budol/carnapper/manloloko/cybercriminal/Teroristang Komunista group<br/> 
 --> via misuse of wireless broadcasting technology continued and still continues.<br/>
 --> <b>Example Attacks:</b> Noise pollution and physical injury<br/> 
 --> Focus transferred to partner clinic due to received request for assistance;<br/> 
