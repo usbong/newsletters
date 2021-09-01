@@ -113,8 +113,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> corrections in computer instructions, e.g. spelling, computation,<br/>
 --> that become noticeable with increasing usage<br/>
 <br/>
---> <b>Additional Note:</b> Attacks from the budol-budol/carnapper/manloloko/cybercriminal/Teroristang Komunista group<br/> 
---> via misuse of wireless broadcasting technology continued and still continues.<br/>
+--> <b>Additional Note:</b> Attacks from the budol-budol/carnapper/manloloko/cybercriminal/Teroristang Komunista group via misuse of wireless broadcasting technology continued and still continues.<br/>
 --> <b>Example Attacks:</b> Noise pollution and physical injury<br/> 
 --> Focus transferred to partner clinic due to received request for assistance;<br/> 
 --> After verification, Unit members attacked; result: delay in receiving payments.<br/> 
