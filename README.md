@@ -134,8 +134,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> <b>End:</b> 2017-07-22<br/>
 --> <b>Note:</b> Focused on increasing know-how and reusable component parts, instead of profit from items, e.g. books<br/>
 --> +added: in item pages, lessons-learned notes as part of item's value<br/>
---> observed: local books as literature NOT as read as foreign books, e.g. via New York Times Bestsellers,<br/>
---> to cause author advertize Usbong Store platform effect;<br/>
+--> observed: local books as literature NOT as read as foreign books, e.g. via New York Times Bestsellers List, to cause <b>author advertize Usbong Store platform effect</b>;<br/>
 --> reminder: books classified to be "New York Times Bestseller" total sales valued >= USD 1 Million<br/>
 --> where: USD = United States Dollar<br/>
 
