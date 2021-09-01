@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210831
+  @date updated: 20210901
   @website address: http://www.usbong.ph
 
   Input:
@@ -468,7 +468,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> reminder: There exists logical answer to logical question;<br/>
 --> where: logical = clear, not emotional<br/>
 --> where: logical questions = mga tanong ukol sa Maparaang Pagbibilang.<br/>
---> Example Question: How to execute <a class="webServiceLink" href="http://https://stackoverflow.com/questions/46258919/drawing-circle-with-gl-polygon-radius-out-of-scale" target="_blank">"Drawing circle with GL_POLYGON, radius out of scale"</a>?<br/>
+--> Example Question: How to execute <a class="webServiceLink" href="https://stackoverflow.com/questions/46258919/drawing-circle-with-gl-polygon-radius-out-of-scale" target="_blank">"Drawing circle with GL_POLYGON, radius out of scale"</a>?<br/>
 --> Example OUTPUT:</h5>
 <table>
 	<tr>
