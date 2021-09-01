@@ -72,8 +72,9 @@ After verification, we need to execute computer restart to solve the problem. If
 <b>Reminder:</b> Computer Server executing on Windows 7 machine can restart in 60secs.<br/>
 However, without detection and Command to restart, service operation is stopped.<br/>
 
-#### Additional Note:
+#### Reminder#3:
 Unless set to auto-execute when the Operating System restarts, we again execute the following Bash Shell Command using the Terminal Window:<br/>
+<br/>
 <b>sudo ./etc.init.d/apache2 start</b><br/>
 
 ## 4. Add-on Software Requirements
