@@ -69,7 +69,7 @@ After computation, when the total transactions count with the set member id, i.e
 <br/>
 After verification, we need to execute computer restart to solve the problem. If computer is classified to be the Computer Server, Computer Clients do not receive the requested data, e.g. last member visit.<br/>
 <br/>
-<b>Reminder:</b> Computer Server executing on Windows 7 machine can restart in 60secs.<br/>
+<b>Additional Note:</b> Computer Server executing on Windows 7 machine can restart in 60secs.<br/>
 However, without detection and Command to restart, service operation is stopped.<br/>
 
 #### Reminder#3:
