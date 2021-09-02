@@ -2,7 +2,7 @@
 ## 0. Demonstration
 ### 0.1. http://store.usbong.ph/server/2021/viewNewsletter202108.php;<br/>
 where: Newsletter 2021-08<br/>
-<b>Size on Disk:</b> 2.74MB = 32KB + 2.42<br/>
+<b>Size on Disk:</b> 2.74MB = 32KB + 2.42MB<br/>
 <b>note:</b> total = HTML file + resource folder;<br/>
 video file in resource folder = 1.44MB<br/> 
 <br/>
