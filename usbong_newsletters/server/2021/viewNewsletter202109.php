@@ -491,9 +491,9 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			<b>Reminder:</b> Libraries contain reusable sets of instructions<br/>
 			<br/>
-			In addition, during installation, I observed that SDL is used with computer interactive machines, e.g. XBOX, Nintendo Switch.<br/>
+			In addition, during installation, I observed that SDL is used with computer interactive machines, e.g. Microsoft XBOX, Nintendo Switch.<br/>
 			<br/>
-			We are already building reusable component parts to speed-up development of applications<br/>
+			We are already building reusable component parts to speed-up development of applications.<br/>
 			<br/>
 			<b>Example Reusable Component Part:</b><br/>
 			<b>Part Function:</b> Load compressed image files for use as texture with 2-Dimensional and 3-Dimensional objects<br/>
