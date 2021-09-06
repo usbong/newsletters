@@ -502,11 +502,78 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<b>Image File Size#1 (Font):</b> 5.6KB (from 256KB as .tga)<br/>
 			<b>Image File Size#2 (Cartoon Character):</b> 13.3KB (from 256KB as .tga)<br/>
 			<br/>
-			<b>Reminder:</b> With .png image files, we can opt to use only a select set of colors per pixel. This is instead of all available colors for each pixel of the image file. Because of this, we can set only 24 colors, with transparency, instead of over this number.
+			<b>Reminder:</b> With .png image files, we can opt to use only a select set of colors per pixel. This is instead of all available colors for each pixel of the image file. Because of this, we can set only 24 colors, with transparency, instead of over this number.<br/>
+			<br/>
+			<b>Result:</b> Smaller output image files
 		</td>
 	</tr>
 </table>
 <br/>
+<h5>1.1.2) shared: know-how to repair Computers<br/>
+--> Example Problem#1: Computer does NOT open <a class="webServiceLink" target="_blank" href="http://lubuntu.me">LUBUNTU (LTS 20.04) Operating System (OS)</a><br/>
+--> Cause: Reset Button does not correctly function;<br/>
+--> Known Problem: Defective Motherboard to cause NO Reset/Reboot Command via Software<br/>
+--> Solution:<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="60%" src="assets/images/newsletter/202109/removeSwResetHardwareCableHeadToFixProblem.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Removed Software (SW) Reset Hardware Cable Head
+			</div>
+		</td>
+	</tr>
+</table>
+</h5>
+
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			From this solution, we learn that we can remove hardware parts to fix problems that are NOT solved via software techniques.<br/>
+			<br/>
+			In addition, we can use software techniques to solve hardware parts problems.<br/>
+			<br/>
+			<b>Example:</b> Hardware Central Processing Unit (CPU) does NOT quickly compute 3-Dimensional object positions.<br/>
+			<br/>
+			<b>Solution:</b> We remove 3-Dimensional computations; In its stead, we use 2-Dimensions only.
+			<br/>
+			<br/>
+			<b>verified:</b> Defensive techniques against the budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group who continue to misuse wireless broadcasting technology to quickly get money.<br/>
+			<br/>
+			1) removing the hardware part that transmits and receives, i.e. transceiver, wireless signals, e.g. classified to be from cellular towers<br/>
+			<br/>
+			2) setting to FLIGHT/MANNER mode to remove wireless network connectivity<br/>
+			<br/>
+			<b>learned:</b> technique can assist in identifying the Communist Terrorist group's target device to cause wireless broadcasting, e.g. classified to be electric wave (電波; dempa), sound wave (音波; ompa).<br/>
+			<br/>
+			This is executed by turning OFF own telephone, such that there exists only one (1) remaining Philippine telephone that is turned ON.<br/>
+			<br/>
+			<b>Reminder:</b> This target telephone is connected internationally to Philippine network. With Unauthorized Access, telephone speakers and microphones are misused to cause noise pollution.<br/>
+			<br/>
+			<b>identified:</b> telephone to be DR. SYSON, PEDRO's to cause noise pollution during most recent host family visit in Japan (datetime stamp: 2016-04-29T14:31).<br/>
+			<br/>
+			Noise pollution included Filipino words pertaining to DR. SYSON, PEDRO does NOT explain what Amah, i.e. Lola (Father side), says, so that he ought to feel what it is like<br/>
+			<br/>
+			<b>identified:</b> Teroristang Komunista to include among others: DR. SYSON, PEDRO's younger brother, SYSON, RAMON.<br/>
+		</td>
+	</tr>
+</table>
+
+
+<br/>
+
 
 TO-DO: -update: this<br/>
 
