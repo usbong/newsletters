@@ -3,16 +3,13 @@
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
-
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210906
+  @date updated: 20210908
   @website address: http://www.usbong.ph
-
   Input:
   1) MySQL Database with Newsletter details
-
   Output:
   1) Auto-generated print-ready Newsletter that is viewable on a Computer Web Browser  
   
@@ -560,13 +557,44 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			This is executed by turning OFF own telephone, such that there exists only one (1) remaining Philippine telephone that is turned ON.<br/>
 			<br/>
-			<b>Reminder:</b> This target telephone is connected internationally to Philippine network. With Unauthorized Access, telephone speakers and microphones are misused to cause noise pollution.<br/>
+			<b>Reminder:</b> This target telephone is connected internationally with Philippine network. With Unauthorized Access, telephone speakers and microphones are misused to cause noise pollution.<br/>
 			<br/>
-			<b>identified:</b> telephone to be DR. SYSON, PEDRO's to cause noise pollution during most recent host family visit in Japan (datetime stamp: 2016-04-29T14:31).<br/>
+			<b>identified:</b> telephone to be DR. SYSON, PEDRO's to cause noise pollution during most recent Host Family visit in Japan (datetime stamp: 2016-04-29T14:31).<br/>
 			<br/>
-			Noise pollution included Filipino words pertaining to DR. SYSON, PEDRO does NOT explain what Amah, i.e. Lola (Father side), says, so that he ought to feel what it is like<br/>
+			Noise pollution included Filipino words pertaining to DR. SYSON, PEDRO does NOT explain what 阿嬤 (Amah, i.e. Lola (Father side)), says in 福建話 (hokkienoue; Southern China Fujian language), so that he ought to feel what it is like.<br/>
 			<br/>
 			<b>identified:</b> Teroristang Komunista to include among others: DR. SYSON, PEDRO's younger brother, SYSON, RAMON.<br/>
+			<br/>
+			<b>Note:</b> My Japanese Host Family and I speak and write in 日本語 (nihongo, i.e. Japanese Language).<br/>
+			<br/>
+			<b>Executed Action:</b><br/>
+			1) filed: incident reports to Law Enforcement, e.g. Office of Public Safety and Security (OPSS), <a href="https://www.cidg.pnp.gov.ph/" target="_blank">Criminal Investigation and Detection Group (CIDG)</a>.<br/>
+			--> This is to speed-up system to destroy the Teroristang Komunista group.<br/>
+			<br/>
+			<b>Observation:</b><br/>
+			1) Contrary to what this Teroristang Komunista group promulgates, their "people's language" spoken using "liannangoue", i.e. 福建話 (hokkienoue), is learnable by Filipino citizens.<br/>
+			--> observed: The children of this Teroristang Komunista group themselves have become less capable of speaking their "people's language".<br/>
+			--> Because of this, they again misuse wireless broadcasting technology, so that Filipino citizens do NOT achieve financial success greater than their group's children.<br/>
+			<br/>
+			<b>Result:</b><br/>
+			Overall skill level and know-how of Filipino people do NOT increase.<br/>
+			<br/>
+			<b>Reminder:</b><br/>
+			Teroristang Komunista are NOT Filipino citizens; They are citizens of their Teroristang Komunista group with fake Filipino citizenship.<br/>
+			<br/>
+			<b>Recommended Action:</b><br/>
+			Puksain ang Teroristang Komunista; No need for negotiation.<br/>			
+			<br/>
+			<b>Additional Note:</b><br/>
+			verified: this Teroristang Komunista have established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ);<br/>
+			<b>Cause:</b> Quick Money<br/>
+			<b>Reminder:</b> Select corporations use as basis for compensation school performance written on Transcript of Records<br/>
+			<b>Additional Reminder:</b> In addition to money, there exists exchange of goods and services<br/>
+			<br/>
+			<b>verified:</b> datetime stamp (2021-08-25T05:11), VILLARIN, RAMON's photograph is still on ateneo.edu website.<br/>
+			<b>Tanong sa Tagapagpatupad ng Batas:</b> Umamin na ba siya sa Pulis?
+			<br/>
+			<br/>
 		</td>
 	</tr>
 </table>
