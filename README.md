@@ -5,7 +5,6 @@ where: Newsletter 2021-08<br/>
 <b>Size on Disk:</b> 2.74MB = 32KB + 2.42MB<br/>
 <b>note:</b> total = HTML file + resource folder;<br/>
 video file in resource folder = 1.44MB<br/> 
-<br/>
 
 ### 0.2. http://store.usbong.ph/server/2021/EXCEL%202021-07%20-%20usbong.htm;<br/>
 where: Newsletter 2021-07<br/>
@@ -20,6 +19,12 @@ version: 2021-08-21; edited: 2021-09-01<br/>
 --> <b>note:</b> without Editor Tool, Unit member shall need to learn to use HTML, et cetera<br/>
 --> <b>where:</b> HTML = Hypertext Markup Language<br/>
 --> <b>increased HTML file size:</b> over 10x...<br/>
+
+### 0.4. Past Newsletters
+--> https://www.usbong.ph/excel/excel-2021-05<br/>
+--> <b>where:</b> Format = Year-Month; <b>example:</b> 2021-05<br/>
+--> <b>Earliest Available:</b> [2020-08](https://www.usbong.ph/excel/excel-2020-08)<br/>
+--> <b>Newest Available:</b> [2021-05](https://www.usbong.ph/excel/excel-2021-05)
 
 ## 1. Screenshot
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersScreenshotV20210812T1910.png" width="80%">
