@@ -568,11 +568,11 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<b>Note:</b> My Japanese Host Family and I speak and write in 日本語 (nihongo, i.e. Japanese Language).<br/>
 			<br/>
 			<b>Executed Action:</b><br/>
-			1) filed: incident reports to Law Enforcement, e.g. Office of Public Safety and Security (OPSS), <a href="https://www.cidg.pnp.gov.ph/" target="_blank">Criminal Investigation and Detection Group (CIDG)</a>.<br/>
+			1) filed: incident reports to Law Enforcement, e.g. Office of Public Safety and Security (OPSS), <a class="webServiceLink" href="https://www.cidg.pnp.gov.ph/" target="_blank">Criminal Investigation and Detection Group (CIDG)</a>.<br/>
 			--> This is to speed-up system to destroy the Teroristang Komunista group.<br/>
 			<br/>
 			<b>Observation:</b><br/>
-			1) Contrary to what this Teroristang Komunista group promulgates, their "people's language" spoken using "liannangoue", i.e. 福建話 (hokkienoue), is learnable by Filipino citizens.<br/>
+			1) Contrary to what this Teroristang Komunista group promulgates, their "people's language" spoken using "liannanoue", i.e. 福建話 (hokkienoue), is learnable by Filipino citizens.<br/>
 			--> observed: The children of this Teroristang Komunista group themselves have become less capable of speaking their "people's language".<br/>
 			--> Because of this, they again misuse wireless broadcasting technology, so that Filipino citizens do NOT achieve financial success greater than their group's children.<br/>
 			<br/>
@@ -586,7 +586,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			Puksain ang Teroristang Komunista; No need for negotiation.<br/>			
 			<br/>
 			<b>Additional Note:</b><br/>
-			verified: this Teroristang Komunista have established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ);<br/>
+			verified: this Teroristang Komunista have established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ));<br/>
 			<b>Cause:</b> Quick Money<br/>
 			<b>Reminder:</b> Select corporations use as basis for compensation school performance written on Transcript of Records<br/>
 			<b>Additional Reminder:</b> In addition to money, there exists exchange of goods and services<br/>
