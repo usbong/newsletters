@@ -509,7 +509,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h5>1.1.2) shared: know-how to repair Computers<br/>
 --> Example Problem#1: Computer does NOT open <a class="webServiceLink" target="_blank" href="http://lubuntu.me">LUBUNTU (LTS 20.04) Operating System (OS)</a><br/>
 --> Cause: Reset Button does not correctly function;<br/>
---> Known Problem: Defective Motherboard to cause NO Reset/Reboot Command via Software<br/>
+--> Known Problem: Defective Motherboard to cause NO Reset/Reboot Command via Software/Hardware<br/>
 --> Solution:<br/>
 <br/>
 <table>
@@ -537,34 +537,32 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-			From this solution, we learn that we can remove hardware parts to fix problems that are NOT solved via software techniques.<br/>
-			<br/>
-			In addition, we can use software techniques to solve hardware parts problems.<br/>
+			From this solution, we learn that we can remove hardware parts to fix problems that are NOT solved via software techniques. In addition, we can use software techniques to solve hardware parts problems.<br/>
 			<br/>
 			<b>Example:</b> Hardware Central Processing Unit (CPU) does NOT quickly compute 3-Dimensional object positions.<br/>
 			<br/>
 			<b>Solution:</b> We remove 3-Dimensional computations; In its stead, we use 2-Dimensions only.
 			<br/>
 			<br/>
-			<b>verified:</b> Defensive techniques against the budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group who continue to misuse wireless broadcasting technology to quickly get money.<br/>
+			<b>verified:</b> Defensive techniques against the budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group who continue to misuse wireless broadcasting technology to quickly get money.<br/>
 			<br/>
 			1) removing the hardware part that transmits and receives, i.e. transceiver, wireless signals, e.g. classified to be from cellular towers<br/>
 			<br/>
 			2) setting to FLIGHT/MANNER mode to remove wireless network connectivity<br/>
 			<br/>
-			<b>learned:</b> technique can assist in identifying the Communist Terrorist group's target device to cause wireless broadcasting, e.g. classified to be electric wave (電波; dempa), sound wave (音波; ompa).<br/>
+			<b>learned:</b> technique can assist in identifying the Teroristang Komunista group's target device to cause wireless broadcasting, e.g. classified to be electric wave (電波; dempa), sound wave (音波; ompa).<br/>
 			<br/>
 			This is executed by turning OFF own telephone, such that there exists only one (1) remaining Philippine telephone that is turned ON.<br/>
 			<br/>
 			<b>Reminder:</b> This target telephone is connected internationally with Philippine network. With Unauthorized Access, telephone speakers and microphones are misused to cause noise pollution.<br/>
 			<br/>
-			<b>identified:</b> telephone to be DR. SYSON, PEDRO's to cause noise pollution during most recent Host Family visit in Japan (datetime stamp: 2016-04-29T14:31).<br/>
+			<b>identified:</b> telephone to be DR. SYSON, PEDRO's to cause noise pollution during most recent Host/Foster Family visit in Japan (datetime stamp: 2016-04-29T14:31).<br/>
 			<br/>
 			Noise pollution included Filipino words pertaining to DR. SYSON, PEDRO does NOT explain what 阿嬤 (Amah, i.e. Lola (Father side)), says in 福建話 (hokkienoue; Southern China Fujian language), so that he ought to feel what it is like.<br/>
 			<br/>
 			<b>identified:</b> Teroristang Komunista to include among others: DR. SYSON, PEDRO's younger brother, SYSON, RAMON.<br/>
 			<br/>
-			<b>Note:</b> My Japanese Host Family and I speak and write in 日本語 (nihongo, i.e. Japanese Language).<br/>
+			<b>Note:</b> My Japanese Host/Foster Family and I speak and write in 日本語 (nihongo, i.e. Japanese Language).<br/>
 			<br/>
 			<b>Executed Action:</b><br/>
 			1) filed: incident reports to Law Enforcement, e.g. Office of Public Safety and Security (OPSS), <a class="webServiceLink" href="https://www.cidg.pnp.gov.ph/" target="_blank">Criminal Investigation and Detection Group (CIDG)</a>.<br/>
@@ -572,7 +570,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			<b>Observation:</b><br/>
 			1) Contrary to what this Teroristang Komunista group promulgates, their "people's language" spoken using "liannanoue", i.e. 福建話 (hokkienoue), is learnable by Filipino citizens.<br/>
-			--> observed: The children of this Teroristang Komunista group themselves have become less capable of speaking their "people's language".<br/>
+			--> observed: children of this Teroristang Komunista group themselves have become less capable of speaking their "people's language".<br/>
 			--> Because of this, they again misuse wireless broadcasting technology, so that Filipino citizens do NOT achieve financial success greater than their group's children.<br/>
 			<br/>
 			<b>Result:</b><br/>
@@ -587,10 +585,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<b>Additional Note:</b><br/>
 			verified: this Teroristang Komunista have established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ));<br/>
 			<b>Cause:</b> Quick Money<br/>
-			<b>Reminder:</b> Select corporations use as basis for compensation school performance written on Transcript of Records<br/>
-			<b>Additional Reminder:</b> In addition to money, there exists exchange of goods and services<br/>
+			<b>Reminder:</b> Select corporations use as basis for compensation, school performance written in the Transcript of Records.<br/>
+			<b>Additional Reminder:</b> In addition to money, there exists exchange of goods and services.<br/>
 			<br/>
-			<b>verified:</b> datetime stamp (2021-08-25T05:11), VILLARIN, RAMON's photograph is still on ateneo.edu website.<br/>
+			<b>verified:</b> datetime stamp (2021-08-25T05:11), VILLARIN, RAMON's photograph is still on <u>ateneo.edu</u> website.<br/>
 			<b>Tanong sa Tagapagpatupad ng Batas:</b> Umamin na ba siya sa Pulis?<br/>
 		</td>
 	</tr>
@@ -647,7 +645,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 1. <a class="webServiceLink" href="http://store.usbong.ph/server/2021/viewNewsletter202108.php" target="_blank">		
 store.usbong.ph/server/2021/viewNewsletter202108.php</a><br/>
 --> Computer Instructions written using among others:<br/>
---> Hypertext Markup Language (HTML), Javascript, PHP Hypertext Preprocessor (PHP)<br/>
+--> <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a>, Javascript, PHP Hypertext Preprocessor (PHP)<br/>
 			<br/>
 			<div class="newsletterImageTextDiv">
 			<img class="newsletterImage" width="96%" height="96%" src="assets/images/newsletter/202109/newsletterWrittenInHTMLEtc.jpg">
