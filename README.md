@@ -30,6 +30,10 @@ where: Newsletter 2021-07<br/>
 
 ### 0.4. Past Newsletters
 --> https://www.usbong.ph/excel/excel-2021-05<br/>
+--> Computer Instructions auto-generated from Classic to New Google Sites;<br/> 
+<br/>
+<img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/assets/images/newsletter/202109/exampleAutoUpdatedToBeNewGoogleSites.jpg" width="60%">
+<br/>
 --> <b>where:</b> Format = Year-Month; <b>example:</b> 2021-05<br/>
 --> <b>Earliest Available:</b> [2020-08](https://www.usbong.ph/excel/excel-2020-08)<br/>
 --> <b>Newest Available:</b> [2021-05](https://www.usbong.ph/excel/excel-2021-05)
