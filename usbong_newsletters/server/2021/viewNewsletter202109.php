@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210908
+  @date updated: 20210909
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -645,7 +645,9 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 1. <a class="webServiceLink" href="http://store.usbong.ph/server/2021/viewNewsletter202108.php" target="_blank">		
 store.usbong.ph/server/2021/viewNewsletter202108.php</a><br/>
 --> Computer Instructions written using among others:<br/>
---> <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a>, Javascript, PHP Hypertext Preprocessor (PHP)<br/>
+--> <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a>, <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/html_scripts.asp">Javascript</a>, <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP Hypertext Preprocessor (PHP)</a><br/>
+
+
 			<br/>
 			<div class="newsletterImageTextDiv">
 			<img class="newsletterImage" width="96%" height="96%" src="assets/images/newsletter/202109/newsletterWrittenInHTMLEtc.jpg">
