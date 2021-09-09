@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210901
+  @date updated: 20210910
   @website address: http://www.usbong.ph
 
   Input:
@@ -891,8 +891,7 @@ Part 24: Pera, Batas<br/>
 --> A person in such need may be a Father of an ill Mother.<br/>
 --> <b>Reminder:</b> maintenance medicine of a Senior Citizen can cost >= PHP5,000 per month<br/>
 <br/>
---> However, after verification, the Teroristang Komunista had been using as weapon wireless broadcasting technology<br/>
---> to cause the person to become ill.<br/>
+--> However, after verification, the Teroristang Komunista had been using as weapon wireless broadcasting technology to cause the person to become ill.<br/>
 --> <b>Cause:</b> Quick Money;<br/>
 --> Kung kailangan-na-kailangan mo ng pera, maipagagawa niya sa iyo ang nais niya.<br/>
 --> Therefore, as long as the majority is in-need of money, a minority can manipulate them to accept the interpretation.<br/>
@@ -917,7 +916,7 @@ Part 24: Pera, Batas<br/>
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
-			<a href="https://creativecommons.org/licenses/by/4.0/">
+			<a class="webServiceLink" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
 				Creative Commons Attribution License BY 4.0
 			</a>
 		</span>
