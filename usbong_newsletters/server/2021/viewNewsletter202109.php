@@ -703,15 +703,15 @@ note: total = HTML file + resource folder;<br/>
 --> We set the Inbound Internet Protocol (IP) Address that is accepted by the Computer Server to receive Commands.<br/>
 --> We need to set this due to the IP Address from PLDT is non-static, i.e. changes.<br/>
 --> <b>Reminder:</b> static IP Addresses are available, albeit with additional service fee.<br/>
---> verified: With non-static IP Addresses, attacks from the Teroristang Komunista by accessing computers in the local network becomes difficult.<br/>
---> However, data going out of the local network becomes less secure.<br/>
+--> verified: With non-static IP Addresses, attacks from the Teroristang Komunista by accessing computers in the local network become difficult.<br/>
+--> However, data going out of the local network become less secure.<br/>
 --> verified: even with increased security using HTTPS, with the "S", the Teroristang Komunista has Unauthorized Access to data on web pages.<br/>
 --> <b>Web Page Examples:</b> Usbong Store@AWS, <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">Bank of the Philippine Islands (BPI)</a><br/>
 --> verified: members of this Teroristang Komunista group who by mistake and yabang misused wireless broadcasting technology to read out-loud text on the web pages after I logged-in.<br/>
 --> identified: members to include among others:<br/>
 --> cousin, SYSON, JOAN, who is the daughter of SYSON, RAMON,<br/>
 --> also a member of this Teroristang Komunista group<br/>
---> <b>Action:</b> filed: incident reports with among others: BPI, Law Enforcement
+--> <b>Action:</b> filed: incident reports with among others: <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">BPI</a>, Law Enforcement
 <table>
 	<tr>
 		<td>
@@ -732,8 +732,10 @@ note: total = HTML file + resource folder;<br/>
 <br/>
 --> <b>Reminder:</b> We use SSH to execute Commands classified to be UNIX/UNIX-like.<br/>
 --> We use the <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Tool</a> to connect via SSH to the Computer Server hosted @AWS.<br/>
---> Computer Server Operating System (OS): <a class="webServiceLink" href="https://ubuntu.com/" target="_blank">UBUNTU</a>
-
+--> Computer Server Operating System (OS): <a class="webServiceLink" href="https://ubuntu.com/" target="_blank">UBUNTU</a><br/>
+--> Computer Client Operating System (OS): <a class="webServiceLink" href="https://docs.microsoft.com/en-us/lifecycle/products/windows-7" target="_blank">Microsoft Windows 7</a><br/>
+--> We use Computer Client to access Computer Server.
+<br/>
 <table>
 	<tr>
 		<td>
