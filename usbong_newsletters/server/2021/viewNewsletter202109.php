@@ -507,10 +507,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 
 <h5>1.1.2) shared: know-how to repair Computers<br/>
---> Example Problem#1: Computer does NOT open <a class="webServiceLink" target="_blank" href="http://lubuntu.me">LUBUNTU (LTS 20.04) Operating System (OS)</a><br/>
---> Cause: Reset Button does not correctly function;<br/>
---> Known Problem: Defective Motherboard to cause NO Reset/Reboot Command via Software/Hardware<br/>
---> Solution:<br/>
+--> <b>Example Problem#1:</b> Computer does NOT open <a class="webServiceLink" target="_blank" href="http://lubuntu.me">LUBUNTU (LTS 20.04) Operating System (OS)</a><br/>
+--> <b>Cause:</b> Reset Button does not correctly function;<br/>
+--> <b>Known Problem:</b> Defective Motherboard to cause NO Reset/Reboot Command via Software/Hardware<br/>
+--> <b>Solution:</b><br/>
 <br/>
 <table>
 	<tr>
@@ -593,14 +593,14 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</td>
 	</tr>
 </table>
-<h5>--> Example Problem#2: Computer opens Ubuntu BusyBox<br/>
+<h5>--> <b>Example Problem#2:</b> Computer opens Ubuntu BusyBox<br/>
 --> This is instead of <a class="webServiceLink" target="_blank" href="http://lubuntu.me">LUBUNTU (LTS 20.04) Operating System (OS)</a>.<br/>
 <br/>
 <table>
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="60%" src="assets/images/newsletter/202109/fileSystemErrorFsckCommandToFix.jpg">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202109/fileSystemErrorFsckCommandToFix.jpg">
 			</div>
 		</td>
 	</tr>
@@ -622,7 +622,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="60%" src="assets/images/newsletter/202109/exampleAutoUpdatedToBeNewGoogleSites.jpg">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202109/exampleAutoUpdatedToBeNewGoogleSites.jpg">
 			</div>
 		</td>
 	</tr>
@@ -679,6 +679,113 @@ note: total = HTML file + resource folder;<br/>
 		</td>
 	</tr>
 </table>
+<h3>4) Continued to share information on Security Defense Force</h3>
+<h4>4.1) Example: Usbong Store @Amazon Web Services (AWS)</h4>
+--> AWS Console: User Interface Tool to update Computer Server settings<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsConsoleSecurityInboundRulesHalimbawa.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Halimbawa: AWS Console Security Inbound Rules
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> We set the Inbound Internet Protocol (IP) Address that is accepted by the Computer Server to receive Commands.<br/>
+--> We need to set this due to the IP Address from PLDT is non-static, i.e. changes.<br/>
+--> <b>Reminder:</b> static IP Addresses are available, albeit with additional service fee.<br/>
+--> verified: With non-static IP Addresses, attacks from the Teroristang Komunista by accessing computers in the local network becomes difficult.<br/>
+--> However, data going out of the local network becomes less secure.<br/>
+--> verified: even with increased security using HTTPS, with the "S", the Teroristang Komunista has Unauthorized Access to data on web pages.<br/>
+--> <b>Web Page Examples:</b> Usbong Store@AWS, <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">Bank of the Philippine Islands (BPI)</a><br/>
+--> verified: members of this Teroristang Komunista group who by mistake and yabang misused wireless broadcasting technology to read out-loud text on the web pages after I logged-in.<br/>
+--> identified: members to include among others:<br/>
+--> cousin, SYSON, JOAN, who is the daughter of SYSON, RAMON,<br/>
+--> also a member of this Teroristang Komunista group<br/>
+--> <b>Action:</b> filed: incident reports with among others: BPI, Law Enforcement
+<table>
+	<tr>
+		<td>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsConsoleSecurityInboundRulesHalimbawaFocusedSSH.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Halimbawa: Secure Shell (SSH) Security Inbound Rules
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> <b>Reminder:</b> We use SSH to execute Commands classified to be UNIX/UNIX-like.<br/>
+--> We use the <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Tool</a> to connect via SSH to the Computer Server hosted @AWS.<br/>
+--> Computer Server Operating System (OS): <a class="webServiceLink" href="https://ubuntu.com/" target="_blank">UBUNTU</a>
+
+<table>
+	<tr>
+		<td>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsPuttyTerminalHalimbawaPart0.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Halimbawa: Computer Server Access via Secure Shell (SSH) 
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			We reuse the Computer Server @AWS to execute Web Page redirection.<br/>
+			<br/>
+			Example Input Web Address: <a class="webServiceLink" target="_blank" href="school.usbong.ph">school.usbong.ph</a><br/>
+			Example Output Web Address: <a class="webServiceLink" target="_blank" href="www.usbong.ph">www.usbong.ph</a><br/>
+			<br/>
+			We execute this action by editing the .htaccess file.<br/>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="96%" height="96%" src="assets/images/newsletter/202109/awsPuttyEditDotHtAccessHalimbawaPart1.png">
+			</div>
+			<br/>
+			We edit the .htaccess file using the <a class="webServiceLink" target="_blank" href="http://manpages.ubuntu.com/manpages/bionic/man1/nvi.1.html">vi Text Editor tool</a>.<br/>
+			This tool is already included with <a class="webServiceLink" href="https://ubuntu.com/" target="_blank">UBUNTU OS</a>.<br/>
+			<br/>
+			<b>Example Commands:</b><br/>
+			<b>i key</b> : INSERT character state<br/>
+			<b>ESC key</b> : CANCEL<br/>
+			<b>x key</b> : DELETE target character<br/>
+			<b>dd key</b> : DELETE target row of characters<br/>
+			<b>wq: keys</b> : WRITE, QUIT; save file before exit Editor<br/>
+			<b>q: keys</b> : QUIT; exit Editor without saving file<br/>	
+		</td>
+	</tr>
+</table>
+<br/>
+
 <br/>
 <br/>
 TO-DO: -update: this<br/>
