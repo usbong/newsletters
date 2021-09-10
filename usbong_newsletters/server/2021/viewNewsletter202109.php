@@ -787,6 +787,74 @@ note: total = HTML file + resource folder;<br/>
 	</tr>
 </table>
 <br/>
+--> We use <a class="webServiceLink" href="https://winscp.net/eng/index.php" target="_blank">WinSCP</a> Tool to quickly transfer files from Computer Client to Server.<br/>
+--> Computer Client Operating System (OS): <a class="webServiceLink" href="https://docs.microsoft.com/en-us/lifecycle/products/windows-7" target="_blank">Microsoft Windows 7</a><br/>
+--> Computer Server Operating System (OS): <a class="webServiceLink" href="https://ubuntu.com/" target="_blank">UBUNTU</a><br/>
+<table>
+	<tr>
+		<td>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsWinscpFileTransferHalimbawaPart1.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Halimbawa: WinSCP Tool Computer Client to Server
+			</div>
+		</td>
+	</tr>
+	
+<tr>
+		<td>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202109/awsWinscpFileTransferHalimbawaPart2.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			WinSCP File Transferring from Computer Client to Server
+			</div>
+		</td>
+	</tr>	
+</table>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			After using as customer both <a class="webServiceLink" href="https://www.amazon.com/" target="_blank">Amazon.com</a> and <a class="webServiceLink" href="https://aws.amazon.com/console/" target="_blank">Amazon Web Services (AWS)</a>, I learned that a key message of the corporation is <b>to value reading</b>.<br/>
+			<br/> 
+			This action can be observed in the following Amazon services:<br/>
+			1) <b>Electronic Books</b> that I purchase for use with the Electronic Book Reader Kindle.<br/>
+			<br/>			
+			2) <b>AWS documentation</b>, which the reader has to learn to divide into usable parts due to being a long text of know-how.<br/> 
+			--> <b>Reminder:</b> Even the Terms and Agreements, there exist value, e.g. the techniques/technologies used by the service.<br/>
+			<br/>
+			<b>Recommended Actions:</b><br/> 
+			1) Stop salespersons from hurrying you into writing your signature without reading the Terms and Conditions. I observe this behavior even with local banks.<br/>
+			<br/>
+			2) Continue building an Electronic Book Reader with Human-Computer Interactivity.<br/>
+			<br/>
+			<b>Additional Note:</b><br/>
+			1) With AWS, another key message that we can learn is this:<br/>
+			--> Its know-how causes people to rank-up due to incorrect usage results in additional fees.<br/>
+			--> <b>Example:</b> If you do NOT turn OFF an unused Elastic IP Address, AWS shall continue to add it in your billing statement. The additional cost can increase to be PHP1,000 per month.<br/>
+			--> where: Elastic IP Address = static IP Address that auto-links to the correct non-static IP Address of Computer Server when it changes.<br/>
+			<br/.
+			--> <b>Reminder:</b> Unit Chiefs are financially accountable for the project. Unit members tend to prefer NOT to rank-up to become a Unit Chief.
+		</td>
+	</tr>
+</table>
+<br/>
 
 <br/>
 <br/>
