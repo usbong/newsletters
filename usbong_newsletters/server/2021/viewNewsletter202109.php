@@ -442,7 +442,7 @@
 	<br>	
 	<div class="newsletterTitle">
 		↑ KNOW-HOW causes<br/>
-		↑ available PRODUCTS・SERVICES<br/>
+		RANK-UP TO BE UNIT CHIEF<br/>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -837,12 +837,12 @@ note: total = HTML file + resource folder;<br/>
 			1) <b>Electronic Books</b> that I purchase for use with the Electronic Book Reader Kindle.<br/>
 			<br/>			
 			2) <b>AWS documentation</b>, which the reader has to learn to divide into usable parts due to being a long text of know-how.<br/> 
-			--> <b>Reminder:</b> Even the Terms and Agreements, there exist value, e.g. the techniques/technologies used by the service.<br/>
+			--> <b>Reminder:</b> Even the Terms and Agreements contain value, e.g. the techniques/technologies used by the service.<br/>
 			<br/>
 			<b>Recommended Actions:</b><br/> 
 			1) Stop salespersons from hurrying you into writing your signature without reading the Terms and Conditions. I observe this behavior even with local banks.<br/>
 			<br/>
-			2) Continue building an Electronic Book Reader with Human-Computer Interactivity.<br/>
+			2) Continue building Electronic Book Readers with Human-Computer Interactivity.<br/>
 			<br/>
 			<b>Additional Note:</b><br/>
 			1) With AWS, another key message that we can learn is this:<br/>
