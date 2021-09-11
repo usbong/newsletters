@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210910
+  @date updated: 20210911
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -583,7 +583,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			Puksain ang Teroristang Komunista; No need for negotiation.<br/>			
 			<br/>
 			<b>Additional Note:</b><br/>
-			verified: this Teroristang Komunista have established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ));<br/>
+			verified: this Teroristang Komunista group has established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ));<br/>
 			<b>Cause:</b> Quick Money<br/>
 			<b>Reminder:</b> Select corporations use as basis for compensation, school performance written in the Transcript of Records.<br/>
 			<b>Additional Reminder:</b> In addition to money, there exists exchange of goods and services.<br/>
@@ -767,6 +767,8 @@ note: total = HTML file + resource folder;<br/>
 			Example Input Web Address: <a class="webServiceLink" target="_blank" href="school.usbong.ph">school.usbong.ph</a><br/>
 			Example Output Web Address: <a class="webServiceLink" target="_blank" href="www.usbong.ph">www.usbong.ph</a><br/>
 			<br/>
+			<b>Reminder:</b> We reuse this technique to shorten Web Addresses.<br/>
+			<br/>
 			We execute this action by editing the .htaccess file.<br/>
 			<br/>
 			<div class="newsletterImageTextDiv">
@@ -840,9 +842,12 @@ note: total = HTML file + resource folder;<br/>
 			--> <b>Reminder:</b> Even the Terms and Agreements contain value, e.g. the techniques/technologies used by the service.<br/>
 			<br/>
 			<b>Recommended Actions:</b><br/> 
-			1) Stop salespersons from hurrying you into writing your signature without reading the Terms and Conditions. I observe this behavior even with local banks.<br/>
+			1) Stop salespersons from hurrying you into writing your signature without reading the Terms and Agreements. I observe this behavior even with local banks.<br/>
 			<br/>
-			2) Continue building Electronic Book Readers with Human-Computer Interactivity.<br/>
+			2) Continue to increase know-how to build Electronic Book Readers with Human-Computer Interactivity<br/>
+			--> <b>Example:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/newsletters">UsbongLikhaApp (mobile): "Nasaan ang Langit?"</a><br/>
+			--> verify: <a class="webServiceLink" target="_blank" href="https://github.com/usbong/documentation/blob/master/Usbong/R%26D/Notes/ComputerInteractiveLessonsLearned/GHOSTS'N%20GOBLINS.md">CAPCOM GHOSTS'N GOBLINS (G'NG) Year 1985 Family Computer</a>
+			<br/>
 			<br/>
 			<b>Additional Note:</b><br/>
 			1) With AWS, another key message that we can learn is this:<br/>
