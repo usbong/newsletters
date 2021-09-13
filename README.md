@@ -38,6 +38,12 @@ where: Newsletter 2021-07<br/>
 --> <b>Earliest Available:</b> [2020-08](https://www.usbong.ph/excel/excel-2020-08)<br/>
 --> <b>Newest Available:</b> [2021-05](https://www.usbong.ph/excel/excel-2021-05)
 
+### 0.5 Print-ready version: Foldable & Not Yet Foldable
+https://github.com/usbong/KMS/tree/master/Newsletters<br/>
+--> <b>Format:</b> OpenDocument Text<br/>
+--> <b>Editor Tool:</b> LibreOffice Writer<br/>
+--> <b>Download:</b> [LibreOffice](https://www.libreoffice.org/download/download/)
+
 ## 1. Screenshot
 <img src="https://github.com/usbong/newsletters/blob/main/usbong_newsletters/screenshots/usbongNewslettersScreenshotV20210812T1910.png" width="80%">
 
