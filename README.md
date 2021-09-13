@@ -141,7 +141,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 --> Focus transferred to partner clinic due to received request for assistance;<br/> 
 --> After verification, Unit members attacked; result: delay in receiving payments.<br/> 
 
-#### 6.1.1. [UsbongLikhaApp (mobile)](https://github.com/usbong/usbong_pagtsing); Where is Heaven?: 60 days
+#### 6.1.1. [UsbongLikhaApp (mobile)](https://github.com/usbong/usbong_pagtsing); Nasaan ang Langit? (Where is Heaven?): 60 days
 <img src="https://github.com/usbong/newsletters/blob/main/res/whereIsHeavenFilipino.jpg" width="20%">
 --> <b>Start:</b> 2017-10-21<br/>
 --> <b>End:</b> 2017-12-20<br/>
