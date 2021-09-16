@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210911
+  @date updated: 20210916
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -548,7 +548,11 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			1) removing the hardware part that transmits and receives, i.e. transceiver, wireless signals, e.g. classified to be from cellular towers<br/>
 			<br/>
-			2) setting to FLIGHT/MANNER mode to remove wireless network connectivity<br/>
+			2) setting to FLIGHT mode to remove wireless network connectivity<br/>
+			--> reminder: MANNER mode = SILENT mode;<br/> 
+			--> wireless network connectivity still ACTIVE.<br/>
+			--> verified: misuse of wireless network to cause mobile telephone to output excess electric wave, heat, et cetera near it<br/>
+			--> <b>Recommended Reading</b>: <a class="webServiceLink" href="https://www.bbc.com/future/article/20130227-what-is-killing-smartphones" target="_blank">www.bbc.com/future/article/20130227-what-is-killing-smartphones</a>; last accessed: 20210915<br/>
 			<br/>
 			<b>learned:</b> technique can assist in identifying the Teroristang Komunista group's target device to cause wireless broadcasting, e.g. classified to be electric wave (電波; dempa), sound wave (音波; ompa).<br/>
 			<br/>
@@ -679,54 +683,100 @@ note: total = HTML file + resource folder;<br/>
 		</td>
 	</tr>
 </table>
-<h3>4) Continued to share information on Security Defense Force</h3>
-<h4>4.1) Example: Usbong Store @Amazon Web Services (AWS)</h4>
---> AWS Console: User Interface Tool to update Computer Server settings<br/>
+
+
+<h4>1.3) executed: system update to speed-up report re-verification</h4>
+<h5>
+--> 1.3.1) added: computer instructions to auto-add Official Receipts (OR) numbers to transactions from previous days<br/>
+--> <b>reminder:</b> select patients return to partner MOSC to request for OR to receive company reimbursement, et cetera<br/>
+--> Patients tend to NOT request for OR to eliminate waiting time inside clinic<br/>
+</h5>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		<b>Recommended Actions:</b><br/> 
+		1) verify: as Unit member used time to finish tasks<br/>
+		--> execute: actions to speed-up system<br/>
+		<br/>
+		If INCORRECT, shall increase delay to finish tasks.<br/>
+		If CORRECT, shall decrease, if NOT eliminate, delay to finish tasks.<br/>
+		<br/>
+		2) verify: ADIDAS History<br/>
+		--> goal: assist Football Players as Unit members by updating sport shoes<br/>
+		--> Assisting Unit Member NOT sufficient to be Football Player.<br/>
+		<br/>				
+		<b>Additional Notes:</b><br/> 
+		1) There exists increased value with multiple Unit members using system.<br/>
+		<br/>
+		2) Preferable to Worker than select Computer Interactive systems?<br/>
+		2.1) <b>Example:</b> New Game+ of Super Mario Odyssey;<br/> 
+		--> where: Unit member collects all remaining items by finishing tasks<br/>
+		--> whose value to worker efficiency NOT clear<br/>
+		2.2) <b>Example:</b> Super Mario Galaxy 2: Collect 10,000 coins Saru Challenge;<br/> 		
+		--> where: Saru = Monkey in nihongo<br/>
+		--> where: To finish, shall need to execute consecutive hits;<br/>
+		--> however, due to created 3-Dimensional world system,<br/> 
+		--> positions of moving targets difficult to identify<br/>
+		<br/>
+		<b>Reminder:</b><br/>
+		1) We CAN STOP use of time to execute tasks<br/> 
+		--> whose value is NOT clear;<br/>
+		--> where due to created system, tasks are inefficiently finished<br/>
+		--> With this action, we classify system to be SOLVED.<br/>
+		<br/>
+		<b>Examples:</b><br/>
+		1.1) School Examination:<br/> 
+		--> Guided Preparation Deliberately Insufficient<br/>
+		1.2) Securities & Exchange Commission (SEC):<br/>
+		--> Online Submission has System Error, Recycled Paper NOT accepted<br/>
+		1.3) Human Communication:<br/>
+		--> Unclear with Attacks to cause Physical Injury
+	</tr>
+</table>
+
+<h5>
+--> 1.3.2) added: computer instructions to auto-generate Summary Report for the End Day<br/>
+--> This action eliminates excess steps for Unit members to re-verify Cash Register's output report.<br/>
 <br/>
 <table>
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsConsoleSecurityInboundRulesHalimbawa.png">
+			<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202109/endDaySummaryReportHalimbawa.png">
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-			Halimbawa: AWS Console Security Inbound Rules
+			Auto-generated: Example End Day Summay Report
 			</div>
 		</td>
 	</tr>
 </table>
 <br/>
---> We set the Inbound Internet Protocol (IP) Address that is accepted by the Computer Server to receive Commands.<br/>
---> We need to set this due to the IP Address from <a class="webServiceLink" href="https://beta.pldt.com/" target="_blank">PLDT</a> is non-static, i.e. changes.<br/>
---> <b>Reminder:</b> static IP Addresses are available, albeit with additional service fee.<br/>
---> verified: With non-static IP Addresses, attacks from the Teroristang Komunista by accessing computers in the local network become difficult.<br/>
---> However, data going out of the local network become less secure.<br/>
---> verified: even with increased security using HTTPS, with the "S", the Teroristang Komunista has Unauthorized Access to data on web pages.<br/>
---> <b>Web Page Examples:</b> Usbong Store@AWS, <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">Bank of the Philippine Islands (BPI)</a><br/>
---> verified: members of this Teroristang Komunista group who by mistake and yabang misused wireless broadcasting technology to read out-loud text on the web pages after I logged-in.<br/>
---> identified: members to include among others:<br/>
---> cousin, SYSON, JOAN, who is the daughter of SYSON, RAMON,<br/>
---> also a member of this Teroristang Komunista group<br/>
---> <b>Action:</b> filed: incident reports with among others: <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">BPI</a>, Law Enforcement
-<table>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
 	<tr>
-		<td>
-			<br/>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsConsoleSecurityInboundRulesHalimbawaFocusedSSH.png">
-			</div>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Halimbawa: Secure Shell (SSH) Security Inbound Rules
-			</div>
-		</td>
+		<td class="noteTableTextColumn">
+		At present, the Cash Register prints as output the End Day Report. We verify this with the Computer's Report.<br/>
+		<br/>
+		We experience delay in re-verification to reach 60mins due to among others:<br/>
+		1) UNCLEAR printing of Cash Register's report<br/>
+		<br/>
+		We executed the following actions among others to solve the problem:<br/>
+		1) replaced Cash Register's Printer ink<br/>
+		2) cleaned Cash Register's Printer part<br/>
+		3) requested assistance from Repair Service<br/>
+		<br/>
+		<b>Output:</b> Actions NOT yet effective to solve the problem. 		
 	</tr>
 </table>
 <br/>
