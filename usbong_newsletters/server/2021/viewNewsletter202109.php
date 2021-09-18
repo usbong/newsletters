@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210916
+  @date updated: 20210919
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -687,7 +687,7 @@ note: total = HTML file + resource folder;<br/>
 
 <h4>1.3) executed: system update to speed-up report re-verification</h4>
 <h5>
---> 1.3.1) added: computer instructions to auto-add Official Receipts (OR) numbers to transactions from previous days<br/>
+--> 1.3.1) added: computer instructions to add Official Receipts (OR) numbers to transactions from previous days<br/>
 --> <b>reminder:</b> select patients return to partner MOSC to request for OR to receive company reimbursement, et cetera<br/>
 --> Patients tend to NOT request for OR to eliminate waiting time inside clinic<br/>
 </h5>
@@ -779,6 +779,102 @@ note: total = HTML file + resource folder;<br/>
 		<b>Output:</b> Actions NOT yet effective to solve the problem. 		
 	</tr>
 </table>
+
+<h5>
+--> 1.3.3) replaced: PLDT Post-paid SIM Card used with PLDT Android telephone with GLOBE's<br/>
+--> verified: with PLDT Service Unit along Marcos Highway, there exists "dead-spot", i.e. no or fluctuating network signal, at Sta. Lucia East Grand Mall area;<br/>
+-->  verified: action solved unable to successfully send SMS Report at parter Sta. Lucia Healthcare Center (SLHCC) Unit.<br/>
+--> <b>recommended:</b> Unit member to bring Android telephone outside Orthopedic & Physical Therapy Unit near the Unit's door or if necessary, near the entrance/exit.<br/>
+--> <b>reminder:</b> SLHCC Unit at basement floor.<br/>
+</h5>
+
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202109/recycledAndroidHTCTelephone.jpg">
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202109/unableToSendSMSFixedByReplacingPLDTSIMWithGlobeCard.jpg">
+			</div>
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Recycled Android HTC Telephone
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Unable to Send SMS;<br/>
+			Fixed by Replacing SIM Card<br/>
+			</div>
+		</td>
+
+	</tr>	
+</table>
+<br/>
+<h5>
+--> put: PLDT Post-paid SIM Card in available reserve SAMSUNG non-Android telephone<br/>
+--> now used at MOSC HQ for patient notifications, e.g. computation corrections.
+</h5>
+
+<h3>4) Continued to share information on Security Defense Force</h3>
+<h4>4.1) Example: Usbong Store @Amazon Web Services (AWS)</h4>
+--> AWS Console: User Interface Tool to update Computer Server settings<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsConsoleSecurityInboundRulesHalimbawa.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Halimbawa: AWS Console Security Inbound Rules
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> We set the Inbound Internet Protocol (IP) Address that is accepted by the Computer Server to receive Commands.<br/>
+--> We need to set this due to the IP Address from <a class="webServiceLink" href="https://beta.pldt.com/" target="_blank">PLDT</a> is non-static, i.e. changes.<br/>
+--> <b>Reminder:</b> static IP Addresses are available, albeit with additional service fee.<br/>
+--> verified: With non-static IP Addresses, attacks from the Teroristang Komunista by accessing computers in the local network become difficult.<br/>
+--> However, data going out of the local network become less secure.<br/>
+--> verified: even with increased security using HTTPS, with the "S", the Teroristang Komunista has Unauthorized Access to data on web pages.<br/>
+--> <b>Web Page Examples:</b> Usbong Store@AWS, <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">Bank of the Philippine Islands (BPI)</a><br/>
+--> verified: members of this Teroristang Komunista group who by mistake and yabang misused wireless broadcasting technology to read out-loud text on the web pages after I logged-in.<br/>
+--> identified: members to include among others:<br/>
+--> cousin, SYSON, JOAN, who is the daughter of SYSON, RAMON,<br/>
+--> also a member of this Teroristang Komunista group<br/>
+--> <b>Action:</b> filed: incident reports with among others: <a class="webServiceLink" href="https://www.bpi.com.ph/" target="_blank">BPI</a>, Law Enforcement
+<table>
+	<tr>
+		<td>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202109/awsConsoleSecurityInboundRulesHalimbawaFocusedSSH.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Halimbawa: Secure Shell (SSH) Security Inbound Rules
+			</div>
+		</td>
+	</tr>
+</table>
+
+
 <br/>
 --> <b>Reminder:</b> We use SSH to execute Commands classified to be UNIX/UNIX-like.<br/>
 --> We use the <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Tool</a> to connect via SSH to the Computer Server hosted @AWS.<br/>
