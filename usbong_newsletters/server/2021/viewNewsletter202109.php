@@ -6,8 +6,9 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210919
+  @date updated: 20210924
   @website address: http://www.usbong.ph
+
   Input:
   1) MySQL Database with Newsletter details
   Output:
@@ -349,11 +350,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+ //edited by Mike, 20210831
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<!-- //edited by Mike, 20210831
+<!--
 	<base href="http://store.usbong.ph/" target="_blank">
 -->
-
   </head>
 	  <script>
 	  </script>
@@ -584,7 +585,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			Teroristang Komunista are NOT Filipino citizens; They are citizens of their Teroristang Komunista group with fake Filipino citizenship.<br/>
 			<br/>
 			<b>Recommended Action:</b><br/>
-			Puksain ang Teroristang Komunista; No need for negotiation.<br/>			
+			Puksain ang mga Teroristang Komunista; No need for negotiation.<br/>			
 			<br/>
 			<b>Additional Note:</b><br/>
 			verified: this Teroristang Komunista group has established connections with so-called "elite" schools, e.g. Ateneo de Manila University (ADMU) via former President, VILLARIN, RAMON (pari ng Society of Jesus (SJ));<br/>
@@ -592,8 +593,19 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<b>Reminder:</b> Select corporations use as basis for compensation, school performance written in the Transcript of Records.<br/>
 			<b>Additional Reminder:</b> In addition to money, there exists exchange of goods and services.<br/>
 			<br/>
+			--> On 2017-12-11 Evening, until 12:00MN (MONDAY), VILLARIN, RAMON shouted "STRIP", i.e. hubad, to a female whom I was able to identify due to being my former student when I was still teaching at ADMU.<br/>
+			--> The wireless broadcasting reached our place of residence and workplace:<br/> 
+			--> <b>#2 E. Manalo Ave., Barangay Sto. Niño, 1820, Marikina City</b><br/>
+			--> This shout was answered by basketball player, TANG, TYRONE, with "ANG KAILANGAN NIYA SUPPORT..."<br/>
+			--> However, after verification, he and his friend, HAW, KEITH, also use wireless broadcasting technology to make noise pollution;<br/>
+			--> identified: both due to being my classmates at Xavier High School, San Juan, Greenhills.<br/>
+			--> <b>Example Incident:</b> On 2017-11-03, their noise pollution reached my vehicle going (19:00) and while at ROBINSONS MAGNOLIA (20:00).<br/>
+			--> learned: during the return home, electricity in vehicle battery has become insufficient to POWER the vehicle.<br/>
+			--> filed: incident report to Security Unit of ROBINSONS MAGNOLIA on that evening.<br/>			
+			<br/>
 			<b>verified:</b> datetime stamp (2021-08-25T05:11), VILLARIN, RAMON's photograph is still on <u>ateneo.edu</u> website.<br/>
 			<b>Tanong sa Tagapagpatupad ng Batas:</b> Umamin na ba siya sa Pulis?<br/>
+			Umamin na rin ba sina TANG, TYRONE, HAW, KEITH, atbp sa Pulis?<br/>
 		</td>
 	</tr>
 </table>
