@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211001
+  @date updated: 20211010
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -455,18 +455,45 @@
 	OCTOBER  2021
 	</div>
 	<br>
-	<br>
-		
-TO-DO: -update: this<br>
-	<br>
-	<br>	
-	
+	<br>			
 
 To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specialty Clinic (MOSC) requested Usbong's services to automate routine, monotonous tasks and share with unit members know-how on computers.
 
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
-<h5>1.1.1) shared: answers to questions via <a class="webServiceLink" href="http://www.stackoverflow.com" target="_blank">www.stackoverflow.com</a>, <a class="webServiceLink" href="http://www.askubuntu.com" target="_blank">www.askubuntu.com</a>, et cetera<br/>
+<h5>1.1.1) shared: with Unit Members who have Middle~High School Level children, key points for concentration: Maparaang Pagbibilang & Wikang Filipino<br/>
+--> Maparaang Pagbibilang Example: with Trigonometry, learn: correct usage of Triangles<br/>
+--> Wikang Filipino Example: learn: from parents and/or grandparents, correct usage of language<br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		I was classified to be slow in English and Math back when students were classified to be such in elementary school.<br/>
+		<br/>
+		I learned we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
+		<br/>
+		With writing computer instructions to execute 3-Dimensional computations, it is faster to write the Command and verify with the Computer the output to get the correct answer. This is instead of using majority of available time to attempt to identify output positions without at all sending the Command to the computer to confirm the output from the inputs.<br/>
+		<br/>
+		As with the German Luger Gun, as a weapon, it is more effective and efficient to destroy the target, e.g. Teroristang Komunista, by empowering Unit Member as part of Law Enforcement to execute multiple rapid-fire shots. This is instead of having only one (1) shot before need for ammo reload. In this case, the Unit member receives immediate feedback of usage of weapon to destory the target or not. However, if target is NOT yet destroyed, quick execution of updated action for feedback is necessary.<br/>
+		<br/>
+		In Japan, Year 2008, I observed Law Enforcement to NOT use Guns as weapon. It was NOT needed due to system has been updated to cause Japanese citizens to value honest work.<br/>
+		<br/>
+		Therefore, the Teroristang Komunista shall NOT be Japanese citizens. In their stead, the Teroristang Komunista shall be foreign nationals. After identification, law enforcement can be executed against these foreign nationals by among others: deportation.		
+		</td>
+	</tr>
+</table>
+
+<br/>
+<br/>
+TO-DO: -update: this<br/>
+	<br/>
+	<br/>
+
+
 --> Example Question: <a class="webServiceLink" href="https://askubuntu.com/questions/786300/how-to-install-all-sdl-libraries-in-ubuntu-14-04/1358288#1358288" target="_blank">"How to install all SDL libraries in Ubuntu 14.04?"</a>?<br/>
 --> where: SDL = Simple Directmedia Layer (SDL)<br/>
 --> Example Answer (executed on <a class="webServiceLink" href="http://www.lubuntu.me">LUBUNTU (LTS 20.04)</a> machine):<br/>
