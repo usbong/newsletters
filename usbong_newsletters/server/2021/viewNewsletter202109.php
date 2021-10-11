@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210924
+  @date updated: 20211011
   @website address: http://www.usbong.ph
 
   Input:
@@ -350,7 +350,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!--
  //edited by Mike, 20210831
+--> 
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
 <!--
 	<base href="http://store.usbong.ph/" target="_blank">
@@ -1019,11 +1021,6 @@ note: total = HTML file + resource folder;<br/>
 </table>
 <br/>
 
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
 
 	<br>
 	<br>
