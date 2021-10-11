@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211011
+  @date updated: 20211012
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -357,7 +357,14 @@
 							resize: none;
 
 							height: 100%;
-						}							
+						}	
+
+						span.spanFileNotFound
+						{
+							width: 100%;
+							padding-left: 60px;
+							color: rgb(252,60,3);
+						}
     /**/
     </style>
     <title>
@@ -494,10 +501,75 @@
 			</td>
 		</tr>
 	</table>
+	<br/>
+	<br/>
+<?php
+	//added by Mike, 20211012
+	//auto-read: newsletters
+	//find keyphrase from searchbox
+	
+	$filename="C:\\xampp\\htdocs\\usbong_kms\\usbongTemplates\\Cashier\\moscGetSalesReportForEndDayLibreOfficeCalc.csv";
 
-	<br>
-	<br>
-	<br />
+	ini_set('auto_detect_line_endings', true);
+
+	//added by Mike, 20200523
+	if (!file_exists($filename)) {
+		//add the day of the week
+		$sDateToday = Date('Y-m-d, l');
+
+		echo "<span class='spanFileNotFound'>
+				USBONG: We did NOT find the file. Please re-verify filename to be correct.
+			  </span><br/><br/>";
+//		echo "<span class='spanFileNotFound'>Filname:</span><br/><br/>";
+		echo "<table class='searchTable'>";						
+		echo "<tr>";
+			echo "<td>";		
+			echo $filename;
+			echo "</td>";		
+		echo "</tr>";		
+		echo "</table>";
+		echo "<br/>";
+	}
+	else {
+		echo "<table class='searchTable'>";						
+
+		//Reference: https://stackoverflow.com/questions/9139202/how-to-parse-a-csv-file-using-php;
+		//answer by: thenetimp, 20120204T0730
+		//edited by: thenetimp, 20170823T1704
+
+		$iRowCount = -1; //we later add 1 to make start value zero (0)
+		//if (($handle = fopen("test.csv", "r")) !== FALSE) {
+		if (($handle = fopen($filename, "r")) !== FALSE) {
+		  while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+			
+			//we add -1 for the computer to not include the excess cell due to the ending \n
+			$num = count($data) -1;
+					
+			$iRowCount++;
+
+			echo '<tr class="row">';
+
+			for ($iColumnCount=0; $iColumnCount <= $num; $iColumnCount++) {
+				$cellValue = utf8_encode($data[$iColumnCount]);
+				
+				echo '<td>';
+				echo $cellValue;				
+				echo '</td>';				
+			}
+
+			echo '</tr>';
+		  }
+
+		  fclose($handle);
+		}
+		
+		echo "</table>";		
+	}	
+?>
+
+	<br/>
+	<br/>
+	<br/>
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
