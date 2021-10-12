@@ -508,7 +508,23 @@
 	//auto-read: newsletters
 	//find keyphrase from searchbox
 	
-	$filename="C:\\xampp\\htdocs\\usbong_kms\\usbongTemplates\\Cashier\\moscGetSalesReportForEndDayLibreOfficeCalc.csv";
+	//edited by Mike, 20211012
+//	$filename="C:\\xampp\\htdocs\\usbong_kms\\usbongTemplates\\Cashier\\moscGetSalesReportForEndDayLibreOfficeCalc.csv";
+
+?>
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
+<?php
+//	<base href="http://store.usbong.ph/" target="_blank">
+
+	//gets directory where usbongSearch.php file is located
+	//example: C:\xampp\htdocs\usbong_newsletters\server
+	//echo __DIR__;
+
+	$path="/server/2021/viewNewsletter202109.php";
+	$filename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $path);
+
+	//note: output: displayed web page format incorrect;
+	//use text identified via keyphrases
 
 	ini_set('auto_detect_line_endings', true);
 
