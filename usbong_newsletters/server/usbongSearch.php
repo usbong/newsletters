@@ -1,4 +1,4 @@
-﻿<!--
+<!--
   Copyright 2021 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
@@ -405,8 +405,25 @@
 */
 
 	//TO-DO: -update: this
-
 ?>
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
+<?php
+//	<base href="http://store.usbong.ph/" target="_blank">
+
+	//edited by Mike, 20211012
+//	$filename="C:\\xampp\\htdocs\\usbong_kms\\usbongTemplates\\Cashier\\moscGetSalesReportForEndDayLibreOfficeCalc.csv";
+
+	//gets directory where usbongSearch.php file is located
+	//example: C:\xampp\htdocs\usbong_newsletters\server
+	//echo __DIR__;
+
+	$path="/server/2021/viewNewsletter202109.php";
+	$filename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $path);
+
+	$usbongSearchBasePath=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
+?>
+
+
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">				
@@ -508,21 +525,6 @@
 	//auto-read: newsletters
 	//find keyphrase from searchbox
 	
-	//edited by Mike, 20211012
-//	$filename="C:\\xampp\\htdocs\\usbong_kms\\usbongTemplates\\Cashier\\moscGetSalesReportForEndDayLibreOfficeCalc.csv";
-
-?>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<?php
-//	<base href="http://store.usbong.ph/" target="_blank">
-
-	//gets directory where usbongSearch.php file is located
-	//example: C:\xampp\htdocs\usbong_newsletters\server
-	//echo __DIR__;
-
-	$path="/server/2021/viewNewsletter202109.php";
-	$filename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $path);
-
 	//note: output: displayed web page format incorrect;
 	//use text identified via keyphrases
 
@@ -555,23 +557,44 @@
 
 		$iRowCount = -1; //we later add 1 to make start value zero (0)
 		//if (($handle = fopen("test.csv", "r")) !== FALSE) {
-		if (($handle = fopen($filename, "r")) !== FALSE) {
-		  while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+			
+		//TO-DO: -add: auto-reverify: if system uses binary or text files
+		//reference: https://www.php.net/manual/en/function.fread.php;
+		//last accessed: 20211012
+
+		if (($handle = fopen($filename, "r")) !== FALSE) {						
+//		  while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {			
+//		  while (($data = fread($handle, 1000)) !== FALSE) {		
+		  while (!feof($handle)) {		  
+
+			//TO-DO: -add: auto-reverify: if file's size is 0
+
+			//note: fread command displays HTML format with text output
+			//TO-DO: -reverify: cause of excess displayed text
+
+			$data = fread($handle, 1000);
 			
 			//we add -1 for the computer to not include the excess cell due to the ending \n
-			$num = count($data) -1;
+			//removed by Mike, 20211012
+//			$num = count($data) -1;
+					
+			//echo $iRowCount;
 					
 			$iRowCount++;
-
+						
 			echo '<tr class="row">';
 
+/*
 			for ($iColumnCount=0; $iColumnCount <= $num; $iColumnCount++) {
 				$cellValue = utf8_encode($data[$iColumnCount]);
 				
 				echo '<td>';
-				echo $cellValue;				
+					echo $cellValue;				
 				echo '</td>';				
 			}
+*/
+				$cellValue = utf8_encode($data);
+				echo $cellValue;				
 
 			echo '</tr>';
 		  }
