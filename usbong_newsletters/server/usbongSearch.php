@@ -3,11 +3,13 @@
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211013
+  @date updated: 20211014
   @website address: http://www.usbong.ph
+
   Input:
   1) MySQL Database with Newsletter details
   Output:
@@ -555,48 +557,54 @@
 	else {
 		//added by Mike, 20211013
 //		echo $_GET['nameParam'];
-		$sKeyphrase = $_GET['nameParam'];
+		
+		//edited by Mike, 20211014
+		if (!isset($_GET['nameParam'])) {
+		}
+		else {
+			$sKeyphrase = $_GET['nameParam'];
 
-		if (($handle = fopen($filename, "r")) !== FALSE) {						
-		  while (!feof($handle)) {		  
-			$data = fread($handle, 128);
-			
-			//edited by Mike, 20211013
-			//$cellValue = utf8_encode($data);
-			$cellValue = strip_tags(utf8_encode($data));
+			if (($handle = fopen($filename, "r")) !== FALSE) {						
+			  while (!feof($handle)) {		  
+				$data = fread($handle, 128);
+				
+				//edited by Mike, 20211013
+				//$cellValue = utf8_encode($data);
+				$cellValue = strip_tags(utf8_encode($data));
 
-			if (strpos($cellValue,$sKeyphrase)!==false) {
-				echo "<table class='searchTable'>
-					<tr>
-					  <td>";						
+				if (strpos($cellValue,$sKeyphrase)!==false) {
+					echo "<table class='searchTable'>
+						<tr>
+						  <td>";						
 
-					//edited by Mike, 20211013
-	//				echo "<h3>".$filename."</h3>";
-					
-					//edited by Mike, 20211013
-					//echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
+						//edited by Mike, 20211013
+		//				echo "<h3>".$filename."</h3>";
+						
+						//edited by Mike, 20211013
+						//echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
 
-					//note: Windows machine uses back-slash; 
-					//update filename to use forward-slash to be accepted as Web Address
-					
-					$sWebAddress = str_replace("\\","/",$filename);
-					$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
-					$sWebAddress = $sWebAddressBasePath."/usbong_newsletters/".$sWebAddress;
+						//note: Windows machine uses back-slash; 
+						//update filename to use forward-slash to be accepted as Web Address
+						
+						$sWebAddress = str_replace("\\","/",$filename);
+						$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
+						$sWebAddress = $sWebAddressBasePath."/usbong_newsletters/".$sWebAddress;
 
-					echo "<a class='webServiceLink' href=".$sWebAddress.">".$sWebAddress."</a><br/>";
+						echo "<a class='webServiceLink' href=".$sWebAddress.">".$sWebAddress."</a><br/>";
 
-					echo "... ";
-					//edited by Mike, 20211013
-	//				echo $cellValue;
-					echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
-					echo " ...";
-				echo "</td>
-					</tr>
-						</table>";
-										
-				echo "<br/><br/>";
+						echo "... ";
+						//edited by Mike, 20211013
+		//				echo $cellValue;
+						echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
+						echo " ...";
+					echo "</td>
+						</tr>
+							</table>";
+											
+					echo "<br/><br/>";
+				}
+			  }
 			}
-		  }
 		}
 
 /* //edited by Mike, 20211013
