@@ -495,7 +495,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<td class="noteTableTextColumn">
 		I was classified to be slow in English and Math back when students were classified to be such in elementary school.<br/>
 		<br/>
-		I learned we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
+		I learned that we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
 		<br/>
 		With writing computer instructions to execute 3-Dimensional computations, it is faster to write the Command and verify with the Computer the output to get the correct answer. This is instead of using majority of available time to attempt to identify output positions without at all sending the Command to the Computer to confirm the output from the inputs.<br/>
 		<br/>
@@ -510,11 +510,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		<b>Example Incident Report:</b><br/>
 		from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">朝日新聞 (asahi shimbun; https://www.asahi.com)</a> (2021-10-12):<br/> 
-		集団暴走の疑い、少年ら51人逮捕・送検　「自分たちが世界の中心」<br/>
+
+		<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASPBC5GM4PBCPTIL018.html">集団暴走の疑い、少年ら51人逮捕・送検　「自分たちが世界の中心」</a><br/>
 		Hinalang Samahan ng Magulong Takbo, i.e. Motorcycle Gang, mga kabataan 51 tao hinuli・ipinadala upang siyasatin "Ang kanilang mga sarili, gitnang puso, i.e. centro, ng daigdig"
 		<br/>
 		<br/>
-		In the Philippines, Year 2021, we have identified members of the Teroristang Komunista group to be children who have NOT learned the value of honest work. They execute chaotic actions, e.g. panlolokong ingay, pisikal na pananakit, using wireless broadcasting technology to quickly get money, e.g. from vehicular theft, i.e. carnapping.<br/>
+		In the Philippines, Year 2021, we have identified members of the Teroristang Komunista group to be the previous generation's children who despite years of age, have NOT learned the value of honest work. They execute chaotic actions, e.g. panlolokong ingay, pisikal na pananakit, using wireless broadcasting technology to quickly get money, e.g. from vehicular theft, i.e. carnapping.<br/>
 		<br/>
 		<b>Reminder:</b><br/>
 		Teroristang Komunista are NOT Filipino citizens; They are citizens of their Teroristang Komunista group with fake Filipino citizenship.<br/>
