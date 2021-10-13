@@ -3,10 +3,12 @@
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+  
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211010
+  @date updated: 20211013
+  
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -463,6 +465,25 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
 <h5>1.1.1) shared: with Unit Members who have Middle~High School Level children, key points for concentration: Maparaang Pagbibilang & Wikang Filipino<br/>
 --> Maparaang Pagbibilang Example: with Trigonometry, learn: correct usage of Triangles<br/>
+--> Example: Use Triangle know-how to identify correct movement direction of Robot Ship after rotation<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/bulalakawWarsExampleUseTriangleKnowHowToIdentifyRobotShipMovementDirectionAfterRotationFocused.jpg">
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/bulalakawWarsExampleUseTriangleKnowHowToIdentifyRobotShipMovementDirectionAfterRotation.jpg">
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+
+
 --> Wikang Filipino Example: learn: from parents and/or grandparents, correct usage of language<br/>
 <br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
@@ -476,13 +497,36 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		I learned we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
 		<br/>
-		With writing computer instructions to execute 3-Dimensional computations, it is faster to write the Command and verify with the Computer the output to get the correct answer. This is instead of using majority of available time to attempt to identify output positions without at all sending the Command to the computer to confirm the output from the inputs.<br/>
+		With writing computer instructions to execute 3-Dimensional computations, it is faster to write the Command and verify with the Computer the output to get the correct answer. This is instead of using majority of available time to attempt to identify output positions without at all sending the Command to the Computer to confirm the output from the inputs.<br/>
 		<br/>
-		As with the German Luger Gun, as a weapon, it is more effective and efficient to destroy the target, e.g. Teroristang Komunista, by empowering Unit Member as part of Law Enforcement to execute multiple rapid-fire shots. This is instead of having only one (1) shot before need for ammo reload. In this case, the Unit member receives immediate feedback of usage of weapon to destory the target or not. However, if target is NOT yet destroyed, quick execution of updated action for feedback is necessary.<br/>
+		As with the German Luger Gun, as a weapon, it is more effective and efficient to destroy the target, e.g. Teroristang Komunista, by empowering Unit Member as part of Law Enforcement to execute multiple rapid-fire shots. This is instead of having only one (1) shot before need for ammo reload. In this case, the Unit member receives immediate feedback of output of used weapon. In addition, if target is NOT yet destroyed, quick execution by weapon tool of updated action as input for feedback is necessary.<br/>
 		<br/>
 		In Japan, Year 2008, I observed Law Enforcement to NOT use Guns as weapon. It was NOT needed due to system has been updated to cause Japanese citizens to value honest work.<br/>
 		<br/>
-		Therefore, the Teroristang Komunista shall NOT be Japanese citizens. In their stead, the Teroristang Komunista shall be foreign nationals. After identification, law enforcement can be executed against these foreign nationals by among others: deportation.		
+		The system executes this action by identifying people who shall cause problems, e.g. those classified to be actions of Teroristang Komunista.<br/>		
+		<br/>
+		<b>Example:</b> Children who still execute chaotic actions<br/>
+		--> This is due to NOT having yet learned to be contributing members of whole society.<br/>		
+		<br/>
+		<b>Example Incident Report:</b><br/>
+		from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">朝日新聞 (asahi shimbun; https://www.asahi.com)</a> (2021-10-12):<br/> 
+		集団暴走の疑い、少年ら51人逮捕・送検　「自分たちが世界の中心」<br/>
+		Hinalang Samahan ng Magulong Takbo, i.e. Motorcycle Gang, mga kabataan 51 tao hinuli・ipinadala upang siyasatin "Ang kanilang mga sarili, gitnang puso, i.e. centro, ng daigdig"
+		<br/>
+		<br/>
+		In the Philippines, Year 2021, we have identified members of the Teroristang Komunista group to be children who have NOT learned the value of honest work. They execute chaotic actions, e.g. panlolokong ingay, pisikal na pananakit, using wireless broadcasting technology to quickly get money, e.g. from vehicular theft, i.e. carnapping.<br/>
+		<br/>
+		<b>Reminder:</b><br/>
+		Teroristang Komunista are NOT Filipino citizens; They are citizens of their Teroristang Komunista group with fake Filipino citizenship.<br/>
+		<br/>
+		<b>Result:</b><br/>
+		Overall skill level and know-how of Filipino people do NOT increase.<br/>
+		<br/>
+		<b>Recommended Actions:</b><br/>
+		1) File written incident reports with Law Enforcement<br/>
+		2) Puksain ang Teroristang Komunista; No need for negotiation.<br/>
+		<br/>
+		TO-DO: -update: this
 		</td>
 	</tr>
 </table>
