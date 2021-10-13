@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20210701
-  @date updated: 20210910
+  @date updated: 20211013
   @website address: http://www.usbong.ph
 
   Input:
@@ -529,7 +529,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			1) right triangle, i.e. has 90degrees angle inside;<br/>
 			--> There exist 3 angle values in a triangle; added total is 180degrees<br/>
-			--> In this case, the two (2) remaining angle degrees vales: 45 and 45;<br/>
+			--> In this case, the two (2) remaining angle degrees values: 45 and 45;<br/>
 			--> from 90/2=45;<br/>
 			<br/>
 			2) step in X-axis; we set it to be the A, i.e. adjacent side of angle theta<br/>
@@ -604,7 +604,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			--> "Terrorist"/Terorista: Tao na gumagawa ng panloloko at pisikal na pananakit sa isa at higit pang mga tao.<br/>
 			--> "Communist Terrorist": Tao na naniwala na sagana na siya, kaya lang naubasan gawa ng pagwawaldas; naging Terorista upang mabilis na makakuha ng pera.<br/>
 			--> As the next generation continues, e.g. the family business, the increasing number of members in the household causes the previously sufficient income to become insufficient.<br/>
-			--> Solution: It is vital that each communist・family・company member learn the value of honest work.
+			--> Solution: It is vital that each community・family・company member learn the value of honest work.
 		</td>
 	</tr>
 </table>
