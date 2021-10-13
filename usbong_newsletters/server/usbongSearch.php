@@ -421,6 +421,10 @@
 	$filename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $path);
 
 	$usbongSearchBasePath=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
+	
+	//added by Mike, 20211013
+	//note: update this
+	$sWebAddressBasePath = "http://localhost";
 ?>
 
 
@@ -568,7 +572,18 @@
 
 					//edited by Mike, 20211013
 	//				echo "<h3>".$filename."</h3>";
-					echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
+					
+					//edited by Mike, 20211013
+					//echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
+
+					//note: Windows machine uses back-slash; 
+					//update filename to use forward-slash to be accepted as Web Address
+					
+					$sWebAddress = str_replace("\\","/",$filename);
+					$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
+					$sWebAddress = $sWebAddressBasePath."/usbong_newsletters/".$sWebAddress;
+
+					echo "<a class='webServiceLink' href=".$sWebAddress.">".$sWebAddress."</a><br/>";
 
 					echo "... ";
 					//edited by Mike, 20211013
