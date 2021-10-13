@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211012
+  @date updated: 20211013
   @website address: http://www.usbong.ph
   Input:
   1) MySQL Database with Newsletter details
@@ -492,7 +492,7 @@
 		<tr>
 			<td>
 			<?php //TO-DO: -update: this ?>
-			<form id="search-form" method="post" action="<?php /*echo site_url('browse/confirmPatient')*/?>">
+			<form id="search-form" method="get" action="<?php /*echo site_url('browse/confirmPatient')*/?>">
 				<?php
 					$itemCounter = 1;
 				?>
@@ -549,6 +549,42 @@
 		echo "<br/>";
 	}
 	else {
+		//added by Mike, 20211013
+//		echo $_GET['nameParam'];
+		$sKeyphrase = $_GET['nameParam'];
+
+		if (($handle = fopen($filename, "r")) !== FALSE) {						
+		  while (!feof($handle)) {		  
+			$data = fread($handle, 128);
+			
+			//edited by Mike, 20211013
+			//$cellValue = utf8_encode($data);
+			$cellValue = strip_tags(utf8_encode($data));
+
+			if (strpos($cellValue,$sKeyphrase)!==false) {
+				echo "<table class='searchTable'>
+					<tr>
+					  <td>";						
+
+					//edited by Mike, 20211013
+	//				echo "<h3>".$filename."</h3>";
+					echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
+
+					echo "... ";
+					//edited by Mike, 20211013
+	//				echo $cellValue;
+					echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
+					echo " ...";
+				echo "</td>
+					</tr>
+						</table>";
+										
+				echo "<br/><br/>";
+			}
+		  }
+		}
+
+/* //edited by Mike, 20211013
 		echo "<table class='searchTable'>";						
 
 		//Reference: https://stackoverflow.com/questions/9139202/how-to-parse-a-csv-file-using-php;
@@ -583,26 +619,16 @@
 			$iRowCount++;
 						
 			echo '<tr class="row">';
-
-/*
-			for ($iColumnCount=0; $iColumnCount <= $num; $iColumnCount++) {
-				$cellValue = utf8_encode($data[$iColumnCount]);
-				
-				echo '<td>';
-					echo $cellValue;				
-				echo '</td>';				
-			}
-*/
 				$cellValue = utf8_encode($data);
-				echo $cellValue;				
-
+				echo $cellValue;
 			echo '</tr>';
 		  }
 
 		  fclose($handle);
-		}
-		
+		}		
 		echo "</table>";		
+*/		
+		
 	}	
 ?>
 
