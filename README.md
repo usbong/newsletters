@@ -1,8 +1,10 @@
 # Usbong Newsletters
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php<br/>
 <b>Usbong Search Engine (work-in-progress):</b> http://store.usbong.ph/server/usbongSearch.php<br/>
+<img src="https://github.com/usbong/newsletters/blob/main/res/usbongSearchEngineKeyphraseDempaV20211014T1628.jpg" width="60%">
+<br/>
 
-## 0. Examples
+## 0. Example Newsletters
 ### 0.1. http://store.usbong.ph/server/2021/viewNewsletter202108.php;
 --> Web Page with Computer Instructions written using among others:<br/>
 --> [Hypertext Markup Language (HTML)](https://www.w3schools.com/html/), [Javascript](https://www.w3schools.com/js/), [PHP Hypertext Preprocessor (PHP)](https://www.php.net/)<br/>
