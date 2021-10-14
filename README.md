@@ -2,7 +2,9 @@
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php<br/>
 <b>Usbong Search Engine:</b> http://search.usbong.ph<br/>
 <br/>
+<a href="http://search.usbong.ph" target="_blank">
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongSearchEngineKeyphraseDempaV20211014T1628.jpg" width="90%">
+</a>
 <br/>
 
 ## 0. Example Newsletters
