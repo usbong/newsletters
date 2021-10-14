@@ -589,16 +589,27 @@
 			else {
 				$sKeyphrase = $_GET['q']; //nameParam
 
-				//added by Mike, 20211014
-				$bHasFoundKeyphrase=false;
+				//added by Mike, 20211014; removed by Mike, 20211014
+//				$bHasFoundKeyphrase=false;
 
 				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
 				  while (!feof($handle)) {		  
-					$data = fread($handle, 128);
+					//edited by Mike, 20211014;
+					//TO-DO: -update: to identify if keyphrase uses 
+					//the previous read batch and the next batch
+//					$data = fread($handle, 128);
+					$data = fread($handle, 164);
 					
 					//edited by Mike, 20211013
 					//$cellValue = utf8_encode($data);
-					$cellValue = strip_tags(utf8_encode($data));
+					//edited by Mike, 20211014
+//					$cellValue = strip_tags(utf8_encode($data));
+					$cellValue = strip_tags($data);
+
+/*					//added by Mike, 20211014; removed by Mike, 20211014
+					$cellValue = str_replace("%2C",",",$cellValue);
+					echo ">>".$cellValue;
+*/
 
 					//edited by Mike, 20211014
 					//sKeyphrase: case-sensitive OFF
