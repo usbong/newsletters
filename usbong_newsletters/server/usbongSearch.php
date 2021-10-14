@@ -418,6 +418,9 @@
 	//gets directory where usbongSearch.php file is located
 	//example: C:\xampp\htdocs\usbong_newsletters\server
 	//echo __DIR__;
+	
+	//added by Mike, 20211014
+	//TO-DO: -add: auto-verify all existing newsletters
 
 	$path="/server/2021/viewNewsletter202109.php";
 	$filename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $path);
