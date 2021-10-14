@@ -1,7 +1,8 @@
 # Usbong Newsletters
-<b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php
+<b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php<br/>
+<b>Usbong Search Engine:</b> http://store.usbong.ph/server/usbongSearch.php<br/>
 
-## 0. Demonstration
+## 0. Examples
 ### 0.1. http://store.usbong.ph/server/2021/viewNewsletter202108.php;
 --> Web Page with Computer Instructions written using among others:<br/>
 --> [Hypertext Markup Language (HTML)](https://www.w3schools.com/html/), [Javascript](https://www.w3schools.com/js/), [PHP Hypertext Preprocessor (PHP)](https://www.php.net/)<br/>
