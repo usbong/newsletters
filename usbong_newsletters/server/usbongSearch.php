@@ -597,9 +597,10 @@
 					//edited by Mike, 20211014;
 					//TO-DO: -update: to identify if keyphrase uses 
 					//the previous read batch and the next batch
-//					$data = fread($handle, 128);
-					$data = fread($handle, 164);
-					
+					//edited by Mike, 20211014
+					$data = fread($handle, 128);
+//					$data = fread($handle, 164);
+		
 					//edited by Mike, 20211013
 					//$cellValue = utf8_encode($data);
 					//edited by Mike, 20211014
@@ -609,12 +610,25 @@
 /*					//added by Mike, 20211014; removed by Mike, 20211014
 					$cellValue = str_replace("%2C",",",$cellValue);
 					echo ">>".$cellValue;
-*/
+*/	
 
+					//added by Mike, 20211014
+					//sKeyphrase does NOT exist in $cellValue
+					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
+						if (!feof($handle)) {
+							$nextData=fread($handle, strlen($sKeyphrase));
+							
+							$data = $data.$nextData;
+							$cellValue = strip_tags($data);	
+						}						
+					}
+				
 					//edited by Mike, 20211014
 					//sKeyphrase: case-sensitive OFF
 	//				if (strpos($cellValue,$sKeyphrase)!==false) {
+					//edited by Mike, 20211014
 					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+//					else {
 						echo "<table class='searchTable'>
 							<tr>
 							  <td>";						
@@ -663,8 +677,21 @@
 							//edited by Mike, 20211014
 //							echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
 
+							//added by Mike, 20211014
+							//String Find COMMAND: case sensitive OFF; output case sensitive
+							$sKeyphraseCaseSensitive = stristr($cellValue,$sKeyphrase, false); //after needle
+							//note: output of stristr also includes part of string after the $sKeyphrase
+							$sKeyphraseCaseSensitive = substr($sKeyphraseCaseSensitive,0,strlen($sKeyphrase));
+
 							//String Replace COMMAND: case sensitive OFF
-							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+							$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
+
+/*
+							echo $sKeyphraseCaseSensitive."<br/>";
+							echo $sKeyphrase."<br/><br/>";
+*/							
+							echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
 							
 							echo " ...";
 						echo "</td>
