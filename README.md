@@ -1,6 +1,7 @@
 # Usbong Newsletters
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php<br/>
-<b>Usbong Search Engine (work-in-progress):</b> http://store.usbong.ph/server/usbongSearch.php<br/>
+<b>Usbong Search Engine:</b> http://search.usbong.ph<br/>
+<br/>
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongSearchEngineKeyphraseDempaV20211014T1628.jpg" width="60%">
 <br/>
 
