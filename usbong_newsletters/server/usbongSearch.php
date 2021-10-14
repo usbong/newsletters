@@ -421,11 +421,16 @@
 	
 	//added by Mike, 20211014
 	//TO-DO: -add: auto-verify all existing newsletters
-
+/*	//edited by Mike, 20211014
 	$path="/server/2021/viewNewsletter202109.php";
 	$filename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $path);
+*/
 
-	$usbongSearchBasePath=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
+//	$result = array();
+	$sYearDirectory="/server/2021/";
+    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
+
+	$usbongSearchBasePath=str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
 	
 	//added by Mike, 20211013
 	//note: update this
@@ -542,80 +547,108 @@
 	//use text identified via keyphrases
 
 	ini_set('auto_detect_line_endings', true);
+	
+	//added by Mike, 20211014
+    foreach ($arrayFilesInCurrentDirectory as $key => $filename)
+    { 		
+	  if (!in_array($filename,array(".","..")))
+      {
+		  
+		//echo ">".$filename."<br/>";
 
-	//added by Mike, 20200523
-	if (!file_exists($filename)) {
-		//add the day of the week
-		$sDateToday = Date('Y-m-d, l');
+		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 
-		echo "<span class='spanFileNotFound'>
-				USBONG: We did NOT find the file. Please re-verify filename to be correct.
-			  </span><br/><br/>";
-//		echo "<span class='spanFileNotFound'>Filname:</span><br/><br/>";
-		echo "<table class='searchTable'>";						
-		echo "<tr>";
-			echo "<td>";		
-			echo $filename;
-			echo "</td>";		
-		echo "</tr>";		
-		echo "</table>";
-		echo "<br/>";
-	}
-	else {
-		//added by Mike, 20211013
-//		echo $_GET['nameParam'];
+		if (!is_dir($completeFilename)) {
 		
-		//edited by Mike, 20211014
-		if (!isset($_GET['q'])) { //nameParam
+		//echo ">>>".$completeFilename."<br/>";
+		  		  
+		//added by Mike, 20200523
+		if (!file_exists($completeFilename)) {
+			//add the day of the week
+			$sDateToday = Date('Y-m-d, l');
+
+			echo "<span class='spanFileNotFound'>
+					USBONG: We did NOT find the file. Please re-verify filename to be correct.
+				  </span><br/><br/>";
+	//		echo "<span class='spanFileNotFound'>Filname:</span><br/><br/>";
+			echo "<table class='searchTable'>";						
+			echo "<tr>";
+				echo "<td>";		
+				echo $completeFilename;
+				echo "</td>";		
+			echo "</tr>";		
+			echo "</table>";
+			echo "<br/>";
 		}
 		else {
-			$sKeyphrase = $_GET['q']; //nameParam
-	
-			if (($handle = fopen($filename, "r")) !== FALSE) {						
-			  while (!feof($handle)) {		  
-				$data = fread($handle, 128);
-				
-				//edited by Mike, 20211013
-				//$cellValue = utf8_encode($data);
-				$cellValue = strip_tags(utf8_encode($data));
-
-				//edited by Mike, 20211014
-				//sKeyphrase: case-sensitive OFF
-//				if (strpos($cellValue,$sKeyphrase)!==false) {
-				if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-					echo "<table class='searchTable'>
-						<tr>
-						  <td>";						
-
-						//edited by Mike, 20211013
-		//				echo "<h3>".$filename."</h3>";
-						
-						//edited by Mike, 20211013
-						//echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
-
-						//note: Windows machine uses back-slash; 
-						//update filename to use forward-slash to be accepted as Web Address
-						
-						$sWebAddress = str_replace("\\","/",$filename);
-						$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
-						$sWebAddress = $sWebAddressBasePath."/usbong_newsletters/".$sWebAddress;
-
-						echo "<a class='webServiceLink' href=".$sWebAddress.">".$sWebAddress."</a><br/>";
-
-						echo "... ";
-						//edited by Mike, 20211013
-		//				echo $cellValue;
-						echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
-						echo " ...";
-					echo "</td>
-						</tr>
-							</table>";
-											
-					echo "<br/><br/>";
-				}
-			  }
+			//added by Mike, 20211013
+	//		echo $_GET['nameParam'];
+			
+			//edited by Mike, 20211014
+			if (!isset($_GET['q'])) { //nameParam
 			}
+			else {
+				$sKeyphrase = $_GET['q']; //nameParam
+		
+				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
+				  while (!feof($handle)) {		  
+					$data = fread($handle, 128);
+					
+					//edited by Mike, 20211013
+					//$cellValue = utf8_encode($data);
+					$cellValue = strip_tags(utf8_encode($data));
+
+					//edited by Mike, 20211014
+					//sKeyphrase: case-sensitive OFF
+	//				if (strpos($cellValue,$sKeyphrase)!==false) {
+					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+						echo "<table class='searchTable'>
+							<tr>
+							  <td>";						
+
+							//edited by Mike, 20211013
+			//				echo "<h3>".$filename."</h3>";
+							
+							//edited by Mike, 20211013
+							//echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
+
+							//note: Windows machine uses back-slash; 
+							//update filename to use forward-slash to be accepted as Web Address
+							
+							$sWebAddress = str_replace("\\","/",$completeFilename);
+							$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
+							//edited by Mike, 20211014
+							$sWebAddress = $sWebAddressBasePath."/usbong_newsletters/".$sWebAddress;
+							$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
+
+							echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
+
+							echo "... ";
+							//edited by Mike, 20211013
+			//				echo $cellValue;
+							
+							//edited by Mike, 20211014
+							//echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
+							echo str_replace(strtoupper($sKeyphrase),"<b>".strtoupper($sKeyphrase)."</b>",$cellValue);
+							echo " ...";
+						echo "</td>
+							</tr>
+								</table>";
+												
+						echo "<br/><br/>";
+						
+						//added by Mike, 20211014
+						//display only the first result with keyphrase found from each existing file
+						break;						
+					}
+				  }
+				}
+			}
+		  //added by Mike, 20211014
+		  }
 		}
+	  }
+	}
 
 /* //edited by Mike, 20211013
 		echo "<table class='searchTable'>";						
@@ -661,8 +694,6 @@
 		}		
 		echo "</table>";		
 */		
-		
-	}	
 ?>
 
 	<br/>
