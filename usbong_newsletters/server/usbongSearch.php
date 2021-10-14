@@ -510,7 +510,11 @@
 					<table width="100%">
 					  <tr>
 						<td>				
+						  <!-- edited by Mike, 20211014 -->
+<!--						  
 						  <input type="text" class="search-input" placeholder="" name="nameParam" required>
+-->						  
+						  <input type="text" class="search-input" placeholder="" name="q" required>
 						</td>
 					  </tr>
 					</table>
@@ -559,11 +563,11 @@
 //		echo $_GET['nameParam'];
 		
 		//edited by Mike, 20211014
-		if (!isset($_GET['nameParam'])) {
+		if (!isset($_GET['q'])) { //nameParam
 		}
 		else {
-			$sKeyphrase = $_GET['nameParam'];
-
+			$sKeyphrase = $_GET['q']; //nameParam
+	
 			if (($handle = fopen($filename, "r")) !== FALSE) {						
 			  while (!feof($handle)) {		  
 				$data = fread($handle, 128);
@@ -572,7 +576,10 @@
 				//$cellValue = utf8_encode($data);
 				$cellValue = strip_tags(utf8_encode($data));
 
-				if (strpos($cellValue,$sKeyphrase)!==false) {
+				//edited by Mike, 20211014
+				//sKeyphrase: case-sensitive OFF
+//				if (strpos($cellValue,$sKeyphrase)!==false) {
+				if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
 					echo "<table class='searchTable'>
 						<tr>
 						  <td>";						
