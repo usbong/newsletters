@@ -1,6 +1,6 @@
 # Usbong Newsletters
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php<br/>
-<b>Usbong Search Engine:</b> http://store.usbong.ph/server/usbongSearch.php<br/>
+<b>Usbong Search Engine (work-in-progress):</b> http://store.usbong.ph/server/usbongSearch.php<br/>
 
 ## 0. Examples
 ### 0.1. http://store.usbong.ph/server/2021/viewNewsletter202108.php;
