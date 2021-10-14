@@ -323,11 +323,13 @@
 	//Reference: https://stackoverflow.com/questions/16048818/include-php-files-when-they-are-in-different-folders;
 	//answer by: AbsoluteƵERØ, 20130416T2355
 	//edited: 20171021T0640	
-		
+
+/*		
 	//echo $_SERVER['DOCUMENT_ROOT']; //example output: C:/xampp/htdocs
 	include($_SERVER['DOCUMENT_ROOT'].'/usbong_newsletters/server/usbong-kms-connect.php');
 
 	$mysqli->set_charset("utf8");
+*/
 
 	//TO-DO: -update: this
 
@@ -339,7 +341,7 @@
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
-				<b>USBONG NEWSLETTER</b>
+				<b>USBONG NEWSLETTER<br/>[HALIMBAWA]</b>
 			</div>		
 		</td>
 	</table>
