@@ -661,8 +661,11 @@
 			//				echo $cellValue;
 							
 							//edited by Mike, 20211014
-							//echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
-							echo str_replace(strtoupper($sKeyphrase),"<b>".strtoupper($sKeyphrase)."</b>",$cellValue);
+//							echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+
+							//String Replace COMMAND: case sensitive OFF
+							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+							
 							echo " ...";
 						echo "</td>
 							</tr>
