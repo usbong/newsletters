@@ -361,7 +361,7 @@
 							height: 100%;
 						}	
 
-						span.spanFileNotFound
+						span.spanFileNotFound, span.spanKeyphraseNotFound
 						{
 							width: 100%;
 							padding-left: 60px;
@@ -589,7 +589,10 @@
 			}
 			else {
 				$sKeyphrase = $_GET['q']; //nameParam
-		
+
+				//added by Mike, 20211014
+				$bHasFoundKeyphrase=false;
+
 				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
 				  while (!feof($handle)) {		  
 					$data = fread($handle, 128);
@@ -638,6 +641,8 @@
 						echo "<br/><br/>";
 						
 						//added by Mike, 20211014
+						$bHasFoundKeyphrase=true;
+
 						//display only the first result with keyphrase found from each existing file
 						break;						
 					}
@@ -648,6 +653,21 @@
 		  }
 		}
 	  }
+	}
+
+	//added by Mike, 20211014	
+	if (!$bHasFoundKeyphrase) {
+		echo "<span class='spanKeyphraseNotFound'>
+				USBONG: We did NOT find this keyphrase in any of the newsletter files.
+			  </span><br/><br/>";
+		echo "<table class='searchTable'>";						
+		echo "<tr>";
+			echo "<td>";		
+			echo "Your entered keyphrase: <b>".$sKeyphrase."</b>";
+			echo "</td>";		
+		echo "</tr>";
+		echo "</table>";
+		echo "<br/>";					
 	}
 
 /* //edited by Mike, 20211013
