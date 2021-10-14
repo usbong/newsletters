@@ -375,10 +375,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20211014
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<!-- //edited by Mike, 20210831
-	<base href="http://store.usbong.ph/" target="_blank">
 -->
+	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
 	  <script>
@@ -406,12 +406,6 @@
 	$mysqli->set_charset("utf8");
 */
 
-	//TO-DO: -update: this
-?>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<?php
-//	<base href="http://store.usbong.ph/" target="_blank">
-
 	//edited by Mike, 20211012
 //	$filename="C:\\xampp\\htdocs\\usbong_kms\\usbongTemplates\\Cashier\\moscGetSalesReportForEndDayLibreOfficeCalc.csv";
 
@@ -432,9 +426,10 @@
 
 	$usbongSearchBasePath=str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
 	
-	//added by Mike, 20211013
+	//added by Mike, 20211013; edited by Mike, 20211014
 	//note: update this
-	$sWebAddressBasePath = "http://localhost";
+//	$sWebAddressBasePath = "http://localhost";
+	$sWebAddressBasePath = "http://store.usbong.ph";
 ?>
 
 
@@ -547,6 +542,10 @@
 	//use text identified via keyphrases
 
 	ini_set('auto_detect_line_endings', true);
+
+	//added by Mike, 20211014
+	$sKeyphrase="";
+	$bHasFoundKeyphrase=false;
 	
 	//added by Mike, 20211014
     foreach ($arrayFilesInCurrentDirectory as $key => $filename)
@@ -618,10 +617,30 @@
 							//note: Windows machine uses back-slash; 
 							//update filename to use forward-slash to be accepted as Web Address
 							
-							$sWebAddress = str_replace("\\","/",$completeFilename);
-							$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
 							//edited by Mike, 20211014
-							$sWebAddress = $sWebAddressBasePath."/usbong_newsletters/".$sWebAddress;
+							//$sWebAddress = str_replace("\\","/",$completeFilename);
+							
+							//if Windows machine
+							if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+								$sWebAddress = str_replace("\\","/",$completeFilename);
+								$sWebAddress = "usbong_newsletters".$sWebAddress;
+							}
+							else {
+								$sWebAddress = $completeFilename;
+							}
+
+//							echo ">>".$completeFilename;
+
+/*							
+							//edited by Mike, 20211014
+							$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
+							$sWebAddress = $sWebAddressBasePath."/usbong_newsletters".$sWebAddress;
+*/
+							$sWebAddress = explode("server", $sWebAddress)[1];
+							//edited by Mike, 20211014
+//							$sWebAddress = $sWebAddressBasePath.$sWebAddress;
+							$sWebAddress = $sWebAddressBasePath."/server".$sWebAddress;
+														
 							$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
 
 							echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
@@ -655,8 +674,9 @@
 	  }
 	}
 
-	//added by Mike, 20211014	
-	if (!$bHasFoundKeyphrase) {
+	//added by Mike, 20211014; edited by Mike, 20211014
+	//if (!$bHasFoundKeyphrase$bHasFoundKeyphrase) {
+	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
 		echo "<span class='spanKeyphraseNotFound'>
 				USBONG: We did NOT find this keyphrase in any of the newsletter files.
 			  </span><br/><br/>";
