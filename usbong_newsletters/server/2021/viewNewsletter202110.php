@@ -463,7 +463,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
-<h5>1.1.1) shared: with Unit Members who have Middle~High School Level children, key points for concentration: Maparaang Pagbibilang & Wikang Filipino<br/>
+<h5>1.1.1) shared: with Unit Members who have Middle~High School Level children, key points for concentration: Wikang Filipino & Maparaang Pagbibilang<br/>
+--> Wikang Filipino Example: learn: from parents and/or grandparents, correct usage of language<br/>
 --> Maparaang Pagbibilang Example: with Trigonometry, learn: correct usage of Triangles<br/>
 --> Example: Use Triangle know-how to identify correct movement direction of Robot Ship after rotation<br/>
 <br/>
@@ -523,12 +524,6 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 
 </table>
 <br/>
-
-
-
-
---> Wikang Filipino Example: learn: from parents and/or grandparents, correct usage of language<br/>
-<br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -536,9 +531,9 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-		I was classified to be slow in English and Math back when students were classified to be such in elementary school.<br/>
+		I was classified to be with "slow" group in English and Math back when students were classified to be such in elementary school.<br/>
 		<br/>
-		I learned that we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
+		Years afterward, I learned that we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
 		<br/>
 		With writing computer instructions to execute 3-Dimensional computations, it is faster to write the Command and verify with the Computer the output to get the correct answer. This is instead of using majority of available time to attempt to identify output positions without at all sending the Command to the Computer to confirm the output from the inputs.<br/>
 		<br/>
@@ -555,7 +550,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 		from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">朝日新聞 (asahi shimbun; https://www.asahi.com)</a> (2021-10-12):<br/> 
 
 		<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASPBC5GM4PBCPTIL018.html">集団暴走の疑い、少年ら51人逮捕・送検　「自分たちが世界の中心」</a><br/>
-		Hinalang Samahan ng Magulong Takbo, i.e. Motorcycle Gang, mga kabataan 51 tao hinuli・ipinadala upang siyasatin "Ang kanilang mga sarili, gitnang puso, i.e. centro, ng daigdig"
+		Hinalang Samahan ng Magulong Takbo, i.e. Motorcycle Gang, mga kabataan 51 tao hinuli・ipinasiyasat "Ang kanilang mga sarili, gitnang puso, i.e. centro, ng daigdig"
 		<br/>
 		<br/>
 		In the Philippines, Year 2021, we have identified members of the Teroristang Komunista group to be the previous generation's children who despite years of age, have NOT learned the value of honest work. They execute chaotic actions, e.g. panlolokong ingay, pisikal na pananakit, using wireless broadcasting technology to quickly get money, e.g. from vehicular theft, i.e. carnapping.<br/>
@@ -569,14 +564,91 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 		<b>Recommended Actions:</b><br/>
 		1) File written incident reports with Law Enforcement<br/>
 		2) Puksain ang Teroristang Komunista; No need for negotiation.<br/>
-		<br/>
-		TO-DO: -update: this
 		</td>
 	</tr>
 </table>
 
+<h5>1.1.2) shared: with public, know-how to execute web address routing using Amazon Web Services (AWS)<br/>
+<b>Step.1)</b> update: <b>.htaccess</b> file stored in <b>html</b> folder<br/>
+--> add: ReWrite Condition and ReWrite Rule<br/>
+--> where: ReWrite Condition: if received request for web address <a class="webServiceLink" href="http://search.usbong.ph/" target="_blank">search.usbong.ph</a><br/> 
+--> ReWrite Rule: serve web address <a class="webServiceLink" href="http://store.usbong.ph/server/usbongSearch.php" target="_blank">http://store.usbong.ph/server/usbongSearch.php</a><br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/step1UpdateHtAccess.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Updated .htaccess file
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> Reminder: file accessed from Windows Machine to Linux Machine via <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Network Tool</a><br/>
+<br/>
+<b>Step.2)</b> update: <b>Route53</b> settings of AWS<br/>
+--> add: Record with details, e.g. Name, Public Internet Protocol (IP) Address of Computer Server<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/step2AddRecordRoute53Part1.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Route53: New Record Details
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> Reminder: Computer Client requests for Web Page File using Record Name, e.g. <a class="webServiceLink" href="http://search.usbong.ph" target="_blank">search.usbong.ph</a>.<br/>
+--> AWS receives request, executes routing action<br/>
+--> where: routing action = connects Client to Server's Public IP Address, e.g. 192.168.1.110<br/>
+--> Computer Server receives request from Client, connects Client to web address:<br/>
+--> <a class="webServiceLink" href="http://store.usbong.ph/server/usbongSearch.php" target="_blank">http://store.usbong.ph/server/usbongSearch.php.</a><br/>
+--> Reminder: Web address is a publicly accessible local file<br/>
+<br/>
+<b>Step.3)</b> receive: notification of successful AWS Route53 Record creation<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/step3AddRecordRoute53Part2.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Route53: Record Creation Successful
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+<b>Step.Done!</b><br/>
+<br/>
+
+
+
+
 <br/>
 <br/>
+
+
 TO-DO: -update: this<br/>
 	<br/>
 	<br/>
