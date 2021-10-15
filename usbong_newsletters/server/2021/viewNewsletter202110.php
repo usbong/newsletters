@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211013
+  @date updated: 20211015
   
   @website address: http://www.usbong.ph
   Input:
@@ -482,6 +482,49 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 	</tr>
 </table>
 <br/>
+--> <b>Reminders:</b> SOH-CAH-TOA<br/> 
+SOH = SINE(angle) = Opposite / Hypothenus<br/>
+CAH = COSINE(angle) = Adjacent / Hypothenus<br/>
+TOA = TANGENT(angle) = Opposite / Adjacent<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/robotShipDirectionMovementAfterRotationUseTriangleKnowHow.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Computation Instructions to be Auto-executed by Computer<br/>
+			Noticeable System Efficiency with Multiple Updating Position Inputs
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202110/robotShipDirectionMovementAfterRotationUseTriangleKnowHowOutput.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Output: Robot Ship's New Position
+			</div>
+		</td>
+	</tr>
+
+</table>
+<br/>
+
+
 
 
 --> Wikang Filipino Example: learn: from parents and/or grandparents, correct usage of language<br/>
