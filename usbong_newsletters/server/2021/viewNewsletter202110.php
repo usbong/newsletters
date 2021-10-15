@@ -531,7 +531,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-		I was classified to be with "slow" group in English and Math back when students were classified to be such in elementary school.<br/>
+		I was classified to be with the "slow" group in English and Math back when students were classified to be such in elementary school.<br/>
 		<br/>
 		Years afterward, I learned that we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
 		<br/>
@@ -643,8 +643,40 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 <br/>
 <b>Step.Done!</b><br/>
 <br/>
+--> With only one (1) Domain Address, we have increased available Sub-domain Addresses.<br/>
+--> Example Domain Address: <a class="webServiceLink" target="_blank" href="http://www.usbong.ph">www.usbong.ph</a><br/>
+--> Example Sub-domain Address: <a class="webServiceLink" target="_blank" href="http://search.usbong.ph">search.usbong.ph</a><br/>
+--> In addition, we did NOT need to use additional AWS services, e.g. Simple Storage Service (S3). <br/>
+--> Reminder: With AWS, additional service usage causes additional cost.
 </h5>
 
+<h4>1.2) added: <a class="webServiceLink" target="_blank" href="http://search.usbong.ph">Usbong Search Engine</a></h4>
+<h5> 
+--> This action speeds-up system development due to computer assists in organizing information.<br/>
+--> Example: I need the website address of the <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Network Tool</a>.<br/>
+--> Using the keyphrase, "<b>PuTTY</b>", the <a class="webServiceLink" target="_blank" href="http://search.usbong.ph">Usbong Search Engine</a> identifies which newsletter file/s it exists.<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/usbongSearchEngineNewsletterKeyphrasePuTTY.png">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<a class="webServiceLink" target="_blank" href="http://search.usbong.ph">Usbong Search Engine</a>: Found newsletter with <b>PuTTY</b> keyphrase
+			</div>
+		</td>
+	</tr>
+</table>
+
+<br/>
+</h5>
+
+<h3>2) Continued to share information on Health</h3>
 
 TO-DO: -update: this<br/>
 
