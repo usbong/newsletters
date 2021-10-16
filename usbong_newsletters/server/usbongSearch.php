@@ -764,19 +764,59 @@
 	//added by Mike, 20211016
 	//note: add: newsletters in another computer server, e.g. hosted by Google Sites
 	//note: COMMAND includes text, photographs, et cetera
+	//note: noticeable delay in output due to use of file_get_contents(...) Command
 	//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
-	//TO-DO: -add: the remaining Past Newsletters
-	$completeFilename="https://www.usbong.ph/excel/excel-2021-05";
-	$data = file_get_contents($completeFilename);
-//	echo $data;
-	$cellValue = strip_tags($data);
+	
+	//Additional Note: Past Newsletters
+	//Web Page with Computer Instructions auto-generated from Classic to New Google Sites;
+	//--> where: Format = Year-Month; example: 2021-05
+	//--> Earliest Available: 2020-08
+	//--> Newest Available: 2021-05
+	$iDayCount=7;//to start at 8;
+	$iYearCount=2020;
+	$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
 
-	if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-		autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);								
+	//note: @ mark to NOT display warning message; 
+	//return of false signifies error
+	while (@file_get_contents($completeFilename)!==false ) {
+		$data = file_get_contents($completeFilename);
 		
-		$bHasFoundKeyphrase=true;
-	}
+	//	echo $data;
+		
+		$cellValue = strip_tags($data);
 
+//		echo $cellValue;
+
+		if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+			autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);											
+			$bHasFoundKeyphrase=true;
+		}
+
+		$sDayCount="";
+		$sYearDay="";
+		
+		$iDayCount=(($iDayCount)%12)+1;
+		
+//		echo ">>>>>>iDayCount: ".$iDayCount;
+								
+		if ($iDayCount<10) { //1 digit only
+			$sDayCount="0".$iDayCount;
+		}
+		else {
+			$sDayCount=$iDayCount;
+		}
+				
+		if ($iDayCount==1) { //new year		
+			$iYearCount=$iYearCount+1;
+		}		
+
+		$sYearDate=$iYearCount."-".$sDayCount;
+		
+		$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
+
+//		echo ">>>".$completeFilename."<br/>";
+	}
+	
 	//added by Mike, 20211014; edited by Mike, 20211014
 	//if (!$bHasFoundKeyphrase$bHasFoundKeyphrase) {
 	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
