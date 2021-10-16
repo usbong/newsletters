@@ -7,16 +7,18 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211014
+  @date updated: 20211016
   @website address: http://www.usbong.ph
 
   Input:
-  1) MySQL Database with Newsletter details
+  1) Keyphrase
+
   Output:
-  1) Auto-generated print-ready Newsletter that is viewable on a Computer Web Browser  
+  1) identified Newsletter where keyphrase exists  
   
-  Computer Web Browser Address (Example):
-  1) http://localhost/usbong_kms/server/viewNewsletter.php   
+  Computer Browser: Website Address (Example):
+  1) local: http://localhost/usbong_newsletters/server/usbongSearch.php
+  2) public internet: http://store.usbong.ph/server/usbongSearch.php
   
   Recommended Reference:
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
