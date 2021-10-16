@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211016
+  @date updated: 20211017
   @website address: http://www.usbong.ph
 
   Input:
@@ -591,7 +591,25 @@
 //				echo strlen($cellValue)."<br/><br/>";				
 				if (strlen($cellValue)>118) { 
 //					$cellValue=substr($cellValue,0,118); //118 max character string length
-					$cellValue="<b>".substr($cellValue,strpos($cellValue,$sKeyphrase),118); //118 max character string length
+					//edited by Mike, 20211017
+//					$cellValue="<b>".substr($cellValue,strpos($cellValue,$sKeyphrase),118); //118 max character string length
+
+					//note: add in the displayed output, 
+					//additional characters before the $sKeyphrase, 
+					//due to if $sKeyphrase is at end part of $cellValue,
+					//$sKeyphrase becomes the only text of the newsletter
+					$iOffset=30;
+					$iStartPos=strpos($cellValue,$sKeyphrase)-$iOffset;
+					$iKeyPhraseStartPos=strpos($cellValue,$sKeyphrase);
+					$iKeyPhraseCharLength=strlen($sKeyphrase);
+
+					if ($iStartPos<0) {
+						$iStartPos=0;
+					}
+
+					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>";
+					//TO-DO: -reverify: this
+//					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>".substr($cellValue,$iKeyPhraseStartPos+$iKeyPhraseCharLength+1,118); //118 max character string length
 				}
 
 				echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
@@ -761,64 +779,69 @@
 	  }
 	}
 
-	//added by Mike, 20211016
-	//note: add: newsletters in another computer server, e.g. hosted by Google Sites
-	//note: COMMAND includes text, photographs, et cetera
-	//note: noticeable delay in output due to use of file_get_contents(...) Command
-	//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
-	
-	//Additional Note: Past Newsletters
-	//Web Page with Computer Instructions auto-generated from Classic to New Google Sites;
-	//--> where: Format = Year-Month; example: 2021-05
-	//--> Earliest Available: 2020-08
-	//--> Newest Available: 2021-05
-	$iDayCount=7;//to start at 8;
-	$iYearCount=2020;
-	$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
+	//added by Mike, 20211017
+	if (!empty($sKeyphrase)) {
+		//added by Mike, 20211016
+		//note: add: newsletters in another computer server, e.g. hosted by Google Sites
+		//note: COMMAND includes text, photographs, et cetera
+		//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
+		//Additional Note: Past Newsletters
+		//Web Page with Computer Instructions auto-generated from Classic to New Google Sites;
+		//--> where: Format = Year-Month; example: 2021-05
+		//--> Earliest Available: 2020-08
+		//--> Newest Available: 2021-05
+		$iDayCount=7;//to start at 8;
+		$iYearCount=2020;
+		$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
 
-	//note: @ mark to NOT display warning message; 
-	//return of false signifies error
-	while (@file_get_contents($completeFilename)!==false ) {
-		$data = file_get_contents($completeFilename);
-		
-	//	echo $data;
-		
-		$cellValue = strip_tags($data);
+		//note: @ mark to NOT display warning message; 
+		//return of false signifies error
+		while (@file_get_contents($completeFilename)!==false ) {
+			$sDayCount="";
+			$sYearDay="";
+			
+			$iDayCount=(($iDayCount)%12)+1;
+			
+	//		echo ">>>>>>iDayCount: ".$iDayCount;
+					
+					
+			if ($iDayCount<10) { //1 digit only
+				$sDayCount="0".$iDayCount;
+			}
+			else {
+				$sDayCount=$iDayCount;
+			}
+					
+			if ($iDayCount==1) { //new year		
+				$iYearCount=$iYearCount+1;
+			}		
 
-//		echo $cellValue;
+			$sYearDate=$iYearCount."-".$sDayCount;
+			
+			$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
 
-		if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-			autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);											
-			$bHasFoundKeyphrase=true;
-		}
+	//		echo ">>>".$completeFilename."<br/>";		
+			
+			$data = $completeFilename;
+			
+			//removed by Mike, 20211016
+		//	$data = file_get_contents($completeFilename);
 
-		$sDayCount="";
-		$sYearDay="";
-		
-		$iDayCount=(($iDayCount)%12)+1;
-		
-//		echo ">>>>>>iDayCount: ".$iDayCount;
-								
-		if ($iDayCount<10) { //1 digit only
-			$sDayCount="0".$iDayCount;
-		}
-		else {
-			$sDayCount=$iDayCount;
-		}
+		//	echo $data;
+			$cellValue = strip_tags($data);
+
+	//		echo $cellValue;
+
+			if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+				autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);								
 				
-		if ($iDayCount==1) { //new year		
-			$iYearCount=$iYearCount+1;
-		}		
-
-		$sYearDate=$iYearCount."-".$sDayCount;
-		
-		$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
-
-//		echo ">>>".$completeFilename."<br/>";
-	}
+				$bHasFoundKeyphrase=true;
+			}
+		}
+	}	
 	
-	//added by Mike, 20211014; edited by Mike, 20211014
-	//if (!$bHasFoundKeyphrase$bHasFoundKeyphrase) {
+	//added by Mike, 20211014; edited by Mike, 20211017
+//	if (!$bHasFoundKeyphrase) {
 	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
 		echo "<span class='spanKeyphraseNotFound'>
 				USBONG: We did NOT find this keyphrase in any of the newsletter files.
