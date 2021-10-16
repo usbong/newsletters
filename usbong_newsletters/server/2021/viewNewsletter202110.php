@@ -7,16 +7,18 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211015
+  @date updated: 20211016
   
   @website address: http://www.usbong.ph
   Input:
-  1) MySQL Database with Newsletter details
+  1) Newsletter file with details
+
   Output:
-  1) Auto-generated print-ready Newsletter that is viewable on a Computer Web Browser  
+  1) Newsletter file that is viewable on a Computer Web Browser  
   
-  Computer Web Browser Address (Example):
-  1) http://localhost/usbong_kms/server/viewNewsletter.php   
+  Computer Browser: Website Address (Example):
+  1) local: http://localhost/usbong_newsletters/server/2021/viewNewsletter202110.php  
+  2) public internet: http://store.usbong.ph/server/2021/viewNewsletter202110.php
   
   Recommended Reference:
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
@@ -672,8 +674,26 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 		</td>
 	</tr>
 </table>
-
 <br/>
+--> <b>PUBLICLY USABLE VERSION DEVELOPMENT TIME:</b> 4days<br/>
+--> Existing technologies caused speed-up of development.<br/>
+<br/>
+--> 1.2.1) Computer Hardware specification (NOT newest; 2007 technology):<br/>
+--> Development Machine<br/>
+--> <b>Processor:</b> Genuine Intel(R) CPU T2130 @1.86GHz<br/>
+--> <b>Installed memory (RAM):</b> 3.00GB<br/>
+--> <b>System type:</b> 32-bit Operating System (OS)<br/>
+<br/>
+--> 1.2.2) Computer Software Infrastructure & Tools:<br/>
+--> Development Machine<br/>
+--> <b>OS:</b> <a class="webServiceLink" target="_blank" href="https://docs.microsoft.com/en-us/lifecycle/products/windows-7">Windows 7 Ultimate Service Pack 1 (2009 technology)</a><br/>
+--> <b>Web Server:</b> <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">Apache Web Server</a><br/>
+--> <b>Computer Languages:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP Hypertext Preprocessor (PHP)</a>, <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a><br/>
+--> <b>Computer Language Framework:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> + <a class="webServiceLink" target="_blank" href="https://codeigniter.com/download">CodeIgniter Web Framework (version 2.0)</a><br/>
+--> <b>Computer Web Browser:</b> <a class="webServiceLink" target="_blank" href="https://www.mozilla.org/en-US/firefox/products/">Mozilla Firefox</a><br/>
+--> <b>Computer Software:</b> <a class="webServiceLink" target="_blank" href="https://notepad-plus-plus.org/">Notepad++</a><br/>
+--> <b>Reused Software Parts:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">Usbong Knowledge Management System (KMS)</a><br/>
+--> <b>Computer Server Network Communication:</b> <a class="webServiceLink" target="_blank" href="https://www.putty.org/">PuTTY</a>, <a class="webServiceLink" target="_blank" href="https://winscp.net/eng/index.php">WinSCP</a>
 </h5>
 
 <h3>2) Continued to share information on Health</h3>
