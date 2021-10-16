@@ -536,6 +536,75 @@
 	<br/>
 	<br/>
 <?php
+	//added by Mike, 20211016
+	//note: reusable function
+	function autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase) {		
+//		echo "hallo: ".$cellValue;
+		
+			echo "<table class='searchTable'>
+				<tr>
+				  <td>";						
+
+				//edited by Mike, 20211016
+				if (strpos($completeFilename,"www.usbong.ph")!==false) {
+					$sWebAddress = $completeFilename;
+					$sWebAddressUpdated = $sWebAddress;					
+				}
+				else {				
+					//if Windows machine
+					if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+						$sWebAddress = str_replace("\\","/",$completeFilename);
+						$sWebAddress = "usbong_newsletters".$sWebAddress;
+					}
+					else {
+						$sWebAddress = $completeFilename;
+					}
+
+		//							echo ">>".$completeFilename;
+
+					$sWebAddress = explode("server", $sWebAddress)[1];
+					$sWebAddress = $sWebAddressBasePath."/server".$sWebAddress;
+												
+					$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
+				}
+
+				echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
+
+				echo "... ";
+				//edited by Mike, 20211013
+	//				echo $cellValue;
+				
+				//edited by Mike, 20211014
+	//							echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+
+				//added by Mike, 20211014
+				//String Find COMMAND: case sensitive OFF; output case sensitive
+				$sKeyphraseCaseSensitive = stristr($cellValue,$sKeyphrase, false); //after needle
+				//note: output of stristr also includes part of string after the $sKeyphrase
+				$sKeyphraseCaseSensitive = substr($sKeyphraseCaseSensitive,0,strlen($sKeyphrase));
+
+				//String Replace COMMAND: case sensitive OFF
+	//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+				$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
+
+				//added by Mike, 20211016
+//				echo strlen($cellValue)."<br/><br/>";				
+				if (strlen($cellValue)>118) { 
+//					$cellValue=substr($cellValue,0,118); //118 max character string length
+					$cellValue="<b>".substr($cellValue,strpos($cellValue,$sKeyphrase),118); //118 max character string length
+				}
+
+				echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
+				
+				echo " ...";
+			echo "</td>
+				</tr>
+					</table>";
+									
+			echo "<br/><br/>";
+	}
+
+
 	//added by Mike, 20211012
 	//auto-read: newsletters
 	//find keyphrase from searchbox
@@ -554,7 +623,6 @@
     { 		
 	  if (!in_array($filename,array(".","..")))
       {
-		  
 		//echo ">".$filename."<br/>";
 
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
@@ -609,10 +677,7 @@
 //					$cellValue = strip_tags(utf8_encode($data));
 					$cellValue = strip_tags($data);
 
-/*					//added by Mike, 20211014; removed by Mike, 20211014
-					$cellValue = str_replace("%2C",",",$cellValue);
-					echo ">>".$cellValue;
-*/	
+//					echo ">>".$cellValue;
 
 					//added by Mike, 20211014
 					//sKeyphrase does NOT exist in $cellValue
@@ -624,28 +689,21 @@
 							$cellValue = strip_tags($data);	
 						}						
 					}
-				
+	
+
 					//edited by Mike, 20211014
 					//sKeyphrase: case-sensitive OFF
 	//				if (strpos($cellValue,$sKeyphrase)!==false) {
 					//edited by Mike, 20211014
 					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-//					else {
+
+						//added by Mike, 20211016
+						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
+
+/*
 						echo "<table class='searchTable'>
 							<tr>
 							  <td>";						
-
-							//edited by Mike, 20211013
-			//				echo "<h3>".$filename."</h3>";
-							
-							//edited by Mike, 20211013
-							//echo "<a class='webServiceLink' href=".$filename.">".$filename."</a><br/>";
-
-							//note: Windows machine uses back-slash; 
-							//update filename to use forward-slash to be accepted as Web Address
-							
-							//edited by Mike, 20211014
-							//$sWebAddress = str_replace("\\","/",$completeFilename);
 							
 							//if Windows machine
 							if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
@@ -658,14 +716,7 @@
 
 //							echo ">>".$completeFilename;
 
-/*							
-							//edited by Mike, 20211014
-							$sWebAddress = explode("usbong_newsletters", $sWebAddress)[1];
-							$sWebAddress = $sWebAddressBasePath."/usbong_newsletters".$sWebAddress;
-*/
 							$sWebAddress = explode("server", $sWebAddress)[1];
-							//edited by Mike, 20211014
-//							$sWebAddress = $sWebAddressBasePath.$sWebAddress;
 							$sWebAddress = $sWebAddressBasePath."/server".$sWebAddress;
 														
 							$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
@@ -674,11 +725,7 @@
 
 							echo "... ";
 							//edited by Mike, 20211013
-			//				echo $cellValue;
 							
-							//edited by Mike, 20211014
-//							echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
-
 							//added by Mike, 20211014
 							//String Find COMMAND: case sensitive OFF; output case sensitive
 							$sKeyphraseCaseSensitive = stristr($cellValue,$sKeyphrase, false); //after needle
@@ -689,10 +736,6 @@
 //							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
 							$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
 
-/*
-							echo $sKeyphraseCaseSensitive."<br/>";
-							echo $sKeyphrase."<br/><br/>";
-*/							
 							echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
 							
 							echo " ...";
@@ -701,6 +744,7 @@
 								</table>";
 												
 						echo "<br/><br/>";
+*/
 						
 						//added by Mike, 20211014
 						$bHasFoundKeyphrase=true;
@@ -709,12 +753,28 @@
 						break;						
 					}
 				  }
-				}
+				}							
 			}
 		  //added by Mike, 20211014
 		  }
 		}
 	  }
+	}
+
+	//added by Mike, 20211016
+	//note: add: newsletters in another computer server, e.g. hosted by Google Sites
+	//note: COMMAND includes text, photographs, et cetera
+	//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
+	//TO-DO: -add: the remaining Past Newsletters
+	$completeFilename="https://www.usbong.ph/excel/excel-2021-05";
+	$data = file_get_contents($completeFilename);
+//	echo $data;
+	$cellValue = strip_tags($data);
+
+	if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+		autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);								
+		
+		$bHasFoundKeyphrase=true;
 	}
 
 	//added by Mike, 20211014; edited by Mike, 20211014
