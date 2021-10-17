@@ -568,7 +568,20 @@
 					$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
 				}
 
-				echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
+				//edited by Mike, 20211017
+				//echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
+
+				if (strpos($sWebAddress,"downloaded")!==false) {
+					$sYearDate=substr($sWebAddress,strpos($sWebAddress,"downloadedNewsletter"));
+					$sYearDate=str_replace("downloadedNewsletter","",$sYearDate);
+					$sYearDate=str_replace(".php","",$sYearDate);
+					echo "<a class='webServiceLink' href='http://www.usbong.ph/excel/excel-".$sYearDate."'>
+						http://www.usbong.ph/excel/excel-".$sYearDate."</a><br/>";
+				}
+				else {
+					echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
+				}
+
 
 				echo "... ";
 				//edited by Mike, 20211013
@@ -711,6 +724,8 @@
 							//edited by Mike, 20211017; add string of characters after sKeyPhrase
 							//$nextData=fread($handle, strlen($sKeyphrase));
 							$iCellValueTailLength=1020; //note: max 100000000;//42;							
+							
+							//note: read until there exists Characters in $cellValue
 							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
 							
 							$data = $data.$nextData;
@@ -727,52 +742,6 @@
 
 						//added by Mike, 20211016
 						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
-
-/*
-						echo "<table class='searchTable'>
-							<tr>
-							  <td>";						
-							
-							//if Windows machine
-							if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
-								$sWebAddress = str_replace("\\","/",$completeFilename);
-								$sWebAddress = "usbong_newsletters".$sWebAddress;
-							}
-							else {
-								$sWebAddress = $completeFilename;
-							}
-
-//							echo ">>".$completeFilename;
-
-							$sWebAddress = explode("server", $sWebAddress)[1];
-							$sWebAddress = $sWebAddressBasePath."/server".$sWebAddress;
-														
-							$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
-
-							echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
-
-							echo "... ";
-							//edited by Mike, 20211013
-							
-							//added by Mike, 20211014
-							//String Find COMMAND: case sensitive OFF; output case sensitive
-							$sKeyphraseCaseSensitive = stristr($cellValue,$sKeyphrase, false); //after needle
-							//note: output of stristr also includes part of string after the $sKeyphrase
-							$sKeyphraseCaseSensitive = substr($sKeyphraseCaseSensitive,0,strlen($sKeyphrase));
-
-							//String Replace COMMAND: case sensitive OFF
-//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
-							$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
-
-							echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
-							
-							echo " ...";
-						echo "</td>
-							</tr>
-								</table>";
-												
-						echo "<br/><br/>";
-*/
 						
 						//added by Mike, 20211014
 						$bHasFoundKeyphrase=true;
@@ -788,6 +757,111 @@
 		}
 	  }
 	}
+
+	//added by Mike, 20211017
+	//TO-DO: -update: instructions to be a reusable function
+	//note: noticeable speed-up to receive search results
+	//after downloading the text file of newsletters from www.usbong.ph
+	//to be stored inside Computer Server Storage
+	if (!empty($sKeyphrase)) {
+		//added by Mike, 20211016
+		//note: add: newsletters in another computer server, e.g. hosted by Google Sites
+		//note: COMMAND includes text, photographs, et cetera
+
+		//Additional Note: Past Newsletters
+		//Web Page with Computer Instructions auto-generated from Classic to New Google Sites;
+		//--> where: Format = Year-Month; example: 2021-05
+		//--> Earliest Available: 2020-08
+		//--> Newest Available: 2021-05
+		$iDayCount=7;//to start at 8;
+		$iYearCount=2020;
+		
+		//edited by Mike, 20211017
+		//$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
+
+			$sDayCount="";
+			$sYearDay="";
+			
+			$iDayCount=(($iDayCount)%12)+1;
+			
+	//		echo ">>>>>>iDayCount: ".$iDayCount;
+					
+					
+			if ($iDayCount<10) { //1 digit only
+				$sDayCount="0".$iDayCount;
+			}
+			else {
+				$sDayCount=$iDayCount;
+			}
+					
+			if ($iDayCount==1) { //new year		
+				$iYearCount=$iYearCount+1;
+			}		
+
+			$sYearDate=$iYearCount."-".$sDayCount;
+			
+//			$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
+
+			$filename="downloadedNewsletter".$sYearDate;
+
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
+				
+//			echo "DITO: ".$completeFilename;
+				
+			if (file_exists($completeFilename)) {
+				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
+				  while (!feof($handle)) {		  
+					//edited by Mike, 20211014;
+					//TO-DO: -update: to identify if keyphrase uses 
+					//the previous read batch and the next batch
+					//edited by Mike, 20211014
+					$data = fread($handle, 128);
+//					$data = fread($handle, 164);
+		
+					//edited by Mike, 20211013
+					//$cellValue = utf8_encode($data);
+					//edited by Mike, 20211014
+//					$cellValue = strip_tags(utf8_encode($data));
+					$cellValue = strip_tags($data);
+
+//					echo ">>".$cellValue;
+
+					//added by Mike, 20211014
+					//sKeyphrase does NOT exist in $cellValue
+					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {
+						if (!feof($handle)) {
+							//edited by Mike, 20211017; add string of characters after sKeyPhrase
+							//$nextData=fread($handle, strlen($sKeyphrase));
+							$iCellValueTailLength=1020; //note: max 100000000;//42;							
+							
+							//note: read until there exists Characters in $cellValue
+							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
+							
+							$data = $data.$nextData;
+							$cellValue = strip_tags($data);	
+						}						
+					}
+	
+					//edited by Mike, 20211014
+					//sKeyphrase: case-sensitive OFF
+	//				if (strpos($cellValue,$sKeyphrase)!==false) {
+					//edited by Mike, 20211014
+					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+
+						//added by Mike, 20211016
+						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
+						
+						//added by Mike, 20211014
+						$bHasFoundKeyphrase=true;
+
+						//display only the first result with keyphrase found from each existing file
+						break;						
+					}
+				  }
+				}							
+		}
+	}	
+
 
 /*  //removed by Mike, 20211017; 
 	//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
