@@ -608,8 +608,6 @@
 					}
 
 					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>";
-					//TO-DO: -reverify: this
-//					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>".substr($cellValue,$iKeyPhraseStartPos+$iKeyPhraseCharLength+1,118); //118 max character string length
 				}
 
 				echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
@@ -779,12 +777,16 @@
 	  }
 	}
 
+/*  //removed by Mike, 20211017; 
+	//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
+	//this action is to speed-up Usbong Search Engine
+
 	//added by Mike, 20211017
 	if (!empty($sKeyphrase)) {
 		//added by Mike, 20211016
 		//note: add: newsletters in another computer server, e.g. hosted by Google Sites
 		//note: COMMAND includes text, photographs, et cetera
-		//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
+
 		//Additional Note: Past Newsletters
 		//Web Page with Computer Instructions auto-generated from Classic to New Google Sites;
 		//--> where: Format = Year-Month; example: 2021-05
@@ -839,6 +841,7 @@
 			}
 		}
 	}	
+*/
 	
 	//added by Mike, 20211014; edited by Mike, 20211017
 //	if (!$bHasFoundKeyphrase) {
