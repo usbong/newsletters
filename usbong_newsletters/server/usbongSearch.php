@@ -808,6 +808,10 @@
 
 			$filename="downloadedNewsletter".$sYearDate;
 
+			//edited by Mike, 20211017
+			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
+				
+			$sYearDirectory="/server/".$sYearDate."/";
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 				
 //			echo "DITO: ".$completeFilename;
