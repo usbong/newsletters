@@ -919,7 +919,6 @@
 
 	<br/>
 	<br/>
-	<br/>
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
