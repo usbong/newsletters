@@ -23,6 +23,10 @@
   Recommended Reference:
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
+  
+  
+  //TO-DO: -add: year folder for 2020, et cetera
+  
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
