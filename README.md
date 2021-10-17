@@ -3,7 +3,7 @@
 <b>Usbong Search Engine:</b> http://search.usbong.ph<br/>
 <br/>
 <a href="http://search.usbong.ph" target="_blank">
-<img src="https://github.com/usbong/newsletters/blob/main/res/usbongSearchEngineKeyphraseDempaV20211014T1628.jpg" width="90%">
+<img src="https://github.com/usbong/newsletters/blob/main/res/usbongSearchEngineKeyphraseDempaV20211017T0954.jpg" width="90%">
 </a>
 <br/>
 
