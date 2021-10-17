@@ -587,9 +587,16 @@
 	//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
 				$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
 
+/*
 				//added by Mike, 20211016
-//				echo strlen($cellValue)."<br/><br/>";				
-				if (strlen($cellValue)>118) { 
+				echo strlen($cellValue)."<br/><br/>";				
+				echo strpos($cellValue,$sKeyphrase)."<br/><br/>";				
+*/
+
+				//edited by Mike, 20211017
+//				if (strlen($cellValue)>118) { 
+				if (strlen($cellValue)>100) {
+					
 //					$cellValue=substr($cellValue,0,118); //118 max character string length
 					//edited by Mike, 20211017
 //					$cellValue="<b>".substr($cellValue,strpos($cellValue,$sKeyphrase),118); //118 max character string length
@@ -599,6 +606,7 @@
 					//due to if $sKeyphrase is at end part of $cellValue,
 					//$sKeyphrase becomes the only text of the newsletter
 					$iOffset=30;
+					
 					$iStartPos=strpos($cellValue,$sKeyphrase)-$iOffset;
 					$iKeyPhraseStartPos=strpos($cellValue,$sKeyphrase);
 					$iKeyPhraseCharLength=strlen($sKeyphrase);
@@ -607,7 +615,8 @@
 						$iStartPos=0;
 					}
 
-					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>";
+//					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>";
+					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos+$iOffset);
 				}
 
 				echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
@@ -699,7 +708,10 @@
 					//sKeyphrase does NOT exist in $cellValue
 					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
 						if (!feof($handle)) {
-							$nextData=fread($handle, strlen($sKeyphrase));
+							//edited by Mike, 20211017; add string of characters after sKeyPhrase
+							//$nextData=fread($handle, strlen($sKeyphrase));
+							$iCellValueTailLength=1020; //note: max 100000000;//42;							
+							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
 							
 							$data = $data.$nextData;
 							$cellValue = strip_tags($data);	
