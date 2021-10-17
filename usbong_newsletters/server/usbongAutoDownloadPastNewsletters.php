@@ -375,6 +375,11 @@
 							width: 100%;
 							color: rgb(252,60,3);							
 						}
+						
+						button.Button-start
+						{
+							font-size: 16pt;
+						}
     /**/
     </style>
     <title>
@@ -524,8 +529,8 @@
 				<input type="hidden" name="q" value="1" required>
 
 				<!-- Button -->
-				<button type="submit" class="Button-login">
-					Start
+				<button type="submit" class="Button-start">
+					START
 				</button>
 			</form>
 			</td>
@@ -553,9 +558,11 @@
 	}
 
 	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
+/*
+	//edited by Mike, 20211017
 	$sCompleteDirectory=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory);
-
 	echo "<br/><b>Output Folder Address:</b> ".$sCompleteDirectory."<br/><br/>";
+*/
 
 	//add Website contents in text file stored in Usbong Newsletters' Computer Server
 	//this action is to speed-up Usbong Search Engine
@@ -627,6 +634,11 @@
 				echo "<h5>".$iDownloadedPastNewsletterCount.": ".
 						"<b>".$completeFilename."</b></h5>";
 
+				//edited by Mike, 20211017
+				$sYearDirectory="/server/".$iYearCount."/";
+				$sCompleteDirectory=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory);
+
+
 				$sFilename = "downloadedNewsletter".$sYearDate.".php";
 				$sOutputCompleteFilename = $sCompleteDirectory.$sFilename;
 				
@@ -635,11 +647,13 @@
 				$iDownloadedPastNewsletterCount=$iDownloadedPastNewsletterCount+1;
 			}
 		}
+
+		//added by Mike, 20211017
+		echo "<span class='spanDoneWritingToComputerServerStorage'>
+				USBONG: Done!
+			  </span><br/><br/>";	
 	}	
 
-	echo "<span class='spanDoneWritingToComputerServerStorage'>
-			USBONG: Done!
-		  </span><br/><br/>";	
 ?>
 
 	<br/>
