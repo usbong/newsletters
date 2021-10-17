@@ -9,7 +9,7 @@ REM Unless required by applicable law or agreed to in writing, software distribu
 REM
 REM @company: USBONG
 REM @author: SYSON, MICHAEL B.
-REM @date created: 20200724
+REM @date created: 20211017
 REM @date updated: 20211017
 REM
 REM Reference:
@@ -17,7 +17,7 @@ REM 1) https://phantomjs.org/; last accessed: 20200724
 REM 2) downloaded phantomjs zipped file's examples: netsniff.js; last accessed: 20200725
 REM
 
-phantomjs saveWebPageAsImageFile.js viewNewsletter202109 -s
+phantomjs saveWebPageAsImageFile.js usbongAutoDownloadPastNewsletters -s
 
 set myDate=%date:~10,4%%date:~4,2%%date:~7,2%
 

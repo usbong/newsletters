@@ -10,7 +10,7 @@
 ' @company: USBONG
 ' @author: SYSON, MICHAEL B.
 ' @date created: 20200724
-' @date updated: 20210824
+' @date updated: 20211017
 '
 ' Reference:
 ' 1) https://phantomjs.org/; last accessed: 20200724
@@ -59,6 +59,14 @@ var dateToday = new Date();
 if (isFromServerFolder=="-s") {
 	webAddress = 'http://localhost/usbong_newsletters/server/'+dateToday.getFullYear()+'/';
 	fileExtension = '.php';
+	
+	//added by Mike, 20211017
+	if (fileName=="usbongSearch") {
+		webAddress = 'http://localhost/usbong_newsletters/usbongSearch';
+	}	
+	else if (fileName=="usbongAutoDownloadPastNewsletters") {
+		webAddress = 'http://localhost/usbong_newsletters/server/usbongAutoDownloadPastNewsletters.php?q=1';
+	}		
 }
 
 //added by Mike, 20201017
@@ -96,6 +104,8 @@ page.open(webAddress+fileName+fileExtension, 'post', data, function(status) {
 	//edited by Mike, 20201017
 //	page.render('output/'+dateToday.toISOString()+'/'+fileName+'1.png');
 //	page.render('output/20200727/'+fileName+'1.png');
+
+	alert(fileName);
 
 	if (noonFolderName=="") {
 		page.render('output/'+dateToday.toISOString()+'/'+fileName+'_1.png');
