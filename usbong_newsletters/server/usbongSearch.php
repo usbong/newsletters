@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211017
+  @date updated: 20211020
   @website address: http://www.usbong.ph
 
   Input:
@@ -428,7 +428,9 @@
 
 //	$result = array();
 	$sYearDirectory="/server/2021/";
-    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
+	//edited by Mike, 20211020
+//    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
+    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory, SCANDIR_SORT_DESCENDING);
 
 	$usbongSearchBasePath=str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
 	
@@ -691,7 +693,14 @@
 			echo "</table>";
 			echo "<br/>";
 		}
-		else {
+		else {			
+/*		
+			//added by Mike, 20211020; removed by Mike, 20211020
+			if (strpos($completeFilename, "downloaded")!==false) {
+				continue;
+			}
+*/
+			
 			//added by Mike, 20211013
 	//		echo $_GET['nameParam'];
 			
@@ -777,47 +786,78 @@
 		//--> where: Format = Year-Month; example: 2021-05
 		//--> Earliest Available: 2020-08
 		//--> Newest Available: 2021-05
-		$iDayCount=7;//to start at 8;
+/* //edited by Mike, 20211020; descending order
+		$iMonthCount=7;//to start at 8;
+		$iYearCount=2020;
+*/
+		$iMonthCount=13;//to start at 12;
 		$iYearCount=2020;
 		
-		//edited by Mike, 20211017
-		//$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
-
-			$sDayCount="";
+		//edited by Mike, 20211020
+//		$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
+		$filename="downloadedNewsletter2020-08.php";
+		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
+		
+//		echo $completeFilename;
+		
+		//added by Mike, 20211020
+		while (file_exists($completeFilename)) {
+			$sMonthCount="";
 			$sYearDay="";
-			
-			$iDayCount=(($iDayCount)%12)+1;
-			
-	//		echo ">>>>>>iDayCount: ".$iDayCount;
+	
+			//edited by Mike, 20211020
+//			$iMonthCount=(($iMonthCount)%12)+1;
+//			$iMonthCount=(($iMonthCount-1)%12);
+			$iMonthCount=$iMonthCount-1;
+		
+			//echo ">>>>>>iDayCount: ".$iDayCount;
+//			echo ">>>>>>iMonthCount: ".$iMonthCount;
 					
 					
-			if ($iDayCount<10) { //1 digit only
-				$sDayCount="0".$iDayCount;
+			if ($iMonthCount<10) { //1 digit only
+				$sMonthCount="0".$iMonthCount;
 			}
 			else {
-				$sDayCount=$iDayCount;
+				$sMonthCount=$iMonthCount;
 			}
-					
-			if ($iDayCount==1) { //new year		
-				$iYearCount=$iYearCount+1;
-			}		
 
-			$sYearDate=$iYearCount."-".$sDayCount;
+			//echo "iDayCount: ".$iDayCount."<br/>";
+	
+/* //edited by Mike, 20211020	
+			if ($iMonthCount==1) { //new year		
+				$iYearCount=$iYearCount+1;				
+			}		
+			
+			//added by Mike, 20211020
+			if ($iYearCount==2021) {
+				break; //downloaded newsletters of year 2021 already searched
+			}
+*/
+			//added by Mike, 20211020
+			if ($iMonthCount==7) {
+				break; //downloaded newsletters until 2020-08
+			}
+
+
+			$sYearDate=$iYearCount."-".$sMonthCount;
 			
 //			$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
 
-			$filename="downloadedNewsletter".$sYearDate;
+			//edited by Mike, 20211020
+//			$filename="downloadedNewsletter".$sYearDate;
+			$filename="downloadedNewsletter".$sYearDate.".php";
 
 			//edited by Mike, 20211017
 			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 				
 			$sYearDirectory="/server/".$sYearDate."/";
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
-				
-//			echo "DITO: ".$completeFilename;
-				
-			if (file_exists($completeFilename)) {
-				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
+							
+			//removed by Mike, 20211020
+//			if (file_exists($completeFilename)) {
+				//edited by Mike, 20211020
+				//added "@" for computer to NOT display warnings
+				if (($handle = @fopen($completeFilename, "r")) !== FALSE) {						
 				  while (!feof($handle)) {		  
 					//edited by Mike, 20211014;
 					//TO-DO: -update: to identify if keyphrase uses 
@@ -867,6 +907,8 @@
 					}
 				  }
 				}							
+			//removed by Mike, 20211020
+//			}
 		}
 	}	
 
