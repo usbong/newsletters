@@ -755,10 +755,85 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 		<br/>
 		<b>Recommended Reading:</b><br/>
 		1) Cassa, A. (2005). Essential Atlas of Physiology (Essential Atlas Series). Spain: Barron's Educational Series. Translated from Spanish by: Marcela Estibill.
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202110/essentialAtlasOfPhysiology.jpg">
+			<br/>
+			Used Book bought @BookSale, Philippines
+			</div>
 		</td>
 	</tr>
 </table>
 <br/>
+<h3>3) Continued to share information on Security Defense Force</h3>
+<h5>
+--> verified: in the Year 2008, the budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group also misused wireless broadcasting technology.<br/>
+<br/>
+--> <b>Target Attacked:</b> SYSON, MICHAEL B. + people near <br/>
+--> <b>Example#1:</b> May 2008, Bonifacio Global City (BGC), Taguig City, Philippines<br/>
+--> <b>Example#2:</b> March 2008~November 2008, Tokyo, Japan.<br/>
+--> Note: Returned momentarily to the Philippines from Japan in May 2008<br/>
+<br/>
+--> identified: the Teroristang Komunista group to be the same repeating criminal group due to <b>repeating techniques</b> that were executed in 2008 are reused in the Year 2021 and earlier.<br/>
+--> Members, e.g. SYSON, RAMON (DR. SYSON, PEDRO's younger brother), became clear in 2017 when by mistake and yabang, they began to let themselves be identified.<br/>
+<br/>
+--> observed: income from their criminal actions, e.g. vehicular theft, became insufficient to their growing group whose members marry and have children.<br/>
+--> This is while the senior members grow older and the income does NOT increase due to members have NOT learned the value of honest work.<br/>
+--> reminder: NO tax paid from income due to vehicular theft<br/>
+<br/>
+--> <b>Example Attacks:</b><br/> 
+--> a) hearing difficulty, b) noise pollution, c) physical stimulation via wireless waves<br/>
+--> identified: c) to be caused by among others:<br/>
+--> electricity, magnetic, heat waves, et cetera from overworked mobile telephones<br/>
+--> <b>Recommended Reading:</b><br/> 
+--> <a class="webServiceLink" target="_blank" href="www.bbc.com/future/article/20130227-what-is-killing-smartphones">www.bbc.com/future/article/20130227-what-is-killing-smartphones</a>; last accessed: 20210915<br/>
+--> Technique to cause breathing difficulty is also reused.<br/>
+--> <b>reminder#1:</b> People near the target's mobile telephone shall also experience the attack.<br/>
+--> <b>reminder#2:</b> Noise pollution causes increase in incidents with vehicular damage and physical injury.<br/>
+<br/>
+--> <b>Expenses Notes</b><br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202110/2008-03-15ShibuyaToShinjukuWalkAtBookstoreEarPoppingSoundTechniqueHearingDifficulty.jpg">
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202110/2008-10-28~29hosuukeiWalkNumberMeasure.jpg">
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202110/2008-10-30EndOfDailyExpensesNoteTelephoneBroadcastingNetworkMisusedAsWeaponByTeroristangKomunistaGroup.jpg">
+			</div>
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				2008-03-15 (Saturday)
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+				2008-10-28 (Tuesday) & 2008-10-29 (Wednesday)
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+				2008-10-30 (Thursday)
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> By 2008-10, attacks still continued to cause need to be at Tokyo Metro Police Station.<br/>
+--> Noise pollution, e.g. sound of talking dog, continued even at the Police Station.<br/>
+--> Existence of attack and technique became clear with Police Unit, et cetera.<br/>
+<br/>
+</h5>
 
 TO-DO: -update: this<br/>
 
