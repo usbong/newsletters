@@ -709,6 +709,56 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 </h5>
 
 <h3>2) Continued to share information on Health</h3>
+--> verified: decrease of >= 1kg in body weight after executing <b>No meat dinner</b><br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202110/noMeatDinner20211005.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			No meat dinner
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> reminder: burn excess body fats via continuous walking of at least 20mins every day<br/>
+--> <b>Recommended Action:</b> verify: pig's heart at the Palengke<br/>
+--> Squeezing pig's heart causes this blood to come out:<br/>
+--> Thick blood that has become more solid and less liquid<br/>
+--> reminder: such thick blood can block passage of liquid blood to cause physical pain<br/>
+--> due to insufficient food coming to cells via the blood river system<br/>
+--> Increased physical pain classified as heart attack leads to death.<br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		The budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group continues to misuse wireless broadcasting technology to cause physical injury.<br/>
+		<br/>
+		<b>Example:</b> Breathing difficulty leading to physical pain due to insufficient food, e.g. oxygen, going to the brain.<br/>
+		<br/>
+		<b>Reminder:</b> There exists Ear, Nose, Throat (ENT) connection.<br/>
+		<br/>
+		<b>Recommended Actions:</b><br/>
+		1) File written incident reports with Law Enforcement<br/>
+		2) Puksain ang Teroristang Komunista; No need for negotiation.<br/>
+		<br/>
+		<b>Recommended Reading:</b><br/>
+		1) Cassa, A. (2005). Essential Atlas of Physiology (Essential Atlas Series). Spain: Barron's Educational Series. Translated from Spanish by: Marcela Estibill.
+		</td>
+	</tr>
+</table>
+<br/>
 
 TO-DO: -update: this<br/>
 
