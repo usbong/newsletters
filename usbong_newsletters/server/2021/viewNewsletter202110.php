@@ -745,7 +745,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 		<td class="noteTableTextColumn">
 		The budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group continues to misuse wireless broadcasting technology to cause physical injury.<br/>
 		<br/>
-		<b>Example:</b> Breathing difficulty leading to physical pain due to insufficient food, e.g. oxygen, going to the brain.<br/>
+		<b>Example:</b> Breathing difficulty leading to physical pain due to insufficient oxygen going to the brain.<br/>
 		<br/>
 		<b>Reminder:</b> There exists Ear, Nose, Throat (ENT) connection.<br/>
 		<br/>
