@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211020
+  @date updated: 20211021
   
   @website address: http://www.usbong.ph
   Input:
@@ -786,7 +786,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> electricity, magnetic, heat waves, et cetera from overworked mobile telephones<br/>
 --> <b>Recommended Reading:</b><br/> 
 --> <a class="webServiceLink" target="_blank" href="www.bbc.com/future/article/20130227-what-is-killing-smartphones">www.bbc.com/future/article/20130227-what-is-killing-smartphones</a>; last accessed: 20210915<br/>
---> Technique to cause breathing difficulty is also reused.<br/>
+--> Technique using sound wave to cause breathing difficulty is also reused to cause c).<br/>
 --> <b>reminder#1:</b> People near the target's mobile telephone shall also experience the attack.<br/>
 --> <b>reminder#2:</b> Noise pollution causes increase in incidents with vehicular damage and physical injury.<br/>
 <br/>
@@ -818,7 +818,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 		</td>
 		<td>
 			<div class="newsletterImageTextDiv">
-				2008-10-28 (Tuesday) & 2008-10-29 (Wednesday)
+				2008-10-28 (Tuesday) &<br/> 2008-10-29 (Wednesday)
 			</div>
 		</td>
 		<td>
