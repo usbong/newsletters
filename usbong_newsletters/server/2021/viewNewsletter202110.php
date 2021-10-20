@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211016
+  @date updated: 20211020
   
   @website address: http://www.usbong.ph
   Input:
@@ -483,6 +483,16 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			</div>
 		</td>
 	</tr>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Bulalakaw Wars<br/>
+			Year 2007 School Project
+			</div>
+		</td>
+	</tr>
 </table>
 <br/>
 --> <b>Reminders:</b> SOH-CAH-TOA<br/> 
@@ -689,7 +699,9 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> <b>OS:</b> <a class="webServiceLink" target="_blank" href="https://docs.microsoft.com/en-us/lifecycle/products/windows-7">Windows 7 Ultimate Service Pack 1 (2009 technology)</a><br/>
 --> <b>Web Server:</b> <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">Apache Web Server</a><br/>
 --> <b>Computer Languages:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP Hypertext Preprocessor (PHP)</a>, <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a><br/>
---> <b>Computer Language Framework:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> + <a class="webServiceLink" target="_blank" href="https://codeigniter.com/download">CodeIgniter Web Framework (version 2.0)</a><br/>
+<!-- removed by Mike, 20211020
+ <b>Computer Language Framework:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> + <a class="webServiceLink" target="_blank" href="https://codeigniter.com/download">CodeIgniter Web Framework (version 2.0)</a><br/>
+-->
 --> <b>Computer Web Browser:</b> <a class="webServiceLink" target="_blank" href="https://www.mozilla.org/en-US/firefox/products/">Mozilla Firefox</a><br/>
 --> <b>Computer Software:</b> <a class="webServiceLink" target="_blank" href="https://notepad-plus-plus.org/">Notepad++</a><br/>
 --> <b>Reused Software Parts:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">Usbong Knowledge Management System (KMS)</a><br/>
