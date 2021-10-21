@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211021
+  @date updated: 20211022
   
   @website address: http://www.usbong.ph
   Input:
@@ -445,8 +445,9 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		↑ KNOW-HOW causes<br/>
-		RANK-UP TO BE UNIT CHIEF<br/>
+		｢無関心は協力者？！｣<br/> 
+		"mukanshin ha kyouryokusha?!"<br/>
+		"Ang walang paki, taong tumutulong (sa Terorista)?!"<br/>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -792,7 +793,6 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> Technique using sound wave to cause breathing difficulty is also reused to cause c).<br/>
 --> <b>reminder#1:</b> People near the target's mobile telephone shall also experience the attack.<br/>
 --> <b>reminder#2:</b> Noise pollution causes increase in incidents with vehicular damage and physical injury.<br/>
---> observed: in 2021, Android telephone speaker's sound wave reaches >=40meters<br/>
 <br/>
 --> <b>Expenses Notes</b><br/>
 <table>
@@ -868,7 +868,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> <b>Reminder:</b><br/>
 -->  ｢無関心は協力者？！｣<br/> 
 --> "mukanshin ha kyouryokusha?!"<br/>
---> "Ang walang paki, taong tumutulong (sa terorista)?!"<br/>
+--> "Ang walang paki, taong tumutulong (sa Terorista)?!"<br/>
 --> Anti-Terrorism Partnership, TOKYO<br/>
 --> <a class="webServiceLink" target="_blank" href="https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html">https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html</a>; last accessed: 20211021<br/>
 --> <b>Layunin:</b> Mapabilis ang sistema upang mapuksa na ang mga Teroristang Komunista.<br/>
