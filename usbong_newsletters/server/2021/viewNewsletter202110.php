@@ -353,10 +353,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20211021
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<!-- //edited by Mike, 20210831
-	<base href="http://store.usbong.ph/" target="_blank">
 -->
+	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
 	  <script>
@@ -792,6 +792,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> Technique using sound wave to cause breathing difficulty is also reused to cause c).<br/>
 --> <b>reminder#1:</b> People near the target's mobile telephone shall also experience the attack.<br/>
 --> <b>reminder#2:</b> Noise pollution causes increase in incidents with vehicular damage and physical injury.<br/>
+--> observed: in 2021, Android telephone speaker's sound wave reaches >=40meters<br/>
 <br/>
 --> <b>Expenses Notes</b><br/>
 <table>
