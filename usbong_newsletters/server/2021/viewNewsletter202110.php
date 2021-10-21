@@ -778,7 +778,10 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 <br/>
 --> observed: income from their criminal actions, e.g. vehicular theft, became insufficient to their growing group whose members marry and have children.<br/>
 --> This is while the senior members grow older and the income does NOT increase due to members have NOT learned the value of honest work.<br/>
---> reminder: NO tax paid from income due to vehicular theft<br/>
+--> <b>reminder#1:</b> NO tax paid from income due to vehicular theft<br/>
+--> <b>reminder#2:</b> Teroristang Komunista group intentionally causes vehicular incidents.<br/>
+--> <b>reminder#3:</b> Vehicular incidents increases excess expenses @Insurance Company.<br/>
+--> observed: pattern of selling household's vehicles at lesser value after incidents.<br/>
 <br/>
 --> <b>Example Attacks:</b><br/> 
 --> a) hearing difficulty, b) noise pollution, c) physical stimulation via wireless waves<br/>
@@ -832,7 +835,42 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> By 2008-10, attacks still continued to cause need to be at Tokyo Metro Police Station.<br/>
 --> Noise pollution, e.g. sound of talking dog, continued even at the Police Station.<br/>
 --> Existence of attack and technique became clear with Police Unit, et cetera.<br/>
+--> After identification to be the target of attack, returned to Company Dormitory.<br/>
+--> However, noise pollution continued.<br/>
+--> Returned to the Philippines; Noise pollution still continued.<br/>
 <br/>
+--> verified: as recommended to ignore the noise pollution by classifying it as thought and ideas<br/>
+--> Between Years 2009~2011, attacks by the Teroristang Komunista were ignored to be NOT noticeable.<br/>
+--> However, criminal incidents, e.g. carnapping/vehicular theft, continued.<br/>
+--> <b>Example:</b> ISUZU Trooper (Automatic Transmission) disappears outside Santuario de San Jose Church during the Simbang Gabi; Incident reported with Police Unit @San Juan, Greenhills.<br/>
+<br/>
+--> verified: incident caused by the Teroristang Komunista group who even in October 2021 continues to execute without permit household observation with noise pollution.<br/> 
+--> observed: pattern of theft inside house occurs by notifying thieves of date and time when househould members are outside.<br/> 
+--> <b>reminder:</b> Teroristang Komunista group misuses wireless broadcasting technology.<br/>
+--> <b>result#1:</b> Filipino citizens do NOT learn Maparaang Pagbibilang.<br/>
+--> <b>result#2:</b> Filipino citizens do NOT achieve financial success greater than their group's children.<br/>
+<br/>
+--> verified: ignoring noise pollution has become insufficient due to increase in physical attacks<br/>
+--> <b>Example:</b> Electric wave to become dizzy when executing quick and correct accounting computations for Bureau of Internal Revenue (BIR) Tax Reporting<br/>
+--> identified: attackers who due to need for quick money made mistakes and became arrogant<br/>
+--> where: arrogant = mayabang<br/>
+--> classified: attackers to be Teroristang Komunista<br/>
+--> filed: incident reports with Law Enforcement, Banks, BIR, Electricity Company, et cetera<br/>
+--> identified: members to include among others:<br/> 
+--> SYSON, RYAN (son of SYSON, RAMON who is also a Teroristang Komunista)<br/>
+<br/>
+--> <b>Recommended Actions:</b><br/>
+--> 1) Report incident with Law Enforcement<br/>
+--> 2) Contact Law Enforcement<br/>
+--> 3) Consult with Law Enforcement<br/>
+<br/>
+--> <b>Reminder:</b><br/>
+-->  ｢無関心は協力者？！｣<br/> 
+--> "mukanshin ha kyouryokusha?!"<br/>
+--> "Ang walang paki, taong tumutulong (sa terorista)?!"<br/>
+--> Anti-Terrorism Partnership, TOKYO<br/>
+--> <a class="webServiceLink" target="_blank" href="https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html">https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html</a>; last accessed: 20211021<br/>
+--> <b>Layunin:</b> Mapabilis ang sistema upang mapuksa na ang mga Teroristang Komunista.<br/>
 </h5>
 
 TO-DO: -update: this<br/>
