@@ -468,8 +468,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
 <h5>1.1.1) shared: with Public, goal: execute in 1month work valued by client at >=3months<br/>
 --> <b>Example:</b> Total Income (3months): PHP90,000 (100%)<br/>
---> Total Expenses (Tax, SSS, PhilHealth, Pag-Ibig, et cetara included): PHP30,000 (33%)<br/>
---> Total Saved: PHP60,000 (66%)<br/>
+--> Total Expenses (Tax, SSS, PhilHealth, Pag-Ibig, et cetara included): PHP30,000 (33.3%)<br/>
+--> Total Saved: PHP60,000 (66.7%)<br/>
 <br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
@@ -481,20 +481,30 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		It is doable to start at 10% savings. Increase this with increasing know-how.<br/>
 		<b>Example:</b> Execute investment in Mutual Funds, e.g. Peso Bonds.<br/>
 		<br/>
-		<b>Reminder:</b> Verify that increase in your work years also causes increase in your know-how. Increase in Total Income causes Increase in Total Expenses.<br/>
+		<b>Reminder:</b> verify: increase in your work years also causes increase in your know-how. Increase in Total Income causes Increase in Total Expenses.<br/>
 		<br/>
-		With those who are already married and have children, Total Saved decreases.<br/>
+		With those who are already married and have children, Total Saved money decreases.<br/>
 		<br/>
 		<b>Recommended Actions:</b><br/>	
 		1) Spouse contributes in family work by increasing income and/or decreasing expenses.<br/>
-		2) Children Count: 2; increase if financially capable after computation<br/>
-		--> learn: Female egg and NO-egg counting<br/>
-		TO-DO: -update: this<br/>
 		<br/>
-		3) When children reach 16years old, set household to be as company dormitory.<br/>
-		4) By 18years old, allow children to execute skilled work, e.g. computer programming.<br/>		
-		5) By 20years old, send children to Japan for at least 10months of study abroad.<br/>
-		--> verify: that savings pattern results in sufficient money to execute this action.
+		2) Children Count: 2; increase if financially capable after computation<br/>
+		--> learn: <b>Fertility Awareness Method (FAM) of Contraception</b><br/> 
+		--> Female egg and NO-egg counting<br/>
+		--> <b>Example (NO-egg):</b> Count 25 days after 1st Day of Menstruation<br/>
+		--> Executable whether regular or irregular menstrual cycle pattern<br>
+		--> <b>Reminder:</b> Female egg + Male sperm causes conception</b><br/> 
+		<br/>
+		<b>Reference:</b><br/>
+		2.1) Insel, P., et al. 2008. Core Concepts in Health (10th Ed.). NY: McGraw-Hill<br/>
+		<br/>
+		3) When child reaches 16yrs old, set household to be as company dormitory.<br/>
+		<br/>
+		4) By 18yrs old, allow children to execute skilled work,<br/> 
+		--> e.g. computer program writing.<br/>		
+		<br/>
+		5) By 20yrs old, send children to Japan for >=10months of study abroad.<br/>
+		--> verify: savings pattern results in sufficient money to execute this action.<br/>
 	</tr>
 </table>
 
