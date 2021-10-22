@@ -588,7 +588,6 @@
 					echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
 				}
 
-
 				echo "... ";
 				//edited by Mike, 20211013
 	//				echo $cellValue;
@@ -638,7 +637,10 @@
 					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos+$iOffset);
 				}
 
-				echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
+				//edited by Mike, 20211022
+				//echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
+//				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,280);
+				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,160);
 				
 				echo " ...";
 			echo "</td>
@@ -718,8 +720,9 @@
 					//edited by Mike, 20211014;
 					//TO-DO: -update: to identify if keyphrase uses 
 					//the previous read batch and the next batch
-					//edited by Mike, 20211014
-					$data = fread($handle, 128);
+					//edited by Mike, 20211014; edited again by Mike, 20211022
+					//$data = fread($handle, 128);
+					$data = fread($handle,filesize($completeFilename));										
 //					$data = fread($handle, 164);
 		
 					//edited by Mike, 20211013
@@ -728,41 +731,85 @@
 //					$cellValue = strip_tags(utf8_encode($data));
 					$cellValue = strip_tags($data);
 
-//					echo ">>".$cellValue;
+/*					//added by Mike, 20211022
+					//TO-DO: -remove: remaining comments, css, functions
+					//Reference: https://stackoverflow.com/questions/1886740/php-remove-javascript;
+					//last accessed: 20211022
+					//answer by: bng44270, 20091211
+					//edited by: 20120301T1234
+					echo "cellValue: ".$cellValue;
 
-					//added by Mike, 20211014
-					//sKeyphrase does NOT exist in $cellValue
-					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
-						if (!feof($handle)) {
-							//edited by Mike, 20211017; add string of characters after sKeyPhrase
-							//$nextData=fread($handle, strlen($sKeyphrase));
-							$iCellValueTailLength=1020; //note: max 100000000;//42;							
-							
-							//note: read until there exists Characters in $cellValue
-							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
-							
-							$data = $data.$nextData;
-							$cellValue = strip_tags($data);	
-						}						
+					while (true) {
+					  echo "start position: ".strpos($cellValue,"<script");
+
+					  if ($iStart = strpos($cellValue,"<script")) {
+						$iStringLength = (strpos($cellValue,"</script>") + strlen("</script>")) - $iStart;
+						$cellValue = substr_replace($cellValue, "", $iStart, $iStringLength);
+					  } else {
+						break;
+					  }
 					}
-	
+*/
 
-					//edited by Mike, 20211014
-					//sKeyphrase: case-sensitive OFF
-	//				if (strpos($cellValue,$sKeyphrase)!==false) {
-					//edited by Mike, 20211014
-					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
 
-						//added by Mike, 20211016
-						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
-						
+/* //removed by Mike, 20211022	
+					//added by Mike, 20211022
+					$iReadCountOfCellValue=0;
+					$iCellValueLength=strlen($cellValue);
+					while ($iReadCountOfCellValue<$iCellValueLength) {
+*/
+	//					echo ">>".$cellValue;
+
 						//added by Mike, 20211014
-						$bHasFoundKeyphrase=true;
+						//sKeyphrase does NOT exist in $cellValue
+						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
+							if (!feof($handle)) {
+								//edited by Mike, 20211017; add string of characters after sKeyPhrase
+								//$nextData=fread($handle, strlen($sKeyphrase));
+								//edited by Mike, 20211022
+								$iCellValueTailLength=20;//1020; //note: max 100000000;//42;							
+								
+								//note: read until there exists Characters in $cellValue
+								$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
+								
+								$data = $data.$nextData;
+								$cellValue = strip_tags($data);	
+							}						
+						}
+		
 
-						//display only the first result with keyphrase found from each existing file
-						break;						
+						//edited by Mike, 20211014
+						//sKeyphrase: case-sensitive OFF
+		//				if (strpos($cellValue,$sKeyphrase)!==false) {
+						//edited by Mike, 20211014
+						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+
+							//added by Mike, 20211016
+							autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
+							
+							//added by Mike, 20211014
+							$bHasFoundKeyphrase=true;
+
+							//display only the first result with keyphrase found from each existing file
+							break;						
+						}
+	
+/* //removed by Mike, 20211022	
+						//added by Mike, 20211022
+						$iReadCountOfCellValue=$iReadCountOfCellValue+128;
+						if ($iReadCountOfCellValue>$iCellValueLength) {
+							$iReadCountOfCellValue=($iReadCountOfCellValue-$iCellValueLength)-$iCellValueLength;
+						}		
+*/						
+					}
+
+/* //removed by Mike, 20211022	
+					//added by Mike, 20211022
+					if ($bHasFoundKeyphrase) {
+						break;
 					}
 				  }
+*/					
 				}							
 			}
 		  //added by Mike, 20211014
@@ -862,8 +909,8 @@
 					//edited by Mike, 20211014;
 					//TO-DO: -update: to identify if keyphrase uses 
 					//the previous read batch and the next batch
-					//edited by Mike, 20211014
-					$data = fread($handle, 128);
+					//edited by Mike, 20211014; edited again by Mike, 20211022
+//					$data = fread($handle, 128);
 
 					//added by Mike 20211022
 					//TO-DO: -reverify: increase in fread
@@ -873,6 +920,7 @@
 					//$data as $cellValue NOT classified as HTML
 					//execute with downloaded newsletters 2020 and 2021
 //					$data = fread($handle, 204800);
+					fread($handle,filesize($completeFilename));
 
 //					$data = fread($handle, 164);
 		
@@ -890,7 +938,8 @@
 						if (!feof($handle)) {
 							//edited by Mike, 20211017; add string of characters after sKeyPhrase
 							//$nextData=fread($handle, strlen($sKeyphrase));
-							$iCellValueTailLength=1020; //note: max 100000000;//42;							
+							//edited by Mike, 20211022
+							$iCellValueTailLength=20;//1020; //note: max 100000000;//42;							
 							
 							//note: read until there exists Characters in $cellValue
 							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
