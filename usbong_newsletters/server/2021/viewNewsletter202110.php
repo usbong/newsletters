@@ -840,10 +840,11 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> However, noise pollution continued.<br/>
 --> Returned to the Philippines; Noise pollution still continued.<br/>
 <br/>
---> verified: as recommended to ignore the noise pollution by classifying it as thought and ideas<br/>
+--> verified: as recommended to ignore the noise pollution by classifying it as <b>thought and ideas</b><br/>
 --> Between Years 2009~2011, attacks by the Teroristang Komunista were ignored to be NOT noticeable.<br/>
 --> However, criminal incidents, e.g. carnapping/vehicular theft, continued.<br/>
---> <b>Example:</b> ISUZU Trooper (Automatic Transmission) disappears outside Santuario de San Jose Church during the Simbang Gabi; Incident reported with Police Unit @San Juan, Greenhills.<br/>
+--> <b>Example:</b> ISUZU Sports Utility Vehicle (SUV; Automatic Transmission) disappeared outside Santuario de San Jose Church during the Simbang Gabi (Month of December);<br/> 
+--> Incident reported with Police Unit @San Juan, Greenhills.<br/>
 <br/>
 --> verified: incident caused by the Teroristang Komunista group who even in October 2021 continues to execute without permit household observation with noise pollution.<br/> 
 --> observed: pattern of theft inside house occurs by notifying thieves of date and time when househould members are outside.<br/> 
@@ -861,9 +862,9 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> SYSON, RYAN (son of SYSON, RAMON who is also a Teroristang Komunista)<br/>
 <br/>
 --> <b>Recommended Actions:</b><br/>
---> 1) Report incident with Law Enforcement<br/>
---> 2) Contact Law Enforcement<br/>
---> 3) Consult with Law Enforcement<br/>
+--> 1) <b>Report (報告; <u>hou</u>koku)</b> incident with Law Enforcement<br/>
+--> 2) <b>Contact (連絡; <u>ren</u>raku)</b> Law Enforcement<br/>
+--> 3) <b>Consult (相談; <u>sou</u>dan)</b> with Law Enforcement<br/>
 <br/>
 --> <b>Reminder:</b><br/>
 -->  ｢無関心は協力者？！｣<br/> 
