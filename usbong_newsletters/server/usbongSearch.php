@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211020
+  @date updated: 20211022
   @website address: http://www.usbong.ph
 
   Input:
@@ -864,6 +864,16 @@
 					//the previous read batch and the next batch
 					//edited by Mike, 20211014
 					$data = fread($handle, 128);
+
+					//added by Mike 20211022
+					//TO-DO: -reverify: increase in fread
+					//to eliminate excess HTML tags
+					//using strip_tags(...) COMMAND
+					//reminder: with read length @128, 
+					//$data as $cellValue NOT classified as HTML
+					//execute with downloaded newsletters 2020 and 2021
+//					$data = fread($handle, 204800);
+
 //					$data = fread($handle, 164);
 		
 					//edited by Mike, 20211013
