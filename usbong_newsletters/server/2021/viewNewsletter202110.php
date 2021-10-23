@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211022
+  @date updated: 20211023
   
   @website address: http://www.usbong.ph
   Input:
@@ -767,15 +767,19 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 <br/>
 <h3>3) Continued to share information on Security Defense Force</h3>
 <h5>
---> verified: in the Year 2008, the budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group also misused wireless broadcasting technology.<br/>
+--> verified: in the Year 2008, over 10years ago, the budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group also misused wireless broadcasting technology.<br/>
 <br/>
 --> <b>Target Attacked:</b> SYSON, MICHAEL B. + people near <br/>
+<br/>
 --> <b>Example#1:</b> May 2008, Bonifacio Global City (BGC), Taguig City, Philippines<br/>
---> <b>Example#2:</b> March 2008~November 2008, Tokyo, Japan.<br/>
---> Note: Returned momentarily to the Philippines from Japan in May 2008<br/>
+--> vehicular incident between Motorcycle Bike and FORD Escape Sports Utility Vehicle (SUV)<br/>
+--> Both parties in incident had to set meetings at Taguig City Public Trial Court.<br/>
+--> Teroristang Komunista group who caused the incident by adding noise pollution still has NOT confessed crime to Law Enforcement.<br/>
 <br/>
 --> identified: the Teroristang Komunista group to be the same repeating criminal group due to <b>repeating techniques</b> that were executed in 2008 are reused in the Year 2021 and earlier.<br/>
---> Members, e.g. SYSON, RAMON (DR. SYSON, PEDRO's younger brother), became clear in 2017 when by mistake and yabang, they began to let themselves be identified.<br/>
+--> identified: wirelessly broadcasted noise pollution to be the same technique used and reused by SYSON, RAMON (younger brother of DR. SYSON, PEDRO, who is SYSON, MICHAEL B.'s father)<br/>
+<br/>
+--> Members, e.g. SYSON, RAMON, became clear in 2017 when by mistake and yabang, they began to let themselves be identified.<br/>
 <br/>
 --> observed: income from their criminal actions, e.g. vehicular theft, became insufficient to their growing group whose members marry and have children.<br/>
 --> This is while the senior members grow older and the income does NOT increase due to members have NOT learned the value of honest work.<br/>
@@ -783,6 +787,10 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> <b>reminder#2:</b> Teroristang Komunista group intentionally causes vehicular incidents.<br/>
 --> <b>reminder#3:</b> Vehicular incidents increases excess expenses @Insurance Company.<br/>
 --> observed: pattern of selling household's vehicles at lesser value after incidents.<br/>
+<br/>
+--> <b>Example#2:</b> March 2008~November 2008, Tokyo, Japan.<br/>
+--> Note: Returned momentarily to the Philippines from Japan in May 2008<br/>
+--> <b>Criminal Attacks by Teroristang Komunista group:</b> International classification<br/>
 <br/>
 --> <b>Example Attacks:</b><br/> 
 --> a) hearing difficulty, b) noise pollution, c) physical stimulation via wireless waves<br/>
@@ -840,7 +848,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> However, noise pollution continued.<br/>
 --> Returned to the Philippines; Noise pollution still continued.<br/>
 <br/>
---> verified: as recommended to ignore the noise pollution by classifying it as <b>thought and ideas</b><br/>
+--> verified: as recommended to ignore the noise pollution by classifying it as <b>thoughts and ideas</b><br/>
 --> Between Years 2009~2011, attacks by the Teroristang Komunista were ignored to be NOT noticeable.<br/>
 --> However, criminal incidents, e.g. carnapping/vehicular theft, continued.<br/>
 --> <b>Example:</b> ISUZU Sports Utility Vehicle (SUV; Automatic Transmission) disappeared outside Santuario de San Jose Church during the Simbang Gabi (Month of December);<br/> 
@@ -874,9 +882,6 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> <a class="webServiceLink" target="_blank" href="https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html">https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html</a>; last accessed: 20211021<br/>
 --> <b>Layunin:</b> Mapabilis ang sistema upang mapuksa na ang mga Teroristang Komunista.<br/>
 </h5>
-
-TO-DO: -update: this<br/>
-
 	<br>
 	<br />
 	<div class="copyright">
