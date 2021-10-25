@@ -357,7 +357,6 @@
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
 	<base href="http://store.usbong.ph/" target="_blank">
-
   </head>
 	  <script>
 	  </script>
@@ -467,9 +466,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
 <h5>1.1.1) shared: with Public, goal: execute in 1month work valued by client at >=3months<br/>
---> <b>Example:</b> Total Income (3months): PHP90,000 (100%)<br/>
---> Total Expenses (Tax, SSS, PhilHealth, Pag-Ibig, et cetara included): PHP30,000 (33.3%)<br/>
+--> <b>Example (3months):</b> Total Income: PHP90,000 (100%)<br/>
+--> Total Expenses (Tax, SSS, PhilHealth, Pag-Ibig, et cetera included): PHP30,000 (33.3%)<br/>
 --> Total Saved: PHP60,000 (66.7%)<br/>
+--> <b>Note:</b> Total Income (1month) PAYS Total Expenses (3months) @PHP30,000 (33.3%)<br/>
 <br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
@@ -478,15 +478,16 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-		It is doable to start at 10% savings. Increase this with increasing know-how.<br/>
+		It is doable to start at 10% Total Saved money.<br/>
+		Increase this with increasing know-how.<br/>
 		<br/>
 		<b>Example:</b> Execute investment in Mutual Funds, e.g. Peso Bonds.<br/>
 		where: <b>Peso Bonds</b> = money lent with interest to Philippine goverment for Administration to execute public projects<br/>
 		where: <b>public project example</b> = road building to speed-up delivery of products, e.g. fresh milk<br/>
 		<br/>
-		<b>Reminder:</b> verify: increase in your work years also causes increase in your know-how. Increase in Total Income causes Increase in Total Expenses.<br/>
-		<br/>
-		With those who are already married and have children, Total Saved money decreases.<br/>
+		<b>Reminder#1:</b> verify: increase in your work years also causes increase in your know-how<br/> 
+		<b>Reminder#2:</b> Increase in Total Income causes Increase in Total Expenses<br/>
+		<b>Reminder#3:</b> With those who are already married and have children, Total Saved money decreases.<br/>
 		<br/>
 		<b>Recommended Actions:</b><br/>	
 		1) Spouse contributes in family work by increasing income and/or decreasing expenses.<br/>
@@ -500,6 +501,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		<b>Reference:</b><br/>
 		2.1) Insel, P., et al. 2008. Core Concepts in Health (10th Ed.). NY: McGraw-Hill<br/>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202111/CoreConceptsInHealth10thEd.jpg">
+			<br/>
+			Used Book bought @BookSale, Philippines
+			</div>
 		<br/>
 		3) When child reaches 16yrs old, set household to be as company dormitory.<br/>
 		<br/>
