@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211023
+  @date updated: 20211025
   
   @website address: http://www.usbong.ph
   Input:
@@ -732,7 +732,7 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> reminder: burn excess body fats via continuous walking of at least 20mins every day<br/>
 --> <b>Recommended Action:</b> verify: pig's heart at the Palengke<br/>
 --> Squeezing pig's heart causes this blood to come out:<br/>
---> Thick blood that has become more solid and less liquid<br/>
+--> <b>Thick blood that has become more solid and less liquid</b><br/>
 --> reminder: such thick blood can block passage of liquid blood to cause physical pain<br/>
 --> due to insufficient food coming to cells via the blood river system<br/>
 --> Increased physical pain classified as heart attack leads to death.<br/>
