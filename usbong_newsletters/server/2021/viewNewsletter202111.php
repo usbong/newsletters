@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211023
+  @date updated: 20211026
   
   @website address: http://www.usbong.ph
   Input:
@@ -482,7 +482,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		Increase this with increasing know-how.<br/>
 		<br/>
 		<b>Example:</b> Execute investment in Mutual Funds, e.g. Peso Bonds.<br/>
-		where: <b>Peso Bonds</b> = money lent with interest to Philippine goverment for Administration to execute public projects<br/>
+		where: <b>Peso Bonds</b> = money lent with interest to Philippine government for Administration to execute public projects<br/>
 		where: <b>public project example</b> = road building to speed-up delivery of products, e.g. fresh milk<br/>
 		<br/>
 		<b>Reminder#1:</b> verify: increase in your work years also causes increase in your know-how<br/> 
