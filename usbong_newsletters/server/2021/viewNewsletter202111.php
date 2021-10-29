@@ -591,14 +591,14 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		--> <b>Reminder:</b> End Result of SOCIAL CANCER = DEATH<br/>
 		<br/>
 		<b>Recommended Action:</b><br/>
-		--> 1) Execute Alles Klar, i.e. ALL CLEAR, to eliminate CHAOS/Gulo<br/>
+		--> 1) Execute Alles klar, i.e. ALL CLEAR, to eliminate CHAOS/Gulo<br/>
 		--> <b>Halimbawa:</b> LINAWIN ang MALABO.<br/>
 		--> 2) Puksain ang mga Teroristang Komunista/Manloloko;<br/> 
 		--> No need for negotiation.<br/>
 		<br/>
 		<b>Additional Note:</b><br/>
 		--> 1) To destroy Teroristang Komunista, increase your available <b>Energy</b>.<br/>
-		--> <b>Light & Water</b> create <b>Energy</b> classified to be <b>Nuclear</b><br/>
+		--> <b>Light & Water</b> create <b>Energy</b> classified to be <b>Nuclear</b>.<br/>
 		--> where: <b>Nuclear Energy</b> = Exponential Energy<br/>
 		--> where: <b>Nuclear</b> : Community・Family・Company<br/>
 		</td>
