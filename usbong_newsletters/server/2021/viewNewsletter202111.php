@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211026
+  @date updated: 20211029
   
   @website address: http://www.usbong.ph
   Input:
@@ -353,10 +353,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20211021
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
+<!-- //edited by Mike, 20211029
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
+
   </head>
 	  <script>
 	  </script>
@@ -517,6 +518,94 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		--> verify: savings pattern results in sufficient money to execute this action.<br/>
 	</tr>
 </table>
+<br/>
+<br/>
+</h5>
+
+<h3>2) Continued with Research & Development (R&D)</h3>
+<h4>2.1) <a class="webServiceLink" target="_blank" href="https://github.com/usbong/pagong">Usbong Pagong</a>: Unit Movement Direction from RIGHT to LEFT
+</h4>
+<div class="newsletterImageTextDiv">
+<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202111/usbongPagongFromRightToLeftUnitMovementV20211028T1645.gif">
+</div>
+<br/>	
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202111/fromRightToLeftUnitMovementNote20211028.jpg">
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202111/fromRightToLeftUnitMovementComputerExecutedNote20211028.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Plan: Hand Written by Human		
+			</div>
+		</td>
+		<td>
+			<div class="newsletterImageTextDiv">
+			Actual: Executed by Computer
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		In this case, it is faster to capture the technique by first writing by hand a plan with the intended output.<br/>
+		<br/>
+		From the plan, we identify patterns that we can use to write the instructions that the computer can auto-execute repeatedly.<br/>
+		<br/>
+		<b>Example Pattern:</b> We move Unit members to the RIGHT of the Unit Chief.<br/>
+		--> After movement, we move the remaining Unit members still on the LEFT of the Unit Chief a step to the right, but still on the LEFT of Unit Chief.<br/>
+		<br/>
+		After identifying patterns, we write short notes that we afterward translate into Computer Language, e.g. C/C++.<br/>
+		<br/>		
+		<b>Execution Steps:</b><br/>
+		<b>IF</b> current Unit member still to the LEFT of Unit Chief<br/>
+		--> <b>IF</b> current Unit member <u>immediately</u> to the LEFT of Unit Chief<br/>
+		----> move to the RIGHT of Unit Chief based on Unit <u>Identification#</u><br/>
+		--> <b>ELSE</b><br/>
+		----> move 1 STEP to the RIGHT, but still LEFT of Unit Chief<br/>
+		<b>ELSE</b><br/>
+		--> move to the RIGHT of Unit Chief based on Unit <u>Identification#</u><br/>
+		<br/>
+		<b>Reminders:</b>
+		CHAOS = Gulo<br/>
+		--> Panlolokong Ingay from the Teroristang Komunita causes CHAOS<br/>
+		--> Increase in Teroristang Komunista : Speed-up of SOCIAL CANCER<br/>
+		--> where: Teroristang Komunista = budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group who continues to misuse wireless broadcasting technology to cause noise pollution and physical injury.<br/>
+		--> <b>Reminder:</b> End Result of SOCIAL CANCER = DEATH<br/>
+		<br/>
+		<b>Recommended Action:</b><br/>
+		--> 1) Execute Alles Klar, i.e. ALL CLEAR, to eliminate CHAOS/Gulo<br/>
+		--> <b>Halimbawa:</b> LINAWIN ang MALABO.<br/>
+		--> 2) Puksain ang mga Teroristang Komunista/Manloloko;<br/> 
+		--> No need for negotiation.<br/>
+		<br/>
+		<b>Additional Note:</b><br/>
+		--> 1) To destroy Teroristang Komunista, increase your available <b>Energy</b>.<br/>
+		--> <b>Light & Water</b> create <b>Energy</b> classified to be <b>Nuclear</b><br/>
+		--> where: <b>Nuclear Energy</b> = Exponential Energy<br/>
+		--> where: <b>Nuclear</b> : Community・Family・Company<br/>
+		</td>
+	</tr>
+</table>
+
+
 
 
 
