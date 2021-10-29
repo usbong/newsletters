@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211025
+  @date updated: 20211029
   
   @website address: http://www.usbong.ph
   Input:
@@ -774,7 +774,11 @@ TOA = TANGENT(angle) = Opposite / Adjacent<br/>
 --> <b>Example#1:</b> May 2008, Bonifacio Global City (BGC), Taguig City, Philippines<br/>
 --> vehicular incident between Motorcycle Bike and FORD Escape Sports Utility Vehicle (SUV)<br/>
 --> Both parties in incident had to set meetings at Taguig City Public Trial Court.<br/>
+--> Total Elapsed Time to Finish (between both parties): <b>3 years</b><br/>
+--> <b>Reminder:</b> Meeting re-set to another day due to absence causing delay<br/>
 --> Teroristang Komunista group who caused the incident by adding noise pollution still has NOT confessed crime to Law Enforcement.<br/>
+--> In its stead, Teroristang Komunista group continues to cause noise pollution with physical injury.<br/>
+--> <b>Reminder:</b> No need to negotiate with Teroristang Komunista group.<br/>
 <br/>
 --> identified: the Teroristang Komunista group to be the same repeating criminal group due to <b>repeating techniques</b> that were executed in 2008 are reused in the Year 2021 and earlier.<br/>
 --> identified: wirelessly broadcasted noise pollution to be the same technique used and reused by SYSON, RAMON (younger brother of DR. SYSON, PEDRO, who is SYSON, MICHAEL B.'s father)<br/>
