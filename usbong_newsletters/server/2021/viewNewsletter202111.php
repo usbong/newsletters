@@ -353,10 +353,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
 <!-- //edited by Mike, 20211029
-	<base href="http://store.usbong.ph/" target="_blank">
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
+
+	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
 	  <script>
@@ -569,12 +570,13 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		From the plan, we identify patterns that we can use to write the instructions that the computer can auto-execute repeatedly.<br/>
 		<br/>
-		<b>Example Pattern:</b> We move Unit members to the RIGHT of the Unit Chief.<br/>
-		--> After movement, we move the remaining Unit members still on the LEFT of the Unit Chief a step to the right, but still on the LEFT of Unit Chief.<br/>
+		<b>Example Pattern:</b><br/> 
+		--> We move each Unit member to the RIGHT of the Unit Chief.<br/>
+		--> After each movement, we move the remaining Unit members still on the LEFT of the Unit Chief a step to the right, but still on the LEFT of Unit Chief.<br/>
 		<br/>
 		After identifying patterns, we write short notes that we afterward translate into Computer Language, e.g. C/C++.<br/>
 		<br/>		
-		<b>Execution Steps:</b><br/>
+		<b>Example Note of Execution Steps:</b><br/>
 		<b>IF</b> current Unit member still to the LEFT of Unit Chief<br/>
 		--> <b>IF</b> current Unit member <u>immediately</u> to the LEFT of Unit Chief<br/>
 		----> move to the RIGHT of Unit Chief based on Unit <u>Identification#</u><br/>
