@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211029
+  @date updated: 20211030
   
   @website address: http://www.usbong.ph
   Input:
@@ -353,11 +353,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20211029
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
-
+<!-- //edited by Mike, 20211029
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
 
   </head>
 	  <script>
@@ -570,13 +569,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		From the plan, we identify patterns that we can use to write the instructions that the computer can auto-execute repeatedly.<br/>
 		<br/>
-		<b>Example Pattern:</b><br/> 
-		--> We move each Unit member to the RIGHT of the Unit Chief.<br/>
-		--> After each movement, we move the remaining Unit members still on the LEFT of the Unit Chief a step to the right, but still on the LEFT of Unit Chief.<br/>
+		<b>Example Pattern:</b> We move Unit members to the RIGHT of the Unit Chief.<br/>
+		--> After movement, we move the remaining Unit members still on the LEFT of the Unit Chief a step to the right, but still on the LEFT of Unit Chief.<br/>
 		<br/>
 		After identifying patterns, we write short notes that we afterward translate into Computer Language, e.g. C/C++.<br/>
 		<br/>		
-		<b>Example Note of Execution Steps:</b><br/>
+		<b>Execution Steps:</b><br/>
 		<b>IF</b> current Unit member still to the LEFT of Unit Chief<br/>
 		--> <b>IF</b> current Unit member <u>immediately</u> to the LEFT of Unit Chief<br/>
 		----> move to the RIGHT of Unit Chief based on Unit <u>Identification#</u><br/>
@@ -585,17 +583,19 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<b>ELSE</b><br/>
 		--> move to the RIGHT of Unit Chief based on Unit <u>Identification#</u><br/>
 		<br/>
-		<b>Reminders:</b>
-		CHAOS = Gulo<br/>
-		--> Panlolokong Ingay from the Teroristang Komunita causes CHAOS<br/>
-		--> Increase in Teroristang Komunista : Speed-up of SOCIAL CANCER<br/>
-		--> where: Teroristang Komunista = budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group who continues to misuse wireless broadcasting technology to cause noise pollution and physical injury.<br/>
+		--> <b>Reminder:</b> <b>CHAOS</b> = <b>Gulo</b><br/>
+		--> Panlolokong Ingay from the <b>Teroristang Komunita</b> causes <b>CHAOS</b><br/>
+		--> Increase in <b>Teroristang Komunista</b> : Speed-up of <b>SOCIAL CANCER</b><br/>
+		--> where: <b>Teroristang Komunista</b> = budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group who continues to misuse wireless broadcasting technology to cause noise pollution and physical injury.<br/>
 		--> <b>Reminder:</b> End Result of SOCIAL CANCER = DEATH<br/>
-		<br/>
+		--> where: <b>CANCER Cell</b> = <b>Teroristang Komunista・Manloloko</b><br/>
+		--> <b>Reminder:</b> Human Body : Human Society; Increased Scale<br/>
+		--> <b>Recommended Reading:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/UsbongStore/blob/master/usbong_store/assets/images/books/The%20Lives%20of%20a%20Cell.jpg">Lewis Thomas' "The Lives of a Cell"</a><br/>
+		<br/>		
 		<b>Recommended Action:</b><br/>
-		--> 1) Execute Alles klar, i.e. ALL CLEAR, to eliminate CHAOS/Gulo<br/>
+		--> 1) Execute Alles klar, i.e. ALL CLEAR, to eliminate <b>CHAOS/Gulo</b><br/>
 		--> <b>Halimbawa:</b> LINAWIN ang MALABO.<br/>
-		--> 2) Puksain ang mga Teroristang Komunista/Manloloko;<br/> 
+		--> 2) Puksain ang mga Teroristang Komunista・Manloloko;<br/> 
 		--> No need for negotiation.<br/>
 		<br/>
 		<b>Additional Note:</b><br/>
