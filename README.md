@@ -1,5 +1,6 @@
 # Usbong Newsletters
-<b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202109.php<br/>
+<b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202110.php<br/>
+--> Work accomplished in the <b>Year Two Thousand and Twenty-one, Month of October</b><br/>
 <b>Usbong Search Engine:</b> http://search.usbong.ph<br/>
 <br/>
 <a href="http://search.usbong.ph" target="_blank">
