@@ -1,6 +1,10 @@
 # Usbong Newsletters
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202110.php<br/>
---> Work accomplished in the <b>Year Two Thousand and Twenty-one, Month of October</b><br/>
+--> Select works accomplished by the <b>Year Two Thousand and Twenty-one, Month of October</b><br/>
+--> <b>Printed version</b> shared @the following <b>barangays</b> among others:<br/>
+--> Marikina City: Sto. Niño, Sta. Elena, San Roque, Marikina Heights<br/>
+--> Cainta, Rizal Province: San Isidro<br/>
+<br/>
 <b>Usbong Search Engine:</b> http://search.usbong.ph<br/>
 <br/>
 <a href="http://search.usbong.ph" target="_blank">
