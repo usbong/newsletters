@@ -581,22 +581,22 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			As for the Internet, I already have access @the workplace and place of residence in Marikina City, so there is no need to add excess costs.<br/>
 			<br/>
-			I still use my Android telephone, albeit its technology of over 5years already.<br/>
+			I still use my Android telephone, albeit it's technology of over 5years already.<br/>
 			At present, I mainly use the following applications:<br/>
 			1) <b>SMS text system</b>; NOT email system<br/>
 			2) <b>Viber Application</b> (to upload SMS Reports)<br/>
 			3) <b>Dictionaries</b><br/>
 			--> e.g, <a class="webServiceLink" target="_blank" href="https://play.google.com/store/apps/details?id=com.umibouzu.jed&hl=en_US&gl=US">Japanese-English Dictionary (JED)</a>, <a class="webServiceLink" target="_blank" href="https://play.google.com/store/apps/details?id=com.pleco.chinesesystem&hl=en_US&gl=US">Chinese Mandarin (PLECO)</a><br/>
 			4) <b>Camera</b> (to capture Photographs) & <b>Voice Recorder</b> (to record Sound)<br/>
-			5) <b>Firefox Web Browser</b> (to access Usbong KMS)<br/>
+			5) <b>Firefox Web Browser</b> (to access <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">Usbong KMS</a>)<br/>
 			<br/>
 			<b>Recommended Action:</b><br/> 
-			--> learn: technique to replace telephone's Android Operating System (OS) with a Lightweight version, e.g. LUBUNTU.<br/>
+			--> learn: technique to replace telephone's Android Operating System (OS) with a Lightweight version, e.g. <a class="webServiceLink" target="_blank" href="lubuntu.me">LUBUNTU</a>.<br/>
 			--> This action is to recycle slower telephones by executing focused set of tasks, e.g. Electronic Book Readers with Human-Computer interactivity.<br/>
-			--> I previously used the Android as a Kindle eBook Reader.<br/>
+			--> I previously used the Android as a <a class="webServiceLink" target="_blank" href="https://www.amazon.com/Kindle-eBooks/b?ie=UTF8&node=154606011">Kindle eBook Reader</a>.<br/>
 			--> I now find less books to read with know-how that I do NOT yet know.<br/>
 			--> Computer Interactive Games offer added value.<br/>
-			--> <b>Example:</b> スター フォックス６４(Starfox 64;  NINTENDO64 system)<br/>
+			--> <b>Example:</b> <a class="webServiceLink" target="_blank" href="https://www.nintendo.co.jp/n01/n64/software/nus_p_nfxj/index.html">スター フォックス６４</a>(Starfox 64;  NINTENDO64 system)<br/>
 			--> includes: voice-over of Unit members, instead of only subtitles<br/>
 			--> <b>Reminder:</b> Subtitle text difficult to read during active battle<br/>
 			<br/>
