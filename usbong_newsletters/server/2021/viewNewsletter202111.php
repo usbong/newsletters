@@ -542,9 +542,9 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-			GLOBE Prepaid Card<br/> 
-			with PHP100 load value<br/>
-			Cost: PHP100<br/>
+			GLOBE Prepaid Cards<br/>
+			each with PHP100 load value<br/>
+			Cost: PHP100 each<br/>
 			</div>
 		</td>
 	</tr>
@@ -598,6 +598,42 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			--> Computer Interactive Games offer added value.<br/>
 			--> <b>Example:</b> スター フォックス６４(Starfox 64;  NINTENDO64 system)<br/>
 			--> includes: voice-over of Unit members, instead of only subtitles<br/>
+			--> <b>Reminder:</b> Subtitle text difficult to read during active battle<br/>
+			<br/>
+			<table>
+				<tr>
+					<td>
+						<div class="newsletterImageTextDiv">
+						<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202111/joukyouNiYoriBakudanWoUmakuTsukawanaitoSusumenai20211028.jpg">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="newsletterImageTextDiv">
+						状況により、爆弾をうまく使わないと、進めない。<br/>
+						joukyouNiYoriBakudanWoUmakuTsukawanaitoSusumenai.<br/>
+						<b>Batay sa kalagayan, kapag hindi maiging gamitin ang pasabog na bala, hindi maka-uusad.</b>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="newsletterImageTextDiv">
+						<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202111/hajimeteSaigoNoSaruTaoseteTabiGa50funMoKakattaKedo20211028.jpg">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="newsletterImageTextDiv">
+						初めて最後のサルを倒せて、旅が50分もかかったけど。<br/>
+						hajimeteSaigoNoSaruTaoseteTabiGa50funMoKakattaKedo<br/>
+						<b>Unang pagkakataong mapataob ang huling Matsing, ang paglalakbay, gumamit pa ng 50hati/minutos nga lang.</b>
+						</div>
+					</td>
+				</tr>
+			</table>
 		</td>
 	</tr>
 </table>
