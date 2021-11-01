@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211030
+  @date updated: 20211101
   
   @website address: http://www.usbong.ph
   Input:
@@ -518,8 +518,89 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		--> verify: savings pattern results in sufficient money to execute this action.<br/>
 	</tr>
 </table>
+</h5>
+
+<h5>1.1.2) shared: with Unit members, Telephone Network Prepaid Load Reserve System<br/>
 <br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202111/globeTelephoneNetworkPrepaidLoadReserveSystem.jpg">
+			</div>
+		</td>
+		<td width="50%">
+			We add PHP100 load value from the 1st Prepaid Card to the Unit's mobile telephone.<br/>
+			<br/>
+			We use the 2nd Card when we've used up all the 1st Card's load value.<br/>
+			<br/>
+			Whenever a Card is used, we immediately replace it by buying a new Card.<br/>
+			<br/>
+			<b>Reminder:</b> PLDT/SMART network has fluctuating wireless signal inside partner Sta. Lucia Health Care Center Clinic (SLHCC). Clinic located on basement floor.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			GLOBE Prepaid Card<br/> 
+			with PHP100 load value<br/>
+			Cost: PHP100<br/>
+			</div>
+		</td>
+	</tr>
+</table>
 <br/>
+--> reminded: Unit members to verify Load Usage<br/> 
+--> This is to identify frequency of Card replacement and Total Cost<br/>
+<br/>
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			I, myself, use Prepaid Cards, instead of Postpaid service with my mobile telephone.<br/>
+			<br/>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202111/smartTelephoneNetworkPrepaidLoadReserveSystem.jpg">
+			<br/>
+			SMART Prepaid Card<br/> 
+			with PHP100 load value<br/>
+			Cost: PHP100<br/>			
+			</div>
+			<br/>
+			<b>Reminder:</b> Postpaid service = Monthly Paid Load<br/>
+			<b>Example:</b> <a class="webServiceLink" target="_blank" href="https://smart.com.ph/Postpaid/signature">SMART Lite</a> 5GB Internet Usage + Unlimited All networks Calls, Text, Landline Calls @PHP599/Month<br/>
+			<br/>
+			With Prepaid Load, 1 SMS text : PHP1<br/> 
+			From observation, I replace Prepaid Cards after 1~1.5 Months.<br/>
+			<br/>
+			In addition, I do NOT necessarily stop myself from writing Short Messaging Service (SMS) Text and Calling over the network if necessary.<br/>
+			<br/>
+			As for the Internet, I already have access @the workplace and place of residence in Marikina City, so there is no need to add excess costs.<br/>
+			<br/>
+			I still use my Android telephone, albeit its technology of over 5years already.<br/>
+			At present, I mainly use the following applications:<br/>
+			1) <b>SMS text system</b>; NOT email system<br/>
+			2) <b>Viber Application</b> (to upload SMS Reports)<br/>
+			3) <b>Dictionaries</b><br/>
+			--> e.g, <a class="webServiceLink" target="_blank" href="https://play.google.com/store/apps/details?id=com.umibouzu.jed&hl=en_US&gl=US">Japanese-English Dictionary (JED)</a>, <a class="webServiceLink" target="_blank" href="https://play.google.com/store/apps/details?id=com.pleco.chinesesystem&hl=en_US&gl=US">Chinese Mandarin (PLECO)</a><br/>
+			4) <b>Camera</b> (to capture Photographs) & <b>Voice Recorder</b> (to record Sound)<br/>
+			5) <b>Firefox Web Browser</b> (to access Usbong KMS)<br/>
+			<br/>
+			<b>Recommended Action:</b><br/> 
+			--> learn: technique to replace telephone's Android Operating System (OS) with a Lightweight version, e.g. LUBUNTU.<br/>
+			--> This action is to recycle slower telephones by executing focused set of tasks, e.g. Electronic Book Readers with Human-Computer interactivity.<br/>
+			--> I previously used the Android as a Kindle eBook Reader.<br/>
+			--> I now find less books to read with know-how that I do NOT yet know.<br/>
+			--> Computer Interactive Games offer added value.<br/>
+			--> <b>Example:</b> スター フォックス６４(Starfox 64;  NINTENDO64 system)<br/>
+			--> includes: voice-over of Unit members, instead of only subtitles<br/>
+		</td>
+	</tr>
+</table>
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
@@ -557,7 +638,6 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 <br/>
 
-
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -574,7 +654,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		After identifying patterns, we write short notes that we afterward translate into Computer Language, e.g. C/C++.<br/>
 		<br/>		
-		<b>Execution Steps:</b><br/>
+		<b>Example Notes of Execution Steps:</b><br/>
 		<b>IF</b> current Unit member still to the LEFT of Unit Chief<br/>
 		--> <b>IF</b> current Unit member <u>immediately</u> to the LEFT of Unit Chief<br/>
 		----> move to the RIGHT of Unit Chief based on Unit <u>Identification#</u><br/>
