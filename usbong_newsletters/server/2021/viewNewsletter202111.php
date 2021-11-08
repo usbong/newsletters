@@ -639,6 +639,96 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 </h5>
 
+<h5>1.1.3) shared: with Public, notes on <b>Guidelines and Instructions for Bureau of Internal Revenue (BIR) Form No. 1701Q (January 2018 (ENCS)) Quarterly Income Tax Return for Individuals, Estates and Trusts</b>
+</h5>
+<table border="1">
+	<tr>
+		<td>
+			<h4><b>Philippines Buwis MAX</b></h4>
+		</td>
+		<td>
+		</td>
+		<td>
+			<h4><b>日本 税金MAX<br/> 
+			(nihon zeikin MAX;<br/> 
+			Japan Tax MAX)</b></h4>
+		</td>
+	</tr>
+	<tr>
+	<td>
+<h5>
+<b>1) Tax Rates Effective: 2018-01-01 ~ 2022-12-31</b><br/>
+Over 8M, PHP2,410,000 +<br/> 
+35% of the excess over PHP8,000,000<br/>
+</h5>
+</td>
+<td>
+</td>
+<td>
+			<h5><b>1) 収入５５％税金</b><br/>
+			--> shuunyuu 55% zeikin<br/>
+			--> income 55% TAX<br/>
+			</h5>
+</td>
+</tr>
+<tr>
+<td>
+<h5>
+<b>2) Tax Rates Effective: 2023-01-01 ~ onwards</b><br/>
+Over 8M, PHP2,202,500 +<br/> 
+35% of the excess over PHP8,000,000<br/>
+</h5>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<h5>
+<b>3) Stocks via Mutual Funds @BANKS,<br/>
+TAX payment already included<br/> 
+in the received NET income</b>
+</h5>
+</td>
+<td>
+</td>
+<td>
+			<h5><b>2) 株２０％税金</b><br/>
+			--> kabu 20% zeikin<br/>
+			--> stocks 20% TAX<br/>
+			</h5>
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+<h4><b>1.1.3.3) Additional Note: Dual Citizenship, e.g. Philippine + America, double TAX</b></h4>
+<h5>
+--> NOT recommended by majority of nations<br/>
+--> With Japan, by 21years old, choose only ONE (1): Japan or Philippines<br/>
+--> Gabay: SAAN ka umuuwi? KANINO ka umuuwi?<br/>
+</h5>
+
+<h4><b>1.1.3.4) References:</b></h4>
+<h5>
+1.1.3.4.1)
+<a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=qrjLWuEJIt8">OKAMOTO YOSHIKI CHANNEL: 日本人がお金持ちになるための４つの方法</a><br/>
+--> last accessed: 20211108<br/>
+<br/>
+1.1.3.4.2) eBIR Form No. 1701Qv2018
+</h5>
+<h4><b>1.1.3.5) Recommended Action:</b></h4>
+<h5>
+verify: Zaide, J. (2004). "Bababa, ba?". Philippines: Academic Publishing Corporation<br/>
+--> What is the output?<br/>
+--> Misuse of wireless broadcasting technology by budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group NOT yet in Foreign Service Training?<br/>
+</h5>
+
 <h3>2) Continued with Research & Development (R&D)</h3>
 <h4>2.1) <a class="webServiceLink" target="_blank" href="https://github.com/usbong/pagong">Usbong Pagong</a>: Unit Movement Direction from RIGHT to LEFT
 </h4>
@@ -730,8 +820,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h5>
 --> <b>"Between 1998 and 2011, a German neo-Nazi terrorist group murdered ten people. They called themselves the National Socialist Underground or NSU, carried out robberies to finance their terrorist cell, and planted bombs to spread terror in Germany."</b><br/>
 <br/>
-1) Select people chose NOT to share information via police incident reports<br/>
-2) Select people (from Domestic Intelligence & Ministry of the Interior) blocked access to all further investigations<br/>
+3.1.1) Select people chose NOT to share information via police incident reports<br/>
+3.1.2) Select people (from Domestic Intelligence & Ministry of the Interior) blocked access to all further investigations<br/>
 <br/>
 observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, dead people<br/>
 --> where: dead people identified to be members of group<br/>
@@ -743,7 +833,7 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 --> where: nakararami includes Law Enforcement, e.g. Pulis<br/>
 --> where: technique = wireless broadcasting technology misused to execute among others:<br/>
 --> wireless telephone eavesdropping to identify when household members are outside the house for partner thieves to enter and steal items, e.g. vehicle key.<br/>
---> notified: Law Enforcement after verifying wireless telephone to be DR. SYSON, PEDRO'S<br/>
+--> notified: Law Enforcement after verifying wireless telephone to be DR. SYSON, PEDRO's<br/>
 --> wireless telephone connected to GLOBE network; targeted even during international travels<br/>
 --> <b>destination:</b> Japan (Year 2016)<br/>
 --> <b>destination:</b> Switzerland (Year 2014)<br/>
