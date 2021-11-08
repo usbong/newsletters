@@ -7,9 +7,9 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211101
-  
+  @date updated: 20211108  
   @website address: http://www.usbong.ph
+
   Input:
   1) Newsletter file with details
 
@@ -724,8 +724,33 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 
 
-
-
+<h3>3) Continued share know-how regarding Security Defense Force</h3>
+<h4>3.1) Deutsche Welle (German Language Wave) Documentary</h4>
+<h5>
+--> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=iDZPEiYwOA0">"How a neo-Nazi terror network went undetected in Germany | DW Documentary"</a><br/>
+--> "Between 1998 and 2011, a German neo-Nazi terrorist group murdered ten people. They called themselves the National Socialist Underground or NSU, carried out robberies to finance their terrorist cell, and planted bombs to spread terror in Germany."<br/>
+--> Select people chose NOT to share information via police reports<br/>
+--> Select people (Domestic Intelligence & Ministry of the Interior) blocked access to all further investigations<br/>
+--> observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, dead people<br/>
+--> dead people identified to be members of group;<br/>
+<br/>
+--> Paalala: Gumawa ng incident report sa Tagapagpatupad ng Batas, i.e. Law Enforcement.<br/>
+--> Ito'y sa halip na tumanggap ng tulong mula sa mga Teroristang Komunista.<br/>
+--> Mayroon silang sariling gawa-gawang patakaran, na naiiba sa Batas ng Lipunan.<br/>
+<br/>
+Sa bansang Hapon, saan tutungo ang mga iligal na namamalagi roon na kailangan ng tulong?<br/>
+Kapag pumunta sila sa Pulis, hindi sila papayagan pang mamalagi sa bansang Hapon.<br/>
+Sa halip, tutungo sila sa gawa-gawang samahan na may sariling mga patakaran.<br/>
+<br/>
+Paalala: Karaniwang ginagawa ng mga iligal na pamamalagi dahil sa nais makakuha ng malaking salapi, kung ihahambing sa halaga halimbawa ng Piso sa Pinas.<br/>
+--> Pinadadala naman nila ito sa kanilang mga kamag-anak na karaniwan ding hindi natututo ng Maparaang Pagbibilang.<br/>
+<br/>
+Mungkahing Mga Aksyon:<br/> 
+1) Matuto ng Maparaang Pagbibilang.<br/>
+2) Gawan ng incident report ang Pulis.<br/>
+3) Puksain ang mga Teroristang Komunista.<br/>
+<br/>
+</h5>
 
 
 <br/>
