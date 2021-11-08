@@ -726,31 +726,56 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <h3>3) Continued share know-how regarding Security Defense Force</h3>
 <h4>3.1) Deutsche Welle (German Language Wave) Documentary</h4>
+--> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=iDZPEiYwOA0">"How a neo-Nazi terror network went undetected in Germany | DW Documentary"</a>
 <h5>
---> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=iDZPEiYwOA0">"How a neo-Nazi terror network went undetected in Germany | DW Documentary"</a><br/>
---> "Between 1998 and 2011, a German neo-Nazi terrorist group murdered ten people. They called themselves the National Socialist Underground or NSU, carried out robberies to finance their terrorist cell, and planted bombs to spread terror in Germany."<br/>
---> Select people chose NOT to share information via police reports<br/>
---> Select people (Domestic Intelligence & Ministry of the Interior) blocked access to all further investigations<br/>
---> observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, dead people<br/>
---> dead people identified to be members of group;<br/>
+--> <b>"Between 1998 and 2011, a German neo-Nazi terrorist group murdered ten people. They called themselves the National Socialist Underground or NSU, carried out robberies to finance their terrorist cell, and planted bombs to spread terror in Germany."</b><br/>
 <br/>
---> Paalala: Gumawa ng incident report sa Tagapagpatupad ng Batas, i.e. Law Enforcement.<br/>
---> Ito'y sa halip na tumanggap ng tulong mula sa mga Teroristang Komunista.<br/>
+1) Select people chose NOT to share information via police incident reports<br/>
+2) Select people (from Domestic Intelligence & Ministry of the Interior) blocked access to all further investigations<br/>
+<br/>
+observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, dead people<br/>
+--> where: dead people identified to be members of group<br/>
+<br/>
+<b>Paalala:</b> Gumawa ng incident report sa Tagapagpatupad ng Batas, i.e. Law Enforcement.<br/> 
+--> Ito'y sa halip na tumanggap ng tulong mula sa mga Teroristang Komunista・Manloloko.<br/> 
 --> Mayroon silang sariling gawa-gawang patakaran, na naiiba sa Batas ng Lipunan.<br/>
+--> <b>Halimbawa:</b> Huwag ibahagi sa nakararami ang know-how ng kanilang pamamaraan, i.e. technique.<br/>
+--> where: nakararami includes Law Enforcement, e.g. Pulis<br/>
+--> where: technique = wireless broadcasting technology misused to execute among others:<br/>
+--> wireless telephone eavesdropping to identify when household members are outside the house for partner thieves to enter and steal items, e.g. vehicle key.<br/>
+--> notified: Law Enforcement after verifying wireless telephone to be DR. SYSON, PEDRO'S<br/>
+--> wireless telephone connected to GLOBE network; targeted even during international travels<br/>
+--> <b>destination:</b> Japan (Year 2016)<br/>
+--> <b>destination:</b> Switzerland (Year 2014)<br/>
 <br/>
-Sa bansang Hapon, saan tutungo ang mga iligal na namamalagi roon na kailangan ng tulong?<br/>
-Kapag pumunta sila sa Pulis, hindi sila papayagan pang mamalagi sa bansang Hapon.<br/>
-Sa halip, tutungo sila sa gawa-gawang samahan na may sariling mga patakaran.<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		Sa bansang Hapon, saan tutungo ang mga iligal na namamalagi roon na kailangan ng tulong?<br/>
+		<br/>
+		Kapag pumunta sila sa Pulis, hindi sila papayagan pang mamalagi sa bansang Hapon. Kung kaya't, sa halip, tutungo sila sa gawa-gawang samahan na may sariling mga patakaran.<br/>
 <br/>
-Paalala: Karaniwang ginagawa ng mga iligal na pamamalagi dahil sa nais makakuha ng malaking salapi, kung ihahambing sa halaga halimbawa ng Piso sa Pinas.<br/>
+<b>Paalala:</b> Karaniwang ginagawa ang mga iligal na pamamalagi sapagkat nais nilang makakuha ng malaking salapi, kung ihahambing sa halaga, halimbawa, ng Piso sa Pinas.<br/>
 --> Pinadadala naman nila ito sa kanilang mga kamag-anak na karaniwan ding hindi natututo ng Maparaang Pagbibilang.<br/>
 <br/>
-Mungkahing Mga Aksyon:<br/> 
+--> Mula sa pagsasanay ng Philippine Overseas Employment Agency (POEA) Taong 2008, matututunang hindi tuluyang nakauuwi sa Pinas ang mga Overseas Filipino Workers (OFW) sapagkat parating nauubos ang kanilang ipinadadalang salapi, bagama't may nais silang mag-ipon.<br/>
+<br/>
+<b>Mungkahing Mga Aksyon:</b><br/> 
 1) Matuto ng Maparaang Pagbibilang.<br/>
 2) Gawan ng incident report ang Pulis.<br/>
 3) Puksain ang mga Teroristang Komunista.<br/>
-<br/>
-</h5>
+--> Hindi na kailangang makipag-usap sa mga Manloloko.<br/>
+--> There is <b>NO COMMUNICATION</b> using Teroristang Komunista's wireless broadcasting technology.<br/>
+--> In its stead, increased Noise Pollution with Physical Injury
+		</td>
+	</tr>
+</table>
+
+
 
 
 <br/>
