@@ -164,6 +164,30 @@
 							border: 1px solid #ab9c7d;
 						}
 
+						table.noteTaxTable
+						{
+							width: 86%;
+							border: 1px solid #ab9c7d;
+							border-collapse: collapse;							 
+							font-size: 10pt;
+							/* Commands to Center-Align Table */
+							margin-left: auto;
+							margin-right: auto;
+						}
+						
+						td.noteTaxTableColumnHeader
+						{
+							border: 1px solid #ab9c7d;
+							background-color: #dddddd;
+							text-align: center;
+						}
+
+						td.noteTaxTableColumn
+						{
+							border: 1px solid #ab9c7d;
+							text-align: left;
+						}
+
 						table.noteTable
 						{
 							border: 1px solid #ab9c7d;
@@ -233,6 +257,7 @@
 							margin-left: auto;
 							margin-right: auto;
 						}
+
 
 						tr.menuRow
 						{
@@ -641,92 +666,86 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <h5>1.1.3) shared: with Public, notes on <b>Guidelines and Instructions for Bureau of Internal Revenue (BIR) Form No. 1701Q (January 2018 (ENCS)) Quarterly Income Tax Return for Individuals, Estates and Trusts</b>
 </h5>
-<table border="1">
+<table class="noteTaxTable">
 	<tr>
-		<td>
+		<td class="noteTaxTableColumnHeader">
 			<h4><b>Philippines Buwis MAX</b></h4>
 		</td>
 		<td>
 		</td>
-		<td>
+		<td class="noteTaxTableColumnHeader">
 			<h4><b>日本 税金MAX<br/> 
 			(nihon zeikin MAX;<br/> 
 			Japan Tax MAX)</b></h4>
 		</td>
 	</tr>
 	<tr>
+	<td class="noteTaxTableColumn">
+		<h5>
+		<b>1) Tax Rates Effective: 2018-01-01 ~ 2022-12-31</b><br/>
+		Over 8M, PHP2,410,000 +<br/> 
+		35% of the excess over PHP8,000,000<br/>
+		</h5>
+	</td>
 	<td>
-<h5>
-<b>1) Tax Rates Effective: 2018-01-01 ~ 2022-12-31</b><br/>
-Over 8M, PHP2,410,000 +<br/> 
-35% of the excess over PHP8,000,000<br/>
-</h5>
-</td>
-<td>
-</td>
-<td>
-			<h5><b>1) 収入５５％税金</b><br/>
-			--> shuunyuu 55% zeikin<br/>
-			--> income 55% TAX<br/>
-			</h5>
-</td>
-</tr>
-<tr>
-<td>
-<h5>
-<b>2) Tax Rates Effective: 2023-01-01 ~ onwards</b><br/>
-Over 8M, PHP2,202,500 +<br/> 
-35% of the excess over PHP8,000,000<br/>
-</h5>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<h5>
-<b>3) Stocks via Mutual Funds @BANKS,<br/>
-TAX payment already included<br/> 
-in the received NET income</b>
-</h5>
-</td>
-<td>
-</td>
-<td>
-			<h5><b>2) 株２０％税金</b><br/>
-			--> kabu 20% zeikin<br/>
-			--> stocks 20% TAX<br/>
-			</h5>
-		</td>
+	</td>
+	<td class="noteTaxTableColumn">
+		<h5><b>1) 収入５５％税金</b><br/>
+		--> shuunyuu 55% zeikin<br/>
+		--> income 55% TAX<br/>
+		</h5>
+	</td>
+	</tr>
+	<tr>
+	<td class="noteTaxTableColumn">
+		<h5>
+		<b>2) Tax Rates Effective: 2023-01-01 ~ onwards</b><br/>
+		Over 8M, PHP2,202,500 +<br/> 
+		35% of the excess over PHP8,000,000<br/>
+		</h5>
+	</td>
+	<td>
+	</td>
+	<td class="noteTaxTableColumn">
+	</td>
+	</tr>
+	<tr>
+	<td class="noteTaxTableColumn">
+		<h5>
+		<b>3) Stocks via Mutual Funds @BANKS</b><br/>
+		TAX payment already included<br/> 
+		in the received <b>NET income</b>
+		</h5>
+	</td>
+	<td>
+	</td>
+	<td class="noteTaxTableColumn">
+		<h5><b>2) 株２０％税金</b><br/>
+		--> kabu 20% zeikin<br/>
+		--> stocks 20% TAX<br/>
+		</h5>
+	</td>
 	</tr>
 </table>
 
-
-
-
-
-<h4><b>1.1.3.3) Additional Note: Dual Citizenship, e.g. Philippine + America, double TAX</b></h4>
-<h5>
+<h5><b>1.1.3.3) Additional Note: Dual Citizenship</b><br/>
+--> <b>Example:</b> Philippine + America, <b>double TAX</b><br/>
 --> NOT recommended by majority of nations<br/>
 --> With Japan, by 21years old, choose only ONE (1): Japan or Philippines<br/>
---> Gabay: SAAN ka umuuwi? KANINO ka umuuwi?<br/>
+--> <b>Gabay:</b> <b>SAAN</b> ka umuuwi? <b>KANINO</b> ka umuuwi?<br/>
 </h5>
 
-<h4><b>1.1.3.4) References:</b></h4>
-<h5>
+<h5><b>1.1.3.4) References:</b><br/>
 1.1.3.4.1)
 <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=qrjLWuEJIt8">OKAMOTO YOSHIKI CHANNEL: 日本人がお金持ちになるための４つの方法</a><br/>
 --> last accessed: 20211108<br/>
-<br/>
 1.1.3.4.2) eBIR Form No. 1701Qv2018
 </h5>
-<h4><b>1.1.3.5) Recommended Action:</b></h4>
-<h5>
+
+<h5><b>1.1.3.5) Recommended Action:</b><br/>
 verify: Zaide, J. (2004). "Bababa, ba?". Philippines: Academic Publishing Corporation<br/>
---> What is the output?<br/>
---> Misuse of wireless broadcasting technology by budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group NOT yet in Foreign Service Training?<br/>
+--> What is the <b>output</b>?<br/>
+--> Misuse of wireless broadcasting technology by budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group NOT yet in <b>Foreign Service Training</b>?<br/>
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
