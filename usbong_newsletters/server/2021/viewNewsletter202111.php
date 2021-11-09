@@ -9,10 +9,8 @@
   @date created: 20211001
   @date updated: 20211109
   @website address: http://www.usbong.ph
-
   Input:
   1) Newsletter file with details
-
   Output:
   1) Newsletter file that is viewable on a Computer Web Browser  
   
@@ -737,14 +735,14 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <h5><b>1.1.3.4) References:</b><br/>
 1.1.3.4.1)
-<a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=qrjLWuEJIt8">OKAMOTO YOSHIKI CHANNEL: 日本人がお金持ちになるための４つの方法</a><br/>
+<a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=qrjLWuEJIt8">OKAMOTO YOSHIKI CHANNEL: 「日本人がお金持ちになるための４つの方法」</a><br/>
 --> "Mamamayan ng Bansang Hapon, 4 na paraan upang magkaroon ng salapi"<br/>
 --> last accessed: 20211108<br/>
 1.1.3.4.2) eBIR Form No. 1701Qv2018
 </h5>
 
 <h5><b>1.1.3.5) Recommended Action:</b><br/>
-verify: Zaide, J. (2004). "Bababa, ba?". Philippines: Academic Publishing Corporation<br/>
+--> verify: Zaide, J. (2004). "Bababa, ba?". Philippines: Academic Publishing Corporation<br/>
 --> What is the <b>output</b>?<br/>
 --> Misuse of wireless broadcasting technology by budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group NOT yet in <b>Foreign Service Training</b>?<br/>
 </h5>
@@ -911,6 +909,36 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 --> <b>Reminder:</b> Human beings <b>CAN</b> live longer than 100 years old.<br/>
 </h5>
 
+<h4>4.2) verified: <b>FOOTBALL Sports Match: Spain and Germany</b></h4>
+--> 得点王 (tokutenou; kumuha ng tuldok (punto) hari); Computer Simulation Game<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+			<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202111/doitsuNiKatsuNiHaAshiYaKaradaWoTsukaiBo-ruWoToriGo-ruNiSutore-toNoKougekiDeAiteGaGa-doSuruNodeNakamaToNoSaikougekiDameNarabaJibunNoAtamaDeButsukatteIkouTo20211108.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				Shin-nihon kikaku (SNK) NEO-GEO System<br/>
+				Year 1992
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+--> Lessons-Learned: <br/>
+<b>ドイツに勝つには足や体を使い、ボールを取り、</b><br/>
+Upang manalo sa Aleman, gamitin ang paa, katawan, atbp, kunin ang bola,<br/>
+<b>ゴールにストレートの攻撃で相手がガードするので、</b><br/>
+Patungong GOAL, sa direktang pagsalakay, dahil gagawa ng GUARD ang katunggali,<br/>
+<b>仲間との再攻撃がダメならば、</b><br/>
+kapag walang saysay ang muling pagsalakay kasama ang partner,<br/>
+<b>自分の頭でぶつかって行こうと</b><br/>
+gamit ang sariling ulo, tamaan, sumugod daw<br/>
 <br/>
 <br/>
 TO-DO: -update: this<br/>
