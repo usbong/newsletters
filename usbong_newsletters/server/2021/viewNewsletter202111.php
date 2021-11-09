@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211108  
+  @date updated: 20211109
   @website address: http://www.usbong.ph
 
   Input:
@@ -729,7 +729,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 
 <h5><b>1.1.3.3) Additional Note: Dual Citizenship</b><br/>
---> <b>Example:</b> Philippine + America, <b>double TAX</b><br/>
+--> <b>Example:</b> Philippines + United States of America (U.S.A.), <b>double TAX</b><br/>
 --> NOT recommended by majority of nations<br/>
 --> With Japan, by 21years old, choose only ONE (1): Japan or Philippines<br/>
 --> <b>Gabay:</b> <b>SAAN</b> ka umuuwi? <b>KANINO</b> ka umuuwi?<br/>
@@ -738,6 +738,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h5><b>1.1.3.4) References:</b><br/>
 1.1.3.4.1)
 <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=qrjLWuEJIt8">OKAMOTO YOSHIKI CHANNEL: 日本人がお金持ちになるための４つの方法</a><br/>
+--> "Mamamayan ng Bansang Hapon, 4 na paraan upang magkaroon ng salapi"<br/>
 --> last accessed: 20211108<br/>
 1.1.3.4.2) eBIR Form No. 1701Qv2018
 </h5>
@@ -832,7 +833,6 @@ verify: Zaide, J. (2004). "Bababa, ba?". Philippines: Academic Publishing Corpor
 	</tr>
 </table>
 
-
 <h3>3) Continued share know-how regarding Security Defense Force</h3>
 <h4>3.1) Deutsche Welle (German Language Wave) Documentary</h4>
 --> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=iDZPEiYwOA0">"How a neo-Nazi terror network went undetected in Germany | DW Documentary"</a>
@@ -849,8 +849,8 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 --> Ito'y sa halip na tumanggap ng tulong mula sa mga Teroristang Komunista・Manloloko.<br/> 
 --> Mayroon silang sariling gawa-gawang patakaran, na naiiba sa Batas ng Lipunan.<br/>
 --> <b>Halimbawa:</b> Huwag ibahagi sa nakararami ang know-how ng kanilang pamamaraan, i.e. technique.<br/>
---> where: nakararami includes Law Enforcement, e.g. Pulis<br/>
---> where: technique = wireless broadcasting technology misused to execute among others:<br/>
+--> where: <b>nakararami</b> includes Law Enforcement, e.g. Pulis<br/>
+--> where: <b>technique</b> = wireless broadcasting technology misused to execute among others:<br/>
 --> wireless telephone eavesdropping to identify when household members are outside the house for partner thieves to enter and steal items, e.g. vehicle key.<br/>
 --> notified: Law Enforcement after verifying wireless telephone to be DR. SYSON, PEDRO's<br/>
 --> wireless telephone connected to GLOBE network; targeted even during international travels<br/>
@@ -884,424 +884,39 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 	</tr>
 </table>
 
-
-
-
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-with Unit Members who have Middle~High School Level children, key points for concentration: Wikang Filipino & Maparaang Pagbibilang<br/>
---> Wikang Filipino Example: learn: from parents and/or grandparents, correct usage of language<br/>
---> Maparaang Pagbibilang Example: with Trigonometry, learn: correct usage of Triangles<br/>
---> Example: Use Triangle know-how to identify correct movement direction of Robot Ship after rotation<br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/bulalakawWarsExampleUseTriangleKnowHowToIdentifyRobotShipMovementDirectionAfterRotationFocused.jpg">
-			</div>
-		</td>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/bulalakawWarsExampleUseTriangleKnowHowToIdentifyRobotShipMovementDirectionAfterRotation.jpg">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		</td>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Bulalakaw Wars<br/>
-			Year 2007 School Project
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
---> <b>Reminders:</b> SOH-CAH-TOA<br/> 
-SOH = SINE(angle) = Opposite / Hypothenus<br/>
-CAH = COSINE(angle) = Adjacent / Hypothenus<br/>
-TOA = TANGENT(angle) = Opposite / Adjacent<br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/robotShipDirectionMovementAfterRotationUseTriangleKnowHow.jpg">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Computation Instructions to be Auto-executed by Computer<br/>
-			Noticeable System Efficiency with Multiple Updating Position Inputs
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202110/robotShipDirectionMovementAfterRotationUseTriangleKnowHowOutput.jpg">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Output: Robot Ship's New Position
-			</div>
-		</td>
-	</tr>
-
-</table>
-<br/>
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-		I was classified to be with the "slow" group in English and Math back when students were classified to be such in elementary school.<br/>
-		<br/>
-		Years afterward, I learned that we can speed-up know-how of Math as Maparaang Pagbibilang with tools, e.g. Computers. This is due to we can receive immediate feedback to verify results of actions. In addition, we can quickly execute updated actions for feedback.<br/>
-		<br/>
-		With writing computer instructions to execute 3-Dimensional computations, it is faster to write the Command and verify with the Computer the output to get the correct answer. This is instead of using majority of available time to attempt to identify output positions without at all sending the Command to the Computer to confirm the output from the inputs.<br/>
-		<br/>
-		As with the German Luger Gun, as a weapon, it is more effective and efficient to destroy the target, e.g. Teroristang Komunista, by empowering Unit Member as part of Law Enforcement to execute multiple rapid-fire shots. This is instead of having only one (1) shot before need for ammo reload. In this case, the Unit member receives immediate feedback of output of used weapon. In addition, if target is NOT yet destroyed, quick execution by weapon tool of updated action as input for feedback is necessary.<br/>
-		<br/>
-		In Japan, Year 2008, I observed Law Enforcement to NOT use Guns as weapon. It was NOT needed due to system has been updated to cause Japanese citizens to value honest work.<br/>
-		<br/>
-		The system executes this action by identifying people who shall cause problems, e.g. those classified to be actions of Teroristang Komunista.<br/>		
-		<br/>
-		<b>Example:</b> Children who still execute chaotic actions<br/>
-		--> This is due to NOT having yet learned to be contributing members of whole society.<br/>		
-		<br/>
-		<b>Example Incident Report:</b><br/>
-		from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">朝日新聞 (asahi shimbun; https://www.asahi.com)</a> (2021-10-12):<br/> 
-
-		<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASPBC5GM4PBCPTIL018.html">集団暴走の疑い、少年ら51人逮捕・送検　「自分たちが世界の中心」</a><br/>
-		Hinalang Samahan ng Magulong Takbo, i.e. Motorcycle Gang, mga kabataan 51 tao hinuli・ipinasiyasat "Ang kanilang mga sarili, gitnang puso, i.e. centro, ng daigdig"
-		<br/>
-		<br/>
-		In the Philippines, Year 2021, we have identified members of the Teroristang Komunista group to be the previous generation's children who despite years of age, have NOT learned the value of honest work. They execute chaotic actions, e.g. panlolokong ingay, pisikal na pananakit, using wireless broadcasting technology to quickly get money, e.g. from vehicular theft, i.e. carnapping.<br/>
-		<br/>
-		<b>Reminder:</b><br/>
-		Teroristang Komunista are NOT Filipino citizens; They are citizens of their Teroristang Komunista group with fake Filipino citizenship.<br/>
-		<br/>
-		<b>Result:</b><br/>
-		Overall skill level and know-how of Filipino people do NOT increase.<br/>
-		<br/>
-		<b>Recommended Actions:</b><br/>
-		1) File written incident reports with Law Enforcement<br/>
-		2) Puksain ang Teroristang Komunista; No need for negotiation.<br/>
-		</td>
-	</tr>
-</table>
-
-<h5>1.1.2) shared: with public, know-how to execute web address routing using Amazon Web Services (AWS)<br/>
---> This action speeds-up system by eliminating excess inputs in web address name by Unit members.<br/>
-<br/>
-<b>Step.1)</b> update: <b>.htaccess</b> file stored in <b>html</b> folder<br/>
---> add: ReWrite Condition and ReWrite Rule<br/>
---> where: ReWrite Condition: if received request for web address <a class="webServiceLink" href="http://search.usbong.ph/" target="_blank">search.usbong.ph</a><br/> 
---> ReWrite Rule: serve web address <a class="webServiceLink" href="http://store.usbong.ph/server/usbongSearch.php" target="_blank">http://store.usbong.ph/server/usbongSearch.php</a><br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/step1UpdateHtAccess.png">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Updated .htaccess file
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
---> Reminder: file accessed from Windows Machine to Linux Machine via <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Network Tool</a><br/>
-<br/>
-<b>Step.2)</b> update: <b>Route53</b> settings of AWS<br/>
---> add: Record with details, e.g. Name, Public Internet Protocol (IP) Address of Computer Server<br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/step2AddRecordRoute53Part1.png">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Route53: New Record Details
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
---> Reminder: Computer Client requests for Web Page File using Record Name, e.g. <a class="webServiceLink" href="http://search.usbong.ph" target="_blank">search.usbong.ph</a>.<br/>
---> AWS receives request, executes routing action<br/>
---> where: routing action = connects Client to Server's Public IP Address, e.g. 192.168.1.110<br/>
---> Computer Server receives request from Client, connects Client to web address:<br/>
---> <a class="webServiceLink" href="http://store.usbong.ph/server/usbongSearch.php" target="_blank">http://store.usbong.ph/server/usbongSearch.php.</a><br/>
---> Reminder: Web address is a publicly accessible local file<br/>
-<br/>
-<b>Step.3)</b> receive: notification of successful AWS Route53 Record creation<br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/step3AddRecordRoute53Part2.png">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			Route53: Record Creation Successful
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
-<b>Step.Done!</b><br/>
-<br/>
---> With only one (1) Domain Address, we have increased available Sub-domain Addresses.<br/>
---> Example Domain Address: <a class="webServiceLink" target="_blank" href="http://www.usbong.ph">www.usbong.ph</a><br/>
---> Example Sub-domain Address: <a class="webServiceLink" target="_blank" href="http://search.usbong.ph">search.usbong.ph</a><br/>
---> In addition, we did NOT need to use additional AWS services, e.g. Simple Storage Service (S3). <br/>
---> Reminder: With AWS, additional service usage causes additional cost.
-</h5>
-
-<h4>1.2) added: <a class="webServiceLink" target="_blank" href="http://search.usbong.ph">Usbong Search Engine</a></h4>
-<h5> 
---> This action speeds-up system development due to computer assists in organizing information.<br/>
---> Example: I need the website address of the <a class="webServiceLink" href="https://www.putty.org/" target="_blank">PuTTY Network Tool</a>.<br/>
---> Using the keyphrase, "<b>PuTTY</b>", the <a class="webServiceLink" target="_blank" href="http://search.usbong.ph">Usbong Search Engine</a> identifies which newsletter file/s it exists.<br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202110/usbongSearchEngineNewsletterKeyphrasePuTTY.png">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<a class="webServiceLink" target="_blank" href="http://search.usbong.ph">Usbong Search Engine</a>: Found newsletter with <b>PuTTY</b> keyphrase
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
---> <b>PUBLICLY USABLE VERSION DEVELOPMENT TIME:</b> 4days<br/>
---> Existing technologies caused speed-up of development.<br/>
-<br/>
---> 1.2.1) Computer Hardware specification (NOT newest; 2007 technology):<br/>
---> Development Machine<br/>
---> <b>Processor:</b> Genuine Intel(R) CPU T2130 @1.86GHz<br/>
---> <b>Installed memory (RAM):</b> 3.00GB<br/>
---> <b>System type:</b> 32-bit Operating System (OS)<br/>
-<br/>
---> 1.2.2) Computer Software Infrastructure & Tools:<br/>
---> Development Machine<br/>
---> <b>OS:</b> <a class="webServiceLink" target="_blank" href="https://docs.microsoft.com/en-us/lifecycle/products/windows-7">Windows 7 Ultimate Service Pack 1 (2009 technology)</a><br/>
---> <b>Web Server:</b> <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">Apache Web Server</a><br/>
---> <b>Computer Languages:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP Hypertext Preprocessor (PHP)</a>, <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a><br/>
-<!-- removed by Mike, 20211020
- <b>Computer Language Framework:</b> <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> + <a class="webServiceLink" target="_blank" href="https://codeigniter.com/download">CodeIgniter Web Framework (version 2.0)</a><br/>
--->
---> <b>Computer Web Browser:</b> <a class="webServiceLink" target="_blank" href="https://www.mozilla.org/en-US/firefox/products/">Mozilla Firefox</a><br/>
---> <b>Computer Software:</b> <a class="webServiceLink" target="_blank" href="https://notepad-plus-plus.org/">Notepad++</a><br/>
---> <b>Reused Software Parts:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">Usbong Knowledge Management System (KMS)</a><br/>
---> <b>Computer Server Network Communication:</b> <a class="webServiceLink" target="_blank" href="https://www.putty.org/">PuTTY</a>, <a class="webServiceLink" target="_blank" href="https://winscp.net/eng/index.php">WinSCP</a>
-</h5>
-
-<h3>2) Continued to share information on Health</h3>
---> verified: decrease of >= 1kg in body weight after executing <b>No meat dinner</b><br/>
-<br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202110/noMeatDinner20211005.jpg">
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			No meat dinner
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
---> reminder: burn excess body fats via continuous walking of at least 20mins every day<br/>
---> <b>Recommended Action:</b> verify: pig's heart at the Palengke<br/>
---> Squeezing pig's heart causes this blood to come out:<br/>
---> Thick blood that has become more solid and less liquid<br/>
---> reminder: such thick blood can block passage of liquid blood to cause physical pain<br/>
---> due to insufficient food coming to cells via the blood river system<br/>
---> Increased physical pain classified as heart attack leads to death.<br/>
-<br/>
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-		The budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group continues to misuse wireless broadcasting technology to cause physical injury.<br/>
-		<br/>
-		<b>Example:</b> Breathing difficulty leading to physical pain due to insufficient oxygen going to the brain.<br/>
-		<br/>
-		<b>Reminder:</b> There exists Ear, Nose, Throat (ENT) connection.<br/>
-		<br/>
-		<b>Recommended Actions:</b><br/>
-		1) File written incident reports with Law Enforcement<br/>
-		2) Puksain ang Teroristang Komunista; No need for negotiation.<br/>
-		<br/>
-		<b>Recommended Reading:</b><br/>
-		1) Cassa, A. (2005). Essential Atlas of Physiology (Essential Atlas Series). Spain: Barron's Educational Series. Translated from Spanish by: Marcela Estibill.
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202110/essentialAtlasOfPhysiology.jpg">
-			<br/>
-			Used Book bought @BookSale, Philippines
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
-<h3>3) Continued to share information on Security Defense Force</h3>
+<h3>4) Continued to share know-how regarding Health</h3>
+<h4>4.1) observed: patients, e.g. Senior Citizens (SC), with increasing variations of Medicine Items have difficulty in correct identification<br/></h4>
 <h5>
---> verified: in the Year 2008, the budol-budol/manloloko/carnapper/cybercriminal/Communist Terrorist group also misused wireless broadcasting technology.<br/>
+--> <b>Example:</b> Five (5) variations of Medicine Items to control the following among others:<br/>
+--> Uric Acid (due to Gout), Blood Flow, Joint Pain, Ostheoarthritis, Calcium deficiency<br/>
+--> In addition, select set of medicine items taken two (2) times per day.<br/>
+--> Another set taken only one (1) time after breakfast.<br/>
+--> Select family members provide assistance, albeit may NOT add care equal with that of the patient.<br/>
+--> Caregivers may be hired, yet the qualtiy of care may NOT again be equal with that of the patient.<br/>
+--> This is even if it is already sufficient with the rest of the family members.<br/>
+--> <b>Cause:</b> Increasing cost; Family members now only waiting for patient to accept death.<br/>
+--> <b>Result:</b> Speed-up of patient's time of death<br/>
 <br/>
---> <b>Target Attacked:</b> SYSON, MICHAEL B. + people near <br/>
---> <b>Example#1:</b> May 2008, Bonifacio Global City (BGC), Taguig City, Philippines<br/>
---> <b>Example#2:</b> March 2008~November 2008, Tokyo, Japan.<br/>
---> Note: Returned momentarily to the Philippines from Japan in May 2008<br/>
-<br/>
---> identified: the Teroristang Komunista group to be the same repeating criminal group due to <b>repeating techniques</b> that were executed in 2008 are reused in the Year 2021 and earlier.<br/>
---> Members, e.g. SYSON, RAMON (DR. SYSON, PEDRO's younger brother), became clear in 2017 when by mistake and yabang, they began to let themselves be identified.<br/>
-<br/>
---> observed: income from their criminal actions, e.g. vehicular theft, became insufficient to their growing group whose members marry and have children.<br/>
---> This is while the senior members grow older and the income does NOT increase due to members have NOT learned the value of honest work.<br/>
---> <b>reminder#1:</b> NO tax paid from income due to vehicular theft<br/>
---> <b>reminder#2:</b> Teroristang Komunista group intentionally causes vehicular incidents.<br/>
---> <b>reminder#3:</b> Vehicular incidents increases excess expenses @Insurance Company.<br/>
---> observed: pattern of selling household's vehicles at lesser value after incidents.<br/>
-<br/>
---> <b>Example Attacks:</b><br/> 
---> a) hearing difficulty, b) noise pollution, c) physical stimulation via wireless waves<br/>
---> identified: c) to be caused by among others:<br/>
---> electricity, magnetic, heat waves, et cetera from overworked mobile telephones<br/>
---> <b>Recommended Reading:</b><br/> 
---> <a class="webServiceLink" target="_blank" href="www.bbc.com/future/article/20130227-what-is-killing-smartphones">www.bbc.com/future/article/20130227-what-is-killing-smartphones</a>; last accessed: 20210915<br/>
---> Technique using sound wave to cause breathing difficulty is also reused to cause c).<br/>
---> <b>reminder#1:</b> People near the target's mobile telephone shall also experience the attack.<br/>
---> <b>reminder#2:</b> Noise pollution causes increase in incidents with vehicular damage and physical injury.<br/>
-<br/>
---> <b>Expenses Notes</b><br/>
-<table>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202110/2008-03-15ShibuyaToShinjukuWalkAtBookstoreEarPoppingSoundTechniqueHearingDifficulty.jpg">
-			</div>
-		</td>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202110/2008-10-28~29hosuukeiWalkNumberMeasure.jpg">
-			</div>
-		</td>
-		<td>
-			<div class="newsletterImageTextDiv">
-			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202110/2008-10-30EndOfDailyExpensesNoteTelephoneBroadcastingNetworkMisusedAsWeaponByTeroristangKomunistaGroup.jpg">
-			</div>
-		</td>
-
-	</tr>
-	<tr>
-		<td>
-			<div class="newsletterImageTextDiv">
-				2008-03-15 (Saturday)
-			</div>
-		</td>
-		<td>
-			<div class="newsletterImageTextDiv">
-				2008-10-28 (Tuesday) &<br/> 2008-10-29 (Wednesday)
-			</div>
-		</td>
-		<td>
-			<div class="newsletterImageTextDiv">
-				2008-10-30 (Thursday)
-			</div>
-		</td>
-	</tr>
-</table>
-<br/>
---> By 2008-10, attacks still continued to cause need to be at Tokyo Metro Police Station.<br/>
---> Noise pollution, e.g. sound of talking dog, continued even at the Police Station.<br/>
---> Existence of attack and technique became clear with Police Unit, et cetera.<br/>
---> After identification to be the target of attack, returned to Company Dormitory.<br/>
---> However, noise pollution continued.<br/>
---> Returned to the Philippines; Noise pollution still continued.<br/>
-<br/>
---> verified: as recommended to ignore the noise pollution by classifying it as <b>thought and ideas</b><br/>
---> Between Years 2009~2011, attacks by the Teroristang Komunista were ignored to be NOT noticeable.<br/>
---> However, criminal incidents, e.g. carnapping/vehicular theft, continued.<br/>
---> <b>Example:</b> ISUZU Sports Utility Vehicle (SUV; Automatic Transmission) disappeared outside Santuario de San Jose Church during the Simbang Gabi (Month of December);<br/> 
---> Incident reported with Police Unit @San Juan, Greenhills.<br/>
-<br/>
---> verified: incident caused by the Teroristang Komunista group who even in October 2021 continues to execute without permit household observation with noise pollution.<br/> 
---> observed: pattern of theft inside house occurs by notifying thieves of date and time when househould members are outside.<br/> 
---> <b>reminder:</b> Teroristang Komunista group misuses wireless broadcasting technology.<br/>
---> <b>result#1:</b> Filipino citizens do NOT learn Maparaang Pagbibilang.<br/>
---> <b>result#2:</b> Filipino citizens do NOT achieve financial success greater than their group's children.<br/>
-<br/>
---> verified: ignoring noise pollution has become insufficient due to increase in physical attacks<br/>
---> <b>Example:</b> Electric wave to become dizzy when executing quick and correct accounting computations for Bureau of Internal Revenue (BIR) Tax Reporting<br/>
---> identified: attackers who due to need for quick money made mistakes and became arrogant<br/>
---> where: arrogant = mayabang<br/>
---> classified: attackers to be Teroristang Komunista<br/>
---> filed: incident reports with Law Enforcement, Banks, BIR, Electricity Company, et cetera<br/>
---> identified: members to include among others:<br/> 
---> SYSON, RYAN (son of SYSON, RAMON who is also a Teroristang Komunista)<br/>
-<br/>
---> <b>Recommended Actions:</b><br/>
---> 1) <b>Report (報告; <u>hou</u>koku)</b> incident with Law Enforcement<br/>
---> 2) <b>Contact (連絡; <u>ren</u>raku)</b> Law Enforcement<br/>
---> 3) <b>Consult (相談; <u>sou</u>dan)</b> with Law Enforcement<br/>
-<br/>
---> <b>Reminder:</b><br/>
--->  ｢無関心は協力者？！｣<br/> 
---> "mukanshin ha kyouryokusha?!"<br/>
---> "Ang walang paki, taong tumutulong (sa Terorista)?!"<br/>
---> Anti-Terrorism Partnership, TOKYO<br/>
---> <a class="webServiceLink" target="_blank" href="https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html">https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html</a>; last accessed: 20211021<br/>
---> <b>Layunin:</b> Mapabilis ang sistema upang mapuksa na ang mga Teroristang Komunista.<br/>
+--> <b>Recommended Action:</b> verify: own <b>Lifestyle</b> to include among others:<br/>
+--> 1) Burn excess Fats via Physical Exercise<br/>
+--> <b>Example:</b> Continuous walking of at least 20mins per day<br/>
+--> 2) Receive Light from Sunshine<br/>
+--> 3) Drink clean Water, instead of sugared beverages<br/>
+--> 4) Interact with people who are aligned with your Spirit, i.e. Kaluluwa; <br/>
+--> <b>Example:</b> People NOT classified to be Teroristang Komunista・Manloloko.<br/>
+--> 5) Eat fruits and vegetables; No meat dinner; No need to eat pork<br/>
+--> 6) Execute work that contributes to community<br/>
+--> where: work includes among others: cleaning own Toilet, sharing of computer know-how;<br/> 
+--> <b>Results:</b> <b>LESS</b> need for Medicine Items; Strong Community・Family・Company<br/>
+--> <b>Reminder:</b> Human beings <b>CAN</b> live longer than 100 years old.<br/>
 </h5>
 
+<br/>
+<br/>
 TO-DO: -update: this<br/>
+<br/>
+<br/>
+
 
 	<br>
 	<br />
