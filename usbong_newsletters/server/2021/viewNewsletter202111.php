@@ -910,7 +910,7 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 </h5>
 
 <h4>4.2) verified: <b>FOOTBALL Sports Match: Spain and Germany</b></h4>
---> 得点王 (tokutenou; kumuha ng tuldok (punto) hari); Computer Simulation Game<br/>
+--> <b>得点王</b> (tokutenou; kumuha ng tuldok (punto) hari); Computer Simulation Game<br/>
 <br/>
 <table>
 	<tr>
@@ -923,7 +923,9 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 	<tr>
 		<td>
 			<div class="newsletterImageTextDiv">
-				Shin-nihon kikaku (SNK) NEO-GEO System<br/>
+				<b>Shin-Nihon Kikaku (SNK)</b> NEO-GEO System<br/>
+				<b>新日本</b> (shin nihon; Bagong Pinanggalingan ng Araw (Bansang Hapon))<br/> 
+				<b>企画</b> (kikaku; Tinayong Larawan (Plan))<br/> 
 				Year 1992
 			</div>
 		</td>
@@ -932,13 +934,20 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 <br/>
 --> Lessons-Learned: <br/>
 <b>ドイツに勝つには足や体を使い、ボールを取り、</b><br/>
-Upang manalo sa Aleman, gamitin ang paa, katawan, atbp, kunin ang bola,<br/>
+doitsuni katsuniha ashi ya karada wo tsukai, bo-ru wo tori,<br/>
+<b>Upang manalo sa Aleman, gamitin ang paa, katawan, atbp, kunin ang bola,</b><br/>
+<br/>
 <b>ゴールにストレートの攻撃で相手がガードするので、</b><br/>
-Patungong GOAL, sa direktang pagsalakay, dahil gagawa ng GUARD ang katunggali,<br/>
+go-runi sutore-to no kougeki de aite ga ga-do surunode,<br/>
+<b>Patungong GOAL, sa direktang pagsalakay, dahil gagawa ng GUARD ang katunggali,</b><br/>
+<br/>
 <b>仲間との再攻撃がダメならば、</b><br/>
-kapag walang saysay ang muling pagsalakay kasama ang partner,<br/>
-<b>自分の頭でぶつかって行こうと</b><br/>
-gamit ang sariling ulo, tamaan, sumugod daw<br/>
+nakama to no saikougeki ga dame naraba,<br/>
+<b>kapag walang saysay ang muling pagsalakay kasama ang partner,</b><br/>
+<br/>
+<b>自分の頭で、ボールをぶつかって行こうと</b><br/>
+jibun no atama de, bo-ru wo butsukatte ikou to<br/>
+<b>gamit ang sariling ulo, tamaan ang bola, sugod! daw</b><br/>
 <br/>
 <br/>
 TO-DO: -update: this<br/>
