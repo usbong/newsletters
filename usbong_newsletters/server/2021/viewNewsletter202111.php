@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211109
+  @date updated: 20211110
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -831,7 +831,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 	</tr>
 </table>
 
-<h3>3) Continued share know-how regarding Security Defense Force</h3>
+<h3>3) Continued to share know-how regarding Security Defense Force</h3>
 <h4>3.1) Deutsche Welle (German Language Wave) Documentary</h4>
 --> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=iDZPEiYwOA0">"How a neo-Nazi terror network went undetected in Germany | DW Documentary"</a>
 <h5>
