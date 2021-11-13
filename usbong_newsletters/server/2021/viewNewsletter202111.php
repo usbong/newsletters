@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211001
-  @date updated: 20211110
+  @date updated: 20211113
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -468,9 +468,10 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		｢無関心は協力者？！｣<br/> 
-		"mukanshin ha kyouryokusha?!"<br/>
-		"Ang walang paki, taong tumutulong (sa Terorista)?!"<br/>
+		<b>｢得点王｣</b><br/> 
+		"tokutenou"<br/>
+		"kumuha ng tuldok (punto) hari";<br/>
+		Computer Simulation Game<br/>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -890,7 +891,7 @@ observed: vehicular incident with criminal evidence, e.g. guns, neo-Nazi DVDs, d
 --> In addition, select set of medicine items taken two (2) times per day.<br/>
 --> Another set taken only one (1) time after breakfast.<br/>
 --> Select family members provide assistance, albeit may NOT add care equal with that of the patient.<br/>
---> Caregivers may be hired, yet the qualtiy of care may NOT again be equal with that of the patient.<br/>
+--> Caregivers may be hired, yet the quality of care may NOT again be equal with that of the patient.<br/>
 --> This is even if it is already sufficient with the rest of the family members.<br/>
 --> <b>Cause:</b> Increasing cost; Family members now only waiting for patient to accept death.<br/>
 --> <b>Result:</b> Speed-up of patient's time of death<br/>
@@ -950,13 +951,8 @@ jibun no atama de, bo-ru wo butsukatte ikou to<br/>
 <b>gamit ang sariling ulo, tamaan ang bola, sugod! daw</b><br/>
 <br/>
 <br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-
-
-	<br>
-	<br />
+<br>
+<br />
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
