@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211117
+  @date updated: 20211118
   @website address: http://www.usbong.ph
 
   Input:
@@ -498,7 +498,40 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
-<h5>1.1.1) shared: with Public, goal: execute in 1month work valued by client at >=3months<br/>
+<h5>1.1.1) shared: with Public, count total Elapsed Time per Usage before rest<br/>
+--> <b>Example:</b> verify: if > 1hr in front of computer/television monitor<br/>
+--> observed: when there exists no set task to execute, Unit member shall watch videos on the Internet<br/>
+--> observed: This action is equal with verifying news feeds from <b>social networking service (SNS)</b><br/>
+--> <b>Recommended Actions:</b><br/> 
+--> 1) Stop using Internet access when there is NO clear task to execute<br/>
+--> 2) Turn OFF Internet access by 21:00 MAX<br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		At present, I STOP Computer (and Internet access) use earlier than 21:00, e.g. 20:00. This is due to excess noise from passing vehicles, e.g. delivery Trucks, causes me to also wake earlier than 05:00.<br/>
+		<br/>
+		<b>identified:</b> excess noise to be from wireless signals transmitted by the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group.<br/>
+		--> <b>excess noise</b> classified to be <b><u>noise pollution</u></b> due to vehicles, e.g. Trucks, do NOT ordinarily make such sounds<br/>
+		<br/>
+		<b>notified:</b> Barangay Sto. Niño, Office of Public Safety and Security (OPSS)<br/>
+		<br/>
+		<b>Additional Note:</b><br/>
+		1) observed: increase in available Time after stopping use of Internet access<br/>
+		<br/>
+		<b>Recommended Action:</b><br/> 
+		received: Time be used with face-to-face interaction with spouse, children...<br/>
+	</tr>
+</table>
+
+<br/>
+<br/>
+
+goal: execute in 1month work valued by client at >=3months<br/>
 --> <b>Example (3months):</b> Total Income: PHP90,000 (100%)<br/>
 --> Total Expenses (Tax, SSS, PhilHealth, Pag-Ibig, et cetera included): PHP30,000 (33.3%)<br/>
 --> Total Saved: PHP60,000 (66.7%)<br/>
