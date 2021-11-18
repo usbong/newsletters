@@ -513,7 +513,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-		At present, I STOP Computer (and Internet access) use earlier than 21:00, e.g. 20:00. This is due to excess noise from passing vehicles, e.g. delivery Trucks, causes me to also wake earlier than 05:00.<br/>
+		At present, I <b>STOP</b> Computer (and Internet access) use earlier than 21:00, e.g. 20:00. This is due to excess noise from passing vehicles, e.g. Delivery Trucks, causes me to also wake earlier than 05:00.<br/>
 		<br/>
 		<b>identified:</b> excess noise to be from wireless signals transmitted by the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group.<br/>
 		--> <b>excess noise</b> classified to be <b><u>noise pollution</u></b> due to vehicles, e.g. Trucks, do NOT ordinarily make such sounds<br/>
@@ -525,6 +525,28 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		<b>Recommended Action:</b><br/> 
 		received: Time be used with face-to-face interaction with spouse, children...<br/>
+		<b>Example Activities:</b><br/> 
+		--> play musical instruments, physical training, e.g. swimming,<br/> 
+		--> build house using popsickle sticks (which uses Maparaang Pagbibilang),<br/> 
+		--> practice languages, e.g. nihongo, Deutsche<br/>
+		<br/>
+		shared: with nephew (5yrs old), in school, make friends with those who are learning nihongo and/or Deutsche<br/>
+		--> verified: Filipino citizens who learn such languages also more quickly learn <b>Maparaang Pagbibilang</b> than those who only learn as foreign language English<br/> 
+		--> <b>reminder:</b> learning the language includes learning the history<br/>
+		--> <b>Example</b>: History of East and West Germany<br/>
+		--> where: progress became <b>efficient</b> in West Germany than East Germany<br/>
+		--> This is due to <b>clear communication</b>, i.e. MALINAW, hindi MALABO;<br/>
+		--> In addition, statements are based on evidence.<br/>
+		--> After result became clear, the Berlin Wall that separated East and West Germany fell; Germany re-unified in the 90's. By the Year 2000's, majority of the German people became classified to be content.<br/>
+		<br/>
+		--> The actions of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group with their <b>continuous misuse of wireless broadcasting technology to make noise pollution with physical injury</b> cause delays and inefficiency in progress.<br/>
+		--> <b>Recommended Action:</b> Puksain ang mga Teroristang Komunista;<br/> 
+		--> No need for negotiation.<br/>
+		<br/>
+		<b>Recommended Action:</b><br/>
+		verify: <b>Deutsche Welle (German Language Wave) Documentary</b><br/>
+		<a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=YJLzd8EK__g">Angela Merkel - Navigating a world in crisis | DW Documentary</a><br/>
+		"Angela Merkel has been Germany’s Chancellor for 16 years. In that time, she has steered the country through countless international crises, frequently crossing swords with other world leaders."
 	</tr>
 </table>
 
