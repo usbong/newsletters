@@ -529,6 +529,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		--> play musical instruments, physical training, e.g. swimming,<br/> 
 		--> build house using popsickle sticks (which uses Maparaang Pagbibilang),<br/> 
 		--> practice languages, e.g. nihongo, Deutsche<br/>
+		--> where: nihongo = Japanese language<br/>
+		--> where: Deutsche = German language<br/>		
 		<br/>
 		shared: with nephew (5yrs old), in school, make friends with those who are learning nihongo and/or Deutsche<br/>
 		--> verified: Filipino citizens who learn such languages also more quickly learn <b>Maparaang Pagbibilang</b> than those who only learn as foreign language English<br/> 
@@ -593,6 +595,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			1) The transmitter's electric wave as measured by signal strength is NOT as strong as a wireless broadcasting tower's.<br/>
 			--> verified: the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group to misuse wireless broadcasting towers such that the transmitted signal reaches Brgy. Marikina Heights <b>AND</b> Brgy. Sto. Niño.<br/>
 			<br/>
+			--> executed: walking from <b>Brgy. Sto. Niño</b> to <b>Brgy. Marikina Heights</b> during non-raining Sunday mornings; <b>Walk Elapsed Time:</b> 40mins (one way)<br/>
+			<br/>
 			<b>Reminder:</b> Brgy. Marikina Heights is located at a higher, elevated part of the Marikina Valley;
 			Brgy. Sto. Niño is located at a lower part.<br/>
 			<br/>
@@ -605,6 +609,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <br/>
 <br/>
+TO-DO: -update: this<br/>
+<br/>
+<br/>
+
 
 goal: execute in 1month work valued by client at >=3months<br/>
 --> <b>Example (3months):</b> Total Income: PHP90,000 (100%)<br/>
