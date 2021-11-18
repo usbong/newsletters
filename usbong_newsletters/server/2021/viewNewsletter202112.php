@@ -501,7 +501,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h5>1.1.1) shared: with Public, count total Elapsed Time per Usage before rest<br/>
 --> <b>Example:</b> verify: if > 1hr in front of computer/television monitor<br/>
 --> observed: when there exists no set task to execute, Unit member shall watch videos on the Internet<br/>
---> observed: This action is equal with verifying news feeds from <b>social networking service (SNS)</b><br/>
+--> observed: This action is equal with verifying news feeds from <b>Social Networking Service (SNS)</b><br/>
 --> <b>Recommended Actions:</b><br/> 
 --> 1) Stop using Internet access when there is NO clear task to execute<br/>
 --> 2) Turn OFF Internet access by 21:00 MAX<br/>
@@ -537,7 +537,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		--> where: progress became <b>efficient</b> in West Germany than East Germany<br/>
 		--> This is due to <b>clear communication</b>, i.e. MALINAW, hindi MALABO;<br/>
 		--> In addition, statements are based on evidence.<br/>
-		--> After result became clear, the Berlin Wall that separated East and West Germany fell; Germany re-unified in the 90's. By the Year 2000's, majority of the German people became classified to be content.<br/>
+		--> After result became clear, the Berlin Wall that separated East and West Germany fell; Germany re-unified in the 90's. By the Year 2000's, majority of the German people became classified to be content, i.e. ginhawa na.<br/>
 		<br/>
 		--> The actions of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group with their <b>continuous misuse of wireless broadcasting technology to make noise pollution with physical injury</b> cause delays and inefficiency in progress.<br/>
 		--> <b>Recommended Action:</b> Puksain ang mga Teroristang Komunista;<br/> 
@@ -545,8 +545,61 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		<b>Recommended Action:</b><br/>
 		verify: <b>Deutsche Welle (German Language Wave) Documentary</b><br/>
-		<a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=YJLzd8EK__g">Angela Merkel - Navigating a world in crisis | DW Documentary</a><br/>
+		--> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=YJLzd8EK__g">Angela Merkel - Navigating a world in crisis | DW Documentary</a><br/>
 		"Angela Merkel has been Germany’s Chancellor for 16 years. In that time, she has steered the country through countless international crises, frequently crossing swords with other world leaders."
+	</tr>
+</table>
+
+<h3>2) Continued to share know-how regarding Security Defense Force</h3>
+<h4>2.1) Audio Player Transmitter of Frequency Modulator (FM) Radio Wireless Signal</h4>			
+<table>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/cdrKingAudioMusicPlayerTransmitterFMRadioWirelessSignal.jpg">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="newsletterImageTextDiv">
+				CDR-KING Item: PHP500~600
+			</div>
+		</td>
+	</tr>
+</table>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			Over 10years ago, Year 2008, I also verified another CDR-KING audio transmitter. However, instead of using Bluetooth technology to connect the transmitter with the Audio player, we used an audio cable and port.<br/>
+			<br/>
+			<b>Example Usage:</b> We set the transmitter's frequency to use, e.g. 100. We also set the vehicle radio's receiver frequency to use 100.<br/>
+			<br/>
+			With this technique, the vehicle radio shall play the transmitted sound using its speakers. In addition, nearby vehicles who also use the frequency 100 shall receive to play the transmitted sound.<br/>
+			<br/>
+			<b>Reminder:</b> Select frequencies are used by broadcasting networks.<br/>
+			<b>Examples:</b> 94.7 Mellow; 100.3 RJ<br/>
+			<br/>
+			Using the same frequency shall cause the output sound of the vehicle speaker to include the received audio from the CDR-King transmitter.<br/>
+			<br/>
+			<b>Result:</b> Excess, i.e. Noise, instead of Clear Music.<br/>
+			<br/>
+			<b>Additional Notes:</b><br/>
+			1) The transmitter's electric wave as measured by signal strength is NOT as strong as a wireless broadcasting tower's.<br/>
+			--> verified: the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group to misuse wireless broadcasting towers such that the transmitted signal reaches Brgy. Marikina Heights <b>AND</b> Brgy. Sto. Niño.<br/>
+			<br/>
+			<b>Reminder:</b> Brgy. Marikina Heights is located at a higher, elevated part of the Marikina Valley;
+			Brgy. Sto. Niño is located at a lower part.<br/>
+			<br/>
+			2) observed: finding such audio transmitter in the Year 2008 to be NOT the usual, albeit included in a pattern of related carnapping, vehicle incidents, et cetera that would continue in the coming years<br/>
+			--> identified: in 10 years, members of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group<br/>
+			--> filed: with Law Enforecement, incident reports with identification 
+		</td>
 	</tr>
 </table>
 
