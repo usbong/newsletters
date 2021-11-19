@@ -9,7 +9,6 @@
   @date created: 20211117
   @date updated: 20211118
   @website address: http://www.usbong.ph
-
   Input:
   1) Newsletter file with details
   Output:
@@ -602,7 +601,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			2) observed: finding such audio transmitter in the Year 2008 to be NOT the usual, albeit included in a pattern of related carnapping, vehicle incidents, et cetera that would continue in the coming years<br/>
 			--> identified: in 10 years, members of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group<br/>
-			--> filed: with Law Enforecement, incident reports with identification 
+			--> filed: with Law Enforcement, incident reports with identification 
 		</td>
 	</tr>
 </table>
