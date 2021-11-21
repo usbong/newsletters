@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211118
+  @date updated: 20211121
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -591,17 +591,127 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<b>Result:</b> Excess, i.e. Noise, instead of Clear Music.<br/>
 			<br/>
 			<b>Additional Notes:</b><br/>
-			1) The transmitter's electric wave as measured by signal strength is NOT as strong as a wireless broadcasting tower's.<br/>
+			1) learned: audio transmitter item from younger brother in Year 2007~2008<br/>
+			--> observed: item NOT the usual for me due to used vehicle radio, cassette<br/>
+			--> observed: vehicle Compact Disc (CD) player (if available) malfunctions to destroy inserted CD<br/>
+			--> observed: vehicle air-conditioning machine malfunctions, e.g. loss of freon gas; after incident, vehicle quickly sold<br/>
+			--> noted: observations to be included in <b>pattern</b> of related carnapping, vehicle incidents, et cetera that would continue in the coming years<br/>
+			--> identified: in 10 years, members of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group<br/>
+			--> filed: with Law Enforcement, incident reports with identification<br/> 
+			<br/>
+			2) The transmitter's electric wave as measured by signal strength is NOT as strong as a wireless broadcasting tower's.<br/>
 			--> verified: the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group to misuse wireless broadcasting towers such that the transmitted signal reaches Brgy. Marikina Heights <b>AND</b> Brgy. Sto. Niño.<br/>
 			<br/>
-			--> executed: walking from <b>Brgy. Sto. Niño</b> to <b>Brgy. Marikina Heights</b> during non-raining Sunday mornings; <b>Walk Elapsed Time:</b> 40mins (one way)<br/>
-			<br/>
-			<b>Reminder:</b> Brgy. Marikina Heights is located at a higher, elevated part of the Marikina Valley;
+			<b>Reminder#1:</b> Brgy. Marikina Heights is located at a higher, elevated part of the Marikina Valley;
 			Brgy. Sto. Niño is located at a lower part.<br/>
+			--> executed: walking from <b>Brgy. Sto. Niño</b> to <b>Brgy. Marikina Heights</b> during non-raining Sunday mornings;<br/> 
+			--> <b>Walk Elapsed Time:</b> 40mins (one way)<br/>
 			<br/>
-			2) observed: finding such audio transmitter in the Year 2008 to be NOT the usual, albeit included in a pattern of related carnapping, vehicle incidents, et cetera that would continue in the coming years<br/>
-			--> identified: in 10 years, members of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group<br/>
-			--> filed: with Law Enforcement, incident reports with identification 
+			<b>Reminder#2:</b> While at place of residence and workplace in <b>Brgy. Sto. Niño</b>, the budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group transmitted such signal to my mini (approx size: 6x6cm) wireless radio/speaker, while I was attempting to defend myself from their noise using static sound from a supposedly unused radio frequency.<br/>
+			<br/>
+			<div class="newsletterImageTextDiv">
+<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg">
+			</div>
+			<br/>
+			<b>Reminder#3:</b> Android telephone speaker can reach >= 40meters<br/>
+			--> The Teroristang Komunista group continues without permit to misuse:<br/> 
+			--> telephone mic to execute eavesdropping,<br/> 
+			--> telephone speaker to cause noise pollution<br/>
+			--> verified: wire-tapping executed using telephone network, GLOBE, and Dr. SYSON, Pedro's GLOBE post-paid SIM telephone number.<br/>
+			<br/>
+			--> <b> Recommended Actions:</b><br/>
+			--> 1) <b>Turn OFF</b> telephone and/or <b>Set to Flight mode</b> to disconnect from wireless network<br/>
+			--> 2) notify: spouse, siblings, et cetera to send you a written message via, e.g. Short Messaging Service (SMS) if CALL is NOT received.<br/>
+			--> Telephone network shall send you the written message when you re-connect to wireless network.<br/>
+			--> 3) notify: Law Enforcement
+			<br/>
+		</td>
+	</tr>
+</table>
+
+<h4>2.2) Action Technique: Shotokan Karate</h4>
+--> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/user/shotokankataman/videos">https://www.youtube.com/user/shotokankataman/videos</a>;<br/>
+--> last accessed: 20211121<br/>
+--> <b>Heian Shodan - Shotokan Karate</b><br/>
+--> Peace Beginner Level<br/>
+<h5>
+<b>2.2.1) 合気道 (あいきどう；aikidou）</b><br/>
+--> (pinagsamang kaluluwa daan)<br/>
+<br/>
+<b>2.2.2) 平安　（へいあん、初段～五段; heian, shodan ~ godan）</b><br/>
+--> payapa; patag babae may bubong; simulang nibel ~ ikalimang nibel<br/>
+<br/>
+<b>2.2.3) 鉄騎初段　（てつ＋き＋しょだん; tetsu + ki + shodan）</b><br/>
+--> bakal na kabayo malaki maaari simulang nibel<br/>
+<br/>
+<b>2.2.4) 抜塞大　（ぬく＋ふさぐ＋おおきい; nuku + fusagu + ookii）</b><br/>
+--> tanggalin baradong malaki<br/>
+<br/>
+<b>2.2.5) 観空大　（みる＋くう・そら＋おおきい; miru + kuu・sora + ookii）</b><br/>
+--> masdan kawalan・kalangitan malaki<br/>
+<br/>
+<b>・・・</b><br/>
+</h5>
+<h4>2.3) Paalala#1:</h4>
+<h5>
+<b>2.3.1) 結局、歴史では、戦争が伸びてると、</b><br/>
+Kinalauanan, sa kasaysayan, sa paghaba ng digmaan,<br/>
+<br/>
+<b>兵士が疲れるし、供給なども切れる・・・</b><br/>
+napapagod ang sundalong mag-aaral, napuputol ang bigay na pagsasaluhan (supply)...<br/>
+<br/>
+<b>敵がわかれば、ターゲットして、</b><br/>
+Kapag alam na ang kalaban, gawing target,<br/>
+<br/>
+<b>優柔不断をせずに、早めに終わりにすること。</b><br/>
+hindi gawin ang walang hintong bait at pag-aakma (flexible), tapusin na habang maaga pa.<br/>
+<br/>
+<b>わくわくすることなく、仕事としての決断でね。</b><br/>
+hindi gawin nang may excitement; bilang hanap-buhay pagpasiyahan, hinto.<br/>
+<br/>
+</h5>
+<h4>2.4) Paalala#2:</h4>
+<h5>
+<b>うまくできることをして、</b><br/>
+Gawin ang maiging nagagawa,<br/>
+<br/>
+<b>意味がわからず、うまくできないことを</b><br/>
+hindi maunawaan ang saysay, hindi maiging magawa,<br/>
+<br/>
+<b>他にして良い。</b><br/>
+Sa magagawa ipagawa, ayos.<br/>
+</h5>
+<h4>2.5)　budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group</h4>
+<h5>
+--> Patuloy araw-gabi ang kanilang maling paggamit ng wireless broadcasting technology sa paggawa ng panlolokong ingay at pisikal na pananakit.<br/>
+--> Kahit ang Nanay-nayan kong Hapon binabastos.<br/>
+<br/>
+--> <b>Mungkahing mga Aksyon:</b><br/>
+<b>2.5.1) Matuto ng Maparaang Pagbibilang.</b><br/>
+<b>2.5.2) Gawan ng incident report ang Pulis.</b><br/>
+<b>2.5.3) Puksain ang mga Teroristang Komunista.</b><br/>
+--> Hindi na kailangang makipag-usap sa mga Manloloko.<br/>
+--> There is NO COMMUNICATION using Teroristang Komunista's wireless broadcasting technology.<br/>
+--> In its stead, increased Noise Pollution with Physical Injury<br/>
+</h5>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			<b>生き残りながら、がんばって、</b><br/>
+			ikinokorinagara, gambatte,<br/>
+			Habang natitirang nabubuhay, gawin nang lubos ang magagawa,<br/>
+			<br/>
+			<b>この犯罪グループを終わりに致しております。</b><br/>
+			kono guru-pu wo owarini itashite ormasu.<br/>
+			ang kriminal na samahang ito, wakasin, ginagawa ko po.<br/>
+			<br/>
+			<b>ご協力をお願い申し上げます。</b><br/>
+			gokyouryoku wo onegai moushiagemasu.<br/>
+			Ang inyo pong pinagsamang tulong na lakas, aking may galang na pakiusap.<br/>
 		</td>
 	</tr>
 </table>
