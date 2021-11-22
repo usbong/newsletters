@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211122
+  @date updated: 20211123
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -529,14 +529,15 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		--> build house using popsickle sticks (which uses Maparaang Pagbibilang),<br/> 
 		<br/>
 			<div class="newsletterImageTextDiv">
-<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg">
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg"><br/>
+				Built Popsickle Stick Sauna House with 7yr old Nephew in the Year 2016			
 			</div>
 		<br/>
 		--> practice languages, e.g. nihongo, Deutsche<br/>
 		--> where: nihongo = Japanese language<br/>
 		--> where: Deutsche = German language<br/>		
 		<br/>
-		shared: with nephew (5yrs old), in school, make friends with those who are learning nihongo and/or Deutsche<br/>
+		shared: with another nephew (now 5yrs old; Year 2021), in school, make friends with those who are learning nihongo and/or Deutsche<br/>
 		--> verified: Filipino citizens who learn such languages also more quickly learn <b>Maparaang Pagbibilang</b> than those who only learn as foreign language English<br/> 
 		--> <b>reminder:</b> learning the language includes learning the history<br/>
 		--> <b>Example</b>: History of East and West Germany<br/>
@@ -619,23 +620,24 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			--> <b>Walk Elapsed Time:</b> 40mins (one way)<br/> 
 			--> <b>Walk Distance:</b> 960meters (one way)<br/>
 			<br/>
-			<b>Reminder#2:</b> While at place of residence and workplace in <b>Brgy. Sto. Niño</b>, the budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group transmitted such signal to my mini (approx size: 6x6cm) wireless radio/speaker, while I was attempting to defend myself from their noise using static sound from a supposedly unused radio frequency.<br/>
+			<b>Reminder#2:</b> While at place of residence and workplace in <b>Brgy. Sto. Niño</b>, the budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group transmitted such signal to my <b>CDR-KING mini wireless radio/speaker</b>, while I was attempting to defend myself from their noise using static sound from a supposedly unused radio frequency.<br/>
 			<br/>
 			<div class="newsletterImageTextDiv">
-<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg">
+				<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+				Approx size: 6x6cm
 			</div>
 			<br/>
 			<b>Reminder#3:</b> Android telephone speaker can reach >= 40meters<br/>
 			--> The Teroristang Komunista group continues without permit to misuse:<br/> 
-			--> telephone mic to execute eavesdropping,<br/> 
-			--> telephone speaker to cause noise pollution<br/>
-			--> verified: wire-tapping executed using telephone network, GLOBE, and Dr. SYSON, Pedro's GLOBE post-paid SIM telephone number.<br/>
+			--> Telephone mic to execute eavesdropping,<br/> 
+			--> Telephone speaker to cause noise pollution<br/>
+			--> verified: wired/wireless-tapping executed using telephone network, GLOBE, and Dr. SYSON, Pedro's GLOBE post-paid SIM telephone number.<br/>
 			<br/>
 			--> <b> Recommended Actions:</b><br/>
 			--> 1) <b>Turn OFF</b> telephone and/or <b>Set to Flight mode</b> to disconnect from wireless network<br/>
-			--> 2) notify: spouse, siblings, et cetera to send you a written message via, e.g. Short Messaging Service (SMS) if CALL is NOT received.<br/>
+			--> 2) <b>notify:</b> spouse, siblings, et cetera to send you a written message via, e.g. Short Messaging Service (SMS) if CALL is NOT received.<br/>
 			--> Telephone network shall send you the written message when you re-connect to wireless network.<br/>
-			--> 3) notify: Law Enforcement
+			--> 3) <b>notify:</b> Law Enforcement
 			<br/>
 		</td>
 	</tr>
