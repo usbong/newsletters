@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20211219
+  @date updated: 20211222
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -498,7 +498,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
 <h5>1.1.1) shared: with Public, select IT know-how to learn<br/> 
---> <b>VALUE</b> noticeable when transactions count > 1000<br/>
+--> <b>VALUE</b> noticeable when transactions count > 1000 per year<br/>
 --> <b>Output of Action:</b><br/> 
 1) Increased Work Income<br/> 
 2) Increased Work Contribution to Community, Family, Company<br/>
@@ -552,7 +552,7 @@ TO-DO: -update: this<br/>
 <br/>
 --> <b>Skill-Level#4)</b> learn: correct use of <b>Computer Network</b><br/>
 --> learn: <b>Computer Web Technologies</b><br/>
---> <b>Apache Web Server</b>
+--> <b>Apache Web Server</b><br/>
 --> <b>Hypertext Markup Language (HTML)</b><br/>
 --> <b>PHP Hypertext Preprocessor (PHP)</b><br/>
 --> <b>MySQL Database</b><br/>
@@ -560,10 +560,34 @@ TO-DO: -update: this<br/>
 <br/>
 <br/>
 TO-DO: -update: this
+</h5>
+<h3>2) Continued with Research & Development (R&D)</h3>
+<h4>2.1) Usbong Tugon: Auto-resize Output Image Tile based on Computer/Television Monitor</h4>
+<h5>
+		--> 2.1.1) verified: using OpenGL (Graphics Library) Technology's scale COMMAND, tile image size CAN be quickly and correctly resized to be SMALLER or LARGER than its original size<br/>
+		--> This is due to among others:<br/> 
+		--> floating-point numbers are accepted as inputs, instead of ONLY whole numbers<br/>
+		--> where: floating-point numbers : numbers with decimal point<br/>
+		--> <b>Examples:</b> 2.5, 3.0<br/>
+		--> where: whole numbers : integers, numbers with NO decimal point<br/>
+		--> <b>Examples:</b> 2, 3<br/>
+		--> <b>Reminder#1:</b> 10/3=3.333...<br/>
+		--> <b>Reminder#2:</b> Shall need to download and install OpenGL, in addition to SDL (SimpleDirect Library)<br/>	
+		<br/>
+		--> 2.1.2) verified: using <b>ONLY</b> SDL Technology's set width and height, tile image size CAN be quickly and correctly resized to be SMALLER than its original size if using the same ratio;<br/>
+		--> where: same ratio : from 64x64 to 32x32; NOT from 64x64 to 32x35<br/>
+		--> <b>Incorrect Output:</b> excess or missing pixel markings, near the tile image's borders<br/>
+		<br/>
+		--> <b>Additional Note:</b> If size increased to make tile image LARGER, also incorrect output<br/>
+		--> <b>Present actions:</b><br/>
+		--> 1) use the original Tile Image's pixel width and height, e.g. 64x64;<br/>
+		--> 2) resize to be LARGER only Tile Image with transparent borders<br/>
+		--> Example: Font texture
+				
+</h5>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 --> <b>Example:</b> verify: if > 1hr in front of computer/television monitor<br/>
 --> observed: when there exists no set task to execute, Unit member shall watch videos on the Internet<br/>
