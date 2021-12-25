@@ -376,9 +376,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20211029
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
 	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
@@ -739,13 +737,29 @@ Sa magagawa ipagawa, ayos.<br/>
 			--> <b>Select Readings:</b> <a class="webServiceLink" target="_blank" href="https://ronibats.ph/2011/how-i-got-into-intarmed/">https://ronibats.ph/2011/how-i-got-into-intarmed/</a>;<br/> 
 			last accessed: 20211225<br/>
 			<br/>
-			<b>Additional Note#2:</b> The Teroristang Komunista group has been misusing the <b>CCTV</b> inside the household, in particular where the vehicles are located, and even inside MOSC<br/>
-			--> <b>Action:</b> notified: DR. SYSON, PEDRO to change the <b>PASSWORD</b> to access the <b>CCTV security system</b>, instead of continuing to endure the attacks, e.g. noise pollution, vehicular theft.<br/>
+			<b>Additional Note#2:</b> The Teroristang Komunista group has been misusing the <b>CCTV Camera</b> inside the household, in particular where the vehicles are located, and even inside MOSC<br/>
+			--> The CCTV Camera exists to supposedly provide security monitor surveillance; It can be accessed using an Android application.<br/>
+			--> <b>Example:</b><br/>
+			<table>
+				<tr>
+					<td>
+					<b>Bubo Bubo</b> Android Application (with Digital Video Recorder (DVR) + CCTV Camera System)<br/>
+					</td>
+					<td>
+					<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202112/buboBuboAndroidDVRCCTVHalimbawaFromMApkPureDotCom.png">
+					</td>
+				</tr>
+			</table>
+			<br/>
+			<a class="webServiceLink" target="_blank" href="https://m.apkpure.com/bubo-bubo/icatch.video.h264#icatch.video.h264-3">https://m.apkpure.com/bubo-bubo/icatch.video.h264#icatch.video.h264-3</a>;<br/>
+			last accessed: 20211206<br/>
+			<br/>			
+			--> <b>Action:</b> notified: DR. SYSON, PEDRO to change the <b>PASSWORD</b> to access the <b>CCTV Camera System</b>, instead of continuing to endure the attacks, e.g. noise pollution, vehicular theft.<br/>
 			<br/>
 			<b>Additional Note#3:</b> observed: Teroristang Komunista group has been promulgating their gawa-gawang <b>INDIRECT COMMUNICATION</b><br/>
-			--> This is executed by causing noise pollution, e.g. grave threats "patayin", AND physical injury (falling to the ground) to those who do NOT obey their gawa-gawang Patakaran (Rules)<br/>
+			--> This is executed by causing noise pollution, e.g. grave threats "patayin", AND physical injury (falling to the ground) to those who do NOT obey their <b>Gawa-gawang Patakaran (Rules)</b><br/>
 			<br/>
-			<b>Example Gawa-gawang Patakaran (Rules):</b><br/>
+			<b>Example:</b><br/>
 			1) Do NOT share know-how with People, including the Police.<br/>
 			2) Do NOT file incident reports with Law Enforcement.<br/>
 			<br/>
