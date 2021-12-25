@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211123
+  @date updated: 20211225
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -384,14 +384,7 @@
   </head>
 	  <script>
 	  </script>
-  <body>
-  
-  
-  TO-DO: -update: this;<br/>
-  TO-DO: -add: reusable CSS instructions
-  <br/>
-  <br/>
-  
+  <body>  
   
 <?php
 	date_default_timezone_set('Asia/Hong_Kong');
@@ -475,10 +468,10 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>｢得点王｣</b><br/> 
-		"tokutenou"<br/>
-		"kumuha ng tuldok (punto) hari";<br/>
-		Computer Simulation Game<br/>
+		<b>｢合気道｣</b>: <b>aikidou</b><br/> 
+		pinagsamang kaluluwa daan;<br/> 
+		<b>｢平安｣</b>: <b>heian</b><br/> 
+		payapa; patag babae may bubong<br/>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -530,7 +523,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 			<div class="newsletterImageTextDiv">
 				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg"><br/>
-				<b>Built Popsickle Stick Sauna House with 7yr old Nephew<br/> 
+				<b>Built Popsickle Stick FINNISH Sauna House with 7yr old Nephew<br/> 
 				in the Year 2016</b>
 			</div>
 		<br/>
@@ -716,6 +709,53 @@ Sa magagawa ipagawa, ayos.<br/>
 --> Hindi na kailangang makipag-usap sa mga Manloloko.<br/>
 --> There is NO COMMUNICATION using Teroristang Komunista's wireless broadcasting technology.<br/>
 --> In its stead, increased Noise Pollution with Physical Injury<br/>
+
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			I had to start going to partner 
+			<a class="webServiceLink" target="_blank" href="https://www.staluciacares.com/">Sta. Lucia Health Care Center (SLHCC)</a> due to the <b>CASH</b> and <b>Health Maintenence Organization (HMO)</b> Payments were NOT being received correctly and quickly.<br/>
+			<br/>
+			DR. SYSON, PEDRO requested my assistance due to NOBODY else was going to work on it. 
+			Without yet my wife's physical presence to assist, I had to shift focus away from our <b>USBONG STORE</b>, <b>USBONG SPECIALTY BOOKSTORE</b>, et cetera.<br/>
+			<br/>
+			While working on the task, I learned that the noise pollution from the Teroristang Komunista group continued at SLHCC.<br/>
+			<br/>
+			The Accountant who was mainly responsible for working on the task experienced a STROKE on the face, classified to be <b>BELL's PALSY</b>.<br/>
+			<br/>
+			Previously, a Medical Doctor (Orthopedic Surgeon) who was part of MOSC also had a STROKE, which caused him to have a <b>MAJOR</b> surgical operation on the head.<br/>
+			<br/>
+			The wireless electric, magnetic, sound waves broadcasted by the budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group is <b>NO JOKE</b>.<br/>
+			<br/>
+			<b>Additional Note#1:</b> The Medical Doctor trained first at the University of the Philippines Manila as part of <b>INTARMED (INTegrated Liberal–ARts MEDicine)</b>.<br/>
+			--> where: <b>INTARMED</b>: intense yet quick Medical Doctor training<br/>
+			--> where: <b>Orthopedic</b>: dagdag na training na may kinalaman sa <b>BUTO</b>, <b>MASEL</b>, at sa mga <b>NAGDIDIKIT</b> sa mga iyon, e.g. <b>JOINT</b><br/>
+			--> where: <b>Surgeon</b>: keyword: <b>KNIFE</b><br/>
+			--> <b>Select Readings:</b> <a class="webServiceLink" target="_blank" href="https://ronibats.ph/2011/how-i-got-into-intarmed/">https://ronibats.ph/2011/how-i-got-into-intarmed/</a>;<br/> 
+			last accessed: 20211225<br/>
+			<br/>
+			<b>Additional Note#2:</b> The Teroristang Komunista group has been misusing the <b>CCTV</b> inside the household, in particular where the vehicles are located, and even inside MOSC<br/>
+			--> <b>Action:</b> notified: DR. SYSON, PEDRO to change the <b>PASSWORD</b> to access the <b>CCTV security system</b>, instead of continuing to endure the attacks, e.g. noise pollution, vehicular theft.<br/>
+			<br/>
+			<b>Additional Note#3:</b> observed: Teroristang Komunista group has been promulgating their gawa-gawang <b>INDIRECT COMMUNICATION</b><br/>
+			--> This is executed by causing noise pollution, e.g. grave threats "patayin", AND physical injury (falling to the ground) to those who do NOT obey their gawa-gawang Patakaran (Rules)<br/>
+			<br/>
+			<b>Example Gawa-gawang Patakaran (Rules):</b><br/>
+			1) Do NOT share know-how with People, including the Police.<br/>
+			2) Do NOT file incident reports with Law Enforcement.<br/>
+			<br/>
+			--> observed: this is due to the Teroristang Komunista group aims to be the <b>"Law Enforcement"</b> of their own <b>Gawa-gawang Patakaran</b> that is NOT of the community.<br/>			
+			--> In addition, while target UNIT is at <b>CHAOS</b>, having UNCLEAR/MALABO Communication, this Manlolokong/Teroristang Komunista group steals vehicles, et cetera to get quick money.
+			<br/>
+		</td>
+	</tr>
+</table>
+
 </h5>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
@@ -739,9 +779,6 @@ Sa magagawa ipagawa, ayos.<br/>
 	</tr>
 </table>
 
-<br/>
-<br/>
-TO-DO: -update: this<br/>
 <br/>
 <br/>
 
