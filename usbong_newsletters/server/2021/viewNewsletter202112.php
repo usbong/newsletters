@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211225
+  @date updated: 20211226
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -376,7 +376,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- removed by Mike, 20211226 
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
+-->
 	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
@@ -737,7 +739,7 @@ Sa magagawa ipagawa, ayos.<br/>
 			--> <b>Select Readings:</b> <a class="webServiceLink" target="_blank" href="https://ronibats.ph/2011/how-i-got-into-intarmed/">https://ronibats.ph/2011/how-i-got-into-intarmed/</a>;<br/> 
 			last accessed: 20211225<br/>
 			<br/>
-			<b>Additional Note#2:</b> The Teroristang Komunista group has been misusing the <b>CCTV Camera</b> inside the household, in particular where the vehicles are located, and even inside MOSC<br/>
+			<b>Additional Note#2:</b> The Teroristang Komunista group has been misusing the <b>Closed-circuit Television (CCTV) Camera</b> inside the household, in particular where the vehicles are located, and even inside MOSC<br/>
 			--> The CCTV Camera exists to supposedly provide security monitor surveillance; It can be accessed using an Android application.<br/>
 			--> <b>Example:</b><br/>
 			<table>
@@ -754,18 +756,55 @@ Sa magagawa ipagawa, ayos.<br/>
 			<a class="webServiceLink" target="_blank" href="https://m.apkpure.com/bubo-bubo/icatch.video.h264#icatch.video.h264-3">https://m.apkpure.com/bubo-bubo/icatch.video.h264#icatch.video.h264-3</a>;<br/>
 			last accessed: 20211206<br/>
 			<br/>			
-			--> <b>Action:</b> notified: DR. SYSON, PEDRO to change the <b>PASSWORD</b> to access the <b>CCTV Camera System</b>, instead of continuing to endure the attacks, e.g. noise pollution, vehicular theft.<br/>
+			--> <b>Executed Actions:</b><br/> 
+			--> notified: DR. SYSON, PEDRO to change the <b>PASSWORD</b> to access the <b>CCTV Camera System</b>, instead of having us with the MOSC Unit continue to endure the attacks, e.g. noise pollution, vehicular theft.<br/>
+			--> reminded: DR. SYSON, PEDRO to file a report with the Police identifying his younger brother, SYSON, RAMON, and his family as members of this Teroristang Komunista group.<br/>
 			<br/>
 			<b>Additional Note#3:</b> observed: Teroristang Komunista group has been promulgating their gawa-gawang <b>INDIRECT COMMUNICATION</b><br/>
 			--> This is executed by causing noise pollution, e.g. grave threats "patayin", AND physical injury (falling to the ground) to those who do NOT obey their <b>Gawa-gawang Patakaran (Rules)</b><br/>
-			<br/>
-			<b>Example:</b><br/>
+			<br/>			
+			<b>Example Gawa-gawang Patakaran:</b><br/>
 			1) Do NOT share know-how with People, including the Police.<br/>
 			2) Do NOT file incident reports with Law Enforcement.<br/>
-			<br/>
+			<br/>			
 			--> observed: this is due to the Teroristang Komunista group aims to be the <b>"Law Enforcement"</b> of their own <b>Gawa-gawang Patakaran</b> that is NOT of the community.<br/>			
 			--> In addition, while target UNIT is at <b>CHAOS</b>, having UNCLEAR/MALABO Communication, this Manlolokong/Teroristang Komunista group steals vehicles, et cetera to get quick money.
 			<br/>
+			<br/>
+			<b>Example#1 Physical Attacks causing Injury to Target:</b><br/>
+			<b>Target:</b> SYSON, MICHAEL B.<br/>
+			Both Knees (datetime stamp: 2020-10-15T13:34)<br/>
+			<table>
+			<tr>
+				<td>
+					<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202112/20201021_075857LEFTOccurred20201015T1334.jpg">
+					<br/>
+					LEFT Knee
+				</td>
+				<td>
+					<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202112/20201021_075812RIGHTOccurred20201015T1334.jpg">
+					<br/>
+					RIGHT Knee
+				</td>
+			</tr>
+			</table>
+			<br/>			
+			<b>Reminder:</b> In Physics, we learn that sound carries energy.<br/>
+			That energy hits our eardrums when the sound as wave enters our ears.<br/>
+			A sufficient amount of energy can physically hurt our eardrums.<br/>
+			We know the amount of energy is sufficient because we already feel pain.<br/>
+			This leads to loss of hearing, which further leads to falling to the ground due to being off balance.<br/>
+			<br/>
+			<b>Reminder:</b> SYSON, MICHAEL B. continues to endure multiple attacks from this Teroristang Komunista group.<br/>
+			<b>Example#2:</b> index finger hitting electric fan of computer mother board while executing computer repair service, causing noticeable amounts of blood to come out.<br/>
+			<br/>
+			observed: Senior Members of this Teroristang Komunista group are dying<br/>
+			--> Teroristang Komunista admits to self to be Manloloko<br/>
+			--> <b>Result:</b> CHAOS (internal and external) leading to CANCER<br/>
+			observed: Senior Citizens have difficulty changing their habits<br/>
+			--> The <b>younger generation</b> shall make mistakes due to <b>YABANG</b> from crimes committed while dependent on Senior Members<br/>
+			<br/>
+			<b>Recommended Action:</b> Destroy the <b>younger generation</b> of this Teroristang Komunista group. No need for negotiation.
 		</td>
 	</tr>
 </table>
