@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211226
+  @date updated: 20211229
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -413,7 +413,9 @@
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">				
-			<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
+			<a class="webServiceLink" target="_blank" href="http://www.usbong.ph">		
+				<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
+			</a>
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
@@ -429,44 +431,47 @@
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
+<!--
 			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+-->
+			<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 				Computer
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">		
 				Services
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Team
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Partners
 			</a>
 		</td>	
-		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+		<td class="menuColumn">		
+			<a class="menuLink" target="_blank" href="https://github.com/usbong">		
 				Open Source
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
 				EXCEL
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">		
 				Contact
 			</a>
 		</td>
 	</table>
-
 	<br>
 	<br>	
+
 	<div class="newsletterTitle">
 		<b>｢合気道｣</b>: <b>aikidou</b><br/> 
 		pinagsamang kaluluwa daan;<br/> 
