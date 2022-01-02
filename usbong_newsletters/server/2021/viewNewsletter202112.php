@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211117
-  @date updated: 20211229
+  @date updated: 20220102; from 20211226
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -413,9 +413,7 @@
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">				
-			<a class="webServiceLink" target="_blank" href="http://www.usbong.ph">		
-				<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
-			</a>
+			<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
@@ -431,47 +429,44 @@
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
-<!--
 			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
--->
-			<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 				Computer
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">		
+			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
 				Services
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
+			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
 				Team
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
+			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
 				Partners
 			</a>
 		</td>	
-		<td class="menuColumn">		
-			<a class="menuLink" target="_blank" href="https://github.com/usbong">		
+		<td class="menuColumn">				
+			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
 				Open Source
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
+			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
 				EXCEL
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">		
+			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
 				Contact
 			</a>
 		</td>
 	</table>
+
 	<br>
 	<br>	
-
 	<div class="newsletterTitle">
 		<b>｢合気道｣</b>: <b>aikidou</b><br/> 
 		pinagsamang kaluluwa daan;<br/> 
@@ -647,7 +642,6 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> last accessed: 20211121<br/>
 --> <b>Heian Shodan - Shotokan Karate</b><br/>
 --> Peace Beginner Level<br/>
-<h5>
 <b>2.2.1) 合気道 (あいきどう；aikidou）</b><br/>
 --> (pinagsamang kaluluwa daan)<br/>
 <br/>
@@ -664,44 +658,39 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> masdan kawalan・kalangitan malaki<br/>
 <br/>
 <b>・・・</b><br/>
-</h5>
 <h4>2.3) Paalala#1:</h4>
-<h5>
 <b>2.3.1) 結局、歴史では、戦争が伸びてると、</b><br/>
-kekkyoku, rekishideha, sensou ga nobiru to,<br/>
+<b>kekkyoku, rekishideha, sensou ga nobiru to,</b><br/>
 Kinalauanan, sa kasaysayan, sa paghaba ng digmaan,<br/>
 <br/>
 <b>兵士が疲れるし、供給なども切れる・・・</b><br/>
-heishi ga tsukarerushi, kyoukyuu nado mo kireru...<br/>
+<b>heishi ga tsukarerushi, kyoukyuu nado mo kireru...</b><br/>
 napapagod ang sundalong mag-aaral, napuputol ang bigay na pagsasaluhan (supply)...<br/>
 <br/>
 <b>敵がわかれば、ターゲットして、</b><br/>
-teki ga wakareba, ta-gettoshite,<br/>
+<b>teki ga wakareba, ta-gettoshite,</b><br/>
 Kapag alam na ang kalaban, gawing target,<br/>
 <br/>
 <b>優柔不断をせずに、早めに終わりにすること。</b><br/>
-yuujuu fudan wo sezu ni, hayame ni owarini suru koto.<br/>
+<b>yuujuu fudan wo sezu ni, hayame ni owarini suru koto.</b><br/>
 hindi gawin ang walang hintong bait at pag-aakma (flexible), tapusin na habang maaga pa.<br/>
 <br/>
 <b>わくわくすることなく、仕事としての決断でね。</b><br/>
-wakuwaku suru koto naku, shigoto toshite no ketsudan de ne.<br/>
+<b>wakuwaku suru koto naku, shigoto toshite no ketsudan de ne.</b><br/>
 hindi gawin nang may excitement; bilang hanap-buhay pagpasiyahan, hinto.<br/>
 <br/>
-</h5>
 <h4>2.4) Paalala#2:</h4>
-<h5>
 <b>うまくできることをして、</b><br/>
-umaku dekiru koto wo shite,<br/>
+<b>umaku dekiru koto wo shite,</b><br/>
 Gawin ang maiging nagagawa,<br/>
 <br/>
 <b>意味がわからず、うまくできないことを</b><br/>
-imi ga wakarazu, umaku dekinai koto wo<br/>
+<b>imi ga wakarazu, umaku dekinai koto wo</b><br/>
 hindi maunawaan ang saysay, hindi maiging magawa,<br/>
 <br/>
 <b>他にして良い。</b><br/>
-hoka ni shite yoi<br/>
+<b>hoka ni shite yoi</b><br/>
 Sa magagawa ipagawa, ayos.<br/>
-</h5>
 <h4>2.5)　budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group</h4>
 <h5>
 --> Patuloy araw-gabi ang kanilang maling paggamit ng wireless broadcasting technology sa paggawa ng panlolokong ingay at pisikal na pananakit.<br/>
@@ -827,7 +816,7 @@ Sa magagawa ipagawa, ayos.<br/>
 			Habang natitirang nabubuhay, gawin nang lubos ang magagawa,<br/>
 			<br/>
 			<b>この犯罪グループを終わりに致しております。</b><br/>
-			kono guru-pu wo owarini itashite ormasu.<br/>
+			kono guru-pu wo owarini itashite orimasu.<br/>
 			ang kriminal na samahang ito, wakasin, ginagawa ko po.<br/>
 			<br/>
 			<b>ご協力をお願い申し上げます。</b><br/>
