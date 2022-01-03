@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20211222
+  @date updated: 20220103
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -436,37 +436,40 @@
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
+<!--
 			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+-->
+			<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 				Computer
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">		
 				Services
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Team
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Partners
 			</a>
 		</td>	
-		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+		<td class="menuColumn">		
+			<a class="menuLink" target="_blank" href="https://github.com/usbong">		
 				Open Source
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
 				EXCEL
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">		
 				Contact
 			</a>
 		</td>
@@ -503,6 +506,24 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 1) Increased Work Income<br/> 
 2) Increased Work Contribution to Community, Family, Company<br/>
 <br/>
+<div>
+		<b>Example Work Output:</b> <a class="webServiceLink" href="https://www.usbong.ph/excel" target="_blank">Usbong Computer Software Automation</a><br/>
+<!--
+		<video width="320" height="240" controls>
+		  <source src="assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4" type="video/mp4">
+		  Your browser does not support the video tag.
+		</video><br/>	
+
+		<video width="320" height="240" controls>
+		<video width="480" height="360" controls>
+-->
+		<video width="416" height="312" controls>
+		  <source src="assets/images/videos/exampleAnnualReportWithBarChartsUsingMSExcelMacroEtCeteraFinishIn11Secs20220101T1049.mp4" type="video/mp4">
+		  Your browser does not support the video tag.
+		</video><br/>	
+	</div>
+<br/>
+
 --> <b>Recommended Actions:</b><br/> 
 --> <b>Skill-Level#1)</b> learn: correct use of rows and columns to quickly execute computations<br/> 
 --> verify: first using pen-and-paper Workbook<br/>
@@ -547,16 +568,70 @@ One-time purchase for PC and Mac<br/>
 --> <b>note#2:</b> File transfer can first be via <b>Universal Serial Bus (USB) Memory Storage</b>.<br/>
 --> <b>Example#1:</b> Patient Referral 5% Incentive Summary Report<br/>
 <br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
---> <b>Skill-Level#4)</b> learn: correct use of <b>Computer Network</b><br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		After verification, the next Skill-Level shall require an increased know-how in multiple Computer Languages.<br/><br/>
+<b>Skill-Level#4)</b> learn: correct use of <b>Computer Network</b><br/>
 --> learn: <b>Computer Web Technologies</b><br/>
---> <b>Apache Web Server</b><br/>
---> <b>Hypertext Markup Language (HTML)</b><br/>
---> <b>PHP Hypertext Preprocessor (PHP)</b><br/>
---> <b>MySQL Database</b><br/>
---> note: file transfer via computer network</b>
+<b>4.1) Apache Web Server</b><br/>
+<b>4.2) Hypertext Markup Language (HTML)</b><br/>
+<b>4.3) PHP Hypertext Preprocessor (PHP)</b><br/>
+<b>4.4) MySQL (Structured Query Language) Database</b><br/>
+note: file transfer via computer network</b><br/>
+<br/>		
+	
+	
+		At present, I <b>STOP</b> Computer (and Internet access) use earlier than 21:00, e.g. 20:00. This is due to excess noise from passing vehicles, e.g. Delivery Trucks, causes me to also wake earlier than 05:00.<br/>
+		<br/>
+		<b>identified:</b> excess noise to be from wireless signals transmitted by the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group.<br/>
+		--> <b>excess noise</b> classified to be <b><u>noise pollution</u></b> due to vehicles, e.g. Trucks, do NOT ordinarily make such sounds<br/>
+		<br/>
+		<b>notified:</b> Barangay Sto. Niño, Office of Public Safety and Security (OPSS)<br/>
+		<br/>
+		<b>Additional Note:</b><br/>
+		1) observed: increase in available Time after stopping use of Internet access<br/>
+		<br/>
+		<b>Recommended Action:</b><br/> 
+		received: Time be used with face-to-face interaction with spouse, children...<br/>
+		<b>Example Activities:</b><br/> 
+		--> play musical instruments, physical training, e.g. swimming,<br/> 
+		--> build house using popsickle sticks (which uses Maparaang Pagbibilang),<br/> 
+		<br/>
+			<div class="newsletterImageTextDiv">
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg"><br/>
+				<b>Built Popsickle Stick Sauna House with 7yr old Nephew<br/> 
+				in the Year 2016</b>
+			</div>
+		<br/>
+		--> practice languages, e.g. nihongo, Deutsche<br/>
+		--> where: nihongo = Japanese language<br/>
+		--> where: Deutsche = German language<br/>		
+		<br/>
+		shared: with another nephew (now 5yrs old; Year 2021), in school, make friends with those who are learning nihongo and/or Deutsche<br/>
+		--> verified: Filipino citizens who learn such languages also more quickly learn <b>Maparaang Pagbibilang</b> than those who only learn as foreign language English<br/> 
+		--> <b>reminder:</b> learning the language includes learning the history<br/>
+		--> <b>Example</b>: History of East and West Germany<br/>
+		--> where: progress became <b>efficient</b> in West Germany than East Germany<br/>
+		--> This is due to <b>clear communication</b>, i.e. MALINAW, hindi MALABO;<br/>
+		--> In addition, statements are based on evidence.<br/>
+		--> After result became clear, the Berlin Wall that separated East and West Germany fell; Germany re-unified in the 90's. By the Year 2000's, majority of the German people became classified to be content, i.e. ginhawa na.<br/>
+		<br/>
+		--> The actions of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group with their <b>continuous misuse of wireless broadcasting technology to make noise pollution with physical injury</b> cause delays and inefficiency in progress.<br/>
+		--> <b>Recommended Action:</b> Puksain ang mga Teroristang Komunista;<br/> 
+		--> No need for negotiation.<br/>
+		<br/>
+		<b>Recommended Action:</b><br/>
+		verify: <b>Deutsche Welle (German Language Wave) Documentary</b><br/>
+		--> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=YJLzd8EK__g">Angela Merkel - Navigating a world in crisis | DW Documentary</a><br/>
+		"Angela Merkel has been Germany’s Chancellor for 16 years. In that time, she has steered the country through countless international crises, frequently crossing swords with other world leaders."
+	</tr>
+</table>
+
 <br/>
 <br/>
 TO-DO: -update: this
