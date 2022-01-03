@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220102
-  @date updated: 20220102
+  @date updated: 20220103
   @website address: http://www.usbong.ph
     
   Input:
@@ -312,7 +312,7 @@
 /*							font-weight: bold;
 */
 							width: 30%;							
-						}						
+						}						Newsletter202201
 
 
 						td.column
@@ -429,41 +429,44 @@
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
 -->
 	
-	<!-- menu bar -->
+		<!-- menu bar -->
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
+<!--
 			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+-->
+			<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 				Computer
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">		
 				Services
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Team
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Partners
 			</a>
 		</td>	
-		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+		<td class="menuColumn">		
+			<a class="menuLink" target="_blank" href="https://github.com/usbong">		
 				Open Source
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
 				EXCEL
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">		
 				Contact
 			</a>
 		</td>
@@ -471,7 +474,7 @@
 
 	<br>	
 	<div>
-		<b>Output:</b> <a class="webServiceLink" href="https://www.usbong.ph/excel" target="_blank">Usbong Computer Software Automation</a><br/>
+		<b>Example Work Output:</b> <a class="webServiceLink" href="https://www.usbong.ph/excel" target="_blank">Usbong Computer Software Automation</a><br/>
 <!--
 		<video width="320" height="240" controls>
 		  <source src="assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4" type="video/mp4">
