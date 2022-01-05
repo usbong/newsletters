@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220103
+  @date updated: 20220105
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -584,9 +584,9 @@ One-time purchase for PC and Mac<br/>
 <b>4.4) MySQL (Structured Query Language) Database</b><br/>
 note: file transfer via computer network</b><br/>
 <br/>		
-		<b>Additional Notes:</b>
+		<b>Additional Notes:</b><br/>
 		1) We use to Apache Web Server so that multiple computers connected to the network can access files in another computer classified to be the Server.<br/>
-		2) We use HTML...<br/> 
+		2) We use HTML to write the instructions of the pages stored in the Server to be viewed by multiple computers.<br/> 
 		<br/>
 		TO-DO: -update: this
 	</tr>
