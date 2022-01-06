@@ -590,13 +590,28 @@ note: file transfer via computer network</b><br/>
 		2) We use <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">HTML</a> to write the instructions of the page files stored in the Server to be viewed by multiple computers.<br/> 
 		<br/>
 		3) We use <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> to write the instructions that connect the page files to the Database in the Server.<br/> 
-		<b>Example:</b> Auto-write in the page file all the patient names in the Database with the keyword "Miguel"<br/>
+		<b>Example:</b> Auto-write in the page file all the patient names in the Database with the keyword <b>"Miguel</b>"<br/>
 		<br/>
 		4) We use <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> to create a structure of all the data, e.g. patient names, to quickly execute actions, e.g. search.<br/> 
 		<b>Reminder:</b> No structure : CHAOS/GULO<br/>
 		<br/>
-
-		TO-DO: -update: this
+		This structure uses the technique that we use with the pen-and-paper TABLE with rows and columns;<br/>
+		<br/> 
+		With TABLE count > 1, we connect each TABLE in the set using a unique identification (ID) that exists in the two (2) connected TABLEs.<br/>
+		<br/>
+		<b>Example:</b> <b>Patient ID</b> as used by both <b>Patient</b> TABLE and <b>Transaction</b> TABLE<br/> 
+		<br/>
+		From observation, I share that Database know-how is a fundamental concept in Computer Science, as applied using
+		Information Technology.<br/>
+		where: <b>Science</b> : identification and classification of objects<br/>
+ 		<br/>		
+		In addition to <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a>, there also exist Computer Languages, e.g. <a class="webServiceLink" target="_blank" href="https://www.python.org/">Python</a>, <a class="webServiceLink" target="_blank" href="https://www.perl.org/">Perl</a>, that can be used for Web Development. However, after verification, I still use <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> due to being faster to write the computer instructions and also maintain with assistance from the <a class="webServiceLink" target="_blank" href="https://www.codeigniter.com/">CodeIgniter Framework (version 2)</a>.<br/>
+		where: <a class="webServiceLink" target="_blank" href="https://www.codeigniter.com/">CodeIgniter Framework</a>: guide to create structure for the files;<br/>		
+	  <br/>
+		<b>Example:</b><br/> 
+		1) <b>View</b> Folder for the page files that is viewed by Humans of the Unit;<br/>
+		2) <b>Model</b> Folder for instructions to access the Database<br/>
+		3) <b>Controller</b> Folder for instructions to connect the <b>View Folder</b> and the <b>Model</b> Folder by identifying which items to use in the Database <b>query</b>, i.e. <b>question</b>, based on the input from the page files in the <b>View</b> folder
 	</tr>
 </table>
 
