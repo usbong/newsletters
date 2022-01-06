@@ -578,14 +578,14 @@ One-time purchase for PC and Mac<br/>
 		After verification, the next Skill-Level shall require an increased know-how in multiple Computer Languages.<br/><br/>
 <b>Skill-Level#4)</b> learn: correct use of <b>Computer Network</b><br/>
 --> learn: <b>Computer Web Technologies</b><br/>
-<b>4.1) <a class="webServiceLink" target="_blank" href="www.apachefriends.org">Apache Web Server</a></b><br/>
+<b>4.1) <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org">Apache Web Server</a></b><br/>
 <b>4.2) <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a></b><br/>
 <b>4.3) <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP Hypertext Preprocessor (PHP) Computer Language</a></b><br/>
 <b>4.4) <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL (Structured Query Language) Database</a></b><br/>
 note: file transfer via computer network</b><br/>
 <br/>		
 		<b>Additional Notes:</b><br/>
-		1) We use the <a class="webServiceLink" target="_blank" href="www.apachefriends.org">Apache Web Server</a> so that multiple computers connected to the network can access files in another computer classified to be the Server.<br/>
+		1) We use the <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org">Apache Web Server</a> so that multiple computers connected to the network can access files in another computer classified to be the Server.<br/>
 		<br/>
 		2) We use <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">HTML</a> to write the instructions of the page files stored in the Server to be viewed by multiple computers.<br/> 
 		<br/>
