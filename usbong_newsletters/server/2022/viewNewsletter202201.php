@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220105
+  @date updated: 20220106
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -578,16 +578,24 @@ One-time purchase for PC and Mac<br/>
 		After verification, the next Skill-Level shall require an increased know-how in multiple Computer Languages.<br/><br/>
 <b>Skill-Level#4)</b> learn: correct use of <b>Computer Network</b><br/>
 --> learn: <b>Computer Web Technologies</b><br/>
-<b>4.1) Apache Web Server</b><br/>
-<b>4.2) Hypertext Markup Language (HTML)</b><br/>
-<b>4.3) PHP Hypertext Preprocessor (PHP) Computer Language</b><br/>
-<b>4.4) MySQL (Structured Query Language) Database</b><br/>
+<b>4.1) <a class="webServiceLink" target="_blank" href="www.apachefriends.org">Apache Web Server</a></b><br/>
+<b>4.2) <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a></b><br/>
+<b>4.3) <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP Hypertext Preprocessor (PHP) Computer Language</a></b><br/>
+<b>4.4) <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL (Structured Query Language) Database</a></b><br/>
 note: file transfer via computer network</b><br/>
 <br/>		
 		<b>Additional Notes:</b><br/>
-		1) We use to Apache Web Server so that multiple computers connected to the network can access files in another computer classified to be the Server.<br/>
-		2) We use HTML to write the instructions of the pages stored in the Server to be viewed by multiple computers.<br/> 
+		1) We use the <a class="webServiceLink" target="_blank" href="www.apachefriends.org">Apache Web Server</a> so that multiple computers connected to the network can access files in another computer classified to be the Server.<br/>
 		<br/>
+		2) We use <a class="webServiceLink" target="_blank" href="https://www.w3schools.com/html/">HTML</a> to write the instructions of the page files stored in the Server to be viewed by multiple computers.<br/> 
+		<br/>
+		3) We use <a class="webServiceLink" target="_blank" href="https://www.php.net/">PHP</a> to write the instructions that connect the page files to the Database in the Server.<br/> 
+		<b>Example:</b> Auto-write in the page file all the patient names in the Database with the keyword "Miguel"<br/>
+		<br/>
+		4) We use <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> to create a structure of all the data, e.g. patient names, to quickly execute actions, e.g. search.<br/> 
+		<b>Reminder:</b> No structure : CHAOS/GULO<br/>
+		<br/>
+
 		TO-DO: -update: this
 	</tr>
 </table>
