@@ -614,10 +614,18 @@ note: file transfer via computer network</b><br/>
 		3) <b>Controller</b> Folder for instructions to connect the <b>View Folder</b> and the <b>Model</b> Folder by identifying which items to use in the Database <b>query</b>, i.e. <b>question</b>, based on the input from the page files in the <b>View</b> folder
 	</tr>
 </table>
-<br/>
-<br/>
 </h5>
-<h5>1.1.1) reminded: Public, VALUE of IT know-how in relation to TIME<br/> 
+<h5>1.1.2) reminded: Public, <b>VALUE</b> of IT know-how in relation to <b>TIME</b><br/> 
+<br/>
+<b>Example#1:</b> Incorrect <b>INFORMATION</b> by Human Unit Member that she has already written the Transactions for the Day in the MS Excel Workbook;<br/><br/>
+<b>COST to Tech Support:</b> 17mins, attempting to identify in the computer instructions the <b>CAUSE</b><br/>
+<br/>
+<b>Note:</b> <b>VALUE</b> becomes unclear if <b>SAVED TIME</b> NOT measured;<br/>
+where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
+<br/>
+<b>SAVED TIME</b> can be used to execute these actions among others:<br/>
+1) Another work task to speed-up system<br/>
+2) Rest with own Family Unit<br/>
 <br/>
 TO-DO: -update: this<br/>
 <br/>
