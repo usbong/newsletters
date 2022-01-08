@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220106
+  @date updated: 20220108
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -614,11 +614,44 @@ note: file transfer via computer network</b><br/>
 		3) <b>Controller</b> Folder for instructions to connect the <b>View Folder</b> and the <b>Model</b> Folder by identifying which items to use in the Database <b>query</b>, i.e. <b>question</b>, based on the input from the page files in the <b>View</b> folder
 	</tr>
 </table>
+<br/>
+<br/>
+</h5>
+<h5>1.1.1) reminded: Public, VALUE of IT know-how in relation to TIME<br/> 
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+<b>CASIO WRIST WATCH Purchased History</b><br/>
+<br/>
+<table>
+<tr>
+	<td>
+		<img class="newsletterImage" width="92%" height="92%" src="assets/images/newsletter/202201/purchasedDate20130512_20211224T0912.jpg">
+		<b>Purchased Date:</b> 2013-05-12<br/>
+		<b>Cost:</b> PHP4950<br/>		
+		<b>ELAPSED TIME:</b> OVER 4 YEARS; @PHP3.39/day<br/>		
+	</td>
+	<td>
+		<img class="newsletterImage" width="92%" height="92%" src="assets/images/newsletter/202201/purchasedDate2017090720211224T0909.jpg">
+		<b>Purchased Date:</b> 2017-09-07<br/>
+		<b>Cost:</b> PHP4950<br/>		
+		<b>ELAPSED TIME:</b> OVER 4 YEARS; @PHP3.39/day<br/>		
+	</td>
+	<td>
+		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202201/purchasedDate20211214_20211224T0907.jpg">
+		<b>Purchased Date:</b> 2021-12-14<br/>
+		<b>Cost:</b> PHP5000<br/>		
+		<b>ELAPSED TIME:</b> ???;<br/>
+		@?/day
+	</td>
+</tr>
+</table>
+
 
 <br/>
 <br/>
 TO-DO: -update: this
-</h5>
+
 <h3>2) Continued with Research & Development (R&D)</h3>
 <h4>2.1) Usbong Tugon: Auto-resize Output Image Tile based on Computer/Television Monitor</h4>
 <h5>
