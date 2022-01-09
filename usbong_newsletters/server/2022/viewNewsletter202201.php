@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220108
+  @date updated: 20220109
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -513,7 +513,6 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		  <source src="assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4" type="video/mp4">
 		  Your browser does not support the video tag.
 		</video><br/>	
-
 		<video width="320" height="240" controls>
 		<video width="480" height="360" controls>
 -->
@@ -618,7 +617,7 @@ note: file transfer via computer network</b><br/>
 <h5>1.1.2) reminded: Public, <b>VALUE</b> of IT know-how in relation to <b>TIME</b><br/> 
 <br/>
 <b>Example#1:</b> Incorrect <b>INFORMATION</b> by Human Unit Member that she has already written the Transactions for the Day in the MS Excel Workbook;<br/><br/>
-<b>COST to Tech Support:</b> 17mins, attempting to identify in the computer instructions the <b>CAUSE</b><br/>
+<b>COST to Tech Support:</b> 17mins, attempting to identify in the computer instructions the <b>CAUSE</b> of Incorrect Output<br/>
 <br/>
 <b>Note:</b> <b>VALUE</b> becomes unclear if <b>SAVED TIME</b> NOT measured;<br/>
 where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
@@ -654,8 +653,37 @@ TO-DO: -update: this<br/>
 	</td>
 </tr>
 </table>
-
-
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			I recommend using items that I continue to use.<br/>
+			<br/>
+			<b>Example:</b> CASIO WRIST WATCH<br/>
+			<br/>
+			In addition, its functions that I mainly use include:<br/>
+			1) <b>DAY of the WEEK & Date:</b> to quickly get such information<br/> 
+			2) <b>Back LIGHT:</b> to view TIME even when there is insufficient ambient light<br/>
+			3) <b>STOP WATCH:</b> to measure <b>ELAPSED TIME</b> when executing physical activities, e.g. <b>RUNNING</b>, <b>SWIMMING</b><br/>
+			<br/>
+			<b>Reminder:</b> This ACTION is as with <b>FOOD</b><br/>
+			<b>Example:</b> No need to eat PORK, insects that eat dirt, et cetera<br/>
+			<br/>
+			<b>Additional Note:</b><br/>			
+			1) <b>Question</b> & <b>Answer</b> of whether Husband or Wife is also <b>THIN</b> or <b>BIG</b>;<br/>
+			observed: those who eat together the same <b>FOOD</b> shall be of the same size;<br/>
+			--> those that are even a little separated due to work, et cetera<br/> 
+			--> AND do NOT eat the same <b>FOOD</b> shall NOT be of the same size;<br/>
+			<br/>
+			<b>Recommended Action:</b><br/>
+			1) Work to build <b>OWN Family Unit</b> together @HOME as Husband and Wife
+		</td>
+	</tr>
+</table>
 <br/>
 <br/>
 TO-DO: -update: this
