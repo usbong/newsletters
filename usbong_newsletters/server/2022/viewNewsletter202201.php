@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220109
+  @date updated: 20220113
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -670,7 +670,7 @@ TO-DO: -update: this<br/>
 			2) <b>Back LIGHT:</b> to view TIME even when there is insufficient ambient light<br/>
 			3) <b>STOP WATCH:</b> to measure <b>ELAPSED TIME</b> when executing physical activities, e.g. <b>RUNNING</b>, <b>SWIMMING</b><br/>
 			<br/>
-			<b>Reminder:</b> This ACTION is as with <b>FOOD</b><br/>
+			In the same manner, I recommend eating <b>FOOD</b> that I continue to eat.<br/>
 			<b>Example:</b> No need to eat PORK, insects that eat dirt, et cetera<br/>
 			<br/>
 			<b>Additional Note:</b><br/>			
@@ -680,7 +680,18 @@ TO-DO: -update: this<br/>
 			--> AND do NOT eat the same <b>FOOD</b> shall NOT be of the same size;<br/>
 			<br/>
 			<b>Recommended Action:</b><br/>
-			1) Work to build <b>OWN Family Unit</b> together @HOME as Husband and Wife
+			1) Work to build <b>OWN Family Unit</b> together @HOME as Husband and Wife<br/>
+			2) verify: own weight each morning after waking up and before drinking or eating anything<br/>
+			--> If weight increased, this action assists in identifying which <b>FOOD</b> from the previous day caused it.<br/>
+			--> <b>Examples of observed FOOD to cause increase in weight:</b><br/> 
+			--> chicken gravies, campbell soup, cake cream<br/>
+			<br/>
+			<b>Recommended Reading:</b><br/>
+			--> Suzuki, D.T.'s "Training of a Zen Buddhist Monk"<br/>
+			<br/>
+			<b>Recommended Computer Game Character:</b><br/>
+			--> テリー（ドラゴンクエストVI； スーパーファミリーコンピュータ版）<br/>
+			--> teri- (doragonkuesuto VI; su-pa- famiri- kompyu-ta ban)
 		</td>
 	</tr>
 </table>
