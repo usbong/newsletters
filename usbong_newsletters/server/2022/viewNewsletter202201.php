@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220113
+  @date updated: 20220114
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -626,8 +626,6 @@ where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
 1) Another work task to speed-up system<br/>
 2) Rest with own Family Unit<br/>
 <br/>
-TO-DO: -update: this<br/>
-<br/>
 <b>CASIO WRIST WATCH Purchased History</b><br/>
 <br/>
 <table>
@@ -691,7 +689,9 @@ TO-DO: -update: this<br/>
 			<br/>
 			<b>Recommended Computer Game Character:</b><br/>
 			--> テリー（ドラゴンクエストVI； スーパーファミリーコンピュータ版）<br/>
-			--> teri- (doragonkuesuto VI; su-pa- famiri- kompyu-ta ban)
+			--> teri- (doragonkuesuto VI; su-pa- famiri- kompyu-ta ban)<br/>
+			--> classified to be already strong by himself;<br/> 
+			--> however, opts to join Unit to be stronger
 		</td>
 	</tr>
 </table>
