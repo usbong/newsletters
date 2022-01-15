@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220114
+  @date updated: 20220115
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -695,282 +695,25 @@ where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
 		</td>
 	</tr>
 </table>
+<h3>2) Continued with Research & Development (R&D)</h3>
+<h4>2.1) joined: GitHub Game Off 2021: <b>TUGON</b><br/>
+<br/>
+<div class="newsletterImageTextDiv">
+	<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202201/tugonCoverPage.jpg"><br/>
+</div>
+<br/>
+<div class="newsletterImageTextDiv">
+	<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202201/tugonInAction.jpg"><br/>
+</div>
+<br/>
+<div class="newsletterImageTextDiv">
+	<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202201/tugonMissionCompleteChallengeBeatBestHitAccuracyAndElapsedTimeV20211130T0840.jpg"><br/>
+</div>
+
+
 <br/>
 <br/>
 TO-DO: -update: this
-
-<h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1) Usbong Tugon: Auto-resize Output Image Tile based on Computer/Television Monitor</h4>
-<h5>
-		--> 2.1.1) verified: using OpenGL (Graphics Library) Technology's scale COMMAND, tile image size CAN be quickly and correctly resized to be SMALLER or LARGER than its original size<br/>
-		--> This is due to among others:<br/> 
-		--> floating-point numbers are accepted as inputs, instead of ONLY whole numbers<br/>
-		--> where: floating-point numbers : numbers with decimal point<br/>
-		--> <b>Examples:</b> 2.5, 3.0<br/>
-		--> where: whole numbers : integers, numbers with NO decimal point<br/>
-		--> <b>Examples:</b> 2, 3<br/>
-		--> <b>Reminder#1:</b> 10/3=3.333...<br/>
-		--> <b>Reminder#2:</b> Shall need to download and install OpenGL, in addition to SDL (SimpleDirect Library)<br/>	
-		<br/>
-		--> 2.1.2) verified: using <b>ONLY</b> SDL Technology's set width and height, tile image size CAN be quickly and correctly resized to be SMALLER than its original size if using the same ratio;<br/>
-		--> where: same ratio : from 64x64 to 32x32; NOT from 64x64 to 32x35<br/>
-		--> <b>Incorrect Output:</b> excess or missing pixel markings, near the tile image's borders<br/>
-		<br/>
-		--> <b>Additional Note:</b> If size increased to make tile image LARGER, also incorrect output<br/>
-		--> <b>Present actions:</b><br/>
-		--> 1) use the original Tile Image's pixel width and height, e.g. 64x64;<br/>
-		--> 2) resize to be LARGER only Tile Image with transparent borders<br/>
-		--> Example: Font texture
-				
-</h5>
-<br/>
-<br/>
-
-
---> <b>Example:</b> verify: if > 1hr in front of computer/television monitor<br/>
---> observed: when there exists no set task to execute, Unit member shall watch videos on the Internet<br/>
---> observed: This action is equal with verifying news feeds from <b>Social Networking Service (SNS)</b><br/>
---> <b>Recommended Actions:</b><br/> 
---> 1) Stop using Internet access when there is NO clear task to execute<br/>
---> 2) Turn OFF Internet access by 21:00 MAX<br/>
-<br/>
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-		At present, I <b>STOP</b> Computer (and Internet access) use earlier than 21:00, e.g. 20:00. This is due to excess noise from passing vehicles, e.g. Delivery Trucks, causes me to also wake earlier than 05:00.<br/>
-		<br/>
-		<b>identified:</b> excess noise to be from wireless signals transmitted by the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group.<br/>
-		--> <b>excess noise</b> classified to be <b><u>noise pollution</u></b> due to vehicles, e.g. Trucks, do NOT ordinarily make such sounds<br/>
-		<br/>
-		<b>notified:</b> Barangay Sto. Niño, Office of Public Safety and Security (OPSS)<br/>
-		<br/>
-		<b>Additional Note:</b><br/>
-		1) observed: increase in available Time after stopping use of Internet access<br/>
-		<br/>
-		<b>Recommended Action:</b><br/> 
-		received: Time be used with face-to-face interaction with spouse, children...<br/>
-		<b>Example Activities:</b><br/> 
-		--> play musical instruments, physical training, e.g. swimming,<br/> 
-		--> build house using popsickle sticks (which uses Maparaang Pagbibilang),<br/> 
-		<br/>
-			<div class="newsletterImageTextDiv">
-				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/builtPopsickleStickSaunaHouseWith7YrOldNephew20161217.jpg"><br/>
-				<b>Built Popsickle Stick Sauna House with 7yr old Nephew<br/> 
-				in the Year 2016</b>
-			</div>
-		<br/>
-		--> practice languages, e.g. nihongo, Deutsche<br/>
-		--> where: nihongo = Japanese language<br/>
-		--> where: Deutsche = German language<br/>		
-		<br/>
-		shared: with another nephew (now 5yrs old; Year 2021), in school, make friends with those who are learning nihongo and/or Deutsche<br/>
-		--> verified: Filipino citizens who learn such languages also more quickly learn <b>Maparaang Pagbibilang</b> than those who only learn as foreign language English<br/> 
-		--> <b>reminder:</b> learning the language includes learning the history<br/>
-		--> <b>Example</b>: History of East and West Germany<br/>
-		--> where: progress became <b>efficient</b> in West Germany than East Germany<br/>
-		--> This is due to <b>clear communication</b>, i.e. MALINAW, hindi MALABO;<br/>
-		--> In addition, statements are based on evidence.<br/>
-		--> After result became clear, the Berlin Wall that separated East and West Germany fell; Germany re-unified in the 90's. By the Year 2000's, majority of the German people became classified to be content, i.e. ginhawa na.<br/>
-		<br/>
-		--> The actions of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group with their <b>continuous misuse of wireless broadcasting technology to make noise pollution with physical injury</b> cause delays and inefficiency in progress.<br/>
-		--> <b>Recommended Action:</b> Puksain ang mga Teroristang Komunista;<br/> 
-		--> No need for negotiation.<br/>
-		<br/>
-		<b>Recommended Action:</b><br/>
-		verify: <b>Deutsche Welle (German Language Wave) Documentary</b><br/>
-		--> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=YJLzd8EK__g">Angela Merkel - Navigating a world in crisis | DW Documentary</a><br/>
-		"Angela Merkel has been Germany’s Chancellor for 16 years. In that time, she has steered the country through countless international crises, frequently crossing swords with other world leaders."
-	</tr>
-</table>
-
-<h3>2) Continued to share know-how regarding Security Defense Force</h3>
-<h4>2.1) Audio Player Transmitter of Frequency Modulator (FM) Radio Wireless Signal</h4>			
-<table>
-	<tr>
-		<td>
-			<b>CDR-KING Item</b><br/>
-			<div class="newsletterImageTextDiv">
-<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202112/cdrKingAudioMusicPlayerTransmitterFMRadioWirelessSignal.jpg">
-			</div>
-		</td>
-		<td width="50%">
-			<div class="newsletterImageTextDiv">
-				<b>Cost:</b> PHP500~600<br/>
-				<b>Net Weight:</b> 21g; <b>Size:</b> 55 x 21 x 15mm<br/>
-				<b>Frequency:</b> FM 87.5 – 108MHZ<br/>
-				<b>Input:</b> Max DC 5V/2.1A<br/>
-				<b>Battery:</b> Built-in 300mAh Battery<br/>
-				<b>Charging Time:</b> About 1 Hour<br/>
-				<b>Standby Time:</b> About 30 Days<br/>
-			</div>
-		</td>
-	</tr>
-
-</table>
-<br/>
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			Over 10years ago, Year 2007~2008, I also verified another CDR-KING audio transmitter. However, instead of using Bluetooth technology to connect the transmitter with the Audio player, we used an audio cable and port.<br/>
-			<br/>
-			<b>Example Usage:</b> We set the transmitter's frequency to use, e.g. 100. We also set the vehicle radio's receiver frequency to use 100.<br/>
-			<br/>
-			With this technique, the vehicle radio shall play the transmitted sound using its speakers. In addition, nearby vehicles who also use the frequency 100 shall receive to play the transmitted sound.<br/>
-			<br/>
-			<b>Reminder:</b> Select frequencies are used by broadcasting networks.<br/>
-			<b>Examples:</b> 94.7 Mellow; 100.3 RJ<br/>
-			<br/>
-			Using the same frequency shall cause the output sound of the vehicle speaker to include the received audio from the CDR-KING transmitter.<br/>
-			<br/>
-			<b>Result:</b> Excess, i.e. Noise, instead of Clear Music.<br/>
-			<br/>
-			<b>Additional Notes:</b><br/>
-			<b>1) learned: audio transmitter item from younger brother in 2007</b><br/>
-			--> observed: item NOT the usual for me due to used vehicle radio, cassette<br/>
-			--> observed: vehicle Compact Disc (CD) player (if available) malfunctions to destroy inserted CD<br/>
-			--> observed: vehicle air-conditioning machine malfunctions, e.g. loss of freon gas; after incident, vehicle quickly sold<br/>
-			--> noted: observations to be included in <b>pattern</b> of related carnapping, vehicle incidents, et cetera that would continue in the coming years<br/>
-			--> identified: in 10 years, members of the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group<br/>
-			--> filed: with Law Enforcement, incident reports with identification<br/> 
-			<br/>
-			<b>2) The transmitter's electric wave as measured by signal strength is NOT as strong as a wireless broadcasting tower's.</b><br/>
-			--> verified: the budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group to misuse wireless broadcasting towers such that the transmitted signal reaches Brgy. Marikina Heights <b>AND</b> Brgy. Sto. Niño.<br/>
-			<br/>
-			<b>Reminder#1:</b> Brgy. Marikina Heights is located at a higher, elevated part of the Marikina Valley;
-			Brgy. Sto. Niño is located at a lower part.<br/>
-			--> executed: walking from <b>Brgy. Sto. Niño</b> to <b>Brgy. Marikina Heights</b> during non-raining Sunday mornings;<br/> 
-			--> <b>Walk Elapsed Time:</b> 40mins (one way)<br/> 
-			--> <b>Walk Distance:</b> 960meters (one way)<br/>
-			<br/>
-			<b>Reminder#2:</b> While at place of residence and workplace in <b>Brgy. Sto. Niño</b>, the budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group transmitted such signal to my <b>CDR-KING mini wireless radio/speaker</b>, while I was attempting to defend myself from their noise using static sound from a supposedly unused radio frequency.<br/>
-			<br/>
-			<div class="newsletterImageTextDiv">
-				<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
-				Approx size: 6x6cm
-			</div>
-			<br/>
-			<b>Reminder#3:</b> Android telephone speaker can reach >= 40meters<br/>
-			--> The Teroristang Komunista group continues without permit to misuse:<br/> 
-			--> Telephone mic to execute eavesdropping,<br/> 
-			--> Telephone speaker to cause noise pollution<br/>
-			--> verified: wired/wireless-tapping executed using telephone network, GLOBE, and Dr. SYSON, Pedro's GLOBE post-paid SIM telephone number.<br/>
-			<br/>
-			--> <b> Recommended Actions:</b><br/>
-			--> 1) <b>Turn OFF</b> telephone and/or <b>Set to Flight mode</b> to disconnect from wireless network<br/>
-			--> 2) <b>notify:</b> spouse, siblings, et cetera to send you a written message via, e.g. Short Messaging Service (SMS) if CALL is NOT received.<br/>
-			--> Telephone network shall send you the written message when you re-connect to wireless network.<br/>
-			--> 3) <b>notify:</b> Law Enforcement
-			<br/>
-		</td>
-	</tr>
-</table>
-
-<h4>2.2) Action Technique: Shotokan Karate</h4>
---> <a class="webServiceLink" target="_blank" href="https://www.youtube.com/user/shotokankataman/videos">https://www.youtube.com/user/shotokankataman/videos</a>;<br/>
---> last accessed: 20211121<br/>
---> <b>Heian Shodan - Shotokan Karate</b><br/>
---> Peace Beginner Level<br/>
-<h5>
-<b>2.2.1) 合気道 (あいきどう；aikidou）</b><br/>
---> (pinagsamang kaluluwa daan)<br/>
-<br/>
-<b>2.2.2) 平安　（へいあん、初段～五段; heian, shodan ~ godan）</b><br/>
---> payapa; patag babae may bubong; simulang nibel ~ ikalimang nibel<br/>
-<br/>
-<b>2.2.3) 鉄騎初段　（てつ＋き＋しょだん; tetsu + ki + shodan）</b><br/>
---> bakal na kabayo malaki maaari simulang nibel<br/>
-<br/>
-<b>2.2.4) 抜塞大　（ぬく＋ふさぐ＋おおきい; nuku + fusagu + ookii）</b><br/>
---> tanggalin baradong malaki<br/>
-<br/>
-<b>2.2.5) 観空大　（みる＋くう・そら＋おおきい; miru + kuu・sora + ookii）</b><br/>
---> masdan kawalan・kalangitan malaki<br/>
-<br/>
-<b>・・・</b><br/>
-</h5>
-<h4>2.3) Paalala#1:</h4>
-<h5>
-<b>2.3.1) 結局、歴史では、戦争が伸びてると、</b><br/>
-kekkyoku, rekishideha, sensou ga nobiru to,<br/>
-Kinalauanan, sa kasaysayan, sa paghaba ng digmaan,<br/>
-<br/>
-<b>兵士が疲れるし、供給なども切れる・・・</b><br/>
-heishi ga tsukarerushi, kyoukyuu nado mo kireru...<br/>
-napapagod ang sundalong mag-aaral, napuputol ang bigay na pagsasaluhan (supply)...<br/>
-<br/>
-<b>敵がわかれば、ターゲットして、</b><br/>
-teki ga wakareba, ta-gettoshite,<br/>
-Kapag alam na ang kalaban, gawing target,<br/>
-<br/>
-<b>優柔不断をせずに、早めに終わりにすること。</b><br/>
-yuujuu fudan wo sezu ni, hayame ni owarini suru koto.<br/>
-hindi gawin ang walang hintong bait at pag-aakma (flexible), tapusin na habang maaga pa.<br/>
-<br/>
-<b>わくわくすることなく、仕事としての決断でね。</b><br/>
-wakuwaku suru koto naku, shigoto toshite no ketsudan de ne.<br/>
-hindi gawin nang may excitement; bilang hanap-buhay pagpasiyahan, hinto.<br/>
-<br/>
-</h5>
-<h4>2.4) Paalala#2:</h4>
-<h5>
-<b>うまくできることをして、</b><br/>
-umaku dekiru koto wo shite,<br/>
-Gawin ang maiging nagagawa,<br/>
-<br/>
-<b>意味がわからず、うまくできないことを</b><br/>
-imi ga wakarazu, umaku dekinai koto wo<br/>
-hindi maunawaan ang saysay, hindi maiging magawa,<br/>
-<br/>
-<b>他にして良い。</b><br/>
-hoka ni shite yoi<br/>
-Sa magagawa ipagawa, ayos.<br/>
-</h5>
-<h4>2.5)　budol-budol/manloloko/carnapper/cybercriminal/Teroristang Komunista group</h4>
-<h5>
---> Patuloy araw-gabi ang kanilang maling paggamit ng wireless broadcasting technology sa paggawa ng panlolokong ingay at pisikal na pananakit.<br/>
---> Kahit ang Nanay-nayan kong Hapon binabastos.<br/>
-<br/>
---> <b>Mungkahing mga Aksyon:</b><br/>
-<b>2.5.1) Matuto ng Maparaang Pagbibilang.</b><br/>
-<b>2.5.2) Gawan ng incident report ang Pulis.</b><br/>
-<b>2.5.3) Puksain ang mga Teroristang Komunista.</b><br/>
---> Hindi na kailangang makipag-usap sa mga Manloloko.<br/>
---> There is NO COMMUNICATION using Teroristang Komunista's wireless broadcasting technology.<br/>
---> In its stead, increased Noise Pollution with Physical Injury<br/>
-</h5>
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			<b>生き残りながら、がんばって、</b><br/>
-			ikinokorinagara, gambatte,<br/>
-			Habang natitirang nabubuhay, gawin nang lubos ang magagawa,<br/>
-			<br/>
-			<b>この犯罪グループを終わりに致しております。</b><br/>
-			kono guru-pu wo owarini itashite ormasu.<br/>
-			ang kriminal na samahang ito, wakasin, ginagawa ko po.<br/>
-			<br/>
-			<b>ご協力をお願い申し上げます。</b><br/>
-			gokyouryoku wo onegai moushiagemasu.<br/>
-			Ang inyo pong pinagsamang tulong na lakas, aking may galang na pakiusap.<br/>
-		</td>
-	</tr>
-</table>
-
-<br/>
-<br/>
-TO-DO: -update: this<br/>
 <br/>
 <br/>
 
