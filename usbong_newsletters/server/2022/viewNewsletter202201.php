@@ -1,5 +1,5 @@
 <!--
-  Copyright 2021 SYSON, MICHAEL B.
+  Copyright 2021~2022 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220115
+  @date updated: 20220119
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -376,11 +376,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
 <!-- //edited by Mike, 20211029
-	<base href="http://store.usbong.ph/" target="_blank">
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
-
+	<base href="http://store.usbong.ph/" target="_blank">
   </head>
 	  <script>
 	  </script>
@@ -709,6 +708,32 @@ where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
 <div class="newsletterImageTextDiv">
 	<img class="newsletterImage" width="70%" height="70%" src="assets/images/newsletter/202201/tugonMissionCompleteChallengeBeatBestHitAccuracyAndElapsedTimeV20211130T0840.jpg"><br/>
 </div>
+
+<h4>2.2) Usbong Tugon: Auto-resize Output Image Tile based on Computer/Television Monitor</h4>
+<h5>
+		--> 2.2.1) verified: using OpenGL (Graphics Library) Technology's scale COMMAND, tile image size CAN be quickly and correctly resized to be SMALLER or LARGER than its original size<br/>
+		--> This is due to among others:<br/> 
+		--> floating-point numbers are accepted as inputs, instead of ONLY whole numbers<br/>
+		--> where: floating-point numbers : numbers with decimal point<br/>
+		--> <b>Examples:</b> 2.5, 3.0<br/>
+		--> where: whole numbers : integers, numbers with NO decimal point<br/>
+		--> <b>Examples:</b> 2, 3<br/>
+		--> <b>Reminder#1:</b> 10/3=3.333...<br/>
+		--> <b>Reminder#2:</b> Shall need to download and install OpenGL, in addition to SDL (SimpleDirect Library)<br/>	
+		<br/>
+		--> 2.2.2) verified: using <b>ONLY</b> SDL Technology's set width and height, tile image size CAN be quickly and correctly resized to be SMALLER than its original size if using the same ratio;<br/>
+		--> where: same ratio : from 64x64 to 32x32; NOT from 64x64 to 32x35<br/>
+		--> <b>Incorrect Output:</b> excess or missing pixel markings, near the tile image's borders<br/>
+		<br/>
+		--> <b>Additional Note:</b> If size increased to make tile image LARGER, also incorrect output<br/>
+		--> <b>Present actions:</b><br/>
+		--> 1) use the original Tile Image's pixel width and height, e.g. 64x64;<br/>
+		--> 2) resize to be LARGER only Tile Image with transparent borders<br/>
+		--> Example: Font texture
+				
+</h5>
+<br/>
+<br/>
 
 
 <br/>
