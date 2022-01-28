@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220119
+  @date updated: 20220128; from 20220119
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -729,12 +729,28 @@ where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
 		--> <b>Present actions:</b><br/>
 		--> 1) use the original Tile Image's pixel width and height, e.g. 64x64;<br/>
 		--> 2) resize to be LARGER only Tile Image with transparent borders<br/>
-		--> Example: Font texture
-				
+		--> Example: Font texture				
 </h5>
+TO-DO: -add: Lessons-learned Report<br/>
 <br/>
-<br/>
-
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			Using available TIME received from system efficiency, we are able to execute <b>Research & Development (R&D)</b> work tasks, e.g. <b>Usbong TUGON</b>. From History, we learn that select computer game companies also executed such action.<br/>
+			<br/>
+			<b>Example:</b> FromSoftware (Founded in 1986)<br/>
+			<br/>
+			TO-DO: -update: this<br/>
+			<br/>
+			<b>Reference:</b><br/>
+			Halverson, D., et al. (1998). "Gamers' Republic (Issue 7, December 1998)". CA, USA: Millenium Publications, Inc.
+		</td>
+	</tr>
+</table>
 
 <br/>
 <br/>
