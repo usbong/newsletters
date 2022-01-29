@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220128; from 20220119
+  @date updated: 20220129; from 20220128
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -740,11 +740,32 @@ TO-DO: -add: Lessons-learned Report<br/>
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-			Using available TIME received from system efficiency, we are able to execute <b>Research & Development (R&D)</b> work tasks, e.g. <b>Usbong TUGON</b>. From History, we learn that select computer game companies also executed such action.<br/>
+			Using available TIME received from system efficiency, we are able to execute <b>Research & Development (R&D)</b> work tasks, e.g. <b>Usbong TUGON</b>. From History, we learn that select computer game simulation companies also executed such action.<br/>
 			<br/>
-			<b>Example:</b> FromSoftware (Founded in 1986)<br/>
+			<b>Example:</b> <a class="webServiceLink" target="_blank" href="https://www.fromsoftware.jp/ww/">From Software</a> (Founded in 1986)<br/>
+			<br/>			
+			<b>Section 2 CS Development Team:</b><br/> 
+			Shinichiro Nishida, Associate General Manager<br/> 
+			<b>Section 1 CS Development Team:</b><br/> 
+			Yasuyoshi Karasawa, Associate General Manager<br/>
+			<b>Production Division:</b> Toshifumi Nabeshima, Unit Chief<br/> 
 			<br/>
-			TO-DO: -update: this<br/>
+			<b>From Software Example Works:</b> King's Field Saga, Armored Core Series, Shadow Tower, Echo Knight<br/>
+			<br/>
+			<b>Select Interview Questions:</b><br/> 
+			<b>1) Why did you decide to start making games?</b><br/>
+			"When we were making home applications there would sometimes be periods of free time between our customers' orders where we had no work to do. Of course we couldn't sit around doing nothing, so we sometimes wrote PC games. Anyway, at the time when the 3DO, Sega Saturn and PlayStation came out we decided to have a go at producing a game for real. In the end we chose to develop on the PlayStation because it had the highest spec."<br/>
+			<br/>
+			<b>2) Armored Core was a big departure from your hit RPG series. Were you worried that your fans wouldn't like it?</b><br/>
+			"Sony actually said to us that a robot fighting game would have a much smaller base market for our target user, and that concerned us. However, while creating Armored Core, we genuinely enjoyed playing with it and we were fairly confident that it would do well, and when we showed it at the PlayStation Expo, we received a lot of positive feedback from the gamers."<br/>
+			<br/>				
+			<b>Unit Team Notes:</b><br/>
+			"At first there was just one team for King's Field. Then we split this team into two and increased their numbers. Then later on we split these two teams again and enlarged them with new staff. Thus, there are both new people and people who have worked on the King's Field series in this team."<br/>
+			<br/>
+			--> From <b>3</b> people making games, to <b>7</b> by King's Field; in 1998, <b>30</b> people working only on games.<br/>
+			<br/>
+			<b> Unit 3D Graphic Engine Note:</b><br/>
+			Push Engine to the entertaining edge of game creation<br/>
 			<br/>
 			<b>Reference:</b><br/>
 			Halverson, D., et al. (1998). "Gamers' Republic (Issue 7, December 1998)". CA, USA: Millenium Publications, Inc.
