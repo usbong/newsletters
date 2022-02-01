@@ -376,11 +376,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
 <!-- //edited by Mike, 20211029
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
+-->
 
 	<base href="http://store.usbong.ph/" target="_blank">
--->
 
   </head>
 	  <script>
@@ -777,7 +777,7 @@ where: <b>SAVED TIME</b> : Geld, i.e. GOLD, MONEY<br/>
 
 	<div class="copyright">
 		<span>
-			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
+			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
 			<a class="webServiceLink" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
 				Creative Commons Attribution License BY 4.0
 			</a>
