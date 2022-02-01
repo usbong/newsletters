@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220129; from 20220128
+  @date updated: 20220202; from 20220129
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -376,21 +376,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20211029
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
+<!-- //edited by Mike, 20211029
+
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
+
   </head>
 	  <script>
 	  </script>
   <body>
-  
-  
-  TO-DO: -update: this;<br/>
-  TO-DO: -add: reusable CSS instructions
-  <br/>
-  <br/>
-  
   
 <?php
 	date_default_timezone_set('Asia/Hong_Kong');
@@ -477,10 +472,9 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>｢得点王｣</b><br/> 
-		"tokutenou"<br/>
-		"kumuha ng tuldok (punto) hari";<br/>
-		Computer Simulation Game<br/>
+		<b>SAVED TIME</b> : Geld, i.e. GOLD, MONEY<br/>
+		スーパーファミリーコンピュータ<br/>
+		Su-pa- Famiri- Kompyu-ta<br/>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -599,6 +593,12 @@ note: file transfer via computer network</b><br/>
 		<br/>
 		<b>Example:</b> <b>Patient ID</b> as used by both <b>Patient</b> TABLE and <b>Transaction</b> TABLE<br/> 
 		<br/>
+		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202201/exampleTransactionTableWithPatientId.png">
+		<br/>
+		<br/>
+		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202201/examplePatientTableWithPatientId.png">
+		<br/>
+		<br/>
 		From observation, I share that Database know-how is a fundamental concept in Computer Science, as applied using
 		Information Technology.<br/>
 		where: <b>Science</b> : identification and classification of objects<br/>
@@ -619,7 +619,7 @@ note: file transfer via computer network</b><br/>
 <b>COST to Tech Support:</b> 17mins, attempting to identify in the computer instructions the <b>CAUSE</b> of Incorrect Output<br/>
 <br/>
 <b>Note:</b> <b>VALUE</b> becomes unclear if <b>SAVED TIME</b> NOT measured;<br/>
-where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
+where: <b>SAVED TIME</b> : Geld, i.e. GOLD, MONEY<br/>
 <br/>
 <b>SAVED TIME</b> can be used to execute these actions among others:<br/>
 1) Another work task to speed-up system<br/>
@@ -731,8 +731,7 @@ where: <b>SAVED TIME</b> : geld, i.e. GOLD, MONEY<br/>
 		--> 2) resize to be LARGER only Tile Image with transparent borders<br/>
 		--> Example: Font texture				
 </h5>
-TO-DO: -add: Lessons-learned Report<br/>
-<br/>
+
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -740,7 +739,7 @@ TO-DO: -add: Lessons-learned Report<br/>
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-			Using available TIME received from system efficiency, we are able to execute <b>Research & Development (R&D)</b> work tasks, e.g. <b>Usbong TUGON</b>. From History, we learn that select computer game simulation companies also executed such action.<br/>
+			Using available TIME received from system efficiency, we are able to execute <b>Research & Development (R&D)</b> work tasks, e.g. <b>Usbong TUGON</b>. From History, we learn that select computer simulation game companies also executed such action.<br/>
 			<br/>
 			<b>Example:</b> <a class="webServiceLink" target="_blank" href="https://www.fromsoftware.jp/ww/">From Software</a> (Founded in 1986)<br/>
 			<br/>			
@@ -773,9 +772,6 @@ TO-DO: -add: Lessons-learned Report<br/>
 	</tr>
 </table>
 
-<br/>
-<br/>
-TO-DO: -update: this
 <br/>
 <br/>
 
