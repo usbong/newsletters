@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211219
-  @date updated: 20220202; from 20220129
+  @date updated: 20220203; from 20220202
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -771,6 +771,36 @@ where: <b>SAVED TIME</b> : Geld, i.e. GOLD, MONEY<br/>
 		</td>
 	</tr>
 </table>
+
+<h4>2.3) Lessons-learned Report</h4>
+<h5>
+--> <b>2.3.1) What is your reasoning behind the corrective actions that your team chose?*</b><br/>
+--> We started by verifying instructions from our existing applications that executed on Windows machines. However, due to there were more unused Linux machines available, we quickly created a Linux version. We also used the macOS and the GarageBand Tool to convert to .mp3 file format the Audio file that we recorded using an Android telephone.<br/>
+<br/>
+--> <b>2.3.2) Describe one example of what went right.*</b><br/>
+--> We did NOT experience stress caused by attempting to add more with decreasing available TIME during development.<br/>
+<br/>
+--> <b>2.3.3) Describe one example of what went wrong.*</b><br/>
+--> I set the COMMENTS to off in our GitHub Game Off 2021 Project page after observing that it appeared that those who did NOT even Submit an Entry could POST a comment; After re-verification, there was an update, such that comments began to include the Developer's Submitted Entry.<br/>
+<br/>
+--> <b>2.3.4) Give your personal words of wisdom based on your team's experiences.*</b><br/>
+--> Execute tasks yourself instead of immediately delegating them to people; We learn how select applications became a certain way after noticing during development that select developers were also working on a similar path, and reached their END Output based on the paths that they chose.<br/>
+
+<h4>2.4) Lessons-learned Report (Japanese version)<br/>
+学んだ事に関するレポート
+</h4>
+--> <b>2.4.1) 直すための選んだ行動に関する理由は?*</b><br/>
+--> 先ず、WINDOWSマシンで実行するアプリケーションのソースコードを調べ始めた。しかし、使ってないLinuxマシンがより多くて、LINUX版を速く作ることにした。また、macOSとGarageBandツールで、アンドロイドケータイ電話で記録した音声を、.mp3ファイル式に変更した。<br/>
+<br/>
+--> <b>2.4.2) うまく行ったことを一つ下さい。*</b><br/>
+--> 残り時間が少なくなり、より多くのモノを入れようとしないため、ストレスを感じなかった。<br/>
+<br/>
+--> <b>2.4.3) うまく行かなかったことを一つ下さい。*</b><br/>
+--> 何のエントリーも提出してないのに、コメントができることに観えて、GitHub Game Off 2021 Projectのページで、コメントをＯＦＦにした。　しかし、また調べたら、更新があり、コメントに開発者の提出したエントリーが付けるようになった。<br/>
+<br/>
+--> <b>2.4.4) チームの経験から、個人的な知恵を一言を下さい。*</b><br/>
+--> 人に直ぐ任せるより、ジョブタスクを先ず自分で実行してみること。そうすると、如何にあるアプリケーションの一定的な結果となったか、ということがわかるようになる。そして、こういうことにも気づく。開発中の時に、開発者が似てるパス（道）で働き、選んだパスで、最終出力に着いたこと。<br/>		
+</h5>
 
 <br/>
 <br/>
