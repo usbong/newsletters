@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220217
+  @date updated: 20220218; from 20220217
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -95,7 +95,7 @@
 						div.copyright
 						{
 							text-align: center;
-							font-size: 10pt;
+							font-size: 10pt;1
 							color: rgb(0,0,0); /* black */
 						}
 					
@@ -376,10 +376,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20211029
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
+<!-- //edited by Mike, 20220218
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
+
   </head>
 	  <script>
 	  </script>
@@ -507,15 +508,66 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> <b>effective (expected):</b> until June 2022<br/>
 --> received: information after visiting BIR:RDO45 for Annual <b>Certificate of Registration</b><br/>
 
-<h5>1.1.2) shared: with Public, regular security updates of Computers used at partner Units<br/>
-
-		<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202202/internetToComputerBoxAsAirToVehicleTireAtPetronEnergyStation20220130T091416.jpg"><br/>
-		Internet to Computer Box as AIR to Vehicle Tire @Petron Energy Station<br/>
+<table>
+<tr>
+	<td>
+		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202202/eBIRV7Dot9Dot2Form2551Qv2018BayanihanActAsOneHalimbawaV20220107.png">
+	</td>
+</tr>
+<tr>
+	<td>
+		BIR Form 2551: <b>Quarterly Percentage Tax Return</b><br/>
+	</td>
+</tr>
+</table>
 <br/>
+--> Instead of filing <b>Quarterly Percentage Tax Returns</b> AND <b>Graduated Income Tax Returns</b>, a person can opt to file <b>Income Tax Returns</b> set to the <b>8% Income Tax Rate of Gross Sales</b> in excess of PHP250,000;<br/>
+--> reminder: we immediately pay the <b>8% Income Tax</b> as soon as our <b>Gross Sales</b> are over PHP250,000<br/>
+--> With this action, we CAN eliminate work TIME used for excess report filings.<br/>
+--> reminder: paying @banks costs at least 2hours of work TIME;<br/>
+--> <b>References:</b><br/>
+--> received: explanation @BIR RDO45, Brgy. Sto. Niño, Marikina City<br/>
+--> <a class="webServiceLink" href="https://www.bir.gov.ph/index.php/tax-information/income-tax.html" target="_blank">https://www.bir.gov.ph/index.php/tax-information/income-tax.html; last accessed: 20220218
+</a>
+
+<h5>1.1.2) shared: with Public, regular security updates of Computers used at partner Units<br/>
 --> increased: network security by removing connection to the Internet<br/>
 --> where: Internet classified to be add excess connections to the local Unit's network;<br/>
 --> <b>reminder:</b> Internet: public network of Computer Database Storages<br/>
+--> added: Internet connectivity to execute regular security updates;<br/>
 <br/>
+<table>
+<tr>
+	<td>
+		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202202/computerBoxSecurityUpdatePCStatusProtected20220130T0917.jpg">
+	</td>
+</tr>
+<tr>
+	<td>
+		Step#1 update: Virus and spyware definitions<br/>
+		Step#2 execute: Computer Storage Scan<br/>
+		<br/>
+		observed: LESS NEED to add <b>Anti-virus Software</b> with the following actions:<br/>
+		1) executing: <b>Non-pirated Software</b><br/>
+		2) visiting: websites with <b>NO PIRATED, i.e. illegal, software</b> for download;<br/>
+		<br/>
+		<br/>
+	</td>	
+</tr>
+<tr>
+	<td>
+		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202202/internetToComputerBoxAsAirToVehicleTireAtPetronEnergyStation20220130T091416.jpg">
+	</td>
+</tr>
+<tr>	
+	<td>
+		Internet to Computer Box as AIR to Vehicle Tire @Petron Energy Station<br/>
+	</td>
+</tr>
+</table>
+<br/>
+
+
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -523,10 +575,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-		This observation based on my actually putting AIR to vehicle Tires @Petron Energy Station.<br/>
+		This observation is based on my actually putting AIR to vehicle Tires @Petron Energy Station.<br/>
 		<br/>
 		Petron Energy Stations sell Petron Value Cards @PHP100, where amount inside Card is also @PHP100;<br/>
-		<b>remidner:</b> @select grocery stores, Value Cards purchased @PHP100 contain PHP0;<br/>
+		<br/>
+		<b>reminder:</b> @select grocery stores, Value Cards purchased @PHP100 contain PHP0;<br/>
+		<br/>
 		Value inside Card increases with increasing fuel added to vehicle.<br/>
 		<br/>
 		Example: TO-DO: -update: this<br/>
