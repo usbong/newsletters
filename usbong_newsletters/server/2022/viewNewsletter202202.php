@@ -600,15 +600,21 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> example: TO-DO: -update: this<br/>
 <br/>
 		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/financeCompoundNotesV20220215.png">
-</h5>
+		<br/>
+		<br/>
 --> reminder: new vehicle cost now >= <b>PHP400,000</b><br/>
 --> The budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group <b>illegally shortens TIME</b> to obtain such vehicle via among others:<br/> 
---> carnapping, i.e. theft, replacement of parts to be defective, noise polution;<br/>
+<br/>
+--> 1) carnapping, i.e. theft<br/> 
+--> 2) replacement of parts to be defective<br/>
+--> 3) noise polution<br/>
+<br/>
 --> <b>output#1:</b> promulgation of <b>QUICK MONEY</b>, instead of <b>WORK</b><br/>
 --> where: <b>WORK</b> = unti-unting pagkita ng pera mula sa hanap-buhay<br/>
 --> <b>output#2:</b> increase in vehicle incidents, e.g. excess vehicle collision;<br/>
 --> <b>output#3:</b> increase in patients @Hospitals and Clinics to further cause increase in excess workload;<br/>
 --> <b>output#4:</b> increase in <b>insurance expenses</b> due to excess vehicle and health claims, to cause insurance company to close with <b>brankrupt</b> classification;<br/>
+<br/>
 --> <b>Recommended Action via Law Enforcement:</b> Mula sa mga <b>output</b> dahil sa kanilang pinagloloko, maiging puntahan na sa kanilang Tirahan at puksain.<br/>
 <br/>
 <table class="noteTable">
@@ -621,7 +627,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		At the bridge, as we were about to go down from the upward slope, the clutch of the gear box malfunctioned. Shift of gears to increase or decrease max acceleration became NOT executable;<br/>
 		<br/>
-		At the time, I heard the sound of the words, <b>"engine break"</b>, coming from a person using wireless broadcasting technology as used by the Teroristang Komunista group. After verification, due to <b>YABANG</b> and <b>mistake</b>, I identify the person to be <b>Keith Haw</b>, a Xavier School batchmate during High School, in San Juan, Greenhills.<br/>
+		At the time, I heard the sound of the words, <b>"engine break"</b>, coming from a person using wireless broadcasting technology as used by the Teroristang Komunista group. After verification, I identify the person to be Xavier School batchmate during High School, in San Juan, Greenhills, <b>Keith Haw</b>, who due to <b>YABANG</b> and <b>mistake</b>, still continues to misuse wireless broadcasting technology to cause noise pollution with physical injury.<br/>
 		<br/>
 		<b>Reminder#1:</b> <b>Keith Haw</b> is friends with classmate and basketball player, <b>Tyrone Tang</b>; I classify <b>Tyrone Tang</b> to be with the <b>Teroristang Komunista group</b>;<br/>
 		<b>Reminder#2:</b> Teroristang Komunista group also includes among others:<br/> 
@@ -633,14 +639,17 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		However, due to the <b>Mitsubishi Adventure vehicle</b> could NOT yet be driven <b>HOME</b> to <b>Marikina City</b>, we rode with another male Filipino student back.<br/>
 		<br/>
 		<b>Reminder#3:</b> Increase in <b>identification</b> of Teroristang Komunista group members speeds-up system for <b>Law Enforcement</b> to destroy it.<br/>
+		<b>Reminder#4:</b> verified: filing law suit case against Teroristang Komunista group members is ineffective due to shall be attacked during process execution, which include among others: paperwork.<br/>
+		<br/>
+		observed: <b>system efficiency</b> achieved via <b>Law Enforcement</b> executing quick action with assistance from people who file incident reports that include Teroristang Komunista group member identification, et cetera;<br/>
 		<br/>
 		Teroristang Komunista <b>keywords</b>:<br/> 
 		<b>QUICK MONEY</b> via among others: <b>carnapping</b>, <b>smuggling</b>
 		</td>
 	</tr>
 </table>
-<br/>
-<br/>
+</h5>
+
 TO-DO: -update: this<br/>		
 <br/>
 <br/>
