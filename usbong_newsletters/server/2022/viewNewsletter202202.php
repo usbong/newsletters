@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220221; from 20220218
+  @date updated: 20220223; from 20220221
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -577,13 +577,24 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<td class="noteTableTextColumn">
 		This observation is based on my actually putting AIR to vehicle Tires @Petron Energy Station.<br/>
 		<br/>
-		Petron Energy Stations sell Petron Value Cards @PHP100, where amount inside Card is also @PHP100;<br/>
+		Petron Energy Stations sell <b>Petron Value Cards</b> @PHP100, where amount inside Card is also @PHP100;<br/>
 		<br/>
 		<b>reminder:</b> @select grocery stores, Value Cards purchased @PHP100 contain PHP0;<br/>
 		<br/>
 		Value inside Card increases with increasing fuel added to vehicle.<br/>
 		<br/>
-		Example: TO-DO: -update: this<br/>
+		<b>Example:</b> 2021-12-28;<br/> 
+		<b>Paid Amount:</b> PHP200 = 3.74L (FUEL) @PHP53.50;<br/>
+		<b>Received:</b> Points valued @PHP5.23 <br/>
+		<br/>
+		<b>reminder:</b> Points in <b>Value Card</b> CAN be used to pay for services, e.g. FUEL;<br/>
+		<br/>
+		<b>Additional Note:</b><br/>
+		1) In the Year 2008, in Tokyo, Japan, I was able to use the Discount Store's <b>Value Card</b> points to receive a <b>WACOM Tablet set</b>@10,000yen (PHP5,000; approx);<br/> 
+		where: <b>WACOM Tablet set</b> used for digital illustrations;<br/>		
+		--> I had previously used the <b>Value Card</b> to mainly buy an <b>electronic dictionary</b> @10,000yen (PHP5,000; approx) in the Year 2004~2005, in Osaka, Japan;<br/>
+		<br/>
+		TO-DO: -update: this
 		</td>
 	</tr>
 </table>
@@ -597,7 +608,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h5>1.1.4) shared: with Public, <b>COMPOUND</b> notes<br/>
 --> where: <b>COMPOUND</b>: income from interest is returned to the current invested amount<br/>
 --> result: increased total income;<br/>
---> example: TO-DO: -update: this<br/>
+--> <b>Example:</b><br/>
+--> where: <b>A2</b> = <b>INPUT AMOUNT</b>; <b>B2</b> = <b>INTEREST RATE</b><br/>
+--> equation (<b>NON-COMPOUND</b>): =A2+(A2*B2*0.01)*5<br/>
+--> equation (<b>COMPOUND</b>): =A2*((1+B2*0.01)^5)<br/>
 <br/>
 		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/financeCompoundNotesV20220215.png">
 		<br/>
@@ -607,7 +621,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <br/>
 --> 1) carnapping, i.e. theft<br/> 
 --> 2) replacement of parts to be defective<br/>
---> 3) noise polution<br/>
+--> 3) noise pollution<br/>
 <br/>
 --> <b>output#1:</b> promulgation of <b>QUICK MONEY</b>, instead of <b>WORK</b><br/>
 --> where: <b>WORK</b> = unti-unting pagkita ng pera mula sa hanap-buhay<br/>
@@ -623,7 +637,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-		In the Year 2006, I was driving the household's <b>Mitsubishi Adventure vehicle (Manual Transmission)</b> with two (2) Japanese Exchange Students to Little Tokyo, in Pasay Road, Makati City.<br/>
+		In the Year 2005 (School Year: 2005~2006), I was driving the household's <b>Mitsubishi Adventure vehicle (Manual Transmission)</b> with two (2) Japanese Exchange Students to Little Tokyo, in Pasay Road, Makati City.<br/>
 		<br/>
 		At the bridge, as we were about to go down from the upward slope, the clutch of the gear box malfunctioned. Shift of gears to increase or decrease max acceleration became NOT executable;<br/>
 		<br/>
