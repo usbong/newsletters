@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220223; from 20220221
+  @date updated: 20220227; from 20220223
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -641,7 +641,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		At the bridge, as we were about to go down from the upward slope, the clutch of the gear box malfunctioned. Shift of gears to increase or decrease max acceleration became NOT executable;<br/>
 		<br/>
-		At the time, I heard the sound of the words, <b>"engine break"</b>, coming from a person using wireless broadcasting technology as used by the Teroristang Komunista group. After verification, I identify the person to be Xavier School batchmate during High School, in San Juan, Greenhills, <b>Keith Haw</b>, who due to <b>YABANG</b> and <b>mistake</b>, still continues to misuse wireless broadcasting technology to cause noise pollution with physical injury.<br/>
+		At the time, I heard the sound of the words, <b>"engine break"</b>, coming from a person using wireless broadcasting technology as used by the Teroristang Komunista group. After verification, I identify the person to be Xavier School classmate during High School, in San Juan, Greenhills, <b>Keith Haw</b>, who due to <b>YABANG</b> and <b>mistake</b>, still continues to misuse wireless broadcasting technology to cause noise pollution with physical injury.<br/>
 		<br/>
 		<b>Reminder#1:</b> <b>Keith Haw</b> is friends with classmate and basketball player, <b>Tyrone Tang</b>; I classify <b>Tyrone Tang</b> to be with the <b>Teroristang Komunista group</b>;<br/>
 		<b>Reminder#2:</b> Teroristang Komunista group also includes among others:<br/> 
@@ -663,6 +663,71 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 	</tr>
 </table>
 </h5>
+<h5>1.1.4) shared: with Public, adding used items, e.g. telephones, and parts<br/>
+--> This action is to <b>decrease Expenses</b> and <b>increase know-how</b>.<br/>
+<br/>
+<table>
+<tr>
+	<td>
+		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/increaseObservableNihongoAlphabetWritingsInWorkplace20220131T0718.jpg">
+	</td>
+</tr>
+<tr>	
+	<td>
+		Increased Obsevable nihongo Alphabet Writings @Workplace<br/>
+	</td>
+</tr>
+</table>
+<br/>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			I note that <b>regular viewing</b> of nihongo alphabets causes <b>curiosity</b> to learn more;<br/>
+			<br/>
+			This know-how is also reused with <b>advertising</b> using media, e.g. television, such that viewer eventually buys product for verification after regular viewing;<br/>
+			<br/>
+			observed: seeing a person regularly in-person or on social media, e.g. Facebook (FB), Instagram, shall cause increase in <b>curiosity</b> to learn more, e.g. the person's <b>LIKES</b>.<br/>
+			<br/>
+			reminder: There exists decrease in work productivity and speed-up of usage of available TIME using web services, e.g. FB.<br/>
+			<br/>
+			observed: even @<b>Philippine Long Distance Telephone (PLDT) Corporation</b>, FB, is NOT permitted during <b>WORK TIME</b>;<br/>
+			<br/>
+			<b>Recommended Actions:</b><br/> 
+			1) classify: already FB to be <b>"Entertainment"</b>, instead of <b>COMMUNICATION TOOL</b> for non-trivial cases such as for Consultation @Public Hospitals<br/>
+			<br/>
+			2) stop: active computer and mobile telephone use by 21:00 (MAX); Use gained TIME to rest with <b>own Family Unit</b><br/>
+			<br/>
+			<b>reminder:</b> <b>COMMUNICATION TOOLS</b>, e.g.Telephones, Electronic MAILS, have <b>CALLER/SENDER</b> and <b>target RECEIVER</b>;<br/>
+			<br/>
+			observed: The budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group broadcasts <b>NOISE POLLUTION</b> without first identifying <b>CALLER</b> and <b>RECEIVER</b>; In addition, wireless LINE is CUT even before further clarification can be executed;<br/>
+			<br/>
+			<b>Example:</b> <b>REGULAR</b> <b>NOISE POLLUTION</b> with identified keywords, e.g. "BOBO", "TANGA", "TANGINA", to signify among others: <b>"STUPID"</b>;<br/>
+			<br/>
+			<b>reminder:</b> voice recording and manipulation techniques as used @KARAOKE are reused by Manloloko group<br/>
+			<br/>
+			<b>reminder:</b> <b>Quarterly Percentage Tax</b> on AMUSEMENT PLACES, e.g. KARAOKE: 18% of <b>Quarterly SALES INCOME</b><br/>
+			<br/>
+			observed: <b>NOISE</b> reaches <b>HOME</b> and <b>WORKPLACE</b> @<b>#2 E. Manalo Ave., Barangay Sto. Niño, 1820, Marikina City</b><br/>
+			<br/>
+			observed: Members of Manloloko group causing <b>NOISE POLLUTION</b> can be identified due to their <b>YABANG</b> and <b>MISTAKES</b>, albeit still faster to execute identification when Members <b>CLEARLY</b> identify themselves as the <b>CALLER</b> and their <b>target RECEIVERS</b>.<br/>
+			<br/>			
+			<b>Action Items:</b> filed: incident reports with Police identifying members;<br/>
+			--> Endure, if NOT ignored;<br/>
+			--> observed: continuous noise pollution targetted @ME among others, due to: <b>GAWA-GAWANG PATAKARAN</b><br/> 
+			<b>Examples:</b> do NOT report to POLICE, <b>NEED FOR QUICK MONEY</b><br/>			
+			where: <b>QUICK MONEY</b>: ACTION via carnapping, smuggling, et cetera;<br/>
+			<b>NEW vehicle cost now</b>	 >= <b>PHP400,000</b><br/>
+			<br/>
+			TO-DO: -add: ANG WALANG PAKI TAONG TUMUTULONG SA TERORISTA; ANTI-TERRORISM PARTNERSHIP
+		</td>
+	</tr>
+</table>
+</h5>
+
+
 
 TO-DO: -update: this<br/>		
 <br/>
