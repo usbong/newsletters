@@ -95,7 +95,7 @@
 						div.copyright
 						{
 							text-align: center;
-							font-size: 10pt;1
+							font-size: 10pt;
 							color: rgb(0,0,0); /* black */
 						}
 					
@@ -577,11 +577,25 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<td class="noteTableTextColumn">
 		This observation is based on my actually putting AIR to vehicle Tires @Petron Energy Station.<br/>
 		<br/>
+		<table>
+			<tr>
+				<td>
+		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/petronWavesSandTimeSunadokeiTimesTwoMeccaIpaubayaAngAkingKatawanSaPanginoonReferenceBouEiDaiGakkou20220223T1851.jpg">
+				</td>
+				<td>
+					<b>Reference#1:</b> Petron Logo from Receipts;<br/>
+					<br/>
+					<b>Reference#2:</b> 防衛大学校 (bouei daigakkou; Defense Force University) Past Examinations;<br/>
+					<b>Reminder:</b> "Ipaubaya ang aking katawan sa panginoon"<br/>
+				</td>
+			</tr>
+		</table>
+		<br/>
 		Petron Energy Stations sell <b>Petron Value Cards</b> @PHP100, where amount inside Card is also @PHP100;<br/>
 		<br/>
-		<b>reminder:</b> @select grocery stores, Value Cards purchased @PHP100 contain PHP0;<br/>
+		<b>reminder:</b> @select grocery stores, <b>Value Cards</b> purchased @PHP100 contain PHP0;<br/>
 		<br/>
-		Value inside Card increases with increasing fuel added to vehicle.<br/>
+		<b>Value</b> inside <b>Card</b> increases with increasing fuel added to vehicle.<br/>
 		<br/>
 		<b>Example:</b> 2021-12-28;<br/> 
 		<b>Paid Amount:</b> PHP200 = 3.74L (FUEL) @PHP53.50;<br/>
@@ -590,11 +604,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<b>reminder:</b> Points in <b>Value Card</b> CAN be used to pay for services, e.g. FUEL;<br/>
 		<br/>
 		<b>Additional Note:</b><br/>
-		1) In the Year 2008, in Tokyo, Japan, I was able to use the Discount Store's <b>Value Card</b> points to receive a <b>WACOM Tablet set</b>@10,000yen (PHP5,000; approx);<br/> 
-		where: <b>WACOM Tablet set</b> used for digital illustrations;<br/>		
-		--> I had previously used the <b>Value Card</b> to mainly buy an <b>electronic dictionary</b> @10,000yen (PHP5,000; approx) in the Year 2004~2005, in Osaka, Japan;<br/>
+		1) In the Year 2008, in Tokyo, Japan, I was able to use the Electronics Discount Store's <b>Value Card</b> points to receive a <b>WACOM Tablet set</b>@10,000yen (PHP5,000; approx) used for digital illustrations;<br/>		
+		--> I had previously used the <b>Value Card</b> to mainly buy an <b>electronic dictionary</b> @10,000yen (PHP5,000; approx) in Year 2004~2005, Osaka, Japan;<br/>
 		<br/>
-		TO-DO: -update: this
+		<b>Example Electronics Discount Stores in Japan:</b><br/> 
+		1) <a class="webServiceLink" target="_blank" href="https://www.biccamera.co.jp/bicgroup/index.html">BIC Camera</a>
+		2) <a class="webServiceLink" target="_blank" href="https://www.yodobashi.com/">YODOBASHI Camera</a>
 		</td>
 	</tr>
 </table>
@@ -751,11 +766,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> This is due to Teroristang Komunista group members' children, as based on school performance, begin to become dependent on <b>CHEATING</b> via wireless broadcasting technology to get <b>QUICK MONEY</b>;<br/>
 <br/>
 --> observed: children of this Manloloko group already have difficulty speaking their <b>"people's language"</b>, i.e. <b>"liannanoue"</b>, i.e. <b>福建話 (hokkienoue)</b> of Southern China</b>;<br/> 
---> observed: speaking, listening, reading, and writing levels, if at all, are only at <b>ELEMENTARY (max)</b>;<br/>
---> observed: even with language training @Private Schools, e.g. Xavier School, San Juan, Greenhills, for children with Chinese ancestry, the output know-how of <b>CHINESE MANDARIN</b> is still also at <b>ELEMENTARY level (max)</b>, despite supposedly thirteen (13) years (approx) of training;<br/> 
+--> observed: speaking, listening, reading, and writing skill levels, if such exist at all, are only at <b>ELEMENTARY level (max)</b>;<br/>
+--> observed: even with language training @<b>Private Schools</b>, e.g. Xavier School, San Juan, Greenhills, for children with Chinese ancestry, the output know-how of <b>CHINESE MANDARIN</b> is still also at <b>ELEMENTARY level (max)</b>, despite supposedly thirteen (13) years (approx) of training;<br/> 
 <br/>
---> However, select people who were previously classified to be <b>"SLOW"</b> advance faster due to learned correct techniques. Such action causes <b>ENVY</b> to Teroristang Komunista group who make them their targets of attacks.<br/>
-<br/>
+--> However, select people who were previously classified to be <b>"SLOW"</b> advance faster due to learned correct techniques. Such action causes <b>ENVY</b> to Teroristang Komunista group who makes them their targets of attacks.
+</h5>
+
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -792,20 +808,13 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>		
 		<b>Actions:</b><br/>
 		1) <b>file:</b> incident reports with Police;<br/>
-		2) <b>Ignore</b>, if NOT <b>endure</b>, NOISE POLLUTION;<br/>
-		3) <b>clarify</b>: with Family Unit, e.g. Wife, directly and in-person any information/gossip heard;<br/>
-		--> <b>Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang dirketa at harap-harapan upang ating LINAWIN ang anumang MALABO.</b><br/>		
+		2) <b>Ignore</b>, if NOT <b>endure</b>, <b>NOISE POLLUTION</b>;<br/>
+		3) <b>clarify</b>: with Family Unit, e.g. Wife, directly and in-person any information/gossip heard, viewed, et cetera;<br/>
+		--> Halimbawa: <b>Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating LINAWIN ang anumang MALABO.</b><br/>		
 		</td>
 	</tr>
 </table>
 
-
-</h5>
-
-
-
-TO-DO: -update: this<br/>		
-<br/>
 <br/>
 
 	<div class="copyright">
