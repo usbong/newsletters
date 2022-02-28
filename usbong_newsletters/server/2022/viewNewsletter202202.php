@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220227; from 20220223
+  @date updated: 20220228; from 20220223
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -674,7 +674,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </tr>
 <tr>	
 	<td>
-		Increased Obsevable nihongo Alphabet Writings @Workplace<br/>
+		Increased Obsevable addingnihongo Alphabet Writings @Workplace<br/>
 	</td>
 </tr>
 </table>
@@ -725,6 +725,81 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</td>
 	</tr>
 </table>
+</h5>
+
+<h5>1.1.5) shared: with Public, techniques to increase <b>security defense</b> against <b>Cybercriminal group</b><br/>
+--> where: <b>Cybercriminal</b> : budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group;<br/>
+--> As with <b>electronic mail (email) Web Services</b>, we can opt to receive <b>Short-Messaging Service (SMS) text messages</b> during <b>sign-in</b>.<br/>
+--> This action notifies us if an attacker entered the Web Service without our <b>authorization</b>.<br/>
+<br/>
+
+<table>
+<tr>
+	<td>
+		<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202202/exampleSmsTextNotificationAfterSignInToAmazonWebService.png">
+	</td>
+</tr>
+<tr>	
+	<td>
+		Sign-in notification from Amazon Web Service (AWS)<br/>
+	</td>
+</tr>
+</table>
+<br/>
+--> use: of another language, e.g. español, 日本語 (nihongo, i.e. Japanese Language), increases to a certain extent <b>security defense</b> against attacks from the Communist Terrorist group in the Philippines;<br/>
+<br/>
+--> This is due to Teroristang Komunista group members' children, as based on school performance, begin to become dependent on <b>CHEATING</b> via wireless broadcasting technology to get <b>QUICK MONEY</b>;<br/>
+<br/>
+--> observed: children of this Manloloko group already have difficulty speaking their <b>"people's language"</b>, i.e. <b>"liannanoue"</b>, i.e. <b>福建話 (hokkienoue)</b> of Southern China</b>;<br/> 
+--> observed: speaking, listening, reading, and writing levels, if at all, are only at <b>ELEMENTARY (max)</b>;<br/>
+--> observed: even with language training @Private Schools, e.g. Xavier School, San Juan, Greenhills, for children with Chinese ancestry, the output know-how of <b>CHINESE MANDARIN</b> is still also at <b>ELEMENTARY level (max)</b>, despite supposedly thirteen (13) years (approx) of training;<br/> 
+<br/>
+--> However, select people who were previously classified to be <b>"SLOW"</b> advance faster due to learned correct techniques. Such action causes <b>ENVY</b> to Teroristang Komunista group who make them their targets of attacks.<br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		observed: in the Year 2011 (approx), Tools, e.g. <b>WireShark</b>, CAN be misused to get sign-in passwords to accounts on Web Services, e.g. Facebook (FB).<br/>
+		<br/>
+		To increase security defense against unauthorized access, SMS text message notifications were added by <b>Web Service</b> companies.<br/>
+		<br/>
+		<b>Additional Notes:</b><br/>
+		1) caution: when connecting to a network @public places, e.g. airports, due to a computer with the <b>WireShark tool</b> may also be connected to the same network to receive without your permit account passwords, et cetera;<br/>
+		<br/>
+		2) <b>reminder:</b> With unauthorized access to accounts, information, e.g. bank transactions (vehicle payments), investments, photographs (of visited countries), family members, friends, become available for misuse.<br/>
+		<br/>
+		The <b>objective</b> is to identify if there exists <b>QUICK MONEY</b> to be stolen via among others: carnapping<br/>
+		<br/>
+		reminder: after finishing to pay tuition @<b>private schools</b>, target Family Unit begins to receive excess <b>MONEY</b> to buy among others: <b>NEW VEHICLES</b><br/>
+		<br/>
+		An attack is executed to cause <b>CHAOS</b>, i.e. <b>GULO</b>, to target via regular, unsolicited wireless broadcasting, while the Manlolokong/Teroristang Komunista group steals the vehicles, et cetera;<br/>
+		<br/>
+		<b>Example:</b> Based on the photographs online, a <b>STORY</b> is created to cause target person, family members, and friends to <b>NEED</b> to keep a <b>SECRET</b> due to a <b>SURRISE WEDDING</b> executed to be as a <b>MOVIE</b> with <b>expensive wireless broadcasting technology equipment</b> for production.</br>
+		<br/>
+		<b>Output:</b> <b>UNCLEAR/MALABO Communication</b> for abuse by Manloloko group</br>
+		<br/>
+		observed: such <b>pattern</b> to be misused on me among others since the Year 2011, and earlier...<br/>
+		observed: even while as a <b>working student</b> in the Year 2004, there was also already such <b>NOISE POLLUTION</b><br/>
+		<br/>		
+		observed: even after finally marrying, the new Family Unit <b>does NOT COMMUNICATE</b> with the Family members as ordinary people do;<br/> 
+		instead, continuous misuse of <b>INDIRECT COMMUNICATION</b><br/>
+		<br/>
+		observed: this to be due to regular misuse of wireless broadcasting technology, e.g. transmitters and receivers, to cause <b>CHAOS</b> when any member does NOT obey the Manloloko group's <b>gawa-gawang patakaran</b><br/>
+		<br/>		
+		<b>Actions:</b><br/>
+		1) <b>file:</b> incident reports with Police;<br/>
+		2) <b>Ignore</b>, if NOT <b>endure</b>, NOISE POLLUTION;<br/>
+		3) <b>clarify</b>: with Family Unit, e.g. Wife, directly and in-person any information/gossip heard;<br/>
+		--> <b>Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang dirketa at harap-harapan upang ating LINAWIN ang anumang MALABO.</b><br/>		
+		</td>
+	</tr>
+</table>
+
+
 </h5>
 
 
