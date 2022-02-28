@@ -376,24 +376,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
-	
 <!-- //edited by Mike, 20220218
-	<base href="http://store.usbong.ph/" target="_blank">
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
+	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
 	  <script>
 	  </script>
   <body>
-  
-  
-  TO-DO: -update: this;<br/>
-  TO-DO: -add: reusable CSS instructions
-  <br/>
-  <br/>
-  
-  
+    
 <?php
 	date_default_timezone_set('Asia/Hong_Kong');
 	
@@ -478,11 +470,10 @@
 
 	<br>
 	<br>	
-	<div class="newsletterTitle">
-		<b>｢得点王｣</b><br/> 
-		"tokutenou"<br/>
-		"kumuha ng tuldok (punto) hari";<br/>
-		Computer Simulation Game<br/>
+	<div class="newsletterTitle">		
+		<b>防衛大学校</b> (bouei daigakkou; Defense Force University)<br/> 
+		<b>Past Examinations</b>; <b>Reminder:</b><br/>
+		"Ipaubaya ang aking katawan sa panginoon."<br/>		
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -586,7 +577,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 					<b>Reference#1:</b> Petron Logo from Receipts;<br/>
 					<br/>
 					<b>Reference#2:</b> 防衛大学校 (bouei daigakkou; Defense Force University) Past Examinations;<br/>
-					<b>Reminder:</b> "Ipaubaya ang aking katawan sa panginoon"<br/>
+					<b>Reminder:</b> "Ipaubaya ang aking katawan sa panginoon."<br/>
 				</td>
 			</tr>
 		</table>
