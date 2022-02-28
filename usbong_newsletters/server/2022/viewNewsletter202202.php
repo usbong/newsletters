@@ -761,7 +761,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </tr>
 </table>
 <br/>
---> use: of another language, e.g. español, 日本語 (nihongo, i.e. Japanese Language), increases to a certain extent <b>security defense</b> against attacks from the Communist Terrorist group in the Philippines;<br/>
+--> use: of another language, e.g. <b>español</b>, <b>日本語</b> (nihongo, i.e. Japanese Language), increases to a certain extent <b>security defense</b> against attacks from the <b>Communist Terrorist</b>, i.e. <b>Teroristang Komunista</b>, group in the Philippines;<br/>
 <br/>
 --> This is due to Teroristang Komunista group members' children, as based on school performance, begin to become dependent on <b>CHEATING</b> via wireless broadcasting technology to get <b>QUICK MONEY</b>;<br/>
 <br/>
@@ -770,7 +770,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> observed: even with language training @<b>Private Schools</b>, e.g. Xavier School, San Juan, Greenhills, for children with Chinese ancestry, the output know-how of <b>CHINESE MANDARIN</b> is still also at <b>ELEMENTARY level (max)</b>, despite supposedly thirteen (13) years (approx) of training;<br/> 
 <br/>
 --> However, select people who were previously classified to be <b>"SLOW"</b> advance faster due to learned correct techniques. Such action causes <b>ENVY</b> to Teroristang Komunista group who makes them their targets of attacks.
-</h5>
+<br/>
+<br/>
 
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
@@ -814,6 +815,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</td>
 	</tr>
 </table>
+</h5>
 
 <br/>
 
