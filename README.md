@@ -2,8 +2,10 @@
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202201.php<br/>
 --> Select works accomplished by the <b>Year:<br/>
    TWO THOUSAND AND TWENTY-TWO, Month of JANUARY</b><br/>
+<!--
 <br/>
 <b>Next Newsletter (Draft):</b> http://store.usbong.ph/server/2022/viewNewsletter202202.php<br/>
+-->
 <b>Previous Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202112.php<br/>
 <br/>
 <b>Printed version</b> shared @the following <b>barangays</b> among others:<br/>
