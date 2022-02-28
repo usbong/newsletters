@@ -473,7 +473,7 @@
 	<div class="newsletterTitle">		
 		<b>防衛大学校</b> (bouei daigakkou; Defense Force University)<br/> 
 		<b>Past Examinations</b>; <b>Reminder:</b><br/>
-		"Ipaubaya ang aking katawan sa panginoon."<br/>		
+		"Ipaubaya ang aking katawan sa Panginoon."<br/>		
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -577,7 +577,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 					<b>Reference#1:</b> Petron Logo from Receipts;<br/>
 					<br/>
 					<b>Reference#2:</b> 防衛大学校 (bouei daigakkou; Defense Force University) Past Examinations;<br/>
-					<b>Reminder:</b> "Ipaubaya ang aking katawan sa panginoon."<br/>
+					<b>Reminder:</b> "Ipaubaya ang aking katawan sa Panginoon."<br/>
 				</td>
 			</tr>
 		</table>
