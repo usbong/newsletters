@@ -1,6 +1,6 @@
 # Usbong Newsletters
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202202.php<br/>
---> Select WORKS accomplished by:<br/> 
+--> Select <b>WORKS</b> accomplished by:<br/> 
 --> <b>THE YEAR TWO THOUSAND AND TWENTY-TWO,<br/> 
 --> MONTH OF FEBRUARY</b><br/>
 <br/>
