@@ -1,5 +1,5 @@
 <!--
-  Copyright 2021 SYSON, MICHAEL B.
+  Copyright 2021~2022 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20211022
+  @date updated: 20220302; from 20211022
   @website address: http://www.usbong.ph
 
   Input:
@@ -428,16 +428,28 @@
 
 //	$result = array();
 	$sYearDirectory="/server/2021/";
+	
 	//edited by Mike, 20211020
 //    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
     $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory, SCANDIR_SORT_DESCENDING);
+	
+	//added by Mike, 202202302;
+//--
+	//TO-DO: -update: to auto-add until current YEAR
+	$sYearDirectoryPartTwo="/server/2022/";
+
+    $arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
+
+//    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING);
+
+//--
 
 	$usbongSearchBasePath=str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
 	
 	//added by Mike, 20211013; edited by Mike, 20211014
 	//note: update this
-//	$sWebAddressBasePath = "http://localhost";
-	$sWebAddressBasePath = "http://store.usbong.ph";
+	$sWebAddressBasePath = "http://localhost";
+//	$sWebAddressBasePath = "http://store.usbong.ph";
 ?>
 
 
@@ -460,37 +472,40 @@
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
+<!--
 			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+-->
+			<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 				Computer
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">		
 				Services
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Team
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
 				Partners
 			</a>
 		</td>	
-		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+		<td class="menuColumn">		
+			<a class="menuLink" target="_blank" href="https://github.com/usbong">		
 				Open Source
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
 				EXCEL
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">		
 				Contact
 			</a>
 		</td>
@@ -581,6 +596,9 @@
 					$sYearDate=substr($sWebAddress,strpos($sWebAddress,"downloadedNewsletter"));
 					$sYearDate=str_replace("downloadedNewsletter","",$sYearDate);
 					$sYearDate=str_replace(".php","",$sYearDate);
+					
+//					echo "sYearDate: ".$sYearDate;
+					
 					echo "<a class='webServiceLink' href='http://www.usbong.ph/excel/excel-".$sYearDate."'>
 						http://www.usbong.ph/excel/excel-".$sYearDate."</a><br/>";
 				}
@@ -669,7 +687,26 @@
     { 		
 	  if (!in_array($filename,array(".","..")))
       {
-		//echo ">".$filename."<br/>";
+/*		  
+		echo ">".$filename."<br/>";
+		echo ">".$sYearDirectory."<br/>";
+*/
+		if (strpos($filename, "EXCEL")!==false) {
+			//echo ">".$filename."<br/>";
+			$sYearDirectory="/server/".substr($filename,strlen("EXCEL "),4)."/";
+		}
+		else if (strpos($filename, "downloaded")!==false) {
+//			echo ">".$filename."<br/>";
+			$sYearDirectory="/server/".substr($filename,strlen("downloadedNewsletter"),4)."/";
+		}
+		else {
+			$sYearDirectory="/server/".substr($filename,strlen("viewNewsletter"),4)."/";
+		}
+//		echo ">>>".$sYearDirectory."<br/>";
+
+
+//		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
+//$sYearDirectory="/server/2022/";
 
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 
@@ -701,8 +738,7 @@
 			if (strpos($completeFilename, "downloaded")!==false) {
 				continue;
 			}
-*/
-			
+*/			
 			//added by Mike, 20211013
 	//		echo $_GET['nameParam'];
 			
@@ -817,7 +853,7 @@
 		}
 	  }
 	}
-
+	
 	//added by Mike, 20211017
 	//TO-DO: -update: instructions to be a reusable function
 	//note: noticeable speed-up to receive search results
@@ -837,6 +873,8 @@
 		$iMonthCount=7;//to start at 8;
 		$iYearCount=2020;
 */
+
+
 		$iMonthCount=13;//to start at 12;
 		$iYearCount=2020;
 		
@@ -896,9 +934,15 @@
 
 			//edited by Mike, 20211017
 			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
-				
+/*				
+				echo ">>>>".$filename;
+				echo ">>>>".$iYearCount;
+*/				
 			$sYearDirectory="/server/".$sYearDate."/";
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
+							
+			//added by Mike, 20220302
+			$data="";		
 							
 			//removed by Mike, 20211020
 //			if (file_exists($completeFilename)) {
@@ -954,6 +998,11 @@
 	//				if (strpos($cellValue,$sKeyphrase)!==false) {
 					//edited by Mike, 20211014
 					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
+/*
+echo ">>>>>".$completeFilename;
+//echo ">>>>>".$cellValue;
+echo ">>>>>".$sKeyphrase;
+*/
 
 						//added by Mike, 20211016
 						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
@@ -1104,7 +1153,7 @@
 	<br/>
 	<div class="copyright">
 		<span>
-			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
+			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
 			<a class="webServiceLink" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
 				Creative Commons Attribution License BY 4.0
 			</a>
