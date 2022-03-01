@@ -1,10 +1,10 @@
 # Usbong Newsletters
-<b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202201.php<br/>
---> Select works accomplished by the <b>Year:<br/>
-   TWO THOUSAND AND TWENTY-TWO, Month of JANUARY</b><br/>
+<b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202202.php<br/>
+--> Select WORKS accomplished by:<br/> 
+--> <b>THE YEAR TWO THOUSAND AND TWENTY-TWO,<br/> 
+--> MONTH OF FEBRUARY</b><br/>
 <br/>
-<b>Next Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202202.php<br/>
-<b>Previous Newsletter:</b> http://store.usbong.ph/server/2021/viewNewsletter202112.php<br/>
+<b>Previous Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202201.php<br/>
 <br/>
 <b>Printed version</b> shared @the following <b>barangays</b> among others:<br/>
 --> Marikina City: Sto. Niño, Sta. Elena, San Roque, Marikina Heights<br/>
@@ -92,7 +92,7 @@ https://phantomjs.org/; last accessed: 20210823<br/>
 <b>Install:</b> https://phantomjs.org/download.html; last accessed: 20210823<br/>
 
 ## 5. Open Source Software License
-Copyright 2019~2021 SYSON, MICHAEL B.
+Copyright 2019~2022 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
