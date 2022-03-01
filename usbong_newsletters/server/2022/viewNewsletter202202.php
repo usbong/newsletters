@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220228; from 20220223
+  @date updated: 20220301; from 20220228
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -680,7 +680,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </tr>
 <tr>	
 	<td>
-		Increased Obsevable addingnihongo Alphabet Writings @Workplace<br/>
+		Increased Observable 日本語 (nihongo, i.e. Japanese Language) Alphabet Writings @Workplace<br/>
 	</td>
 </tr>
 </table>
@@ -727,7 +727,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			where: <b>QUICK MONEY</b>: ACTION via carnapping, smuggling, et cetera;<br/>
 			<b>NEW vehicle cost now</b>	 >= <b>PHP400,000</b><br/>
 			<br/>
-			TO-DO: -add: ANG WALANG PAKI TAONG TUMUTULONG SA TERORISTA; ANTI-TERRORISM PARTNERSHIP
+			<b>reminder:</b> ANG WALANG PAKI TAONG TUMUTULONG SA TERORISTA; ANTI-TERRORISM PARTNERSHIP<br/>
+			--> <a class="webServiceLink" target="_blank" href="https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html">https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html</a>; last accessed: 20211021
 		</td>
 	</tr>
 </table>
