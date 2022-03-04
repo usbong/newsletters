@@ -502,10 +502,12 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</video><br/>	
 </div>
 <br/>
-Patient Names, et cetera set to be unreadable;<br/>
+Patient Names, et cetera in video set to be unreadable;<br/>
 Output Design Format based on Template<br/>
 Template: print-ready (size A4 paper)<br/>
 Softcopy of Report also auto-generated<br/>
+Each Medical Doctor with HMO transaction has a Report,<br/> 
+PLUS Physical Therapy Unit's HMO Report<br/>
 <br/>
 --> reminder#1: <b>Service Desk Industry</b>: Billion United States Dollar (USD) Industry<br/>
 --> reminder#2: <b>Business Process Outsourcing (BPO) Industry</b>: Billion USD Industry<br/>
