@@ -502,11 +502,24 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</video><br/>	
 </div>
 <br/>
---> reminder#1: <b>Service Desk Industry</b>: Billion United States Dollar (USD) Industry<br/>
---> reminder#2: <b>Business Process Outsourcing (BPO) Industry</b>: Billion United States Dollar (USD) Industry<br/>
---> where: <b>BPO Industry</b> : top private employer in Philippines<br/>
+Patient Names, et cetera set to be unreadable;<br/>
+Output Design Format based on Template<br/>
+Template: print-ready (size A4 paper)<br/>
+Softcopy of Report also auto-generated<br/>
 <br/>
-
+--> reminder#1: <b>Service Desk Industry</b>: Billion United States Dollar (USD) Industry<br/>
+--> reminder#2: <b>Business Process Outsourcing (BPO) Industry</b>: Billion USD Industry<br/>
+--> where: <b>BPO Industry</b> : top private sector employer in the Philippines<br/>
+<br/>
+--> continued: with weekly paper transfer<br/>
+--> observed: action causes Industry need to regularly update delivery system,<br/>
+--> which includes system parts, e.g. <b>ROADS</b>, <b>PEDESTRIAN LANES</b>;<br/>
+<br/>
+--> observed: items, e.g. FOOD SUPPLY, also use such delivery system<br/>
+--> <b>Examples:</b> Fresh Milk; Fruits<br/>
+--> <b>Reminder:</b> Such physical items for human digestion do NOT yet transfer via computer digital networks<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 TO-DO: -update: this
