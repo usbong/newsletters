@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220302; from 20211022
+  @date updated: 20220304; from 20220302
   @website address: http://www.usbong.ph
 
   Input:
@@ -435,10 +435,27 @@
 	
 	//added by Mike, 202202302;
 //--
-	//TO-DO: -update: to auto-add until current YEAR
+	//added by Mike, 20220304	
+	//TO-DO: -remove: metadata, e.g. text/css, in search output
+	//TO-DO: -add: filename search input
+	
+/* 	//edited by Mike, 20220304	
+	//auto-add until current YEAR
+
 	$sYearDirectoryPartTwo="/server/2022/";
 
     $arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
+*/
+	//echo idate("Y");
+	$iYearCount=2021;
+	$iCurrentYear = idate("Y");
+	while ($iYearCount<=$iCurrentYear) {
+		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
+
+		$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
+		
+		$iYearCount++;
+	}
 
 //    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING);
 
@@ -448,8 +465,9 @@
 	
 	//added by Mike, 20211013; edited by Mike, 20211014
 	//note: update this
-	$sWebAddressBasePath = "http://localhost";
-//	$sWebAddressBasePath = "http://store.usbong.ph";
+//	$sWebAddressBasePath = "http://localhost";
+	//edited by Mike, 20220304	
+	$sWebAddressBasePath = "http://store.usbong.ph";
 ?>
 
 
