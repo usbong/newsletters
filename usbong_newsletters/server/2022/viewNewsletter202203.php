@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220304; from 20220304
+  @date updated: 20220305; from 20220304
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -521,6 +521,39 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 --> <b>Examples:</b> Fresh Milk; Fruits<br/>
 --> <b>Reminder:</b> Such physical items for human digestion do NOT yet transfer via computer digital networks<br/>
 <br/>
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			The movie and video games industries are also Billion USD Industries. However, from history, we learn that outputs via continuous production do NOT immediately cause: <b>Income > Expenses</b>;<br/>
+			<br/>
+			The Family Computer as product generated <b>Income > Expenses</b> to cause a new version, i.e. the Super Family Computer.<br/>
+			<br/>
+			However, select add-on hardware and software services, e.g. <b>Family Computer Network System with Satellite Online Service</b>, were SHUTDOWN due to <b>Income < Expenses</b>;<br/>
+			<br/>
+			observed: that when investment on expensive equipment, e.g. wireless broadcasting technology, does NOT cause <b>Income > Expenses</b>, equipment is reused for <b>criminal, i.e. illegal, actions</b>, e.g. noise pollution, tax-evasion<br/>
+			<br/>
+			<b>reminder:</b> Quarterly Percentage Tax on Amusements, e.g. Karaoke, is @18% of Gross Sales<br/>
+			<br/>			
+			With <b>Income < Expenses</b> from Sales, and with investment on equipment classified as LOSS, <b>QUICK MONEY</b> to get Return of Investment (RoI) becomes the focus.<br/>
+			<br/>
+			<b>松下電器 (matsushita denki; PANASONIC)</b> founder, <b>松下幸之助 (Matsushita, Kounosuke)</b>, reminds us that when we start to think about quickly getting money, actions become dirty; People classified to be Mandurugas increases.<br/>
+			<br/>
+			<b>Mandurugas</b> = <b>Masama, e.g. budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group</b><br/>
+			<br/>
+			<b>reminder:</b> Increase in Tamad causes Increase in Masama.<br/>
+			<br/>
+			<b>Recommended Action:</b><br/>
+			TO-DO: -update: this			
+		</td>
+	</tr>
+</table>
+
+
 <br/>
 <br/>
 <br/>
