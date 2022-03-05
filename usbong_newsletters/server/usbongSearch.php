@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220304; from 20220302
+  @date updated: 20220305; from 20220304
   @website address: http://www.usbong.ph
 
   Input:
@@ -437,7 +437,10 @@
 //--
 	//added by Mike, 20220304	
 	//TO-DO: -remove: metadata, e.g. text/css, in search output
-	//TO-DO: -add: filename search input
+
+	//edited by Mike, 20220305
+	//TO-DO: -reverify: added filename in search input
+
 	
 /* 	//edited by Mike, 20220304	
 	//auto-add until current YEAR
@@ -575,6 +578,34 @@
 	<br/>
 	<br/>
 <?php
+	//added by Mike, 20220305
+	function getUpdatedWebAddress($completeFilename, $sWebAddressBasePath) {
+		if (strpos($completeFilename,"www.usbong.ph")!==false) {
+			$sWebAddress = $completeFilename;
+			$sWebAddressUpdated = $sWebAddress;					
+		}
+		else {				
+			//if Windows machine
+			if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+				$sWebAddress = str_replace("\\","/",$completeFilename);
+				$sWebAddress = "usbong_newsletters".$sWebAddress;
+			}
+			else {
+				$sWebAddress = $completeFilename;
+			}
+
+//							echo ">>".$completeFilename;
+
+			$sWebAddress = explode("server", $sWebAddress)[1];
+			$sWebAddress = $sWebAddressBasePath."/server".$sWebAddress;
+				
+			//removed by Mike, 20220305
+			//$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
+		}
+
+		return $sWebAddress;
+	}
+
 	//added by Mike, 20211016
 	//note: reusable function
 	function autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase) {		
@@ -584,6 +615,10 @@
 				<tr>
 				  <td>";						
 
+				$sWebAddress = getUpdatedWebAddress($completeFilename, $sWebAddressBasePath);
+				$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
+
+/* //removed by Mike, 20220305
 				//edited by Mike, 20211016
 				if (strpos($completeFilename,"www.usbong.ph")!==false) {
 					$sWebAddress = $completeFilename;
@@ -606,7 +641,7 @@
 												
 					$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
 				}
-
+*/
 				//edited by Mike, 20211017
 				//echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
 
@@ -784,7 +819,12 @@
 					//edited by Mike, 20211014
 //					$cellValue = strip_tags(utf8_encode($data));
 					$cellValue = strip_tags($data);
-
+										
+					//added by Mike, 20220305
+//					$cellValue = "website address: ".getUpdatedWebAddress($completeFilename, $sWebAddressBasePath).";".$cellValue;
+					$cellValue = "website address: ".$completeFilename.";".$cellValue;
+										
+					
 /*					//added by Mike, 20211022
 					//TO-DO: -remove: remaining comments, css, functions
 					//Reference: https://stackoverflow.com/questions/1886740/php-remove-javascript;
@@ -829,8 +869,7 @@
 								$data = $data.$nextData;
 								$cellValue = strip_tags($data);	
 							}						
-						}
-		
+						}			
 
 						//edited by Mike, 20211014
 						//sKeyphrase: case-sensitive OFF
@@ -1011,6 +1050,10 @@
 						}						
 					}
 	
+					//added by Mike, 20220305
+//					$cellValue = "website address: ".getUpdatedWebAddress($completeFilename, $sWebAddressBasePath).";".$cellValue;
+					$cellValue = "website address: ".$completeFilename.";".$cellValue;
+	
 					//edited by Mike, 20211014
 					//sKeyphrase: case-sensitive OFF
 	//				if (strpos($cellValue,$sKeyphrase)!==false) {
@@ -1021,7 +1064,6 @@ echo ">>>>>".$completeFilename;
 //echo ">>>>>".$cellValue;
 echo ">>>>>".$sKeyphrase;
 */
-
 						//added by Mike, 20211016
 						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
 						
