@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220301; from 20220228
+  @date updated: 20220307; from 20220301
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -787,7 +787,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		<br/>
 		An attack is executed to cause <b>CHAOS</b>, i.e. <b>GULO</b>, to target via regular, unsolicited wireless broadcasting, while the Manlolokong/Teroristang Komunista group steals the vehicles, et cetera;<br/>
 		<br/>
-		<b>Example:</b> Based on the photographs online, a <b>STORY</b> is created to cause target person, family members, and friends to <b>NEED</b> to keep a <b>SECRET</b> due to a <b>SURRISE WEDDING</b> executed to be as a <b>MOVIE</b> with <b>expensive wireless broadcasting technology equipment</b> for production.</br>
+		<b>Example:</b> Based on the photographs online, a <b>STORY</b> is created to cause target person, family members, and friends to <b>NEED</b> to keep a <b>SECRET</b> due to a <b>SURPRISE WEDDING</b> executed to be as a <b>MOVIE</b> with <b>expensive wireless broadcasting technology equipment</b> for production.</br>
 		<br/>
 		<b>Output:</b> <b>UNCLEAR/MALABO Communication</b> for abuse by Manloloko group</br>
 		<br/>
