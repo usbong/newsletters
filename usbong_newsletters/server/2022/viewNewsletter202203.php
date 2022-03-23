@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220306; from 20220305
+  @date updated: 20220324; from 20220306
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -473,7 +473,7 @@
 	<div class="newsletterTitle">		
 		<b>防衛大学校</b> (bouei daigakkou; Defense Force University)<br/> 
 		<b>Past Examinations</b>; <b>Reminder:</b><br/>
-		"Ipaubaya ang aking katawan sa Panginoon."<br/>		
+		LAUREL LEAF : LIFE<br/>		
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -588,8 +588,8 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 --> <b>1)</b> SYSON, RAMON (younger brother of DR. SYSON, PEDRO)<br/>
 --> <b>2)</b> SYSON, RYAN (son of SYSON, RAMON)<br/>
 --> <b>3)</b> SYSON, JOAN (daughter of SYSON, RAMON)<br/>
---> <b>4)</b> HAW, KEITH (Xavier School, San Juan, Greenhills Classmate)<br/>
---> <b>5)</b> TANG, TYRONE (Xavier School, San Juan, Greenhills Classmate)<br/>
+--> <b>4)</b> HAW, KEITH (Xavier School (XS), San Juan, Greenhills Classmate)<br/>
+--> <b>5)</b> TANG, TYRONE (Basketball player, XS, friend of HAW, KEITH)<br/>
 --> <b>6)</b> VILLARIN, RAMON (former Ateneo de Manila University President)<br/>
 	<br/>
 --> continued: with observation of identified Teroristang Komunista members' actions<br/>
@@ -664,12 +664,15 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 		<br/>
 		<b>Recommended Action:</b> verify: before receiving among others: <b>MONEY</b> and <b>GIFTS</b> to <b>CLEARLY</b> identify <b>CAUSE</b> of giving<br/>
 		<br/>
-		TO-DO: -add: contribution note from Facebook Effect;<br/>
+		Reminder: <b>Facebook Effect Note</b><br/> 
+		--> where: in select systems, with increasing members,<br/> 
+		--> <b>UNCLEAR</b> individual <b>WORK contribution</b> and its <b>payment</b><br/> 
+		--> makes system ineffective and inefficient;<br/>
 		<br/>
-		remembers: after sufficient investment in corporation, there exists <b>VOTING SYSTEM</b> arriving as printed <b>LETTERS</b> to <b>registered ADDRESS</b><br/>
+		adds: after sufficient investment in corporation, there exists <b>VOTING SYSTEM</b> arriving as printed <b>LETTERS</b> to <b>registered ADDRESS</b><br/>
 		--> <b>Example:</b> Voting Item: <b>Financial Auditor</b><br/>
 		<br/>
-		remembers: with Philippine Administration, after reaching 18years of old and with <b>Philippine Citizenship</b>, there exists <b>VOTING SYSTEM</b><br/>
+		shares: with Philippine Administration, after reaching 18years of old and with <b>Philippine Citizenship</b>, there exists <b>VOTING SYSTEM</b><br/>
 		--> <b>Example#1:</b> Voting Item: Philippine President (EXECUTION)<br/>
 		--> <b>Example#2:</b> Voting Item: Philippine Senator (LEGISLATION; LAW WRITING)<br/>		
 		<br/>
