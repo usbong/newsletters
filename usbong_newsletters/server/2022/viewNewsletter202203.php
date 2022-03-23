@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220305; from 20220304
+  @date updated: 20220306; from 20220305
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -552,7 +552,89 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 		</td>
 	</tr>
 </table>
+<br/>
+reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<br/>
+1) Another work task to speed-up system<br/>
+2) Rest with own Family Unit<br/>
+<br/>
 
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+<b>CASIO WRIST WATCH</b><br/>
+<br/>
+<table>
+<tr>
+	<td>
+		<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202201/purchasedDate20211214_20211224T0907.jpg">
+	</td>
+	<td>
+		<b>Purchased Date:</b> 2021-12-14<br/>
+		<b>Cost:</b> PHP5000<br/>		
+		<b>ELAPSED TIME:</b> OVER 4 YEARS; @PHP3.42/day (Estimate<br/>
+		based on History)<br/>
+	</td>
+</tr>
+</table>
+		<br/>
+		observed: in <b>トイレ (toire; toilet)</b>, when returning <b>CASIO WATCH</b> to <b>LEFT WRIST</b>, hits as reminder self's <b>sternum (胸骨（きょうこつ; chest bone）</b><br/>
+		--> reminder#1: <b>sternum</b> protects body organs, e.g. physical HEART.<br/>
+		--> reminder#2: Physical PUNCH that hits UP from below <b>sternum</b> causes noticeable physical pain;<br/>
+		--> notes: Person can verify this with even a WEAK PUNCH;<br/>
+		<br/>	
+		--> remembers: from keyword, <b>"sternum"</b>, <b>STERN</b>+<b>NUMBERS</b><br/>
+		--> where: <b>STERN</b> : <b>STRICT/MAHIGPIT</b>;<br/> 
+		--> where: <b>NUMBERS</b> : <b>BILANG</b><br/>
+		--> notes: When investment causes <b>Financial LOSS</b> in <b>Return of Investment (RoI)</b>, select investors shall execute actions classified to be <b>PHYSICAL ATTACKS</b> due to focuses on getting QUICK MONEY;<br/>	
+		<br/>
+		<b>Recommended Action:</b> verify: before receiving among others: MONEY and GIFTS to <b>CLEARLY</b> identify <b>CAUSE</b> of giving<br/>
+		<br/>
+		TO-DO: -add: contribution note from Facebook Effect;<br/>
+		<br/>
+		remembers: after sufficient investment in corporation, there exists VOTING SYSTEM arriving as a <b>LETTER</b> to <b>registered ADDRESS</b><br/>
+		--> <b>Example:</b> Voting Item: Financial Auditor<br/>
+		<br/>
+		remembers: with Philippine Administration, after reaching 18years of old and with Philippine Citizenship, there exists VOTING SYSTEM<br/>
+		--> <b>Example#1:</b> Voting Item: Philippine President (EXECUTION)<br/>
+		--> <b>Example#2:</b> Voting Item: Philippine Senator (LEGISLATION; LAW WRITING)<br/>		
+		<br/>
+		<b>Additional Note:</b><br/>
+		--> I wear the <b>CASIO WATCH</b> with the <b>DIGITAL TIME</b> facing myself;<br/>
+		--> remembers: from keyword, トイレ, SHIGESATO ITOI'S<br/>
+		ほぼ日刊イトイ新聞 with keyword, イトイ;
+		</td>
+	</tr>
+</table>
+
+<br/>
+<br/>
+--> remembers: Deutschland system of Pension insurance:
+"The statutory pension insurance is the most important pillar of old-age provisions. Its financing is split: The monthly contributions paid by employees and employers pay the pensions of those currently in retirement. Through their contributions, those insured acquire some rights when they themselves become pensioners. In turn, coming generations provide for these future rents with their contributions (cross-generational contract). In addition, company and private pensions are the second and third pillars of provisions for old age. Under certain conditions these also enjoy government support."
+(Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag)
+
+
+<h3>2) Continued with Research & Development (R&D)</h3>
+<h4>2.1) joined: GitHub Game Off 2021: <b>TUGON</b><br/>
+<br/>
+<br/>
+TO-DO: -add: lessons-learned from news web services
+<br/>
+<br/>
+TO-DO: -add: in Security Defense Force: Super Mario Galaxy
+<br/>
+<br/>
+</h4>
+--> 
+
+
+--
+
+くる
+くれる
 
 <br/>
 <br/>
@@ -560,324 +642,6 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 TO-DO: -update: this
 <br/>
 <br/>
-<br/>
-lessons learned from Bureau of Internal Revenue (BIR): Regional District Office 45 (RDO45), Brgy. Sto. Niño, Marikina City<br/> 
---> <b>Quarterly Percentage Tax (Form 2551): </b> CAN be set to <b>Tax Rate 1.0%</b> if classified to be <b>Person exempt from Value-Added Tax (PT010)</b> under Sec. 109 (BB) (Sec. 116)<br/>
---> where: VAT required for GROSS SALES <b>>PHP3 Million</b><br/>
---> offline software tool from BIR: <b>eBIR (version: 7.9.2)</b><br/>
---> <b>added:</b> due to <b>Bayanihan Act as One</b><br/>
---> <b>effective (expected):</b> until June 2022<br/>
---> received: information after visiting BIR:RDO45 for Annual <b>Certificate of Registration</b><br/>
-<br/>
-<table>
-<tr>
-	<td>
-		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202202/eBIRV7Dot9Dot2Form2551Qv2018BayanihanActAsOneHalimbawaV20220107.png">
-	</td>
-</tr>
-<tr>
-	<td>
-		BIR Form 2551: <b>Quarterly Percentage Tax Return</b><br/>
-	</td>
-</tr>
-</table>
-<br/>
---> Instead of filing <b>Quarterly Percentage Tax Returns</b> AND <b>Graduated Income Tax Returns</b>, a person can opt to file <b>Income Tax Returns</b> set to the <b>8% Income Tax Rate of Gross Sales</b> in excess of PHP250,000;<br/>
---> reminder: we immediately pay the <b>8% Income Tax</b> as soon as our <b>Gross Sales</b> are over PHP250,000<br/>
---> With this action, we CAN eliminate work TIME used for excess report filings.<br/>
---> reminder: paying @banks costs at least 2hours of work TIME;<br/>
---> <b>References:</b><br/>
---> received: explanation @BIR RDO45, Brgy. Sto. Niño, Marikina City<br/>
---> <a class="webServiceLink" href="https://www.bir.gov.ph/index.php/tax-information/income-tax.html" target="_blank">https://www.bir.gov.ph/index.php/tax-information/income-tax.html; last accessed: 20220218
-</a>
-
-<h5>1.1.2) shared: with Public, regular security updates of Computers used at partner Units<br/>
---> increased: network security by removing connection to the Internet<br/>
---> where: Internet classified to add excess connections to the local Unit's network;<br/>
---> <b>reminder:</b> Internet: public network of Computer Database Storages<br/>
---> added: Internet connectivity to execute regular security updates;<br/>
-<br/>
-<table>
-<tr>
-	<td>
-		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202202/computerBoxSecurityUpdatePCStatusProtected20220130T0917.jpg">
-	</td>
-</tr>
-<tr>
-	<td>
-		Step#1 update: Virus and spyware definitions<br/>
-		Step#2 execute: Computer Storage Scan<br/>
-		<br/>
-		observed: LESS NEED to add <b>Anti-virus Software</b> with the following actions:<br/>
-		1) executing: <b>Non-pirated Software</b><br/>
-		2) visiting: websites with <b>NO PIRATED, i.e. illegal, software</b> for download;<br/>
-		<br/>
-		<br/>
-	</td>	
-</tr>
-<tr>
-	<td>
-		<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202202/internetToComputerBoxAsAirToVehicleTireAtPetronEnergyStation20220130T091416.jpg">
-	</td>
-</tr>
-<tr>	
-	<td>
-		Internet to Computer Box as AIR to Vehicle Tire @Petron Energy Station<br/>
-	</td>
-</tr>
-</table>
-<br/>
-
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-		This observation is based on my actually putting AIR to vehicle Tires @Petron Energy Station.<br/>
-		<br/>
-		<table>
-			<tr>
-				<td>
-		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/petronWavesSandTimeSunadokeiTimesTwoMeccaIpaubayaAngAkingKatawanSaPanginoonReferenceBouEiDaiGakkou20220223T1851.jpg">
-				</td>
-				<td>
-					<b>Reference#1:</b> Petron Logo from Receipts;<br/>
-					<br/>
-					<b>Reference#2:</b> 防衛大学校 (bouei daigakkou; Defense Force University) Past Examinations;<br/>
-					<b>Reminder:</b> "Ipaubaya ang aking katawan sa Panginoon."<br/>
-				</td>
-			</tr>
-		</table>
-		<br/>
-		Petron Energy Stations sell <b>Petron Value Cards</b> @PHP100, where amount inside Card is also @PHP100;<br/>
-		<br/>
-		<b>reminder:</b> @select grocery stores, <b>Value Cards</b> purchased @PHP100 contain PHP0;<br/>
-		<br/>
-		<b>Value</b> inside <b>Card</b> increases with increasing fuel added to vehicle.<br/>
-		<br/>
-		<b>Example:</b> 2021-12-28;<br/> 
-		<b>Paid Amount:</b> PHP200 = 3.74L (FUEL) @PHP53.50;<br/>
-		<b>Received:</b> Points valued @PHP5.23 <br/>
-		<br/>
-		<b>reminder:</b> Points in <b>Value Card</b> CAN be used to pay for services, e.g. FUEL;<br/>
-		<br/>
-		<b>Additional Note:</b><br/>
-		1) In the Year 2008, in Tokyo, Japan, I was able to use the Electronics Discount Store's <b>Value Card</b> points to receive a <b>WACOM Tablet set</b>@10,000yen (PHP5,000; approx) used for digital illustrations;<br/>		
-		--> I had previously used the <b>Value Card</b> to mainly buy an <b>electronic dictionary</b> @10,000yen (PHP5,000; approx) in Year 2004~2005, Osaka, Japan;<br/>
-		<br/>
-		<b>Example Electronics Discount Stores in Japan:</b><br/> 
-		1) <a class="webServiceLink" target="_blank" href="https://www.biccamera.co.jp/bicgroup/index.html">BIC Camera</a>
-		2) <a class="webServiceLink" target="_blank" href="https://www.yodobashi.com/">YODOBASHI Camera</a>
-		</td>
-	</tr>
-</table>
-</h5>
-<h5>1.1.3) updated: auto-generated Summary Report from Computer to verify with Cash Register Report<br/>
---> added: <b>DIRECT PAYMENT</b> and updated Grand Total computations;<br/>
---> where: <b>DIRECT PAYMENT</b> : payment received via Bank Transfer, et cetera<br/>
-<br/>
-		<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202202/exampleUpdatedAutoGeneratedSummaryReportCashRegisterPlusComputerMachineV20220128T1001.png">
-</h5>
-<h5>1.1.4) shared: with Public, <b>COMPOUND</b> notes<br/>
---> where: <b>COMPOUND</b>: income from interest is returned to the current invested amount<br/>
---> result: increased total income;<br/>
---> <b>Example:</b><br/>
---> where: <b>A2</b> = <b>INPUT AMOUNT</b>; <b>B2</b> = <b>INTEREST RATE</b><br/>
---> equation (<b>NON-COMPOUND</b>): =A2+(A2*B2*0.01)*5<br/>
---> equation (<b>COMPOUND</b>): =A2*((1+B2*0.01)^5)<br/>
-<br/>
-		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/financeCompoundNotesV20220215.png">
-		<br/>
-		<br/>
---> reminder: new vehicle cost now >= <b>PHP400,000</b><br/>
---> The budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group <b>illegally shortens TIME</b> to obtain such vehicle via among others:<br/> 
-<br/>
---> 1) carnapping, i.e. theft<br/> 
---> 2) replacement of parts to be defective<br/>
---> 3) noise pollution<br/>
-<br/>
---> <b>output#1:</b> promulgation of <b>QUICK MONEY</b>, instead of <b>WORK</b><br/>
---> where: <b>WORK</b> = unti-unting pagkita ng pera mula sa hanap-buhay<br/>
---> <b>output#2:</b> increase in vehicle incidents, e.g. excess vehicle collision;<br/>
---> <b>output#3:</b> increase in patients @Hospitals and Clinics to further cause increase in excess workload;<br/>
---> <b>output#4:</b> increase in <b>insurance expenses</b> due to excess vehicle and health claims, to cause insurance company to close with <b>brankrupt</b> classification;<br/>
-<br/>
---> <b>Recommended Action via Law Enforcement:</b> Mula sa mga <b>output</b> dahil sa kanilang pinagloloko, maiging puntahan na sa kanilang Tirahan at puksain.<br/>
-<br/>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-		In the Year 2005 (School Year: 2005~2006), I was driving the household's <b>Mitsubishi Adventure vehicle (Manual Transmission)</b> with two (2) Japanese Exchange Students to Little Tokyo, in Pasay Road, Makati City.<br/>
-		<br/>
-		At the bridge, as we were about to go down from the upward slope, the clutch of the gear box malfunctioned. Shift of gears to increase or decrease max acceleration became NOT executable;<br/>
-		<br/>
-		At the time, I heard the sound of the words, <b>"engine break"</b>, coming from a person using wireless broadcasting technology as used by the Teroristang Komunista group. After verification, I identify the person to be Xavier School classmate during High School, in San Juan, Greenhills, <b>Keith Haw</b>, who due to <b>YABANG</b> and <b>mistake</b>, still continues to misuse wireless broadcasting technology to cause noise pollution with physical injury.<br/>
-		<br/>
-		<b>Reminder#1:</b> <b>Keith Haw</b> is friends with classmate and basketball player, <b>Tyrone Tang</b>; I classify <b>Tyrone Tang</b> to be with the <b>Teroristang Komunista group</b>;<br/>
-		<b>Reminder#2:</b> Teroristang Komunista group also includes among others:<br/> 
-		<b>2.1) Ramon Syson</b>, younger brother of father <b>Dr. Pedro Syson</b><br/>
-		<b>2.2) Ryan Syson</b>, eldest son <b>Ramon Syson</b><br/>
-		<br/>
-		Despite the clutch problem, I was able to park the vehicle in front of Little Tokyo, Makati City. I did NOT observe noticeable physical wounds with the two (2) Japanese exchange students. I did NOT also receive any such notifications from them.<br/>
-		<br/>
-		However, due to the <b>Mitsubishi Adventure vehicle</b> could NOT yet be driven <b>HOME</b> to <b>Marikina City</b>, we rode with another male Filipino student back.<br/>
-		<br/>
-		<b>Reminder#3:</b> Increase in <b>identification</b> of Teroristang Komunista group members speeds-up system for <b>Law Enforcement</b> to destroy it.<br/>
-		<b>Reminder#4:</b> verified: filing law suit case against Teroristang Komunista group members is ineffective due to shall be attacked during process execution, which include among others: paperwork.<br/>
-		<br/>
-		observed: <b>system efficiency</b> achieved via <b>Law Enforcement</b> executing quick action with assistance from people who file incident reports that include Teroristang Komunista group member identification, et cetera;<br/>
-		<br/>
-		Teroristang Komunista <b>keywords</b>:<br/> 
-		<b>QUICK MONEY</b> via among others: <b>carnapping</b>, <b>smuggling</b>
-		</td>
-	</tr>
-</table>
-</h5>
-<h5>1.1.4) shared: with Public, adding used items, e.g. telephones, and parts<br/>
---> This action is to <b>decrease Expenses</b> and <b>increase know-how</b>.<br/>
-<br/>
-<table>
-<tr>
-	<td>
-		<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/increaseObservableNihongoAlphabetWritingsInWorkplace20220131T0718.jpg">
-	</td>
-</tr>
-<tr>	
-	<td>
-		Increased Observable 日本語 (nihongo, i.e. Japanese Language) Alphabet Writings @Workplace<br/>
-	</td>
-</tr>
-</table>
-<br/>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			I note that <b>regular viewing</b> of nihongo alphabets causes <b>curiosity</b> to learn more;<br/>
-			<br/>
-			This know-how is also reused with <b>advertising</b> using media, e.g. television, such that viewer eventually buys product for verification after regular viewing;<br/>
-			<br/>
-			observed: seeing a person regularly in-person or on social media, e.g. Facebook (FB), Instagram, shall cause increase in <b>curiosity</b> to learn more, e.g. the person's <b>LIKES</b>.<br/>
-			<br/>
-			reminder: There exists decrease in work productivity and speed-up of usage of available TIME using web services, e.g. FB.<br/>
-			<br/>
-			observed: even @<b>Philippine Long Distance Telephone (PLDT) Corporation</b>, FB, is NOT permitted during <b>WORK TIME</b>;<br/>
-			<br/>
-			<b>Recommended Actions:</b><br/> 
-			1) classify: already FB to be <b>"Entertainment"</b>, instead of <b>COMMUNICATION TOOL</b> for non-trivial cases such as for Consultation @Public Hospitals<br/>
-			<br/>
-			2) stop: active computer and mobile telephone use by 21:00 (MAX); Use gained TIME to rest with <b>own Family Unit</b><br/>
-			<br/>
-			<b>reminder:</b> <b>COMMUNICATION TOOLS</b>, e.g.Telephones, Electronic MAILS, have <b>CALLER/SENDER</b> and <b>target RECEIVER</b>;<br/>
-			<br/>
-			observed: The budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group broadcasts <b>NOISE POLLUTION</b> without first identifying <b>CALLER</b> and <b>RECEIVER</b>; In addition, wireless LINE is CUT even before further clarification can be executed;<br/>
-			<br/>
-			<b>Example:</b> <b>REGULAR</b> <b>NOISE POLLUTION</b> with identified keywords, e.g. "BOBO", "TANGA", "TANGINA", to signify among others: <b>"STUPID"</b>;<br/>
-			<br/>
-			<b>reminder:</b> voice recording and manipulation techniques as used @KARAOKE are reused by Manloloko group<br/>
-			<br/>
-			<b>reminder:</b> <b>Quarterly Percentage Tax</b> on AMUSEMENT PLACES, e.g. KARAOKE: 18% of <b>Quarterly SALES INCOME</b><br/>
-			<br/>
-			observed: <b>NOISE</b> reaches <b>HOME</b> and <b>WORKPLACE</b> @<b>#2 E. Manalo Ave., Barangay Sto. Niño, 1820, Marikina City</b><br/>
-			<br/>
-			observed: Members of Manloloko group causing <b>NOISE POLLUTION</b> can be identified due to their <b>YABANG</b> and <b>MISTAKES</b>, albeit still faster to execute identification when Members <b>CLEARLY</b> identify themselves as the <b>CALLER</b> and their <b>target RECEIVERS</b>.<br/>
-			<br/>			
-			<b>Action Items:</b> filed: incident reports with Police identifying members;<br/>
-			--> Endure, if NOT ignored;<br/>
-			--> observed: continuous noise pollution targetted @ME among others, due to: <b>GAWA-GAWANG PATAKARAN</b><br/> 
-			<b>Examples:</b> do NOT report to POLICE, <b>NEED FOR QUICK MONEY</b><br/>			
-			where: <b>QUICK MONEY</b>: ACTION via carnapping, smuggling, et cetera;<br/>
-			<b>NEW vehicle cost now</b>	 >= <b>PHP400,000</b><br/>
-			<br/>
-			<b>reminder:</b> ANG WALANG PAKI TAONG TUMUTULONG SA TERORISTA; ANTI-TERRORISM PARTNERSHIP<br/>
-			--> <a class="webServiceLink" target="_blank" href="https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html">https://www.keishicho.metro.tokyo.jp/kurashi/heion/antep_mpd.html</a>; last accessed: 20211021
-		</td>
-	</tr>
-</table>
-</h5>
-
-<h5>1.1.5) shared: with Public, techniques to increase <b>security defense</b> against <b>Cybercriminal group</b><br/>
---> where: <b>Cybercriminal</b> : budol-budol/carnapper/manloloko/cybercriminal/communist terrorist group;<br/>
---> As with <b>electronic mail (email) Web Services</b>, we can opt to receive <b>Short-Messaging Service (SMS) text messages</b> during <b>sign-in</b>.<br/>
---> This action notifies us if an attacker entered the Web Service without our <b>authorization</b>.<br/>
-<br/>
-
-<table>
-<tr>
-	<td>
-		<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202202/exampleSmsTextNotificationAfterSignInToAmazonWebService.png">
-	</td>
-</tr>
-<tr>	
-	<td>
-		Sign-in notification from Amazon Web Service (AWS)<br/>
-	</td>
-</tr>
-</table>
-<br/>
---> use: of another language, e.g. <b>español</b>, <b>日本語</b> (nihongo, i.e. Japanese Language), increases to a certain extent <b>security defense</b> against attacks from the <b>Communist Terrorist</b>, i.e. <b>Teroristang Komunista</b>, group in the Philippines;<br/>
-<br/>
---> This is due to Teroristang Komunista group members' children, as based on school performance, begin to become dependent on <b>CHEATING</b> via wireless broadcasting technology to get <b>QUICK MONEY</b>;<br/>
-<br/>
---> observed: children of this Manloloko group already have difficulty speaking their <b>"people's language"</b>, i.e. <b>"liannanoue"</b>, i.e. <b>福建話 (hokkienoue)</b> of Southern China</b>;<br/> 
---> observed: speaking, listening, reading, and writing skill levels, if such exist at all, are only at <b>ELEMENTARY level (max)</b>;<br/>
---> observed: even with language training @<b>Private Schools</b>, e.g. Xavier School, San Juan, Greenhills, for children with Chinese ancestry, the output know-how of <b>CHINESE MANDARIN</b> is still also at <b>ELEMENTARY level (max)</b>, despite supposedly thirteen (13) years (approx) of training;<br/> 
-<br/>
---> However, select people who were previously classified to be <b>"SLOW"</b> advance faster due to learned correct techniques. Such action causes <b>ENVY</b> to Teroristang Komunista group who makes them their targets of attacks.
-<br/>
-<br/>
-
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-		observed: in the Year 2011 (approx), Tools, e.g. <b>WireShark</b>, CAN be misused to get sign-in passwords to accounts on Web Services, e.g. Facebook (FB).<br/>
-		<br/>
-		To increase security defense against unauthorized access, SMS text message notifications were added by <b>Web Service</b> companies.<br/>
-		<br/>
-		<b>Additional Notes:</b><br/>
-		1) caution: when connecting to a network @public places, e.g. airports, due to a computer with the <b>WireShark tool</b> may also be connected to the same network to receive without your permit account passwords, et cetera;<br/>
-		<br/>
-		2) <b>reminder:</b> With unauthorized access to accounts, information, e.g. bank transactions (vehicle payments), investments, photographs (of visited countries), family members, friends, become available for misuse.<br/>
-		<br/>
-		The <b>objective</b> is to identify if there exists <b>QUICK MONEY</b> to be stolen via among others: carnapping<br/>
-		<br/>
-		reminder: after finishing to pay tuition @<b>private schools</b>, target Family Unit begins to receive excess <b>MONEY</b> to buy among others: <b>NEW VEHICLES</b><br/>
-		<br/>
-		An attack is executed to cause <b>CHAOS</b>, i.e. <b>GULO</b>, to target via regular, unsolicited wireless broadcasting, while the Manlolokong/Teroristang Komunista group steals the vehicles, et cetera;<br/>
-		<br/>
-		<b>Example:</b> Based on the photographs online, a <b>STORY</b> is created to cause target person, family members, and friends to <b>NEED</b> to keep a <b>SECRET</b> due to a <b>SURRISE WEDDING</b> executed to be as a <b>MOVIE</b> with <b>expensive wireless broadcasting technology equipment</b> for production.</br>
-		<br/>
-		<b>Output:</b> <b>UNCLEAR/MALABO Communication</b> for abuse by Manloloko group</br>
-		<br/>
-		observed: such <b>pattern</b> to be misused on me among others since the Year 2011, and earlier...<br/>
-		observed: even while as a <b>working student</b> in the Year 2004, there was also already such <b>NOISE POLLUTION</b><br/>
-		<br/>		
-		observed: even after finally marrying, the new Family Unit <b>does NOT COMMUNICATE</b> with the Family members as ordinary people do;<br/> 
-		instead, continuous misuse of <b>INDIRECT COMMUNICATION</b><br/>
-		<br/>
-		observed: this to be due to regular misuse of wireless broadcasting technology, e.g. transmitters and receivers, to cause <b>CHAOS</b> when any member does NOT obey the Manloloko group's <b>gawa-gawang patakaran</b><br/>
-		<br/>		
-		<b>Actions:</b><br/>
-		1) <b>file:</b> incident reports with Police;<br/>
-		2) <b>Ignore</b>, if NOT <b>endure</b>, <b>NOISE POLLUTION</b>;<br/>
-		3) <b>clarify</b>: with Family Unit, e.g. Wife, directly and in-person any information/gossip heard, viewed, et cetera;<br/>
-		--> Halimbawa: <b>Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating LINAWIN ang anumang MALABO.</b><br/>		
-		</td>
-	</tr>
-</table>
-</h5>
-
 <br/>
 
 	<div class="copyright">
