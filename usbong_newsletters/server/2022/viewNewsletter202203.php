@@ -503,9 +503,11 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </div>
 <br/>
 Patient Names, et cetera in video set to be unreadable;<br/>
-Output Design Format based on Template<br/>
-Template: print-ready (size A4 paper)<br/>
-Softcopy of Report also auto-generated<br/>
+<b>Output Design Format</b> based on Template<br/>
+<b>Template:</b> print-ready (size A4 paper)<br/>
+<b>Softcopy of Report</b> also auto-generated<br/>
+<br/>
+<b>Output Notes:</b><br/>
 Each Medical Doctor with HMO transaction has a Report,<br/> 
 PLUS Physical Therapy Unit's HMO Report<br/>
 <br/>
@@ -513,15 +515,6 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 --> reminder#2: <b>Business Process Outsourcing (BPO) Industry</b>: Billion USD Industry<br/>
 --> where: <b>BPO Industry</b> : top private sector employer in the Philippines<br/>
 <br/>
---> continued: with weekly paper transfer<br/>
---> observed: action causes Industry need to regularly update delivery system,<br/>
---> which includes system parts, e.g. <b>ROADS</b>, <b>PEDESTRIAN LANES</b>;<br/>
-<br/>
---> observed: items, e.g. FOOD SUPPLY, also use such delivery system<br/>
---> <b>Examples:</b> Fresh Milk; Fruits<br/>
---> <b>Reminder:</b> Such physical items for human digestion do NOT yet transfer via computer digital networks<br/>
-<br/>
-
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -553,6 +546,80 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 	</tr>
 </table>
 <br/>
+--> continued: with weekly paper transfer<br/>
+--> observed: action causes Industry need to regularly update delivery system,<br/>
+--> which includes system parts, e.g. <b>ROADS</b>, <b>PEDESTRIAN LANES</b>;<br/>
+<br/>
+--> observed: items, e.g. FOOD SUPPLY, also use such delivery system<br/>
+--> <b>Examples:</b> Fresh Milk; Fruits<br/>
+--> <b>Reminder:</b> Such physical items for human digestion do NOT yet transfer via computer digital networks<br/>
+<br/>
+--> reminder: use of computer digital networks causes increased <b>scale</b>;<br/>
+--> where: <b>scale</b> : <b>DAMAGE</b> via stolen <b>INFORMATION</b><br/>
+--> where: <b>INFORMATION</b> classified to be exchanged for MONEY<br/>
+--> Example: <b>INFORMATION</b> KNOW-HOW of target vehicle's parked location for <b>carnapping actions</b><br/>
+--> <b>INFORMATION</b> stolen via <b>Unauthorized Access</b> to CCTV Camera inside household<br/>
+--> where: CCTV = Closed-circuit Television (CCTV);<br/>
+<table>
+	<tr>
+		<td>
+			Example: <b>Bubo Bubo</b> Android Application (with Digital Video Recorder (DVR) + CCTV Camera System)<br/>
+		</td>
+		<td>
+<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202112/buboBuboAndroidDVRCCTVHalimbawaFromMApkPureDotCom.png">	
+		</td>		
+	</tr>
+</table>
+<br/>
+--> adds: IF <b>INFORMATION</b> NOT successfully STOLEN, carnapper/Budol-Budol/Manloloko/Teroristang Komunista group executes <b>NOISE POLLUTION</b><br/>
+--> where: <b>NOISE POLLUTION</b> causes <b>DELAYS</b> in system execution @Accounting Unit, e.g. @partner Sta. Lucia Health Care Center (SLHCC)<br/>
+<br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+		observed: increased NOISE POLLUTION became noticeable in the Year 2017 continuing to 2018, even to the current Year 2022, with select Teroristang Komunista members identifying themselves due to <b>YABANG</b> and <b>MISTAKE</b>:<br/>
+	Members include among others:<br/>
+	<br/>
+--> <b>1)</b> SYSON, RAMON (younger brother of DR. SYSON, PEDRO)<br/>
+--> <b>2)</b> SYSON, RYAN (son of SYSON, RAMON)<br/>
+--> <b>3)</b> SYSON, JOAN (daughter of SYSON, RAMON)<br/>
+--> <b>4)</b> HAW, KEITH (Xavier School, San Juan, Greenhills Classmate)<br/>
+--> <b>5)</b> TANG, TYRONE (Xavier School, San Juan, Greenhills Classmate)<br/>
+--> <b>6)</b> VILLARIN, RAMON (former Ateneo de Manila University President)<br/>
+	<br/>
+--> continued: with observation of identified Teroristang Komunista members' actions<br/>
+--> <b>reminder:</b> <b>GUILT</b> exists due to continued misuse of wireless broadcasting technology whose <b>NOISE POLLUTION</b> reaches multiple barangays in Marikina City<br/>
+--> observed: Teroristang Komunista members had <b>LOST ITEMS</b> classified to be exchanged for <b>MONEY</b>;<br/>
+<br/>
+	--> verified: Bureau of Customs (BOC) NEWS<br/>
+		--> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/;</a><br/> 
+		last accessed: 20220322
+		<br/>
+		| <b>BOC Destroys 21 Smuggled Vehicles</b><br/>
+		| Posted on June 18, 2021<br/>
+		--<br/>
+		The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
+		--<br/>
+		--> 2) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/">https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/</a>; last accessed: 20220322<br/>
+		| <b>MICP Seizes php 9M Worth of Smuggled Agricultural Products</b><br/>
+		| Posted on October 15, 2021<br/> 
+		--<br/>
+		BOC-IG recorded a total estimated value of 545.06 million worth of seized smuggled agricultural products. In terms of value, the following are the top three commodities: (1) rice amounting to 206.80 million (2) onions amounting to 190.48 million, and (3) garlic amounting to Php 55 million.<br/>
+		--<br/>
+		<b>Actions:</b><br/>
+		1) <b>file:</b> incident reports with Police;<br/>
+		2) <b>Ignore</b>, if NOT <b>endure</b>, <b>NOISE POLLUTION</b>;<br/>
+		3) <b>clarify</b>: with Family Unit, e.g. Wife, directly and in-person any information/gossip heard, viewed, et cetera;<br/>
+		--> Halimbawa: <b>Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating LINAWIN ang anumang MALABO.</b><br/>		
+	</tr>
+</table>
+<br/>
+
 reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<br/>
 1) Another work task to speed-up system<br/>
 2) Rest with own Family Unit<br/>
@@ -566,7 +633,6 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 		</td>
 		<td class="noteTableTextColumn">
 <b>CASIO WRIST WATCH</b><br/>
-<br/>
 <table>
 <tr>
 	<td>
@@ -579,33 +645,57 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 		based on History)<br/>
 	</td>
 </tr>
+<br/>
 </table>
 		<br/>
 		observed: in <b>トイレ (toire; toilet)</b>, when returning <b>CASIO WATCH</b> to <b>LEFT WRIST</b>, hits as reminder self's <b>sternum (胸骨（きょうこつ; chest bone）</b><br/>
-		--> reminder#1: <b>sternum</b> protects body organs, e.g. physical HEART.<br/>
-		--> reminder#2: Physical PUNCH that hits UP from below <b>sternum</b> causes noticeable physical pain;<br/>
-		--> notes: Person can verify this with even a WEAK PUNCH;<br/>
+		<br/>
+		--> reminder#1: <b>sternum</b> protects body organs, e.g. <b>physical HEART</b>.<br/>
+		--> reminder#2: <b>Physical PUNCH</b> that hits UP from below <b>sternum</b> causes noticeable <b>physical pain</b>;<br/>
+		--> notes: Person can verify this with even a <b>WEAK PUNCH</b>;<br/>
 		<br/>	
 		--> remembers: from keyword, <b>"sternum"</b>, <b>STERN</b>+<b>NUMBERS</b><br/>
 		--> where: <b>STERN</b> : <b>STRICT/MAHIGPIT</b>;<br/> 
 		--> where: <b>NUMBERS</b> : <b>BILANG</b><br/>
-		--> notes: When investment causes <b>Financial LOSS</b> in <b>Return of Investment (RoI)</b>, select investors shall execute actions classified to be <b>PHYSICAL ATTACKS</b> due to focuses on getting QUICK MONEY;<br/>	
+		--> notes: When investment causes <b>Financial LOSS</b> in <b>Return of Investment (RoI)</b>, select investors shall execute actions classified to be <b>PHYSICAL ATTACKS</b> due to focuses on getting <b>QUICK MONEY</b>;<br/>	
 		<br/>
-		<b>Recommended Action:</b> verify: before receiving among others: MONEY and GIFTS to <b>CLEARLY</b> identify <b>CAUSE</b> of giving<br/>
+		<b>Example:</b><br/> 
+		<b>ACTIONS</b>, e.g. <b>NOISE POLLUTION</b>, by the Teroristang Komunista group<br/>
+		<br/>
+		<b>Recommended Action:</b> verify: before receiving among others: <b>MONEY</b> and <b>GIFTS</b> to <b>CLEARLY</b> identify <b>CAUSE</b> of giving<br/>
 		<br/>
 		TO-DO: -add: contribution note from Facebook Effect;<br/>
 		<br/>
-		remembers: after sufficient investment in corporation, there exists VOTING SYSTEM arriving as a <b>LETTER</b> to <b>registered ADDRESS</b><br/>
-		--> <b>Example:</b> Voting Item: Financial Auditor<br/>
+		remembers: after sufficient investment in corporation, there exists <b>VOTING SYSTEM</b> arriving as printed <b>LETTERS</b> to <b>registered ADDRESS</b><br/>
+		--> <b>Example:</b> Voting Item: <b>Financial Auditor</b><br/>
 		<br/>
-		remembers: with Philippine Administration, after reaching 18years of old and with Philippine Citizenship, there exists VOTING SYSTEM<br/>
+		remembers: with Philippine Administration, after reaching 18years of old and with <b>Philippine Citizenship</b>, there exists <b>VOTING SYSTEM</b><br/>
 		--> <b>Example#1:</b> Voting Item: Philippine President (EXECUTION)<br/>
 		--> <b>Example#2:</b> Voting Item: Philippine Senator (LEGISLATION; LAW WRITING)<br/>		
 		<br/>
 		<b>Additional Note:</b><br/>
-		--> I wear the <b>CASIO WATCH</b> with the <b>DIGITAL TIME</b> facing myself;<br/>
-		--> remembers: from keyword, トイレ, SHIGESATO ITOI'S<br/>
-		ほぼ日刊イトイ新聞 with keyword, イトイ;
+		1) notes: self wears the <b>CASIO WATCH</b> with the <b>DIGITAL TIME</b> facing myself due to <b>TIME</b> verification <b>FASTER</b> while executing select <b>ACTIONS</b>, e.g. reading printed books<br/>
+		<br/>
+		2) remembers: from keyword, <b>トイレ (TOIRE)</b>, SHIGESATO ITOI's <b>ほぼ日刊イトイ新聞</b> with keyword, <b>イトイ (ITOI)</b>;<br/>
+		<br/>
+		3) shares: <b>PRESIDENT</b> : <b>EXECUTION</b>;<br/> 
+		--> <b>CAN QUICKLY EXECUTE</b> his/herself the person classified to be Manloloko/Teroristang Komunista appearing <b>IN FRONT</b> of self, without need for explanation due to already <b>CLEAR</b> in the <b>LAW</b><br/>
+		--> <b>recommends:</b> IF explains <b>UNABLE</b> to <b>EXECUTE</b> due to existing <b>LAW</b>, be in <b>SENATE</b> to <b>WRITE UPDATES</b> to speed-up <b>EXECUTION</b>,<br/>
+		--> NOT as <b>EXECUTIVE</b>, e.g. <b>PRESIDENT</b><br/>
+		<br/>
+		--> remembers: former Philippine President <b>JOSE P. LAUREL</b> who served during our <b>TIME</b> with the <b>Japanese</b><br/>
+		--> adds: former Philippine President <b>LAUREL</b> executed <b>SELF-DEFENSE</b> and killed using knife, the person who first attacked him using the <b>LATIGO</b><br/>
+		--> notes: <b>LAUREL LEAF</b> : <b>LIFE</b><br/>
+		<br/>		
+		--> reminder: from History, <b>POISON</b> has been used to cause <b>DEATH</b>, without use of <b>Projectile Tool</b>, e.g. <b>GUN</b><br/>
+		--> observes: Teroristang Komunista group uses among others:<br/> 
+		--> <b>POISON</b>, <b>NOISE POLLUTION</b><br/>
+		--> recommends: <b>CAUTION</b> due to Teroristang Komunista group <b>KILLS</b> to get <b>QUICK MONEY</b><br/>
+		<br/>
+		--> recommends: verifying <b>ACTIONS</b> of Teroristang Komunista group members to assist in speed-up of <b>identification</b> and <b>classification</b><br/>
+		--> where: <b>ACTIONS</b> : <b>LIFESTYLE</b><br/>
+		--> reminder: <b>WORK</b> = <b>HANAP-BUHAY</b>,<br/> 
+		--> i.e. unti-unting pagkita ng pera mula sa paggawa
 		</td>
 	</tr>
 </table>
@@ -618,7 +708,7 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 
 
 <h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1) joined: GitHub Game Off 2021: <b>TUGON</b><br/>
+<h4>2.1)<br/>
 <br/>
 <br/>
 TO-DO: -add: lessons-learned from news web services
@@ -628,14 +718,8 @@ TO-DO: -add: in Security Defense Force: Super Mario Galaxy
 <br/>
 <br/>
 </h4>
---> 
-
-
---
-
-くる
-くれる
-
+くる<br/>
+くれる<br/>
 <br/>
 <br/>
 <br/>
