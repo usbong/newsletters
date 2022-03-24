@@ -557,7 +557,7 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 --> reminder: use of computer digital networks causes increased <b>scale</b>;<br/>
 --> where: <b>scale</b> : <b>DAMAGE</b> via stolen <b>INFORMATION</b><br/>
 --> where: <b>INFORMATION</b> classified to be exchanged for MONEY<br/>
---> Example: <b>INFORMATION</b> KNOW-HOW of target vehicle's parked location for <b>carnapping actions</b><br/>
+--> Example: <b>INFORMATION</b> KNOW-HOW of target vehicle's parked location and vehicle's wireless frequency key for <b>carnapping actions</b><br/>
 --> <b>INFORMATION</b> stolen via <b>Unauthorized Access</b> to CCTV Camera inside household<br/>
 --> where: CCTV = Closed-circuit Television (CCTV);<br/>
 <table>
@@ -571,6 +571,8 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 	</tr>
 </table>
 <br/>
+--> observed: target vehicles auto-open and close with <b>Light-Emitting Diode (LED)</b> viewable on CCTV;<br/>
+--> hears: open-closing sound;<br/>
 --> adds: IF <b>INFORMATION</b> NOT successfully STOLEN, carnapper/Budol-Budol/Manloloko/Teroristang Komunista group executes <b>NOISE POLLUTION</b><br/>
 --> where: <b>NOISE POLLUTION</b> causes <b>DELAYS</b> in system execution @Accounting Unit, e.g. @partner Sta. Lucia Health Care Center (SLHCC)<br/>
 <br/>
@@ -664,7 +666,7 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 		<br/>
 		<b>Recommended Action:</b> verify: before receiving among others: <b>MONEY</b> and <b>GIFTS</b> to <b>CLEARLY</b> identify <b>CAUSE</b> of giving<br/>
 		<br/>
-		Reminder: <b>Facebook Effect Note</b><br/> 
+		Reminder: <a class="webServiceLink" target="_blank" href="https://www.amazon.com/Facebook-Effect-Inside-Company-Connecting/dp/1439102120">The Facebook Effect (Book Item; Year 2011)</a><br/> 
 		--> where: in select systems, with increasing members,<br/> 
 		--> <b>UNCLEAR</b> individual <b>WORK contribution</b> and its <b>payment</b><br/> 
 		--> makes system ineffective and inefficient;<br/>
@@ -679,7 +681,7 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 		<b>Additional Note:</b><br/>
 		1) notes: self wears the <b>CASIO WATCH</b> with the <b>DIGITAL TIME</b> facing myself due to <b>TIME</b> verification <b>FASTER</b> while executing select <b>ACTIONS</b>, e.g. reading printed books<br/>
 		<br/>
-		2) remembers: from keyword, <b>トイレ (TOIRE)</b>, SHIGESATO ITOI's <b>ほぼ日刊イトイ新聞</b> with keyword, <b>イトイ (ITOI)</b>;<br/>
+		2) remembers: from keyword, <b>トイレ (TOIRE)</b>, <a class="webServiceLink" target="_blank" href="https://www.1101.com/home.html">SHIGESATO ITOI's <b>ほぼ日刊イトイ新聞</b></a> with keyword, <b>イトイ (ITOI)</b>;<br/>
 		<br/>
 		3) shares: <b>PRESIDENT</b> : <b>EXECUTION</b>;<br/> 
 		--> <b>CAN QUICKLY EXECUTE</b> his/herself the person classified to be Manloloko/Teroristang Komunista appearing <b>IN FRONT</b> of self, without need for explanation due to already <b>CLEAR</b> in the <b>LAW</b><br/>
