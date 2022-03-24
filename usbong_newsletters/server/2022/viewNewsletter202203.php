@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220324; from 20220306
+  @date updated: 20220325; from 20220324
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -376,10 +376,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<!-- //edited by Mike, 20220218
-	<base href="http://store.usbong.ph/" target="_blank">
 -->
+	<base href="http://store.usbong.ph/" target="_blank">
+
 
   </head>
 	  <script>
