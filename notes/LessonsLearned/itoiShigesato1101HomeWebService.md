@@ -2,6 +2,40 @@
 糸井重里が毎日書くエッセイのようなもの;<br/>
 https://www.1101.com/home.html<br/>
 
+TO-DO: -reverify: faster NOTES writing, searching, et cetera
+
+## 2022-03-26
+https://www.1101.com/home.html; last accessed: 20220326<br/>
+1226~1235; ELAPSED TIME: 9MINS<br/>
+<br/>
+|・みんなラーメンが大好きだし、<br/>
+Lahat din malaki ang pagkahilig sa RAMEN,<br/>
+<br/>
+|　繁盛しているラーメン屋さんもたくさんある。<br/>
+Marami ang umuusbong at sumasaganang RAMEN na tindahan.<br/>
+<br/>
+...<br/>
+<br/>
+|ふつうの人が食べられる範囲の金額で、<br/>
+Sapakat makakakain ang karaniwang tao sa loob ng singil na halaga<br/>
+<br/>
+|あれだけのものを毎日つくって食べさせてくれるのは、<br/>
+iyon lamang ang bagay, araw-araw gawin, pakakainin ako,<br/>
+<br/>
+|そうとうに大変な仕事なのだと思っている。<br/>
+Nakababago nang malaki ang hanap-buhay na ito, aking iniisip.<br/>
+<br/>
+|だから、ぼくが店を出るときに言う<br/>
+Kaya naman, tuwing lumalabas ako mula sa tindahan, ang sinasabi kong<br/>
+<br/>
+|　「ごちそうさまでした」は、とても本気だ。<br/>
+"Salamat sa handa", talagang tunay.<br/>
+<br/>
+...<br/>
+<br/>
+|倒れても傷を負っても、終わりじゃない。がんばりましょう。<br/>
+Bumagsak man, buhatin ang sugat, hindi pa ito katapusan, galingan natin.
+
 ## 2022-01-04
 | イケメンだとか、美人だとか、かわいいだとか、<br/>
 | そういうことはもちろん評価されるのだけれど、<br/>
@@ -15,6 +49,6 @@ https://www.1101.com/home.html<br/>
 | Ang mga gano'ng bagay, talagang binibigyan ng halaga, kaya lang,<br/>
 | ang MAIN na malaking ipinaaalam na halaga, magiging "ULO AYOS", i.e. matalino.<br/>
 | Marahil, ang bagay na "ULO AYOS", sa lipunan, dahil madaling manalo,<br/>
-| itong sinasabing dahilan, mayroon kasi kaya nito, aking iniisip.<br/>
+| ito ang sinasabing dahilan, mayroon kasi kaya nito, aking iniisip.<br/>
 | Anuman, ang mga mamamayan, ang "ULO AYOS", nakikipagtunggalian.<br/>
 | Pagkatapos, sa loob ng daigdig, umaapaw na ang "ULO AYOS" na tao.<br/>
