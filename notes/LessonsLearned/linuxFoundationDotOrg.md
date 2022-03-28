@@ -10,20 +10,20 @@ last accessed: 20220328
 https://www.linuxfoundation.org/our-members-are-our-superpower/;
 last accessed: 20220328
 
-> membership fee: 
+> membership fee:<br/> 
 >
-> Silver Fee Scale Based on Consolidated Employees *
-> 5,000 Employees & Above: $20,000
-> Between 500 and 4,999: $15,000
-> Between 100 and 499: $10,000
-> Between 1 and 99: $5,000
->
-> * Consolidated employees include all employees of the related companies, including any direct and indirect parent companies, and all sister, and subsidiary entities, excluding third party contractors.
->
-> Gold Membership Fee
-> $100,000
->
-> Platinum Membership Fee
+> Silver Fee Scale Based on Consolidated Employees *<br/>
+> 5,000 Employees & Above: $20,000<br/>
+> Between 500 and 4,999: $15,000<br/>
+> Between 100 and 499: $10,000<br/>
+> Between 1 and 99: $5,000<br/>
+><br/>
+>\* Consolidated employees include all employees of the related companies, including any direct and indirect parent companies, and all sister, and subsidiary entities, excluding third party contractors.<br/>
+><br/>
+> Gold Membership Fee<br/>
+> $100,000<br/>
+><br/>
+> Platinum Membership Fee<br/>
 > $500,000
 
 --
