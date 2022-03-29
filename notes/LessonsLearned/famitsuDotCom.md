@@ -12,8 +12,9 @@ last accessed: 20220327<br/>
 <br/>
 <b>GRAND TOTAL ELAPSED TIME:</b> 58MINS<br/>
 <br/>
-<b>EDITOR ELAPSED TIME:</b> 2022-03-29T09:06~09:20; 14MINS<br/>
+<b>EDITOR ELAPSED TIME:</b> 2022-03-29T09:06~09:20;09:36~09:37; 16MINS<br/>
 <br/>
+
 > 『ドラゴンクエスト』はコンピュータ上に描いたマンガのようなもの<br/>
 
 "DRAGON QUEST", bagay na tulad sa iginuhit na MANGA sa kompyuter.<br/>
@@ -28,7 +29,7 @@ Ang sa katunayan, simula't simula pa po, sapagkat sa taon pa ng aking kabataan m
 
 > そして、大学を卒業したあとも、フリーランスとしてライターの仕事をしていたのですが、その当時、世の中は大きな変化を迎えていました。コンピュータの登場です。新聞でコンピュータの特集記事を読んだ僕は、このコンピュータという機械にとてつもない魅力を感じました。そして、矢も盾もたまらずマイクロコンピュータ、パーソナルコンピュータを買ったのです。もともと数学が好きだった僕は、たちまちコンピュータというおもちゃに夢中になり、プログラミング言語を覚え、自分でもゲームを趣味で作り始めたのでした。<br/>
 
-Pagkagawa nito, pagkatapos magtapos sa Malaking Paaralan, bilang isang FREE-LANCER, ginawa ko po bilang hanap-buhay ang tungkulin ng manunulat, kaya lang sa panahong iyon, sa daigdig, may sinasalubong na malaking pagbabago. Ito ang pagdating ng kompyuter. Ako na nagbasa ng mga bukod-tanging pinagsamang sulatin na Balita sa kompyuter, naramdaman ko po ang akit nitong kompyuter bilang isang makina. Pagkatapos, sapagkat hindi rin makatiis ng pana at kalasag, bumili ako ng MICROCOMPUTER, PERSONAL COMPUTER. Simula't simula pa, ako na mahilig sa pag-aaral ng pagbibilang, naging babad ako sa panaginip nitong sinasabing kompyuter na laruan, nakabisado ko ang wika ng PROGRAMMING, ang sarili ko rin mismo, bilang pampalipas na panahon (HOBBY), nagsimulang bumuo ng laro.<br/>
+Pagkagawa nito, pagkatapos magtapos sa Malaking Paaralan, bilang isang FREE-LANCER, ginawa ko po bilang hanap-buhay ang tungkulin ng manunulat, kaya lang sa panahong iyon, sa daigdig, may sinasalubong na malaking pagbabago. Ito ang pagdating ng kompyuter. Ako na nagbasa ng mga bukod-tanging pinagsamang sulatin na balita sa kompyuter, naramdaman ko po ang akit nitong kompyuter bilang isang makina. Pagkatapos, sapagkat hindi rin makatiis ng pana at kalasag, bumili ako ng MICROCOMPUTER, PERSONAL COMPUTER. Simula't simula pa, ako na mahilig sa pag-aaral ng pagbibilang, naging babad ako sa panaginip nitong sinasabing kompyuter na laruan, nakabisado ko ang wika ng PROGRAMMING, ang sarili ko rin mismo, bilang pampalipas na panahon (HOBBY), nagsimulang bumuo ng laro.<br/>
 
 > そのころ、たまたまエニックス、現在のスクウェア・エニックスですね。が、ゲームプログラミングコンテストをやっていたので、自作のゲームで応募したところ、見事入選しまして、それが僕のゲーム人生の出発点です。いまからおよそ40年前の出来事です。<br/>
 
@@ -52,7 +53,7 @@ Ang "DRAGON QUEST", at pati na rin ang MANGA, hinalintulad sa maikling pag-uusap
 
 > 僕たちのチームは、いま新たな本編作品となる『ドラゴンクエストXII』の制作のほか、いくつかの新しい作品を制作しています。これらの作品は、『ドラゴンクエストXI』のように、世界のたくさんの皆さんにプレイしていただけたらと思っています。今後の続報に期待してください。<br/>
 
-Ang amin pong pangkat, bukod sa kasalukuyang bagong binubuong bagay, "DRAGON QUEST XII", may ilang pang bagong mga binubuo. Ang mga sunod na binubuong bagay na ito, tuld ng "DRAGON QUEST XI", iniisip ko pong, maiging maraming tao sana sa daigdig ang maglalaro. Pakiabangan po ang sunod na balita.<br/>
+Ang amin pong pangkat, bukod sa kasalukuyang bagong binubuong bagay, "DRAGON QUEST XII", may ilang pang bagong mga binubuo. Ang mga sunod na binubuong bagay na ito, tulad ng "DRAGON QUEST XI", iniisip ko pong, maiging maraming tao sana sa daigdig ang maglalaro. Pakiabangan po ang sunod na balita.<br/>
 
 <br/>
 TO-DO: -update: this<br/>
