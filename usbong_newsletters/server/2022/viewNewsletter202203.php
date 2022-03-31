@@ -379,6 +379,7 @@
 <!-- //edited by Mike, 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
+
 	<base href="http://store.usbong.ph/" target="_blank">
 
 
@@ -471,9 +472,9 @@
 
 	<br>
 	<br>	
-	<div class="newsletterTitle">		
-		<b>防衛大学校</b> (bouei daigakkou; Defense Force University)<br/> 
-		<b>Past Examinations</b>; <b>Reminder:</b><br/>
+	<div class="newsletterTitle">
+		<b>新聞 (xīnwén; しんぶん(shimbun); 신문 (shinmun))<br/>
+		= Bagong Dinig・Tanong</b><br/>
 		LAUREL LEAF : LIFE<br/>		
 	</div>
 	<br>
@@ -593,7 +594,7 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 --> <b>3)</b> SYSON, JOAN (daughter of SYSON, RAMON)<br/>
 --> <b>4)</b> HAW, KEITH (Xavier School (XS), San Juan, Greenhills Classmate)<br/>
 --> <b>5)</b> TANG, TYRONE (Basketball player, XS, friend of HAW, KEITH)<br/>
---> <b>6)</b> VILLARIN, RAMON (former Ateneo de Manila University President)<br/>
+--> <b>6)</b> VILLARIN, RAMON (Society of Jesus (SJ); former Ateneo de Manila University President)<br/>
 	<br/>
 --> continued: with observation of identified Teroristang Komunista members' actions<br/>
 --> <b>reminder:</b> <b>GUILT</b> exists due to continued misuse of wireless broadcasting technology whose <b>NOISE POLLUTION</b> reaches multiple barangays in Marikina City<br/>
@@ -706,63 +707,83 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 	</tr>
 </table>
 
-<br/>
-<br/>
---> remembers: Deutschland System of Pension insurance:
-"The statutory pension insurance is the most important pillar of old-age provisions. Its financing is split: The monthly contributions paid by employees and employers pay the pensions of those currently in retirement. Through their contributions, those insured acquire some rights when they themselves become pensioners. In turn, coming generations provide for these future rents with their contributions (cross-generational contract). In addition, company and private pensions are the second and third pillars of provisions for old age. Under certain conditions these also enjoy government support."
-(Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag)
-
 <h3>3) Continued with Security Defense Force</h3>
-<h4>3.1) Ear, Nose, Throat (ENT) to Chest near Physical Heart</h4>
+<h4>3.1) shares: <b>Deutschland System of Pension Insurance:</h4>
+<h5>
+"The statutory pension insurance is the most important pillar of old-age provisions. Its financing is split: The monthly contributions paid by employees and employers pay the pensions of those currently in retirement. Through their contributions, those insured acquire some rights when they themselves become pensioners. In turn, coming generations provide for these future rents with their contributions (cross-generational contract). In addition, company and private pensions are the second and third pillars of provisions for old age. Under certain conditions these also enjoy government support."<br/>
+<b>(Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag)</b>
+</h5>
+
+<h4>3.2) Ear, Nose, Throat (ENT) to Chest near Physical Heart</h4>
 <h5>
 --> verify: mouth action (put air in mouth; voice-out "pop")<br/>
 --> chest movement; near physical HEART; ATTACK<br/>
 <br/>
---> reminder: budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group misuses wireless broadcasting technology by causing Noise Pollution Attacks to get QUICK MONEY;<br/>
---> observed: attacks executed to those who do NOT obey their gawa-gawang RULES;<br/>
---> where: example gawa-gawang RULES: do NOT file incident reports with Police;<br/>
+--> reminder: budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group misuses wireless broadcasting technology by causing <b>Noise Pollution Attacks</b> to get <b>QUICK MONEY</b>;<br/>
+--> observed: attacks executed to those who do NOT obey their <b>gawa-gawang RULES</b>;<br/>
+--> Example <b>gawa-gawang RULES</b>: do NOT file incident reports with Police;<br/>
 <br/>
 --> verified: Manloloko/Teroristang Komunista group group has been targeting select Unit Members @USBONG HQ, MOSC HQ, SLHCC Unit, St. Vincent General Hospital (SVGH) due to among others:<br/>
---> has <b>LOST ITEMS</b> classified as <b>SMUGGLED</b> to be exchanged for QUICK MONEY;<br/>
+--> notes: has <b>LOST ITEMS</b> classified as <b>SMUGGLED</b> to be exchanged for QUICK MONEY;<br/>
 --> reminder: CAUTION due to Manloloko/Teroristang Komunista group kills humans and even pet animals;<br/>
 <br/>
 
-observed: excess Recorded Noise from Misuse of Harmonica to Intentionally cause Incorrect classification by Dogs and with vehicle status
-		<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202203/excessRecordedNoiseFromMisuseOfHarmonicaToIntentionallyCauseIncorrectClassificationByDogsAndWithVehicleStatusEtCetera20220311T0609.jpg">
-
-
+--> observed: excess Recorded Noise from Misuse of Harmonica to Intentionally cause Incorrect classification by Dogs and with vehicle status<br/>
+<br/>
+<table>
+	<tr>
+		<td>
+<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202203/excessRecordedNoiseFromMisuseOfHarmonicaToIntentionallyCauseIncorrectClassificationByDogsAndWithVehicleStatusEtCetera20220311T0609.jpg">
+			<br/>
+			<b>HARMONICA ITEM FROM CHINA</b><br/>
+			<br/>
+			observed: select Teroristang Komunista members migrated from SOUTHERN CHINA;<br/>
+			<br/>
+			adds: misuses even religious beings, e.g. <b>観音 (guanyin; kannon)</b>, to make <b>gawa-gawang RULES</b> to get <b>QUICK MONEY</b><br/>
+			<br/>
+			Example <b>gawa-gawang RULES</b>:<br/> 
+			Do NOT answer questions for clarification due to among others: <b>SECRET</b>, <b>SUPRISE WEDDING</b>;<br/>
+			IF target still does NOT obey, shall cause stalking, intimidation, harrassment, et cetera; <b>NOISE POLLUTION</b>;<br/>
+			<br/>
+			<b>Output:</b> UNCLEAR/MALABO Communication for abuse by the Manloloko group;<br/>
+			<br>
+			observed: Manloloko group ACTION to be as with JIN from Detective Conan Japanese MANGA/Comic series; where: <b>TARGET</b> is tasked by JIN to get MONEY as payment, but learns that even with MONEY, still NOT sufficient; KILLS <b>TARGET</b><br/>
+			<br/>
+<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202203/BudolBudolManlolokoCybercriminalTeroristangKomunistaGroupOh!HindiKoInisipNaKukuninMo'tDaratingKaTalagaContinuousFETCHTasksWithCamera3DMovementControlSystemCausingDizzinessObjectiveQuickMoneyViaCarnappingSmugglingEtCeteraConanVsJINRefSMG20220320.jpg
+">			<br/>
+			<br/>
+			<b>"Hindi ko inisip na kukunin mo't darating ka talaga!"</b><br/>
+			<br/>
+			reminder#1: file: incident reports with Police<br/>
+			reminder#2: no need for excessive optimization/perfectionism with incident reports<br/>	
+			<br/>
+			observed: if NOT yet killed, <b>NOISE POLLUTION</b> and <b>UNCLEAR/MALABO Communication</b> continue;<br/>
+			<br/>
+		</td>
+	</tr>
+</table>
 </h5>
 
-<h4>3.2) shares: reduced Noise via Ear Plugs</h4>
+<h4>3.3) shares: reduced Noise via Ear Plugs</h4>
 <h5>
 --> adds: however, shall NOT be able to answer telephone Calls @Workplace<br/>
 --> reminder: lahat na tayo may antenna to receive unsolicited wireless broadcasting;<br/>
---> Technology misused to cause NOISE due to NOT Profitable Legally<br/>
---> adds: reflected LIGHT from metal part of Stapler causing Erased Effect<br/>
---> observed: technique misused to cause NOISE on Object Movement<br/>
+--> Technology misused to cause NOISE due to <b>NOT Profitable Legally</b><br/>
+--> adds: <b>reflected LIGHT</b> from metal part of Stapler causing <b>Erased Effect</b><br/>
+--> observed: technique misused to cause <b>NOISE</b> on <b>Object Movement</b><br/>
 </h5>
 
-<br/>
-<br/>
+<table>
+<tr>
+<td>
+<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202203/lahatNaTayoMayAntennaUnsolicitedWirelessBroadcasting,TechMisusedAsNoiseDueToNotProfitableLegally20220324T0714.jpg">
+</td>
+<td>
+Lahat na tayo may Antenna na nakasasagap ng <b>unsolicited wireless broadcasting</b>;
+</td>
+</tr>
+</table>
 
-<h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1)<br/>
-<br/>
-<br/>
-TO-DO: -add: lessons-learned from news web services
-<br/>
-<br/>
-TO-DO: -add: in Security Defense Force: Super Mario Galaxy
-<br/>
-<br/>
-</h4>
-くる<br/>
-くれる<br/>
-<br/>
-<br/>
-<br/>
-TO-DO: -update: this
-<br/>
 <br/>
 <br/>
 
