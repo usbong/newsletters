@@ -376,11 +376,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
+<!-- //edited by Mike, 20220325
 
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
 
 
   </head>
@@ -541,9 +541,6 @@ PLUS Physical Therapy Unit's HMO Report<br/>
 			<b>Mandurugas</b> = <b>Masama, e.g. budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group</b><br/>
 			<br/>
 			<b>reminder:</b> Increase in Tamad causes Increase in Masama.<br/>
-			<br/>
-			<b>Recommended Action:</b><br/>
-			TO-DO: -update: this			
 		</td>
 	</tr>
 </table>
@@ -742,15 +739,14 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 			adds: misuses even religious beings, e.g. <b>観音 (guanyin; kannon)</b>, to make <b>gawa-gawang RULES</b> to get <b>QUICK MONEY</b><br/>
 			<br/>
 			Example <b>gawa-gawang RULES</b>:<br/> 
-			Do NOT answer questions for clarification due to among others: <b>SECRET</b>, <b>SUPRISE WEDDING</b>;<br/>
+			Do NOT answer questions for clarification due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			IF target still does NOT obey, shall cause stalking, intimidation, harrassment, et cetera; <b>NOISE POLLUTION</b>;<br/>
 			<br/>
 			<b>Output:</b> UNCLEAR/MALABO Communication for abuse by the Manloloko group;<br/>
 			<br>
 			observed: Manloloko group ACTION to be as with JIN from Detective Conan Japanese MANGA/Comic series; where: <b>TARGET</b> is tasked by JIN to get MONEY as payment, but learns that even with MONEY, still NOT sufficient; KILLS <b>TARGET</b><br/>
 			<br/>
-<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202203/BudolBudolManlolokoCybercriminalTeroristangKomunistaGroupOh!HindiKoInisipNaKukuninMo'tDaratingKaTalagaContinuousFETCHTasksWithCamera3DMovementControlSystemCausingDizzinessObjectiveQuickMoneyViaCarnappingSmugglingEtCeteraConanVsJINRefSMG20220320.jpg
-">			<br/>
+<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202203/BudolBudolManlolokoCybercriminalTeroristangKomunistaGroupOh!HindiKoInisipNaKukuninMo'tDaratingKaTalagaContinuousFETCHTasksWithCamera3DMovementControlSystemCausingDizzinessObjectiveQuickMon.jpg"><br/>
 			<br/>
 			<b>"Hindi ko inisip na kukunin mo't darating ka talaga!"</b><br/>
 			<br/>
@@ -766,11 +762,16 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 
 <h4>3.3) shares: reduced Noise via Ear Plugs</h4>
 <h5>
+<img class="newsletterImage" width="30%" height="30%" src="assets/images/newsletter/202203/reducedNoiseViaEarPlugsAlbeitShallNotBeAbleToAnswerTelephoneCallsAtWorkplace20220327T1754.jpg"><br/>
+
 --> adds: however, shall NOT be able to answer telephone Calls @Workplace<br/>
 --> reminder: lahat na tayo may antenna to receive unsolicited wireless broadcasting;<br/>
 --> Technology misused to cause NOISE due to <b>NOT Profitable Legally</b><br/>
+<br/>
 --> adds: <b>reflected LIGHT</b> from metal part of Stapler causing <b>Erased Effect</b><br/>
 --> observed: technique misused to cause <b>NOISE</b> on <b>Object Movement</b><br/>
+<img class="newsletterImage" width="30%" height="30%" src="assets/images/newsletter/202203/reflectedLightFromMetalPartOfStaplerCausingErasedEffectNoteAsCautionTechniqueMisusedToCauseNoiseOnObjectMovementEtCetera20220311T1734.jpg"><br/>
+
 </h5>
 
 <table>
