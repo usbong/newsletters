@@ -376,13 +376,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+	<!-- //edited by Mike, 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<!-- //edited by Mike, 20220325
-
-	<base href="http://store.usbong.ph/" target="_blank">
 -->
-
-
+	<base href="http://store.usbong.ph/" target="_blank">
   </head>
 	  <script>
 	  </script>
