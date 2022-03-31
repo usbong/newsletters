@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220325; from 20220324
+  @date updated: 20220331; from 20220325
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -685,7 +685,7 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 		2) remembers: from keyword, <b>トイレ (TOIRE)</b>, <a class="webServiceLink" target="_blank" href="https://www.1101.com/home.html">SHIGESATO ITOI's <b>ほぼ日刊イトイ新聞</b></a> with keyword, <b>イトイ (ITOI)</b>;<br/>
 		<br/>
 		3) shares: <b>PRESIDENT</b> : <b>EXECUTION</b>;<br/> 
-		--> <b>CAN QUICKLY EXECUTE</b> his/herself the person classified to be Manloloko/Teroristang Komunista appearing <b>IN FRONT</b> of self, without need for explanation due to already <b>CLEAR</b> in the <b>LAW</b><br/>
+		--> <b>CAN his/herself QUICKLY EXECUTE</b>, i.e. destroy, the person classified to be Manloloko/Teroristang Komunista appearing <b>IN FRONT</b> of self, without need for explanation due to already <b>CLEAR</b> in the <b>LAW</b><br/>
 		--> <b>recommends:</b> IF explains <b>UNABLE</b> to <b>EXECUTE</b> due to existing <b>LAW</b>, be in <b>SENATE</b> to <b>WRITE UPDATES</b> to speed-up <b>EXECUTION</b>,<br/>
 		--> NOT as <b>EXECUTIVE</b>, e.g. <b>PRESIDENT</b><br/>
 		<br/>
@@ -708,10 +708,42 @@ reminder: <b>SAVED TIME</b> can be used to execute these actions among others:<b
 
 <br/>
 <br/>
---> remembers: Deutschland system of Pension insurance:
+--> remembers: Deutschland System of Pension insurance:
 "The statutory pension insurance is the most important pillar of old-age provisions. Its financing is split: The monthly contributions paid by employees and employers pay the pensions of those currently in retirement. Through their contributions, those insured acquire some rights when they themselves become pensioners. In turn, coming generations provide for these future rents with their contributions (cross-generational contract). In addition, company and private pensions are the second and third pillars of provisions for old age. Under certain conditions these also enjoy government support."
 (Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag)
 
+<h3>3) Continued with Security Defense Force</h3>
+<h4>3.1) Ear, Nose, Throat (ENT) to Chest near Physical Heart</h4>
+<h5>
+--> verify: mouth action (put air in mouth; voice-out "pop")<br/>
+--> chest movement; near physical HEART; ATTACK<br/>
+<br/>
+--> reminder: budol-budol/manloloko/carnapper/cybercriminal/communist terrorist group misuses wireless broadcasting technology by causing Noise Pollution Attacks to get QUICK MONEY;<br/>
+--> observed: attacks executed to those who do NOT obey their gawa-gawang RULES;<br/>
+--> where: example gawa-gawang RULES: do NOT file incident reports with Police;<br/>
+<br/>
+--> verified: Manloloko/Teroristang Komunista group group has been targeting select Unit Members @USBONG HQ, MOSC HQ, SLHCC Unit, St. Vincent General Hospital (SVGH) due to among others:<br/>
+--> has <b>LOST ITEMS</b> classified as <b>SMUGGLED</b> to be exchanged for QUICK MONEY;<br/>
+--> reminder: CAUTION due to Manloloko/Teroristang Komunista group kills humans and even pet animals;<br/>
+<br/>
+
+observed: excess Recorded Noise from Misuse of Harmonica to Intentionally cause Incorrect classification by Dogs and with vehicle status
+		<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202203/excessRecordedNoiseFromMisuseOfHarmonicaToIntentionallyCauseIncorrectClassificationByDogsAndWithVehicleStatusEtCetera20220311T0609.jpg">
+
+
+</h5>
+
+<h4>3.2) shares: reduced Noise via Ear Plugs</h4>
+<h5>
+--> adds: however, shall NOT be able to answer telephone Calls @Workplace<br/>
+--> reminder: lahat na tayo may antenna to receive unsolicited wireless broadcasting;<br/>
+--> Technology misused to cause NOISE due to NOT Profitable Legally<br/>
+--> adds: reflected LIGHT from metal part of Stapler causing Erased Effect<br/>
+--> observed: technique misused to cause NOISE on Object Movement<br/>
+</h5>
+
+<br/>
+<br/>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
 <h4>2.1)<br/>
