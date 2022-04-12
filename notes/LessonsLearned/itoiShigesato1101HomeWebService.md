@@ -49,8 +49,8 @@ Ang pagbasa ng aklat din, pati ang pakikinig sa salaysay ng tao, sa katunuyan, m
 ## 2022-03-26
 https://www.1101.com/home.html; last accessed: 20220326<br/>
 12:26~12:35; ELAPSED TIME: 9MINS<br/>
-2022-04-12T16:43-16:46 <b>EDITOR ELAPSED TIME:</b> 3MINS<br/>
-<b>GRAND TOTAL ELAPSED TIME:</b> 12MINS<br/>
+2022-04-12T16:43-16:47; <b>EDITOR ELAPSED TIME:</b> 4MINS<br/>
+<b>GRAND TOTAL ELAPSED TIME:</b> 13MINS<br/>
 <br/>
 |・みんなラーメンが大好きだし、<br/>
 Lahat din malaki ang pagkahilig sa RAMEN,<br/>
@@ -81,7 +81,7 @@ Kaya naman, tuwing lumalabas ako mula sa tindahan, ang sinasabi kong<br/>
 Bumagsak man, buhatin ang sugat, hindi pa ito katapusan, galingan natin.
 
 ### Dagdag:
-Namasdan ko na hindi naman inaaraw-araw ang pagkain ng RAMEN ng karaniwang taong tulad ko.
+Namasdan kong hindi naman inaaraw-araw ang pagkain ng RAMEN ng karaniwang taong tulad ko.
 
 ## 2022-01-04
 | イケメンだとか、美人だとか、かわいいだとか、<br/>
