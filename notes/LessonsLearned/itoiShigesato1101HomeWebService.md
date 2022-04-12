@@ -4,6 +4,48 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## 2022-04-12
+https://www.1101.com/home.html; last accessed: 20220412<br/>
+1239; 1240~1255; <b>ELAPSED TIME:</b> 16MINS<br/>
+13:41-1349; <b>EDITOR ELAPSED TIME:</b> 9MINS<br/>
+<b>GRAND TOTAL ELAPSED TIME:</b> 25MINS
+
+> 免許を取得するためにも、お金と時間と努力が必要になる。<br/>
+> そんなめんどくさいことをさせるような「商品」は、<br/>
+> いまどきの感覚からしたら「欠陥商品」かもしれない。<br/>
+  
+Upang makakuha ng pahintulot (license), kakailanganin ang pera at panahon at paggawa.<br/>
+Ang ganoong ibinibentang bagay, <br/>
+kung gagawin mula sa kasalukuyang panahon na pakiramdam, maaaring "ibinibentang bagay ito na may kakulangan (defect)".<br/>
+
+> いま、なんでも「すぐわかる」「すぐできる」ものが、<br/>
+> いい商品なのだと思い込まれている。<br/>
+>「人はテキストを3分も読まない」だとか、<br/>
+>「最初に結論を見せて、できるだけ短い映像で伝える」<br/>
+> だとかいうことが、まるで当たり前のように言われる。<br/>
+> なにかにつけて、「あなたはなんにもしなくていい」<br/>
+> ということが「売り」になっている。
+
+Sa kasalukuyan, ang alinmang "agad na mauunawan" "agad na kaya" na bagay,<br/>
+naiisip bilang maayos na produkto.<br/>
+"Ang tao, hindi nagbabasa ng kahit 3minutong salaysay",<br/>
+"Sa simula, ipakita ang buod (pinagsamang talakayan), sa abot ng makakaya, sa maikling larawan ipahiwatig"<br/>
+atbp, ang sinasabing ito, tila sinasabing ganoon kasi talaga ang buhay.<br/>
+Sa anuman idikit, "Kahit wala kang gawin, ayos lang"<br/>
+ang pagsabi nito, nagiging "BENTA".<br/>
+
+> しかし、楽器も、クルマも、操作するのがむつかしい。<br/>
+> むつかしいけれど、それをしたい人が練習する
+
+Gayunpaman, kahit sa mga tugtuging bagay, kahit sa sasakyan, ang pagpakilos ng mga ito mahirap.<br/>
+Mahirap man, nagsasanay ang taong nais gawin iyon.<br/>
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。<br/>
+> 本を読むのも、人の話を聞くのも、実は大仕事だよねー。
+
+Ngayong araw din po, may paggalang na pasalamat sa iyo pong pagdating sa "halos araw (hobonichi)"<br/>
+Ang pagbasa ng aklat din, pati ang pakikinig sa salaysay ng tao, sa katunuyan, malaking hanap-buhay, hindi ba~.
+
 ## 2022-03-26
 https://www.1101.com/home.html; last accessed: 20220326<br/>
 1226~1235; ELAPSED TIME: 9MINS<br/>
