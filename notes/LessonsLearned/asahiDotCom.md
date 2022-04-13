@@ -2,6 +2,13 @@
 <br/>
 TO-DO: -update: this<br/>
 
+## [学校デジタル化で減らした紙と慣習　それでも解けない一番大切な宿題](https://www.asahi.com/articles/ASQ372STRPDWULZU005.html?iref=comtop_ThemeLeftS_03); last accessed: 20220411<br/>
+School with Digital Change, reduced paper and custom; even so, cannot solve MOST Important Homework<br/>
+<br/>
+Additional keyphrase:「教務主任 (Teach Duty Main Task)」<br/>
+<br/>
+reminder: Homework : Gawaing Bahay
+
 ## [米利上げ　日本にも波及　円安・物価高が加速　日銀の対応は？](https://www.asahi.com/articles/ASQ3K4VDTQ3HULFA00S.html?iref=comtop_list_02); last accessed: 20220329<br/>
 Increase in United States Dollar (USD) Value; Wave also reaches Japan; Speed-up of Cheaper Yen・Higher Commodity Price; Japanese Bank's response?<br/> 
 
