@@ -68,6 +68,25 @@ With an "Easy to Understand" appeal, the Administration's thoughtful examination
 <b>reminder:</b> where: thoughtful : think;<br/>
 --> where: think : compute;
 
+### Dagdag
+@PETRON STATION, GIL FERNANDO, BRGY. SAN ROQUE, MARIKINA CITY, PHILIPPINES<br/>
+<br/>
+3-Jan-22\~9-Jan-22<br/>
+Xtra Advance x3.61LITER @55.35pesos<br/>
+Points Awarding: 0.72pesos<br/>
+<br/>
+11-Apr-22\~17-Apr-22<br/>
+Xtra Advance x2.92LITER @68.50pesos<br/>
+Points Awarding: 4.09pesos<br/>
+<br/>
+<b>CHANGE:</b> 13.5pesos (MAX)<br/>
+where: 27.87yen (MAX) @1peso : 2.42yen<br/>
+<br/>
+<b>reminder:</b> PETRON Value Card assists in decreasing fuel COST by 4.81pesos<br/>
+<br/>
+<b>OUTPUT:</b> 13.5-4.81 = 8.69pesos<br/>
+<b>TOTAL CHANGE:</b> 1LITER : 21.0298 (MAX)
+
 ## [学校デジタル化で減らした紙と慣習　それでも解けない一番大切な宿題](https://www.asahi.com/articles/ASQ372STRPDWULZU005.html?iref=comtop_ThemeLeftS_03); last accessed: 20220411<br/>
 School with Digital Change, reduced paper and custom; even so, cannot solve MOST Important Homework<br/>
 <br/>
