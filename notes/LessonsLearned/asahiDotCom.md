@@ -80,12 +80,13 @@ Xtra Advance x2.92LITER @68.50pesos<br/>
 Points Awarding: 4.09pesos<br/>
 <br/>
 <b>CHANGE:</b> 13.5pesos (MAX)<br/>
-where: 27.87yen (MAX) @1peso : 2.42yen<br/>
+where: 27.87yen (MAX)<br/> 
+@1peso : 2.42yen<br/>
 <br/>
-<b>reminder:</b> PETRON Value Card assists in decreasing fuel COST by 4.81pesos<br/>
+<b>reminder:</b> PETRON Value Card assists in decreasing fuel COST by: 4.81pesos<br/>
 <br/>
 <b>OUTPUT:</b> 13.5-4.81 = 8.69pesos<br/>
-<b>TOTAL CHANGE:</b> 1LITER : 21.0298 (MAX)
+<b>TOTAL CHANGE:</b> 1LITER : 21.0298yen (MAX)
 
 ## [学校デジタル化で減らした紙と慣習　それでも解けない一番大切な宿題](https://www.asahi.com/articles/ASQ372STRPDWULZU005.html?iref=comtop_ThemeLeftS_03); last accessed: 20220411<br/>
 School with Digital Change, reduced paper and custom; even so, cannot solve MOST Important Homework<br/>
