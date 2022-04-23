@@ -2,6 +2,22 @@
 <br/>
 TO-DO: -update: this; re-verify: translation SPEED, information organization technique, et cetera<br/>
 
+## [事実上の刑罰、取り返しつかない結果に　元裁判官が語る「人質司法」](https://www.asahi.com/articles/ASQ3H7H4TQ3HUTIL020.html?iref=pc_rensai_short_1475_article_5); last accessed: 20220423<br/>
+> 2022年4月22日 14時00分
+
+> 警察、検察が事件を有罪にするにあたって一番メリットがあるやり方だからです。容疑者は身柄を拘束されたことでつらくなり、自白する。あるいは自白しなくても、証拠隠滅や逃亡の危険がなくなるので、捜査当局にとってはメリットしかないわけです。
+
+Ang Pulis, sa pagsisiyasat (prosecution), upang umamin ang salarin sa kasalanan sa insidente, ang pinakamay MERIT na paraan: <b>Sariling aamin</b>, sapagkat masakit kapag hindi pinalalaya ang katawan (physical restraint). Sa kabila nito, kahit hindi sariling umamin, dahil mawawala ang panganib sa pagtatago o pagwawasak ng patunay (ebidensiya), pagtakas, sa gumagawa ng pagsisiyasat, MERIT din ito.
+
+--
+
+> みずの・ともゆき　法政大法科大学院教授（刑事法）、弁護士。1962年生まれ。88年に裁判官になり、静岡や大阪、東京、千葉の各地裁の判事などを経て、2012年から現職。フジテレビ系ドラマ「イチケイのカラス」では、裁判所監修を担当した。
+
+MIZUNO, TOMOYUKI; Guro (Batas ukol sa Krimen) sa HOUSEI DAIHOUKA DAIGAKUIN (BATAS ADMIN MALAKING BATAS AGHAM MALAKING PAARALAN NG MGA NAGTAPOS (GRADUATE SCHOOL), <b>Mag-aaral ng Tagapagtanggol ng Salita (ABOGADO)</b>. Ipinanganak Taong 1962. Taong 88, naging Taga-husga, gumugol ng panahon sa gawaing Hukom sa mga pook sa SHIZUOKA, OSAKA, TOKYO, CHIBA, atbp, mula Taong 2012, kasalukuyang hanap-buhay. Nanungkulan bilang Supervisor/Editor ng DRAMA na "ICHIKEI no KARASU" ng FUJI-TV.
+
+#### NOTE: Dinagdag ko ang DIIN 
+
+
 ## [（社説）ガソリン補助　価格介入拡充は疑問だ](https://www.asahi.com/articles/DA3S15268786.html?iref=comtop_Opinion_04); last accessed: 20220418<br/>
 > 2022年4月18日 5時00分<br/>
 2022-04-18T05:00<br/>
