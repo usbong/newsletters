@@ -6,7 +6,7 @@ TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
 ## 2022-04-27
 https://www.1101.com/home.html; last accessed: 20220412<br/>
---> emphasis: Editor's VALUE to re-verify quickly translated sentences' grammar structure, signficance, et cetera.
+--> <b>emphasis:</b> Editor's VALUE to re-verify quickly translated sentences' grammar, sentence structure, significance, et cetera.
 
 「法則」Rule (on ACTION)
 
