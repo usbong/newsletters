@@ -4,6 +4,55 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## 2022-04-27
+https://www.1101.com/home.html; last accessed: 20220412<br/>
+--> emphasis: Editor's VALUE to re-verify quickly translated sentences' grammar structure, signficance, et cetera.
+
+「法則」Rule (on ACTION)
+
+> 強い賛成: 20％ +/-
+ 
+Strongly agree: 20％ +/-
+
+> 強い反対: 20％ +/-　
+
+Strongly against: 20％ +/-
+
+> まだ結論がでてない: 60％ +/-
+
+No conclusion yet has come out : 60％ +/-
+
+> 「...賛成の側の勢いが出てきて、25％になり30％になると、
+> 判断を保留していた60％がその流れに加わって、
+> 一気に50％を超えてしまうようなことにもなります」
+> ということを、ぼくに言ってくれたのは、
+> 岩田聡さんだった。
+
+Mr. IWATA, SATORU said to me this: "... When the IMPULSE from the agreeing side comes out, and becomes 25%, 30%, adding in the flow those 60% who were still keeping to their decision, it is also in an instant that it exceeds 50%." 
+
+> やろうとすることを、両極に対してではなく、
+ 
+When attempting to do an ACTION, it is NOT towards the two extremes,
+
+> できるかぎり中間にいる人たちに
+
+as long as possible, the people who are in the MIDDLE,
+
+> わかってもらうことが大事だ
+
+it is vital that they understand.
+
+> 重要なこと:「強い反対の人たちに囚われてはいけない」
+
+Important: "We are not imprisoned by the people who are strongly against (the ACTION)."
+
+> 意見を変えないと決めている人を変えようとしても、
+> それはものすごく困難なことである。
+
+When a person has already decided not to CHANGE his opinion,
+even if we attempt to CHANGE him,
+the ACTION becomes extremely difficult.
+
 ## 2022-04-12
 https://www.1101.com/home.html; last accessed: 20220412<br/>
 1239; 1240~1255; <b>ELAPSED TIME:</b> 16MINS<br/>
