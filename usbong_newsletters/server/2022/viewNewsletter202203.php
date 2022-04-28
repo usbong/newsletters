@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220331; from 20220325
+  @date updated: 20220428; from 20220331
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -787,7 +787,7 @@ Lahat na tayo may Antenna na nakasasagap ng <b>unsolicited wireless broadcasting
 
 	<div class="copyright">
 		<span>
-			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
+			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
 			<a class="webServiceLink" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
 				Creative Commons Attribution License BY 4.0
 			</a>

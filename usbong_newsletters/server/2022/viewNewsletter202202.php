@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220307; from 20220301
+  @date updated: 20220428; from 20220307
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -813,7 +813,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 	<div class="copyright">
 		<span>
-			© SYSON, MICHAEL B. & USBONG. 2011~2021. All rights reserved.<br/>
+			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
 			<a class="webServiceLink" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
 				Creative Commons Attribution License BY 4.0
 			</a>
