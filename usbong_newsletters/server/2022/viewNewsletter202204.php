@@ -523,7 +523,25 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> but <b>CHOOSE</b> to be TOGETHER due to <b>STRONGER</b> via <b>BUILDING OWN FAMILY UNIT</b>;<br/>
 --> observed: in Germany, Small-Medium Enterprises form <b>BACKBONE</b> of ECONOMY<br/>
 --> where: <b>MAJORITY</b> of Small-Medium Enterprises classified to be <b>FAMILY BUSINESSES</b><br/>
---> <b>Reference:</b> Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag
+--> <b>Reference:</b> Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag<br/>
+<br/>
+--> adds: in select <b>FAMILY UNITs</b>, due to increasing variations in use of TIME,<br/>
+--> caused by increasing <b>EXCESS INCOME</b> received,<br/>
+--> <b>BOTH SPOUSES</b> forget <b>VALUE</b> of being <b>TOGETHER</b>;<br/>
+--> where: <b>EACH</b> opts self is already sufficiently <b>STRONG individually</b>.<br/>
+--> <b>OUTPUT:</b> Increase of <b>PROBLEMS</b> within <b>FAMILY UNIT</b> and its <b>social network</b><br/>
+<br/>
+--> <b>EXAMPLE#1:</b> Continuous <b>INDIRECT COMMUNICATION</b> of SPOUSES via the CHILDREN<br/> 
+--> <b>EXAMPLE#2:</b> <b>NEGATIVE EMOTION</b> caused by among others:<br/> 
+--> <b>ENVY of OTHERS</b>, <b>LESS PHYSICAL ACTIVITY</b><br/> 
+--> as with continuous viewing of <b>NEWSFEEDS</b> via <b>social media</b>, e.g. Facebook<br/>
+<br/>
+--> remembers: <b>HISTORY of EAST and WEST Germany</b><br/>
+--> where: in <b>EAST Germany</b>, people began to use <b>INDIRECT COMMUNICATION</b><br/>
+--> due to <b>POLICE</b> may <b>ARREST</b> those who were against the <b>SYSTEM</b><br/> 
+--> where: <b>SYSTEM</b> : <b>PUBLIC sharing</b> of items/services, despite <b>UNCLEAR contribution</b> of <b>ALL members</b><br/>
+--> <b>OUTPUT</b>: <b>WEST Germany</b> became <b>WEALTHIER</b> than the EAST due to <b>SYSTEM efficiency</b>,<br/>
+--> caused by: <b>DIRECT COMMUNICATION</b> with <b>SUPPORT</b> from <b>FACTS</b>.<br/>
 <br/>
 <br/>
 <br/>
