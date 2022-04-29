@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220428; from 20220331
+  @date updated: 20220430; from 20220428
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -509,7 +509,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> reminder: There exists a <b>CORRECT LOGICAL</b> answer to a <b>LOGICAL</b> question;<br/>
 --> where: <b>NOT LOGICAL</b> : <b>UNCLEAR/MALABO</b> due to among others: <b>CANNOT be identified/classified</b><br/>
 <br/>
---> observed: from <b>FORBES (ASIA) Magazine</b>, <b>LIST</b> of Wealthiest in the United States of America (U.S.A.)<br/> 
+--> observed: from <b>FORBES (ASIA) Magazine (November 2017)</b>,<br/> 
+--> <b>LIST of Wealthiest</b> in the United States of America (U.S.A.)<br/> 
 --> in the TOP 10, <b>MAJORITY</b> of people classified to be in the <b>COMPUTER SERVICES</b> Industry<br/>
 <br/>
 --> shared: with current USBONG Trainee: <b>INCOME</b> mainly comes from Maparaang Pagbibilang;<br/>
