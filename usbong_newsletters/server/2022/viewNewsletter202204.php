@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220430; from 20220428
+  @date updated: 20220502; from 20220428
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -509,8 +509,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> reminder: There exists a <b>CORRECT LOGICAL</b> answer to a <b>LOGICAL</b> question;<br/>
 --> where: <b>NOT LOGICAL</b> : <b>UNCLEAR/MALABO</b> due to among others: <b>CANNOT be identified/classified</b><br/>
 <br/>
---> observed: from <b>FORBES (ASIA) Magazine (November 2017)</b>,<br/> 
---> <b>LIST of Wealthiest</b> in the United States of America (U.S.A.)<br/> 
+--> observed: from <b>FORBES (ASIA) Magazine</b>, <b>LIST</b> of Wealthiest in the United States of America (U.S.A.)<br/> 
 --> in the TOP 10, <b>MAJORITY</b> of people classified to be in the <b>COMPUTER SERVICES</b> Industry<br/>
 <br/>
 --> shared: with current USBONG Trainee: <b>INCOME</b> mainly comes from Maparaang Pagbibilang;<br/>
@@ -544,6 +543,26 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> <b>OUTPUT</b>: <b>WEST Germany</b> became <b>WEALTHIER</b> than the EAST due to <b>SYSTEM efficiency</b>,<br/>
 --> caused by: <b>DIRECT COMMUNICATION</b> with <b>SUPPORT</b> from <b>FACTS</b>.<br/>
 <br/>
+
+1.1.2) received: <a class="webServiceLink" target="_blank" href="https://www.usbong.ph/contact">USBONG JOB/Trainee applicants</a><br/>
+--> requested: to answer <a class="webServiceLink" target="_blank" href="https://github.com/usbong/documentation/tree/master/Usbong/company/HR/Usbong%20Education%20Training%20Courses/Introduction%20to%20Maparaang%20Pagbibilang">Maparaang Pagbibilang Questions:</a><br/>
+
+--> <b>TOPIC:</b><br/> 
+--> Q.1) ALGEBRA<br/> 
+--> Q.2) COORDINATE SYSTEM<br/>
+--> Q.3) 2D SHAPES<br/>
+--> Q.4) 3D SHAPES<br/>
+--> Q.5) TRIGONOMETRY<br/>
+<br/>
+--> reminder: Middle~High School Level<br/>
+--> focused: on practical application as applied in Computer Automation<br/>
+--> Example#1 (COORDINATE SYSTEM): Correct <b>IDENTIFICATION</b> of <b>POSITION</b><br/> 
+--> in <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ww/microsoft-365/excel">Microsoft Office EXCEL Spreadsheet Tool</a><br/>
+--> Example#2 (3D SHAPES): <b>INK Cartridge Replacement</b> of <a class="webServiceLink" target="_blank" href="https://support.hp.com/ph-en/document/c02227508">Hewlett Packard (HP) Printer</a><br/>
+<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202204/exampleFromSupportHPDotComSlideInkCartridgeIntoSlotc02232542.gif">	
+
+
+</h5>
 <br/>
 <br/>
 TO-DO: -update: this<br/>
