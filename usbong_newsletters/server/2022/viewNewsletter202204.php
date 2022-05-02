@@ -560,6 +560,66 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> in <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ww/microsoft-365/excel">Microsoft Office EXCEL Spreadsheet Tool</a><br/>
 --> Example#2 (3D SHAPES): <b>INK Cartridge Replacement</b> of <a class="webServiceLink" target="_blank" href="https://support.hp.com/ph-en/document/c02227508">Hewlett Packard (HP) Printer</a><br/>
 <img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202204/exampleFromSupportHPDotComSlideInkCartridgeIntoSlotc02232542.gif">	
+<br/>
+<br/>
+--> shared: know-how in nihongo<br/>
+<br/>
+<table class="noteTable">
+	<tr>
+		<td>
+		<b>OBJECTIVE</b><br/>
+		</td>
+	</tr>	
+	<tr>
+		<td>
+		to create ORDER from the CHAOS of disorganized THOUGHTS and IDEAS<br/>
+		i.e.: SCIENCE (理系（りけい）、科学（かがく）)<br/>
+		science keyphrase: CORRECT, identification, classification<br/>
+		<br/>
+		where: MANLOLOKO/budol-budol/carnapper/smuggler/<br/>
+		cybercriminal/Teroristang Komunista group causes CHAOS<br/>		
+		<br/>
+		<b>reminder:</b> Increase in Teroristang Komunista : Speed-up of <b>SOCIAL CANCER</b><br/>
+		</td>	
+	</tr>	
+</table>
+<br/>
+<table class="noteTable">
+	<tr>
+		<td>
+		<b>REQUEST</b><br/>
+		</td>
+	</tr>	
+	<tr>
+		<td>
+		purpose: NOT to achieve fame, neither is it to boast; A single-minded enthusiasm with no expectation of material reward, is vital.<br/>
+		<br/>
+		world goals and ambitions:<br/>
+		<br/>
+		<b>Examples:</b><br/>
+		to fight people<br/>
+		for vanity<br/>
+		to humiliate people<br/>
+		to enhance reputation<br/>
+		for financial gain<br/>
+		</td>	
+	</tr>	
+	<tr>
+		<td>
+		<br/>
+		<b>Reference:</b><br/>
+		<a class="webServiceLink" target="_blank" href="https://www.amazon.com/Kendo-Definitive-Guide-Hiroshi-Ozawa/dp/4770021194">Ozawa, Hiroshi. (1997). "Kendo: the definitive guide (translated by Angela Turzynski)". Tokyo: Kodansha International, Ltd.</a><br/>
+		</td>
+	</tr>	
+</table>
+
+<br/>
+<br/>
+Computer Software Tools<br/>
+<br/>
+https://www.audacityteam.org/; last accessed: 20220427<br/>
+--> Multi-track audio editor and recorder<br/>
+
 
 
 </h5>
