@@ -5,6 +5,7 @@
 --> MONTH OF MARCH</b><br/>
 <br/>
 <b>Previous Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202202.php<br/>
+<b>Next Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202204.php (DRAFT)<br/>
 <br/>
 <b>Printed version</b> shared @the following <b>barangays</b> among others:<br/>
 --> Marikina City: Sto. Niño, Sta. Elena, San Roque, Marikina Heights<br/>
@@ -14,7 +15,12 @@
 <br/>
 <a href="http://search.usbong.ph" target="_blank">
 <img src="https://github.com/usbong/newsletters/blob/main/res/usbongSearchEngineKeyphraseDempaV20211017T0954.jpg" width="90%">
-</a>
+</a><br/>
+<br/>
+### EXAMPLE REUSABLE PARTS
+<b>Usbong VIDEO Page:</b> http://store.usbong.ph/server/videos/viewVideo.php<br/>
+<br/>
+<b>Usbong AUDIO Page:</b> http://store.usbong.ph/server/audio/viewAudio.php<br/>
 
 ## 0. Example Newsletters
 https://github.com/usbong/newsletters/blob/main/README-ExampleNewsletters.md
