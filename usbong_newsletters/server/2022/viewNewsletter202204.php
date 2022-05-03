@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220502; from 20220428
+  @date updated: 20220503; from 20220502
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -556,13 +556,18 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <br/>
 --> reminder: Middle~High School Level<br/>
 --> focused: on practical application as applied in Computer Automation<br/>
---> Example#1 (COORDINATE SYSTEM): Correct <b>IDENTIFICATION</b> of <b>POSITION</b><br/> 
---> in <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ww/microsoft-365/excel">Microsoft Office EXCEL Spreadsheet Tool</a><br/>
+--> Example#1 (COORDINATE SYSTEM): Correct <b>IDENTIFICATION</b> of <b>ROW&COLUMN POSITIONS</b><br/> 
+--> in Spreadsheet Tool, e.g. <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ww/microsoft-365/excel">Microsoft Office EXCEL</a>, <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice CALC</a>;<br/>
+<br/>
+<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/financeCompoundNotesV20220215.png">	
+<br/>
+<br/>
 --> Example#2 (3D SHAPES): <b>INK Cartridge Replacement</b> of <a class="webServiceLink" target="_blank" href="https://support.hp.com/ph-en/document/c02227508">Hewlett Packard (HP) Printer</a><br/>
+<br/>
 <img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202204/exampleFromSupportHPDotComSlideInkCartridgeIntoSlotc02232542.gif">	
 <br/>
 <br/>
---> shared: know-how in nihongo<br/>
+--> shared: know-how in 日本語 (にほんご; nihongo)<br/>
 <br/>
 <table class="noteTable">
 	<tr>
