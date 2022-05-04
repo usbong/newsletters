@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220503; from 20220502
+  @date updated: 20220504; from 20220503
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -568,6 +568,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <br/>
 <br/>
 --> shared: know-how in 日本語 (にほんご; nihongo)<br/>
+--> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/school/">https://github.com/usbong/school/
+</a><br/>
 <br/>
 <table class="noteTable">
 	<tr>
@@ -617,16 +619,60 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		</td>
 	</tr>	
 </table>
+<br/>
+<table class="noteTable">
+	<tr>
+		<td>
+		<h2><b>日本語 (にほんご; nihongo)</b></h2>
 
+		<b>Example Recordings: Training Sessions</b><br/>
+		<a class="webServiceLink" target="_blank" href="http://store.usbong.ph/server/audio/viewAudio.php">http://store.usbong.ph/server/audio/viewAudio.php
+		</a>
+		<br/>
+		<br/>
+		<b>DOWNLOADABLES</b><br/>
+    1) What is <b>とか</b>?<br/>
+    <b>keyphrase:</b> とか, Radio, Speaker, Mic, Karaoke<br/>
 <br/>
+    2) What is <b>つぶし</b>?<br/>
+    <b>keyphrase:</b> SOCIAL MEDIA, 時間 (jikan), つぶし(tsubushi)<br/>
 <br/>
-Computer Software Tools<br/>
+    3) What is <b>スタックオーバーフロー</b>?<br/>
+    <b>keyphrase:</b> DISCORD, スタックオーバーフロー (stackoverflow), LOGICAL Q&A, reddit, Facebook (FB)<br/>
+    		</td>	
+	</tr>	
+	<tr>
+		<td>
 <br/>
-https://www.audacityteam.org/; last accessed: 20220427<br/>
+		<b>COMPUTER SOFTWARE TOOLS</b><br/>
+<a class="webServiceLink" target="_blank" href="https://www.audacityteam.org/">https://www.audacityteam.org/</a>
+; last accessed: 20220427<br/>
 --> Multi-track audio editor and recorder<br/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+<h2><b>Recommended Listening Practice</b></h2>
+<h3><b>Minna no Nihongo I 2nd Edition CD</b></h3>
+<a class="webServiceLink" target="_blank" href="https://archive.org/details/65-dai-18-ka-mondai-2">https://archive.org/details/65-dai-18-ka-mondai-2
+</a>;<br/>
+last accessed: 20220420
+<h3><b>Technique Notes</b></h3>
+    <b>Use:</b> example conversations, instead of individual words;<br/>
+    <b>Listen:</b> repeatedly until CAN remember the next conversation in the audio sequence<br/>
+    <br/>
+    <b>Additional Note:</b><br/> 
+    1) as with children, you shall be able to identify individual words that you repeatedly hear, if NOT yet the whole sentence<br/>
+    <b>use:</b> dictionary to learn the significance of those individual words that you repeatedly hear;<br/>
+    <b>reminder:</b> You may still be able to understand the significance of the whole sentence,<br/>
+    even without yet knowing ALL the individual words<br/>
 
-
-
+	<h3><b>Output</b></h3>
+    High School Level nihongo (Japanese Language Proficiency Level (JLPT) N1)<br/>
+    --> Learning Time (Estimated): 5years		
+    	</td>	
+	</tr>	
+</table>
 </h5>
 <br/>
 <br/>
