@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220102
-  @date updated: 20220503; from 20220103
+  @date updated: 20220509; from 20220503
   @website address: http://www.usbong.ph
     
   Input:
@@ -380,11 +380,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
 <!-- //edited by Mike, 20220102
-	<base href="http://store.usbong.ph/" target="_blank">
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
-
+	<base href="http://store.usbong.ph/" target="_blank">
   </head>
 	  <script>
 	  </script>
@@ -491,11 +490,43 @@
 		</video><br/>	
 -->
 		<br/>	
-		What is <b>つぶし</b>?<br/>
-		<b>keyphrase:</b> SOCIAL MEDIA, 時間(jikan), つぶし（tsubushi）<br/>
+		1) What is <b>とか</b>?<br/>
+		<b>keyphrase:</b> とか, Radio, Speaker, Mic, Karaoke<br/>
+		<br/>		
+		<audio width="416" height="312" controls>
+		  <source src="assets/audio/tokaRadioSpeakerMicKaraoke220422T1431.mp3" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio><br/>
+		<br/>	
+		2) What is <b>つぶし</b>?<br/>
+		<b>keyphrase:</b> SOCIAL MEDIA, 時間 (jikan), つぶし(tsubushi)<br/>
 		<br/>
 		<audio width="416" height="312" controls>
 		  <source src="assets/audio/socialMediaJikanTsubushi20220425.mp3" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio><br/>	
+		<br/>	
+		3) What is <b>スタックオーバーフロー</b>?<br/>
+		<b>keyphrase:</b> DISCORD, スタックオーバーフロー (stackoverflow), LOGICAL Q&A,<br/> 
+		reddit, Facebook (FB)<br/>
+		<br/>
+		<audio width="416" height="312" controls>
+		  <source src="assets/audio/discordStackOverflowLogicalQAndAFB20220425.mp3" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio><br/>	
+		4) What is <b>曖昧 （あいまい）</b>?<br/>
+		<b>keyphrase:</b> 家 (いえ、うち), 内 (うち), いえ (NO), 発音 (PRONUNCIATION),<br/> 
+		曖昧 (あいまい), 明らか, 説明 (せつめい)<br/>
+		<br/>
+		<audio width="416" height="312" controls>
+		  <source src="assets/audio/ieUchiAimaiAkirakaSetsumei20220427.mp3" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio><br/>	
+		5) What is <b>噂 （うわさ；GOSSIP)</b>?<br/>
+		<b>keyphrase:</b> 噂 (うわさ；GOSSIP), 良くない気持ち<br/>
+		<br/>		
+		<audio width="416" height="312" controls>
+		  <source src="assets/audio/uwasaGossip20220427.mp3" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio><br/>	
 	</div>
