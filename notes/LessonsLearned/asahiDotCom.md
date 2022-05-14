@@ -2,6 +2,62 @@
 <br/>
 TO-DO: -update: this; re-verify: translation SPEED, information organization technique, et cetera<br/>
 
+
+
+## PART 2/2: [「ゼロ円、ずっとは困る」三木谷社長　携帯プラン、赤字続きで廃止に](https://www.asahi.com/articles/ASQ5F6R69Q5FULFA01S.html?iref=comtop_Topnews2_01); last accessed: 20220514
+
+> 有料会員記事
+> 女屋泰之、鈴木康朗2022年5月13日 21時14分
+>
+> 楽天モバイルは13日、「月額ゼロ円」プランの廃止を表明した。2020年4月に新規参入したが赤字が続いていた。収益力を高め、23年中に単月での営業損益の黒字化をめざす。
+>
+>    楽天モバイル、「ゼロ円プラン」廃止へ　新料金は月額1078円から
+>
+>　「ゼロ円でずっと使われても困っちゃうのがぶっちゃけな話。正直に言って」
+>
+>　楽天グループの三木谷浩史会長兼社長は、この日あった決算の説明会で本音を語った。データ通信の利用が1ギガバイト（GB）以下なら、これまで料金はかからなかった。
+>
+>　楽天グループの22年1～3…
+>
+> この記事は有料会員記事です。残り440文字有料会員になると続きをお読みいただけます。
+
+--> keyphrase: publication time; LINKED news article<br/>
+--> RAKUTEN MOBILE; ZERO yen PLAN (< 1GB data transfer usage) -> 1078yen/month;<br/>
+--> after computation, NOT profitable;<br/>
+
+### 今すぐ登録（1カ月間無料）ログインする
+
+LOGIN NOW, 1month GRATIS registration NOW;<br/>
+<br/>
+keyphrase: 朝日新聞 (DIGITAL; asahi shimbun digital)
+
+
+## PART 1/2: [楽天モバイル、「ゼロ円プラン」廃止へ　新料金は月額1078円から](https://www.asahi.com/articles/ASQ5F41K2Q5FULFA00N.html?iref=pc_extlink); last accessed: 20220514
+
+> 有料会員記事
+> 杉山歩2022年5月13日 12時14分
+>
+> 楽天モバイルは13日、料金プランを7月1日から改定し、「月額ゼロ円」のプランをなくすと発表した。現状はデータ通信1ギガバイト（GB）までは月額ゼロ円だが、改定後は0～3GB以下を1078円（税込み）とする。これまでゼロ円で利用者数を拡大してきたが、戦略を転換する。
+>
+>　新たなプランは0～3GB以下が1078円、3～20GB以下は2178円となる。20GBを超えた場合は、これまで通りどれだけ使っても3278円とする。現在契約している人は、7月から自動で新しいプランに切り替わるという。携帯の契約者には、グループのECサイト「楽天市場」での買い物などにポイントをより多くつけるキャンペーンを実施するなど、他サービスとの相乗効果を高めていく。
+>
+>　楽天は2020年4月に新規…
+>
+> この記事は有料会員記事です。残り149文字有料会員になると続きをお読みいただけます。
+
+--> keyphrase: publication time; LINKED news article<br/>
+--> RAKUTEN MOBILE;<br/>
+ZERO yen PLAN (< 1GB data transfer usage);<br/> 
+1078yen/month (0\~3GB data transfer usage);<br/>
+2178yen/month (3\~20GB data transfer usage);<br/>
+3278yen/month (>20GB data transfer usage);<br/>
+
+## [https://www.asahi.com/corporate/privacypolicy/13019112/?iref=comtop_cmp](https://www.asahi.com/corporate/privacypolicy/13019112/?iref=comtop_cmp); last accessed: 20220510
+
+> 当社ウェブサイトでは、お客様の体験の向上、サイト使用状況の分析、お客様の興味・関心にマッチした広告の配信といった目的で、クッキーを使用しています。詳しくは「アクセスデータの利用について」をご覧ください。
+
+<b>keyphrase:</b> クッキー (COOKIE) to match publications/announcements/advertisements to guests' interests
+
 ## [事実上の刑罰、取り返しつかない結果に　元裁判官が語る「人質司法」](https://www.asahi.com/articles/ASQ3H7H4TQ3HUTIL020.html?iref=pc_rensai_short_1475_article_5); last accessed: 20220423<br/>
 > 2022年4月22日 14時00分
 
