@@ -23,7 +23,7 @@ TO-DO: -update: this; re-verify: translation SPEED, information organization tec
 
 --> keyphrase: publication time; LINKED news article<br/>
 --> RAKUTEN MOBILE; ZERO yen PLAN (< 1GB data transfer usage) -> 1078yen/month;<br/>
---> after computation, NOT profitable;<br/>
+--> after computation, ZERO yen PLAN NOT profitable;<br/>
 
 ### 今すぐ登録（1カ月間無料）ログインする
 
