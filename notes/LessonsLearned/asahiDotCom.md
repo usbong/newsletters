@@ -3,6 +3,43 @@
 TO-DO: -update: this; re-verify: translation SPEED, information organization technique, et cetera<br/>
 
 
+### note: KEYPHRASE technique as with TELEGRAM/SMS (SHORT MESSAGING SERVICE) MESSAGE
+## [半導体工場、国内で巨額投資続々　政府は経済安保観点からも支援](https://www.asahi.com/articles/ASQ5H73RVQ5FULFA01V.html?iref=comtop_7_01); last accessed: 20220516
+
+> 有料会員記事
+> 
+> 土居新平2022年5月16日 5時00分
+>
+> スマートフォンや家電、自動車などあらゆる製品に使われる半導体は世界的に不足しており、争奪戦が激しい。 企業は巨額の投資をし、政府は経済安全保障の観点からも補助金を出して、生産力を高めようとしている。
+>
+> 東芝が約4割の株式を持つ半導体大手のキオクシアホールディングスは、北上工場（岩手県北上市）に新たな製造棟を建てる。建屋面積は約3万1千平方メートル。総事業費は1兆円規模とされ来春にも完成する。生産するのはスマホなどに使う記憶用半導体「NAND（ナンド）型フラッシュメモリー」だ。
+>
+> キオクシアは世界最大級のメモリー工場である四日市工場（三重県四日市市）で新たな製造棟を4月に完成させた。秋にも稼働する。こちらも総事業費は1兆円規模。北上工場の分を合わせ、米半導体大手のウエスタンデジタル（WD）と共同で負担する見通しだ。
+> 
+>政府は半導体産業を支援する…
+>
+> この記事は有料会員記事です。残り930文字有料会員になると続きをお読みいただけます。
+
+keyphrase: 半導体工場 (half guided body engineering area; TRANSISTOR FACTORY) in JAPAN;<br/>
+--> TOSHIBA; IWATE PREFECTURE; MIE PREFERECTURE; MEMORY 
+
+## [（社説）ゲノム情報　差別防ぐルール作りを](https://www.asahi.com/articles/DA3S15294699.html?iref=comtop_Opinion_03); last accessed: 20220516
+> 2022年5月16日 5時00分
+>
+> ３年前に作られた「全ゲノム解析等実行計画」に基づき、がんと難病の患者を対象に、ＤＮＡの遺伝情報（ゲノム）を網羅的に解析する作業が進む。
+>
+> ...保険や雇用分野での差別的な取り扱いを、法律で明確に禁じている国もある。
+>
+>　ところが日本にはそうした規定はない。わずかに個人情報保護法によって、ゲノム情報の取得にあたっては本人の同意が必要とされているくらいだ。
+>
+> 海外の例も参考にしながら具体的な検討を行う場を速やかに設けるよう求める。
+>
+>　ゲノム医療のあり方について人々の考えや意識を探る調査を継続して行い、ていねいな説明を通じて、社会の合意形成を図ることも必要だ。
+
+keyphrase: GENOME INFORMATION;<br/>
+--> AGREEMENT to obtain INFO in JAPAN;<br/> 
+--> IN INSURANCE, EMPLOYMENT FIELDS DISCRIMINATION TREATMENT, NOT YET IN JAPAN,<br/>
+--> CLEARLY PROHIBITED IN LAW @SELECT COUNTRIES<br/>
 
 ## PART 2/2: [「ゼロ円、ずっとは困る」三木谷社長　携帯プラン、赤字続きで廃止に](https://www.asahi.com/articles/ASQ5F6R69Q5FULFA01S.html?iref=comtop_Topnews2_01); last accessed: 20220514
 
