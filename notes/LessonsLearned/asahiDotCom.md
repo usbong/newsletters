@@ -1,7 +1,39 @@
 # Lessons-learned: asahi.com　(朝日新聞　DIGITAL; asahi shimbun digital)
 <br/>
 TO-DO: -update: this; re-verify: translation SPEED, information organization technique, et cetera<br/>
+TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
+### observed: problems in JAPANESE SOCIETY due to among others: young people executing CHAOTIC behavior, people with NO WORK, senior people with errors in MONEY; 
+### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
+--> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
+
+## [4630万円振り込まれた男逮捕　誤りと知りつつ別口座に移した疑い](https://www.asahi.com/articles/ASQ5L7J4FQ5LTIPE02S.html?iref=comtop_7_03); last accessed: 20220519
+4630*10,000 (46,300,000) received payment by MALE, arrested;<br/>
+WRONG/ERROR and with KNOWLEDGE, transfered to another ACCOUNT, SUSPECTED<br/>
+
+> 有料会員記事
+> 大藤道矢2022年5月18日 23時17分
+
+> 山口県阿武町が新型コロナウイルスに関する臨時特別給付金をめぐり、4630万円を誤送金した問題で、県警は18日、自分の銀行口座に誤った入金があったことを知りながら別口座に振り替えたとして、同町福田下の無職田口翔容疑者（24）を電子計算機使用詐欺容疑で逮捕し、発表した。容疑を認めているという。
+>
+>　県警によると、田口容疑者は4月12日、自分名義の口座に阿武町が入金した4630万円が誤りによるものだと知りながら、スマートフォンを操作して、オンライン決済で決済代行業者の口座に400万円を振り替えた疑いがある。
+
+using SMARTPHONE, via ONLINE SETTEMENT, transferred payment of 400*10,000 (4,000,000) yen to SETTLEMENT AGENCY ACCOUNT<br/>
+<br/>
+操作 : CONTROL/USE of DEVICE<br/>
+
+>　町によると、4月8日、誤っ…
+
+### keyphrase:
+--> headline; space as new line;<br/>
+--> 電子計算機使用詐欺容疑で逮捕<br/>
+DUE TO ELECTRONIC CALCULATOR DEVICE USED FOR FRAUD SUSPECTED, ARRESTED<br/>
+--> 無職田口翔容疑者（24）<br/>
+NO WORK Taguchi Shou SUSPECT (24YRS OLD)<br/>
+
+### REFERENCE (GOOGLE TRANSLATE TOOL to QUICKLY know pronunciation of JAPANESE NAME):
+https://www.google.com/search?client=firefox-b-d&q=google+translate;<br/>
+last accessed: 20220519
 
 ### note: KEYPHRASE technique as with TELEGRAM/SMS (SHORT MESSAGING SERVICE) MESSAGE
 ## [半導体工場、国内で巨額投資続々　政府は経済安保観点からも支援](https://www.asahi.com/articles/ASQ5H73RVQ5FULFA01V.html?iref=comtop_7_01); last accessed: 20220516
