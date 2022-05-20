@@ -7,6 +7,62 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [「手が届くEV」を　過去の教訓生かし日産、三菱自が求めたバランス](https://www.asahi.com/articles/ASQ5N61ZMQ5KULFA01V.html?iref=comtop_7_07); last accessed: 20220521
+
+> 有料会員記事
+> 神山純一、千葉卓朗、福田直之2022年5月20日 21時00分
+>
+> 【動画】日産自動車と三菱自動車が共同開発した「eKクロスEV」=藤原伸雄撮影
+> 写真・図版
+> 三菱自動車の新型軽の電気自動車「eKクロスEV」=2022年4月21日午後3時30分、静岡県裾野市、藤原伸雄撮影
+>
+>    写真・図版写真・図版
+>
+> [PR]
+>
+>　日産自動車と三菱自動車が、軽自動車の電気自動車（EV）を今夏発売する。両社はかつてEVで先行したが、高価で売れ行きが伸びなかった教訓から、補助金込みで100万円台半ばとガソリン車並みの価格を打ち出した。「手が届くEV」の登場は、日本のEVシフトを加速させられるのか。
+>
+>    日産と三菱自、「100万円台」軽EVを今夏発売　EV普及後押し
+>
+>　今回のEVは車のサイズや航続距離といった基本構造が同じだ。ガソリン車の車台を改造し、日産のEV「リーフ」で使ってきた車載電池を中国系電池メーカー、エンビジョンAESCから調達した。両社のブランドで売る車を大量生産して、開発費や部品の調達費用などのコストを抑える。
+>
+>　日産と三菱自は国内EVのパイオニアだ。三菱自は2009年に軽のEV「アイミーブ」を、日産は10年に普通車のEV「リーフ」を発売した。当時、日本はEV先進国だったが、それから10年以上たっても市場は拡大していない。
+>
+>　アイミーブは累計販売2万4…
+>
+> この記事は有料会員記事です。残り1270文字有料会員になると続きをお読みいただけます。
+
+### References:
+1) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E;<br/>
+last accessed: 20220521
+
+> 半ば(P); 中ば(iK) 【なかば】 (n,n-suf) (1) middle; halfway; midway; (n) (2) half (of); one half; (adv) (3) half (e.g. done, jokingly); partly; in part; partially; (adv) (4) mostly; almost; nearly; (P) [Links]
+>     (1) 彼女は４０代半ばで再婚した。 She married again in her mid-forties.[Amend] 
+
+2) https://www.meti.go.jp/policy/mono_info_service/mono/automobile/cev/cevr3/cevinfrastructure.html;<br/>
+last accessed: 20220521<br/>
+
+> 【共通の補助要件】<br/>
+>　 ①補助対象者<br/>
+>
+> 対象車を購入する個人、法人、地方公共団体等<br/>
+>　  ※1.初度登録で、自家用の車両に限ります。<br/>
+>　  ※2.令和3年度当初事業を含め、国が実施する他の補助金と重複して補助金交付申請をすることはできません。<br/>
+>　    また、地方公共団体による補助金制度とは重複して申請できます。<br/>
+>　  ※3.リース契約についても申請可能となりますが、令和3年度当初事業同様、所有者であるリース会社が行い、<br/>
+>　    補助金もリース会社に交付される予定です。ただし、補助金相当額が車両のリース料金を支払う使用者の月々の<br/>
+>　　    リース料金に還元されることが条件となり、関連書類も申請時に提出いただく予定です。<br/>
+> 
+>   ②補助対象となる車両の登録/届出日<br/>
+>
+>　 令和3年11月26日以降に新車新規登録（登録車）又は新車新規検査届出（軽自動車）された自動車 
+
+### Paalala:
+1) Basahin habang inuunawa; sa halip na basahin nang hindi inuunawa<br/>
+2) Sanayin (Simulang Nibel): Magbasa habang binibigkas nang malakas<br/>
+3) Sanayin (Sunod na Nibel): Magbasa nang tahimik;
+
+
 ## [娘が痴漢被害、父が電車に同乗して容疑者を確認　逮捕につながる](https://www.asahi.com/articles/ASQ5M5VXQQ5MULOB00Y.html?iref=comtop_Topnews2_04); last accessed: 20220520
 > 有料会員記事
 > 土居恭子2022年5月19日 18時24分
