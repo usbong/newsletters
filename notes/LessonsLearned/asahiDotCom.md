@@ -7,6 +7,48 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [娘が痴漢被害、父が電車に同乗して容疑者を確認　逮捕につながる](https://www.asahi.com/articles/ASQ5M5VXQQ5MULOB00Y.html?iref=comtop_Topnews2_04); last accessed: 20220520
+> 有料会員記事
+> 土居恭子2022年5月19日 18時24分
+>
+> 電車内で女子高校生の下半身を触ったとして、神奈川県警は18日、川崎市中原区上小田中3丁目の会社員、永縄淳一容疑者（46）を強制わいせつ容疑で逮捕し、発表した。容疑を認めているという。被害にあった後、女子高校生の父親が電車に同乗したことが容疑者逮捕につながった。
+>
+>　多摩署によると、永縄容疑者は9日午前8時ごろから約10分間、JR南武線の車内で女子高校生の下半身を触った疑いがある。
+>
+>　女子高校生はその日のうちに家族に被害を相談。電車の乗り場を変えたり、時間をずらしたりする対応を話し合ったという。11日には娘を守るために父親が朝の通学時に電車に同乗したという。
+>
+>　父親は乗車中、近くにいた娘からスマートフォンのチャットで「いたよ」と連絡を受け、永縄容疑者とみられる人物を確認した。その日は女子高校生へのわいせつ行為はなかったが、その後、同署に9日の被害を申告し、今回の逮捕につながったという。
+>
+>　多摩署の筧貴弘副署長は「も…
+>
+> この記事は有料会員記事です。残り143文字有料会員になると続きをお読みいただけます。
+>
+> 神奈川県警本部=横浜市中区海岸通2丁目
+ 
+### keyphrase: 
+痴漢 (CHIKAN; TOUCHED LOWER PART OF BODY; FEMALE HIGHSCHOOL STUDENT) @TRAIN
+
+#### 2022-05-09 INCIDENT
+--> CONSULTED WITH FAMILY REGARDING "RECEIVED DAMAGE" (ATTACK),<br/>
+--> CHANGED of TRAIN RIDING PLACE, VARIATION IN (RIDING) TIME;<br/>
+
+#### 2022-05-11 
+--> FATHER RODE SAME TRAIN WITH DAUGHTER TO IDENTIFY SUSPECT, 永縄淳一 (Naganawa Jun'ichi; 46YRS OLD) <br/>
+--> NO PORNOGRAPHY ACTION TO THE FEMALE HIGH SCHOOL STUDENT ON THAT DAY;<br/>
+
+#### 2022-05-18
+--> CONNECTING TO SUSPECT'S ARREST<br/>
+--> DUE TO SUSPICION OF FORCED PORNOGRAPHY BY KANAGAWA-PREFECTURE POLICE ON 2022-05-18;<br/>
+
+### Additional Notes
+--> 神奈川県 (KANAGAWA PREFECTURE), 川崎市 (KAWASAKI CITY) 中原区 (NAKAHARA DISTRICT);<br/>
+--> GOOGLE TRANSLATE TOOL TO ASSIST IN IDENTIFYING JAPANESE NAME PRONUNCIATION
+
+### Reminders
+--> <b>reminder#1:</b> wireless electric wave by Manloloko/budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista group to cause physical stimulation;<br/>
+--> <b>reminder#2:</b> text -> sound -> photograph -> video -> physical meet-up<br/>
+
+
 ## [4630万円振り込まれた男逮捕　誤りと知りつつ別口座に移した疑い](https://www.asahi.com/articles/ASQ5L7J4FQ5LTIPE02S.html?iref=comtop_7_03); last accessed: 20220519
 4630*10,000 (46,300,000) received payment by MALE, arrested;<br/>
 WRONG/ERROR and with KNOWLEDGE, transfered to another ACCOUNT, SUSPECTED<br/>
