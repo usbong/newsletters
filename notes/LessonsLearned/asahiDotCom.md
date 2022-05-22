@@ -7,6 +7,43 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [（天声人語）インドの事情](https://www.asahi.com/articles/DA3S15301792.html?iref=comtop_Opinion_05); last accessed: 20220522
+> （天声人語）インドの事情
+>
+> 有料会員記事
+> 2022年5月22日 5時00分
+>
+> [PR]
+>
+>　ロシアのウクライナ侵攻は２１世紀と思えない蛮行だが、２年前にインドと中国の国境地帯で起きたことも現代とは思えない「衝突」だった。両軍の兵士たちが銃ではなく腕力に訴え、殴り合ったのだ▼場所はインドと中国が接する山岳地帯で、国境線が定まらず常に緊張状態にある。軍事衝突を避けるために両国は協定を結び、国…
+>
+> この記事は有料会員記事です。残り461文字有料会員になると続きをお読みいただけます。
+
+<b>keyphrase:</b> 2 YEARS AGO, INDIA and CHINA BORDER LAND BELT, COLLISION;<br/>
+BOTH ARMY SOLDIERS, NOT WITH GUNS, BUT WITH ARM STRENGTH, COMPLAINED BY PUNCHING EACH OTHER<br/>
+@BORDER LINE WHERE PLACE HAS USUAL TENSE SITUATION;<br/>
+TO AVOID ARMY COLLISION, BOTH KINGDOMS BOUND EACH OTHER TO COOPERATE...<br/>
+
+## [バイデン氏、韓国に法案運び追加予算案に署名　ウクライナ支援の緊急性を重視](https://www.asahi.com/articles/ASQ5L0TJRQ5KUHBI03H.html?iref=comtop_ThemeLeftS_01); last accessed: 20220522
+
+> 19:30（ソウル19:30）
+> バイデン氏、韓国に法案運び追加予算案に署名　ウクライナ支援の緊急性を重視
+>
+>　バイデン米大統領は21日、ウクライナ支援のための総額400億ドル（約5・1兆円）規模の追加予算案に署名し、成立させた。訪問先の韓国に法案を運び、署名するという異例の形式となり、ウクライナへの支援の緊急性を重視する政権の姿勢が示された。
+>
+>　AP通信によると、法案は米政府関係者によってソウルに民間機で運ばれ、バイデン氏が署名した。
+>
+>　ウクライナ支援のための追加予算は、3月に成立した136億ドル（約1・7兆円）に続いて2度目。今回の追加予算には、兵器提供や訓練などの軍事支援に約200億ドル（約2・5兆円）を計上。世界的な食糧危機への対応についても50億ドル（約6400億円）以上を盛り込んだ。
+>
+> 韓国・ソウルで21日、韓国の尹錫悦（ユンソンニョル）大統領との共同会見に臨む米国のバイデン大統領=AP
+>
+>17:29（キーウ11:29）
+>ゼレンスキー氏、侵攻前の位置までロシア軍押し戻せば「勝利」
+>
+> インタファクス・ウクライナ通信などによると、ゼレンスキー氏はテレビ番組で、ウクライナ軍がロシア軍を2月の侵攻直前の位置まで押し戻せば、戦争の第1段階の総括になるとの考えを示した。そのうえで「第2のパートについては（ロシアとの）交渉の席で話をしたい。その結果が、我々にとって正義にかなったものになるように」と述べ、残りのロシアとの問題は交渉で解決するとの立場を強調した。
+>
+>　ウクライナは2月の侵攻以前にも、2014年に南部のクリミア半島をロシアの一方的な併合によって奪われている。ただ、ゼレンスキー氏は「国民の様々な層にどんな欲があったとしても、最上の価値を持つのはより多くの人々と兵士を救うことだ」と指摘。「戦争の代償を見つめなければならない。私たちは世界最強の軍隊の一つを相手に、戦争の流れを有利なものにすることができた」とも述べた。
+
 ## [「手が届くEV」を　過去の教訓生かし日産、三菱自が求めたバランス](https://www.asahi.com/articles/ASQ5N61ZMQ5KULFA01V.html?iref=comtop_7_07); last accessed: 20220521
 
 > 有料会員記事
