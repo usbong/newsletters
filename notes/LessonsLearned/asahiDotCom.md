@@ -44,6 +44,48 @@ TO AVOID ARMY COLLISION, BOTH KINGDOMS BOUND EACH OTHER TO COOPERATE...<br/>
 >
 >　ウクライナは2月の侵攻以前にも、2014年に南部のクリミア半島をロシアの一方的な併合によって奪われている。ただ、ゼレンスキー氏は「国民の様々な層にどんな欲があったとしても、最上の価値を持つのはより多くの人々と兵士を救うことだ」と指摘。「戦争の代償を見つめなければならない。私たちは世界最強の軍隊の一つを相手に、戦争の流れを有利なものにすることができた」とも述べた。
 
+2022-05-23T13:45~14:31; ELASPED TIME: 46MINS<br/>
+
+> 19:30（ソウル19:30） バイデン氏、韓国に法案運び追加予算案に署名　ウクライナ支援の緊急性を重視
+
+19:30 (SEOUL 19:30) MR. BIDEN, BROUGHT LAW/RULE PROPOSAL IN KOREA, ADDED BUDGET PLAN AS AUTHOR; <br/>
+FOCUSES ON EMERGENCY SUPPORT TO UKRAINE 
+
+> 総額400億ドル（約5・1兆円）規模
+
+TOTAL AMT: 400*100M USD (APPROX. 5.1 TRILLION YEN) MODEL STRUCTURE<br/>
+<br/>
+40,000,000,000<br/>
+4,000,000,000,000<br/>
+
+> 3月に成立した136億ドル（約1・7兆円）
+
+IN MARCH 2022, 136*100M USD (APPROX. 1.7 TRILLION YEN)<br/>
+
+> 兵器提供や訓練などの軍事支援に約200億ドル（約2・5兆円）
+ 
+ADDED TO SOLDIER ITEMS SUPPLY, TRAINING, ET CETERA ARMY SUPPORT, APPROX 200 *100M USD (APPROX. 2.5 TRILLION YEN)
+
+> 韓国・ソウルで21日、韓国の尹錫悦（ユンソンニョル）大統領との共同会見に臨む米国のバイデン大統領=AP
+
+KOREA'S SEOUL, 21DAYS, KOREA'S PRES. 尹錫悦 (윤석열; YUN SEOK YEORU), SHARED OF SAME VIEW WITH AMERICA'S PRES. BIDEN ATTENDED<br/>
+
+> 17:29（キーウ11:29） ゼレンスキー氏、侵攻前の位置までロシア軍押し戻せば「勝利」
+
+17:29 Киев (KIYEV 17:29), MR. Зеленський (ZELENS'KIY), UNTIL THE POSITION BEFORE INVASION, IF CAN PUSH TO RETURN RUSSIAN ARMY, WIN<br/>
+1) UNTIL THE FEB 2022 POSITION BEFORE INVASION, PUSH TO RETURN RUSSIAN ARMY<br/>
+
+> 「第2のパートについては（ロシアとの）交渉の席で話をしたい。その結果が、我々にとって正義にかなったものになるように」
+2) WITH RUSSIA, NEGOTIATING SEAT. RESULT: FOR OURSELVES, JUSTICE SHALL HAVE BEEN GRANTED<br/>
+
+> ウクライナは2月の侵攻以前にも、2014年に南部のクリミア半島をロシアの一方的な併合によって奪われている。ただ、ゼレンスキー氏は「国民の様々な層にどんな欲があったとしても、最上の価値を持つのはより多くの人々と兵士を救うことだ」と指摘。「戦争の代償を見つめなければならない。私たちは世界最強の軍隊の一つを相手に、戦争の流れを有利なものにすることができた」とも述べた。
+
+IN YEAR 2014, UKRAINE LOST ITS SOUTHERN PART, CRIMEA HALF ISLAND (PENINSULA), DUE TO RUSSIA'S ONE-SIDED MERGING; ONLY MR. Зеленський (ZELENS'KIY) INDICATED "EVEN WITH PEOPLE'S VARIOUS LAYERS OF WANTS, THE HIGHEST VALUE IS, TO SAVE MORE PEOPLE AND SOLDIERS." "WE NEED TO FIND THE WAR'S SUBSTITUTE PRIZE. WE HAVE PARTNERED WITH THE WORLD'S STRONGEST MILITARY ARMY, WE HAVE BEEN ABLE TO HAVE AN ADVANTAGE IN THE FLOW OF WAR," HE ALSO SAID.
+
+### References:
+1) GOOGLE SEARCH ENGINE <br/>
+2) GOOGLE TRANSLATE
+
 ## [「手が届くEV」を　過去の教訓生かし日産、三菱自が求めたバランス](https://www.asahi.com/articles/ASQ5N61ZMQ5KULFA01V.html?iref=comtop_7_07); last accessed: 20220521
 
 > 有料会員記事
