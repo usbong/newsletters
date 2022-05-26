@@ -7,6 +7,90 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [【速報中】ロシアの番号ついたSIMカード発売　支配を既成事実化か](https://www.asahi.com/articles/ASQ5S15RJQ5RUHBI04Z.html?iref=comtop_7_04); last accessed: 20220527
+
+Mabilis na Kasalukuyang Balita: Sinimulang Magbenta ng SIM CARD na may bilang sa RUSSIA<br/>
+Pagbunga na ba ng pagsakop<br/>
+<br/>
+Quick Current Report: Release of Sales of SIM CARDS with RUSSIAN Numbers<br/>
+CHANGE as Fruit of Conquest?<br/>
+
+> 有料会員記事ウクライナ情勢
+
+May bayad na sulatin sa UKRAINE Pulso ng Balita<br/> 
+Written article with payment on UKRAINE News Pulse 
+
+> 2022年5月27日 2時01分
+
+2022-05-27T02:01
+
+> ■■■5月27日（日本時間）■■■
+
+05/27 (JAPAN TIME)
+
+> 00:35（26日モスクワ18:35）
+
+00:35 (JAPAN TIME); (05/26 MOSCOW 18:35)<br/>
+
+> プーチン氏「食糧供給の拡大は、規制解除が条件」 イタリア首相と電話協議
+
+G. PUTIN, "Ang Tuntunin sa pagtanggal sa mahigpit na patakaran, paglawak ng pagbahagi (supply) ng bilang ng pagkain"<br/>
+Pagpupulong (conference) sa telepono kasama ang Prime Minister ng Italia<br/>
+<br/>
+Mr. PUTIN "Food Quantity Supply Expansion, Restriction Removal is Condition"<br/>
+Telephone Conference with Italia's Prime Minister<br/>
+
+>　ロシアのプーチン大統領は26日、イタリアのドラギ首相と電話協議し、「西側諸国の政治的な動機による（ロシアへの）規制を解除する条件で、穀物と肥料を輸出することにより、食糧危機の克服に貢献する用意がある」と強調した。
+
+Ang Pangulong PUTIN ng RUSSIA, nitong ika-26, may pagpupulong (conference) sa telepono kasama ang Prime Minister ng Italia, "Ang patakaran sa paghigpit batay sa kilos (motive) ng Kanlurang bahaging mga bansa (tungo sa RUSSIA), ang tuntunin sa pagtanggal nito, dahil sa paglabas (EXPORT) ng mga palay at fertilizer, isang paghanda upang malampasan ang krisis sa Bilang ng Pagkain," kanyang malakas na idiniin.<br/>
+<br/>
+RUSSIA's Pres. PUTIN, 05/26, with Italia's Prime Minister DRAGHI, Telephone Conference, emphasized "The Restriction based on the West Side Multiple Countries'Political Motive (towards RUSSIA), with the condition of its Removal, due to the EXPORT of grain and fertilizers, has prepared to serve the conquest of the FOOD Quantity Crisis
+
+>　ロシア大統領府が同日発表した。ロシアの侵攻により、ウクライナからの穀物輸出が制限され、世界的な食糧供給への懸念が高まっている。供給拡大には、欧米による対ロシア制裁の解除が必要だ、と主張したものだ。
+
+Ang Pangulong ng ADMIN ng RUSSIA, sa araw na iyon, ipinaalam. Batay sa pagsalakay ng RUSSIA, hinigpitan ang paglabas ng mga palay, tumaas tuloy ang pagninilay ukol sa pandaigdigang pagbahagi (supply). Ang paglawak ng pagbahagi, kailangan ang pagtanggal ng mahigpit na husga (sanction) mula sa Kanluran (Europa & Amerika) laban sa RUSSIA.<br/>
+<br/>
+RUSSIA's President's ADMIN, on the same day announced. Based on RUSSIA invasion, restricting export of grain from UKRAINE, hard consideration of the WORLD FOOD QUANTITY SUPPLY has risen. To expand SUPPLY, removal of the WEST (Europe & America)'s sanction (restriction) against RUSSIA, is necessary, he emphasized.
+
+>    スラム街を襲う小麦急騰　ロシア侵攻後、大統領も「パン食べない」
+
+Biglang sinalakay ang mga mahihirap na daanan ng mabilis na pagtaas ng [halaga] ng WHEAT. Pagkatapos ng pagsalakay ng RUSSIA, ang Pangulo rin "HINDI kumakain ng TINAPAY".<br/>
+<br/>
+Slum Streets suddenly attacked by QUICK RISE of wheat [price]. After RUSSIAN Invasion, the President also "does NOT eat BREAD".
+
+#### Sa akin ang dagdag na diin via malaking titik
+
+#### keyphrase:
+> 支配
+
+pagsakop (conquer position)
+
+> 条件
+
+tuntunin (condition)
+
+> 克服
+
+malampasan (conquer/subjugate)
+
+> 動機
+
+kilos (motive)
+
+> 危機
+
+krisis (crisis)
+
+> 供給
+
+pagbahagi (supply)
+
+> 制裁
+
+mahigpit na husga (sanction)
+
+TO-DO: -reverify
+
 ## [（天声人語）インドの事情](https://www.asahi.com/articles/DA3S15301792.html?iref=comtop_Opinion_05); last accessed: 20220522
 > （天声人語）インドの事情
 >
