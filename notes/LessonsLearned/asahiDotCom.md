@@ -7,6 +7,29 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+
+## [（天声人語）子どもと銃被害](https://www.asahi.com/articles/DA3S15307860.html?iref=comtop_Opinion_05); last accessed: 20220528
+
+> （天声人語）子どもと銃被害
+
+(Wikang Tao Boses Langit) Bata at Baril na Pahamak
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi (miyembro)
+
+> 2022年5月28日 5時00分
+
+2022-05-28T05:00
+
+>　死因は社会のありようを映し出す。日本では１９８０年代初めから、がんが１位で、いまは死因全体の３割近くになっている。他の病気で命を落とすことが減り、長生きになった結果であろう▼米国の１～１９歳の死因も、社会の姿を物語っている。ミシガン大学の調査によると、銃に関連する死亡が増え続け、２０２０年は交通事…
+
+Sinasalamin ang sanhi ng pagkamatay kung ano ang lipunan. Sa bansang Hapon, simula pa noong mga taong 1980, Cancer ang nangunguna; sa kasalukuyan, sa kabuuan ng sanhi ng pagkamatay, lumalapit na ito sa 30%. Bumaba naman ang bilang mula sa ibang sakit bumagsak ang buhay, dulot nga kaya nito ang paghaba ng buhay.▼Sa Amerika, ang sanhi rin ng pagkamatay ng 1~19 taong gulang, bagay na isinasalaysay ng katayuan ng lipunan. Ayon sa pagsisiyasat ng Pamantasang Michigan, patuloy na dumarami ang namamatay na may kinalaman sa baril, taong 2020, ang daloy sa daan...
+
+> この記事は有料会員記事です。残り457文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. Maaaring mabasa po ang natitirang 457 titik kapag naging nagbabayad na kasapi.
+
 ## [【速報中】ロシアの番号ついたSIMカード発売　支配を既成事実化か](https://www.asahi.com/articles/ASQ5S15RJQ5RUHBI04Z.html?iref=comtop_7_04); last accessed: 20220527
 
 Mabilis na Kasalukuyang Balita: Sinimulang Magbenta ng SIM CARD na may bilang sa RUSSIA<br/>
