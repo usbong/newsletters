@@ -4,6 +4,62 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## 2022-05-28
+https://www.1101.com/home.html;
+last accessed: 20220528
+
+> おまえの悪事など、すべて見られているのだぞ、と。<br/>
+>　そして、どういう罰が与えられるかはわからないけれど、<br/>
+>　とてもよくないことが待っているんだよ、という脅しだ。<br/>
+
+Ang sabi raw, "Ang ginagawa mong masamang bagay, atbp, lahat nakikita!"<br/>
+Pagkatapos, bagama't hindi ko alam kung anong sinasabing parusa ang igagawad sa'yo,<br/>
+nananakot pa na may naghihintay sa iyong talagang hindi maayos na bagay!<br/>
+
+>　人や場合によって「神さま」が通用しにくいところでは、<br/>
+>　「じぶんがいちばんよく知っているだろう？」<br/>
+>　という言い方もよく使われる。<br/>
+
+Batay sa tao, kaso, atbp, sa panahon na mahirap nang gamitin upang iparating itong may "PANGINOON (na nagbabantay)",<br/>
+ito na ang parating ginagamit na pananalita:<br/>
+"Ang sarili mo ang pinakamay-alam, hindi ba?"<br/>
+
+>　だれか一人でも、「見ている・見ていてくれる」と思うと、<br/>
+>　悪いことやずるいことをしにくくなるわけで。<br/>
+
+Kahit sinumang tao, kapag inisip ang "tinitingnan・may tumitingin (bilang gabay)"<br/>
+dahilan na ito upang maging hirap sa paggawa ng bagay na mali at madaya.
+
+> そういえば罪を犯した人の更生がうまくいくケースは、<br/>
+>　「ひとり（多くは母親だという）にでも愛されている」<br/>
+>　という人が多いと聞いたことがある。<br/>
+
+Sa pagsabi ko nito, ang kaso kung saan maayos na umusad ang pagpatuloy ng buhay ng taong gumawa ng kasalanan,<br/>
+dinig kong karamihan ng tao, ito ang sinasabi:<br/>
+"Kahit isa man lamang (karamihan sinasabi ang NANAY), minamahal (siya)."<br/>
+
+> 生まれてからずっと、人工的につくられた<br/>
+>　「だれにも見られてない仕掛け」の中にいたら怖いよ、<br/>
+>　生きたいと思うことさえできないだろうなぁ。<br/>
+
+Simula nang ipanganak, patuloy, sa loob nitong bagay na gawa-gawa lamang tao,<br/>
+nakatatakot ang pag-iral sa loob nitong "Kahit sinuman, hindi pa nakakikitang makina",<br/>
+Kahit isiping nais kong mabuhay, parang hindi kaya.<br/>
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。<br/>
+> ほんっとに、人はひとりじゃ生きられねぇです、お客さん。<br/>
+
+Ngayong araw din, salamat po sa pagdalaw sa "HALOS ARAW"<br/>
+Tunay nga, hindi kayang mamuhay nang nag-iisa ang tao, Ginoong・Ginang Mambabasa.<br/>
+<br/>
+--<br/>
+<br/>
+Isinaayos ko ang pagkasunud-sunod ng mga bahagi ng pangungusap,<br/>
+bagama't hindi na tuloy ayon ito sa daloy ng sa Wikang Hapon.<br/>
+May ilang salita akong kinailangang idagdag upang maging higit na maayos ang pangungusap kapag binasa sa Wikang Filipino.<br/>
+<br/>
+Salamat po.<br/>
+
 ## 2022-04-27
 https://www.1101.com/home.html; last accessed: 20220412<br/>
 --> <b>emphasis:</b> Editor's VALUE to re-verify quickly translated sentences' grammar, sentence structure, significance, et cetera.
