@@ -544,10 +544,7 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			<br/>
 			<b>reminder#3:</b> Multiple network nodes CAN be created using Multiple routers<br/>
 			<b>router#1</b> CAN be set to be accessible using <b>PRIVATE</b> passwords<br/>
-			<b>router#2</b> CAN be set to be observed: select Teroristang Komunista members migrated from SOUTHERN CHINA;
-adds: misuses even religious beings, e.g. 観音 (guanyin; kannon), to make gawa-gawang RULES to get QUICK MONEY
-adds: Teroristang Komunista members 
-accessible to be <b>PUBLIC</b> without password<br/>
+			<b>router#2</b> CAN be set to be accessible to be <b>PUBLIC</b> without password<br/>
 			<br/>
 			<b>router#1</b> and <b>router#2</b> are CONNECTED to each other;<br/> 	
 			<b>DIGITAL INFORMATION</b> are <b>stolen</b> using <b>router#2</b>;<br/>
