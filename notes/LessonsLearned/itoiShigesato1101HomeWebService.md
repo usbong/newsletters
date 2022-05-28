@@ -43,8 +43,8 @@ dinig kong karamihan ng tao, ito ang sinasabi:<br/>
 >　生きたいと思うことさえできないだろうなぁ。<br/>
 
 Simula nang ipanganak, patuloy, sa loob nitong bagay na gawa-gawa lamang tao,<br/>
-nakatatakot ang pag-iral sa loob nitong "Kahit sinuman, hindi pa nakakikitang makina",<br/>
-Kahit isiping nais kong mabuhay, parang hindi kaya.<br/>
+nakatatakot ang pag-iral sa loob nitong "Kahit sinuman, wala pang nakakikitang makina";<br/>
+Isipin ko mang nais kong mabuhay, parang hindi kaya.<br/>
 
 > 今日も、「ほぼ日」に来てくれてありがとうございます。<br/>
 > ほんっとに、人はひとりじゃ生きられねぇです、お客さん。<br/>
@@ -59,6 +59,11 @@ bagama't hindi na tuloy ayon ito sa daloy ng sa Wikang Hapon.<br/>
 May ilang salita akong kinailangang idagdag upang maging higit na maayos ang pangungusap kapag binasa sa Wikang Filipino.<br/>
 <br/>
 Salamat po.<br/>
+<br/>
+--<br/>
+<br/>
+wala pang nakakikitang makina (ng MATRIX)<br/>
+makina : maquina<br/>
 
 ## 2022-04-27
 https://www.1101.com/home.html; last accessed: 20220412<br/>
