@@ -543,11 +543,13 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			where: <b>HTTPS</b> = Hypertext Transfer Protocol Secure</b><br/>
 			<br/>
 			<b>reminder#3:</b> Multiple network nodes CAN be created using Multiple routers<br/>
+			<br/>
+			<b>Example:</b><br/>
 			<b>router#1</b> CAN be set to be accessible using <b>PRIVATE</b> passwords<br/>
 			<b>router#2</b> CAN be set to be accessible to be <b>PUBLIC</b> without password<br/>
 			<br/>
 			<b>router#1</b> and <b>router#2</b> are CONNECTED to each other;<br/> 	
-			<b>DIGITAL INFORMATION</b> are <b>stolen</b> using <b>router#2</b>;<br/>
+			<b>DIGITAL INFORMATION</b> from <b>router#1</b> are <b>stolen</b> using <b>router#2</b>;<br/>
 			<br/>
 			<b>where: router#2</b> can be located in the Philippines or another country<br/> 
 			<br/>
