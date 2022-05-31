@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220528; from 20220505
+  @date updated: 20220531; from 20220528
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -532,7 +532,7 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			<br/>
 			<b>reminder#2:</b> GMAIL classified with <b>CLOUD-based SERVICES</b><br/>
 			<br/>
-			The <b>MANLOLOKO</b> group connects to a <b>PUBLIC</b> and/or <b>PRIVATE</b>-accessible network to <b>steal</b> using tools, e.g. WIRESHARK, <b>DIGITAL INFORMATION</b>;<br/>
+			The <b>MANLOLOKO</b> group connects to a <b>PUBLIC</b> and/or <b>PRIVATE</b>-accessible network to <b>steal</b> using tools, e.g. <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a>, <b>DIGITAL INFORMATION</b>;<br/>
 			<br/>
 			<b>Example of STOLEN DIGITAL INFORMATION:</b><br/> 
 			1) visited website addresses<br/>
