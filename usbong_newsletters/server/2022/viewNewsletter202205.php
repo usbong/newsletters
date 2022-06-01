@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220531; from 20220528
+  @date updated: 20220601; from 20220531
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -376,10 +376,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-	<!-- //edited by Mike, 20220325
+
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
+<!-- //edited by Mike, 20220325
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
   </head>
 	  <script>
 	  </script>
@@ -553,7 +554,55 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			<br/>
 			<b>where: router#2</b> can be located in the Philippines or another country<br/> 
 			<br/>
-			TO-DO: -update: this
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkUsedAsDefenseExampleComputerNetworkSchematicDiagram.jpg"><br/>	
+			<br/>
+installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> on <b>Computer Server</b> with Internet Protocol (IP) Address @<b>192.168.1.10</b> as <b>DEFENSE</b><br/>
+<br/>
+<b>Computer Client</b> with IP Address @<b>192.168.1.40</b> requests from <b>Computer Server</b> the following file located in its directory system:<br/> 
+<b>website address:</b> <a class="webServiceLink" target="_blank">/usbong_kms/index.php/report/viewWebAddressList</a><br/>
+<br/>
+<a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> identifies the requesting <b>source IP Address</b>.<br/>
+<br/>			
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkSourceDestinationExamplePart1.jpg">	
+			<br/>
+			<br/>
+<b>Requested File as Website Address:</b><br/> 
+<a class="webServiceLink" target="_blank">/usbong_kms/index.php/report/viewWebAddressList</a><br/>			
+			<br/>			
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkSourceDestinationExamplePart2.jpg">	
+			<br/>
+			<br/>
+			<b>Manloloko</b> misuses <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK.</a>
+			<br/>
+			<br/>
+			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkMisusedByManlolokoToAttackExampleComputerNetworkSchematicDiagram.jpg"><br/>	
+			<br/>
+			identify: <b>IP Addresses</b> from <b>captured network traffic LIST</b><br/>
+			<br/>
+			where: <b>Computer Client</b> requests for <b>Google Web Service</b>;<br/>
+			<b>Computer Client</b> located inside <b>Local Area Network</b>;<br/>
+			<b>Google Web Service</b> located outside;<br/>
+<br/>			 
+--> use: <a class="webServiceLink" target="_blank" href="ipinfo.io">ipinfo.io</a> to assist in identifying among others:<br/>
+1) <b>physical location</b><br/>
+2) <b>contact information</b><br/>
+<br/>
+<b>Example Address List in Sequence:</b><br/>
+1) <b>142.250.66.99</b> : <a class="webServiceLink" target="_blank" href="https://www.google.com/">Google LLC, U.S.A.</a><br/>
+--> 1600 Amphitheatre Parkway, Mountain View, CA, U.S.A.<br/>
+<br/>
+2) <b>122.2.215.143</b> : <a class="webServiceLink" target="_blank" href="https://main.pldt.com/">Philippine Long Distance Telephone Company</a><br/>
+
+--> Taguig, Metro Manila, Philippines<br/>
+<br/>
+3) <b>142.251.85.103</b> : <a class="webServiceLink" target="_blank" href="https://www.google.com/">Google LLC, Singapore</a><br/>
+--> Singapore, Singapore<br/>
+<br/>
+<b>"To report abuse and illegal activity":</b><br/> 
+1) <a class="webServiceLink" target="_blank" href="https://www.google.com/contact/">https://www.google.com/contact/</a><br/>
+2) <a class="webServiceLink" target="_blank" href="abuse@pldt.net">abuse@pldt.net</a><br/>
+3) <a class="webServiceLink" target="_blank" href="network-abuse@google.com">network-abuse@google.com</a><br/>
+<br/>
 		</td>
 	</tr>
 </table>
@@ -566,6 +615,8 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 --> <b>Halimbawa:</b> Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating LINAWIN ang anumang MALABO.<br/>
 <br/>
 <br/>
+<br/>
+TO-DO: -update: this<br/>
 <br/>
 <br/>
 instructions for computer automation BOTS to assist in QUICKLY and CORRECTLY counting transactions</br>
