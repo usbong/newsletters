@@ -43,7 +43,11 @@
                         {
 							font-family: Arial;
 							font-size: 12pt;
+/*
 							color: rgb(120,63,4);
+*/
+							color: rgb(85,43,0);	
+							
 							font-weight: bold;
 
 							/* This makes the width of the output page that is displayed on a browser equal with that of the printed page. */
@@ -471,9 +475,7 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>高</b> (あきら	; たかい; HIGH; EXPENSIVE);<br/>
-		<b>明</b> (あきら; CLEAR・BRIGHT)<br/>
-		<b>AKIRA</b> (MAHAL; MALINAW・MALIWANAG)<br/>
+		<b>メモリー</b> (memori-) : <b>LALAGYAN ng ALAALA</b>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -661,7 +663,7 @@ installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshar
 		<td class="noteTableTextColumn">
 			<b>Recommended Actions:</b><br/>
 			1) verify: <b>Sample Examinations</b> as practice before <b>Actual Examination</b><br/>
-			--> observed: Listening Part to appear to be excessively QUICK due to student has LESS <b>audio material</b> to repeatedly listen as practice<br/>
+			--> observed: <b>Listening Part</b> to appear to be excessively QUICK due to student has LESS <b>audio material</b> to repeatedly listen as practice<br/>
 			where: <b>audio material</b> : @same/similar LEVEL as Examination<br/>
 			<br/>
 			2) verify: <b>Examination Rules</b> to receive: <b>PASS</b><br/>
@@ -680,99 +682,123 @@ installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshar
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1) shares: Lessons-learned: ファミ通.com (famitsu.com)</h4>
+<h4>2.1) shares: Lessons-learned: asahi.com　(朝日新聞　DIGITAL; asahi shimbun digital)</h4>
 <h5>
-<a class="webServiceLink" target="_blank" href="https://www.famitsu.com/news/202203/26256047.html">
-https://www.famitsu.com/news/202203/26256047.html
-</a>; last accessed: 20220327<br/>
-<b>INTERVIEW TRANSLATED from 日本語 (にほんご; nihongo) to Filipino</b><br/>
+--> <b>note:</b> KEYPHRASE technique as with TELEGRAM/SMS (SHORT MESSAGING SERVICE) MESSAGE<br/>
+--> Translation from <b>日本語 (にほんご; nihongo)</b> to English by SYSON, MICHAEL B.<br/>
 <br/>
-2022-03-27T09:06~09:28; 22MINS<br/>
-2022-03-27T09:36~10:01; 25MINS<br/>
+2.1.1) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15294699.html?iref=comtop_Opinion_03">（社説）ゲノム情報　差別防ぐルール作りを</a>;<br/>
+<br/> 
+last accessed: 20220602; from 20220516
 <br/>
-<b>TOTAL ELAPSED TIME:</b> 47MINS<br/>
+<b>2022年5月16日 5時00分
+</b><br/>
+2022-05-16T05:00<br/>
 <br/>
-2022-03-27T10:01~10:12; 11MINS; TEXT FORMAT<br/>
+<b>
+    ３年前に作られた「全ゲノム解析等実行計画」に基づき、がんと難病の患者を対象に、ＤＮＡの遺伝情報（ゲノム）を網羅的に解析する作業が進む。<br/>
 <br/>
-<b>GRAND TOTAL ELAPSED TIME:</b> 58MINS<br/>
+    ...保険や雇用分野での差別的な取り扱いを、法律で明確に禁じている国もある。<br/>
 <br/>
-<b>EDITOR ELAPSED TIME:</b> 2022-03-29T09:06~09:20;09:36~09:37; 16MINS<br/>
+    　ところが日本にはそうした規定はない。わずかに個人情報保護法によって、ゲノム情報の取得にあたっては本人の同意が必要とされているくらいだ。<br/>
 <br/>
-<b>    『ドラゴンクエスト』はコンピュータ上に描いたマンガのようなもの</b><br/>
+    海外の例も参考にしながら具体的な検討を行う場を速やかに設けるよう求める。<br/>
 <br/>
-"DRAGON QUEST", bagay na tulad sa iginuhit na MANGA sa kompyuter.<br/>
+    　ゲノム医療のあり方について人々の考えや意識を探る調査を継続して行い、ていねいな説明を通じて、社会の合意形成を図ることも必要だ。
+</b><br/>
 <br/>
-<b>    　どうも堀井雄二です。</b><br/>
+<b>keyphrase:</b> GENOME INFORMATION;<br/>
+--> requires: person's <b>AGREEMENT</b> to obtain <b>INFORMATION</b> in JAPAN;<br/>
+--> In <b>INSURANCE, EMPLOYMENT</b> FIELDS <b>DISCRIMINATION TREATMENT, NOT YET in JAPAN</b>,<br/>
+--> <b>CLEARLY PROHIBITED</b> in LAW @SELECT COUNTRIES<br/>
 <br/>
-Kumusta, Horii, Yuji po.<br/>
+
+2.1.2) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ5H73RVQ5FULFA01V.html?iref=comtop_7_01">（半導体工場、国内で巨額投資続々　政府は経済安保観点からも支援;</a><br/> 
+last accessed: 20220602; from 20220516<br/>
 <br/>
-<b>    　じつは僕はもともとマンガが大好きな少年で、中学・高校時代ともずっとマンガ家になりたいと思っていました。大学ではマンガ研究会に所属し、マンガを描いたり、プロのマンガ家さんの原作を手伝ったり、雑誌にイラストと記事を書いたりしていました。</b><br/>
+<b>土居新平2022年5月16日 5時00分</b><br/>
+Doi Shinpei; 2022-05-16T05:00<br/>
 <br/>
-Ang sa katunayan, simula't simula pa po, sapagkat sa taon pa ng aking kabataan malaki na ang pagkahilig sa MANGA, naisip ko na po noong pang panahon sa Gitna at Mataas na paaralan, nais ko na pong maging Mangguguhit ng MANGA. Sa Malaking Paaralan (college), naging kabilang po ako sa Samahan ng mga Mananaliksik ng MANGA, gumuhit ng MANGA, tumulong sa gawain ng PRO na Mangguguhit ng MANGA, sa mga Magazine, nagsulat ng mga guhit at sulatin, atbp.<br/>
+<b>
+    スマートフォンや家電、自動車などあらゆる製品に使われる半導体は世界的に不足しており、争奪戦が激しい。 企業は巨額の投資をし、政府は経済安全保障の観点からも補助金を出して、生産力を高めようとしている。<br/>
 <br/>
-<b>    そして、大学を卒業したあとも、フリーランスとしてライターの仕事をしていたのですが、その当時、世の中は大きな変化を迎えていました。コンピュータの登場です。新聞でコンピュータの特集記事を読んだ僕は、このコンピュータという機械にとてつもない魅力を感じました。そして、矢も盾もたまらずマイクロコンピュータ、パーソナルコンピュータを買ったのです。もともと数学が好きだった僕は、たちまちコンピュータというおもちゃに夢中になり、プログラミング言語を覚え、自分でもゲームを趣味で作り始めたのでした。</b><br/>
+    東芝が約4割の株式を持つ半導体大手のキオクシアホールディングスは、北上工場（岩手県北上市）に新たな製造棟を建てる。建屋面積は約3万1千平方メートル。総事業費は1兆円規模とされ来春にも完成する。生産するのはスマホなどに使う記憶用半導体「NAND（ナンド）型フラッシュメモリー」だ。<br/>
 <br/>
-Pagkagawa nito, pagkatapos magtapos sa Malaking Paaralan, bilang isang FREE-LANCER, ginawa ko po bilang hanap-buhay ang tungkulin ng manunulat, kaya lang sa panahong iyon, sa daigdig, may sinasalubong na malaking pagbabago. Ito ang pagdating ng kompyuter. Ako na nagbasa ng mga bukod-tanging pinagsamang sulatin na balita sa kompyuter, naramdaman ko po ang akit nitong kompyuter bilang isang makina. Pagkatapos, sapagkat hindi rin makatiis ng pana at kalasag, bumili ako ng MICROCOMPUTER, PERSONAL COMPUTER. Simula't simula pa, ako na mahilig sa pag-aaral ng pagbibilang, naging babad ako sa panaginip nitong sinasabing kompyuter na laruan, nakabisado ko ang wika ng PROGRAMMING, ang sarili ko rin mismo, bilang pampalipas na panahon (HOBBY), nagsimulang bumuo ng laro.<br/>
+    キオクシアは世界最大級のメモリー工場である四日市工場（三重県四日市市）で新たな製造棟を4月に完成させた。秋にも稼働する。こちらも総事業費は1兆円規模。北上工場の分を合わせ、米半導体大手のウエスタンデジタル（WD）と共同で負担する見通しだ。<br/>
 <br/>
-<b>    そのころ、たまたまエニックス、現在のスクウェア・エニックスですね。が、ゲームプログラミングコンテストをやっていたので、自作のゲームで応募したところ、見事入選しまして、それが僕のゲーム人生の出発点です。いまからおよそ40年前の出来事です。</b><br/>
+    政府は半導体産業を支援する…<br/>
 <br/>
-Sa panahong iyon, nagkataon, may ENIX, ang kasalukuyang SQUARE・ENIX. May ginawang GAME PROGRAMMING CONTEST, sinali ko po ang aking sariling binuong laro, napasok at napili, pagkatapos, iyon po ang aking simula (tuldok ng paglabas) sa buhay ng laro. Mula sa kasalukuyan, mga 40 taon ang nakararaan ng maganap po ito.<br/>
+</b>
+<b>keyphrase:</b> <b>半導体工場</b> (half-guided body engineering area; <b>TRANSISTOR FACTORY</b>) in JAPAN;<br/>
+--> TOSHIBA; IWATE PREFECTURE; MIE <b>PREFECTURE</b>; <b>MEMORY</b>, e.g. NAND FLASH MEMORY;<br/>
 <br/>
-<b>    　入選作は趣味で自分で遊ぶためのアクションゲームでしたが、つぎは市販されて、人にプレイしてもらえると、当時興味があったアドベンチャーゲームを作ることにしました。プレイ中に物語が進行して、つぎつぎと殺人事件が起きていくゲームです。それが『ポートピア連続殺人事件』でした。ゲーム中、「つぎはなにをしますか？」と聞いてくるコマンドを要求してくるキャラが、じつは犯人という荒業を使いました。</b><br/>
 <br/>
-Ang napasok at napili, bilang pampalipas ko po ng panahon, isang ACTION GAME na binuo ko po upang sarili ko pong laruin, pagkatapos nailathala, sapagkat sinabing malalaro ng mga tao, pinagpasiyahan ko pong bumuo ng ADVENTURE GAME na nakahiligan ko po sa panahong iyon. Habang naglalaro, umuusad ang salaysay ng laro: sunud-sunod, may nagaganap na insidente ng pagpaslang ng tao. Iyon po ang "PO-TOPIA sunud-sunod na insidente ng pagpaslang ng tao". Sa loob ng laro, "Ano po ang iyong gagawin?" ang dumarating na tanong na COMMAND mula sa Tauhan; ang sa katunayan, ginamit ko pong tawag sa Salarin, ARAWAZA ("madungis na gawa").<br/>
-<br/>
-<b>    これがさらに好評を得て、ゲーム制作の余裕が増えていきます。コンピュータの魅力のひとつは入力に対して、さまざまなリアクションを取れるインタラクティブ性だと思います。つまり、プレイヤーの行動を想像して、いろいろな仕掛けを作っておく。このシステム上で物語を作るのは、僕はとても楽しい作業だと感じました。</b><br/>
-<br/>
-Mula rito higit pang nakatanggap ng maayos na pagpuna, nadagdagan pa ang pagdami ng bakanteng panahon upang bumuo ng laro. Aking naisip na isang akit ng kompyuter ang ukol sa INPUT, na kung saan samu't saring REAKSYON (TUGON) ang makukuha: INTERACTIVE. Ibig sabihin, pagmunihan ang magiging pagkilos ng Manlalaro, at samu't saring mga setting ang buuin. Sa sistemang ito, sa pagbuo ng salaysay, naramdaman ko po ang talagang maligayang pagbuo't paggawa.<br/>
-<br/>
-<b>    　それから、自分自身も好きで遊んでいた『ウイザードリィ』や『ウルティマ』といったRPGにも物語というレールを敷いたら、とても遊びやすくなるのではと思って作ったのが『ドラゴンクエスト』です。</b><br/>
-<br/>
-Pagkatapos no'n, ang sarili ko pong kinahiligan at nilarong "WIZARDRY", "ULTIMA", atbp na tinatawag na RPG, kapag isinaayos ko po ang RAIL ng salaysay, talagang magiging madali ang paglaro. Ito po ang inisip ko sa pagbuo ng "DRAGON QUEST".<br/>
-<br/>
-<b>    　『ドラゴンクエスト』もマンガと同じように短い会話で物語が進行します。コンピュータ上に描いたマンガのようなものだと僕は思っています。</b><br/>
-<br/>
-Ang "DRAGON QUEST", at pati na rin ang MANGA, hinalintulad sa maikling pag-uusap umuusad ang salaysay. Iniisip ko po ito bilang bagay na iginuhit na MANGA sa kompyuter.<br/>
-<br/>
-<b>    僕たちのチームは、いま新たな本編作品となる『ドラゴンクエストXII』の制作のほか、いくつかの新しい作品を制作しています。これらの作品は、『ドラゴンクエストXI』のように、世界のたくさんの皆さんにプレイしていただけたらと思っています。今後の続報に期待してください。</b><br/>
-<br/>
-Ang amin pong pangkat, bukod sa kasalukuyang bagong binubuong bagay, "DRAGON QUEST XII", may ilang pang bagong mga binubuo. Ang mga sunod na binubuong bagay na ito, tulad ng "DRAGON QUEST XI", iniisip ko pong, maiging maraming tao sana sa daigdig ang maglalaro. Pakiabangan po ang sunod na balita.<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			<b>ASAHI Newspaper Observations:</b><br/>
+			<br/>
+			1) observed: correction in spelling during <b>QUICK SMS Reporting</b> for select words, e.g. MIE <b>PREFERECTURE</b><br/>
+			--> <b>"PREFERECTURE"</b> with the excess <b>"ER"</b>, should be <b>"PREFECTURE"</b><br/>
+			<br/>
+			emphasis: <b>VALUE</b> of UNIT's <b>EDITOR</b> to re-verify quickly translated sentences' grammar, sentence structure, significance, et cetera.<br/>
+			<br/>
+			2) observed: <b>problems in JAPANESE SOCIETY</b> due to among others:<br/> 
+			2.1) <b>young people</b> executing <b>CHAOTIC behavior</b><br/> 
+			2.2) people with <b>NO WORK</b><br/> 
+			2.3) <b>senior people</b> with <b>errors in MONEY</b><br/>
+			<br/>
+			<b>ACTION:</b><br/>
+			2A.1) <b>STRICT</b> with <b>newly elected politicians</b>, e.g. Prime Minister KISHIDA,<br/> 
+			2A.2) sharing that <b>problem WORSE in Foreign Countries</b>;<br/> 
+			where: increased DEATH COUNT due to FIRE during WINTER<br/>
+		</td>
+	</tr>
+</table>
+
 </h5>
 </h3>
 
 <h3>3) Continued with Security Defense Force</h3>
-<h4>3.1) shares: Lessons-learned: asahi.com　(朝日新聞　DIGITAL; asahi shimbun digital)</h4>
+<h4>3.1) shares: ULTRASOUND TECHNIQUE</h4>
 <h5>
-3.1.1) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ3H7H4TQ3HUTIL020.html?iref=pc_rensai_short_1475_article_5">
-事実上の刑罰、取り返しつかない結果に　元裁判官が語る「人質司法」
-</a>; last accessed: 20220505<br/>
-<b>    2022年4月22日 14時00分</b><br/>
+3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.sciencedirect.com/topics/medicine-and-dentistry/ultrasound-therapy">ULTRASOUND THERAPY</a><br/>
+<b>website address:</b> <a class="webServiceLink" target="_blank" href="https://www.sciencedirect.com/topics/medicine-and-dentistry/ultrasound-therapy">https://www.sciencedirect.com/topics/medicine-and-dentistry/ultrasound-therapy</a>;<br/> 
+last accessed: 20220530<br/>
 <br/>
-<b>    警察、検察が事件を有罪にするにあたって一番メリットがあるやり方だからです。容疑者は身柄を拘束されたことでつらくなり、自白する。あるいは自白しなくても、証拠隠滅や逃亡の危険がなくなるので、捜査当局にとってはメリットしかないわけです。</b><br/>
+--> observed: <b>pattern</b> <b>IF</b> tool/technique <b>NOT effective</b> to increase <b>INCOME LEGALLY</b>,<br/> 
+shall be <b>MISUSED</b> by <b>MANLOLOKO group</b> to execute <b>ACTIONS</b> classified to be <b>ILLEGAL</b>,<br/>
+e.g. intimidation, harassment to get <b>QUICK MONEY</b>;<br/>
 <br/>
-Ang Pulis, sa pagsisiyasat (prosecution), upang umamin ang salarin sa kasalanan sa insidente, ang pinakamay MERIT na paraan: <b>Sariling aamin</b>, sapagkat masakit kapag hindi pinalalaya ang katawan (physical restraint). Sa kabila nito, kahit hindi sariling umamin, dahil mawawala ang panganib sa pagtatago o pagwawasak ng patunay (ebidensiya), pagtakas, sa gumagawa ng pagsisiyasat, MERIT din ito.<br/>
+where: <b>harass</b>: "cause trouble or any mental, economical or any other damage <b>[1]</b>"<br/>
 <br/>
---<br/>
+<b>MANLOLOKO</b> : MANLOLOKO/budol-budol/carnapper/smuggler/<br/>
+cybercriminal/Teroristang Komunista group<br/>
 <br/>
-<b>    みずの・ともゆき　法政大法科大学院教授（刑事法）、弁護士。1962年生まれ。88年に裁判官になり、静岡や大阪、東京、千葉の各地裁の判事などを経て、2012年から現職。フジテレビ系ドラマ「イチケイのカラス」では、裁判所監修を担当した。</b><br/>
+<b>keyphrase:</b><br/>
+unsolicited physical stimulation,<br/> 
+wireless physical attacks,<br/> 
+mobile telephone (tech since Year 2008 and earlier)<br/>
 <br/>
-MIZUNO, TOMOYUKI; Guro (Batas ukol sa Krimen) sa HOUSEI DAIHOUKA DAIGAKUIN (BATAS ADMIN MALAKING BATAS AGHAM MALAKING PAARALAN NG MGA NAGTAPOS (GRADUATE SCHOOL), <b>Mag-aaral ng Tagapagtanggol ng Salita (ABOGADO)</b>. Ipinanganak Taong 1962. Taong 88, naging Taga-husga, gumugol ng panahon sa gawaing Hukom sa mga pook sa SHIZUOKA, OSAKA, TOKYO, CHIBA, atbp, mula Taong 2012, kasalukuyang hanap-buhay. Nanungkulan bilang Supervisor/Editor ng DRAMA na "ICHIKEI no KARASU" ng FUJI-TV.<br/>
+<b>emphasis:</b><br/>
+"...sound waves at very high frequencies (0.5-5 MHz) to produce mechanical vibration within the tissues."<br/>
+<h3><b>"Physical therapies"</b></h3>
+<h5>
+Lindsay M. Bearne PhD MSc MCSP, Michael V. Hurley PhD MCSP,<br/> 
+in Rheumatology, 2010 <b>ULTRASOUND THERAPY</b><br/>
 <br/>
-<b>NOTE: Dinagdag ko ang DIIN</b><br/>
+"In the management of rheumatic diseases, ultrasound therapy (US) is commonly used as an adjunctive therapy for its proposed effects on inflammation as well as for pain relief. It uses <b>sound waves at very high frequencies (0.5-5 MHz) to produce mechanical vibration within the tissues.</b> If applied in high doses absorption of US results in heating, which decreases pain and fluid viscosity, increases metabolic rate and blood flow (thermal effects) (Nussbaum 1997). At lower doses of US or following pulsed US non thermal, mechanical effects such as stable cavitation (formation of gas bubbles in tissues), standing waves (reflected waves superimposed on incident waves) and acoustic streaming (fluid movement which exerts pressure changes on a cell) occur (Maxwell 1992) which cause membrane distortion, increased permeability, increased nutrient transfer and facilitation of tissue repair (Mortimer & Dyson 1988). When applied to acutely inflamed tissues it encourages the inflammatory process to progress to the proliferation stage (Watson 2000).<br/>
 <br/>
-3.1.2) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ3K4VDTQ3HULFA00S.html?iref=comtop_list_02">
-米利上げ　日本にも波及　円安・物価高が加速　日銀の対応は？
-</a>; last accessed: 20220329<br/>
-<br/>
-Increase in United States Dollar (USD) Value; Wave also reaches Japan; Speed-up of Cheaper Yen・Higher Commodity Price; Japanese Bank's response?<br/>
-<br/>
-<b>    米国の利上げは、日本経済にも大きな影響を及ぼすことになる。まずは、昨年来進んでいる円安傾向がさらに強まる可能性がある。日本より金利が高いドルを買う動きが強まるからだ。円安は輸出企業にとってはプラスだが、輸入物価の上昇につながり、家計や企業の負担を重くする要因にもなる。</b><br/>
-<br/>
-decreased YEN value to USD;<br/>
-輸出 (export) PLUS;<br/>
-<b>causes</b>: increased USD in Japan;<br/>
-<b>defense</b>: increased YEN price of products/service in Japan;<br/>
+    Whilst there is evidence to support the physiological effects of US in laboratory or animal studies, (Mortimer & Dyson 1988) evidence for its clinical effectiveness in people with rheumatic conditions is limited (Brosseau et al 2004, Zhang et al 2007) and it is only recommended for those with arthritis of the hand (Casimiro et al 2002, Welch et al 2001). Moreover, a recent review concludes US may only be effective for people with carpal tunnel syndrome and those with calcific tendonitis of the shoulder (Roberston & Baker 2001) despite being a frequently used electrophysical modality in musculoskeletal conditions (Kitchen & Partridge 1996)."
 </h5>
+
+<h4><b>Additional Reading:</b></h4>
+<h5>
+<b>[1]</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/nintendoDotCom.md">Notes on Prohibitions In using the Nintendo Account Service</a>
 </h5>
 
 
