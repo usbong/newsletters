@@ -665,7 +665,7 @@ installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshar
 			where: <b>audio material</b> : @same/similar LEVEL as Examination<br/>
 			<br/>
 			2) verify: <b>Examination Rules</b> to receive: <b>PASS</b><br/>
-			--> observed: with select examinations, difficulty level NOT in increasing sequence;<br/> 
+			--> observed: with select examinations, question items' difficulty level NOT in increasing sequence, <b>PASS Mark</b> >= 70%<br/> 
 			<b>ACTION</b>: finish: questions that <b>CAN be QUICKLY answered CORRECTLY</b>;<br/>
 			--> This is instead of using available <b>TIME</b> to answer more difficult questions valued @<b>SAME POINTS</b><br/>
 			<br/>
