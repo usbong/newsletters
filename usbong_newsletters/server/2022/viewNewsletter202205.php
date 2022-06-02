@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220601; from 20220531
+  @date updated: 20220602; from 20220601
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -556,9 +556,12 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			<br/>
 			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkUsedAsDefenseExampleComputerNetworkSchematicDiagram.jpg"><br/>	
 			<br/>
-installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> on <b>Computer Server</b> with Internet Protocol (IP) Address @<b>192.168.1.10</b> as <b>DEFENSE</b><br/>
+installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> on <b>Computer Server</b> as <b>DEFENSE</b><br/>
 <br/>
-<b>Computer Client</b> with IP Address @<b>192.168.1.40</b> requests from <b>Computer Server</b> the following file located in its directory system:<br/> 
+<b>Computer Server's Internet Protocol (IP) Address</b>: @<b>192.168.1.10</b><br/>
+<b>Computer Client's IP Address</b>: @<b>192.168.1.40</b><br/>
+<br/>
+<b>Computer Client</b> requests from <b>Computer Server</b> the following file located in its directory system:<br/> 
 <b>website address:</b> <a class="webServiceLink" target="_blank">/usbong_kms/index.php/report/viewWebAddressList</a><br/>
 <br/>
 <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> identifies the requesting <b>source IP Address</b>.<br/>
@@ -572,7 +575,10 @@ installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshar
 			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkSourceDestinationExamplePart2.jpg">	
 			<br/>
 			<br/>
-			<b>Manloloko</b> misuses <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK.</a>
+			<b>Manloloko</b> misuses <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> to steal <b>INFORMATION</b> to execute <b>network abuse</b> classified to be <b>ATTACKS</b>;<br/>
+			<br/>
+			<b>Example ATTACKS:</b> NOISE POLLUTION, i.e. <b>PANLOLOKONG INGAY</b><br/>
+			<b>Example OUTPUT:</b> <b>DELAY</b> in service execution<br/>			 
 			<br/>
 			<br/>
 			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkMisusedByManlolokoToAttackExampleComputerNetworkSchematicDiagram.jpg"><br/>	
@@ -614,194 +620,63 @@ installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshar
 --> any information/gossip heard, viewed, et cetera;<br/>
 --> <b>Halimbawa:</b> Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating LINAWIN ang anumang MALABO.<br/>
 <br/>
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-instructions for computer automation BOTS to assist in QUICKLY and CORRECTLY counting transactions</br>
---> where: counting : Maparaang Pagbibilang</br>
---> <b>Examples used with Linux Machine:</b></br>
---> auto-access and transfer Database (DB) from Windows Machine to <a class="webServiceLink" href="lubuntu.me" target="_blank">Linux Machine (LUBUNTU)</a></br>
---> auto-import Transactions DB to be classified as <a class="webServiceLink" href="https://www.mysql.com/" target="_blank">MySQL (Structured Query Language)</a>DB</br>
---> auto-start <a class="webServiceLink" href="https://www.apachefriends.org/index.html" target="_blank">XAMPP</a> Web Server</br>
-</br>
---> reminder: Increase in <b>Computer BOTS</b> that execute <b>QUICK</b> and <b>CORRECT</b> outputs<br/>
---> CAUSES increase in <b>INCOME</b> due to in a set TIME, increase in <b>WORK OUTPUTS</b><br/>
---> observed: IF <b>Humans</b> do NOT execute as <b>Computer BOTS</b>,<br/> 
---> increase in <b>COUNT</b> does NOT cause increase in <b>INCOME</b>;<br/>
---> reminder: History of Industrial Revolution;<br/> 
---> where: <b>Humans</b> tasked to execute as <b>Computer BOTS</b> via <b>assembly line</b>,<br/>
---> however, system became inefficient due to Humans have <b>EMOTION</b>;<br/>
---> where: <b>EMOTION</b> : execute ACTIONS that are <b>NOT LOGICAL</b> caused by: <b>INCORRECT BELIEFS</b><br/>
---> reminder: There exists a <b>CORRECT LOGICAL</b> answer to a <b>LOGICAL</b> question;<br/>
---> where: <b>NOT LOGICAL</b> : <b>UNCLEAR/MALABO</b> due to among others: <b>CANNOT be identified/classified</b><br/>
-<br/>
---> observed: from <b>FORBES (ASIA) Magazine (November 2017)</b>,<br/> 
---> <b>LIST</b> of Wealthiest in the United States of America (U.S.A.)<br/> 
---> in the TOP 10, <b>MAJORITY</b> of people classified to be in the <b>COMPUTER SERVICES</b> Industry<br/>
-<br/>
---> shared: with current USBONG Trainee: <b>INCOME</b> mainly comes from Maparaang Pagbibilang;<br/>
---> Teaching <b>日本語 (nihongo; Japanese Language)</b> @<a class="webServiceLink" href="https://github.com/usbong/school" target="_blank">USBONG SCHOOL</a> classified to be <b>BONUS</b><br/>
-<br/>
---> <b>Recommended Action:</b> IF <b>LANGUAGE TEACHING</b> set to be the <b>MAIN WORK</b>,<br/> 
---> find <b>SPOUSE</b> who has know-how in Computers/Maparaang Pagbibilang,<br/> 
---> to increase <b>HOUSEHOLD INCOME</b><br/>
-<br/>
---> reminder: <b>HUSBAND & WIFE</b> strong individually,<br/> 
---> but <b>CHOOSE</b> to be TOGETHER due to <b>STRONGER</b> via <b>BUILDING OWN FAMILY UNIT</b>;<br/>
---> observed: in Germany, Small-Medium Enterprises form <b>BACKBONE</b> of ECONOMY<br/>
---> where: <b>MAJORITY</b> of Small-Medium Enterprises classified to be <b>FAMILY BUSINESSES</b><br/>
---> <b>Reference:</b> Hintereder, P. (2010). "FACTS about Germany". Germany: Societäts-Verlag<br/>
-<br/>
---> adds: in select <b>FAMILY UNITs</b>, due to increasing variations in use of TIME,<br/>
---> caused by increasing <b>EXCESS INCOME</b> received,<br/>
---> <b>BOTH SPOUSES</b> forget <b>VALUE</b> of being <b>TOGETHER</b>;<br/>
---> where: <b>EACH</b> opts self is already sufficiently <b>STRONG individually</b>.<br/>
---> <b>OUTPUT:</b> Increase of <b>PROBLEMS</b> within <b>FAMILY UNIT</b> and its <b>social network</b><br/>
-<br/>
---> <b>EXAMPLE#1:</b> Continuous <b>INDIRECT COMMUNICATION</b> of SPOUSES via the CHILDREN<br/> 
---> <b>EXAMPLE#2:</b> <b>NEGATIVE EMOTION</b> caused by among others:<br/> 
---> <b>ENVY of OTHERS</b>, <b>LESS PHYSICAL ACTIVITY</b><br/> 
---> as with continuous viewing of <b>NEWSFEEDS</b> via <b>social media</b>, e.g. Facebook<br/>
-<br/>
---> remembers: <b>HISTORY of EAST and WEST Germany</b><br/>
---> where: in <b>EAST Germany</b>, people began to use <b>INDIRECT COMMUNICATION</b><br/>
---> due to <b>POLICE</b> may <b>ARREST</b> those who were against the <b>SYSTEM</b><br/> 
---> where: <b>SYSTEM</b> : <b>PUBLIC sharing</b> of items/services, despite <b>UNCLEAR contribution</b> of <b>ALL members</b><br/>
---> <b>OUTPUT</b>: <b>WEST Germany</b> became <b>WEALTHIER</b> than the EAST due to <b>SYSTEM efficiency</b>,<br/>
---> caused by: <b>DIRECT COMMUNICATION</b> with <b>SUPPORT</b> from <b>FACTS</b>.<br/>
-<br/>
-
-1.1.2) received: <a class="webServiceLink" target="_blank" href="https://www.usbong.ph/contact">USBONG JOB/Trainee applicants</a><br/>
---> requested: to answer <a class="webServiceLink" target="_blank" href="https://github.com/usbong/documentation/tree/master/Usbong/company/HR/Usbong%20Education%20Training%20Courses/Introduction%20to%20Maparaang%20Pagbibilang">Maparaang Pagbibilang Questions:</a><br/>
-
---> <b>TOPIC:</b><br/> 
---> Q.1) ALGEBRA<br/> 
---> Q.2) COORDINATE SYSTEM<br/>
---> Q.3) 2D SHAPES<br/>
---> Q.4) 3D SHAPES<br/>
---> Q.5) TRIGONOMETRY<br/>
-<br/>
---> reminder: Middle~High School Level<br/>
---> focused: on practical application as applied in Computer Automation<br/>
---> Example#1 (COORDINATE SYSTEM): Correct <b>IDENTIFICATION</b> of <b>ROW&COLUMN POSITIONS</b><br/> 
---> in Spreadsheet Tool, e.g. <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ww/microsoft-365/excel">Microsoft Office EXCEL</a>, <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice CALC</a>;<br/>
-<br/>
-<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202202/financeCompoundNotesV20220215.png">	
-<br/>
-<br/>
---> Example#2 (3D SHAPES): <b>INK Cartridge Replacement</b> of <a class="webServiceLink" target="_blank" href="https://support.hp.com/ph-en/document/c02227508">Hewlett Packard (HP) Printer</a><br/>
-<br/>
-<img class="newsletterImage" width="40%" height="40%" src="assets/images/newsletter/202204/exampleFromSupportHPDotComSlideInkCartridgeIntoSlotc02232542.gif">	
-<br/>
-<br/>
---> shared: know-how in 日本語 (にほんご; nihongo)<br/>
---> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/school/">https://github.com/usbong/school/
+--> 1.1.2) continued: to share know-how in <b>日本語 (にほんご; nihongo)</b><br/>
+--> <b>Usbong SCHOOL:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/school/">https://github.com/usbong/school/
 </a><br/>
-<br/>
-<table class="noteTable">
-	<tr>
-		<td>
-		<b>OBJECTIVE</b><br/>
-		</td>
-	</tr>	
-	<tr>
-		<td>
-		to create <b>ORDER</b> from the <b>CHAOS</b> of <b>disorganized THOUGHTS and IDEAS</b><br/>
-		i.e.: <b>SCIENCE (理系(りけい)、科学(かがく))</b><br/>
-		<b>science keyphrase:</b> CORRECT, identification, classification<br/>
-		<br/>
-		where: <b>MANLOLOKO</b>/budol-budol/carnapper/smuggler/<br/>
-		cybercriminal/Teroristang Komunista group causes CHAOS<br/>		
-		<br/>
-		<b>reminder:</b> Increase in Teroristang Komunista : Speed-up of <b>SOCIAL CANCER</b><br/>
-		</td>	
-	</tr>	
-</table>
-<br/>
-<table class="noteTable">
-	<tr>
-		<td>
-		<b>REQUEST</b><br/>
-		</td>
-	</tr>	
-	<tr>
-		<td>
-		purpose: NOT to achieve fame, neither is it to boast; A single-minded enthusiasm with no expectation of material reward, is vital.<br/>
-		<br/>
-		world goals and ambitions:<br/>
-		<br/>
-		<b>Examples:</b><br/>
-		to fight people<br/>
-		for vanity<br/>
-		to humiliate people<br/>
-		to enhance reputation<br/>
-		for financial gain<br/>
-		</td>	
-	</tr>	
-	<tr>
-		<td>
-		<br/>
-		<b>Reference:</b><br/>
-		<a class="webServiceLink" target="_blank" href="https://www.amazon.com/Kendo-Definitive-Guide-Hiroshi-Ozawa/dp/4770021194">Ozawa, Hiroshi. (1997). "Kendo: the definitive guide (translated by Angela Turzynski)". Tokyo: Kodansha International, Ltd.</a><br/>
-		</td>
-	</tr>	
-</table>
-<br/>
-<table class="noteTable">
-	<tr>
-		<td>
-		<h2><b>日本語 (にほんご; nihongo)</b></h2>
+--> <b>Japanese Language Proficiency Test (JLPT):</b> <a class="webServiceLink" target="_blank" href="https://www.jlpt.jp/">https://www.jlpt.jp/
+</a><br/>
 
-		<b>Example Recordings: Training Sessions</b><br/>
-		<a class="webServiceLink" target="_blank" href="http://store.usbong.ph/server/audio/viewAudio.php">http://store.usbong.ph/server/audio/viewAudio.php
-		</a>
-		<br/>
-		<br/>
-		<b>DOWNLOADABLES</b><br/>
-    1) What is <b>とか</b>?<br/>
-    <b>keyphrase:</b> とか, Radio, Speaker, Mic, Karaoke<br/>
 <br/>
-    2) What is <b>つぶし</b>?<br/>
-    <b>keyphrase:</b> SOCIAL MEDIA, 時間 (jikan), つぶし(tsubushi)<br/>
-<br/>
-    3) What is <b>スタックオーバーフロー</b>?<br/>
-    <b>keyphrase:</b> DISCORD, スタックオーバーフロー (stackoverflow), LOGICAL Q&A, reddit, Facebook (FB)<br/>
-    		</td>	
+<table class="noteTable">
+	<tr>
+		<td>
+		<b>JLPT LEVEL: N5~N4; where: N1 highest @HIGHSCHOOL level</b><br/>
+		</td>
 	</tr>	
 	<tr>
 		<td>
+<b>1) Sectional Pass Mark:</b> >= 31.6%<br/>
+<b>1.1) Language Knowledge: (Vocabulary/Grammar）・Reading</b><br/>
+38/120 = 0.316;<br/>
+31.6%<br/>
 <br/>
-		<b>COMPUTER SOFTWARE TOOLS</b><br/>
-<a class="webServiceLink" target="_blank" href="https://www.audacityteam.org/">https://www.audacityteam.org/</a>
-; last accessed: 20220427<br/>
---> Multi-track audio editor and recorder<br/>
+<b>1.2) Listening</b><br/>
+19/60 = 0.316;<br/>
+31.6%<br/>
+<br/>
+<b>2) Total PASS Mark:</b> >= 50.0%<br/>
+90/180 = 0.5;<br/>
+50.0%
+		</td>	
+	</tr>	
+</table>
+<br/>
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			<b>Recommended Actions:</b><br/>
+			1) verify: <b>Sample Examinations</b> as practice before <b>Actual Examination</b><br/>
+			--> observed: Listening Part to appear to be excessively QUICK due to student has LESS <b>audio material</b> to repeatedly listen as practice<br/>
+			where: <b>audio material</b> : @same/similar LEVEL as Examination<br/>
+			<br/>
+			2) verify: <b>Examination Rules</b> to receive: <b>PASS</b><br/>
+			--> observed: with select examinations, difficulty level NOT in increasing sequence;<br/> 
+			<b>ACTION</b>: finish: questions that <b>CAN be QUICKLY answered CORRECTLY</b>;<br/>
+			--> This is instead of using available <b>TIME</b> to answer more difficult questions valued @<b>SAME POINTS</b><br/>
+			<br/>
+			3) verify: <b>VALUE</b> to receive <b>PASS</b> in Examination<br/>
+			<b>Example OUTPUT:</b> increase in <b>RANK</b><br/>
+			--> reminder: No need to use available <b>TIME</b> and <b>MONEY</b> to take Examination<br/>
+			--> where: <b>VALUE</b> classified to be <b>LOST</b> 
 		</td>
 	</tr>
-	<tr>
-		<td>
-<h2><b>Recommended Listening Practice</b></h2>
-<h3><b>Minna no Nihongo I 2nd Edition CD</b></h3>
-<a class="webServiceLink" target="_blank" href="https://archive.org/details/65-dai-18-ka-mondai-2">https://archive.org/details/65-dai-18-ka-mondai-2
-</a>;<br/>
-last accessed: 20220420
-<h3><b>Technique Notes</b></h3>
-    <b>Use:</b> example conversations, instead of individual words;<br/>
-    <b>Listen:</b> repeatedly until CAN remember the next conversation in the audio sequence<br/>
-    <br/>
-    <b>Additional Note:</b><br/> 
-    1) as with children, you shall be able to identify individual words that you repeatedly hear, if NOT yet the whole sentence<br/>
-    <b>use:</b> dictionary to learn the significance of those individual words that you repeatedly hear;<br/>
-    <b>reminder:</b> You may still be able to understand the significance of the whole sentence,<br/>
-    even without yet knowing ALL the individual words<br/>
-
-	<h3><b>Output</b></h3>
-    High School Level nihongo (Japanese Language Proficiency Level (JLPT) N1)<br/>
-    --> Learning Time (Estimated): 5years		
-    	</td>	
-	</tr>	
 </table>
+
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
