@@ -380,11 +380,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-
-	<base href="http://localhost/usbong_newsletters/" target="_blank">
 <!-- //edited by Mike, 20220325
-	<base href="http://store.usbong.ph/" target="_blank">
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
+	<base href="http://store.usbong.ph/" target="_blank">
   </head>
 	  <script>
 	  </script>
@@ -556,7 +555,7 @@ due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
 			<br/>
 			<b>where: router#2</b> can be located in the Philippines or another country<br/> 
 			<br/>
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkUsedAsDefenseExampleComputerNetworkSchematicDiagram.jpg"><br/>	
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkUsedAsDefenseExampleComputerNetworkSchematicDiagram.jpg"><br/>	
 			<br/>
 installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> on <b>Computer Server</b> as <b>DEFENSE</b><br/>
 <br/>
@@ -583,7 +582,7 @@ installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshar
 			<b>Example OUTPUT:</b> <b>DELAY</b> in service execution<br/>			 
 			<br/>
 			<br/>
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkMisusedByManlolokoToAttackExampleComputerNetworkSchematicDiagram.jpg"><br/>	
+			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkMisusedByManlolokoToAttackExampleComputerNetworkSchematicDiagram.jpg"><br/>	
 			<br/>
 			identify: <b>IP Addresses</b> from <b>captured network traffic LIST</b><br/>
 			<br/>
