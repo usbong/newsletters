@@ -8,6 +8,68 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
 
+## [宅間守元死刑囚に言ってほしかった「一言」　向き合った弁護士の思い](https://www.asahi.com/articles/ASQ655TRXQ5KPPTB007.html?iref=comtop_7_02); last accessed: 20220606
+
+"Ang salitang" nais sabihin ng Dating Bilanggong nakapila sa Parusang Kamatayan na si TAKUMA, MAMORU ng humarap sa kanyang Abogado (Tagapagtanggol ng Salita); Alaala ng Tagapagtanggol ng Salita
+
+### Mga susing parirala:
+
+<b>Pangalan:</b> 宅間守・元死刑囚 TAKUMA, MAMORU (Dating Bilanggong nakapila sa Parusang Kamatayan) 
+
+> 「死ぬ事は、全く恐（こわ）くありません」
+
+"Ang mamatay, wala akong anumang takot."
+
+>　弁護団に宛てた手紙にそう書いていた宅間元死刑囚。
+
+Ito ang isinulat na liham ni TAKUMA, MAMORU (Dating Bilanggong nakapila sa Parusang Kamatayan) sa Samahan ng mga Abogado (Tagapagtanggol ng Salita).
+
+Ito rin ang salitang nais sabihin niya kay Abogadong si TODANI (戸谷弁護士). 
+
+> 弁護団は、公判で起訴内容を争わない方針をとった。罪を償う意識を持ってほしかったからだ。
+
+Ang samahan ng mga Abogado, kinuha nila ang paraan (POLICY), kung saan walang anumang awayan sa nilalaman ng pagsimula ng KASO sa pampublikong paghusga. Nais kasi nilang dalhin ng May-sala ang kasalanan sa pamamagitan ng pagako nito sa kanyang kamalayan.<br/> 
+<br/>
+--<br/>
+
+> 戸谷（とだに）茂樹弁護士（76）は主任弁護人として、宅間守・元死刑囚と向き合ってきた。
+
+Hinarap ni TODANI, SHIGEKI (Abogado; 76 Taong Gulang), bilang Pangunahing Abogado, si TAKUMA, MAMORU (Dating Bilanggong nakapila sa Parusang Kamatayan).<br/>
+<br/>
+--<br/>
+
+> 大阪教育大付属池田小学校で児童8人が亡くなり、15人が重軽傷を負った事件から8日で21年になる。
+
+Sa Mababang Paaralan ng IKEDA na may ugnayan sa Pamantasan ng OSAKA sa Pag-aaral, yumao ang 8 bata, 15 tao naman ang nag-ako ng mabigat at magaang sugat. Mula nitong pangyayari (insidente), sa ika-8, magiging 21 Taon na ang makalilipas.<br/>
+<br/>
+--<br/>
+
+> 公判で口にした「世の中、全員が敵だった」
+
+Sa Pampublikong Paghusga, gamit ang kanyang bibig, "Sa daigdig, kalaban ko ang lahat."
+
+>　「弁護士なんかいらん」…
+
+"Ang Abogado man, hindi ko kailangan"...<br/>
+<br/>
+--<br/>
+
+> この記事は有料会員記事です。残り2090文字有料会員になると続きをお読みいただけます。
+
+Sa mga nagbabayad na kasapi (member) ang sulating ito. May natitira pang 2090 titik, maaari po ninyong mabasa ang kasunod kapag naging kasapi na po kayo.<br/>
+
+### Sanggunian
+https://ja.wikipedia.org/wiki/死刑囚; last accessed: 20220606<br/>
+
+> 死刑囚（しけいしゅう）は、死刑の判決が確定した囚人に対する呼称である。 死刑が執行されるまでその身柄は刑事施設に拘束される。 また死刑は自らの生命と引換に罪を償う生命刑とされることから、執行されるとその称は「元死刑囚」となる。
+
+Ang mga nakapila sa Parusang Kamatayan, kapag ipinalit ang sariling buhay sa Habambuhay na Bilanggo upang i-ako ang kasalanan, sa pagpatupad nito, magiging "Dating Bilanggong nakapila sa Parusang Kamatayan" ang tawag dito.
+
+### Dagdag:
+1) Basahin nang maigi upang matukoy ang kahulugan;<br/>
+--> Kinahinatnan: Isinaayos ko ang mga bahagi ayon sa aking pag-unawa mula sa sulatin.<br/>
+--> Ito'y bagama't hindi ito ganito nakaayos sa unang sulatin.
+
 ## [（天声人語）子どもと銃被害](https://www.asahi.com/articles/DA3S15307860.html?iref=comtop_Opinion_05); last accessed: 20220528
 
 > （天声人語）子どもと銃被害
