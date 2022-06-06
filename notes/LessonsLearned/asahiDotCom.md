@@ -28,7 +28,7 @@ Ito rin ang salitang nais sabihin niya kay Abogadong si TODANI (戸谷弁護士)
 
 > 弁護団は、公判で起訴内容を争わない方針をとった。罪を償う意識を持ってほしかったからだ。
 
-Ang samahan ng mga Abogado, kinuha nila ang paraan (POLICY), kung saan walang anumang awayan sa nilalaman ng pagsimula ng KASO sa pampublikong paghusga. Nais kasi nilang dalhin ng May-sala ang kasalanan sa pamamagitan ng pagako nito sa kanyang kamalayan.<br/> 
+Ang samahan ng mga Abogado, kinuha nila ang paraan (POLICY), kung saan walang anumang awayan sa nilalaman ng pagsimula ng KASO sa Pampublikong Paghusga. Nais kasi nilang dalhin ng May-sala ang kasalanan sa pamamagitan ng pag-ako nito sa kanyang kamalayan.<br/> 
 <br/>
 --<br/>
 
