@@ -7,6 +7,61 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [5歳児餓死、母が語った「ママ友にマインドコントロールされるまで」](https://www.asahi.com/articles/ASQ666S43Q66TIPE02F.html?iref=comtop_Topnews2_04); last accessed: 20220607
+
+> 5歳児餓死、母が語った「ママ友にマインドコントロールされるまで」
+
+5 taong batang anak namatay sa gutom;<br/>
+Salaysay ng Ina: humantong sa ginamitan na ako ng "MIND CONTROL" ng aking kaibigang Nanay;
+
+> 有料会員記事
+
+Sulatin sa nagbayad na kasapi
+
+> 板倉大地、中山直樹
+
+Itakura Daichi, Nakayama Naoki
+
+> 2022年6月6日 21時00分
+> 
+2022-06-06T21:00
+
+### POOK: 福岡県篠栗町
+FUKUOKA PREFECTURE, SASAGURI TOWN
+
+### PANAHON: 2020年4月
+2020-04
+
+> 翔士郎
+
+SHOU, SHIROU (5 taong gulang ng panahong iyon)<br/>
+--> Ikatlong Anak na LALAKE
+
+> 知人の赤堀恵美子被告（49）=同罪などで起訴=から様々なうそをつかれて「『支配』されて金銭を搾取された」として、出会ってからの経緯を語った
+
+Samu't saring mga kasinungalingan ang ginawa sa kanya ng kakilala niyang si Emiko Akahori (49); ginamitan din daw siya ng "MIND CONTROL", niloko upang kunan ng pera; sinalaysay niya ang mga pangyayari pagkatapos nilang magkita.
+
+> 被告
+
+Sinasabihan; DEFENDANT<br/>
+碇（いかり）利恵; IKARI RIE; NANAY
+
+> 弁護人によると「支配はしていない」と共謀について否認している。
+
+Ayon sa kanyang Abogado (DEFENSE), hindi naman siya ginamitan ng "MIND CONTROL";<br/>
+Ukol sa magkasabwat, hindi naman.
+
+### Dagdag#1:
+Kabilang din si Emiko Akahori bilang DEFENDANT
+
+### 同罪などで起訴
+Pareho silang kinasuhan ng parehong kasalanan, atbp;
+
+### Dagdag#2:
+guhit
+
+### Sanggunian:
+1) GOOGLE TRANSLATE; sa mga pangalan, pook, atbp
 
 ## [宅間守元死刑囚に言ってほしかった「一言」　向き合った弁護士の思い](https://www.asahi.com/articles/ASQ655TRXQ5KPPTB007.html?iref=comtop_7_02); last accessed: 20220606
 
