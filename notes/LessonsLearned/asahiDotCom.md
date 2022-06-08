@@ -7,6 +7,45 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [（記者解説）技能実習とベトナム　「利益第一」のゆがみ、根本的改革を　ＧＬＯＢＥ編集部・織田一](https://www.asahi.com/articles/DA3S15315935.html?iref=comtop_Opinion_02)
+
+(Paliwanag ng May-akda) Tunay na Pagkatuto ng Kakayanang TEKNIKAL at ang VIETNAM; Baliktot na "Kita (profit) ang Pangunahin", Pagbabago sa Ugat; <br/>
+
+> ＧＬＯＢＥ編集部・織田一
+
+Unit: Pinagsamang GLOBE <br/>
+ODA, ICHI
+
+> 有料会員記事
+
+Sulatin sa nagbayad na kasapi
+
+> 2022年6月6日 5時00分
+2022-06-06T05:00
+
+> ・ベトナム人技能実習生が日本で激増したのはなぜか。２００３年と０７年にかぎがある
+
+Bakit nakagugulat ang pagtaas ng mga taga-VIETNAM na mag-aaral upang tunay na matuto ng Kakayanang TEKNIKAL? Nasa mga taong 2003 at 2007 ang SUSI.
+
+>　・日中合作の実習生受け入れモデルがベトナムに持ち込まれ変容。彼らを苦しめている
+
+Dinala sa VIETNAM at ipinasok sa Binagong Nilalaman, ang tinaggap na MODELO ng pinagsamang gawa ng mga mag-aaral mula bansang Hapon at Tsina. Hirap sila.
+
+>　・技能実習制度の運用を大幅に見直し、「ベトナム依存」からの脱却を急ぐべきだ
+
+Malawak ang inayos sa nibel ng paghigpit sa Tunay na Pagkatuto ng Kakayanang TEKNIKAL upang mailipat ito at gamitin; Kinailangang mabilisin ang pag-alis mula sa "Pananatili sa VIETNAM"
+
+>　　　　　◇
+
+>　外国人技能実習制度ができて来年で３０年…
+
+Ang pagkagawa ng nibel ng paghigpit sa Tunay na Pagkatuto ng mga Dayuhang Mamamayan, sa sumunod na taon, 30 Taon na ang makalilipas...
+
+> この記事は有料会員記事です。残り2208文字有料会員になると続きをお読みいただけます。
+
+Sa mga nagbabayad na kasapi (member) ang sulating ito. May natitira pang 2208 titik, maaari po ninyong mabasa ang kasunod kapag naging kasapi na po kayo.
+
+
 ## [5歳児餓死、母が語った「ママ友にマインドコントロールされるまで」](https://www.asahi.com/articles/ASQ666S43Q66TIPE02F.html?iref=comtop_Topnews2_04); last accessed: 20220607
 
 > 5歳児餓死、母が語った「ママ友にマインドコントロールされるまで」
