@@ -33,7 +33,7 @@ Dinala sa VIETNAM at ipinasok sa Binagong Nilalaman, ang tinaggap na MODELO ng p
 
 >　・技能実習制度の運用を大幅に見直し、「ベトナム依存」からの脱却を急ぐべきだ
 
-Malawak ang inayos sa nibel ng paghigpit sa Tunay na Pagkatuto ng Kakayanang TEKNIKAL upang mailipat ito at gamitin; Kinailangang mabilisin ang pag-alis mula sa "Pananatili sa VIETNAM"
+Malawak ang inayos sa pagtingin sa nibel ng paghigpit sa Tunay na Pagkatuto ng Kakayanang TEKNIKAL upang mailipat ito at gamitin; Kinailangang mabilisin ang pag-alis mula sa "Pananatili sa VIETNAM"
 
 >　　　　　◇
 
