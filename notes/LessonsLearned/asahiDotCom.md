@@ -25,7 +25,7 @@ Sulatin sa nagbayad na kasapi
 
 > ・ベトナム人技能実習生が日本で激増したのはなぜか。２００３年と０７年にかぎがある
 
-Bakit nakagugulat ang pagtaas ng mga taga-VIETNAM na mag-aaral upang tunay na matuto ng Kakayanang TEKNIKAL? Nasa mga taong 2003 at 2007 ang SUSI.
+Bakit nakagugulat ang pagtaas sa Bansang Hapon ng mga taga-VIETNAM na mag-aaral upang tunay na matuto ng Kakayanang TEKNIKAL? Nasa mga taong 2003 at 2007 ang SUSI.
 
 >　・日中合作の実習生受け入れモデルがベトナムに持ち込まれ変容。彼らを苦しめている
 
