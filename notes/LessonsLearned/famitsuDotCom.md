@@ -1,7 +1,24 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
+
+## [“ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供](https://www.famitsu.com/news/202206/08264224.html); last accessed: 20220609
+
+> “ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供
+
+> 2022.06.08 23:00
+2022-06-08T23:00
+
+JUMP APP DEV CONTEST 2022;<br/>
+MANGA APP+WEB SERVICE PROJECT<br/>
+WINNING PROJECT: DEV CAPITAL 5000\*10K YEN (MAX)<br/>
 <br/>
-https://www.famitsu.com/news/202203/26256047.html;<br/>
-last accessed: 20220327<br/>
+仕組み : MEKANISMO, MAKINA, PAMAMARAAN<br/>
+--> Pinagsamang paglingkod<br/>
+
+> 少年ジャンプ」は、新しい作品創出の基地です。創刊以来50年以上もの間、クリエイターが集まり、成長を促し、読者と共に新作を人気作に導くエコシステムが機能してきました。
+
+SHOUNEN JUMP: Simulang pook kung saan inilalabas ang mga bagong LIKHA. Simula nang naglathala, sa loob ng higit sa 50 taon, nagsama ang mga CREATOR (MANLILIKHA), ipinairal ang paglaki nito, kasama ang mga Mambabasa, bumuo ng ECO SYSTEM upang gabayan ang mga bagong LIKHA na maging tanyag.
+
+## https://www.famitsu.com/news/202203/26256047.html; last accessed: 20220327<br/>
 <br/>
 2022-03-27T09:06~09:28; 22MINS<br/>
 2022-03-27T09:36~10:01; 25MINS<br/>
