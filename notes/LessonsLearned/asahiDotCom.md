@@ -7,7 +7,61 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
-## [（記者解説）技能実習とベトナム　「利益第一」のゆがみ、根本的改革を　ＧＬＯＢＥ編集部・織田一](https://www.asahi.com/articles/DA3S15315935.html?iref=comtop_Opinion_02)
+
+## [「かけ放題」悪用、ドコモから9700万円詐取か 14人逮捕](https://www.asahi.com/articles/ASQ697590Q69OIPE00G.html?iref=comtop_7_05); last accessed: 20220610
+
+> 「かけ放題」悪用、ドコモから9700万円詐取か 14人逮捕
+
+WRONG USE of "USE ALL YOU CAN", STOLEN via FRAUD FROM DOCOMO (TELECOM COMPANY), 9700\*10K YEN? 14 persons ARRESTED
+
+> 有料会員記事
+
+PAID MEMBER NEWS ARTICLE
+
+> 松島研人2022年6月9日 22時30分
+
+MATSUSHIMA KENTO; 2022-06-09T22:30
+
+> 愛知県警や山口県警など
+
+POLICE @AICHI-PREFECTURE, YAMAGUCHI-PREFECTURE, ET CETERA 
+
+> 男14人を組織犯罪処罰法違反（詐欺）などの疑いで逮捕
+
+ARRESTED, 14 MEN, due to suspected of ORGANIZED CRIMINAL ACTION (FRAUD), et cetera
+
+> 通信事業会社（東京都港区）の社員神山悦智（51）や、別の通信事業会社長の高橋和男（59）
+
+TELECOMMUNICATIONS COMPANY (TOKYO CITY MINATO DISTRICT)'s Employee: </br>
+KAMIYAMA, ETSUCHI (51)</br>
+</br>
+DIFFERENT TELECOM COMPANY's PRESIDENT: </br>
+TAKAHASHI, KAZUO</br>
+
+> 通信事業者間では、互いの通信網をつないだ通話の場合
+
+CASE BETWEEN TELECOM COMPANIES, where TALK VIA CONNECTED MUTUAL COMMUNICATIONS NETWORK</br>
+</br>
+DOCOMO ACCESS CHARGE PLAN; </br>
+CALL RECEIVER PAYS; </br>
+</br>
+CRIMINAL ACTION: AUTOMATIC CALLING;</br>
+
+--> FRAUD COST TO DOCOMO COMPANY: </br>
+9775\*10K YEN classified as ACCESS CHARGE PLAN
+
+### Sanggunian:
+1) GOOGLE TRANSLATE</br>
+--> Nasa Wikang Ingles, ang wastong pagbasa ng pangalan ng binabanggit na Hapon.</br>
+--> Ito'y sa halip na sa RO-MAJI ng Wikang Hapon.</br>
+
+### Dagdag:
+1) Kinailangan kong basahin muli nang maigi upang maunawaan kung bakit ginawa ang pang-abuso sa ACCESS CHARGE PLAN ng DOCOMO (TELECOM);</br>
+--> Ayon sa sulatin, kabilang sa magkaibang TELECOM ang ilang mga dinakip.</br>
+--> Mayroon pang natitirang 200 titik sa sulatin upang matiyak kung kabilang sa DOCOMO ang ilan sa mga dinakip;
+
+
+## [（記者解説）技能実習とベトナム　「利益第一」のゆがみ、根本的改革を　ＧＬＯＢＥ編集部・織田一](https://www.asahi.com/articles/DA3S15315935.html?iref=comtop_Opinion_02); last accessed: 20220608
 
 (Paliwanag ng May-akda) Tunay na Pagkatuto ng Kakayanang TEKNIKAL at ang VIETNAM; Baliktot na "Kita (profit) ang Pangunahin", Pagbabago sa Ugat; <br/>
 
