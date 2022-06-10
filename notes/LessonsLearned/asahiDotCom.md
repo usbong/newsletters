@@ -7,6 +7,40 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [名市大博士号汚職事件（2008年07月08日　夕刊）](https://www.asahi.com/topics/word/愛知県警.html); last accessed: 20220610
+
+> 関連キーワード: 愛知県警
+
+Related KEYWORD: AICHI-PREFECTURE POLICE
+
+> 名市大博士号汚職事件（2008年07月08日　夕刊）
+
+Nagoya City University Doctorate Degree, Corruption Incident (2008-07-08; Evening Publication)
+
+>    ０５年３月に伊藤元教授の指導で医学博士号を取得した学位申請者１３人が、審査での便宜の謝礼として１人当たり２０万〜３０万円を元教授に渡したとされる汚職事件。愛知県警は贈賄側の１３人についても書類送検したが、起訴猶予処分となった。同大は事件発覚後、０４〜０７年度の審査を調査。医学研究科内では、現金を受け取ったとの回答が９件、渡したとの回答が４６件あり「一部で現金の授受が習慣化していた」と結論づけた。
+
+CORRUPTION INCIDENT: <br/>
+In March of the Year 2005, Medical Doctor Degree received by 13persons guided by former professor, ITO; <br/>
+<br/>
+After investigation, each person gave to former professor 200,000\~300,000YEN (100,000\~150,000PHP (approx)) as gratitude;<br/>
+<br/>
+AICHI-PREFECTURE Police verified sent documents regarding the side of the 13persons' BRIBERY; however, filed as an opened complaint for further processing.  <br/>
+<br/>
+After discovery of the incident, the same university investigated the judgement in the years 04~07. The Medical School's Research on Internal Science answered with 9incidents of receiving CASH, 46 incidents of handing out the ANSWERS, concluded: "became a habit for the UNIT to receive CASH.
+
+### Sanggunian:
+1) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E;<br/> 
+last accessed: 20220610<br/>
+
+> 起訴猶予
+
+> 猶予 【ゆうよ】 (n,vs) postponement; deferment; extension (of time);
+
+> 起訴猶予 【きそゆうよ】 (n) suspension of indictment; leaving charge on the file; (P) [Links]
+
+2) GOOGLE TRANSLATE;<br/> 
+last accessed: 20220610<br/>
+
 
 ## [「かけ放題」悪用、ドコモから9700万円詐取か 14人逮捕](https://www.asahi.com/articles/ASQ697590Q69OIPE00G.html?iref=comtop_7_05); last accessed: 20220610
 
