@@ -26,7 +26,7 @@ After investigation, each person gave to former professor 200,000\~300,000YEN (1
 <br/>
 AICHI-PREFECTURE Police verified sent documents regarding the side of the 13persons' BRIBERY; however, filed as an opened complaint for further processing.  <br/>
 <br/>
-After discovery of the incident, the same university investigated the judgement in the years 04~07. The Medical School's Research on Internal Science answered with 9incidents of receiving CASH, 46 incidents of handing out the ANSWERS, concluded: "became a habit for the UNIT to receive CASH.
+After discovery of the incident, the same university investigated its judgement in the years 04~07. The Medical School's Research on Internal Science answered with 9incidents of receiving CASH, 46 incidents of handing out the ANSWERS, concluded: "It became a habit for the UNIT to receive CASH."
 
 ### Sanggunian:
 1) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E;<br/> 
