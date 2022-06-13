@@ -57,6 +57,9 @@ Mula ng mga taong 2015, sinimulan namin sa kapuluan ng NATUNA ang paglipat at pa
 
 Pagtayo ng mga instraktura ng mga kailangang UGNAYAN (NETWORK), KAPITAL sa Gawaing Militar
 
+### Sanggunian
+1) GOOGLE SEARCH ENGINE
+2) GOOGLE TRANSLATE
 
 ## [名市大博士号汚職事件（2008年07月08日　夕刊）](https://www.asahi.com/topics/word/愛知県警.html); last accessed: 20220610
 
