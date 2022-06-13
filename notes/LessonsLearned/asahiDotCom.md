@@ -7,6 +7,58 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [アマゾン配達員「荷物量が異常」、AIで決まる激務　労組結成の背景](https://www.asahi.com/articles/ASQ6F62HQQ6BULEI008.html?iref=comtop_7_01); last accessed: 20220614
+
+07:18\~07:47; ELAPSED TIME: 29MINS<br/>
+
+> アマゾン配達員「荷物量が異常」、AIで決まる激務　労組結成の背景
+
+Taong tagapaghatid ng AMAZON, "Hindi karaniwan ang dami ng mga Gamit na Ipinadadala",<br/>
+Tungkuling Mabilisang Pinagpapasiyahan ng AI (Artificial Intelligence);<br/>
+Ang LIKOD ng nabuong Samahang ng mga Manggagawa
+
+> 有料会員記事
+> 
+Sulatin sa nagbayad na kasapi
+
+> 片田貴也2022年6月14日 5時00分
+
+KATADA, TAKAYA;<br/>
+2022-06-14T05:00
+
+
+> クリック一つで手元に届く、ネット通販大手「アマゾン」の宅配。
+
+Sa isa lamang CLICK, darating sa iyong palad, padala mula AMAZON, ang Malaking Gawaan ng Bentahan sa INTERNET (NETWORK)
+
+
+> 個人ドライバーの多くはアマゾンとは直接契約を結んでいませんが、同社から配送指示を受けていることから、「使用者」としての責任があるとして、団体交渉などを求めています。
+
+Walang direktang ugnayang kontrata ang karamihan sa mga nagsariling (private) DRIVER sa AMAZON; Gayunpaman, sapagkat tumatanggap ng paghahatid na utos mula sa nasabing KOMPANYA, bilang "MANGGAGAMIT" nito, may responsibilidad ang AMAZON, kaya humahangad sila ng negosisasyon bilang samahan, atbp.
+
+> 扱う荷物が急増、たまる疲労
+
+Mabilis na tumaas ang dami ng kailangang asikasuhing gamit; Naipon tuloy ang pagod mula sa paggawa
+
+>　神奈川県内の50代男性ドライバーは、2019年3月、アマゾンの2次下請けの運送会社と業務委託契約を結んだ。個人事業主なので、自分の車を使い、荷物の配送を担う。
+
+Sa loob ng KANAGAWA-PREFECTURE, isang 50 taong gulang na lalakeng DRIVER, nitong 2019-03, bumuo ng kontrata ng tungkulin sa isang Tagapaghatid na Kompanya, na ikalawang tumatanggap ng tungkulin mula naman sa AMAZON. 
+
+Sapagkat sariling (private) may-ari ng gawain, sariling sasakyan ang ginagamit, inaako ang paghahatid ng mga gamit.
+
+> 昨年9月、危機感を感じるできごとが起きた。
+
+Noong Setyembre ng nakaraang taon, nagising sa malaking mararamdamang panganib.
+
+### Sanggunian:
+1) GOOGLE<br/>
+--> ukol sa pangalan ng May-akdang HAPON;<br/>
+--> Kinailangan ko pang linawin ang wastong pagbasa mula sa imunungkahi ng GOOGLE TRANSLATE
+
+### Dagdag:
+1) Maaalalang nabasa ko sa MOODY'S REPORT ng Taong 2016~2017, nasa mga 10% lamang ang ONLINE MARKET sa AMERIKA; gayunpaman, isa si G. JEFF BEZOS ng AMAZON.COM sa may pinakamalaki ang kinikitang pera ayon sa list ng mga pinakamayaman sa AMERIKA ng ECONOMIST;
+
+
 ## [中国は最大貿易国、だが「借り」はない　インドネシア国軍司令官語る](https://www.asahi.com/articles/ASQ6D67H9Q6CUHBI035.html?iref=comtop_Topnews2_01); last accessed: 20220613
 
 07:55\~08:19; ELAPED TIME: 24MINS<br/>
