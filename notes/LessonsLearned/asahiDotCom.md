@@ -7,6 +7,53 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [中国は最大貿易国、だが「借り」はない　インドネシア国軍司令官語る](https://www.asahi.com/articles/ASQ6D67H9Q6CUHBI035.html?iref=comtop_Topnews2_01); last accessed: 20220613
+
+07:55~08:19; ELAPED TIME: 24MINS
+
+> 中国は最大貿易国、だが「借り」はない　インドネシア国軍司令官語る
+
+Tsina ang pinakamalaking MERCADO; gayunpaman, walang silang "HIRAM"; Salaysay ng KOMANDER ng Militar ng Bansang Indonesia
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi 
+
+> 聞き手・シンガポール=半田尚子2022年6月12日 20時30分
+
+Tagapakinig・SINGAPORE
+HANDA, NAOKO; 2022-06-22T20:30
+
+> シンガポールで開かれた「アジア安全保障会議（シャングリラ・ダイアローグ）」（英国際戦略研究所主催、朝日新聞社など後援）
+
+"Pagpupulong upang Ligtas at Ipagtanggol ang ASYA (SHANGRI-LA DIALOGUE) (Sa Pagsaliksik ng Pandaigdigang Labanan sa Wikang Ingles ginanap, ASAHI SHIMBUN, atbp, pagkatapos nito lumahok)
+
+> インドネシア国軍のアンディカ・プルカサ司令官（57）
+
+Hukbong Milatar ng Bansang Indonesia<br/>
+KOMANDER: ANDIKA PERKAS  (57)
+
+> 中国はインドネシアの最大の貿易相手国
+
+Ang Tsina ang pinakamalaking partner na bansa sa MERKADO ng Indonesia
+
+> 経済的な結びつきは「借り」ではない
+
+Kaugnay sa EKONOMIYA, walang "HIRAM" ang Tsina
+
+> ――南シナ海の南端にあるインドネシアのナトゥナ諸島では、空軍機が離着陸できるように空港の滑走路の延伸や新たな海軍基地の建設計画もあります。
+
+--Sa pinakatimog ng Timog Dagat ng Tsina, sa kapuluan ng NATUNA sa Indonesia, may PLANO sa pagbuo ng Bagong Base (Pook) ng Hukbong Pandagat, pahabain ang daan ng Paliparan upang may lupang aalisan at bababaan ang mga Makina ng Hukbong Panlipad.
+
+>　2015年ごろから私たちは、ナトゥナ諸島に（基地や戦闘機などの）軍事資産の移設を始めました。
+
+Mula ng mga taong 2015, sinimulan namin sa kapuluan ng NATUNA ang paglipat at pagbuo ng mga KAPITAL sa Gawaing Militar, e.g. Base (Pook), Makinang Panlaban.
+
+> 必要なネットワークや軍事資産を構築
+
+Pagtayo ng mga instraktura ng mga kailangang UGNAYAN (NETWORK), KAPITAL sa Gawaing Militar
+
+
 ## [名市大博士号汚職事件（2008年07月08日　夕刊）](https://www.asahi.com/topics/word/愛知県警.html); last accessed: 20220610
 
 > 関連キーワード: 愛知県警
