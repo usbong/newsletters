@@ -9,11 +9,15 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 ## [中国は最大貿易国、だが「借り」はない　インドネシア国軍司令官語る](https://www.asahi.com/articles/ASQ6D67H9Q6CUHBI035.html?iref=comtop_Topnews2_01); last accessed: 20220613
 
-07:55~08:19; ELAPED TIME: 24MINS
+07:55\~08:19; ELAPED TIME: 24MINS<br/>
+16:37\~16:40: EDITOR ELAPED TIME: 3MINS<br/>
+<br/>
+GRAND TOTAL ELAPSED TIME: 27MINS
 
 > 中国は最大貿易国、だが「借り」はない　インドネシア国軍司令官語る
 
-Tsina ang pinakamalaking MERCADO; gayunpaman, walang silang "HIRAM"; Salaysay ng KOMANDER ng Militar ng Bansang Indonesia
+Tsina ang pinakamalaking MERKADO; gayunpaman, walang silang "HIRAM";<br/> 
+Salaysay ng KOMANDER ng Militar ng Bansang Indonesia
 
 > 有料会員記事
 
@@ -21,7 +25,7 @@ Sulatin sa nagbabayad na kasapi
 
 > 聞き手・シンガポール=半田尚子2022年6月12日 20時30分
 
-Tagapakinig・SINGAPORE
+Tagapakinig・SINGAPORE<br/>
 HANDA, NAOKO; 2022-06-22T20:30
 
 > シンガポールで開かれた「アジア安全保障会議（シャングリラ・ダイアローグ）」（英国際戦略研究所主催、朝日新聞社など後援）
