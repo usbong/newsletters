@@ -7,6 +7,46 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [ドバイ出国の男を逮捕　コロナ給付金2億円不正受給グループを主導か](https://www.asahi.com/articles/ASQ6F6T2RQ6FUTIL03V.html?iref=comtop_7_04); last accessed: 20220614
+
+> ドバイ出国の男を逮捕　コロナ給付金2億円不正受給グループを主導か
+
+Male Arrested; Departed from DUBAI;<br/>
+MAIN DIRECTOR OF INCORRECT RECEIVER-GIVER GROUP 
+of CORONA DONATION VALUED @200MILLION
+
+> 大山稜2022年6月13日 20時33分
+
+OHYAMA RYOH; 2022-06-13T20:33
+
+> 東京国税局職員を含むグループが持続化給付金約2億円を不正受給したとされる事件で、警視庁は13日、住居、職業ともに不詳の松江大樹容疑者（31）を新たに詐欺容疑で逮捕し、発表した。同庁は松江容疑者がグループを主導していたとみて調べている。
+
+>　少年事件課によると、松江容疑者はグループのメンバーらと共謀し、2020年8月、埼玉県に住む当時高校生の少年（19）がコロナ禍で収入が減少した個人事業者であると装って持続化給付金を申請し、100万円をだまし取った疑いがある。調べに対し、「弁護士が来てから話す」と話しているという。
+
+>　松江容疑者は今年2月ごろに中東・ドバイへ出国していたが、13日夕に成田空港（千葉県成田市）に帰国したところを同庁に身柄を確保されたという。
+
+>　グループは仮想通貨（暗号資産）の投資名目で勧誘した若者ら約200人を名義人とする不正な申請で、給付金計約2億円を国に給付させたと同課はみている。松江容疑者は、名義人らが受け取った給付金のうち8割を投資資金として受iけ取っていたとされるが、実際に投資に充てられたかどうかはわかっていない。（大山稜）
+
+Male Suspect, MATSUE DAIKI (31) Arrested in NARITA Airport (CHIBA-KEN, NARITA CITY) on the 13th after arrival HOME from DUBAI;<br/>
+<br/>
+--> with GROUP who exploited Corona Virus Situation via DONATIONS Valued @200Million YEN<br/>
+<br/>
+--> where: receives from approx 200 YOUNG PEOPLE, e.g. 19YRS OLD, as DONATION to be invested to give to the NATION;<br/>
+<br/>
+--> SUSPECT was supposed to INVEST 80% of received MONEY; however, it is yet NOT KNOWN if MONEY was actually invested;<br/>
+
+### Dagdag:
+DONATION : TO GIVE PAID MONEY as SUPPORT due to COVID-19
+
+### Sanggunian:
+1) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E;<br/>
+last accessed: 20220614<br/>
+
+2) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
+
 ## [アマゾン配達員「荷物量が異常」、AIで決まる激務　労組結成の背景](https://www.asahi.com/articles/ASQ6F62HQQ6BULEI008.html?iref=comtop_7_01); last accessed: 20220614
 
 07:18\~07:47; ELAPSED TIME: 29MINS<br/>
