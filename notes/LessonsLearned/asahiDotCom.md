@@ -7,6 +7,23 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [グーグルの個人情報「記憶の全て見てる感覚」　記者が12年分を入手](https://www.asahi.com/articles/ASQ694CQYQ5NUHBI01L.html?iref=comtop_Topnews2_01); last accessed: 20220615
+
+> グーグルの個人情報「記憶の全て見てる感覚」　記者が12年分を入手
+
+Sariling (Pribadong) Balita sa GOOGLE: "Mulat sa pagtingin ng lahat ng Alaala";<br/> 
+Napasakamay ng May-akda ang kanyang 12 taong bahagi nito
+
+> サンフランシスコ=五十嵐大介2022年6月14日 19時00分
+
+SAN FRANCISCO; Igarashi, Daisuke; 2022-06-14T19:00
+
+### Dagdag: 
+1) Siniyasat ng May-akda ang tungkulin upang isulat itong balita
+
+### Sanggunian:
+1) GOOGLE TRANSLATE
+
 ## [ドバイ出国の男を逮捕　コロナ給付金2億円不正受給グループを主導か](https://www.asahi.com/articles/ASQ6F6T2RQ6FUTIL03V.html?iref=comtop_7_04); last accessed: 20220614
 
 > ドバイ出国の男を逮捕　コロナ給付金2億円不正受給グループを主導か
