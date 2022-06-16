@@ -13,7 +13,7 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 Si Dating Prime Minister, ABE, <br/>
 sa usapin sa Pinuno ng Bangkong Hapon;<br/> 
-binigyan diin ang salaysay na "Sa taong kaya ang MACRO ECONOMICS ANALYSIS"<br/>
+binigyang diin ang salaysay na "Sa taong kaya ang MACRO ECONOMICS ANALYSIS"<br/>
 
 > 自民
 
