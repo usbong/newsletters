@@ -7,6 +7,54 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [安倍元首相、日銀総裁人事で注文「マクロ経済分析できる方に」](https://www.asahi.com/articles/ASQ6H6DPNQ6HUTFK02Q.html?iref=comtop_Topnews2_01); last accessed: 20220616
+
+> 安倍元首相、日銀総裁人事で注文「マクロ経済分析できる方に」
+
+Si Dating Prime Minister, ABE, <br/>
+sa usapin sa Pinuno ng Bangkong Hapon;<br/> 
+binigyan diin ang salaysay na "Sa taong kaya ang MACRO ECONOMICS ANALYSIS"<br/>
+
+> 自民
+
+Sariling Samahan (Liberal Democrotic Party)
+
+> 楢崎貴司2022年6月15日 19時18分
+
+Narasaki Takashi; 2022-06-15;19:18
+
+> 安倍晋三元首相は15日、来年4月に任期を迎える日本銀行の黒田東彦総裁の後任について、「次の総裁もしっかりとしたマクロ経済分析ができる方にやってもらいたい」と述べた。
+
+Sa Ika-15, sinabi ni Dating Prime Minister, ABE SHINZOU, sa sunod na gagawa ng tungkulin ng Pinuno ng Bangkong Hapon na si KURODA, HARUHIKO: <br/>
+<br/>
+"Nais kong magagawa rin nang ayos ng sunod na Pinuno ang MACRO ECONOMICS ANALYSIS"<br/>
+<br/>
+Sa darating na Abril ng sumunod na Taon ang pagtalaga sa sunod na Pinuno;<br/>
+
+>　安倍氏は、これまでに「日本銀行は政府の子会社」「（国債を）何回借り換えたって構わない」との発言を続け、岸田文雄首相や鈴木俊一財務相は否定している。政府は日銀へ出資しているが、議決権がないとしている。（楢崎貴司）
+
+Hanggang sa kasalukuyan, patuloy ni G. ABE ang pagsasabi nang malakas nito:<br/>
+
+"Anak na samahan (kompanya) ng ADMINISTRASYON (ADMIN) ang Bangko ng Hapon"; <br/>
+<br/>
+"Walang kaso ang kahit ilang hiraman at palitan ng Pautang sa Bansa (Gov't Bonds)"; <br/>
+<br/>
+Hinihindian din niya sila:<br/>
+Prime Minister, KISHIDA, FUMIO,<br/>
+Sa Tungkuling Pinansyal na si, SUZUKI, SHUN'ICHI,<br/>
+atbp<br/>
+<br/>
+Naglalabas ng salapi tungo sa Bangko ng Hapon ang ADMIN; gayunpaman, wala itong karapating gumawa na pagpapasiya sa pulungan. (Narasaki Takashi)
+
+### Dagdag
+1) Maaaring hatiin ang salasay kapag sinalin mula Wikang Hapon tungo sa Wikang Filipino;<br/>
+--> Kung hindi, labis na mahaba;<br/>
+--> Gumamit ng bagong pahalang (NEW LINE);<br/>
+--> Maiging maiikli ang pangungusap, hango sa karaniwang pagsasalita; 
+
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [グーグルの個人情報「記憶の全て見てる感覚」　記者が12年分を入手](https://www.asahi.com/articles/ASQ694CQYQ5NUHBI01L.html?iref=comtop_Topnews2_01); last accessed: 20220615
 
 > グーグルの個人情報「記憶の全て見てる感覚」　記者が12年分を入手
