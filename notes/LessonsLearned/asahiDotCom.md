@@ -7,6 +7,45 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+
+## [岸田首相がみせた参院選への危機感　支持率高水準の「アキレス腱」は](https://www.asahi.com/articles/ASQ6H6QWVQ6HUTFK00C.html?iref=comtop_7_03); last accessed: 20220616
+
+> 岸田首相がみせた参院選への危機感　支持率高水準の「アキレス腱」は
+
+Ang ipinakitang pakiramdam na panganib ni Prime Minister KISHIDA sa botohan;<br/>
+Ang "ACHILLES HEEL (TAKONG)" ng pagtaas ng batayan ng mga tumatangkilik
+
+> 有料会員記事参院選2022
+
+Sa nagbabayad na kasapi; Botohan 2022
+
+> 森岡航平 鬼原民幸2022年6月15日 21時31分
+
+MORITA, KOHEI; ONIBARA, TAMIYUKI; 2022-06-15T21:31
+
+> 岸田政権は堅調な支持率を維持しているものの、国会終盤に物価高やスキャンダルが直撃するなど選挙戦への影響に神経をとがらせる。
+
+Bagama't pinanatili ng Pamahalang KISHIDA ang matibay na bilang ng pagtangkilik, may epekto ang tumutusok sa ugat nito sa labanan sa botohan, gawa ng pagtaas ng bilihin, direktang pagsalakay ng iskandalo, atbp sa dulo ng bansang pagpupulong;
+
+
+> 岸田文雄首相は15日夜の記者会見で、通常国会の実績をまず強調した。
+>　「61本の内閣提出法案のすべてを会期内に成立させることができた。26年ぶりのことだ」
+
+Kinailangang diinan muna ni Prime Minister, KISHIDA, FUMIO, noong ika-15 ng gabi, sa pagkikita kasama ng mga tagapag-ulat, ang naipong bunga ng karaniwang pambansang pagpupulong;
+
+"Nagawang itayo sa loob ng panahon ng pagkikita ang lahat ng 61 na samu't saring iminungkahing batas (policy). 26 taon din ang lumipas bago nakagawa ng ganito."
+
+>　さらに参院選の自民党のキャッチコピーである「決断と実行」を持ち出し「日々決断と実行の連続だった」と胸を張った。
+
+Dagdag pa, ipinagmalaki ng binotong Samahan ng Magsariling Mamamayan (LIBERAL DEMOCRATIC PARTY) ang "CATCH COPY": Dalhin ang "Pagpasiya AT Pagpatupad (EXECUTE)", "Araw-araw tuluy-tuloy ang pagpasiya at pagpatupad".
+
+> 首相は会見で、「内閣感染症危機管理庁」や「日本版CDC」の設置など、新たな政策を次々と表明。物価高騰対策では5・5兆円の予備費の活用にも言及。「断固として国民生活を守り抜く」と力を込めた。
+
+Sa pagkikita, tuluy-tuloy na ipinagbigay liwanag ng Prime Minister ang mga ito: "POOK ng Pagkontrol ng Panganib ng Paghawa ng Sakit sa Looban", ang paglagay ng "Centers for Disease Control (CDC) sa Wikang Hapon", panibagong mga hakbang (policy) ng ADMIN. Sa Hakbang ukol sa paglaban sa papalipad na pagtaas ng bilihin, idinagdag din niya sa pagsabi ang paghanda ng 5.5 Trilyong YEN bilang GASTOS sa kilusan. Inilaan niya ang lakas sa "Madiin niyang pagtatanggol hanggang kaya ang kabuhayan ng mamamayan ng Bansa."
+
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [安倍元首相、日銀総裁人事で注文「マクロ経済分析できる方に」](https://www.asahi.com/articles/ASQ6H6DPNQ6HUTFK02Q.html?iref=comtop_Topnews2_01); last accessed: 20220616
 
 > 安倍元首相、日銀総裁人事で注文「マクロ経済分析できる方に」
