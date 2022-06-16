@@ -17,25 +17,25 @@ binigyang diin ang salaysay na "Sa taong kaya ang MACRO ECONOMICS ANALYSIS"<br/>
 
 > 自民
 
-Sariling Samahan (Liberal Democrotic Party)
+Sariling Samahan (Liberal Democratic Party)
 
 > 楢崎貴司2022年6月15日 19時18分
 
-Narasaki Takashi; 2022-06-15;19:18
+Narasaki, Takashi; 2022-06-15;19:18
 
 > 安倍晋三元首相は15日、来年4月に任期を迎える日本銀行の黒田東彦総裁の後任について、「次の総裁もしっかりとしたマクロ経済分析ができる方にやってもらいたい」と述べた。
 
-Sa Ika-15, sinabi ni Dating Prime Minister, ABE SHINZOU, sa sunod na gagawa ng tungkulin ng Pinuno ng Bangkong Hapon na si KURODA, HARUHIKO: <br/>
+Sa Ika-15, sinabi ni Dating Prime Minister, ABE, SHINZOU, sa sunod na gagawa ng tungkulin ng Pinuno ng Bangkong Hapon na si KURODA, HARUHIKO: <br/>
 <br/>
 "Nais kong magagawa rin nang ayos ng sunod na Pinuno ang MACRO ECONOMICS ANALYSIS"<br/>
 <br/>
-Sa darating na Abril ng sumunod na Taon ang pagtalaga sa sunod na Pinuno;<br/>
+Sa darating na Abril ng sumunod na taon ang pagtalaga sa sunod na Pinuno;<br/>
 
 >　安倍氏は、これまでに「日本銀行は政府の子会社」「（国債を）何回借り換えたって構わない」との発言を続け、岸田文雄首相や鈴木俊一財務相は否定している。政府は日銀へ出資しているが、議決権がないとしている。（楢崎貴司）
 
-Hanggang sa kasalukuyan, patuloy ni G. ABE ang pagsasabi nang malakas nito:<br/>
+Hanggang sa kasalukuyan, patuloy si G. ABE sa pagsasabi nang malakas nito:<br/>
 
-"Anak na samahan (kompanya) ng ADMINISTRASYON (ADMIN) ang Bangko ng Hapon"; <br/>
+"Anak na samahan (kompanya) ng ADMINISTRASYON (ADMIN) ang Bangkong Hapon"; <br/>
 <br/>
 "Walang kaso ang kahit ilang hiraman at palitan ng Pautang sa Bansa (Gov't Bonds)"; <br/>
 <br/>
@@ -44,7 +44,7 @@ Prime Minister, KISHIDA, FUMIO,<br/>
 Sa Tungkuling Pinansyal na si, SUZUKI, SHUN'ICHI,<br/>
 atbp<br/>
 <br/>
-Naglalabas ng salapi tungo sa Bangko ng Hapon ang ADMIN; gayunpaman, wala itong karapating gumawa na pagpapasiya sa pulungan. (Narasaki Takashi)
+Naglalabas ng salapi tungo sa Bangkong Hapon ang ADMIN; gayunpaman, wala itong karapating gumawa na pagpapasiya sa pulungan. (Narasaki, Takashi)
 
 ### Dagdag
 1) Maaaring hatiin ang salasay kapag sinalin mula Wikang Hapon tungo sa Wikang Filipino;<br/>
