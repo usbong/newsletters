@@ -7,6 +7,53 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+## [米グーグルやメタなど33社、偽情報の流通防止へ　EUと合意](https://www.asahi.com/articles/ASQ6J7D21Q6JUHBI02X.html?iref=comtop_7_07); last accessed: 20220617
+
+> 米グーグルやメタなど33社、偽情報の流通防止へ　EUと合意
+
+Tungo sa paghinto ng daloy ng mga PEKENG Balita, 33kompanya ng AMERIKA: GOOGLE, META, atbp
+Sang-ayon ang EU
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> ブリュッセル=青田秀樹2022年6月16日 22時26分
+
+BRUSSELS; AOTA, HIDEKI; 2022-06-16T22:26 
+
+--
+
+> 欧州連合（EU）の行政を担う欧州委員会は16日、米グーグルやメタ（旧フェイスブック）ら33のIT大手企業などが、偽情報の流通防止へ対策を強めることで合意したと発表した。人工知能（AI）を用いて作られる「ディープフェイク」や偽アカウントも規制対象とし、情報の真偽を調べる「ファクトチェック」がEU内の全言語で出来るようにする。
+
+Ipinaalam ang pagsang-ayon ng European Union (EU) ang pampalakas ng batas upang ihinto ang pagdaloy ng PEKENG BALITA sa 33 Malalaking Mangangalakal ng I.T. ng Amerika: GOOGLE, META (dating Facebook), atbp;
+
+Ginagawa ang magagawa sa lahat ng Wika sa loob ng EU ang "FACT CHECK": pagsiyasat sa balita kung TUNAY ba ito o PEKE, tungo sa paghigpit ng batas sa paggamit ng Artificial Intelligence (AI; Taong Pinabilis ang Kaalaman at Kakayahan) sa paggawa ng "DEEP FAKE", pekeng account, atbp.
+
+>　ティックトック、ツイッター、マイクロソフト、ファクトチェックや広告関連の団体などが参画する「偽情報に対する行動規範」の内容を強化した。コロナ禍やロシアのウクライナ侵攻を背景に、政治的意図や詐取を目的とした偽情報がネット上を流通しないようにする。
+
+Pinalakas ang nilalaman sa pagsama sa larawan ng "Sakop ng Kilusan laban sa PEKENG BALITA" ang TIKTOK, TWITTER, MICROSOFT, FACT CHECK, mga samahang may kinalaman sa pagpapalaganap ng mga sinasabi, atbp. Sa likod ng CORONA VIRUS, pagsalakay ng RUSSIA sa UKRAINE, ginagawa ang makakaya upang hindi dumaloy sa INTERNET ang mga PEKENG BALITA na may pakay ng pamahalaan, upang manlinlang, atbp.
+
+>　具体的には、偽情報の発信者に広告収入が入らないようにしたり、巨大プラットフォーム事業者がもつデータに研究者らが容易にアクセスできるようにしたりすることで、偽情報の拡散防止につなげる。企業には一連の対策への取り組みが求められる。
+
+Sa laman nito, sapagkat ginagawang hindi makapasok sa mga naglalabas ng PEKENG BALITA ang kita sa mga Pagpapalaganap ng Sinasabi (ADVERTISEMENT), at madali ring magkaroon ng ACCESS ang mga mananaliksik sa DATOS na hawak ng mga Tauhan ng mga Dambuhalang PLATFORM, atbp
+nakadugtong ito sa paghinto ng paglaganap ng PEKENG BALITA. Hinahangad ng mga Mangangalakal ang pagsama sa isang magkaduktong na batas upang panlaban.
+
+
+>　違法コンテンツ排除などを進…
+
+Isulong ang pagbura sa ILEGAL na CONTENTS (NILALAMAN), atbp...
+
+
+> この記事は有料会員記事です。残り191文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 191 titik; kapag naging nagbabayad na kasapi na po, mababasa niyo po ang kasunod.
+
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+1) Elapsed Time: 31mins
 
 ## [岸田首相がみせた参院選への危機感　支持率高水準の「アキレス腱」は](https://www.asahi.com/articles/ASQ6H6QWVQ6HUTFK00C.html?iref=comtop_7_03); last accessed: 20220616
 
