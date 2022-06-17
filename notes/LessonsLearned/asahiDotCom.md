@@ -7,6 +7,11 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 ### ACTION: STRICT with newly elected politicians, e.g. Prime Minister KISHIDA, sharing that problem WORSE in Foreign Countries; where: increased DEATH COUNT due to FIRE during WINTER
 --> remembered: keyphrase regarding Philippines from JAPANESE NEWS: PAYATAS GARBAGE MOUNTAIN, FOOD POISONING OF CASSAVA CAKE in the VISAYAS (BOHOL?; YEAR 2005);
 
+### MGA PAALALA: sa mabilis na pagsasalin mula Wikang Hapon tungo sa Wikang Filipino: 
+--> Kapag natukoy na ang gumagawa ng PAGKILOS (AKSYON), alamin ang PANDIWA sa pamamagitan ng mabilis na pagpunta sa DULO.<br/>
+--> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
+--> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
+
 ## [米グーグルやメタなど33社、偽情報の流通防止へ　EUと合意](https://www.asahi.com/articles/ASQ6J7D21Q6JUHBI02X.html?iref=comtop_7_07); last accessed: 20220617
 
 > 米グーグルやメタなど33社、偽情報の流通防止へ　EUと合意
