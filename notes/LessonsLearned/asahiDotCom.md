@@ -12,6 +12,63 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [組幹部宅に銃撃や「車特攻」続発、狙いは　山口組巡り分裂抗争再燃](https://www.asahi.com/articles/ASQ69536YQ67PTIL06Z.html?iref=pc_rellink_02); last accessed: 20220618
+
+08:41\~08:45; ELAPSED TIME: 4mins<br/>
+08:51\~08:52; ELAPSED TIME: 1min<br/>
+08:53\~09:35; ELAPSED TIME: 42mins<br/>
+09:41\~09:55; ELAPSED TIME: 14mins<br/>
+<br/>
+GRAND TOTAL ELAPSED TIME: 61mins
+
+> 組幹部宅に銃撃や「車特攻」続発、狙いは　山口組巡り分裂抗争再燃
+
+Tuluy-tuloy na pamamaril at bukod-tanging pagsalakay ng sasakyan sa bahay ng Samahan;
+Pakay: Muling paliyabin ang mga naglalabanan ng wasak na Samahang YAMAGUCHI
+
+> 有料会員記事
+
+Sulat sa nagbayad na kasapi
+
+> 2022年6月9日 16時30分
+
+2022-06-09T16:30
+
+> 国内最大の指定暴力団山口組が分裂して間もなく7年となる中、沈静化していた分裂抗争とみられる事件が再び各地で相次いでいる。車で組幹部宅を襲撃する事件が目立つ。警察当局は「分裂に終止符を打つために山口組側が揺さぶりをかけている可能性がある」とみて警戒を強めている。
+
+Sa loob ng bansa, muling itinutuloy ng pinakamalaki't tinutukoy na magulong samahan, ang YAMAGUCHI, ang mga nakikitang pangyayari ng tahimik na labanan nang winasak ito, halos 7 taon na ang nakalilipas.
+
+>　大阪府豊中市の高級住宅街で5月8日未明、1台の乗用車が住宅の玄関に突っ込んだ。神戸山口組のナンバー2で、中核団体「宅見組」の組長の自宅。住宅には当時、人がいたがけがはなかった。府警は直後、対立する山口組系組員（26）を住宅の門扉を壊した建造物損壊容疑で逮捕した。
+
+Sa Mamahaling Kabahayanan sa Lungsod ng TOYONAKA ng Osaka, nitong madaling araw ng 2022-05-08, bumangga ang isang sasakyan sa harapang pinto ng bahay. Ito ang bahay ng Pinuno ng kaibuturan ng Samahan ng TAKUMI, ang #2 ng YAMAGUCHI sa KOBE. Nang panahong iyon, bagama't may tao sa bahay, wala namang nasugatan. Hinuli ng Preferecture Pulis ang pinaghihinalaan (suspect), na nanira ng pinto ng bahay dahil sa pagsira ng gusali. Isa siyang 26 taong gulang na kasaping may ugnayan sa lumalabang YAMAGUCHI.
+
+>　山口組を巡っては2015年8月、中核組織の「弘道会」（名古屋市）が主導する組運営に不満を抱いた関西拠点の組長らが離脱し、神戸山口組を結成した。その一部が17年春に「任俠（にんきょう）山口組（現・絆会）」の設立を表明。以来、分裂状態が続く。
+
+Sa Samahang YAMAGUCHI, ng 2015-08, bumuo ng YAMAGUCHI sa KOBE, mula ng pag-alis ng mga Pinuno sa pook ng KANSAI kung saan hindi sila ginhawa sa gawain ng pamumuno ng kaibuturan (CORE) ng HIROMICHIKAI ng Lungsod ng NAGOYA. Nitong Tagsibol ng Taong 2017, binigyang linaw ang pagtayo ng isang bahagi (NINKYOU; Inatasang Caballero (Sulat Wikang Tsino)) ng Samahang YAMAGUCHI (kasalukuyan・Ugnayang Samahan). Pagkatapos nito, tuloy ang wasak na kalagayan. 
+
+>　分裂後の19年には、山口組と神戸山口組の抗争が激化し、兵庫県尼崎市や神戸市で銃を使った殺人事件が起きた。両組織は暴力団対策法に基づく特定抗争指定暴力団に指定され、定められた警戒区域内での組員の集合や組事務所の出入りが禁じられるなど、締め付けが強化された。
+
+Sa Taong 2019, pagkatapos ng pagwasak nito, tumindi ang labanan ng Samahan ng YAMAGUCHI at ng YAMAGUCHI sa KOBE; may naganap na pagpaslang gamit ang baril sa mga Lungsod ng AMAZAKI sa HYOUGO Preferecture, Lungsod ng KOBE, atbp. Diniin ang paghigpit sa pagbabawal, atbp ng paglabas-masok sa kulungan, pagkikita ng mga kasapi sa pinagpasiyahang sakop na pook ng Pulis; Batay ito sa batas upang labanan ang mga magugulong samahan kung saan itong dalawa ang itinutukoy.
+
+>　その後に抗争は沈静化したとみられたが、今年5月以降、事件が相次ぐ。
+銃弾１０発以上、車で襲撃…狙われる組幹部宅
+
+Pagkatapos nito, nakikitang tumahimik ang labanan, bagama't pagkatapos ng Mayo nitong taon, sunud-sunod ang mga pangyayari.
+
+>　6月5日昼には、神戸市北区の神戸山口組トップの井上邦雄組長宅に銃弾が撃ち込まれた。県警は直後に拳銃を持って出頭した男（49）を現行犯逮捕。捜査関係者によると山口組系組員とみられ、発射された銃弾は10発以上という。
+
+Nitong hapon ng 2022-06-05, pinaputukan ng bala ng baril sa bahay ng Pinunong si INOUE, KUNIO, ang nasa Pinakaitaas ng samahan ng YAMAGUCHI sa KOBE. Nasa KITAKU ng Lungsod ng KOBE ang kanyang bahay. Agad na pagkatapos nito, hinuli ng Prefecture Pulis ang gumawa ng salarin (LALAKE; 49 taong gulang) na lumalabas na namuno at may hawak ng baril (PISTOL). Ayon sa pagsisiyasat ng may ugnayang tao, sinasabing higit sa 10 bala ng baril ang ipinaputok, at nakikitang ang kasapi ng Samahang YAMAGUCHI ang gumawa nito.  
+
+>　翌6日未明には、同じ神戸山…
+
+Sa sumunod na buwan, Hunyo, ng madaling araw, ang parehong samahan sa KOBE...
+
+> この記事は有料会員記事です。残り805文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 805 na titik. Kapag naging nagbabayad na kasapi na po kayo, mababasa niyo na po ang kasunod.
+
+
+
 ## [米グーグルやメタなど33社、偽情報の流通防止へ　EUと合意](https://www.asahi.com/articles/ASQ6J7D21Q6JUHBI02X.html?iref=comtop_7_07); last accessed: 20220617
 
 > 米グーグルやメタなど33社、偽情報の流通防止へ　EUと合意
