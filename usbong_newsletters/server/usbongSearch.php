@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220305; from 20220304
+  @date updated: 20220619; from 20220305
   @website address: http://www.usbong.ph
 
   Input:
@@ -25,7 +25,8 @@
   //last accessed: 20210703
   
   
-  //TO-DO: -add: year folder for 2020, et cetera
+  //added: year folder for 2020, et cetera
+  //TO-DO: -update: newsletter pages system to be more organized
   
 -->
 <?php
@@ -450,7 +451,8 @@
     $arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
 */
 	//echo idate("Y");
-	$iYearCount=2021;
+	//edited by Mike, 20220619
+	$iYearCount=2022; //2021;
 	$iCurrentYear = idate("Y");
 	while ($iYearCount<=$iCurrentYear) {
 		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
@@ -1080,73 +1082,6 @@ echo ">>>>>".$sKeyphrase;
 		}
 	}	
 
-
-/*  //removed by Mike, 20211017; 
-	//TO-DO: -verify: adding contents in file stored in Usbong Newsletters' Computer Server
-	//this action is to speed-up Usbong Search Engine
-
-	//added by Mike, 20211017
-	if (!empty($sKeyphrase)) {
-		//added by Mike, 20211016
-		//note: add: newsletters in another computer server, e.g. hosted by Google Sites
-		//note: COMMAND includes text, photographs, et cetera
-
-		//Additional Note: Past Newsletters
-		//Web Page with Computer Instructions auto-generated from Classic to New Google Sites;
-		//--> where: Format = Year-Month; example: 2021-05
-		//--> Earliest Available: 2020-08
-		//--> Newest Available: 2021-05
-		$iDayCount=7;//to start at 8;
-		$iYearCount=2020;
-		$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
-
-		//note: @ mark to NOT display warning message; 
-		//return of false signifies error
-		while (@file_get_contents($completeFilename)!==false ) {
-			$sDayCount="";
-			$sYearDay="";
-			
-			$iDayCount=(($iDayCount)%12)+1;
-			
-	//		echo ">>>>>>iDayCount: ".$iDayCount;
-					
-					
-			if ($iDayCount<10) { //1 digit only
-				$sDayCount="0".$iDayCount;
-			}
-			else {
-				$sDayCount=$iDayCount;
-			}
-					
-			if ($iDayCount==1) { //new year		
-				$iYearCount=$iYearCount+1;
-			}		
-
-			$sYearDate=$iYearCount."-".$sDayCount;
-			
-			$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
-
-	//		echo ">>>".$completeFilename."<br/>";		
-			
-			$data = $completeFilename;
-			
-			//removed by Mike, 20211016
-		//	$data = file_get_contents($completeFilename);
-
-		//	echo $data;
-			$cellValue = strip_tags($data);
-
-	//		echo $cellValue;
-
-			if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-				autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);								
-				
-				$bHasFoundKeyphrase=true;
-			}
-		}
-	}	
-*/
-	
 	//added by Mike, 20211014; edited by Mike, 20211017
 //	if (!$bHasFoundKeyphrase) {
 	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
@@ -1162,51 +1097,6 @@ echo ">>>>>".$sKeyphrase;
 		echo "</table>";
 		echo "<br/>";					
 	}
-
-/* //edited by Mike, 20211013
-		echo "<table class='searchTable'>";						
-
-		//Reference: https://stackoverflow.com/questions/9139202/how-to-parse-a-csv-file-using-php;
-		//answer by: thenetimp, 20120204T0730
-		//edited by: thenetimp, 20170823T1704
-
-		$iRowCount = -1; //we later add 1 to make start value zero (0)
-		//if (($handle = fopen("test.csv", "r")) !== FALSE) {
-			
-		//TO-DO: -add: auto-reverify: if system uses binary or text files
-		//reference: https://www.php.net/manual/en/function.fread.php;
-		//last accessed: 20211012
-
-		if (($handle = fopen($filename, "r")) !== FALSE) {						
-//		  while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {			
-//		  while (($data = fread($handle, 1000)) !== FALSE) {		
-		  while (!feof($handle)) {		  
-
-			//TO-DO: -add: auto-reverify: if file's size is 0
-
-			//note: fread command displays HTML format with text output
-			//TO-DO: -reverify: cause of excess displayed text
-
-			$data = fread($handle, 1000);
-			
-			//we add -1 for the computer to not include the excess cell due to the ending \n
-			//removed by Mike, 20211012
-//			$num = count($data) -1;
-					
-			//echo $iRowCount;
-					
-			$iRowCount++;
-						
-			echo '<tr class="row">';
-				$cellValue = utf8_encode($data);
-				echo $cellValue;
-			echo '</tr>';
-		  }
-
-		  fclose($handle);
-		}		
-		echo "</table>";		
-*/		
 ?>
 
 	<br/>
