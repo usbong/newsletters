@@ -12,6 +12,95 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [モビリティーサービスが人生を豊かにする](https://globe.asahi.com/article/14604707?iref=comtop_Globe_03); last accessed: 20220618
+
+> PR by 三菱商事
+
+PR by MITSUBISHI TRADING
+
+> 2022.06.05
+
+2022-06-05
+
+
+モビリティーサービスが人生を豊かにする
+
+Pinasasagana ng MOBILITY SERVICE ang BUHAY NG TAO
+
+> 地域と伴走 自治体と築くWin-Winの関係
+
+Sakop na Pook at Magkasamang Paglakbay;
+Pagtayo ng Ugnayang WIN-WIN kasama ang LOKAL na pamahalaan
+
+> AIによる配車システムやソフト面の活用は、自治体だけで取り組むのは難しいので、自治体が事業者と協力することで初めて実現できたのだと思っています。
+
+Mahirap kung ang LOKAL na pamahalaan lamang ang gagawa ng sistemang naghahatid gamit ang sasakyang may Artificial Intelligence (AI; Taong Pinabilis ang Kaalaman at Kakayahan), mga kilusang harapan ang tao; Sa aming isipan, una ngayong naisakatuparan ang pagtutulungan ng LOKAL na pamahalaan at ng mga manggagawa (ng NEXT MOBILITY).
+
+### Dagdag: 
+NEXT MOBILITY: pinagsamang kompanyang binuo mula sa paglabas na salapi ng MITSUBISHI TRADING at ng BAKAL na DAAN ng KANLURANG HAPON
+
+> また、ネクスト・モビリティには、事業計画、配車システムの導入、車両や乗務員の調達、乗降場所の設置、地元の合意形成、マーケティング活動、オペレーション改善など、オンデマンドバス運行に関するすべてのノウハウが蓄積されています。
+
+Dagdag, inipon ng NEXT MOBILITY ang lahat ng KNOW-HOW (kaalaman), na may kinalaman sa pagbuo ng larawan ng sukat (PLANO), pagpakilala ng sistemang naghahatid gamit ang sasakyan, ang maayos na pagsasama ng sasakyan at ng mga manggagawang sumasakay, paglalagay ng pook sakayan at babaan, pinagkasunduang hugis ng pook, MARKETING na kilusan, pag-aayos ng OPERASYON, at ng naghahatid na ON-DEMAND BUS.
+
+
+> このことは、今後、全国の自治体にサービスを提供していく際の我々の競争力になっていきます。お客様の課題を解決することこそが、我々のビジネスの成功につながりますから、今後も強固なパートナーシップを大切に、事業を続けていきたいと思います。
+
+
+Sa panahong ibahagi ang SERBISYO sa mga LOKAL na pamahalaan ng buong bansa, magiging lakas ng pakikipaglabanan (kompetisyon) ang mga bagay na ito mula ngayon sa amin. Sa aming isipan, nais naming ipagpatuloy ang gawain, pahalagahan ang matibay na PARTNERSHIP mula ngayon, sapagkat may ugnayan sa tagumpay ng aming pangangalakal ang paglutas ng mga talakayan ng mga Mamimili.
+
+> さらに、オンデマンドバスの予約情報が、例えば病院の診療時間の情報と連動したり、近隣の商店のキャンペーンと連携したりするなど、交通以外の分野も巻き込みながらサービスを進化させていきたいと考えています。
+
+Dagdag pa, pinagninilayan namin ang pagsusulong ng mga BALITA ukol sa paggawa ng pagtakda (reserbasyon) ng ON-DEMAND BUS, halimbawa, BALITA ng panahon ng pagpapagaling sa Pagamutan at ang kaakibat nitong paggalaw, pagsama ng KAMPANIYA ng mga kalapit na TINDAHAN, atbp, kahit din ang mga SERBISYO mula sa mga larangan na walang kinalaman sa paglalakbay.
+
+> 移動という枠を超えて多様なサービスのプラットフォームになる、そんなサービスに発展させていければと思います。
+
+Iniisip namin ang pagbuo ng ganoong PLATAPORMA ng maramihang SERBISYO na nilalampasan pa ang bahagi ng pagkikilos (MOBILITY).
+
+> 誰もが快適に移動できる、幸せな社会を
+
+Lipunang maligaya, kung saan kahit sino mabilis at maayos na makagagalaw (mula sa isang pook tungo sa isa pa).
+
+> 不採算路線の増加、乗務員の不足、自治体の財政逼迫（ひっぱく）、生活の足の確保、高齢化にともなう住民の運動不足など、私たちの身の回りには様々な課題があります。そういった目の前の課題を解決できてこそ、価値のあるモビリティーサービスであり、その積み重ねの先によりよい社会ができていくものだと思っています。
+
+Sa ating paligid, mayroong samu't saring mga talakayan: ang pagtaas ng bilang ng mga hindi kumikitang daan, ang pagiging hindi ginhawa ng mga manggagawang sumasakay, ang pananakot ukol sa pera ng LOKAL na pamahalaan, ang hindi tiyak na pagtatanggol sa pangkabuhayan, ang kakulangan sa pagkilos ng mga tumatandang mamamayan, atbp. Sa aming isipan, sapagkat nalulutas ng MOBILITY SERVICE ang mga nasa harap nating talakayan, may halaga ito, at sa pagdadagdag ng mga ito, nagiging higit na maayos ang lipunan. 
+
+
+> 人口減少社会は「住む自治体を、住民が選ぶ」時代になります。
+> 「コンパクト プラス ネットワーク」
+
+Sa pagbaba ng bilang ng tao sa lipunan, nagiging ganito: "Pinipili ng mamamayan ang kanilang tinitirahang LOKAL na PAMAHALAAN".
+
+"COMPACT + NETWORK"
+
+> いまの時代、インターネットさえつながっていれば、家にいながらにして色々な用事が済ませられますよね。でもやっぱり我々人間というのは、外に出て人と会ったり、太陽の下で活動したりすることが大事だと思うんです。
+
+Sa kasalukuyang panahon, hindi ba basta't may ugnayan sa INTERNET, kahit habang nasa BAHAY, samu't saring mga gawain ang maaari nang magawa? Gayunpaman, ang sa katunayan, sa aming isipan, mahalaga na tayong mga nilalang, lumalabas upang makipagkita sa tao, kumikilos sa ilalim ng araw, atbp.
+
+> 高齢化が加速しさらに交通弱者が増えていくなか、モビリティーの重要性はさらに増していきます。誰もが快適に出歩ける・移動できる街づくりに、今後も尽力していきたいと思います。
+
+Higit na nagiging mahalaga ang MOBILITY, sa mabilis na pagtanda, at ng dumaraang taong humina.
+
+
+> 私たちが目指しているのは、究極的には「移動を通して人を幸せにする」ことだと思っています。
+
+Sa aming isipan, sa sukdulan, ito ang aming ninanais:  "Paligayahin ang tao sa pamamagitan ng pagkikilos"
+
+> 内田さんのおっしゃるように、外に出て人と会ったり、新しい物事に接したり、思いがけない経験をしたり。そういった機会を、交通手段がないという理由であきらめてしまう人がいるのはとても残念なことです。
+
+Lumabas, makipagkita sa tao, mahawakan ang mga bagong bagay-bagay, maranasan ang mga hindi pa naiisip na bagay... Talagang nakalulungot ang pag-ayaw ng mga tao dahil lamang walang paraan sa pagkakataong iyon.
+
+> 利便性の高い移動手段を提供することで、一人ひとりの人生を豊かにしていく──。そんな社会づくりに、今後も貢献していきたいと考えています。
+
+Mula ngayon, pinagninilayan namin ang nais naming ihatid na SERBISYO upang makarating sa binubuo naming lipunang ganito:
+
+Pasaganahin ang buhay ng bawat isang tao, sa pamamagitan ng paghahatid ng paraan ng pagkilos (MOBILITY) na may mataas na halaga at ginhawa.
+
+### Sanggunian:
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [組幹部宅に銃撃や「車特攻」続発、狙いは　山口組巡り分裂抗争再燃](https://www.asahi.com/articles/ASQ69536YQ67PTIL06Z.html?iref=pc_rellink_02); last accessed: 20220618
 
 08:41\~08:45; ELAPSED TIME: 4mins<br/>
