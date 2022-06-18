@@ -19,11 +19,12 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 08:53\~09:35; ELAPSED TIME: 42mins<br/>
 09:41\~09:55; ELAPSED TIME: 14mins<br/>
 <br/>
-GRAND TOTAL ELAPSED TIME: 61mins
+EDITOR ELAPSED TIME: 6mins<br/>
+GRAND TOTAL ELAPSED TIME: 67mins
 
 > 組幹部宅に銃撃や「車特攻」続発、狙いは　山口組巡り分裂抗争再燃
 
-Tuluy-tuloy na pamamaril at bukod-tanging pagsalakay ng sasakyan sa bahay ng Samahan;
+Tuluy-tuloy na pamamaril at bukod-tanging pagsalakay ng sasakyan sa bahay ng Samahan;<br/>
 Pakay: Muling paliyabin ang mga naglalabanan ng wasak na Samahang YAMAGUCHI
 
 > 有料会員記事
@@ -57,7 +58,7 @@ Pagkatapos nito, nakikitang tumahimik ang labanan, bagama't pagkatapos ng Mayo n
 
 >　6月5日昼には、神戸市北区の神戸山口組トップの井上邦雄組長宅に銃弾が撃ち込まれた。県警は直後に拳銃を持って出頭した男（49）を現行犯逮捕。捜査関係者によると山口組系組員とみられ、発射された銃弾は10発以上という。
 
-Nitong hapon ng 2022-06-05, pinaputukan ng bala ng baril sa bahay ng Pinunong si INOUE, KUNIO, ang nasa Pinakaitaas ng samahan ng YAMAGUCHI sa KOBE. Nasa KITAKU ng Lungsod ng KOBE ang kanyang bahay. Agad na pagkatapos nito, hinuli ng Prefecture Pulis ang gumawa ng salarin (LALAKE; 49 taong gulang) na lumalabas na namuno at may hawak ng baril (PISTOL). Ayon sa pagsisiyasat ng may ugnayang tao, sinasabing higit sa 10 bala ng baril ang ipinaputok, at nakikitang ang kasapi ng Samahang YAMAGUCHI ang gumawa nito.  
+Nitong hapon ng 2022-06-05, pinaputukan ng bala ng baril sa bahay ng Pinunong si INOUE, KUNIO, ang nasa Pinakaitaas ng samahan ng YAMAGUCHI sa KOBE. Nasa KITAKU ng Lungsod ng KOBE ang kanyang bahay. Agad na pagkatapos nito, hinuli ng Prefecture Pulis ang gumawa ng salarin, LALAKE (49 taong gulang), na lumalabas na namuno at may hawak ng baril (PISTOL). Ayon sa pagsisiyasat ng may ugnayang tao, sinasabing higit sa 10 bala ng baril ang ipinaputok, at nakikitang ang kasapi ng Samahang YAMAGUCHI ang gumawa nito.  
 
 >　翌6日未明には、同じ神戸山…
 
