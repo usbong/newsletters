@@ -37,7 +37,7 @@ Pagtayo ng Ugnayang WIN-WIN kasama ang LOKAL na pamahalaan
 
 Mahirap kung ang LOKAL na pamahalaan lamang ang gagawa ng sistemang naghahatid gamit ang sasakyang may Artificial Intelligence (AI; Taong Pinabilis ang Kaalaman at Kakayahan), mga kilusang harapan ang tao; Sa aming isipan, una ngayong naisakatuparan ang pagtutulungan ng LOKAL na pamahalaan at ng mga manggagawa (ng NEXT MOBILITY).
 
-### Dagdag: 
+#### Dagdag: 
 NEXT MOBILITY: pinagsamang kompanyang binuo mula sa paglabas na salapi ng MITSUBISHI TRADING at ng BAKAL na DAAN ng KANLURANG HAPON
 
 > また、ネクスト・モビリティには、事業計画、配車システムの導入、車両や乗務員の調達、乗降場所の設置、地元の合意形成、マーケティング活動、オペレーション改善など、オンデマンドバス運行に関するすべてのノウハウが蓄積されています。
@@ -100,6 +100,8 @@ Pasaganahin ang buhay ng bawat isang tao, sa pamamagitan ng paghahatid ng paraan
 ### Sanggunian:
 GOOGLE SEARCH ENGINE; TRANSLATE
 
+### Dagdag:
+ELAPSED TIME: 60+17=77MINS
 
 ## [組幹部宅に銃撃や「車特攻」続発、狙いは　山口組巡り分裂抗争再燃](https://www.asahi.com/articles/ASQ69536YQ67PTIL06Z.html?iref=pc_rellink_02); last accessed: 20220618
 
