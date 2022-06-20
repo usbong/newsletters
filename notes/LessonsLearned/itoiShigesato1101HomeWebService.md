@@ -101,7 +101,8 @@ kinalaunan, ito ang simula mula ngayon ng "LAKAS ng PAGBUO (PRODUKSYON)"<br/>
 Ngayon din po, salamat po sa pagdalaw sa "HALOS ARAW".<br/>
 Nitong mga araw, talagang, napagninilayan ko po ang "LAKAS ng PAGBUO (PRODUKSYON)"
 
-
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## 2022-05-28
 https://www.1101.com/home.html;
