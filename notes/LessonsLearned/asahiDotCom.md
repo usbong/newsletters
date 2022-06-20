@@ -12,6 +12,50 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [100円ショップや銭湯の閉店相次ぐ　増えるコスト、円安が追い打ち](https://www.asahi.com/articles/ASQ6F5QN9Q6FULFA020.html?iref=comtop_ThemeLeftS_03); last accessed: 20220620
+
+> 100円ショップや銭湯の閉店相次ぐ　増えるコスト、円安が追い打ち
+
+Tuluy-tuloy ang pagsasara ng mga tindahan ng bagay-bagay sa halagang 100YEN, mga may-bayad na paliguan, atbp;<br/>
+Pagtaas ng GASTOS, dulot ng pagtama ng Pagmura ng YEN
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 佐藤英彬、山下裕志2022年6月13日 17時42分
+
+SATOU, HIDEAKI; YAMASHITA, YUUJI; 2022-06-13T17:42 
+
+> 急激な円安や資源高は中小企業を直撃している。帝国データバンクによると5月の全国の企業倒産件数は517件で、1年ぶりに前年同月より増えた。大半が中小で、資材やガソリンなどの値上がりを受けて、行き詰まるところがめだつ。
+
+DIREKTANG tinatamaan ang mga Maliliit at Gitnang-laking mga Mangangalakal mula ng nakagugulat na bilis ng pagmura ng YEN, pagtaas ng mga pinagmumulan (RESOURCE), atbp. Ayon sa DATABANK ng Kaharian, isang taon ang nakalipas bago higit na tumaas kaysa noong nakaraang taon ng katulad buwan sa bilang na 517, ang mga tumaob na Mangangalakal sa buong kaharian.
+
+>    円安加速　1ドル=135円20銭台に、1998年以来23年ぶり
+
+Mabilis na pagmura ng YEN;<br/> 
+1USD=135.20YEN<br/>
+Mula ng Taong 1998, 23 taon ang lumipas bago naging ganito.
+
+>　ほかにも、100円ショップや銭湯、クリーニング店といった身近な店が、コスト増を吸収できずに閉店する動きもある。海外で活動する大企業の利益は円安でふくらむが、中小まで恩恵は及びにくい。いまの流れは当面続くとみられ、倒産や廃業で街から企業や店が消えていきそうだ。
+
+Bukod pa rito, may pagkilos sa pagsasara ng mga tindahan dahil sa hindi makaraos sa pagtaas ng GASTOS; Halimbawa nito ang mga nabanggit na kalapit na tindahan tulad ng 100YEN na Tindahan, may-bayad na paliguan, LABAHAN, atbp. 
+
+>　帝国データによると、8日に出した5月の倒産集計では、件数が前年同月を12・1%上回った。前年同月比での増加は2021年5月以来だ。緊急事態宣言で法的整理が滞留した一時的な要因を除くと、実質的には20年7月以来1年10カ月ぶりの前年同月比増になるという。政府の支援策などで倒産は抑制されていたが、「潮目の変化が訪れようとしている」という。
+
+Ayon sa DATOS ng Kaharian, umaakyat ng 12.1% ang bilang ng mga kaso, kaysa noong nakaraang taon sa katulad na buwan; mula ito sa pinagsamang bilang ng mga tumaob sa buwan ng Mayo, na inilabas nitong ika-8. Pagkatapos ng 2021-05 ang pagtaas kaysa noong nakaraang taon ng katulad na buwan. Sa mabilis na pagbabahagi ng kalagayan, sinasabing sa kaibuturan, 1 taon at 10 buwan din ang lumipas mula ng 2020-07 bago tumaas ang bilang kaysa sa nakaraang taon ng katulad na buwan. 
+
+>　背景には大企業が商品やサー…
+
+Sa likod, ang mga malalaking mangangalakal, na nagbebenta ng mga gamit at SERBISYO...
+
+> この記事は有料会員記事です。残り787文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 787 na titik; kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
 
 ## [「プレステの父」が近大学部長に 「ソニーでおもちゃ？」逆境越えて](https://www.asahi.com/articles/ASQ6M51TQQ4VPLBJ00C.html?iref=comtop_Tech_science_02); last accessed: 20220620
 
