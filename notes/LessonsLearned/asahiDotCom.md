@@ -12,6 +12,36 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（天声人語）書店消失](https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05); last accessed: 20220621
+
+07:14~07:37; Ginugol na Panahon: 23MIN
+
+> （天声人語）書店消失
+
+(Boses ng Langit; Salaysay ng Tao)<br/>
+Pagkawala ng mga Tindahan ng Aklat
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年6月21日 5時00分
+
+2022-06-21T05:00
+
+
+> 夢に本屋が出てきたことがある。書棚で何かを探しているのだが、そこはむかし郷里にあった小さな店なのだ。子どもの頃から通い、マンガ雑誌の発売日に駆け込んでいた。文庫本の棚では星新一の面白さに出会った▼自分のなかでは本屋の原型なのかもしれない。これからの子どもたちには縁のない話になるだろうか。身の回りか…
+
+May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindahan na naroon noon sa pook ng aking kinalakihan; May hinahanap akong kung ano sa lagayan ng mga aklat. Simula pa noong dumaan ako sa aking kabataan, hinahabol ko na ang araw ng bentahan ng Magasin ng Komiks (MANGA). May natagpuaan akong nakaaaliw kay SEI SHINICHI (Manunulat; Bituin, Bagong Isa) sa lagayan ng mga aklat ng malaking lalagyan ng mga sulatin.  Sa loob-loob ko, marahil ito ang pinagmulang hugis ng Tindahan ng Aklat. Mawawala kaya ang usaping ganito sa mga kabataan mula ngayon? Sa paligid...
+
+
+> この記事は有料会員記事です。残り454文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian:
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [100円ショップや銭湯の閉店相次ぐ　増えるコスト、円安が追い打ち](https://www.asahi.com/articles/ASQ6F5QN9Q6FULFA020.html?iref=comtop_ThemeLeftS_03); last accessed: 20220620
 
 > 100円ショップや銭湯の閉店相次ぐ　増えるコスト、円安が追い打ち
