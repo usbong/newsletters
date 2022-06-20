@@ -29,7 +29,7 @@ SATOU, HIDEAKI; YAMASHITA, YUUJI; 2022-06-13T17:42
 
 > 急激な円安や資源高は中小企業を直撃している。帝国データバンクによると5月の全国の企業倒産件数は517件で、1年ぶりに前年同月より増えた。大半が中小で、資材やガソリンなどの値上がりを受けて、行き詰まるところがめだつ。
 
-DIREKTANG tinatamaan ang mga Maliliit at Gitnang-laking mga Mangangalakal mula ng nakagugulat na bilis ng pagmura ng YEN, pagtaas ng mga pinagmumulan (RESOURCE), atbp. Ayon sa DATABANK ng Kaharian, isang taon ang nakalipas bago higit na tumaas kaysa noong nakaraang taon ng katulad buwan sa bilang na 517, ang mga tumaob na Mangangalakal sa buong kaharian.
+DIREKTANG tinatamaan ang mga Maliliit at Gitnang-laking mga Mangangalakal mula ng nakagugulat na bilis ng pagmura ng YEN, pagtaas ng mga pinagmumulan (RESOURCE), atbp. Ayon sa DATABANK ng Kaharian, isang taon ang nakalipas bago higit na tumaas kaysa noong nakaraang taon ng katulad na buwan sa bilang na 517, ang mga tumaob na Mangangalakal sa buong kaharian.
 
 >    円安加速　1ドル=135円20銭台に、1998年以来23年ぶり
 
