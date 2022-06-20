@@ -13,6 +13,45 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
 
+## [「プレステの父」が近大学部長に 「ソニーでおもちゃ？」逆境越えて](https://www.asahi.com/articles/ASQ6M51TQQ4VPLBJ00C.html?iref=comtop_Tech_science_02); last accessed: 20220620
+
+> 「プレステの父」が近大学部長に 「ソニーでおもちゃ？」逆境越えて
+
+"Ama ng PLAYSTATION", naging Unit Chief ng Pamantasang KINKI<br/>
+Lampasan ang hangganan sa kabila, "SONY bilang laruan?"
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 竹野内崇宏2022年6月19日 17時45分
+
+TAKENOUCHI, TAKAHIRO; 2022-06-19T1745 
+
+> 近畿大の学部長に就任した久夛良木健さん
+
+Inatasan bilang Unit Chief (Pinuno ng Bahagi) ng Pamantasang KINKI si G. KUTARAGI, KEN.<br/>
+
+※ KINKI, pook ng KANSAI kung saan naroon ang mga Lungsod ng Osaka, Kyoto, Kobe, Nara, atbp
+
+>　国内外で累計5億台以上売れているゲーム機「プレイステーション」。開発を手がけた創造性を期待され、4月新設の近畿大学情報学部長に就任した。「キャンパス最年長かもしれないが、心は永遠の少年。未来をつくる話がとびかう学部にしたい」と話す。
+
+"PLAYSTATION": makinang laruan na higit 500Milyong makina ang kabuuang naibenta sa loob at labas ng kaharian.
+
+Inatasan si G. KUTARAGI bilang Unit Chief ng bagong gawa nitong Abril na Pag-aaral ng Balita sa Pamantasang KINKI, dahil inaasahan ang kanyang ugaling makabago, sa gawaing pagbuo (DEVELOPMENT) gamit ang kamay.
+
+>　東京・深川出身。小さい頃か…
+
+Isinilang sa Tokyo・FUKAGAWA. Noong kabataan niya ... 
+
+> この記事は有料会員記事です。残り417文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 417 titik; kapag naging nagbabayad na kasapi na po kayo, maaari niyo pong mabasa ang kasunod. 
+
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [モビリティーサービスが人生を豊かにする](https://globe.asahi.com/article/14604707?iref=comtop_Globe_03); last accessed: 20220618
 
 > PR by 三菱商事
