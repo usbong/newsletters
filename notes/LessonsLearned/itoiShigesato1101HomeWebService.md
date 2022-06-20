@@ -4,6 +4,105 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html;
+last accessed: 20220620
+
+### Paalala: 
+Nakaayos ito ayon sa aking pag-unawa ng halaga ng sulatin sa aking buhay;
+
+### #1) 
+
+> 実は、その「いいこと」っていうのが、
+>　ちっともたいしたことじゃなかったりね。
+>　そういう場合もものすごく多いんです。
+>　でも、いいんです。
+>　「いいこと考えた！」って光が必要なんです。
+
+Ang sa katunayan, ang pagsabi niyang "MAAYOS NA BAGAY",<br/>
+Hindi ba kahit kakarampot man wala naman talagang halaga, atbp?<br/>
+Marami-rami ang mga ganoong bagay.<br/>
+Gayunpaman, ayos lang.<br/>
+Kailangan ang liwanag na nag-uudyok upang sabihin natin ang "May naisip akong MAAYOS NA BAGAY!"<br/>
+
+### #2)
+
+>「いいこと考えた！」と思ったんだけど、
+>　その「いいこと」には弱点があるぞ、だとか、
+>　こういう困ったことがついてくるぞ、とか、
+>　いずれは気づくことになると思うんです。
+>　それでいいんですよね。
+>　いま考えた「いいこと」が見せてくれた困ったこと。
+>　今度は、それを解決するために考えればいいのだから、
+>　そっちのほうが考えやすいんです。
+
+Naisip ko man ang "May naisip akong MAAYOS NA BAGAY!",<br/>
+may nagsasabi ng mga ganito: <br/>
+May kahinaan ang "MAAYOS NA BAGAY" mo!, atbp<br/>
+May kasama 'yang ganitong SULIRANIN!, atbp<br/>
+Ayos lang ang mga iyon, hindi ba?<br/>
+Pasalamat ako't naipakita sa'kin ang mga SULIRANIN ng kasalukuyan kong naisip na "MAAYOS NA BAGAY".<br/>
+Sa susunod, sapagkat ayos din pagnilayan ang paraan upang malutas iyon, madali nang pagnilayan ang gano'n.
+
+### #3)
+
+> それは、説明より先に光が射して、
+>　灰色の雲が消し飛ぶように晴れるような感じ。
+>　どんよりしたまま、知識だの情報だのを
+>　パズルのように組み上げているときには
+>　なかなか見えてこない晴れた空が、見えたとき。
+>　「いいこと考えた！」ってことばが出るんです。
+
+Ang bagay na 'yon, higit sa paliwanag, <br/>
+tamaan muna ng liwanag,<br/>
+tulad sa pakiramdam ng pag-araw, <br/>
+tulad sa pagpapaalis ng mga kulay abong ULAP;
+
+### #4)
+> ・「いいこと考えた！」と、小さい子どもが言うでしょ。
+>　あれが、ほんとにすばらしいことだと思うのです。
+>　なんでもかんでも「いいこと考えた！」という、
+>　思わずニヤッとしちゃったり、大きな口を開けたり、
+>　飛び上がったりするようなところからはじまる。
+>　アイディアだの、クリエイティブだの、大発見だの、
+>　イノベーションだの、いろんなこと言うけど、
+>　「いいこと考えた！」って、まず、
+>　じぶんの頭が一気に晴れ渡るような瞬間があるんで。
+
+"May naisip akong MAAYOS NA BAGAY!", <br/>
+sinasabi rin kahit ng mga bata, hindi ba?<br/>
+Iniisip niyang, talagang magaling na bagay iyon.<br/>
+Hindi niya namamalayan, magsisimula nang magpatalun-talon,<br/> 
+binubuka na niya ang kanyang malaking bibig, napangingiti.<br/>
+Samu't saring mga salita ang sinasabi:<br/>
+IDEYA, CREATIVITY, MALAKING PAGTUKLAS, INOBASYON<br/>
+"May naisip akong MAAYOS NA BAGAY!", sa simula,<br/>
+mayroon kasing saglit sa sariling isipan,<br/>
+tulad ng biglang pagdaan ng pag-araw.<br/>
+
+>　大人も、もっと「いいこと考えた！」ってね、
+>　くせになったらいいと思っているのです。
+>　それは職種とか性別とか年齢に関わりなくです。
+>　もちろん、お役所とかで堅い仕事をしている人もです。
+>　日本中で飛び出す「いいこと考えた！」のセリフが、
+>　おそらく、これからの「生産力」だと思うのです。
+>　「重箱の隅をつつくこと」ばかり上手になってるけど、
+>　もっと「いいこと考えた！」で行きたいものです。
+
+Kahit matanda, naiisip ko pong maiging may gawi,<br/>
+na nagsasabing: "May naisip akong MAAYOS NA BAGAY!"<br/>
+Walang kinalaman iyon sa uri ng Gawain, Kasarian, Taong Gulang, atbp.<br/>
+Malamang, wala ring kinalaman iyon kahit din sa mga taong matigas na naghahanap-buhay sa isang ginagampanang pook<br/>
+Naisip ko po, na sa loob ng Bansang Hapon, ang pagbulgar ng katagang, "May naisip akong MAAYOS NA BAGAY!", <br/>
+kinalaunan, ito ang simula mula ngayon ng "LAKAS ng PAGBUO (PRODUKSYON)"<br/>
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+> このごろ、ほんとに「生産力」ってことを考えちゃってる。
+
+Ngayon din po, salamat po sa pagdalaw sa "HALOS ARAW".<br/>
+Nitong mga araw, talagang, napagninilayan ko po ang "LAKAS ng PAGBUO (PRODUKSYON)"
+
+
+
 ## 2022-05-28
 https://www.1101.com/home.html;
 last accessed: 20220528
