@@ -12,10 +12,10 @@ Nakaayos ito ayon sa aking pag-unawa ng halaga ng sulatin sa aking buhay;
 
 ### #1) 
 
-> 実は、その「いいこと」っていうのが、
->　ちっともたいしたことじゃなかったりね。
->　そういう場合もものすごく多いんです。
->　でも、いいんです。
+> 実は、その「いいこと」っていうのが、<br/>
+>　ちっともたいしたことじゃなかったりね。<br/>
+>　そういう場合もものすごく多いんです。<br/>
+>　でも、いいんです。<br/>
 >　「いいこと考えた！」って光が必要なんです。
 
 Ang sa katunayan, ang pagsabi niyang "MAAYOS NA BAGAY",<br/>
@@ -26,13 +26,13 @@ Kailangan ang liwanag na nag-uudyok upang sabihin natin ang "May naisip akong MA
 
 ### #2)
 
->「いいこと考えた！」と思ったんだけど、
->　その「いいこと」には弱点があるぞ、だとか、
->　こういう困ったことがついてくるぞ、とか、
->　いずれは気づくことになると思うんです。
->　それでいいんですよね。
->　いま考えた「いいこと」が見せてくれた困ったこと。
->　今度は、それを解決するために考えればいいのだから、
+>「いいこと考えた！」と思ったんだけど、<br/>
+>　その「いいこと」には弱点があるぞ、だとか、<br/>
+>　こういう困ったことがついてくるぞ、とか、<br/>
+>　いずれは気づくことになると思うんです。<br/>
+>　それでいいんですよね。<br/>
+>　いま考えた「いいこと」が見せてくれた困ったこと。<br/>
+>　今度は、それを解決するために考えればいいのだから、<br/>
 >　そっちのほうが考えやすいんです。
 
 Naisip ko man ang "May naisip akong MAAYOS NA BAGAY!",<br/>
@@ -45,11 +45,11 @@ Sa susunod, sapagkat ayos din pagnilayan ang paraan upang malutas iyon, madali n
 
 ### #3)
 
-> それは、説明より先に光が射して、
->　灰色の雲が消し飛ぶように晴れるような感じ。
->　どんよりしたまま、知識だの情報だのを
->　パズルのように組み上げているときには
->　なかなか見えてこない晴れた空が、見えたとき。
+> それは、説明より先に光が射して、<br/>
+>　灰色の雲が消し飛ぶように晴れるような感じ。<br/>
+>　どんよりしたまま、知識だの情報だのを<br/>
+>　パズルのように組み上げているときには<br/>
+>　なかなか見えてこない晴れた空が、見えたとき。<br/>
 >　「いいこと考えた！」ってことばが出るんです。
 
 Ang bagay na 'yon, higit sa paliwanag, <br/>
@@ -58,14 +58,14 @@ tulad sa pakiramdam ng pag-araw, <br/>
 tulad sa pagpapaalis ng mga kulay abong ULAP;
 
 ### #4)
-> ・「いいこと考えた！」と、小さい子どもが言うでしょ。
->　あれが、ほんとにすばらしいことだと思うのです。
->　なんでもかんでも「いいこと考えた！」という、
->　思わずニヤッとしちゃったり、大きな口を開けたり、
->　飛び上がったりするようなところからはじまる。
->　アイディアだの、クリエイティブだの、大発見だの、
->　イノベーションだの、いろんなこと言うけど、
->　「いいこと考えた！」って、まず、
+> ・「いいこと考えた！」と、小さい子どもが言うでしょ。<br/>
+>　あれが、ほんとにすばらしいことだと思うのです。<br/>
+>　なんでもかんでも「いいこと考えた！」という、<br/>
+>　思わずニヤッとしちゃったり、大きな口を開けたり、<br/>
+>　飛び上がったりするようなところからはじまる。<br/>
+>　アイディアだの、クリエイティブだの、大発見だの、<br/>
+>　イノベーションだの、いろんなこと言うけど、<br/>
+>　「いいこと考えた！」って、まず、<br/>
 >　じぶんの頭が一気に晴れ渡るような瞬間があるんで。
 
 "May naisip akong MAAYOS NA BAGAY!", <br/>
@@ -79,13 +79,13 @@ IDEYA, CREATIVITY, MALAKING PAGTUKLAS, INOBASYON<br/>
 mayroon kasing saglit sa sariling isipan,<br/>
 tulad ng biglang pagdaan ng pag-araw.<br/>
 
->　大人も、もっと「いいこと考えた！」ってね、
->　くせになったらいいと思っているのです。
->　それは職種とか性別とか年齢に関わりなくです。
->　もちろん、お役所とかで堅い仕事をしている人もです。
->　日本中で飛び出す「いいこと考えた！」のセリフが、
->　おそらく、これからの「生産力」だと思うのです。
->　「重箱の隅をつつくこと」ばかり上手になってるけど、
+>　大人も、もっと「いいこと考えた！」ってね、<br/>
+>　くせになったらいいと思っているのです。<br/>
+>　それは職種とか性別とか年齢に関わりなくです。<br/>
+>　もちろん、お役所とかで堅い仕事をしている人もです。<br/>
+>　日本中で飛び出す「いいこと考えた！」のセリフが、<br/>
+>　おそらく、これからの「生産力」だと思うのです。<br/>
+>　「重箱の隅をつつくこと」ばかり上手になってるけど、<br/>
 >　もっと「いいこと考えた！」で行きたいものです。
 
 Kahit matanda, naiisip ko pong maiging may gawi,<br/>
@@ -95,7 +95,7 @@ Malamang, wala ring kinalaman iyon kahit din sa mga taong matigas na naghahanap-
 Naisip ko po, na sa loob ng Bansang Hapon, ang pagbulgar ng katagang, "May naisip akong MAAYOS NA BAGAY!", <br/>
 kinalaunan, ito ang simula mula ngayon ng "LAKAS ng PAGBUO (PRODUKSYON)"<br/>
 
-> 今日も、「ほぼ日」に来てくれてありがとうございます。
+> 今日も、「ほぼ日」に来てくれてありがとうございます。<br/>
 > このごろ、ほんとに「生産力」ってことを考えちゃってる。
 
 Ngayon din po, salamat po sa pagdalaw sa "HALOS ARAW".<br/>
