@@ -12,6 +12,54 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [アマゾン、西日本最大の倉庫を報道陣に公開　最新技術で出荷増](https://www.asahi.com/articles/ASQ6N6GSBQ6NULFA001.html); last accessed: 20220621
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 平井恵美2022年6月21日 7時45分
+
+HIRAI, MEGUMI; 2022-06-21T07:45
+
+### --
+
+> 無人空間の中、商品棚を動かす青い薄型ロボット=2022年6月20日午後、兵庫県尼崎市、小川智撮影
+
+Sa loob ng walang tao't walang laman na pagitan,<br/>
+pinagagalaw ang Lagayan ng mga Ibinibentang Bagay<br/>
+ng kulay bughaw na manipis na hugis ng ROBOT;<br/>
+<br/>
+Sa Hapon ng 2022-06-20;<br/>
+HYOGO-KEN, Lungsod ng AMAGASAKI;<br/>
+OGAWA, SATOSHI (Larawan)
+
+### --
+
+> ネット通販大手のアマゾンが20日、西日本最大の物流拠点「アマゾン尼崎フルフィルメントセンター（FC）」（兵庫県尼崎市）を報道陣に公開した。今年3月に新設した巨大倉庫で、多くの商品をより速く出荷できるように最新技術を導入している。
+
+Nitong ika-20, ipinahayag sa publiko ng AMAZON, ang Malaking Gawaan ng Daluyan ng Bentahan sa Internet, ang BALITA'ng ito:<br/>
+<br/>
+Sa Kanlurang Hapon (HYOGO-KEN, AMAGASAKI), "AMAZON AMAGASAKI FULFILLMENT CETER (FC)": ang pinakamalaki't pangunahing pook ng daluyan ng mga gamit.<br/>
+<br/>
+Sa Buwan ng Marso ng ngayong taon, ipinakilala ang pinakabagong TEKNOLOHIYA upang higit na mabilis na mailipat palabas ang maraming mga ibinibentang gamit ng bagong itinayong Dambuhalang Lalagyan.
+
+>　アマゾンは国内に20カ所以上のFCをもつ。尼崎FCはその一つで、4階建てで延べ床面積は10万平方メートル以上。保管する商品は1千万個を超え、毎日数十万個の商品を出荷しているという。
+
+Mayroon ang AMAZON na higit sa 20 pook sa loob ng Kaharian. Isa ang AMAGASAKI FC sa mga iyon; Mayroong 4 na palapag, at higit sa 10sqm ang haba ng sahig. Sinasabing lampas 10Milyong gamit ang kanilang pinangangasiwaan; Araw-araw nasa mga 100K ang bilang ng mga inililipat palabas na gamit. 
+
+>　効率的に出荷できるよう他の…
+
+Upang mabilis at wasto (efficient) ang paglilipat palabas, ibang...
+
+> この記事は有料会員記事です。残り317文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 317titik; Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod. 
+
+### Sanggunian:
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [（天声人語）書店消失](https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05); last accessed: 20220621
 
 07:14~07:37; Ginugol na Panahon: 23MIN
