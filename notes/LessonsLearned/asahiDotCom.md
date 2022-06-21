@@ -50,7 +50,7 @@ OGAWA, SATOSHI (Larawan)
 
 Nitong ika-20, ipinahayag sa publiko ng AMAZON, ang Malaking Gawaan ng Daluyan ng Bentahan sa Internet, ang BALITA'ng ito:<br/>
 <br/>
-Sa Kanlurang Hapon (HYOGO-KEN, AMAGASAKI), "AMAZON AMAGASAKI FULFILLMENT CETER (FC)": ang pinakamalaki't pangunahing pook ng daluyan ng mga gamit.<br/>
+Sa Kanlurang Hapon (HYOGO-KEN, AMAGASAKI), "AMAZON AMAGASAKI FULFILLMENT CENTER (FC)": ang pinakamalaki't pangunahing pook ng daluyan ng mga gamit.<br/>
 <br/>
 Sa Buwan ng Marso ng ngayong taon, ipinakilala ang pinakabagong TEKNOLOHIYA upang higit na mabilis na mailipat palabas ang maraming mga ibinibentang gamit ng bagong itinayong Dambuhalang Lalagyan.
 
