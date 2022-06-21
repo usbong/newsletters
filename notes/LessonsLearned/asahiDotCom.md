@@ -14,6 +14,16 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 ## [アマゾン、西日本最大の倉庫を報道陣に公開　最新技術で出荷増](https://www.asahi.com/articles/ASQ6N6GSBQ6NULFA001.html); last accessed: 20220621
 
+> アマゾン、西日本最大の倉庫を報道陣に公開　最新技術で出荷増
+
+AMAZON, ipinahayag itong BALITA:<br/>
+Sa Kanlurang Hapon, ang pinakamaling LALAGYAN;<br/>
+<br/>
+Sa pamamagitan ng pinakabagong TEKNOLOHIYA,<br/> 
+pagdami ng inililipat palabas na gamit<br/> 
+
+
+
 > 有料会員記事
 
 Sulatin sa nagbabayad na kasapi
