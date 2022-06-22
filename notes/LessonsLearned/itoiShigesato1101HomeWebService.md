@@ -7,6 +7,139 @@ TO-DO: -reverify: faster NOTES writing, searching, et cetera
 ## https://www.1101.com/home.html;
 last accessed: 20220620
 
+> ・あれは、だれが言い出したことだったか。<br/>
+>　演奏がうまくなりたいなら、<br/>
+>　「ひとりでもふたりでもいいから、お客さんの前で、<br/>
+>　お金をとってやることだ」と。<br/>
+
+Sino nga ba ang nagsabi niyon?<br/>
+Kung nais mong gumaling sa pagtatanghal,<br/>
+"Mag-isa man, o dalawahan, ayos lang;<br/>
+Sa harap ng panauhin, kunin ang kanilang pera at gawin ang pagtanghal."<br/>
+
+>　このところ、何度も似たようなことを書いていますが、<br/>
+>　練習と本番、木刀と真剣のことは、<br/>
+>　人に言ったり教えたりするようなことでなく、<br/>
+>　いまのぼく自身の大きなテーマです。<br/>
+
+Itong bagay na ganito, ilang ulit na naisusulat:<br/>
+<br/>
+ang ukol sa pagsasanay at ang tunay na pagtanghal,<br/>
+ang kahoy na patalim at ang tunay nito;<br/>
+<br/>
+Ito ang aking kasalukuyang malaking paksa;<br/>
+bagama't hindi upang sabihan, turuan, atbp ang tao,<br/>
+
+>　はたして、これまで、じぶんが多少なりとも<br/>
+>　「上達」とか「向上」とかしてきたのだろうかという<br/>
+>　根本的な疑問もあるわけですけれど。
+
+Sa sukdulan, mayroon pa rin kasing<br/>
+agam-agam sa kaibuturan ng aking sarili;<br/>
+Sinasabi ang mga ito: <br/>
+Nakarating ako rito sa pamamagitan ng pag-usad paitaas, pagtingala sa itaas, atbp.<br/>
+
+>　まずは「多少はしてきた」とさせてもらうとして、<br/>
+>　どういうふうに「練習」ではなく「本番」をやってきたか。<br/>
+>　それを思い出してみる必要があります。<br/>
+>　その、じぶんってやつがいちばん信用ならないですからね。<br/>
+
+Bilang simula, hinayaan akong gawin ang kahit papa'nong gawain, <br/>
+hindi sa pamamagitan ng kung anong paraan ng "pagsasanay"; bagkus, sa "tunay" na paggawa nito.<br/>
+Mahalagang subukang alalahanin iyon.<br/>
+Itong sinasabi kong ang aking sarili:<br/>
+ito ang pinakahindi kasi mapagkatitiwalaan, 'di ba?<br/>
+
+>　で、よくよく考えてみると、<br/>
+>　ぼくは（怒られそうだけど）練習はしてなかった。
+
+Kung gayon, kapag sinubukan kong pagnilayan nang pagnilayan,<br/>
+(bagama't mukha manng pagagalitan ako) 
+hindi naman ako nagsanay.
+
+>　どうやったらうまくなるか少しもわかってなかったけど、<br/>
+>　思えばいつも「本番」ばかりをやってきた気がするのです。
+
+Kahit kaunti hindi ko man naunawaan<br/>
+kung paano nga ba ako gumaling; ngayon<br/>
+kapag inisip ko, parating ko lamang kasing ginagawa ang bagay sa "tunay" na paggawa.
+
+>　そのことについては、運もあったでしょうね。
+
+Mayroon din kayang pagpapala ang tungkol sa bagay na iyon?
+
+>　「本番」の仕事を、なんとかすることばかりでした。
+
+Parati ko kasi namang ginagawa kahit papa'no ang "tunay" na paggawa ng hanap-buhay.
+
+>　だいたい、就職が決まって入社したその日に、<br/>
+>　上司になるはずのコピーライター氏が、ぼくに<br/>
+>　「ぼくは今日で退社するので、あとはよろしくね」でした。
+
+Halos, nang mapagpasiyahan ang papasukan kong pook ng hanap-buhay, sa araw ng pagpasok ko sa Samahan, <br/>
+ito ang sinabi sa'kin ng aking dapat na magiging Tagapangasiwa na COPYWRITER:<br/>
+"Ikaw na ang bahala; Iiwan ko na itong Samahan ngayong araw."<br/>
+
+>　ほんとうに、未経験だったんですよ、ぼくは（わははは）。
+
+Sinasabi ko sa'yo aking mambabasa, talagang kulang ako sa karanasan (WAHAHAHA).
+
+>　その時点から、プロにならされちゃったんですね。
+
+Simula ng panahong iyon, naging PRO ako.
+
+>　一度ずつ、練習じゃなく「やらなきゃならない」仕事です。
+
+Hindi sa unti-unting pagsasanay; sa halip, sa pamamagitan ng "kinailangan kasing gawin" na hanap-buhay.
+
+>　正直に言えば、すっごくやりたい仕事ばかりではなかった。
+　
+Kung sasabihin ko ang totoo, panay mga hindi ko nais gawing hanap-buhay ang pinaggagawa ko.
+
+>  深く考えているようなふりをして代々木公ngayon園に行ってたり、<br/>
+>　近所の喫茶店でタバコをふかしてたりしてごまかしてた。
+
+Nambola pa ako sa kunwaring malalim na pagninilay,
+pagpunta sa Pampublikong Halamanan ng YOYOGI, nagpalabas ng usok sa hangin sa kalapit na kapehan.
+
+>　でも「本番」だというところからは逃げられなかった。
+
+Gayunman, hindi naman ako tumakas sa "tunay" na paggawa.
+
+>　思えば、小説家であろうが、俳優であろうが、<br/>
+>　みんな「本番」の舞台を繰り返しているだけなんですよね。
+
+Kapag ating inisip, Manunulat man, Mangtatanghal man,
+lahat, sa pook tanghalan, paulit-ulit ang "tunay" lamang na paggawa, hindi ba?
+
+>　いまの世に「会社員」という仕事の仕方があるものだから、<br/>
+>　「ダメ出し」とか「再考」とかに慣れちゃってるけどね。
+
+Sa kasalukuyang daigdig, nasanay na rin ako sa "Pinasa nang 'di ayos", "Muling pagnilayan", atbp,
+sapagkat may paraan ng hanap-buhay ang sinasabing Manggagawa.
+
+>　それは「本番」に似ているけど「練習」かもしれません。
+
+Ang mga iyon, bagama't halintulad sa "tunay" na paggawa,
+maaaring "pagsasanay".
+
+>　…とか思いながら、この短文の最初の4行に戻りましょう。
+
+...habang iniisip ang mga ito, atbp, bumalik tayo sa unang apat na pahalang nitong maliit na sulatin.
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+
+Ngayong araw din po, salamat sa pagdalo sa "HALOS ARAW".
+
+> そういえば「育児」とか「運転」とか、みんな本番ですよね。
+
+Sa pagsabi ko nito, lahat ng mga ito, hindi ba tunay na paggawa: ang pangangaral sa bata, pagpapatakbo ng sasakyan, atbp?
+
+
+
+## https://www.1101.com/home.html;
+last accessed: 20220620
+
 ### Paalala: 
 Nakaayos ito ayon sa aking pag-unawa ng halaga ng sulatin sa aking buhay;
 
