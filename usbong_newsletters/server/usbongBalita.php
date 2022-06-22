@@ -592,7 +592,7 @@ Sulatin sa nagbabayad na kasapi<br/>
 </p>
 </blockquote><br/>
     
-May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindahan na naroon noon sa pook ng aking kinalakihan; May hinahanap akong kung ano sa lagayan ng mga aklat. Simula pa noong dumaan ako sa aking kabataan, hinahabol ko na ang araw ng bentahan ng Magasin ng Komiks (MANGA). May natagpuaan akong nakaaaliw kay SEI SHINICHI (Manunulat; Bituin, Bagong Isa) sa lagayan ng mga aklat ng malaking lalagyan ng mga sulatin. Sa loob-loob ko, marahil ito ang pinagmulang hugis ng Tindahan ng Aklat. Mawawala kaya ang usaping ganito sa mga kabataan mula ngayon? Sa paligid...
+May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindahan na naroon noon sa pook ng aking kinalakihan; May hinahanap akong kung ano sa lagayan ng mga aklat. Simula pa noong dumaan ako sa aking kabataan, hinahabol ko na ang araw ng bentahan ng Magasin ng Komiks (MANGA). May natagpuan akong nakaaaliw kay SEI SHINICHI (Manunulat; Bituin, Bagong Isa) sa lagayan ng mga aklat ng malaking lalagyan ng mga sulatin. Sa loob-loob ko, marahil ito ang pinagmulang hugis ng Tindahan ng Aklat. Mawawala kaya ang usaping ganito sa mga kabataan mula ngayon? Sa paligid...
 <br/>
 <br/>
 <blockquote class="usbongBlockquote">
