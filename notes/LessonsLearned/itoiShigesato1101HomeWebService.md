@@ -54,7 +54,7 @@ ito ang pinakahindi kasi mapagkatitiwalaan, 'di ba?<br/>
 >　ぼくは（怒られそうだけど）練習はしてなかった。
 
 Kung gayon, kapag sinubukan kong pagnilayan nang pagnilayan,<br/>
-(bagama't mukha manng pagagalitan ako) 
+(bagama't mukha mang pagagalitan ako) 
 hindi naman ako nagsanay.
 
 >　どうやったらうまくなるか少しもわかってなかったけど、<br/>
