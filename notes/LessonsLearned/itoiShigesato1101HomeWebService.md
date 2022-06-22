@@ -93,7 +93,7 @@ Simula ng panahong iyon, naging PRO ako.
 Hindi sa unti-unting pagsasanay; sa halip, sa pamamagitan ng "kinailangan kasing gawin" na hanap-buhay.
 
 >　正直に言えば、すっごくやりたい仕事ばかりではなかった。
-　
+
 Kung sasabihin ko ang totoo, panay mga hindi ko nais gawing hanap-buhay ang pinaggagawa ko.
 
 >  深く考えているようなふりをして代々木公ngayon園に行ってたり、<br/>
