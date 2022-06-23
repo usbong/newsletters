@@ -38,7 +38,7 @@ Ipinahayag ng Pagamutan ang pagtuloy sa balik-gawaan ng kanilang sistemang duman
 
 >　また県によると、病院からは「今のところ個人情報の流出は確認されていない」と報告があったという。県警が、ウイルスの侵入経路などを調べている。（吉田博行）
 
-Dagdag pa, ayon sa pook KEN, sinasabing may report mula sa Paggamutan: "Hindi pa natitiyak kung may dumaloy pailabas ng mga pansariling (pribadong) BALITA sa kasalukuyan." Sinisiyasat na ng Pulis ng pook KEN, ang pinasok na daan ng VIRUS, atbp. (YOSHIDA, HIROYUKI) 
+Dagdag pa, ayon sa pook KEN, sinasabing may report mula sa Pagamutan: "Hindi pa natitiyak kung may dumaloy pailabas ng mga pansariling (pribadong) BALITA sa kasalukuyan." Sinisiyasat na ng Pulis ng pook KEN, ang pinasok na daan ng VIRUS, atbp. (YOSHIDA, HIROYUKI) 
 
 ### Sanggunian
 1) GOOGLE SEARCH ENGINE; TRANSLATE
