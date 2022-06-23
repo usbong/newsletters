@@ -49,7 +49,7 @@ Nitong ika-19, hindi na sila makagawa ng ACCESS sa mga DIGITAL CHART, dahil sa C
 
 >　病院は被害を受けたシステムの復旧作業を進め、21日に「一部の安全な端末で電子カルテ、院内ネットワーク稼働が可能になる」と発表。22日から新規患者の受け入れを含め、可能な範囲で通常診療を再開するという。
 
-Ipinahayag ng Pagamutan ang pagtuloy sa balik-gawaan ng kanilang sistemang dumanas ng pagtama, at ng ika-21, "Maaari nang maghanap-buhay ang network sa loob ng Pagamutan, at gamit ang isang bahagi ng ligtas na mga kompyuter, may ACCESS na sa mga DIGITAL CHART". Sinasabing naibalik ang pagbukas sa karaniwang gamutan gamit ang ligtas na bahagi, kabilang na ang paglalagay ng mga bagong may-sakit mula ika-22.
+Ipinahayag ng Pagamutan ang pagtuloy sa balik-gawaan ng kanilang sistemang dumanas ng pagtama, at ng ika-21, "Maaari nang pakilusin (maghanap-buhay) ang network sa loob ng Pagamutan, at gamit ang isang bahagi ng ligtas na mga kompyuter, may ACCESS na sa mga DIGITAL CHART". Sinasabing naibalik ang pagbukas sa karaniwang gamutan gamit ang ligtas na bahagi, kabilang na ang paglalagay ng mga bagong may-sakit mula ika-22.
 
 >　また県によると、病院からは「今のところ個人情報の流出は確認されていない」と報告があったという。県警が、ウイルスの侵入経路などを調べている。（吉田博行）
 
