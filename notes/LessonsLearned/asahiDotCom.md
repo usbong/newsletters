@@ -12,6 +12,21 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [18歳以下に1万円ギフトカード　大阪知事「スピード感持って支給」](https://sitesearch.asahi.com/sitesearch/?Keywords=コールセンター&Searchsubmit2=検索&Searchsubmit=検索&iref=pc_gnavi); last accessed: 2022-06-23
+
+> 18歳以下に1万円ギフトカード　大阪知事「スピード感持って支給」
+
+10K YEN (5K PHP) GIFT CARD sa mga 18 Taong Gulang paibaba;<br/>
+Ipinaalam ng Pinuno ng OSAKA: "RAMDAM ang BILIS sa pagbigay"
+
+> 新谷千布美2022年6月15日 20時00分
+
+SHINTANI, CHIFUMI; 2022-06-15T20:00
+
+> ギフトカードは郵送での配布を想定しているが、詳細は市町村と調整中で、地域などによって配布時期がずれる可能性がある。事務費の概算は約24億円。ギフトカードの種類は今後入札で決める。　家庭内暴力（DV）から避難するなどして住民基本台帳と異なる場所に住んでいる子どもには、後日専用のコールセンターを設置して対応する。虐待を受けた子どもには、児童相談所や施設あてに送付する。　吉村洋文知事はこの日の会見で、「児童手当の口座は法律上利用できず、現金よりギフトカードの方がスピード感を持って支給できる」と強調した
+
+Bagama't inaasahan ang pamamahagi ng mga GIFT CARD gamit ang POSTAL na padala, may hindi sasabay sa panahon ng pamamahagi batay sa pook, habang inaayos pa ang nilalaman (detalye) nito sa Lungsod. 2400Milyong YEN (1200Milyong PHP) ang kabuuang bilang ng Gastos sa Tungkulin. Pagpapasyahan ang uri ng GIFT CARD pagkatapos mailaan ang pera (BIDDING). Sa mga sumunod na araw, maglalagay ng bukod-tanging CALL CENTER upang tumugon sa mga batang naiba ang tirahan sa nakasulat sa TALAAN ng tirahan ng mamamayan sa loob ng mga lungsod upang lumisan mula sa Gulo sa loob ng Tahanan (DOMESTIC VIOLENCE (DV)); Makapagpapadala ng tulong-pera tungo sa mga batang nakaranas ng 'di ayos na pag-alaga (ABUSO), sa pamamagitan ng mga pook gawaan at talakayan ukol sa mga bata't sanggol. Idiniin ng Pinuno na si G. YOSHIMURA, HIROFUMI sa araw ng pagkikita, "Hindi maaaring gumamit ayon sa BATAS ng mga ACCOUNT sa mga bata't sanggol upang tumanggap ng tulong-pera; Higit na ramdam ang BILIS gamit ang GIFT CARD sa halip na CASH".
+
 ## [サイバー攻撃受けた徳島の病院、22日から通常診療　電子カルテ復旧](https://www.asahi.com/articles/ASQ6P5KPJQ6PPTLC00T.html?iref=comtop_Tech_science_03); last accessed: 20220623
 
 > サイバー攻撃受けた徳島の病院、22日から通常診療　電子カルテ復旧
