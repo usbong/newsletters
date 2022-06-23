@@ -30,7 +30,7 @@ Sinalakay ng CYBER ATTACK na RANSOMWARE (VIRUS na maaayos kapalit ng pera), ang 
 
 >　19日に受けたサイバー攻撃で、電子カルテにアクセスできなくなっていた。再診患者の受け入れや入院患者の治療に支障はなかったが、20日から新規患者の受け入れを停止していた。
 
-Nitong ika-19, hindi na sila makagawa ng ACCESS sa mga DIGITAL CHART, dahil sa CYBER ATTACK. Tumigil ang pagtanggap ng mga bagong may-sakit mula ika-20, bagama't hindi naman naging baldado ang kanilang pagtanggap ng mga bumabalik na MAY-SAKIT at ang mga ginagamot na ipinasok sa Paggamutan.
+Nitong ika-19, hindi na sila makagawa ng ACCESS sa mga DIGITAL CHART, dahil sa CYBER ATTACK. Tumigil ang pagtanggap ng mga bagong may-sakit mula ika-20, bagama't hindi naman naging baldado ang kanilang pagtanggap ng mga bumabalik na MAY-SAKIT at ang mga ginagamot na ipinasok sa Pagamutan.
 
 >　病院は被害を受けたシステムの復旧作業を進め、21日に「一部の安全な端末で電子カルテ、院内ネットワーク稼働が可能になる」と発表。22日から新規患者の受け入れを含め、可能な範囲で通常診療を再開するという。
 
