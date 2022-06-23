@@ -12,6 +12,37 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [サイバー攻撃受けた徳島の病院、22日から通常診療　電子カルテ復旧](https://www.asahi.com/articles/ASQ6P5KPJQ6PPTLC00T.html?iref=comtop_Tech_science_03); last accessed: 20220623
+
+> サイバー攻撃受けた徳島の病院、22日から通常診療　電子カルテ復旧
+
+Dumanas ng CYBER ATTACK and Pagamutan ng TOKUSHIMA,<br/>
+Mula ika-22, balik-karaniwang gamutan na ulit;<br/>
+Naibalik ang mga DIGITAL CHART;
+
+> 吉田博行2022年6月21日 19時00分
+
+YOSHIDA, HIROYUKI; 2022-06-21; 19:00
+
+> ランサムウェア（身代金ウイルス）によるサイバー攻撃を受けた徳島県鳴門市の医療法人久仁会「鳴門山上病院」は21日、電子カルテなどが復旧したとして、22日から通常診療を再開すると発表した。
+
+Sinalakay ng CYBER ATTACK na RANSOMWARE (VIRUS na maaayos kapalit ng pera), ang "Pagamutan ng NARUTO YAMAGAMI" ng Samahan ng Manggamot ng KUNI, sa Lungsod NARUTO ng TOKUSHIMA-KEN; Nitong ika-21, naibalik ang mga DIGITAL CHART, atbp; Ipinahayag din na muling balik-karaniwan na ang Pagamutan mula ika-22.
+
+>　19日に受けたサイバー攻撃で、電子カルテにアクセスできなくなっていた。再診患者の受け入れや入院患者の治療に支障はなかったが、20日から新規患者の受け入れを停止していた。
+
+Nitong ika-19, hindi na sila makagawa ng ACCESS sa mga DIGITAL CHART, dahil sa CYBER ATTACK. Tumigil ang pagtanggap ng mga bagong may-sakit mula ika-20, bagama't hindi naman naging baldado ang kanilang pagtanggap ng mga bumabalik na MAY-SAKIT at ang mga ginagamot na ipinasok sa Paggamutan.
+
+>　病院は被害を受けたシステムの復旧作業を進め、21日に「一部の安全な端末で電子カルテ、院内ネットワーク稼働が可能になる」と発表。22日から新規患者の受け入れを含め、可能な範囲で通常診療を再開するという。
+
+Ipinahayag ng Pagamutan ang pagtuloy sa balik-gawaan ng kanilang sistemang dumanas ng pagtama, at ng ika-21, "Maaari nang maghanap-buhay ang network sa loob ng Pagamutan, at gamit ang isang bahagi ng ligtas na mga kompyuter, may ACCESS na sa mga DIGITAL CHART". Sinasabing naibalik ang pagbukas sa karaniwang gamutan gamit ang ligtas na bahagi, kabilang na ang paglalagay ng mga bagong may-sakit mula ika-22.
+
+>　また県によると、病院からは「今のところ個人情報の流出は確認されていない」と報告があったという。県警が、ウイルスの侵入経路などを調べている。（吉田博行）
+
+Dagdag pa, ayon sa pook KEN, sinasabing may report mula sa Paggamutan: "Hindi pa natitiyak kung may dumaloy pailabas ng mga pansariling (pribadong) BALITA sa kasalukuyan." Sinisiyasat na ng Pulis ng pook KEN, ang pinasok na daan ng VIRUS, atbp. (YOSHIDA, HIROYUKI) 
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [アマゾン、西日本最大の倉庫を報道陣に公開　最新技術で出荷増](https://www.asahi.com/articles/ASQ6N6GSBQ6NULFA001.html); last accessed: 20220621
 
 > アマゾン、西日本最大の倉庫を報道陣に公開　最新技術で出荷増
