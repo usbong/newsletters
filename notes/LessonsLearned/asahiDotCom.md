@@ -12,6 +12,108 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [SMBC日興はなぜ「御法度」に手を出した　調査から浮かんだ体質](https://www.asahi.com/articles/ASQ6R6WVWQ6RULFA01M.html?iref=comtop_7_01); last accessed: 20220624
+
+> SMBC日興はなぜ「御法度」に手を出した　調査から浮かんだ体質
+
+Bakit pinakikialaman ng SMBC NIKKO ang "Nibel ng Iginagalang na Batas (TABOO)";
+Ang lumitaw na nilalaman ng pagsisiyasat;
+
+※ SMBC NIKKO = Sumitomo Mitsui Banking Corporation (SMBC) NIKKO
+
+> 有料会員記事microeconomics
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年6月24日 7時00分
+
+2022-06-24T07:00
+
+> 国内3大証券の一つ、SMBC日興証券が、「不適切かつ不公正な行為」とされた株価の買い支えをしたのはなぜなのか。関係者によると、調査委員会が着目したのは、株価下落を招きやすい取引の問題点と、それを認識しながら対応を先送りした日興の企業体質だった。
+
+Isa sa tatlong (3) may Malalaking Patunay (STOCK SECURITIES) sa loob ng Kaharian ang SMBC NIKKO; BAKIT tinutulungan ng SMBC NIKKO ang pagbebenta ng STOCK (halaga ng bahagi ng Samahan) sa pamamagitan ng KILOS na "HINDI naaayon AT hindi makamasa"? Ayon sa taong may kinalaman dito, tinuunan ng Samahan ng Nagsisiyasat ang mga ito:<br/>
+1) SULIRANIN sa madaling pag-akit ng palitan sa pagbagsak ng STOCK<br/>
+2) Ang Nilalaman ng Mangangalakal na NIKKO na TUMUTUGON hanggang panghinaharap, habang kinikilala itong SULIRANIN;
+
+>    SMBC日興、調査委が「不公正な行為」認定　社長へのメールも判明
+
+Tiniyak ng mga Nagsisiyasat ang "Hindi makamasa't matuwid na PAGKILOS" ng SMBC NIKKO;
+Malinaw na hinusga ito sa sulat (MAIL) din nila sa Pinuno ng Samahan;
+
+>　日興関係者によると、調査委は事件の舞台となった計10銘柄を含む「ブロックオファー（BO）取引」を検証した。BO取引は、市場外で大株主から買い取った株式を投資家に転売して、証券会社がその差益を得る仕組みだ。日興では取引金額全体のおおむね1・5%以上の収益が見込めるビジネスモデルだったという。
+
+　Ayon sa taong may kinalaman sa NIKKO, pinatunayan ito ng "Palitan ng BLOCK OFFER (BO)" kung saan naroon sa pook ng pangyayari ang 10 bilang ng pangalang NIKKO. <br/>
+<br/>
+Sa Palitan ng BLOCK OFFER, muling ibebenta sa INVESTOR ang binili't kinuhang STOCK mula sa Malaking May-ari nito sa LABAS ng Pamilihan; Tinatanggap ng (Malaking May-ari ng) Samahan ng STOCK bilang MEKANISMO (paraan) iyang pagitan (pagkakaiba) sa kanilang kita mula rito. Sinasabing nakikitang isang BUSINESS MODEL ang pagkuha ng kita (INCOME) na nasa mga higit sa 1.5% ng kabuuang pinagpalitang SALAPI sa NIKKO.
+
+> だが、日興はこのビジネスを始めた2012年6月から、ある悩みを抱える。対象銘柄の売買価格は取引日の終値を基準にするが、株価下落で終値が下がるケースがあったためだ。
+
+Gayunpaman, mula nang simulan ng NIKKO ang ganitong BUSINESS (Pangangalakal), nagkaroon ito ng pangamba. Ito'y sapagkat nagkaroon ng KASO (Pangyayari) kung saan bagama't ginagawa nitong batayan ang huling HALAGA ng ibinibenta't binibili nitong STOCK sa araw ng Palitan, bumaba pa ang huling HALAGA nito sa pagbasak.
+
+### Paalala#1: 
+
+Bilang ng Bumibili (DEMAND), MABABA<br/>
+Bilang ng Nagbebenta (SUPPLY), MATAAS<br/>
+--> BABABA ang HALAGA ng STOCK
+
+### --
+
+> 終値が下がると、日興の取り分が減るだけでなく、売却を依頼してきた大株主に取引を撤回される恐れもある。
+
+Kapag bumaba ang huling HALAGA, hindi lamang bababa ang makukuhang bahagi (STOCK) ng NIKKO; May takot ding hindi isauli ang STOCK sa Malaking May-ari na humiling na ibenta pabalik ito sa kaniya.
+
+### Paalala#2: 
+
+Bilang ng Bumibili (DEMAND), MABABA<br/>
+Bilang ng Nagbebenta (SUPPLY), MABABA<br/>
+<br/>
+--> Paliitin ang SISTEMA: MICRO-ECONOMICS<br/>
+<br/>
+Bilang ng Bumibili (DEMAND), MABABA<br/>
+Bilang ng Nagbebenta (SUPPLY), MATAAS<br/>
+--> BABABA ang HALAGA ng STOCK<br/>
+<br/>
+Bilang ng Bumibili (DEMAND): 1<br/>
+Bilang ng Nagbebenta (SUPPLY): 1<br/>
+--> ?<br/>
+<br/>
+Bilang ng Bumibili (DEMAND): 1; MATAAS<br/>
+Bilang ng Nagbebenta (SUPPLY): 0; MABABA<br/>
+--> TATAAS ang HALAGA ng STOCK<br/>
+<br/>
+Bilang ng Bumibili (DEMAND): 0; MABABA<br/>
+Bilang ng Nagbebenta (SUPPLY): 1; MATAAS<br/>
+--> BABABA ang HALAGA ng STOCK<br/>
+
+### --
+
+>「株価の下落は第三者が原因」　
+
+"Sanhi ng pagbagsak ng STOCK ang IKATLONG tauhan"
+
+> 操縦招いた日興のある見立て
+
+Ito ang nakikita ng NIKKO (upang gawing dahilan) sa pagyayaya nito ng PATAYONG KONTROL 
+
+>　そこで、日興が手を出したのが、自己資金を使った株価の買い支えだった。
+
+Doon, nakikialam ang NIKKO sa pamamagitan ng paglabas ng kanyang kamay, upang bilhin  ang ginamit nitong HALAGA ng STOCK sa kanyang sariling salapi (KAPITAL).
+
+>　最初の事件になった電気機器…
+
+Naging unang pangyayari ang sa Mga Kuryenteng Gamit
+
+> この記事は有料会員記事です。残り1237文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 1237titik; Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian
+
+1) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E; last accessed: 20220624
+2) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [18歳以下に1万円ギフトカード　大阪知事「スピード感持って支給」](https://sitesearch.asahi.com/sitesearch/?Keywords=コールセンター&Searchsubmit2=検索&Searchsubmit=検索&iref=pc_gnavi); last accessed: 2022-06-23
 
 > 18歳以下に1万円ギフトカード　大阪知事「スピード感持って支給」
