@@ -31,7 +31,7 @@ Sulatin sa nagbabayad na kasapi
 
 > 国内3大証券の一つ、SMBC日興証券が、「不適切かつ不公正な行為」とされた株価の買い支えをしたのはなぜなのか。関係者によると、調査委員会が着目したのは、株価下落を招きやすい取引の問題点と、それを認識しながら対応を先送りした日興の企業体質だった。
 
-Isa sa tatlong (3) may Malalaking Patunay (STOCK SECURITIES) sa loob ng Kaharian ang SMBC NIKKO; BAKIT tinutulungan ng SMBC NIKKO ang pagbebenta ng STOCK (halaga ng bahagi ng Samahan) sa pamamagitan ng KILOS na "HINDI naaayon AT hindi makamasa"? Ayon sa taong may kinalaman dito, tinuunan ng Samahan ng Nagsisiyasat ang mga ito:<br/>
+Isa sa tatlong (3) may Malalaking Patunay (STOCK SECURITIES) sa loob ng Kaharian ang SMBC NIKKO; BAKIT gumagawa ng pagtulong ang SMBC NIKKO sa pagbebenta ng kanyang STOCK (halaga ng bahagi ng Samahan) sa pamamagitan ng KILOS na "HINDI naaayon AT hindi makamasa"? Ayon sa taong may kinalaman dito, tinuunan ng Samahan ng Nagsisiyasat ang mga ito:<br/>
 1) SULIRANIN sa madaling pag-akit ng palitan sa pagbagsak ng STOCK<br/>
 2) Ang Nilalaman ng Mangangalakal na NIKKO na TUMUTUGON hanggang panghinaharap, habang kinikilala itong SULIRANIN;
 
