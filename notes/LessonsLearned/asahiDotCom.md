@@ -12,6 +12,49 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [トヨタ系がまた標的か、サイバー被害相次ぐ　トヨタ紡織子会社など](https://www.asahi.com/articles/ASQ6S7KFRQ6SULFA00C.html?iref=comtop_7_04); last accessed: 20220625
+
+> トヨタ系がまた標的か、サイバー被害相次ぐ　トヨタ紡織子会社など
+
+PAKAY muli ang kaugunay ng TOYOTA,<br/>
+Tuluy-tuloy na tinamaan mula sa CYBER (ATTACK)<br/>
+Ang ANAK na SAMAHAN ng TOYOTA na HABIAN, atbp
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi 
+
+> 奈良部健、近藤郷平2022年6月25日 9時00分
+
+NARABE, KEN; KONDOU, GOUHEI; 2022-06-25T09:00
+
+
+> トヨタ自動車系の部品メーカーが、サイバー攻撃の標的となるケースが相次いでいる。車のシート生地をつくるトヨタ紡織の子会社「TBカワシマ」（滋賀県）は、タイの販売子会社が被害にあった。従業員や取引先の情報が盗み取られた恐れがある。工場の稼働に影響はないとしている。
+
+Tuluy-tuloy sa Gawaan ng mga bahagi na kaugnay ng SASAKYAN (Sariling Kumikilos na Sasakyan) ng TOYOTA ang mga pangyayari kung saan ginagawa silang PAKAY ng mga CYBER na pagsalakay. Nagtamo ng tama ang Samahan ng Bentahan sa THAI ng "TB KAWASHIMA (sa SHIGA-KEN)" na ANAK na SAMAHAN ng HABIAN ng TOYOTA na gumagawa ng material sa UPUAN ng SASAKYAN. May takot na nanakaw ang mga BALITA ukol sa kanilang mga MANGGAGAWA, Kaugynay na Pook, atbp. Hindi tinamaan ang hanap-buhay sa PAGAWAAN.
+
+>　サイバー犯罪集団「ロックビット」が18日にネット上に犯行を示す声明を出した。タイ子会社の従業員がサーバーに脅迫文とみられるメッセージを発見。その後、サーバーをネットワークから遮断した。タイの捜査当局に被害届を出す予定だという。
+
+Naglabas ang CYBER CRIMINAL GROUP, "ROCKBIT", sa INTERNET ng maliwanag na tinig kung saan ipinapakita ang paggawa ng SALA (KRIMEN) nitong ika-18. May natagpuan ang mga Manggagawa sa ANAK na SAMAHAN sa THAI ng MENSAHE na nakikita bilang SULAT ng pananakot. Pagkatapos nito, hinadlang na ang CYBER mula sa kanilang NETWORK. Sinasabing pakay nang maglabas ng Report ng SINIRA sa Pook ng Tagapagsiyasat sa THAI.
+
+> これとは別に、トヨタの子会社でプレス部品をつくる協豊製作所（愛知県）もサイバー攻撃を受けたとみられ、システム障害に陥った。工場の稼働に影響は出ておらず、情報流出などの被害は確認されていないという。愛知県警にも相談し、調査をしている。
+
+Bukod naman dito, sa ANAK na SAMAHAN ng TOYOTA, bumagsak din sa pahamak ang kanilang SISTEMA ng Pook Gawaan nang Masaganang Pagtutulungan na gumagawa ng bahaging Pampisa (sa Sasakyan). Sinasabing hindi naman tinamaan ang hanap-buhay sa Pagawaan, at hindi tiyak na may pahamak mula sa pagdaloy palabas ng BALITA, atbp. Nakipag-usap na sila sa PULIS (AICHI-KEN), at ginagawa na ang pagsisiyasat.
+
+>　トヨタ系では部品大手デンソ…
+
+Kaugnay ng TOYOTA, ang Malaking Gawaan ng Bahagi na "DENSO"...
+
+> この記事は有料会員記事です。残り196文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natira pang 196titik; Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1F; last accessed: 20220625
+
+
 ## [SMBC日興はなぜ「御法度」に手を出した　調査から浮かんだ体質](https://www.asahi.com/articles/ASQ6R6WVWQ6RULFA01M.html?iref=comtop_7_01); last accessed: 20220624
 
 > SMBC日興はなぜ「御法度」に手を出した　調査から浮かんだ体質
