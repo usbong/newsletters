@@ -39,7 +39,7 @@ Naglabas ang CYBER CRIMINAL GROUP, "ROCKBIT", sa INTERNET ng maliwanag na tinig 
 
 > これとは別に、トヨタの子会社でプレス部品をつくる協豊製作所（愛知県）もサイバー攻撃を受けたとみられ、システム障害に陥った。工場の稼働に影響は出ておらず、情報流出などの被害は確認されていないという。愛知県警にも相談し、調査をしている。
 
-Bukod naman dito, sa ANAK na SAMAHAN ng TOYOTA, bumagsak din sa pahamak ang kanilang SISTEMA ng Pook Gawaan nang Masaganang Pagtutulungan na gumagawa ng bahaging Pampisa (sa Sasakyan). Sinasabing hindi naman tinamaan ang hanap-buhay sa Pagawaan, at hindi tiyak na may pahamak mula sa pagdaloy palabas ng BALITA, atbp. Nakipag-usap na sila sa PULIS (AICHI-KEN), at ginagawa na ang pagsisiyasat.
+Bukod naman dito, sa ANAK na SAMAHAN ng TOYOTA, bumagsak din sa pahamak ang kanilang SISTEMA ng Pook Gawaan nang Masaganang Pagtutulungan (sa AICHI-KEN) na gumagawa ng bahaging Pampisa (sa Sasakyan). Sinasabing hindi naman tinamaan ang hanap-buhay sa Pagawaan, at hindi tiyak na may pahamak mula sa pagdaloy palabas ng BALITA, atbp. Nakipag-usap na sila sa PULIS (AICHI-KEN), at ginagawa na ang pagsisiyasat.
 
 >　トヨタ系では部品大手デンソ…
 
