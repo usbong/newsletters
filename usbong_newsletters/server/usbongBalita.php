@@ -1,33 +1,40 @@
 <!--
-  Copyright 2021~2022 SYSON, MICHAEL B.
+  Copyright 2021~2022 SYSON, MICHAEL B. 
+
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
+
   http://www.apache.org/licenses/LICENSE-2.0
+
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
 
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220622; from 20220619
+  @date updated: 20220626; from 20220622
   @website address: http://www.usbong.ph
 
   Input:
-  1) Keyphrase
+  1) Lessons-learned HTML TEXT FILE
 
   Output:
-  1) identified Newsletter where keyphrase exists  
+  1) Usbong Balita viewable using Computer/Mobile Web Browsers  
   
   Computer Browser: Website Address (Example):
   1) local: http://localhost/usbong_newsletters/server/usbongBalita.php
   2) public internet: http://store.usbong.ph/server/usbongBalita.php
   
-  Recommended Reference:
+  Recommended References:
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
+
+  2) https://www.asahi.com/; last accessed: 20220626
   
+  3) https://www.1101.com/home.html; last accessed: 20220626
+
+  //TO-DO: -add: mobile responsiveness via reusing USBONG STORE computer instructions received from ZENT as paid sub-contractor  
+  reminder: pay: to learn technique for USBONG to share lessons-learned with PUBLIC
   
-  //added: year folder for 2020, et cetera
-  //TO-DO: -update: newsletter pages system to be more organized
-  
+  //TO-DO: -update: newsletter pages system to be more organized  
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -182,6 +189,15 @@ last accessed: 20220622
 							content: '\201D';
 						}
 */
+/*
+						Reference: https://www.w3schools.com/css/css_text_spacing.asp;
+						last accessed: 20220626
+*/
+						div.textDoubleSpacedDiv {
+							line-height: 2;
+						}
+						
+
 						
 						table.imageTable
 						{
@@ -557,19 +573,19 @@ last accessed: 20220622
 			</a>
 		</td>
 	</table>
-	<div>
+	<div class="textDoubleSpacedDiv">
 	<h3>
 	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
 		（天声人語）書店消失</a>; last accessed: 20220622
 	</h3>				
-07:14~07:37; Ginugol na Panahon: 23MIN<br/>
+07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    （天声人語）書店消失
+（天声人語）書店消失
 </p>
 </blockquote><br/>
-(Boses ng Langit; Salaysay ng Tao)<br/>
+(Tinig ng Langit; Salaysay ng Tao)<br/>
 Pagkawala ng mga Tindahan ng Aklat<br/>
 <br/>
 <blockquote class="usbongBlockquote">
