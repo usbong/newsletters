@@ -10,7 +10,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220626; from 20220622
+  @date updated: 20220627; from 20220626
   @website address: http://www.usbong.ph
 
   Input:
@@ -30,6 +30,8 @@
   2) https://www.asahi.com/; last accessed: 20220626
   
   3) https://www.1101.com/home.html; last accessed: 20220626
+  
+  4) AMAZON.COM Kindle eBOOK Reader
 
   //TO-DO: -add: mobile responsiveness via reusing USBONG STORE computer instructions received from ZENT as paid sub-contractor  
   reminder: pay: to learn technique for USBONG to share lessons-learned with PUBLIC
@@ -63,16 +65,26 @@
 							/* This makes the width of the output page that is displayed on a browser equal with that of the printed page. */
 							/* Legal Size; Landscape*/							
 
-							width: 670px;/*860px;*//* 802px;*//* 670px */
+							/* //removed by Mike, 20220627 */
+							/*width: 670px;*//*860px;*//* 802px;*//* 670px */
 
 							/* removed by Mike, 20210105 */
 							/* use zoom 67% scale*/
 							/* at present, command not support in Mozilla Firefox */				
-/*							zoom: 67%; 
-	
+/*							
+							zoom: 67%; 	
 							transform: scale(0.67);
 							transform-origin: 0 0;	
 */							
+
+							/* added by Mike, 20220627 
+							  //reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/views/templates/style_v2.php;
+							  last accessed: 20220627
+							  
+							  //TO-DO: -reverify: this
+							*/
+							max-width: 100%;
+							position: relative;	
                         }
 												
 						div.formTitle
