@@ -94,7 +94,7 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 3110 titik; Kapag na
 ### Sanggunian
 1) GOOGLE SEARCH ENGINE; TRANSLATE
 
-2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1F; last accessed: 20220625
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1F; last accessed: 20220627
 
 
 ## [トヨタ系がまた標的か、サイバー被害相次ぐ　トヨタ紡織子会社など](https://www.asahi.com/articles/ASQ6S7KFRQ6SULFA00C.html?iref=comtop_7_04); last accessed: 20220625
