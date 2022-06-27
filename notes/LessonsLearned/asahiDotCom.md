@@ -12,6 +12,91 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ビル・ゲイツが予言していたパンデミック　「再び来る」への戦略は](https://www.asahi.com/articles/ASQ6R3HFRQ6QUTFL00J.html?iref=comtop_7_01); last accessed: 20220627
+
+> ビル・ゲイツが予言していたパンデミック　「再び来る」への戦略は
+
+Ang pinangunahang-salita ni BILL GATES na PANDEMIC<br/>
+Ang PARAANG PANLABAN sa "muling pagbabalik" nito
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 聞き手・浜田陽太郎2022年6月27日 9時00分
+
+Tagapakinig・HAMADA, YOUTAROU; 2022-06-27T09:00
+
+
+>　マイクロソフト創業者のビル・ゲイツ氏（66）がいま、一番力を入れているのが感染症対策だ。昨年離婚した元妻のメリンダさんと財団を立ち上げ、20年以上にわたり莫大（ばくだい）な私財を投資してきた。7年前にパンデミックの発生を「予言」していたゲイツ氏は、こう話す。
+
+Ang tagapagtatag ng MICROSOFT na si BILL GATES (66), ang kasalukuyang naglalaan ng pangunahing lakas sa PARAANG PANLABAN (POLISIYA) ng Kumakalat na Karamdamang Sakit. Nagtayo sila ng kanyang dating ASAWA na si Bb. MELINDA (hiniwalayan noong nakaraang taon) ng Pangkat ng KAYAMANAN; Sa pagdaan ng higit sa 20 taon, nakapaglaan sila rito ng DAMBUHALANG pansarili (pribadong) YAMAN. Ito ang "pinangunahang-salita" ni G. GATES ukol sa pagsibol ng PANDEMIC, 7 taon ang nakararaan.
+
+>　「今後20年の間に、50%の確率で再びパンデミックが来るリスクがある」
+
+"Mula ngayon, sa loob ng 20 taon, tiyak nang 50%, may RISK (panganib) na babalik muli ang PANDEMIC"
+
+### --
+
+>　Bill　Gates　1955年、米シアトル生まれ。75年にマイクロソフトを創業。2008年に同社の経営から身を引き、資産500億ドルの財団運営に専念する。近著に「パンデミックなき未来へ　僕たちにできること」（早川書房）。
+
+Taong 1955 ipinanganak si Bill Gates sa SEATTLE ng AMERIKA. Taong 75 nang itinatag niya ang MICROSOFT. Taong 2008, inalis niya ang kanyang sarili mula sa pangangasiwa ng nabanggit na SAMAHAN, at dinalubhasa niya ang pagninilay sa gawain ng paglilipat ng 500Milyong USD sa Pangkat ng KAYAMANAN. Malapit sa kasalukuyan, inakda niya ito: "Ang ating magagawa upang WALANG PANDEMIC sa malapit na hinaharap" (Aklatan ng HAYAKAWA).
+
+### --
+
+> 僕たちは「運がよかった」だけ
+
+"Pinagpala" lang tayo
+
+>　――2015年の時点で「次の数十年で1千万人以上が亡くなる災厄は、戦争ではなく感染症だ」と予測できたのはなぜですか？
+
+"Sa sunod na 10 mga Taon, ang Nakahahawang Karamdamang Sakit, at hindi ang DIGMAAN, ang sakunang papatay sa higit sa 10Milyong tao"
+
+BAKIT nagawan niya itong may sukat na hinuha sa panahon ng Taong 2015?
+
+>　「僕たちの財団は貧しい国の感染症対策に力を入れていて、スペイン風邪から重症急性呼吸器症候群（SARS）まで、過去100年のあらゆるアウトブレーク（感染爆発）について研究している。その中で、人々が国境を越えて頻繁に移動するようになったことで、呼吸器系のウイルス感染症が瞬く間に広がることに気づいたんだ」
+
+"Sinasaliksik namin ng PANGKAT ng KAYAMANAN na nilaanan niya ng LAKAS sa PARAANG PANLABAN sa Nakahahawang Karamdamang Sakit ng Mahihirap na Kaharian, hanggang sa SARS (Samahan ng Mabigat na Sakit na may BILIS sa LALAGYAN (bahagi) ng Paghinga)" mula sa panlalamig ng Espanya. Sa loob nito, napansin namin ang iglap na pagkalat ng Nakahahawang Karamdamang Sakit na may ugnayan sa LALAGYAN ng Paghinga, dulot ng pagdalas na paglipat ng mga Tao na nilampasan pa ang Hangganan ng Harang na Kaharian."
+
+>　「専門家を集めて『何か、パンデミックの到来を防いでいるものがあるんだろうか』って尋ねたら、『基本的には何もない』というのが答えだった。この100年の間、我々は単に運がよかっただけで、いずれ運は尽きる。だから、準備しないといけないんだ、と」
+
+Kapag ating tinanong ang tinipong mga Dalubhasa: "Mayroon bang kung anong bagay na MAKAPAGSASANGGA sa parating na PANDEMIC?"
+
+>　――7年前といえば、ちょうど、エボラ出血熱がアウトブレークしたときです。
+
+Kapag binaggit ang nakaraang 7 Taon, sakto, panahon ito nang nagkaroon ng OUTBREAK ng EBOLA (init na lumalabas sa dugo).
+
+>　「『注目を集めるなら今だ』と思い、（米国の一流医学誌である）ニューイングランド・ジャーナル・オブ・メディシンに投稿したり（https://www.nejm.org/doi/full/10.1056/nejmp1502918別ウインドウで開きます）、TEDトークスの動画（https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=ja別ウインドウで開きます）に出演したりして、準備の必要性を訴えたんだ」
+
+"Naisip niya ang 'Kung may tututukan, NGAYON na iyon', nilathala sa NEW ENGLAND JOURNAL OF MEDICINE (Nangungunang Magazine ng Panggagamot sa AMERIKA) (Maaaring mabuksan sa ibang Dungawan (WINDOW), https://www.nejm.org/doi/full/10.1056/nejmp1502918), lumabas upang magtanghal sa gumagalaw na larawan (VIDEO) ng TED TALKS (Maaaring mabuksan sa ibang Dungawan (WINDOW),https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=ja), umapela sa pangangailangang maghanda"
+
+>　――で、反応は？
+
+At ang tugon?
+
+>　「動画は4千万回以上再生されたんだけど、95%は今回のパンデミックが起きた後だったね」
+
+Iniulit ang pagpapalabas ng gumagalaw na larawan nang higit sa 40Milyon; gayunpaman, 95% nito, pagkatapos maganap ang kasalukuyang PANDEMIC."
+
+>　――つまり、今回のパンデミックは、来たるべくして来た、と。
+
+Ibig sabihin, kinailangan daw dumating ang kasalukuyang PANDEMIC.
+
+>　「ひと言でいえば、我々は備…
+
+"Kung magsasalita ukol dito, ang ating pagkahanda..."
+
+> この記事は有料会員記事です。残り3110文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 3110 titik; Kapag naging kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1F; last accessed: 20220625
+
+
 ## [トヨタ系がまた標的か、サイバー被害相次ぐ　トヨタ紡織子会社など](https://www.asahi.com/articles/ASQ6S7KFRQ6SULFA00C.html?iref=comtop_7_04); last accessed: 20220625
 
 > トヨタ系がまた標的か、サイバー被害相次ぐ　トヨタ紡織子会社など
