@@ -52,7 +52,7 @@ Taong 1955 ipinanganak si Bill Gates sa SEATTLE ng AMERIKA. Taong 75 nang itinat
 
 "Sa sunod na 10 mga Taon, ang Nakahahawang Karamdamang Sakit, at hindi ang DIGMAAN, ang sakunang papatay sa higit sa 10Milyong tao"
 
-BAKIT nagawan niya itong may sukat na hinuha sa panahon ng Taong 2015?
+BAKIT niya nagawan itong may sukat na hinuha sa panahon ng Taong 2015?
 
 >　「僕たちの財団は貧しい国の感染症対策に力を入れていて、スペイン風邪から重症急性呼吸器症候群（SARS）まで、過去100年のあらゆるアウトブレーク（感染爆発）について研究している。その中で、人々が国境を越えて頻繁に移動するようになったことで、呼吸器系のウイルス感染症が瞬く間に広がることに気づいたんだ」
 
