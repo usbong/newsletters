@@ -10,7 +10,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220627; from 20220626
+  @date updated: 20220628; from 20220627
   @website address: http://www.usbong.ph
 
   Input:
@@ -85,6 +85,13 @@
 							*/
 							max-width: 100%;
 							position: relative;	
+							
+							/* //added by Mike, 20220628 
+							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
+							   //last accessed: 20220628
+							*/
+							text-align: justify;
+							text-justify: inter-word;							
                         }
 												
 						div.formTitle
