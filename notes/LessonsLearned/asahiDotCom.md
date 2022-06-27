@@ -30,7 +30,7 @@ Tagapakinig・HAMADA, YOUTAROU; 2022-06-27T09:00
 
 >　マイクロソフト創業者のビル・ゲイツ氏（66）がいま、一番力を入れているのが感染症対策だ。昨年離婚した元妻のメリンダさんと財団を立ち上げ、20年以上にわたり莫大（ばくだい）な私財を投資してきた。7年前にパンデミックの発生を「予言」していたゲイツ氏は、こう話す。
 
-Ang tagapagtatag ng MICROSOFT na si BILL GATES (66), ang kasalukuyang naglalaan ng pangunahing lakas sa PARAANG PANLABAN (POLISIYA) ng Kumakalat na Karamdamang Sakit. Nagtayo sila ng kanyang dating ASAWA na si Bb. MELINDA (hiniwalayan noong nakaraang taon) ng Pangkat ng KAYAMANAN; Sa pagdaan ng higit sa 20 taon, nakapaglaan sila rito ng DAMBUHALANG pansarili (pribadong) YAMAN. Ito ang "pinangunahang-salita" ni G. GATES ukol sa pagsibol ng PANDEMIC, 7 taon ang nakararaan.
+Ang tagapagtatag ng MICROSOFT na si BILL GATES (66), ang kasalukuyang naglalaan ng pangunahing lakas sa PARAANG PANLABAN (POLISIYA) ng Kumakalat na Karamdamang Sakit. Nagtayo sila ng kanyang dating ASAWA na si Bb. MELINDA (hiniwalayan noong nakaraang taon) ng Pangkat ng KAYAMANAN; Sa pagdaan ng higit sa 20 taon, nakapaglaan sila rito ng DAMBUHALANG pansariling (pribadong) YAMAN. Ito ang "pinangunahang-salita" ni G. GATES ukol sa pagsibol ng PANDEMIC, 7 taon ang nakararaan.
 
 >　「今後20年の間に、50%の確率で再びパンデミックが来るリスクがある」
 
@@ -65,11 +65,11 @@ Kapag ating tinanong ang tinipong mga Dalubhasa: "Mayroon bang kung anong bagay 
 
 >　――7年前といえば、ちょうど、エボラ出血熱がアウトブレークしたときです。
 
-Kapag binaggit ang nakaraang 7 Taon, sakto, panahon ito nang nagkaroon ng OUTBREAK ng EBOLA (init na lumalabas sa dugo).
+Kapag binaggit ang nakaraang 7 Taon, tamang-tama, panahon ito nang nagkaroon ng OUTBREAK ng EBOLA (init na lumalabas sa dugo).
 
 >　「『注目を集めるなら今だ』と思い、（米国の一流医学誌である）ニューイングランド・ジャーナル・オブ・メディシンに投稿したり（https://www.nejm.org/doi/full/10.1056/nejmp1502918別ウインドウで開きます）、TEDトークスの動画（https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=ja別ウインドウで開きます）に出演したりして、準備の必要性を訴えたんだ」
 
-"Naisip niya ang 'Kung may tututukan, NGAYON na iyon', nilathala sa NEW ENGLAND JOURNAL OF MEDICINE (Nangungunang Magazine ng Panggagamot sa AMERIKA) (Maaaring mabuksan sa ibang Dungawan (WINDOW), https://www.nejm.org/doi/full/10.1056/nejmp1502918), lumabas upang magtanghal sa gumagalaw na larawan (VIDEO) ng TED TALKS (Maaaring mabuksan sa ibang Dungawan (WINDOW),https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=ja), umapela sa pangangailangang maghanda"
+"Naisip ko ang 'Kung may tututukan, NGAYON na iyon', nilathala ito sa NEW ENGLAND JOURNAL OF MEDICINE (Nangungunang Magazine ng Panggagamot sa AMERIKA) (Maaaring mabuksan sa ibang Dungawan (WINDOW), https://www.nejm.org/doi/full/10.1056/nejmp1502918), lumabas upang magtanghal sa gumagalaw na larawan (VIDEO) ng TED TALKS (Maaaring mabuksan sa ibang Dungawan (WINDOW),https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=ja), atbp; umapela ako sa pangangailangang maghanda"
 
 >　――で、反応は？
 
@@ -85,7 +85,7 @@ Ibig sabihin, kinailangan daw dumating ang kasalukuyang PANDEMIC.
 
 >　「ひと言でいえば、我々は備…
 
-"Kung magsasalita ukol dito, ang ating pagkahanda..."
+"Kung magsasalita ako ukol dito, ang ating pagkahanda..."
 
 > この記事は有料会員記事です。残り3110文字有料会員になると続きをお読みいただけます。
 
