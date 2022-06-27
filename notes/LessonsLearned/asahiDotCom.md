@@ -56,8 +56,7 @@ BAKIT niya nagawan itong may sukat na hinuha sa panahon ng Taong 2015?
 
 >　「僕たちの財団は貧しい国の感染症対策に力を入れていて、スペイン風邪から重症急性呼吸器症候群（SARS）まで、過去100年のあらゆるアウトブレーク（感染爆発）について研究している。その中で、人々が国境を越えて頻繁に移動するようになったことで、呼吸器系のウイルス感染症が瞬く間に広がることに気づいたんだ」
 
-"Kami sa PANGKAT ng KAYAMANAN, nilaanan namin ng LAKAS ang PARAANG PANLABAN sa Nakahahawang Karamdamang Sakit ng Mahihirap na Kaharian, 
-at sinaliksik namin ang lahat ng OUTBREAK (Pagsabog ng Nakahahawang Karamdaman) ng nakaraang 100 Taon mula sa panlalamig sa Espanya, hanggang sa SARS (Samahan ng Mabigat na Sakit na may BILIS sa LALAGYANG Bahagi ng Paghinga). Sa loob nito, napansin namin ang iglap na pagkalat ng Nakahahawang Karamdamang Sakit na may ugnayan sa LALAGYANG Bahagi ng Paghinga, dulot ng pagdalas na paglipat ng mga Tao na nilampasan pa ang Harang sa Hangganan ng Kaharian."
+"Kami sa PANGKAT ng KAYAMANAN, nilalaanan namin ng LAKAS ang PARAANG PANLABAN sa Nakahahawang Karamdamang Sakit ng Mahihirap na Kaharian, at sinasaliksik namin ang lahat ng OUTBREAK (Pagsabog ng Nakahahawang Karamdaman) ng nakaraang 100 Taon mula sa panlalamig sa Espanya, hanggang sa SARS (Samahan ng Mabigat na Sakit na may BILIS sa LALAGYANG Bahagi ng Paghinga). Sa loob nito, napansin namin ang iglap na pagkalat ng Nakahahawang Karamdamang Sakit na may ugnayan sa LALAGYANG Bahagi ng Paghinga, dulot ng pagdalas na paglipat ng mga Tao na nilampasan pa ang Harang sa Hangganan ng Kaharian."
 
 >　「専門家を集めて『何か、パンデミックの到来を防いでいるものがあるんだろうか』って尋ねたら、『基本的には何もない』というのが答えだった。この100年の間、我々は単に運がよかっただけで、いずれ運は尽きる。だから、準備しないといけないんだ、と」
 
