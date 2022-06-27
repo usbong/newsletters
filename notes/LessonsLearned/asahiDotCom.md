@@ -40,7 +40,7 @@ Ang tagapagtatag ng MICROSOFT na si BILL GATES (66), ang kasalukuyang naglalaan 
 
 >　Bill　Gates　1955年、米シアトル生まれ。75年にマイクロソフトを創業。2008年に同社の経営から身を引き、資産500億ドルの財団運営に専念する。近著に「パンデミックなき未来へ　僕たちにできること」（早川書房）。
 
-Taong 1955 ipinanganak si Bill Gates sa SEATTLE ng AMERIKA. Taong 75 nang itinatag niya ang MICROSOFT. Taong 2008, inalis niya ang kanyang sarili mula sa pangangasiwa ng nabanggit na SAMAHAN, at dinalubhasa niya ang pagninilay sa gawain ng paglilipat ng 500Milyong USD sa Pangkat ng KAYAMANAN. Malapit sa kasalukuyan, inakda niya ito: "Ang ating magagawa upang WALANG PANDEMIC sa malapit na hinaharap" (Aklatan ng HAYAKAWA).
+Taong 1955 ipinanganak si Bill Gates sa SEATTLE ng AMERIKA. Taong 75 nang itinatag niya ang MICROSOFT. Taong 2008, inalis niya ang kanyang sarili mula sa pangangasiwa ng nabanggit na SAMAHAN, at dinalubhasa niya ang pagninilay sa gawain ng paglilipat ng 50Bilyong USD sa Pangkat ng KAYAMANAN. Malapit sa kasalukuyan, inakda niya ito: "Ang ating magagawa upang WALANG PANDEMIC sa malapit na hinaharap" (Aklatan ng HAYAKAWA).
 
 ### --
 
