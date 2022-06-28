@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220607; from 20220602
+  @date updated: 20220628; from 20220607
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -496,13 +496,45 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
 <h5>1.1.1) shared: with Public, <b>VALUE</b> of <b>QUICK START-UP</b>;<br/>
 --> where: <b>START-UP</b> : <b>VEHICLE ENGINE IGNITION</b><br/>
---> observed: during <b>EMERGENCY (ER)</b> situation, <b>START-UP ELAPSED TIME</b> noticeable <b>INCREASES</b><br/> 
+--> observed: during <b>EMERGENCY (ER)</b> situation, <b>START-UP ELAPSED TIME</b> noticeably <b>INCREASES</b><br/> 
 --> This is due to Unit member shall <b>START</b> via OPEN COMMAND <b>multiple applications together</b><br/>
 --> to attempt to decrease <b>WAITING TIME</b><br/>
 --> <b>Example:</b> <b>re-starting</b> COMPUTER MACHINES and <b>re-opening</b> applications, e.g. web browsers,<br/> 
---> after a <b>NO ELECTRICITY POWER incident</b><br/>
+--> after a <b>NO ELECTRICITY POWER incident, CONTINUOUS WAITING TIME for COMPUTATION TO FINISH</b><br/>
 --> <b>OUTPUT:</b> <b>WAITING TIME</b> becomes <b>OVER</b> one (1) minute<br/>
+
+<h5>1.1.2) shared: with Public, <b>technique</b> to <b>SPEED-UP</b> system;<br/>
+--> <b>Problem:</b> already noticeable <b>DELAY</b> finding <b>PATIENT HISTORY</b><br/> 
+--> with set <b>TOTAL PATIENT ID count</b> in <b>TRANSACTIONS LIST</b><br/> 
+--> where: <b>PATIENT ID</b> : <b>659</b> TOTAL COUNT<br/> 
+--> where: <b>TRANSACTIONS LIST</b> : <b>91,478</b> TOTAL COUNT<br/> 
 <br/>
+--> <b>Technique:</b> create a <b>NEW Identification Number</b> for the <b>SAME PATIENT</b><br/>
+--> <b>Example Name:</b><br/> 
+1) <b>0</b> : "BERGSTEIN, AKI"<br/>
+2) <b>3543</b> :  "BERGSTEIN, AKIv2"<br/>
+3) <b>11682</b> : "BERGSTEIN, AKIv3"<br/>
+...<br/>
+<br/>
+--> add: in <b>PATIENT's LIST</b>, <b>ALL</b> the <b>Identification Numbers</b> of the <b>SAME PATIENT</b> <br/>
+<br/> 
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			Previously, we eliminated excess <b>JOIN COMMANDS</b>;<br/> 
+			where: <b>JOIN COMMAND</b> : verify the <b>ROWS</b> and <b>COLUMNS</b> of <b>Multiple LISTS</b><br/>
+			<br/>
+			<b>Example:</b> Identify PATIENT's <b>PURCHASED HISTORY</b> using the following:<br/>
+			<b>PATIENT LIST</b>, <b>MEDICINE LIST</b>, and <b>TRANSACTIONS LIST</b><br/>
+			<br/>
+			adds: We can execute <b>SYSTEM SPEED-UP</b> by updating the <b>first PATIENT PAGE</b> viewed to <b>NOT</b> yet include the <b>PURCHASED HISTORY</b>
+		</td>
+	</tr>
+</table>
 <br/>
 <br/>
 TO-DO: -update: this<br/>
