@@ -81,19 +81,32 @@
 							  //reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/views/templates/style_v2.php;
 							  last accessed: 20220627
 							  
-							  //TO-DO: -reverify: this
-							*/
+
+							//removed by Mike, 20220628							
 							max-width: 100%;
 							position: relative;	
+*/
+							width: 670px;
 							
 							/* //added by Mike, 20220628 
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
 							   //last accessed: 20220628
 							*/
+							
 							text-align: justify;
 							text-justify: inter-word;							
                         }
-												
+									
+						/* TO-DO: -update: this to include body */
+						body.mobileBody {
+							/* added by Mike, 20220627 
+							  //reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/views/templates/style_v2.php;
+							  last accessed: 20220627							  
+							*/
+							max-width: 100%;
+							position: relative;	
+						}
+									
 						div.formTitle
 						{
 							text-align: right;
@@ -449,9 +462,29 @@ last accessed: 20220622
   </head>
 	  <script>
 	  </script>
+	  
+<!-- edited by Mike, 20220628	  
   <body>
-  
+-->
 <?php
+	//added by Mike, 20220628
+	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
+	//last accessed: 20220628
+	function isMobile() {
+		echo "Hello" . $_SERVER["HTTP_USER_AGENT"];
+		
+		return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+	}
+	
+
+	if (isMobile()) {		
+		echo "<body class='mobileBody'>";
+	}
+	else {
+		echo "<body>";
+	}
+	
+
 	date_default_timezone_set('Asia/Hong_Kong');
 	
 	//edited by Mike, 20200726
