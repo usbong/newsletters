@@ -12,6 +12,41 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [スウェーデンとフィンランド、NATO加盟の見通し　トルコが同意](https://www.asahi.com/articles/ASQ6Y1VHCQ6YUHBI003.html?iref=comtop_7_02); last accessed: 20220629
+
+> スウェーデンとフィンランド、NATO加盟の見通し　トルコが同意
+
+SWEDEN at FINLAND,<br/>
+Sa MAPARAANG PAGTINGIN ng NATO (DAGDAG na SAMAHAN)<br/>
+SUMANG-AYON ang TURKO
+
+> マドリード=疋田多揚、ミュンヘン=高野遼2022年6月29日 8時57分
+
+@MADRID, HIKATA, TAYO; @MYUNHEN, TAKANO, RYOU;<br/>
+2022-06-29T08:57
+
+> 北大西洋条約機構（NATO）のストルテンベルグ事務総長は28日、スウェーデンとフィンランドのNATOへの加盟が認められる見通しとなったと発表した。
+
+Ipinahayag ni STOLTENBERG, ang may Pinunong Tungkulin sa NATO (Binuong Mekanismo ng mga Tuntunin sa Hilaga't Malaking Kanlurang Dagat), ng ika-28, na nagkaroon na ng matatanggap na MAPARAANG PAGTINGIN ang NATO tungo sa pagsanib ng SWEDEN at FINLAND sa DAGDAG na SAMAHAN.
+
+> 会談に同席したストルテンベルグ氏は記者会見で、両国がトルコに科していた武器の輸出制限を解除することで合意したと説明。加えて、トルコが「テロ組織」とみなす「クルディスタン労働者党」（PKK）などについて、両国が支援をやめることなども約束したという。AFP通信によると、トルコ大統領府は覚書について「トルコは望んでいたものを手に入れた」と評価する声明を出した。
+
+Dumalo si G. STOLTENBERG sa pagkikita ng mga Manunulat, kung saan ipinaliwanag niya ang pagsang-ayon ng Dalawang Kaharian sa usapin ng PAGTATANGGAL ng MAHIGPIT na hangganan ng paglalabas ng mga SANDATA sa TURKO. Dagdag pa rito, ukol sa nakikitang "TERRORIST GROUP" ng TURKO na "Samahan ng mga Manggagawa ng KURDISTAN (PKK)", sinasabing nangako ang Dalawang Kaharian sa pag-alis ng kanilang tulong dito, atbp. Ayon sa mapagkatitiwalaang daloy ng BALITA ng AFP, ukol sa maaalalang sulat na ito, naglabas ng malinaw na tinig ang Pangulo ng TURKO sa kanilang pagkaunawa: "Nakamit ng TURKO ang aming ninanais na bagay".
+
+> 軍事的中立を保ってきた両国は、ロシアによるウクライナ侵攻で国民の懸念が高まり、5月にNATOへの加盟を申請した。加盟には、全30加盟国の同意が必要で、トルコだけが難色を示していた。
+
+Bagama't ipinagtatanggol nitong Dalawang Kaharian ang pagtayo sa gitna (NEUTRAL) ng kanilang mga MILITAR, nagpasa na sila ng kanilang pagsanib sa DAGDAG na SAMAHAN ng NATO nitong Mayo, dulot ng pagtaas ng pagninilay ng kanilang mamamayan sa pagsalakay sa UKRAINE ng RUSSIA. Sa DAGDAG na SAMAHAN, kailangan ang pagsang-ayon ng LAHAT ng 30 Kaharian sa DAGDAG na SAMAHAN; Ipinakita na ang TURKO lamang ang hirap sa pagsang-ayon.
+
+> その後、政治体制や軍事技術などがNATOの求める水準に達しているかなどを詰め、加盟各国による国内手続きを経て正式加盟にいたる。
+
+Pagkatapos niyon, inipon ang mga nakamit ayon sa hinahangad na BATAYAN ng NATO, atbp, tulad ng HIGPIT ng PAMAHALAAN (ADMIN), at ng TEKNOLOHIYA MILITAR; Dumaan sa paraan sa loob na Kaharian na inayon sa LAHAT ng mga Kaharian sa DAGDAG na SAMAHAN, tungo sa MATUWID na ayos nito.
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1E; last accessed: 20220629
+
+
 ## [ビル・ゲイツが予言していたパンデミック　「再び来る」への戦略は](https://www.asahi.com/articles/ASQ6R3HFRQ6QUTFL00J.html?iref=comtop_7_01); last accessed: 20220627
 
 > ビル・ゲイツが予言していたパンデミック　「再び来る」への戦略は
