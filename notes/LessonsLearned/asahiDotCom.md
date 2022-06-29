@@ -31,11 +31,11 @@ Ipinahayag ni STOLTENBERG, ang may Pinunong Tungkulin sa NATO (Binuong Mekanismo
 
 > 会談に同席したストルテンベルグ氏は記者会見で、両国がトルコに科していた武器の輸出制限を解除することで合意したと説明。加えて、トルコが「テロ組織」とみなす「クルディスタン労働者党」（PKK）などについて、両国が支援をやめることなども約束したという。AFP通信によると、トルコ大統領府は覚書について「トルコは望んでいたものを手に入れた」と評価する声明を出した。
 
-Dumalo si G. STOLTENBERG sa pagkikita ng mga Manunulat, kung saan ipinaliwanag niya ang pagsang-ayon ng Dalawang Kaharian sa usapin ng PAGTATANGGAL ng MAHIGPIT na hangganan ng paglalabas ng mga SANDATA sa TURKO. Dagdag pa rito, ukol sa nakikitang "TERRORIST GROUP" ng TURKO na "Samahan ng mga Manggagawa ng KURDISTAN (PKK)", sinasabing nangako ang Dalawang Kaharian sa pag-alis ng kanilang tulong dito, atbp. Ayon sa mapagkatitiwalaang daloy ng BALITA ng AFP, ukol sa maaalalang sulat na ito, naglabas ng malinaw na tinig ang Pangulo ng TURKO sa kanilang pagkaunawa: "Nakamit ng TURKO ang aming ninanais na bagay".
+Dumalo si G. STOLTENBERG sa pagkikita ng mga Manunulat (Tagapahayag), kung saan ipinaliwanag niya ang pagsang-ayon ng Dalawang Kaharian sa usapin ng PAGTATANGGAL ng MAHIGPIT na hangganan ng paglalabas ng mga SANDATA sa TURKO. Dagdag pa rito, ukol sa nakikitang "TERRORIST GROUP" ng TURKO na "Samahan ng mga Manggagawa ng KURDISTAN (PKK)", sinasabing nangako ang Dalawang Kaharian sa pag-alis ng kanilang tulong dito, atbp. Ayon sa mapagkatitiwalaang daloy ng BALITA ng AFP, ukol sa maaalalang sulat na ito, naglabas ng malinaw na tinig ang Pangulo ng TURKO sa kanilang pagkaunawa: "Nakamit ng TURKO ang aming ninanais na bagay".
 
 > 軍事的中立を保ってきた両国は、ロシアによるウクライナ侵攻で国民の懸念が高まり、5月にNATOへの加盟を申請した。加盟には、全30加盟国の同意が必要で、トルコだけが難色を示していた。
 
-Bagama't ipinagtatanggol nitong Dalawang Kaharian ang pagtayo sa gitna (NEUTRAL) ng kanilang mga MILITAR, nagpasa na sila ng kanilang pagsanib sa DAGDAG na SAMAHAN ng NATO nitong Mayo, dulot ng pagtaas ng pagninilay ng kanilang mamamayan sa pagsalakay sa UKRAINE ng RUSSIA. Sa DAGDAG na SAMAHAN, kailangan ang pagsang-ayon ng LAHAT ng 30 Kaharian sa DAGDAG na SAMAHAN; Ipinakita na ang TURKO lamang ang hirap sa pagsang-ayon.
+Bagama't ipinagtatanggol nitong Dalawang Kaharian ang pagtayo sa gitna (NEUTRAL) ng kanilang mga MILITAR, ipinaalam na nila ang kanilang nais na pagsanib sa DAGDAG na SAMAHAN ng NATO nitong Mayo, dulot ng pagtaas ng pagninilay ng kanilang mamamayan sa pagsalakay sa UKRAINE ng RUSSIA. Sa DAGDAG na SAMAHAN, kailangan ang pagsang-ayon ng LAHAT ng 30 Kaharian sa DAGDAG na SAMAHAN; Ipinakita na ang TURKO lamang ang hirap sa pagsang-ayon.
 
 > その後、政治体制や軍事技術などがNATOの求める水準に達しているかなどを詰め、加盟各国による国内手続きを経て正式加盟にいたる。
 
