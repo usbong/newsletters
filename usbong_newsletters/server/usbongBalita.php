@@ -10,7 +10,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220628; from 20220627
+  @date updated: 20220630; from 20220628
   @website address: http://www.usbong.ph
 
   Input:
@@ -86,7 +86,11 @@
 							max-width: 100%;
 							position: relative;	
 */
-							width: 670px;
+
+							/* //edited by Mike, 20220630
+							   //note: faster to read, without NEED to move head from left to right; */
+							width: 520px;
+							padding-left: 5%;
 							
 							/* //added by Mike, 20220628 
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
@@ -166,7 +170,10 @@
 						}
 
 						img.Image-companyLogo {
-							max-width: 60%;
+							/*  //edited by Mike, 20220630
+								//TO-DO: -reverify: this
+							*/
+							max-width: 80%; /*60%;*/
 							height: auto;
 							float: left;
 							text-align: center;
@@ -302,7 +309,7 @@ last accessed: 20220622
 
 						table.menuTable
 						{
-							width: 80%;
+							width: 50%;
 							border: 1px solid rgb(146,208,80);
 							border-collapse: collapse;							 
 							font-size: 10pt;
@@ -471,7 +478,7 @@ last accessed: 20220622
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
 	//last accessed: 20220628
 	function isMobile() {
-		echo "Hello" . $_SERVER["HTTP_USER_AGENT"];
+		echo "CLIENT USER DETAILS: " . $_SERVER["HTTP_USER_AGENT"];
 		
 		return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 	}
@@ -570,8 +577,10 @@ last accessed: 20220622
 
 	<table class="imageTable">
 	  <tr>
-		<td class="imageColumn">				
+		<td class="imageColumn">			
+		<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 			<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
+		</a>	
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
@@ -583,14 +592,15 @@ last accessed: 20220622
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
 -->
 	
+<!-- //edited by Mike, 20220630 
+	 //TO-DO: -reverify: this 
+-->	
+	
 	<!-- menu bar -->
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
-<!--
-			<a class="menuLink" href="https://creativecommons.org/licenses/by/4.0/">		
--->
-			<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
 				Computer
 			</a>
 		</td>	
@@ -600,36 +610,22 @@ last accessed: 20220622
 			</a>
 		</td>	
 		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
-				Team
-			</a>
-		</td>	
-		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
-				Partners
-			</a>
-		</td>	
-		<td class="menuColumn">		
-			<a class="menuLink" target="_blank" href="https://github.com/usbong">		
-				Open Source
-			</a>
-		</td>	
-		<td class="menuColumn">				
-			<a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">		
-				EXCEL
-			</a>
-		</td>	
-		<td class="menuColumn">				
 			<a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">		
 				Contact
 			</a>
 		</td>
+		<td class="menuColumn">				
+			<a class="menuLink" target="_blank" href="https://www.usbong.ph/team">		
+				Team
+			</a>
+		</td>			
 	</table>
 	<div class="textDoubleSpacedDiv">
 	<h3>
 	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
-		（天声人語）書店消失</a>; last accessed: 20220622
+		「（天声人語）書店消失」</a> 
 	</h3>				
+last accessed: 20220622<br/>	
 07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
 <br/>
 <blockquote class="usbongBlockquote">
