@@ -12,6 +12,118 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [第20回高校生福祉文化賞エッセイコンテスト「書く力UP講座」出張授業](https://www.asahi.com/edua/article/14617646?cid=all_topics); last accessed: 20220629
+
+> 第20回高校生福祉文化賞エッセイコンテスト「書く力UP講座」出張授業
+
+Ika-20 ESSAY CONTEST;<br/>
+Gantipala sa Kalagayan ng Kultura ng Mag-aaral sa Mataas na Paaralan<br/>
+"Pangaral upang TUMAAS ang LAKAS (GUMALING) sa Pagsusulat"
+
+> 2022.05.27
+
+2022-05-27
+
+> 授業は2時限にわたって実施されました。＜1時限目＞では書くことの大切さを伝えた後、正しく伝わる文章の書き方をクイズ形式などで解説。＜2時限目＞はエッセイの書き方のアドバイス後、生徒が実際にエッセイを執筆。代表2人の発表と講評を実施しました。
+
+Isinagawa sa 2 Yugto ng Panahon ang pag-aaral;<br/> 
+Sa Unang Yugto ng Panahon, pagkatapos ibahagi ang HALAGA ng pagsusulat, isinalaysay ang paglutas ng QUIZ, atbp ukol sa WASTONG pagbabahagi ng PARAAN ng PAGSUSULAT ng Mahabang Sulatin;
+
+> 高1、3年生、計28名が参加
+
+Ika-una at ikatlong Taong Mag-aaral Sa Mataas na Paaralan;<br/>
+Kabuuan: 28 tao ang Dumalo
+
+> 講師プロフィール
+
+PROFILE ng Mangangaral (GURO)
+
+> 岡田 力
+
+OKADA, CHIKARA
+
+> 朝日新聞社 教育総合本部 教育企画部 教育コーディネーター
+
+SAMAHAN ng ASAHI SHIMBUN; <br/>
+Pagtuturo't Pagpapalaki: Pinagsamang Bahagi sa Pinagmula;<br/>
+Pagtuturo't Pagpapalaki: Bahagi sa Pagtatayo;<br/>
+Pagtuturo't Pagpapalaki: COORDINATOR
+
+> おかだ・ちから／社会部の記者として、事件、事故、災害、オリンピック、サッカー・ワールドカップなどの取材に携わった後、雑誌の編集長などを経て、現職。朝日新聞が各大学と連携する講座の講師、また、記者による授業のコーディネートなどを担当。早稲田大学などでライティングの授業も行っている。子ども新聞「天声こども語」の筆者の一人。
+
+OKADA, CHIKARA: Bilang Manunulat (Tagapahayag) ng Bahagi sa Lipunan,<br/>
+pagkatapos mahawakan ang nakuhang gamit ng pangyayari, naganap na bagay (AKSIDENTE),<br/>
+sakuna, OLYMPICS, SOCCER WORLD CUP, atbp,<br/>
+dumaan sa pagiging Pinuno sa pagsasama ng Magasin (kasalukuyang tungkulin);<br/>
+Mangangaral ng Pangaral sa Lahat ng Malalaking Paaralan<br/>
+na may ugnayan sa ASAHI SHIMBUN;<br/>
+At, may TUNGKULIN bilang COORDINATOR ng Pag-aaral bilang Manunulat(Tagapahayag);<br/>
+Nagsasagawa rin ng Pag-aaral sa WRITING sa Malaking Paaralan ng WASEDA, atbp;<br/>
+Isa sa mga Manunulat ng "Tinig ng Langit; Salaysay Bata" ng Pambatang Pahayagan;
+
+
+> 書く力は成長段階
+
+Hagdan sa pagpapalaki ng LAKAS Pagsusulat;
+
+> 1) 自身の体験や想像を「物語る」文章を書く力。
+
+LAKAS Pagsusulat ng "Pagsasalaysay ng mga Bagay" ukol sa sariling karanasan, naisip (kathang-isip), atbp
+
+> 2) 読み手が知らないことを伝える「説明する」文章を書く力。
+
+LAKAS Pagsusulat ng "Pagpapaliwanag" ng ibabahaging bagay na hindi alam ng Mambabasa
+
+> 3) ビジネスでも必要となる「説得する」文章を書く力です。
+
+LAKAS Pagsusulat ng "Pagsasalita upang Makatamo", na kailangan din sa BUSINESS (Pangangalakal).
+
+> 書く力は総合力だとも言います。まさしくその通りで、文章を書くには、調査力、思考力、表現力、伝達力、構成力などの総合力を要します。
+
+Sinasabi rin na Pinagsasamang LAKAS ang LAKAS Pagsusulat.<br/>
+Tamang-tama nga sa ganoong daan,<br/>
+Sa pagsusulat ng Mahabang Sulatin, kailangan ang Pinagsasamang LAKAS ng:<br/>
+LAKAS Pagsisiyasat;<br/>
+LAKAS Pag-iisip;<br/>
+LAKAS Pagpapahiwatig;<br/>
+LAKAS Pagpaparating ng Ibinabahagi;<br/>
+LAKAS ng Pagbuo't pagtayo<br/>
+
+> エッセイを書くコツ―わかりやすく、伝わる文章の書き方
+
+TEKNIK sa pagsusulat ng ESSAY <br/>
+Paraan ng Pagsusulat ng madaling maibahaging Mahabang Sulatin;
+
+>「書く力UP講座」
+
+"Pangaral upang TUMAAS ang LAKAS Pagsusulat"
+
+>「書く力UP講座」に先立ち、同校の卒業生でもある日本福祉大学の松岡英貴氏から次のメッセージが贈られました。 「書く力は色々なところで役立ちます。私が高校生だった頃、毎週の宿題だった朝日新聞『天声人語』の書き写しと感想文の提出が好きではありませんでした。しかし、数年経ってから振り返ればとても身になるもので、日々の仕事や、就職試験の小論文対策等にもつながっています。この講座の内容もこれからの人生にきっと役立つはず。しっかり自分のものにしてください」
+
+Sa simulang pagtayo sa "Pangaral upang TUMAAS ang LAKAS Pagsusulat", binigyan nitong kasunod na MENSAHE mula sa nagtapos sa katulad na paaralan, na si G. MATSUOKA, HIDEKI ng Malaking Paaralan ng Kalayagayan Bansang Hapon;<br/>
+
+<br/>
+TO-DO: -update: this<br/>
+
+### --
+
+Mga Halimbawa upang Madaling Maunawaan sa Wikang Hapon
+
+### --
+
+
+> 書き終わったら必ず読み返し、誤字脱字はないか、てにをは、つまり助詞の使い方はおかしくないかを確認してください。そこが間違っていると、せっかく面白い文章も残念なものになってしまいます。
+
+> 「エピソード」の大切さについてもお話ししましたが、高校生だとまだ自身の経験談はそれほどないかもしれません。そこでお勧めなのは、色々な人の体験や意見が載っている新聞の投稿欄に目を通すことです。また、文章はリズムが良いと読みやすくなります。リズミカルに書かれている朝日新聞「天声人語」などを参考にしてみてください。声に出して読み、聞くとリズムなどが感覚的にわかるので、音読も文章力をつけるひとつの方法です。
+
+### Sanggunian:
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1F; last accessed: 20220629
+
+
+
 ## [スウェーデンとフィンランド、NATO加盟の見通し　トルコが同意](https://www.asahi.com/articles/ASQ6Y1VHCQ6YUHBI003.html?iref=comtop_7_02); last accessed: 20220629
 
 > スウェーデンとフィンランド、NATO加盟の見通し　トルコが同意
