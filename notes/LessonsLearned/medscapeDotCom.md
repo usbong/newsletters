@@ -1,8 +1,8 @@
 # Lessons-learned: medscape.com　
 
 ### Paalala
-1) Isalin ang mga pangalan na may kinalaman sa Panggagamot,
---> mula Wikang Ingles tungo sa Wikang Hapon,
+1) Isalin ang mga pangalan na may kinalaman sa Panggagamot,<br/>
+--> mula Wikang Ingles tungo sa Wikang Hapon,<br/>
 --> at mula Wikang Hapon tungo sa Wikang Filipino
 
 ## [It's Official. Vitamins Don't Do Much for Health](https://www.medscape.com/viewarticle/975852?src=mkm_ret_220629_mscpmrk_icymi-ous_int&uac=169845BZ&impID=4375646&faf=1); last accessed: 20226030
