@@ -9,7 +9,7 @@ last accessed: 20220630
 
 > ・24年以上も、毎日書いているのがこの「今日のダーリン」。
 
-Higit 24 Taon na rin akong nagsusulat nang araw-araw nitong "Ngayong araw sa DARLING (Iniirog)"
+Higit 24 Taon na rin akong nagsusulat nang araw-araw nitong "Ngayong araw sa DARLING (Iniirog)".
 
 >　じぶんなりにも、そうとう大変なこと始めちゃったなと、<br/>
 >　ずっと思ってはきたのですが、実際に<br/>
