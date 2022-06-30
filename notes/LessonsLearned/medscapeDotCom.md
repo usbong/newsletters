@@ -25,7 +25,7 @@ Mga pag-amin
 
 > Vitamins. If you are like the majority of American adults, you took a vitamin or supplement recently. Over-the-counter sales of these products in this country amount to over $30 billion a year. That's more than the market for statins — and vitamins aren't covered by insurance.
 
-Bitamina; Kung katulad ka ng karamihan ng mga matatandang (adult) Amerikano, kumuha ka ng bitamina o supliment kamakailan. Sa isang taon, higit sa 30USD Bilyon ang benta (SALE) ng mga ito sa over-the-counter (nabibili sa tindahan kahit walang reseta). Higit pa iyan sa Mamimili (market) ng statin (gamot upang magpababa ng TABA, kabilang ang triglyceride at cholesterol) sa dugo; at hindi saklaw ng insurance (tagapagtanggol sa sakuna) ang bitamina.
+Bitamina; Kung katulad ka ng karamihan ng mga matatandang (adult) Amerikano, kumuha ka ng bitamina o supliment kamakailan. Sa isang taon, higit sa 30USD Bilyon ang benta (SALE) ng mga ito sa over-the-counter (nabibili sa tindahan kahit walang reseta). Higit pa iyan sa Mamimili (market) ng statin (gamot upang magpababa ng TABA, kabilang ang triglyceride (Sa gitna ng TABA) at cholesterol) sa dugo; at hindi saklaw ng insurance (tagapagtanggol sa sakuna) ang bitamina.
 
 > For there to be a $30 billion market, there must be some pretty convincing evidence that vitamin supplements work to improve health, right?
 
