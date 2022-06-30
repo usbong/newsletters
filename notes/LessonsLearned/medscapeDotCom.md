@@ -62,4 +62,4 @@ Propesor (Mangangaral) ng Gamot at Direktor (Pinuno) ng Pabilisin ang Panggagamo
 
 ### Dagdag
 
-LIFESTYLE CHANGE = (Pagbabago ng Pamumuhay)
+LIFESTYLE CHANGE = Pagbabago ng Pamumuhay
