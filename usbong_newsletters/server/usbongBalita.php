@@ -58,7 +58,11 @@
 	                    body
                         {
 							font-family: Arial;
-							font-size: 14pt;
+							
+							/*	//removed by Mike, 20220701
+							  font-size: 16pt;
+							*/
+
 							color: rgb(30,30,30); /*rgb(120,63,4);*/
 							font-weight: bold;
 
@@ -76,16 +80,6 @@
 							transform: scale(0.67);
 							transform-origin: 0 0;	
 */							
-
-							/* added by Mike, 20220627 
-							  //reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/views/templates/style_v2.php;
-							  last accessed: 20220627
-							  
-
-							//removed by Mike, 20220628							
-							max-width: 100%;
-							position: relative;	
-*/
 
 							/* //edited by Mike, 20220630
 							   //note: faster to read, without NEED to move head from left to right; */
@@ -219,23 +213,13 @@
 
 						}
 
-
-/*		//reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote;
-last accessed: 20220622		
-						blockquote p::before {
-							content: '\201C';
-						}
-
-						blockquote p::after {
-							content: '\201D';
-						}
-*/
 /*
 						Reference: https://www.w3schools.com/css/css_text_spacing.asp;
 						last accessed: 20220626
 */
 						div.textDoubleSpacedDiv {
 							line-height: 2;
+							font-size: 14pt;							
 						}
 						
 
@@ -429,13 +413,13 @@ last accessed: 20220622
 						
 						td.imageColumn
 						{
-							width: 40%;
+							width: 50%;
 							display: inline-block;
 						}						
 
 						td.pageNameColumn
 						{
-							width: 50%;
+							width: 40%;
 							display: inline-block;
 							text-align: right;
 						}				
@@ -457,6 +441,24 @@ last accessed: 20220622
 							padding-left: 60px;
 							color: rgb(252,60,3);
 						}
+
+						/* //added by Mike, 20220701 
+						   //reference: https://www.w3schools.com/howto/howto_css_menu_icon.asp;
+						   //last accessed: 20220701
+						*/
+						div.menuIconDiv {
+						  display: inline-block;
+						  cursor: pointer;
+						}
+
+						.bar1, .bar2, .bar3 {
+						  width: 35px;
+						  height: 5px;
+						  background-color: #333;
+						  margin: 6px 0;
+						  transition: 0.4s;
+						}
+
     /**/
     </style>
     <title>
@@ -600,6 +602,13 @@ last accessed: 20220622
 				<b>USBONG BALITA</b>
 			</div>		
 		</td>
+		<td>
+			 <div class="menuIconDiv" onclick="myFunction(this)">
+			  <div class="bar1"></div>
+			  <div class="bar2"></div>
+			  <div class="bar3"></div>
+			</div> 		
+		</td>
 	</table>
 	<br/>
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
@@ -639,8 +648,11 @@ last accessed: 20220622
 
 <!-- Category Header -->
 <!-- TO-DO: -reverify: this -->
+<!--
 <nav class="navbar-static-top categories-navbar">
     <div class="container-fluid Header-container">
+-->	
+<div class="row Image-offers">	
         <ul class="nav navbar-nav container-navbar">
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">COMPUTER</a></li>
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">SERVICES</a></li>
@@ -648,8 +660,9 @@ last accessed: 20220622
 			<li><a class="menuLink" target="_blank" href="https://www.usbong.ph/team">TEAM</a></li>			
         </ul>
     </div>
+<!--	
 </nav>
-
+-->
 
 	
 	
