@@ -109,6 +109,8 @@
 							*/
 							max-width: 100%;
 							position: relative;	
+							
+							padding-left: 0%;
 						}
 									
 						div.formTitle
@@ -278,15 +280,15 @@ last accessed: 20220622
 						table.tablePart2
 						{
 							width: 100%;
-<!--							border: 1px solid #ab9c7d;		
--->
+/*							border: 1px solid #ab9c7d;		
+*/
 						}						
 
 						table.tablePart3
 						{
 							width: 100%;
-<!--							border: 1px solid #ab9c7d;		
--->
+/*							border: 1px solid #ab9c7d;		
+*/
 						}	
 
 						a.webServiceLink
@@ -297,6 +299,7 @@ last accessed: 20220622
 						
 						a.menuLink
 						{
+							background-color: rgb(146,208,80);
 							color: rgb(64,64,64);
 							text-decoration: none;
 						}
@@ -313,6 +316,7 @@ last accessed: 20220622
 							border: 1px solid rgb(146,208,80);
 							border-collapse: collapse;							 
 							font-size: 10pt;
+							
 							/* Commands to Center-Align Table */
 							margin-left: auto;
 							margin-right: auto;
@@ -466,6 +470,15 @@ last accessed: 20220622
 -->
 	<base href="http://store.usbong.ph/" target="_blank">
 
+	<!-- added by Mike, 20220630 -->
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="fIE_s1RlOUpi0n7Yi2lEawdU_P6W003_QNSF1hKGu1A" />
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
   </head>
 	  <script>
 	  </script>
@@ -478,7 +491,7 @@ last accessed: 20220622
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
 	//last accessed: 20220628
 	function isMobile() {
-		echo "CLIENT USER DETAILS: " . $_SERVER["HTTP_USER_AGENT"];
+//		echo "CLIENT USER DETAILS: " . $_SERVER["HTTP_USER_AGENT"];
 		
 		return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 	}
@@ -597,6 +610,7 @@ last accessed: 20220622
 -->	
 	
 	<!-- menu bar -->
+<!-- edited by Mike, 20220630	
 	<table class="menuTable">
 	  <tr class="menuRow">
 		<td class="menuColumn">				
@@ -620,6 +634,25 @@ last accessed: 20220622
 			</a>
 		</td>			
 	</table>
+-->
+
+
+<!-- Category Header -->
+<!-- TO-DO: -reverify: this -->
+<nav class="navbar-static-top categories-navbar">
+    <div class="container-fluid Header-container">
+        <ul class="nav navbar-nav container-navbar">
+            <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">COMPUTER</a></li>
+            <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">SERVICES</a></li>
+            <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/contact">CONTACT</a></li>            
+			<li><a class="menuLink" target="_blank" href="https://www.usbong.ph/team">TEAM</a></li>			
+        </ul>
+    </div>
+</nav>
+
+
+	
+	
 	<div class="textDoubleSpacedDiv">
 	<h3>
 	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
