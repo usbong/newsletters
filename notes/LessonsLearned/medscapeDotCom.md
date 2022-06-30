@@ -59,3 +59,7 @@ Propesor (Mangangaral) ng Gamot at Direktor (Pinuno) ng Pabilisin ang Panggagamo
 1) GOOGLE SEARCH ENGINE; TRANSLATE
 
 2) https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1F; last accessed: 20220630
+
+### Dagdag
+
+LIFESTYLE CHANGE = (Pagbabago ng Pamumuhay)
