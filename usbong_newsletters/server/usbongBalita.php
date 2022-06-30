@@ -104,7 +104,7 @@
 							max-width: 100%;
 							position: relative;	
 							
-							padding-left: 0%;
+							padding: 2%;
 						}
 									
 						div.formTitle
@@ -169,7 +169,7 @@
 							/*  //edited by Mike, 20220630
 								//TO-DO: -reverify: this
 							*/
-							max-width: 80%; /*60%;*/
+							max-width: 100%; /*60%;*/
 							height: auto;
 							float: left;
 							text-align: center;
@@ -413,7 +413,7 @@
 						
 						td.imageColumn
 						{
-							width: 50%;
+							width: 45%;
 							display: inline-block;
 						}						
 
@@ -423,6 +423,12 @@
 							display: inline-block;
 							text-align: right;
 						}				
+						
+						td.menuColumn
+						{
+							width: 10%;
+							background-color: #fff;							
+						}
 
 					
 						input.search-input
@@ -599,10 +605,10 @@
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
-				<b>USBONG BALITA</b>
+				<b>BALITA</b>
 			</div>		
 		</td>
-		<td>
+		<td class="menuColumn">
 			 <div class="menuIconDiv" onclick="myFunction(this)">
 			  <div class="bar1"></div>
 			  <div class="bar2"></div>
@@ -649,10 +655,11 @@
 <!-- Category Header -->
 <!-- TO-DO: -reverify: this -->
 <!--
+<div class="row Image-offers">	
+-->	
 <nav class="navbar-static-top categories-navbar">
     <div class="container-fluid Header-container">
--->	
-<div class="row Image-offers">	
+
         <ul class="nav navbar-nav container-navbar">
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">COMPUTER</a></li>
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">SERVICES</a></li>
