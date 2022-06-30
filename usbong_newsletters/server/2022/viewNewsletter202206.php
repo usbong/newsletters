@@ -537,6 +537,67 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 <br/>
 <br/>
+1.1.2) shared: with Public, technique to auto-generate <b>REPORTS</b>;<br/>
+--> <b>Example:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/SLHCC/blob/master/generateMonthlySummaryReport/add-on%20software/software/generateMonthlySummaryReportForEachMedicalDoctorOfAllInputFiles.java">Monthly Summary Report for each Medical Doctor</a>;<br/>
+--> opted: to use <a class="webServiceLink" target="_blank" href="https://www.java.com/en/">JAVA COMPUTER LANGUAGE</a><br/>
+--> due to using Multiple Computers with variation in <b>Operating System (OS)</b> and <b>Spreadhsheet Tool</b>;<br/>
+--> where: <b>OS</b> : <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/windows">Microsoft Windows</a>, <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu (LUBUNTU)</a><br/>
+--> where: <b>Spreadhsheet Tool</b> : <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/excel">Microsoft Office</a>, <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a>
+<br/> 
+<br/> 
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			We now have more Machines using the following:<br/>
+			<a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu (LUBUNTU)</a> than <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/windows">Microsoft Windows</a>.<br/> 
+			<br/>
+			observed: select Machines from a previous <b>SUPPLIER</b> were using <b>NON-ACTIVATED</b> <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/windows">Microsoft WINDOWS</a> and <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/excel">OFFICE</a><br/>
+			<br/>
+			<b>OUTPUT#1:</b> Auto-software update from <b>Windows 7</b> to <b>Windows 10</b> caused noticeable <b>DELAY</b> in <b>SYSTEM EXECUTION</b>;<br/>
+			<br/>
+			<b>OUTPUT#2:</b> <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/excel">Microsoft Office</a> continuously requested to be <b>ACTIVATED</b><br/>
+			--> observed: this appeared to have <b>NOT</b> caused <b>DELAY</b><br/> 
+			--> <b>RESPONSE</b> by UNIT: simply <b>IGNORE</b> notification<br/>
+			<br/>
+			<b>EXECUTED ACTION#1:</b> replaced Installed Software with <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu (LUBUNTU)</a> and <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a><br/>
+			<br/>
+			<b>EXECUTED ACTION#2:</b> wrote Computer Instructions using among others:<br/>
+			<b>OS#1:</b> <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu (LUBUNTU)</a>:<br/> 
+			BASIC Computer Language, Bash Shell COMMAND<br/>
+			<br/>
+			<b>OS#2:</b> <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/windows">Microsoft WINDOWS</a>:<br/>
+			Visual BASIC for Applications Computer Language, COMMAND Prompt<br/>			
+			<br/>
+			observed: <b>minimal TRAINING</b> during execution to shift from <b>OS#2</b> to <b>OS#1</b><br/> 
+			<br/>
+			observed: noticeable <b>SPEED-UP</b> in <b>development</b> for execution<br/> 
+			--> via using <b>only ONE (1) Computer Language</b><br/> 
+			--> that executes using a <b>VIRTUAL MACHINE</b><br/>
+			--> where: <b>VIRTUAL MACHINE</b> executes regardless of <b>OS</b>;<br/>
+			<br/>
+			--> where: <b>ACTION</b> to auto-execute by computer uses as <b>INPUT text files</b><br/>
+			--> where: <b>INPUT text files</b> come from <b>Spreadsheet's Workbooks</b><br/>
+			--> where: <b>OUTPUT : </b> <b>Web Browser-viewable</b>, <b>Screenshot Photographs</b>,<br/> 
+			--> <b>Spreadsheet-readable</b>, et cetera<br/>
+			<br/>
+			observed: noticeable <b>SPEED-UP</b> in <b>execution</b> in this <b>context</b><br/> 
+			--> This is instead of using a <b>Web Server</b><br/> 
+			--> where: <b>files</b> can be accessed by <b>multiple computers</b> via <b>Web Browser</b><br/>
+			<br/>
+			--> where: <b>context</b> : does <b>NOT QUICKLY NEED</b> to <b>VIEW</b> and <b>UPDATE</b> files<br/>
+			--> using <b>multiple computers</b> such as with <b>ITEM INVENTORY</b>;<br/>
+		</td>
+	</tr>
+</table>
+
+
+<br/>
+<br/>
+<br/>
 TO-DO: -update: this<br/>
 <br/>
 <br/>
