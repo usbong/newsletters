@@ -5,6 +5,177 @@ https://www.1101.com/home.html<br/>
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
 ## https://www.1101.com/home.html;
+last accessed: 20220630
+
+> ・24年以上も、毎日書いているのがこの「今日のダーリン」。
+
+Higit 24 Taon na rin akong nagsusulat nang araw-araw nitong "Ngayong araw sa DARLING (Iniirog)"
+
+>　じぶんなりにも、そうとう大変なこと始めちゃったなと、<br/>
+>　ずっと思ってはきたのですが、実際に<br/>
+>　なんとか続いているのだからしょうがない。
+
+Kahit ayon rin sa aking sarili, <br/>
+tuluy-tuloy kong naisip na talaga namang<br/>
+Malaking Pagbabago (istres)<br/>
+itong sinimulan ko.
+<br/>
+Gayunpaman, ang sa katunayan,<br/>
+kahit papaano, tumuluy-tuloy din naman kasi,<br/>
+wala na akong magagawa.
+
+>　おそらく同じ内容を書いていたことも、<br/>
+>　何度かあるんだろうなと思います、確かめてないけど。
+
+Kahit naisip ko man na marahil magkatulad <br/>
+ang mga nilalaman ng ilang ulit ko <br/>
+nang pinagsusulat, hindi ko pa ito natitiyak.
+
+>　今日も、前にも書いただろうなと思うことを書きます。
+
+Ngayong araw din, isinisulat ko ang naisip kong<br/>
+kahit noong nakaraan din, marahil naisulat ko na.
+
+>　それは、どうして、毎日休まずにこれを書いているか、<br/>
+>　という理由についてです。
+
+Ukol iyon sa DAHILAN kung BAKIT<br/>
+araw-araw, walang pahinga, <br/>
+nagsusulat ako.
+
+>　たぶん、知ってる人は知っている話ですが書きます。
+
+Isinusulat ko ito bagama't marahil <br/>
+may mga tao na alam na ang salaysay.
+
+>　「毎日休まずに書いていたら、努力が認められるかな」<br/>
+>　というヨコシマな理由で始まったことなのです。
+
+Nagsimula kasi ito sa sinasabing MASAMANG dahilan:<br/>
+"Kapag araw-araw, walang pahinga akong magsusulat,<br/>
+makikilala kaya ang aking paglalaan ng LAKAS?"
+
+>　ぼくは、もともとが「いいかげんなやつ」でありまして、<br/>
+>　そのことが世間的にもバレていると考えていました。
+
+Simula't simula pa, "'di ayos na tao" kasi ako;<br/>
+Napagnilayan ko nang naisiwalat <br/>
+na iyon sa kamalayan ng tao.
+
+>　でも、そういういいかげんでちゃらんぽらんな人間が、<br/>
+>　毎日、四苦八苦しながらでも休まず原稿書いている、<br/>
+>　ということが長く続いて、それが知られていくと、<br/>
+>　「それなりにあいつだって、がんばってるんじゃないか」<br/>
+>　と思われて、いいかげんさが帳消しになるんじゃないかと。
+
+Gayunpaman, naisip kong mabubura <br/>
+ang aking 'di pagkaayos, <br/>
+kapag malaman na kahit iyang 'di ayos,<br/>
+at kahit-anu-ano-na-lang na tao, <br/>
+sa mahaba't tuluy-tuloy na panahon, <br/>
+araw-araw, habang pahirapan, at walang pahinga,<br/>
+nagsusulat ng mapagmumulang sulatin;<br/>
+maiisip na "Sa kanyang sariling paraan,<br/>
+ginagalingan naman niya ah."
+
+>　つまりは、キャンペーンですよね。
+
+Ibig sahibin, CAMPAIGN (Maparaang Pagkilos) nga ito, hindi ba?
+
+>　ほめられたくてやり始めたことなのです。
+
+Nais kong mapuri, kaya sinimulan ko ito.
+
+>　レストランでも土日も休まずやってる店って、<br/>
+>　なんかありがたいなと思われるじゃないですか。
+
+Kapag kahit ang Kainan man, <br/>
+kahit sa Sabado, hindi nagpapahinga,<br/>
+hindi ba may kung anong pasalamat ang maiisip<br/>
+sa nababanggit na tindahang 'yon?
+
+>　そういう効果を狙ってやりだしたことなのでした。
+
+Iyon ang pinakay kong kinahinatnan,<br/>
+kaya ginawa ko ito.
+
+>　「ほぼ日刊イトイ新聞」に、どんな取り柄があるか、<br/>
+>　ぼく自身にも説明がつかなかったのですが、
+
+Sa Pahayagang Halos Araw-araw ni ITOI,<br/>
+hindi ko man kasi maipaliwanag,<br/>
+kung may nakuha bang kung anong <br/>
+uring pangkapit (HALAGA),
+
+>　売り物も読者メリットも不明であるならば、
+
+kung HINDI MALINAW ang HALAGA <br/>
+ng ibinibenta sa mambabasa,
+
+>　「努力賞」だけでももらっておきたかったのです。
+
+nais ko lamang kasing makatanggap <br/>
+ng "GANTIPALA sa Paglalaan ng LAKAS".
+
+>　そして、そのまま24年以上休まずに続いてしまって、<br/>
+>　雑に計算したら今年中に8800日になりそうです。
+
+
+Pagkagawa nito, tumuluy-tuloy <br/>
+nang higit sa 24 taon nang walang pahinga; <br/>
+kapag binilang ang samu't saring mga ito,<br/>
+sa loob ng taon ngayon, mukhang<br/>
+magiging 8800 araw na.
+
+>　これは、できないことをしようとしたわけではなく、<br/>
+>　できることを、ほめられたくてやっただけのことです。
+
+Hindi ko naman ito ginawa dahil hindi ko magagawa;<br/>
+bagkus, ginawa ko ang magagawa ko,<br/>
+dahil nais kong mapuri.
+
+>　こんなアホな「努力賞」狙い、やる人がいなそうなので。
+
+Mukhang wala kasing ganito ka-bobo na magpapakay ng "GANTIPALA sa Paglalaan ng LAKAS".
+
+>　ほんとは３年くらいでいったん休めるかなとか、<br/>
+>　ばくぜんと思っていたのかもしれないんですけどね。
+
+Sa totoo lang, maaaring naisip ko na nang bahagya,<br/>
+na pagkagawa nito ng mga 3 taon,<br/>
+magpahinga na kaya ako?
+
+>　ついつい、休むのがもったいなくて、まだ続いてます。
+
+Sapagkat sayang kung magpahinga, <br/>
+tumuluy-tuloy pa rin na lang ito.
+
+>　なんて、こんなことを書いたって一日の原稿になります。
+
+Parang gano'n, kahit ganito ang isinulat ko,<br/>
+nagiging isang araw na ito ng mapagmumulang sulatin.
+
+>　むつかしいようで、簡単なことでもあるから続くのです。
+
+Mukhang mahirap man, mayroon naman kasing <br/>
+madaling (simpleng) bagay, kaya tuloy lang.
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+
+Ngayong araw din po, salamat po sa pagdalaw sa "Halos Araw".
+
+> 才能でも運でもなく、ただやればできることってあるんです。
+
+Hindi man talino, o pagpapala,<br/>
+mayroon naman kasi nito:<br/>
+Kung gagawin, magagawa.
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1F; last accessed: 20220630
+
+## https://www.1101.com/home.html;
 last accessed: 20220620
 
 > ・あれは、だれが言い出したことだったか。<br/>
