@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220628; from 20220607
+  @date updated: 20220701; from 20220628
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -602,225 +602,97 @@ TO-DO: -update: this<br/>
 <br/>
 <br/>
 <br/>
-reminded: Public, to classify all <b>DIGITAL INFORMATION</b> set to <b>PRIVATE</b> to be <b>PUBLIC</b><br/>
---> where: <b>DIGITAL INFORMATION</b> : text, photographs, videos, sound<br/>
-<br/>
---> <b>objective:</b> increase <b>Security Defense</b> against the <b>MANLOLOKO</b>/budol-budol/<br/>
-carnapper/smuggler/cybercriminal/Teroristang Komunista group<br/>
-<br/>
---> observed: stolen information misused by the <b>MANLOLOKO</b><br/> 
---> to cause stalking, intimidation, harrassment, et cetera; <b>NOISE POLLUTION</b>;<br/>
-<br/>
---> <b>MANLOLOKO</b>'s <b>objective</b>: <b>QUICK MONEY</b> via causing <b>TARGET</b> to obey their <b>gawa-gawang RULES</b><br/>
---> where: <b>gawa-gawang RULES</b> is NOT of the community<br/>
---> where: misuses even religious beings, e.g. <b>観音 (guanyin; kannon)</b><br/>
---> with: <b>gawa-gawang EXPLANATION</b> that is supposedly NOT learnable by Filipino citizens<br/>
-<br/>
-<b>Examples of gawa-gawang RULES:</b><br/>
---> <b>Example#1:</b> Do NOT file incident reports with Police;<br/>
---> <b>Example#2:</b> Do NOT answer questions for clarification<br/> 
-due to among others: <b>SECRET</b>, <b>SURPRISE WEDDING</b>;<br/>
---> observed: <b>CLARIFICATION </b> shall show <b>MANLOLOKO</b> group's <b>INCORRECT ACTIONS</b><br/>
---> where: <b>INCORRECT ACTIONS</b> : <b>ILLEGAL</b>, e.g. smuggling, carnapping, human trafficking, murder<br/>
-<br/>
---> <b>Output#1:</b> <b>UNCLEAR/MALABO</b> Communication for abuse by the <b>MANLOLOKO</b> group;<br/>
---> <b>Output#2:</b> <b>DELAYS</b> in system execution @<b>Accounting Unit</b>,<br/> 
---> e.g. @partner Sta. Lucia Health Care Center (SLHCC), MOSC<br/>
-<br/>
 
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			<b>Question:</b> How does the <b>MANLOLOKO</b> group steal <b>DIGITAL INFORMATION</b> that is set to be <b>PRIVATE?</b><br/>
-			<br/>
-			<b>DIGITAL INFORMATION</b> stored in a computer, e.g. outside the Philippines, may pass through networks whose security settings are NOT secure.<br/>
-			<br/>
-			<b>reminder#1:</b> electronic mail services, e.g. <b>GMAIL</b>, may store the electronic letters of a country, e.g. the Philippines, in another country, e.g. Singapore<br/>
-			<br/>
-			<b>reminder#2:</b> GMAIL classified with <b>CLOUD-based SERVICES</b><br/>
-			<br/>
-			The <b>MANLOLOKO</b> group connects to a <b>PUBLIC</b> and/or <b>PRIVATE</b>-accessible network to <b>steal</b> using tools, e.g. <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a>, <b>DIGITAL INFORMATION</b>;<br/>
-			<br/>
-			<b>Example of STOLEN DIGITAL INFORMATION:</b><br/> 
-			1) visited website addresses<br/>
-			2) passwords<br/> 
-			3) text messages<br/>
-			<br/>
-			This is even if website as service is encrypted via <b>HTTPS</b><br/> 
-			where: <b>HTTPS</b> = Hypertext Transfer Protocol Secure</b><br/>
-			<br/>
-			<b>reminder#3:</b> Multiple network nodes CAN be created using Multiple routers<br/>
-			<br/>
-			<b>Example:</b><br/>
-			<b>router#1</b> CAN be set to be accessible using <b>PRIVATE</b> passwords<br/>
-			<b>router#2</b> CAN be set to be accessible to be <b>PUBLIC</b> without password<br/>
-			<br/>
-			<b>router#1</b> and <b>router#2</b> are CONNECTED to each other;<br/> 	
-			<b>DIGITAL INFORMATION</b> from <b>router#1</b> are <b>stolen</b> using <b>router#2</b>;<br/>
-			<br/>
-			<b>where: router#2</b> can be located in the Philippines or another country<br/> 
-			<br/>
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkUsedAsDefenseExampleComputerNetworkSchematicDiagram.jpg"><br/>	
-			<br/>
-installed:  <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> on <b>Computer Server</b> as <b>DEFENSE</b><br/>
-<br/>
-<b>Computer Server's Internet Protocol (IP) Address</b>: @<b>192.168.1.10</b><br/>
-<b>Computer Client's IP Address</b>: @<b>192.168.1.40</b><br/>
-<br/>
-<b>Computer Client</b> requests from <b>Computer Server</b> the following file located in its directory system:<br/> 
-<b>website address:</b> <a class="webServiceLink" target="_blank">/usbong_kms/index.php/report/viewWebAddressList</a><br/>
-<br/>
-<a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> identifies the requesting <b>source IP Address</b>.<br/>
-<br/>			
-			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkSourceDestinationExamplePart1.jpg">	
-			<br/>
-			<br/>
-<b>Requested File as Website Address:</b><br/> 
-<a class="webServiceLink" target="_blank">/usbong_kms/index.php/report/viewWebAddressList</a><br/>			
-			<br/>			
-			<img class="newsletterImage" width="100%" height="100%" src="assets/images/newsletter/202205/wireSharkSourceDestinationExamplePart2.jpg">	
-			<br/>
-			<br/>
-			<b>Manloloko</b> misuses <a class="webServiceLink" target="_blank" href="https://www.wireshark.org/#learnWS">WIRESHARK</a> to steal <b>INFORMATION</b> to execute <b>network abuse</b> classified to be <b>ATTACKS</b>;<br/>
-			<br/>
-			<b>Example ATTACKS:</b> NOISE POLLUTION, i.e. <b>PANLOLOKONG INGAY</b><br/>
-			<b>Example OUTPUT:</b> <b>DELAY</b> in service execution<br/>			 
-			<br/>
-			<br/>
-			<img class="newsletterImage" width="80%" height="80%" src="assets/images/newsletter/202205/wireSharkMisusedByManlolokoToAttackExampleComputerNetworkSchematicDiagram.jpg"><br/>	
-			<br/>
-			identify: <b>IP Addresses</b> from <b>captured network traffic LIST</b><br/>
-			<br/>
-			where: <b>Computer Client</b> requests for <b>Google Web Service</b>;<br/>
-			<b>Computer Client</b> located inside <b>Local Area Network</b>;<br/>
-			<b>Google Web Service</b> located outside;<br/>
-<br/>			 
---> use: <a class="webServiceLink" target="_blank" href="ipinfo.io">ipinfo.io</a> to assist in identifying among others:<br/>
-1) <b>physical location</b><br/>
-2) <b>contact information</b><br/>
-<br/>
-<b>Example Address List in Sequence:</b><br/>
-1) <b>142.250.66.99</b> : <a class="webServiceLink" target="_blank" href="https://www.google.com/">Google LLC, U.S.A.</a><br/>
---> 1600 Amphitheatre Parkway, Mountain View, CA, U.S.A.<br/>
-<br/>
-2) <b>122.2.215.143</b> : <a class="webServiceLink" target="_blank" href="https://main.pldt.com/">Philippine Long Distance Telephone Company</a><br/>
-
---> Taguig, Metro Manila, Philippines<br/>
-<br/>
-3) <b>142.251.85.103</b> : <a class="webServiceLink" target="_blank" href="https://www.google.com/">Google LLC, Singapore</a><br/>
---> Singapore, Singapore<br/>
-<br/>
-<b>"To report abuse and illegal activity":</b><br/> 
-1) <a class="webServiceLink" target="_blank" href="https://www.google.com/contact/">https://www.google.com/contact/</a><br/>
-2) <a class="webServiceLink" target="_blank" href="abuse@pldt.net">abuse@pldt.net</a><br/>
-3) <a class="webServiceLink" target="_blank" href="network-abuse@google.com">network-abuse@google.com</a><br/>
-<br/>
-		</td>
-	</tr>
-</table>
-<br/>
-<b>Recommended Actions:</b><br/>
-1) file: incident reports with Police;<br/>
-2) Ignore, if NOT endure, NOISE POLLUTION;<br/>
-3) clarify: with Family Unit, e.g. Wife, directly and in-person<br/> 
---> any information/gossip heard, viewed, et cetera;<br/>
---> <b>Halimbawa:</b> Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating LINAWIN ang anumang MALABO.<br/>
-<br/>
---> 1.1.2) continued: to share know-how in <b>日本語 (にほんご; nihongo)</b><br/>
---> <b>Usbong SCHOOL:</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/school/">https://github.com/usbong/school/
-</a><br/>
---> <b>Japanese Language Proficiency Test (JLPT):</b> <a class="webServiceLink" target="_blank" href="https://www.jlpt.jp/">https://www.jlpt.jp/
-</a><br/>
-
-<br/>
-<table class="noteTable">
-	<tr>
-		<td>
-		<b>JLPT LEVEL: N5~N4; where: N1 highest @HIGHSCHOOL level</b><br/>
-		</td>
-	</tr>	
-	<tr>
-		<td>
-<b>1) Sectional Pass Mark:</b> >= 31.6%<br/>
-<b>1.1) Language Knowledge: (Vocabulary/Grammar）・Reading</b><br/>
-38/120 = 0.316;<br/>
-31.6%<br/>
-<br/>
-<b>1.2) Listening</b><br/>
-19/60 = 0.316;<br/>
-31.6%<br/>
-<br/>
-<b>2) Total PASS Mark:</b> >= 50.0%<br/>
-90/180 = 0.5;<br/>
-50.0%
-		</td>	
-	</tr>	
-</table>
-<br/>
-
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			<b>Recommended Actions:</b><br/>
-			1) verify: <b>Sample Examinations</b> as practice before <b>Actual Examination</b><br/>
-			--> observed: <b>Listening Part</b> to appear to be excessively QUICK due to student has LESS <b>audio material</b> to repeatedly listen as practice<br/>
-			where: <b>audio material</b> : @same/similar LEVEL as Examination<br/>
-			<br/>
-			2) verify: <b>Examination Rules</b> to receive: <b>PASS</b><br/>
-			--> observed: with select examinations, question items' difficulty level NOT in increasing sequence, <b>PASS Mark</b> >= 70%<br/> 
-			<b>ACTION</b>: finish: questions that <b>CAN be QUICKLY answered CORRECTLY</b>;<br/>
-			--> This is instead of using available <b>TIME</b> to answer more difficult questions valued @<b>SAME POINTS</b><br/>
-			<br/>
-			3) verify: <b>VALUE</b> to receive <b>PASS</b> in Examination<br/>
-			<b>Example OUTPUT:</b> increase in <b>RANK</b><br/>
-			--> reminder: No need to use available <b>TIME</b> and <b>MONEY</b> to take Examination<br/>
-			--> where: <b>VALUE</b> classified to be <b>LOST</b> 
-		</td>
-	</tr>
-</table>
 
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1) shares: Lessons-learned: asahi.com　(朝日新聞　DIGITAL; asahi shimbun digital)</h4>
+<h4>2.1) shares: Lessons-learned: ファミ通.com　(famitsu.com)</h4>
 <h5>
---> <b>note:</b> KEYPHRASE technique as with TELEGRAM/SMS (SHORT MESSAGING SERVICE) MESSAGE<br/>
---> Translation from <b>日本語 (にほんご; nihongo)</b> to English by SYSON, MICHAEL B.<br/>
-<br/>
-2.1.1) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15294699.html?iref=comtop_Opinion_03">（社説）ゲノム情報　差別防ぐルール作りを</a>;<br/>
-<br/> 
-last accessed: 20220602; from 20220516
-<br/>
-<b>2022年5月16日 5時00分
-</b><br/>
-2022-05-16T05:00<br/>
+2.1.1) <a class="webServiceLink" target="_blank" href="https://www.famitsu.com/news/202206/08264224.html">“ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供</a>;
+last accessed: 20220701; from 20220609;<br/>
 <br/>
 <b>
-    ３年前に作られた「全ゲノム解析等実行計画」に基づき、がんと難病の患者を対象に、ＤＮＡの遺伝情報（ゲノム）を網羅的に解析する作業が進む。<br/>
+    2022.06.08 23:00<br/>
+</b>
+2022-06-08T23:00<br/>
 <br/>
-    ...保険や雇用分野での差別的な取り扱いを、法律で明確に禁じている国もある。<br/>
+<b>
+KEYPHRASE:<br/>
+</b>
+JUMP COMICS APP DEV CONTEST 2022;<br/>
+MANGA COMICS APP+WEB SERVICE PROJECT<br/>
+WINNING PROJECT: DEV CAPITAL <b>50Millon YEN (MAX)</b><br/>
+where: <b>50Millon YEN</b> : <b>25Millon PHP (approx)</b><br/>
 <br/>
-    　ところが日本にはそうした規定はない。わずかに個人情報保護法によって、ゲノム情報の取得にあたっては本人の同意が必要とされているくらいだ。<br/>
-<br/>
-    海外の例も参考にしながら具体的な検討を行う場を速やかに設けるよう求める。<br/>
-<br/>
-    　ゲノム医療のあり方について人々の考えや意識を探る調査を継続して行い、ていねいな説明を通じて、社会の合意形成を図ることも必要だ。
+<b>
+    少年ジャンプ」は、新しい作品創出の基地です。創刊以来50年以上もの間、クリエイターが集まり、成長を促し、読者と共に新作を人気作に導くエコシステムが機能してきました。
 </b><br/>
 <br/>
-<b>keyphrase:</b> GENOME INFORMATION;<br/>
---> requires: person's <b>AGREEMENT</b> to obtain <b>INFORMATION</b> in JAPAN;<br/>
---> In <b>INSURANCE, EMPLOYMENT</b> FIELDS <b>DISCRIMINATION TREATMENT, NOT YET in JAPAN</b>,<br/>
---> <b>CLEARLY PROHIBITED</b> in LAW @SELECT COUNTRIES<br/>
+SHOUNEN JUMP (COMICS): Simulang pook kung saan inilalabas ang mga bagong LIKHA. Simula nang naglathala, sa loob ng higit sa 50 taon, nagsama ang mga CREATOR (MANLILIKHA), ipinairal ang paglaki nito, kasama ang mga Mambabasa, bumuo ng ECO-SYSTEM upang gabayan ang mga bagong LIKHA na maging tanyag.<br/>
 <br/>
-
+<b>keyphrase:</b> increase <b>know-how</b> in among others: <b>drawing techniques</b>, <b>reading&writing</b><br/>
+reminder#1: Use of <b>RIFLE</b> requires such <b>know-how</b> to <b>CORRECTLY IDENTIFY and CLASSIFY target object</b><br/>
+--> where: <b>IDENTIFY and CLASSIFY</b> : <b>SCIENCE (AGHAM)</b><br/>
+--> where: <b>target object</b> : <b>ANIMAL</b>, <b>Teroristang Komunista</b>, et cetera<br/>
+<br/>
+reminder#2: <b>Teroristang Komunista/MANLOLOKO group</b> misuses <b>wireless broadcasting</b> to attack <b>target</b><br/>
+--> where: <b>target</b> with <b>RIFLE</b> is intentionally provoked to <b>ATTACK</b><br/>
+<br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			In Switzerland, a household may carry <b>RIFLES</b> as part of <b>self-defense</b>;<br/>
+			<br/>
+			Self-defense <b>CAN</b> be executed even with <b>EMPTY HANDS</b><br/>
+			where: <b>EMPTY HANDS</b> : <b>KARATE; 空手; からて</b><br/>
+			<br/>
+			observed: <b>KARATE</b> techniques + <b>WEAPON</b>, e.g. <b>KATANA (日本刀; Japanese Sword)</b>, <b>INCREASES STRENGTH</b><br/>
+			<br/>
+			--> <b>paalala#1:</b> Kabilang sa <b>pagtatanggol</b> sa sarili ang pagpatay sa <b>Mananalakay</b> sa kanyang sariling bahay.<br/><br/>		
+			where: <b>Mananalakay</b> : <b>MANLOLOKO/budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista group</b><br/>
+			<br/>
+			--> <b>paalala#2:</b> <b>WALANG PANANABIK</b> (EXCITEMENT) <b>sa PAGPATAY</b>;<br/>
+			<br/>
+			<b>Additional Reminders:</b><br/>
+			<b>reminder#1:</b> file: incident reports with Police as part of <b>due process</b>;<br/>
+			<b>reminder#2:</b> prepare: to execute own <b>RECOMMENDED ACTIONS</b>;<br/>
+			<br/>
+			TO-DO: -add: lessons-learned from Italia<br/>
+		</td>
+	</tr>
+</table>
+<br/>
+<br/>
+<b>Paalala</b>) verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
+--> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>; last accessed: 20220322<br/>
+<br/>
+<b>
+    | BOC Destroys 21 Smuggled Vehicles<br/>
+    | Posted on June 18, 2021<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+<b>
+    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b>,<br/> 
+--> instead of increasing <b>know-how</b> in among others: <b>drawing techniques</b>, <b>reading&writing</b>
+<br/>
+<br/>
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+<br/>
+<br/>
 2.1.2) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ5H73RVQ5FULFA01V.html?iref=comtop_7_01">（半導体工場、国内で巨額投資続々　政府は経済安保観点からも支援;</a><br/> 
 last accessed: 20220602; from 20220516<br/>
 <br/>
@@ -867,7 +739,6 @@ Doi Shinpei; 2022-05-16T05:00<br/>
 		</td>
 	</tr>
 </table>
-
 </h5>
 </h3>
 
