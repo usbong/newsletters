@@ -10,7 +10,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220630; from 20220628
+  @date updated: 20220701; from 20220630
   @website address: http://www.usbong.ph
 
   Input:
@@ -464,6 +464,18 @@
 						  margin: 6px 0;
 						  transition: 0.4s;
 						}
+						
+						nav.myMenuNav {
+							display: none;
+							z-index: 1;
+							position: absolute;
+							right: 0;
+							top: 0;		
+						}
+
+						.change .myMenuNav {
+						  display: inline-block;
+						}
 
     /**/
     </style>
@@ -489,6 +501,15 @@
 
   </head>
 	  <script>
+		//added by Mike, 20220701
+		function myFunction(x) {
+		  //alert ("HALLO");
+			
+		  //x.classList.toggle("change");
+
+		  var myMenuNav = document.getElementById("myMenuNavId").style.display="block";
+		  
+		} 	  
 	  </script>
 	  
 <!-- edited by Mike, 20220628	  
@@ -657,9 +678,8 @@
 <!--
 <div class="row Image-offers">	
 -->	
-<nav class="navbar-static-top categories-navbar">
+<nav id="myMenuNavId" class="myMenuNav navbar-static-top categories-navbar">
     <div class="container-fluid Header-container">
-
         <ul class="nav navbar-nav container-navbar">
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">COMPUTER</a></li>
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">SERVICES</a></li>
@@ -667,9 +687,7 @@
 			<li><a class="menuLink" target="_blank" href="https://www.usbong.ph/team">TEAM</a></li>			
         </ul>
     </div>
-<!--	
 </nav>
--->
 
 	
 	
@@ -685,7 +703,7 @@ last accessed: 20220622<br/>
 <p>
 （天声人語）書店消失
 </p>
-</blockquote><br/>
+</blockquote>
 (Tinig ng Langit; Salaysay ng Tao)<br/>
 Pagkawala ng mga Tindahan ng Aklat<br/>
 <br/>
@@ -693,21 +711,21 @@ Pagkawala ng mga Tindahan ng Aklat<br/>
 <p>
     有料会員記事
 </p>
-</blockquote><br/>
+</blockquote>
 Sulatin sa nagbabayad na kasapi<br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
     2022年6月21日 5時00分
 </p>
-</blockquote><br/>
+</blockquote>
 2022-06-21T05:00<br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
 夢に本屋が出てきたことがある。書棚で何かを探しているのだが、そこはむかし郷里にあった小さな店なのだ。子どもの頃から通い、マンガ雑誌の発売日に駆け込んでいた。文庫本の棚では星新一の面白さに出会った▼自分のなかでは本屋の原型なのかもしれない。これからの子どもたちには縁のない話になるだろうか。身の回りか…
 </p>
-</blockquote><br/>
+</blockquote>
     
 May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindahan na naroon noon sa pook ng aking kinalakihan; May hinahanap akong kung ano sa lagayan ng mga aklat. Simula pa noong dumaan ako sa aking kabataan, hinahabol ko na ang araw ng bentahan ng Magasin ng Komiks (MANGA). May natagpuan akong nakaaaliw kay SEI SHINICHI (Manunulat; Bituin, Bagong Isa) sa lagayan ng mga aklat ng malaking lalagyan ng mga sulatin. Sa loob-loob ko, marahil ito ang pinagmulang hugis ng Tindahan ng Aklat. Mawawala kaya ang usaping ganito sa mga kabataan mula ngayon? Sa paligid...
 <br/>
@@ -716,7 +734,7 @@ May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindaha
 <p>
     この記事は有料会員記事です。残り454文字有料会員になると続きをお読みいただけます。
 </p>
-</blockquote><br/>
+</blockquote>
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
 	</div>
 
