@@ -75,7 +75,11 @@
 
 							/* //edited by Mike, 20220630
 							   //note: faster to read, without NEED to move head from left to right; */
+							/*
 							width: 520px;
+							*/
+							width: 50%;
+
 							padding-left: 5%;
 							
 							/* //added by Mike, 20220628 
@@ -464,9 +468,9 @@
 							display: none;
 							z-index: 1;
 							position: absolute; /*relative;*/
-							left: 48%;
+							left: 40%;
 							top: 8%;									
-							width: 20%; /*160px;*/							
+							width: 10%; /*160px;*/							
 						}
 
 						.change .myMenuNav {
