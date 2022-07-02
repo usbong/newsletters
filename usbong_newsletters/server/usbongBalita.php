@@ -10,7 +10,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220701; from 20220630
+  @date updated: 20220702; from 20220701
   @website address: http://www.usbong.ph
 
   Input:
@@ -470,7 +470,8 @@
 							z-index: 1;
 							position: absolute;
 							right: 0;
-							top: 0;		
+							top: 0;									
+							max-width: 20%; /*160px;*/							
 						}
 
 						.change .myMenuNav {
@@ -507,9 +508,51 @@
 			
 		  //x.classList.toggle("change");
 
-		  var myMenuNav = document.getElementById("myMenuNavId").style.display="block";
+		  //edited by Mike, 20220702
+		  //var myMenuNav = document.getElementById("myMenuNavId").style.display="block";		  
 		  
+		  var myMenuNav = document.getElementById("myMenuNavId");		  
+		  
+		  //alert(document.activeElement);
+		  		  
+		  if (myMenuNav.style.display=="none") {
+			myMenuNav.style.display="block";
+		  }
+		  else {
+			myMenuNav.style.display="none";
+		  }
 		} 	  
+
+		
+		$(document).click(function(event) {
+		
+			//alert(document.activeElement);			
+			//alert(document.activeElement.id);
+
+		  var myMenuNav = document.getElementById("myMenuNavId");		  
+		  
+		  //alert(document.activeElement);
+		  
+/*		  //note: in document, myMenuNav appears to be always ACTIVE
+		  if (myMenuNav.style.display=="block") {
+			myMenuNav.style.display="none";
+		  }
+*/
+
+/*
+		  if (myMenuNav.focus) {
+
+alert("HALLO");
+			myMenuNav.style.display="block";
+		  }
+		  else {
+alert("HIDE");
+
+			myMenuNav.style.display="none";
+		  }
+*/			
+		});
+
 	  </script>
 	  
 <!-- edited by Mike, 20220628	  
