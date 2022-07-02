@@ -97,7 +97,7 @@
 							  //reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/views/templates/style_v2.php;
 							  last accessed: 20220627							  
 							*/
-							max-width: 100%;
+							width: 100%; /*max-width*/
 							position: relative;	
 							
 							padding: 2%;
@@ -467,9 +467,10 @@
 						nav.myMenuNav {
 							display: none;
 							z-index: 1;
+							
 							position: absolute; /*relative;*/
-							left: 40%;
-							top: 8%;									
+							left: 0; /*40%;*/
+							top: 0; /*8%;*/									
 							width: 10%; /*160px;*/							
 						}
 
@@ -530,7 +531,6 @@
 		//TO-DO: -reverify: this 
 		//https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
 		//last accessed: 20220702
-
 		//TO-DO: -reverify: this 		
 		//https://www.w3schools.com/howto/howto_js_dropdown.asp;
 		//last accessed: 20220702
