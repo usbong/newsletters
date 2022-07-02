@@ -1,21 +1,15 @@
 <!--
   Copyright 2021~2022 SYSON, MICHAEL B. 
-
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
-
   http://www.apache.org/licenses/LICENSE-2.0
-
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
-
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
   @date updated: 20220702; from 20220701
   @website address: http://www.usbong.ph
-
   Input:
   1) Lessons-learned HTML TEXT FILE
-
   Output:
   1) Usbong Balita viewable using Computer/Mobile Web Browsers  
   
@@ -26,13 +20,11 @@
   Recommended References:
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
-
   2) https://www.asahi.com/; last accessed: 20220626
   
   3) https://www.1101.com/home.html; last accessed: 20220626
   
   4) AMAZON.COM Kindle eBOOK Reader
-
   //TO-DO: -add: mobile responsiveness via reusing USBONG STORE computer instructions received from ZENT as paid sub-contractor  
   reminder: pay: to learn technique for USBONG to share lessons-learned with PUBLIC
   
@@ -286,6 +278,7 @@
 							background-color: rgb(146,208,80);
 							color: rgb(64,64,64);
 							text-decoration: none;
+							width: 100px;
 						}
 
 						a.menuLink:hover
@@ -465,19 +458,21 @@
 						  transition: 0.4s;
 						}
 						
+						/* TO-DO: -reverify: putting MENU BUTTON in LEFT corner to NOT use such left and top percentiles;
+						*/
 						nav.myMenuNav {
 							display: none;
 							z-index: 1;
-							position: absolute;
-							right: 0;
-							top: 0;									
-							max-width: 20%; /*160px;*/							
+							position: absolute; /*relative;*/
+							left: 48%;
+							top: 8%;									
+							width: 20%; /*160px;*/							
 						}
 
 						.change .myMenuNav {
 						  display: inline-block;
 						}
-
+						
     /**/
     </style>
     <title>
@@ -501,7 +496,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   </head>
-	  <script>
+	  <script>	  
 		//added by Mike, 20220701
 		function myFunction(x) {
 		  //alert ("HALLO");
@@ -513,46 +508,43 @@
 		  
 		  var myMenuNav = document.getElementById("myMenuNavId");		  
 		  
-		  //alert(document.activeElement);
+		  //alert(document.activeElement);		  		  
+	//	  alert(myMenuNav.style.display+"hallo"); 
 		  		  
-		  if (myMenuNav.style.display=="none") {
+		  if ((myMenuNav.style.display==="none")) {// or (myMenuNav.style.display==null)) {
 			myMenuNav.style.display="block";
-		  }
-		  else {
+		  }		  
+		  else if ((myMenuNav.style.display==="block")) {
 			myMenuNav.style.display="none";
+		  }
+		  else { //captures empty value @START
+			myMenuNav.style.display="block";
 		  }
 		} 	  
-
 		
-		$(document).click(function(event) {
-		
-			//alert(document.activeElement);			
-			//alert(document.activeElement.id);
+/*		
+		//TO-DO: -reverify: this 
+		//https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
+		//last accessed: 20220702
 
-		  var myMenuNav = document.getElementById("myMenuNavId");		  
-		  
-		  //alert(document.activeElement);
-		  
-/*		  //note: in document, myMenuNav appears to be always ACTIVE
-		  if (myMenuNav.style.display=="block") {
-			myMenuNav.style.display="none";
-		  }
+		//TO-DO: -reverify: this 		
+		//https://www.w3schools.com/howto/howto_js_dropdown.asp;
+		//last accessed: 20220702
+		
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.myMenuNav')) {
+    var dropdowns = document.getElementsByClassName("myMenuNav");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('myMenuNav')) {
+        openDropdown.classList.remove('myMenuNav');
+      }
+    }
+  }
+} 
 */
-
-/*
-		  if (myMenuNav.focus) {
-
-alert("HALLO");
-			myMenuNav.style.display="block";
-		  }
-		  else {
-alert("HIDE");
-
-			myMenuNav.style.display="none";
-		  }
-*/			
-		});
-
 	  </script>
 	  
 <!-- edited by Mike, 20220628	  
@@ -629,9 +621,7 @@ alert("HIDE");
 	
 /* 	//edited by Mike, 20220304	
 	//auto-add until current YEAR
-
 	$sYearDirectoryPartTwo="/server/2022/";
-
     $arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
 */
 	//echo idate("Y");
@@ -721,8 +711,9 @@ alert("HIDE");
 <!--
 <div class="row Image-offers">	
 -->	
+
 <nav id="myMenuNavId" class="myMenuNav navbar-static-top categories-navbar">
-    <div class="container-fluid Header-container">
+    <div id="myMenuDivId" class="container-fluid Header-container">
         <ul class="nav navbar-nav container-navbar">
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/excel">COMPUTER</a></li>
             <li><a class="menuLink" target="_blank" href="https://www.usbong.ph/Training">SERVICES</a></li>
