@@ -276,6 +276,24 @@
 							color: rgb(51,145,23);
 							font-weight: bold;							
 						}
+												
+						a.webServiceLink:hover
+						{
+							color: rgb(100,145,23);
+							font-weight: bold;							
+						}
+						
+						a.webServiceLink:active
+						{
+							color: rgb(0,150,00);
+							font-weight: bold;							
+						}		
+						
+						a.webServiceLink:visited
+						{
+							color: rgb(0,150,00);
+							font-weight: bold;							
+						}						
 						
 						a.menuLink
 						{
@@ -666,6 +684,7 @@ window.onclick = function(event) {
 				<b>BALITA</b>
 			</div>		
 		</td>
+<!-- removed by Mike, 20220703		
 		<td class="menuColumn">
 			 <div class="menuIconDiv" onclick="myFunction(this)">
 			  <div class="bar1"></div>
@@ -673,6 +692,7 @@ window.onclick = function(event) {
 			  <div class="bar3"></div>
 			</div> 		
 		</td>
+-->		
 	</table>
 	<br/>
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
@@ -716,6 +736,7 @@ window.onclick = function(event) {
 <div class="row Image-offers">	
 -->	
 
+<!-- removed by Mike, 20220703		
 <nav id="myMenuNavId" class="myMenuNav navbar-static-top categories-navbar">
     <div id="myMenuDivId" class="container-fluid Header-container">
         <ul class="nav navbar-nav container-navbar">
@@ -726,7 +747,7 @@ window.onclick = function(event) {
         </ul>
     </div>
 </nav>
-
+-->
 	
 	
 	<div class="textDoubleSpacedDiv">
