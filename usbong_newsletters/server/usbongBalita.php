@@ -107,8 +107,9 @@
 						{
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 12pt;
+							font-size: 16pt;
 							color: rgb(0,0,0); /* black */
+							padding-top: 10%;
 						}
 						
 						div.newsletterTitle
@@ -144,6 +145,8 @@
 						h3
 						{
 							color: rgb(0,0,0); /* black */							
+							
+							padding-bottom: 2%;
 						}
 					
 						h4
@@ -204,6 +207,9 @@
 							border-left: 5px solid #ab9c7d;
 							padding: 2px;					
 							padding-left: 3%;
+							
+							margin-top: 2%;
+							margin-bottom: 2%;
 							
 							/* text-indent: 5%;*/
 
@@ -462,6 +468,11 @@
 							padding-left: 60px;
 							color: rgb(252,60,3);
 						}
+						
+						span.dateTodaySpan {
+							/* brown */
+							color: rgb(128,64,0); /*rgb(53,180,28);*/
+						}
 
 						/* //added by Mike, 20220701 
 						   //reference: https://www.w3schools.com/howto/howto_css_menu_icon.asp;
@@ -681,7 +692,7 @@ window.onclick = function(event) {
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
-				<b>BALITA</b>
+				<b>BALITA</b><br/>
 			</div>		
 		</td>
 <!-- removed by Mike, 20220703		
@@ -695,8 +706,9 @@ window.onclick = function(event) {
 -->		
 	</table>
 	<br/>
-<!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
--->
+	<span class="dateTodaySpan">
+	<b>DATE TODAY:</b><?php echo " ".$dateToday; ?>
+	</span>
 	
 <!-- //edited by Mike, 20220630 
 	 //TO-DO: -reverify: this 
@@ -755,9 +767,11 @@ window.onclick = function(event) {
 	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
 		「（天声人語）書店消失」</a> 
 	</h3>				
+<!-- TO-DO: -add: as NOTE	
 last accessed: 20220622<br/>	
 07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
-<br/>
+-->
+
 <blockquote class="usbongBlockquote">
 <p>
 （天声人語）書店消失
@@ -797,7 +811,6 @@ May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindaha
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
 	</div>
 
-	<br/>
 	<br/>
 	<div class="copyright">
 		<span>
