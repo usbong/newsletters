@@ -3,11 +3,13 @@
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+  
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220702; from 20220701
+  @date updated: 20220705; from 20220702
   @website address: http://www.usbong.ph
+ 
   Input:
   1) Lessons-learned HTML TEXT FILE
   Output:
@@ -78,7 +80,12 @@
 							/*
 							width: 520px;
 							*/
+							
+							/* //edited by Mike, 20220705
 							width: 50%;
+							*/
+							width: 100%;
+							
 
 							padding-left: 5%;
 							
@@ -102,7 +109,17 @@
 							
 							padding: 2%;
 						}
-									
+						
+						div.readingForTheDayDiv
+						{
+							width: 50%;
+						}
+								
+						div.readingForTheDayMobileDiv
+						{
+							width: 100%;
+						}								
+								
 						div.formTitle
 						{
 							text-align: right;
@@ -146,7 +163,7 @@
 						{
 							color: rgb(0,0,0); /* black */							
 							
-							padding-bottom: 2%;
+							padding-bottom: 4%;
 						}
 					
 						h4
@@ -168,8 +185,12 @@
 							/*  //edited by Mike, 20220630
 								//TO-DO: -reverify: this
 							*/
-							max-width: 100%; /*60%;*/
+
+							/*max-width: 100%;							
+							*/
+							width: 180px;
 							height: auto;
+
 							float: left;
 							text-align: center;
 							padding-left: 20px;
@@ -221,7 +242,7 @@
 */
 						div.textDoubleSpacedDiv {
 							line-height: 2;
-							font-size: 14pt;							
+							font-size: 14pt;	
 						}
 						
 
@@ -472,6 +493,7 @@
 						span.dateTodaySpan {
 							/* brown */
 							color: rgb(128,64,0); /*rgb(53,180,28);*/
+							font-size: 12pt;							
 						}
 
 						/* //added by Mike, 20220701 
@@ -693,6 +715,10 @@ window.onclick = function(event) {
 		<td class="pageNameColumn">
 			<div class="formTitle">
 				<b>BALITA</b><br/>
+	<span class="dateTodaySpan">
+	<b>ARAW:</b><?php echo " ".$dateToday; ?>
+	</span>
+				
 			</div>		
 		</td>
 <!-- removed by Mike, 20220703		
@@ -705,10 +731,12 @@ window.onclick = function(event) {
 		</td>
 -->		
 	</table>
+<!--	//removed by Mike, 20220705
 	<br/>
 	<span class="dateTodaySpan">
 	<b>DATE TODAY:</b><?php echo " ".$dateToday; ?>
 	</span>
+-->
 	
 <!-- //edited by Mike, 20220630 
 	 //TO-DO: -reverify: this 
@@ -760,13 +788,21 @@ window.onclick = function(event) {
     </div>
 </nav>
 -->
+	<!-- added by Mike, 20220705 -->
+<?php	
+	if (isMobile()) {		
+		echo "<div class='readingForTheDayMobileDiv'>";
+	}
+	else {
+		echo "<div class='readingForTheDayDiv'>";
+	}
+?>	
 	
-	
-	<div class="textDoubleSpacedDiv">
 	<h3>
 	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
 		「（天声人語）書店消失」</a> 
 	</h3>				
+	<div class="textDoubleSpacedDiv">
 <!-- TO-DO: -add: as NOTE	
 last accessed: 20220622<br/>	
 07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
@@ -810,6 +846,11 @@ May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindaha
 </blockquote>
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
 	</div>
+	
+	<!-- //added by Mike 20220705  
+		//END of "readingForTheDayDiv" -->
+	</div>
+	
 
 	<br/>
 	<div class="copyright">
