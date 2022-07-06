@@ -12,6 +12,62 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [大企業製造業の景況感が2期連続悪化　6月日銀短観、非製造業は改善](https://www.asahi.com/articles/ASQ6Z7J6YQ6XULFA01Z.html?iref=comtop_Topnews2_01); last accessed: 20220706
+
+> 大企業製造業の景況感が2期連続悪化　6月日銀短観、非製造業は改善
+
+Pakiramdam sa Likod na Kalagayan<br/>
+ng mga Malalaking Mangangalakal na Pagawaan:<br/>
+2panahong tuluy-tuloy na PAGSAMA;<br/>
+<br/>
+Sa maikling pagtingin ng BANGKO NG HAPON sa Buwan ng Hunyo,<br/>
+Naiayos upang bumuti ang mga HINDI PAGAWAAN<br/>
+
+> 細見るい2022年7月1日 9時05分
+
+HOSOMI, RUI; 2022-07-01T09:05
+
+> 資源価格の高騰や中国・上海の都市封鎖（ロックダウン）による部品不足が製造業の景況感を悪化させている一方、国内のコロナ感染の落ち着きで、サービス業を中心とする非製造業が回復した。
+
+Pagtaas ng HALAGA ng mga Pinagmumulang GAMIT,<br/>
+LOCKDOWN (Pagsasara) ng Lungsod sa SHANGHAI ng TSINA;<br/>
+Kulang ang mga Bahagi na ginagamit sa PAGAWAAN;<br/>
+Sa pagbagsak ng Paghawa mula sa CORONA sa loob ng Kaharian,<br/>
+naipasigla ang mga HINDI PAGAWAAN na SERBISYO<br/>
+
+> ロシアのウクライナ侵攻による資源価格の高騰が、幅広い業種の収益を圧迫している。さらに上海のロックダウンによる世界のサプライチェーン（供給網）の混乱で部品の調達に支障が生じていることも影響しているもようだ。
+
+Lumipad pataas ang HALAGA ng mga Pinagmulang Bagay<br/>
+dulot ng Pagsalakay ng RUSSIA sa UKRAINE;<br/>
+Gayunpaman, may PRESSURE (Panggigipit)<br/> 
+upang kumita sa malawak na uri ng mga gawain;<br/>
+Batay sa LOCKDOWN sa SHANGHAI, <br/>
+ang SUPPLY CHAIN (NET ng Bigayan) ng DAIGDIG;<br/>
+Nagkagulo; Nagdulot ng kapansanan<br/>
+sa pagdating ng mga Bahaging GAMIT;<br/>
+
+> 鉄鋼は16ポイント下落してマイナス6、食料品が6ポイント下落してマイナス11。自動車は4ポイント下落のマイナス19だった。
+
+### PAGAWAAN na SERBISYO
+
+BAKAL;<br/>
+Gamit sa Pagkain;<br/>
+Sasakyan;
+
+> 業種別では、遊園地などの対個人サービスが32ポイント改善のプラス18、宿泊・飲食サービスが25ポイント改善のマイナス31だった。（細見るい）
+
+### HINDI PAGAWAAN na SERBISYO 
+
+Paglalakbay (TOUR)<br/>
+Tutuluyan; Pagkain at Inuman;<br/>
+Pook LARUAN;
+
+### DAGDAG
+
+Mababasa ang laki ng itinaas o ibinababa batay sa GRAPHING CHART ng Sulatin
+
+
+
 ## [第20回高校生福祉文化賞エッセイコンテスト「書く力UP講座」出張授業](https://www.asahi.com/edua/article/14617646?cid=all_topics); last accessed: 20220629
 
 > 第20回高校生福祉文化賞エッセイコンテスト「書く力UP講座」出張授業
