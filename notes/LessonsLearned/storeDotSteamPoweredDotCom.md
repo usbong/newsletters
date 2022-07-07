@@ -21,7 +21,7 @@ Buhaying sa 4K FULL REMASTER, sa tulong ng mga dating Kasapi ng Westwood Studios
 1) remembers: buying C&C Red Alert DISC (PC); appeared: to be NOT FAKE/PIRATED;<br/>
 --> observed: increase of FAKE/PIRATED GAMES in the CD-era of the 90's in the Philippines;<br/>
 
-2) observed: self to remember enjoying more GAMES in the Year 1990's; <br/>
+2) observed: self to remember enjoying more GAMES in the 1990's; <br/>
 <b>Example Systems:</b> Sega Gamegear, Super Family Computer, Arcade, <br/>
 PlayStation, Nintendo Gameboy Color, Personal Computer (PC)
 
