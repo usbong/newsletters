@@ -393,11 +393,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-
+<!-- //edited by Mike, 20220707; from 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-<!-- //edited by Mike, 20220325
-	<base href="http://store.usbong.ph/" target="_blank">
 -->
+
+	<base href="http://store.usbong.ph/" target="_blank">
   </head>
 	  <script>
 	  </script>
@@ -489,7 +489,7 @@
 	<br>	
 	<div class="newsletterTitle">
 		<b>コンピュータ情報</b> (kompyu-ta jouhou) : <b>BALITA</b><br/>
-		Kompyuter; Damdamin Pinagpapala;
+		Sa Kompyuter, Damdamin Pinagpapala;
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -615,7 +615,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1) shares: Lessons-learned: <a class="webServiceLink" target="_blank" href="https://www.famitsu.com">MEDSCAPE.COM</a>ファミ通.com　(famitsu.com)</h4>
+<h4>2.1) shares: Lessons-learned: <a class="webServiceLink" target="_blank" href="https://www.famitsu.com">ファミ通.com　(famitsu.com)</a></h4>
 <h5>
 2.1.1) <a class="webServiceLink" target="_blank" href="https://www.famitsu.com/news/202206/08264224.html">“ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供</a>;
 last accessed: 20220701; from 20220609;<br/>
