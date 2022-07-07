@@ -1,5 +1,30 @@
 # [STORE.STEAMPOWERED.COM](https://store.steampowered.com)
 
+[Command & Conquer™ Remastered Collection](https://store.steampowered.com/news/app/1213210/view/2255687723361166342)
+
+> 25年前RTSをジャンルとして定着させた「Command & Conquer」と「Red Alert」の両作が、Petroglyph GamesのWestwood Studios元メンバー達の手により4Kフルリマスターで蘇る。3つすべての拡張パック、再構築されたマルチプレイヤー、最新UI、マップエディター、未公開FMVのボーナス映像集、Frank Klepackiによる伝説のBGMの7時間を超えるリマスターも収録。おかえりなさい、コマンダー。
+
+### Keyphrase to Cause PURCHASE:
+
+re-verified: PRICE @PHP304.15 (discounted 65% of 869PHP)
+
+> Westwood Studios元メンバー達の手により4Kフルリマスターで蘇る。
+
+Buhaying sa 4K FULL REMASTER, sa tulong ng mga dating Kasapi ng Westwood Studios;
+
+### Dagdag
+
+--> Malaysian Team : Pixel Image Remaster
+
+### Notes
+
+1) remembers: buying C&C Red Alert DISC (PC); appeared: to be NOT FAKE/PIRATED;<br/>
+--> observed: increase of FAKE/PIRATED GAMES in the CD-era of the 90's in the Philippines;<br/>
+
+2) observed: self to remember enjoying more GAMES in the Year 1990's; <br/>
+<b>Example Systems:</b> Sega Gamegear, Super Family Computer, Arcade, <br/>
+PlayStation, Nintendo Gameboy Color, Personal Computer (PC)
+
 ## STEAM + PROTON
 
 https://www.protondb.com/; last accessed: 20220707
