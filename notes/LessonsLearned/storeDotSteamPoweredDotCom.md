@@ -1,8 +1,28 @@
 # [STORE.STEAMPOWERED.COM](https://store.steampowered.com)
 
-Select PARTS
+## STEAM + PROTON
+
+https://www.protondb.com/; last accessed: 20220707
+
+> What is Proton?<br/>
+>
+> Proton is a new tool released by Valve Software that has been integrated with Steam Play to make playing Windows games on Linux as simple as hitting the Play button within Steam. Underneath the hood, Proton comprises other popular tools like Wine and DXVK among others that a gamer would otherwise have to install and maintain themselves. This greatly eases the burden for users to switch to Linux without having to learn the underlying systems or losing access to a large part of their library of games. Proton is still in its infancy so support is inconsistent, but regularly improving.
+
+### keyphrase: Select Windows Games PLAYABLE on LINUX Machine
+
+## STEAM Operating System (OS)
+
+https://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999/; last accessed: 20220707
+
+> Q: Can I run Microsoft Windows games and applications on SteamOS?<br/>
+> 
+> No, SteamOS is based on Debian GNU/Linux and is not compatibile with Microsoft Windows games and applications. However, SteamOS supports seamlessly streaming your games from your Windows computer; for more information go to this page for more information about Steam In-Home Streaming.
+
+### keyphrase: Windows Games NOT PLAYABLE YET on SteamOS Machine
 
 ## STEAM SUBSCRIBER AGREEMENT
+
+Select PARTS
 
 https://store.steampowered.com/join/?redir=checkout%2F%3Fpurchasetype%3Dself%26snr%3D1_8_4__503&checkout=1&purchaseType=self&snr=1_60_4__62;<br/>
 last accessed: 20220604<br/>
