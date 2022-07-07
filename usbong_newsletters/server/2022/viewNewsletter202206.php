@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220701; from 20220628
+  @date updated: 20220707; from 20220701
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -155,6 +155,19 @@
 							text-align: center;							
 							font-weight: bold;
 						}
+						
+						blockquote.usbongBlockquote {
+							background: #eee;
+							color: rgb(40,40,40); /* from black to white */ 
+							margin:0;		
+							border-left: 5px solid #ab9c7d;
+							padding: 2px;					
+							padding-left: 3%;
+							
+							/* text-indent: 5%;*/
+
+						}
+						
 						
 						table.imageTable
 						{
@@ -475,7 +488,8 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>メモリー</b> (memori-) : <b>LALAGYAN ng ALAALA</b>
+		<b>コンピュータ情報</b> (kompyu-ta jouhou) : <b>BALITA</b><br/>
+		Kompyuter; Damdamin Pinagpapala;
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -595,19 +609,13 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 
 
-<br/>
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 </h5>
 
 <h3>2) Continued with Research & Development (R&D)</h3>
-<h4>2.1) shares: Lessons-learned: ファミ通.com　(famitsu.com)</h4>
+<h4>2.1) shares: Lessons-learned: <a class="webServiceLink" target="_blank" href="https://www.famitsu.com">MEDSCAPE.COM</a>ファミ通.com　(famitsu.com)</h4>
 <h5>
 2.1.1) <a class="webServiceLink" target="_blank" href="https://www.famitsu.com/news/202206/08264224.html">“ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供</a>;
 last accessed: 20220701; from 20220609;<br/>
@@ -626,7 +634,7 @@ WINNING PROJECT: DEV CAPITAL <b>50Millon YEN (MAX)</b><br/>
 where: <b>50Millon YEN</b> : <b>25Millon PHP (approx)</b><br/>
 <br/>
 <b>
-    少年ジャンプ」は、新しい作品創出の基地です。創刊以来50年以上もの間、クリエイターが集まり、成長を促し、読者と共に新作を人気作に導くエコシステムが機能してきました。
+    「少年ジャンプ」は、新しい作品創出の基地です。創刊以来50年以上もの間、クリエイターが集まり、成長を促し、読者と共に新作を人気作に導くエコシステムが機能してきました。
 </b><br/>
 <br/>
 SHOUNEN JUMP (COMICS): Simulang pook kung saan inilalabas ang mga bagong LIKHA. Simula nang naglathala, sa loob ng higit sa 50 taon, nagsama ang mga CREATOR (MANLILIKHA), ipinairal ang paglaki nito, kasama ang mga Mambabasa, bumuo ng ECO-SYSTEM upang gabayan ang mga bagong LIKHA na maging tanyag.<br/>
@@ -661,8 +669,71 @@ reminder#2: <b>Teroristang Komunista/MANLOLOKO group</b> misuses <b>wireless bro
 			<b>Additional Reminders:</b><br/>
 			<b>reminder#1:</b> file: incident reports with Police as part of <b>due process</b>;<br/>
 			<b>reminder#2:</b> prepare: to execute own <b>RECOMMENDED ACTIONS</b>;<br/>
+			where: <b>RECOMMENDED ACTION</b> : PUKSAIN -> TERORISTANG KOMUNISTA<br/>
 			<br/>
-			TO-DO: -add: lessons-learned from Italia<br/>
+			<b>Additional Notes (Lessons-learned from ITALIA):</b><br/>		
+			1) <b>Chief Prosecutor</b> against <b>MAFIA (MAGULONG SAMAHAN)</b> killed;<br/>
+			--> <b>OUTPUT:</b> Prosecution CASE continues; MAFIA still NOT ENDED;<br/>
+			<br/>
+			--> <b>paalala:</b> Tinuturi ng mga <b>Teroristang Komunista</b> na sila ang <b>"MAFIA/YAKUZA"</b> sa Pinas<br/>
+			--> <b>Teroristang Komunista</b> :  <b>MANLOLOKO</b>/budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista group<br/>
+			<br/>
+			--> Higit na <b>MABILIS</b> at <b>WASTO</b> na <b>PUKSAIN</b> ang mga ito ng <b>Tagapagpatupad ng BATAS</b>, sa halip na idaan sa <b>HUKOM</b><br/>
+			--> <b>paalala</b>: Habang inaayos pa lamang ang mga ihahain panlaban sa kanila, ginagamitan na <b>TAYO</b> ng mga <b>PANLOLOKONG INGAY</b> at <b>PISIKAL na PANANAKIT</b> sa pamamagitan ng <b>wireless broadcasting technology</b>.<br/>
+			 
+			 <br/>
+
+			<b>Example#1 Physical Attacks causing Injury to Target:</b><br/>
+			<b>Target:</b> SYSON, MICHAEL B.<br/>			 
+<br/>
+identified: <b>Teroristang Komunista Members</b> as <b>ATTACKERS</b><br/>
+1) <b>Ramon Syson</b>, younger brother of father Dr. Pedro Syson<br/>
+2) <b>Ryan Syson</b>, eldest son Ramon Syson<br/>
+<br/>
+Both Knees (datetime stamp: 2020-10-15T13:34)<br/>
+			 <table>
+			 <tr>
+			 <td>
+					<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202112/20201021_075857LEFTOccurred20201015T1334.jpg">
+					<br/>
+					LEFT Knee
+			</td>
+			 <td>
+					<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202112/20201021_075812RIGHTOccurred20201015T1334.jpg">
+					<br/>
+					RIGHT Knee
+			</td>			
+			</tr>
+			</table>			 
+
+<br/>
+			<b>Example#2 Noise Pollution via <b>RADIO FREQUENCY</b><br/> 
+			previously set to <b>STATIC</b>:</b><br/>
+			<b>Target:</b> SYSON, MICHAEL B.<br/>			 
+			<br/>
+			identified: <b>Teroristang Komunista Members</b> as <b>ATTACKERS</b><br/>
+1) <b>Tyrone Tang</b>, basketball player<br/>
+2) <b>Keith Haw</b>, friend and classmate of <b>Tyrone Tang</b><br/>
+<br/>
+Both are classmates of <b>SYSON, MICHAEL B.</b> @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;
+			
+			 <table>
+<tr>
+			 <td>
+			 <br/>
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+				Approx size: 6x6cm
+			</td>
+			<td>
+			</td>
+			</tr>			
+			</table>		
+			<br/>	 
+<b>CAUSE:</b> After investigation, <b>Teroristang Komunista</b> group was verifying via CRIMINAL ACTIONS classified as <b>HARASSMENT/EXTORTION</b>, et cetera to identify among others:<br/>
+<br/>
+1) <b>LOCATION</b> of smuggled vehicles<br/>
+2) <b>Police Units</b> who caused DELAY in their <b>smuggling ACTIONS</b><br/>
+
 		</td>
 	</tr>
 </table>
@@ -686,100 +757,230 @@ reminder#2: <b>Teroristang Komunista/MANLOLOKO group</b> misuses <b>wireless bro
 <br/>
 keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b>,<br/> 
 --> instead of increasing <b>know-how</b> in among others: <b>drawing techniques</b>, <b>reading&writing</b>
+
+<h3>3) Continued with HEALTH・Security Defense Force</h3>
+<h4>3.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.medscape.com">MEDSCAPE.COM</a></h4>
+<h5>
+3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.medscape.com/viewarticle/975852?src=mkm_ret_220629_mscpmrk_icymi-ous_int&uac=169845BZ&impID=4375646&faf=1">It's Official. Vitamins Don't Do Much for Health</a>;<br/>
+last accessed: 20220707; from 20220630
+<br/><br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+It's Official. Vitamins Don't Do Much for Health</b><br/>
+</p>
+</blockquote>
+
+<br/>
+Tinuwid na: Hindi gaanong gumagawa ang mga Bitamina tungo sa Kalusugan<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+F. Perry Wilson, MD, MSCE
+</p>
+</blockquote>
+<br/>
+
+F. Perry Wilson, MD (Manggagamot), MSCE (Master ng Agham sa Paglaganap ukol sa Panggagamot)<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+    Disclosures<br/>
+</p>
+</blockquote>
+
+<br/>
+Mga pag-amin<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    June 22, 2022
+</p>
+</blockquote>
+
+<br/>
+2022-06-22<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    Vitamins. If you are like the majority of American adults, you took a vitamin or supplement recently. Over-the-counter sales of these products in this country amount to over $30 billion a year. That's more than the market for statins — and vitamins aren't covered by insurance.
+</p>
+</blockquote>
+
+<br/>
+Bitamina; Kung katulad ka ng karamihan ng mga matatandang (adult) Amerikano, kumuha ka ng bitamina o supliment kamakailan. Sa isang taon, higit sa 30USD Bilyon ang benta (SALE) ng mga ito sa over-the-counter (nabibili sa tindahan kahit walang reseta). Higit pa iyan sa Mamimili (market) ng statin (gamot upang magpababa ng TABA, kabilang ang triglyceride (Sa gitna ng TABA) at cholesterol) sa dugo; at hindi saklaw ng insurance (tagapagtanggol sa sakuna) ang bitamina.<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    For there to be a $30 billion market, there must be some pretty convincing evidence that vitamin supplements work to improve health, right?
+</p>
+</blockquote>
+
+
+<br/>
+Kung may 30USD Bilyong Mamimili, kailangan ng nakapagsasang-ayon na patunay (ebidensya) na tumutulong nga ang mga bitamina bilang supliment upang maiayos ang kalusugan, hindi ba?
 <br/>
 <br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    Well, in the most thorough meta-analysis to date, researchers from Kaiser-Permanente crunched the numbers from virtually every randomized trial of vitamin supplements in adults to conclude that, basically, they do nothing.<br/>
+</p>
+</blockquote>
+
+
 <br/>
-TO-DO: -update: this<br/>
+Sa pinakabagong meta-analysis (pagsusuri ng mga Balita ukol sa Balita), pagkatapos gawin ang bilangan ng halos (virtual) bawat isang random na paglilitis ng mga bitaminang supliment, tinapos ng mga tagapagsaliksik mula Kaiser-Permanente na WALANG TULONG ang mga ito.
 <br/>
 <br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    Notable findings for the harm analysis included evidence that vitamin A use might increase the risk for hip fracture, that vitamin E use might increase the risk for hemorrhagic stroke, and that vitamin C or calcium use might increase the risk for kidney stones.
+</p>
+</blockquote>
+
 <br/>
-2.1.2) <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ5H73RVQ5FULFA01V.html?iref=comtop_7_01">（半導体工場、国内で巨額投資続々　政府は経済安保観点からも支援;</a><br/> 
-last accessed: 20220602; from 20220516<br/>
+Kabilang sa mga maisusulat na natuklasan ukol sa pagsusuri ng masamang dulot (ng mga bitamina) ang mga ito: patunay na maaaring pataasin ng bitamina A ang risk (panganib) ng BALE sa Balakang, na maaaring pataasin ng bitamina E ang risk (panganib) ng stroke sa pagdudugo, at maaaring pataasin ng bitamina C o Calcium ang panganib ng bato sa BATO (kidney).
 <br/>
-<b>土居新平2022年5月16日 5時00分</b><br/>
-Doi Shinpei; 2022-05-16T05:00<br/>
 <br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    Why are the observational data that show lower vitamin levels linked to worse outcomes so powerful, and the randomized trial data of supplementation so weak? This is classic confounding. Basically, healthier people have higher vitamin levels, and healthier people have less cardiovascular disease and cancer. Vitamin levels are a marker of overall health, not a driver of overall health.
+</p>
+</blockquote>
+
+<br/>
+Bakit matinding ipinakikita ng mga Namamasdang Datos na may ugnayan ang mababang nibel ng bitamina sa malubhang kinahinatnan, at mahina naman kapag ginawa ang random na paglilitis ng Datos ng supliment? Nakapagtataka ito. Sa panimula, matataas ang nibel ng bitamina ng mga malulusog na tao, at mababa ang kanilang sakit na may kinalaman sa cardiovascular (Daluyan ng Dugo sa Puso) at cancer. Puna ng Pangkalahatang Kalusugan ang nibel ng bitamina, hindi ito ang nag-uudyok ng Pangkalahatang Kalusugan.
+<br/><br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    Taking a vitamin, though it is a small act, is nevertheless an act of self-care — a moment that we take for ourselves and ourselves alone — a commitment to try to be healthy.
+</p>
+</blockquote>
+
+<br/>
+Bagama't isang maliit na pagkilos ang pagkuha ng bitamina, isa itong pagkilos ng pag-alaga sa sarili; isa itong saglit na tayo lamang at ang sarili lamang natin ang gagawa upang pagpasiyahang subukang maging malusog.
+<br/><br/>
+<blockquote class="usbongBlockquote">
+<p>
+    A brief moment of positivity in the morning may not reduce heart attacks or cancer rates, but it may have benefit nonetheless.
+</p>
+</blockquote>
+
+<br/>
+Bagama't hindi makapagpapababa ng rate (pangyayari) ng mga pagsalakay sa puso o cancer, may tulong din naman kahit papaano ang isang saglit ngLTRASOUND THERAPY MABUTI (POSITIBO) sa umaga.
+<br/><br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+    F. Perry Wilson, MD, MSCE, is an associate professor of medicine and director of Yale's Clinical and Translational Research Accelerator. His science communication work can be found in the Huffington Post, on NPR, and here on Medscape. He tweets @fperrywilson and hosts a repository of his communication work at www.methodsman.com.
+</p>
+</blockquote>
+
+<br/>
+Propesor (Mangangaral) ng Gamot at Direktor (Pinuno) ng Pabilisin ang Panggagamot at Pagsasalin ng Pananaliksik sa YALE: F. Perry Wilson, MD, MSCE; Matatagpuan ang kanyang gawaing hanap-buhay ukol sa science communication (pagpapahayag gamit ang agham) sa Huffington Post, NPR, at dito sa Medscape. Gumagamit siya ng tweet @fperrywilson, at ng repository (lalagyan) ng kanyang gawaing hanap-buhay ukol sa pagpapahayag sa <a class="webServiceLink" target="_blank" href="https://www.methodsman.com">www.methodsman.com</a>.
 <b>
-    スマートフォンや家電、自動車などあらゆる製品に使われる半導体は世界的に不足しており、争奪戦が激しい。 企業は巨額の投資をし、政府は経済安全保障の観点からも補助金を出して、生産力を高めようとしている。<br/>
-<br/>
-    東芝が約4割の株式を持つ半導体大手のキオクシアホールディングスは、北上工場（岩手県北上市）に新たな製造棟を建てる。建屋面積は約3万1千平方メートル。総事業費は1兆円規模とされ来春にも完成する。生産するのはスマホなどに使う記憶用半導体「NAND（ナンド）型フラッシュメモリー」だ。<br/>
-<br/>
-    キオクシアは世界最大級のメモリー工場である四日市工場（三重県四日市市）で新たな製造棟を4月に完成させた。秋にも稼働する。こちらも総事業費は1兆円規模。北上工場の分を合わせ、米半導体大手のウエスタンデジタル（WD）と共同で負担する見通しだ。<br/>
-<br/>
-    政府は半導体産業を支援する…<br/>
-<br/>
-</b>
-<b>keyphrase:</b> <b>半導体工場</b> (half-guided body engineering area; <b>TRANSISTOR FACTORY</b>) in JAPAN;<br/>
---> TOSHIBA; IWATE PREFECTURE; MIE <b>PREFECTURE</b>; <b>MEMORY</b>, e.g. NAND FLASH MEMORY;<br/>
-<br/>
-<br/>
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			<b>ASAHI Newspaper Observations:</b><br/>
-			<br/>
-			1) observed: correction in spelling during <b>QUICK SMS Reporting</b> for select words, e.g. MIE <b>PREFERECTURE</b><br/>
-			--> <b>"PREFERECTURE"</b> with the excess <b>"ER"</b>, should be <b>"PREFECTURE"</b><br/>
-			<br/>
-			emphasis: <b>VALUE</b> of UNIT's <b>EDITOR</b> to re-verify quickly translated sentences' grammar, sentence structure, significance, et cetera.<br/>
-			<br/>
-			2) observed: <b>problems in JAPANESE SOCIETY</b> due to among others:<br/> 
-			2.1) <b>young people</b> executing <b>CHAOTIC behavior</b><br/> 
-			2.2) people with <b>NO WORK</b><br/> 
-			2.3) <b>senior people</b> with <b>errors in MONEY</b><br/>
-			<br/>
-			<b>ACTION:</b><br/>
-			2A.1) <b>STRICT</b> with <b>newly elected politicians</b>, e.g. Prime Minister KISHIDA,<br/> 
-			2A.2) sharing that <b>problem WORSE in Foreign Countries</b>;<br/> 
-			where: increased DEATH COUNT due to FIRE during WINTER<br/>
-		</td>
-	</tr>
-</table>
-</h5>
-</h3>
-
-<h3>3) Continued with Security Defense Force</h3>
-<h4>3.1) shares: ULTRASOUND TECHNIQUE</h4>
-<h5>
-3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.sciencedirect.com/topics/medicine-and-dentistry/ultrasound-therapy">ULTRASOUND THERAPY</a><br/>
-<b>website address:</b> <a class="webServiceLink" target="_blank" href="https://www.sciencedirect.com/topics/medicine-and-dentistry/ultrasound-therapy">https://www.sciencedirect.com/topics/medicine-and-dentistry/ultrasound-therapy</a>;<br/> 
-last accessed: 20220530<br/>
-<br/>
---> observed: <b>pattern</b> <b>IF</b> tool/technique <b>NOT effective</b> to increase <b>INCOME LEGALLY</b>,<br/> 
-shall be <b>MISUSED</b> by <b>MANLOLOKO group</b> to execute <b>ACTIONS</b> classified to be <b>ILLEGAL</b>,<br/>
-e.g. intimidation, harassment to get <b>QUICK MONEY</b>;<br/>
-<br/>
-where: <b>harass</b>: "cause trouble or any mental, economical or any other damage <b>[1]</b>"<br/>
-<br/>
-<b>MANLOLOKO</b> : MANLOLOKO/budol-budol/carnapper/smuggler/<br/>
-cybercriminal/Teroristang Komunista group<br/>
-<br/>
-<b>keyphrase:</b><br/>
-unsolicited physical stimulation,<br/> 
-wireless physical attacks,<br/> 
-mobile telephone (tech since Year 2008 and earlier)<br/>
-<br/>
-<b>emphasis:</b><br/>
-"...sound waves at very high frequencies (0.5-5 MHz) to produce mechanical vibration within the tissues."<br/>
-<h3><b>"Physical therapies"</b></h3>
-<h5>
-Lindsay M. Bearne PhD MSc MCSP, Michael V. Hurley PhD MCSP,<br/> 
-in Rheumatology, 2010 <b>ULTRASOUND THERAPY</b><br/>
-<br/>
-"In the management of rheumatic diseases, ultrasound therapy (US) is commonly used as an adjunctive therapy for its proposed effects on inflammation as well as for pain relief. It uses <b>sound waves at very high frequencies (0.5-5 MHz) to produce mechanical vibration within the tissues.</b> If applied in high doses absorption of US results in heating, which decreases pain and fluid viscosity, increases metabolic rate and blood flow (thermal effects) (Nussbaum 1997). At lower doses of US or following pulsed US non thermal, mechanical effects such as stable cavitation (formation of gas bubbles in tissues), standing waves (reflected waves superimposed on incident waves) and acoustic streaming (fluid movement which exerts pressure changes on a cell) occur (Maxwell 1992) which cause membrane distortion, increased permeability, increased nutrient transfer and facilitation of tissue repair (Mortimer & Dyson 1988). When applied to acutely inflamed tissues it encourages the inflammatory process to progress to the proliferation stage (Watson 2000).<br/>
-<br/>
-    Whilst there is evidence to support the physiological effects of US in laboratory or animal studies, (Mortimer & Dyson 1988) evidence for its clinical effectiveness in people with rheumatic conditions is limited (Brosseau et al 2004, Zhang et al 2007) and it is only recommended for those with arthritis of the hand (Casimiro et al 2002, Welch et al 2001). Moreover, a recent review concludes US may only be effective for people with carpal tunnel syndrome and those with calcific tendonitis of the shoulder (Roberston & Baker 2001) despite being a frequently used electrophysical modality in musculoskeletal conditions (Kitchen & Partridge 1996)."
 </h5>
 
-<h4><b>Additional Reading:</b></h4>
+<h4><b>Sanggunian:</b></h4>
 <h5>
-<b>[1]</b> <a class="webServiceLink" target="_blank" href="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/nintendoDotCom.md">Notes on Prohibitions In using the Nintendo Account Service</a>
+1) <a class="webServiceLink" target="_blank" href="https://www.google.com"> GOOGLE SEARCH ENGINE</a>; TRANSLATE<br/>
+2) <a class="webServiceLink" target="_blank" href="https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1F"> https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1F</a>; last accessed: 20220630
 </h5>
 
+
+<h4><b>Dagdag:</b></h4>
+<h5>
+LIFESTYLE CHANGE = Pagbabago ng Pamumuhay
+</h5>
+
+<h4><b>Paalala:</b></h4>
+<h5>
+    Isalin ang mga pangalan na may kinalaman sa Panggagamot,<br/>
+    --> mula Wikang Ingles tungo sa Wikang Hapon,<br/>
+    --> at mula Wikang Hapon tungo sa Wikang Filipino<br/>
+</h5>
+
+
+<h4>3.2) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
+<h5>
+3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ6P5KPJQ6PPTLC00T.html?iref=comtop_Tech_science_03">サイバー攻撃受けた徳島の病院、22日から通常診療　電子カルテ復旧</a>;<br/>
+last accessed: 20220707; from 20220623
+<br/><br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+サイバー攻撃受けた徳島の病院、22日から通常診療　電子カルテ復旧</b><br/>
+</p>
+</blockquote>
+
+<br/>
+Dumanas ng CYBER ATTACK and Pagamutan ng TOKUSHIMA (sa Bansang Hapon),<br/>
+Mula ika-22, balik-karaniwang gamutan na ulit;<br/>
+Naibalik ang mga DIGITAL CHART;<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+吉田博行2022年6月21日 19時00分</b><br/>
+</p>
+</blockquote>
+
+<br/>
+YOSHIDA, HIROYUKI; 2022-06-21; 19:00
+<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+ランサムウェア（身代金ウイルス）によるサイバー攻撃を受けた徳島県鳴門市の医療法人久仁会「鳴門山上病院」は21日、電子カルテなどが復旧したとして、22日から通常診療を再開すると発表した。</b><br/>
+</p>
+</blockquote>
+
+<br/>
+Sinalakay ng CYBER ATTACK na RANSOMWARE (VIRUS na maaayos kapalit ng pera), ang "Pagamutan ng NARUTO YAMAGAMI" ng Samahan ng Manggamot ng KUNI, sa Lungsod NARUTO ng TOKUSHIMA-KEN; Nitong ika-21, naibalik ang mga DIGITAL CHART, atbp; Ipinahayag din na muling balik-karaniwan na ang Pagamutan mula ika-22.
+<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+19日に受けたサイバー攻撃で、電子カルテにアクセスできなくなっていた。再診患者の受け入れや入院患者の治療に支障はなかったが、20日から新規患者の受け入れを停止していた。</b><br/>
+</p>
+</blockquote>
+
+<br/>
+Nitong ika-19, hindi na sila makagawa ng ACCESS sa mga DIGITAL CHART, dahil sa CYBER ATTACK. Tumigil ang pagtanggap ng mga bagong may-sakit mula ika-20, bagama't hindi naman naging baldado ang kanilang pagtanggap ng mga bumabalik na MAY-SAKIT at ang mga ginagamot na ipinasok sa Pagamutan.
+<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+病院は被害を受けたシステムの復旧作業を進め、21日に「一部の安全な端末で電子カルテ、院内ネットワーク稼働が可能になる」と発表。22日から新規患者の受け入れを含め、可能な範囲で通常診療を再開するという。</b><br/>
+</p>
+</blockquote>
+
+<br/>
+Ipinahayag ng Pagamutan ang pagtuloy sa balik-gawaan ng kanilang sistemang dumanas ng pagtama, at ng ika-21, "Maaari nang pakilusin (maghanap-buhay) ang network sa loob ng Pagamutan, at gamit ang isang bahagi ng ligtas na mga kompyuter, may ACCESS na sa mga DIGITAL CHART". Sinasabing naibalik ang pagbukas sa karaniwang gamutan gamit ang ligtas na bahagi, kabilang na ang paglalagay ng mga bagong may-sakit mula ika-22.
+<br/>
+<br/>
+
+<blockquote class="usbongBlockquote">
+<p>
+また県によると、病院からは「今のところ個人情報の流出は確認されていない」と報告があったという。県警が、ウイルスの侵入経路などを調べている。（吉田博行）</b><br/>
+</p>
+</blockquote>
+
+<br/>
+Dagdag pa, ayon sa pook KEN, sinasabing may report mula sa Pagamutan: "Hindi pa natitiyak kung may dumaloy pailabas ng mga pansariling (pribadong) BALITA sa kasalukuyan." Sinisiyasat na ng Pulis ng pook KEN, ang pinasok na daan ng VIRUS, atbp. (YOSHIDA, HIROYUKI)
+<br/>
+<br/>
 
 <br/>
 <br/>
