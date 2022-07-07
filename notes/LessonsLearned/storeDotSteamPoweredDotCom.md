@@ -6,11 +6,13 @@
 
 ### Keyphrase to Cause PURCHASE:
 
-re-verified: PRICE @PHP304.15 (discounted 65% of 869PHP)
+1) re-verified: PRICE @PHP304.15 (discounted 65% of 869PHP)
 
-> Westwood Studios元メンバー達の手により4Kフルリマスターで蘇る。
+2) available languages (besides English): Deutsch, et cetera
 
-Buhaying sa 4K FULL REMASTER, sa tulong ng mga dating Kasapi ng Westwood Studios;
+3) > Westwood Studios元メンバー達の手により4Kフルリマスターで蘇る。
+
+Buhayin sa 4K FULL REMASTER, sa tulong ng mga dating Kasapi ng Westwood Studios;
 
 ### Dagdag
 
@@ -23,7 +25,7 @@ Buhaying sa 4K FULL REMASTER, sa tulong ng mga dating Kasapi ng Westwood Studios
 
 2) observed: self to remember enjoying more GAMES in the 1990's; <br/>
 <b>Example Systems:</b> Sega Gamegear, Super Family Computer, Arcade, <br/>
-PlayStation, Nintendo Gameboy Color, Personal Computer (PC)
+Sony PlayStation, Nintendo Gameboy Color, Personal Computer (PC)
 
 ## STEAM + PROTON
 
