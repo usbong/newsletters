@@ -12,6 +12,83 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [潰瘍性大腸炎の治療に「ミニ臓器」　患者本人の細胞から作出　世界初](https://www.asahi.com/articles/ASQ776T1ZQ76UTFL02M.html?iref=comtop_Tech_science_02); last accessed: 20220708
+
+> 潰瘍性大腸炎の治療に「ミニ臓器」　患者本人の細胞から作出　世界初
+
+Una sa Daigdig: MINI Lamang LALAGYAN;<br/>
+Binuo mula sa Manipis na Balot (CELL) ng May-sakit<br/>
+sa panglulunas ng Nasusunog na Pakiramdam <br/>
+ng Malaking Bahagi ng Tiyan (LARGE INTESTINE)<br/>
+na may Sakit sa Pagpisa (ULCER)<br/>
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 野口憲太2022年7月8日 7時00分
+
+NOGUCHI, KENTA; 2022-07-08T07:00
+
+
+東京医科歯科大学は7日、大腸の粘膜に炎症が起こる難病「潰瘍（かいよう）性大腸炎」の患者1人に対して、患者本人から採取した細胞を増やして腸の「ミニ臓器（腸上皮オルガノイド）」を作り、患部に移植したと発表した。この大腸炎に限らず、治療のためにオルガノイドを患者に移植したのは、世界で初めてという。
+
+Ika-7, ipinahayag ng Malaking Paaralan<br/>
+ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin,<br/>
+na nailipat sa May-sakit ang binuong <br/>
+MINI Lamang LALAGYAN (Balat ng Tiyan na ORGANOID)<br/>
+mula sa pagdagdag ng ginagamit niyang Manipis na Balot,<br/>
+upang bigyang-lunas ang "Sunog <br/>
+sa Malaking Bahagi ng Tiyan<br/>
+na may Sakit sa Pagpisa (ULCER)"<br/>
+<br/>
+Una sa daigdig;<br/>
+inilapat sa May-sakit<br/>
+ang ORGANOID<br/>
+upang bigyang-lunas hindi lamang<br/>
+ang Nasusunog na Pakiramdam<br/>
+sa Malaking Bahagi ng Tiyan.
+
+
+>　潰瘍性大腸炎は、大腸の粘膜で慢性的な炎症が起きる難病で、腹痛や下痢、血便などの症状が続く。
+
+Sunog sa Malaking Bahagi ng Tiyan<br/>
+na may Sakit sa Pagpisa (ULCER):<br/>
+<br/>
+Mahirap na sakit na nagaganap<br/>
+dulot ng Mabagal na Nasusunog na Pakiramdam,<br/>
+sa Malagkit na Takip (MEMBRANE)<br/>
+ng Malaking Bahagi ng Tiyan (LARGE INTESTINE);<br/>
+Tuluy-tuloy na karamdaman<br/>
+na may dugo sa dumi, pagtatae, <br/>
+pananakit ng tiyan, atbp
+
+> 国内には22万人の患者がいると推計される。薬で炎症を抑える治療が一般的だが、傷ついた粘膜が治らないと、大腸を摘出する手術が必要になる場合もある。
+
+Sa loob ng Kaharian, nasusukat na may <br/>
+220K ang May-sakit na ito.<br/>
+Bagama't karaniwan ang paggamit ng GAMOT<br/>
+upang malunasan ito sa pamamagitan<br/>
+ng pangangasiwa (CONTROL) ng Nasusunog na Pakiramdam,<br/>
+kapag hindi nalunasan ang nasugatang<br/>
+Malagkit na Takip, nangyayari rin<br/>
+ang pangangailangang ilabas ang Malaking Bahagi ng Tiyan<br/>
+gamit ang Paraan ng Kamay (SURGERY).
+
+>　東京医科歯科大の臨床研究チ…
+
+Ang pangkat ng mananaliksik ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin...
+
+> この記事は有料会員記事です。残り362文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 362titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian:
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+2) Japanese-English Dictrionary (JED) Android Application
+3) PLECO Chinese-English Dictionary Android Application
+
+
 ## [大企業製造業の景況感が2期連続悪化　6月日銀短観、非製造業は改善](https://www.asahi.com/articles/ASQ6Z7J6YQ6XULFA01Z.html?iref=comtop_Topnews2_01); last accessed: 20220706
 
 > 大企業製造業の景況感が2期連続悪化　6月日銀短観、非製造業は改善
