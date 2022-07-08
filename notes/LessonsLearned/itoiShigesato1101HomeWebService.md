@@ -4,6 +4,74 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html; 
+last accessed: 20220708
+
+>「日本は生産力を失っている」というような、<br/>
+>　あんまりうれしくない使われ方をしていることが多い。
+
+"Talo na ang LAKAS ng paglikha ng Hapon";<br/>
+Marami ang ganitong hindi gaanong<br/>
+maligayang pananalita.
+
+>　なにかを「産みはじめる」ことのほうが、<br/>
+>　もっと語られたり、実行されたりしなきゃと思うのだ。
+
+Upang mayroong kung anong "simulang ilikha",<br/>
+sa aking isipan, kailangan ang higit na maraming<br/>
+pagsasalaysay, pagkikilos nang tunay, atbp.
+
+>　「ああでもない、こうでもない」の会議をしているだけで、<br/>
+>　時間なんかいくらでもつぶせる。
+
+Ilang panahon ang maigagasta <br/>
+sa mga pagpupulong upang magsabi nito:<br/>
+"Hindi ganoon, hindi ganito..."
+
+>　何ヶ月もかけて、立派な意見、深い考え、広い視野を、<br/>
+>　みんなで出しあっているだけでは、なにも始まらない。
+
+Pagkalipas ng ilang buwan, <br/>
+naglalabas lamang ng mga magaling na pananaw,<br/>
+malalim na pagninilay, malawak na pagtingin;<br/>
+wala namang sinisimulan.
+
+>　そういう会議みたいな状況がずっと続いている。
+
+Tuluy-tuloy ang ganoong kalagayan ng pagpupulong.
+
+> ただ、同じものを大量につくる「生産力」では困る。<br/>
+>　要らないものはただの「在庫」になるだけだ。
+
+Gayunpaman, suliranin sa "LAKAS ng PAGLIKHA"<br/>
+ang maramihang pagbuo ng katulad na bagay.<br/>
+Magiging tambak lamang sa LALAGYAN <br/>
+ang mga hindi kailangang bagay.
+
+> そして、「産む」は、いまさらな言い方だけれど、<br/>
+>　「創造的＝クリエイティブ」でなきゃね、だと思うのよ。
+
+Pagkatapos, iniisip kong ang paglikha,<br/>
+sa kasalukuyan mang pananalita,<br/>
+kailangan nito: "INOBASYON=CREATIVE"
+
+### paalala: INOBASYON = PANIBAGONG PAGBUO
+
+>　「クリエイティブ」ということばは、一時言われすぎて、<br/>
+>　もう古びてしまったように思われがちだが、
+
+Bagama't naging luma na <br/>
+ang salitang, "CREATIVE",<br/>
+dulot ng pansamantala man,<br/>
+labis nitong paggamit,
+
+>　ほんとうは「産む」のいちばん根幹のところだ。
+
+ang totoo niyan, ang "PAGLIKHA" <br/>
+ang pinakapook ng ugat nito.
+
+
+
 ## https://www.1101.com/home.html;
 last accessed: 20220630
 
