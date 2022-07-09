@@ -12,6 +12,44 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [【詳報】安倍元首相、銃撃され死亡　容疑者宅からは爆発物も見つかる](https://www.asahi.com/articles/ASQ784TG7Q78DIFI00J.html?iref=comtop_ThemeLeftS_01); last accessed: 20220709
+
+>【詳報】安倍元首相、銃撃され死亡　容疑者宅からは爆発物も見つかる
+
+May nilalaman na Balita: Ang dating Punong Ministrong si ABE, binaril, PATAY;<br/>
+<br/>
+Natagpuan sa tirahan ng Madaling Paghinalaang Tao,
+Bagay na Pampasabog;
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年7月9日 0時41分
+
+2022-07-09T0:41
+
+
+>　奈良市の近鉄大和西大寺駅付近で発砲音があり、駅前で街頭演説をしていた安倍晋三元首相が倒れ、救急搬送され、死亡しました。警察関係者によると、安倍氏は散弾銃のようなもので撃たれたといいます。警察は奈良市の山上徹也容疑者（41）を殺人未遂容疑で現行犯逮捕しています。状況を速報します。
+
+Pumanao na ang dating Punong Ministro na si ABE, SHINZOU;
+Sa Lungsod ng NARA, malapit sa Sakayan-Babaan ng Tren ng "Malapit na Bakal; Malaking Ginhawa; Sa Kanluran, Malaking Simbahan", may narinig na pagsabog na tunog;
+
+Sa harapan ng Sakayan-Babaan ng Tren, sa ulo ng Daan, nagtatalumpati ang Dating Punong Ministrong si ABE, SHINZOU; 
+
+Tumaob ang Dating Punong Ministro; agad na sinaklalohan at idinala tungo sa Pagamutan; Gayunpaman, namatay. 
+
+Ayon sa taong may ugnayan sa Pulis, sinasabing tinamaan ng tila kumakalat na bala ng baril si G. ABE. 
+
+Hinuli ng Pulis ng Lungsod NARA ang Madaling Paghinalaang Tao na si YAMAGAMI, TETSUYA (41) dahil sa Madaling Paghinalaan sa kasalukuyang ginawang sala na Pagpatay ng Tao bagama't hindi Natapos; 
+
+Mabilis na binabalita ang kalagayan ng pangyayari.
+
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [潰瘍性大腸炎の治療に「ミニ臓器」　患者本人の細胞から作出　世界初](https://www.asahi.com/articles/ASQ776T1ZQ76UTFL02M.html?iref=comtop_Tech_science_02); last accessed: 20220708
 
 > 潰瘍性大腸炎の治療に「ミニ臓器」　患者本人の細胞から作出　世界初
