@@ -12,6 +12,50 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [【そもそも解説】人が月に行く「アルテミス計画」とは？　日本も参加](https://www.asahi.com/articles/photo/AS20220709000053.html); last accessed: 20220711
+
+> 【そもそも解説】人が月に行く「アルテミス計画」とは？　日本も参加
+
+Sa simula't simulang Paliwanag:<br/>
+Tutungo ang Tao sa Buwan; <br/>
+Ano ang "ARTEMIS: Sinukat na Larawan"?<br/>
+Lalahok din ang Pinagmumulan ng Araw (Bansang Hapon)<br/>
+
+> 写真・図版
+
+Tunay na Sulat (Larawan)・Sinukat na Lathala<br/>
+<br/>
+ARTEMIS: Sinukat na Larawan (PLANO)<br/>
+ARTEMIS = Sa Usapang Panginoon ng GRESYA, Babaeng<br/> Panginoon ng Buwan;<br/>
+<br/>
+Daigdig -> Pagbuo ng BASE (Tuldok ng Pook)<br/>
+Sa mukha ng Buwan, magtatag ng pangunahing lupa (pundasyon);<br/>
+Sa ORBIT (ginagabayang daan) ng Buwan, ISTASYON sa Kalawakan (GATEWAY)<br/>
+<br/>
+Sa mga Taon ng 2030<br/>
+sa Apoy na Bituin (MARS), pagsiyasat ng MAY Tao<br/>
+
+### Sinukat na Larawan#1:
+ROCKET na WALANG Tao <br/>
+2022-08;<br/>
+Lilipad sa paligid ng Buwan,<br/>
+Babalik sa Bilog na Lupa (Planeta)
+
+### Sinukat na Larawan#1:
+Paglipad ng MAY Tao<br/>
+Taong 2024
+
+### Sinukat na Larawan#3:
+Paglapag ng unang Babae sa Mukha ng Buwan<br/>
+Taong 2025
+
+### Dagdag
+https://www.asahi.com/articles/ASQ757QLLQ6PULBH00Q.html?iref=comtop_Tech_science_03; last accessed: 20220711
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [【詳報】安倍元首相、銃撃され死亡　容疑者宅からは爆発物も見つかる](https://www.asahi.com/articles/ASQ784TG7Q78DIFI00J.html?iref=comtop_ThemeLeftS_01); last accessed: 20220709
 
 >【詳報】安倍元首相、銃撃され死亡　容疑者宅からは爆発物も見つかる
