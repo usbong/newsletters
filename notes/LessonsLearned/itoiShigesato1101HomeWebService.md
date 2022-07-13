@@ -4,6 +4,191 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html;
+last accessed: 20220712; <br/>
+--> Translation executed on 20220713
+
+> ・「お通夜のたのしい人になりたい」という理想を考えて、<br/>
+>　それからずっとそう言い続けている。
+
+"Nais kong maging taong maligaya sa pagdaan ng gabi";<br/>
+Ito ang aking pinagninilayang HUWARAN (may dahilan na pag-iisip).<br/>
+at tuluy-tuloy na pinagsasabi.
+
+>　名誉だとか財であるとか、真善美であるとかを、<br/>
+>　そんなに望む気にはなれない。
+
+Ang MAKILALA, ang YUMAMAN, ang TUNAY na MABUTI't MAGANDA:<br/>
+Hindi hinahangad ng aking kaluluwa ang mga iyon.
+
+>　ぼくがこの世からいなくなったときに、
+
+Sa panahong mawala na ako sa daigdig na ito,
+
+>　そのことを口実に人が集まって、みんなでいつまでも<br/>
+>　あれこれの思い出やら冗談やらをしゃべり続けるのだ。
+
+Iyon ang magiging bunga ng bibig ng mga taong nagtipon;<br/>
+ang lahat, at magpakailan man, tuluy-tuloy na mag-uusap-usap <br/>
+ng mga alaalang iyon at nito, magbibiruan, atbp.
+
+>　せっかくぼくが亡くなっているのに、
+
+Namatay na nga ako,
+
+>　そこにいるみんながあんまり悲しそうじゃない。
+
+mukhang hindi malungkot ang lahat ng naroon.
+
+>　適当になにやらうまそうなものを食ったり、
+
+Maayos na kumakain ng kung anong mukhang masarap,
+
+>　酒やらお茶やらジュースやらを飲んで笑っている。
+
+Nagtatawanan, nagsisiinuman ng SAKE, TSAA, DYUS (JUICE), atbp.
+
+>　その通夜は昼間から始まって深夜まで終わらず、
+
+Ang pagdaan ng gabing ganoon, magsisimula mula hapon,<br/>
+at hindi magwawakas kahit hanggang sa ikalaliman ng gabi, 
+
+>　夜中になってから「また来たよ」なんて人もいたりして、
+
+Nang maging kalagitnaan na ng gabi, <br/>
+may taong magsasabi ng tulad nito: "Sa uulitin ha!",
+
+>　ちょっとひと眠りしてから明日また会おうとか、
+
+pagkatapos ng kaunting pag-iglip,
+magkita-kita ulit bukas, atbp 
+
+>　ぼくのことなんか忘れておしゃべりしている。
+
+Nag-uusap-usap, kinalimutan na ako;
+
+>　老若男女が入り混じって、初対面どうしが挨拶なんかして、
+
+Naghahalu-halo ang matanda't bata, lalake't babae,<br/>
+nagbabatian ang mga unang nagkaharapan,
+
+>　なんだったら子どもは子どもで集まって遊んでいたりね。
+
+kung ganoon, naglalaruan naman ang mga nagtipon na mga bata bilang bata.<br/>
+
+>　「これはいい通夜だ。毎日でもやったらいいよ」
+
+"Ayos itong pagdaan ng gabi. Ayos din kung aaraw-arawin!"
+
+>　と間抜けなことを言う馬鹿なんかもいるけれど、
+
+may BOBO (Kabayong Usa) mang magsasabi ng ganoon,
+
+>　そのたのしい通夜に、だれよりも参加したいのは、
+
+sa maligayang pagdaan ng gabi, higit sa kahit sino, <br/>
+ang nais na lumahok nito:
+
+>　棺桶の中で横になっているはずのぼくだ。
+
+AKO na nakatagilid sa loob ng kabaong.
+
+>　「生きておれの通夜に出たかった」と霊魂がつぶやくのだ。
+
+"Nais kong mabuhay at lumabas tungo roon sa pagdaan ng gabi (na inihanda sa akin)",<br/>
+mahinang sasabihin ng aking kaluluwa.
+
+>　そういう通夜をやりたいという明るい希望があって、
+
+Mayroon akong maliwanag na pag-asang nais kong gawin ang ganoong pagdaan ng gabi,
+
+>　いまのぼくは生きているような気がする。
+
+iyon ang pakiramdam ng aking kasalukuyang nabubuhay na sarili.
+
+>　これを読んでる人も、みんな来ていいからね。
+
+Ayos din na dumating lahat ng mga taong nagbabasa nito ha.
+
+>　入場無料で、24時間出入り自由だからね。
+
+Walang bayad ang pagpasok, malayang lumabas-masok sa loob ng 24 (oras) na panahon.
+
+>　料理、ドリンクもきっとフリーなはずだよ。
+
+tiyak na FREE (GRATIS) din ang pagkain, at inumin.
+
+>　「喪服ガールズ」の歌や踊りは欠かせないな。
+
+Hindi kukulangin ang awitin ng "Mga babaeng nakadamit pangluksa", sayawan, atbp.
+
+>　時期も場所も未定だけれど、みんな、よろしくね。
+
+Hindi pa man pinagpasiyahan ang panahon at pook, kayong lahat, dalaw kayo ha.
+
+> ・京都で、ともだちの命日前夜に親しい人が集まって、
+
+Sa KYOTO, nagtipun-tipon ang mga magkalapit na tao sa gabi bago ang Araw ng Buhay ng aming kaibigan,
+
+>　コロナ以来久しぶりの食事会をした。
+
+pagkatapos maganap ang CORONA, matagal bago kami nakapagsama-sama upang magkainan.
+
+>　それぞれ、まったくちがう日々を送っているのだけれど、
+
+Bawat isa, ibang-iba man ang mga araw na pinagdaanan,
+
+>　話題は尽きずにずっとおいしくたのしく過ごしていた。
+
+tuluy-tuloy ang masarap at maligaya naming pagpalipas nang hindi natatapos na usapan;
+
+>　４人しかいないテーブルだったけれど、
+
+Bagama't apatan lamang ang mesa,
+
+>　ここには５人いたと思える時間だった。
+
+Dito maiisip na pang limahan ang panahon.
+
+>　犬の話やら、赤ん坊の話だとか、ともだちが聞いていた。
+
+Usapang aso, usapang sanggol, atbp nagsipakinigan ang mga magkakaibigan.
+
+>　いろいろなことがあったよ、また聞かせるよ。
+
+Samu't saring mga bagay ang nangyari! Makinig ulit kayo ha!
+
+>　ホテルに帰ってから、ぼくの夢の通夜のことも、<br/>
+>　きっと実現するんじゃないかと自信が深まった。
+
+Pag-uwi sa HOTEL, lumalim ang aking tiwala sa sariling <br/>
+tiyak na magiging tunay rin ang aking panaginip na pagdaan ng gabi.
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+
+Ngayong araw din po, salamat sa pagdalaw sa "HALOS ARAW".
+
+> その日までは、なんだかがんばれるような気がするんだよ。
+
+Hanggang sa araw na iyon, pakiramdam kong gagalingan ko pa.
+
+> 昨日の「今日のダーリン」を読み逃した方はこちら。
+
+Narito po ang kahapon ng "Ngayong araw ng DARLING" sa mga taong pinalipas ang pagbasa.
+
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+
+Isinalin mula Wikang Hapon sa Wikang Filipino habang pinakikinggan ito, atbp:<br/>
+<br/>
+https://github.com/usbong/usbongV2/blob/main/notes/sound/tabi/20220712/Tinig%20372%20referenceCarpenters-IWon'tLastADayWithoutYouNote20220712T1934%7E1954ElapsedTime20MinsG'NG.m4a<br/>
+<br/>
+Maaalala ang yumaong Dating Punong Ministrong si: ABE, SHINZOU
+
+
 ## https://www.1101.com/home.html; 
 last accessed: 20220708
 
