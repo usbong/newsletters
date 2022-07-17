@@ -33,11 +33,16 @@ Sony PlayStation, Nintendo Gameboy Color, Personal Computer (PC)
 
 ### C&C Red Alert via Linux Ubuntu + Proton work-in-progress
 
-remembered: ANITO re-installation in Windows7 Machine after over 10 years
+remembered: <b>ANITO</b> re-installation in Windows7 Machine after over 10 years
 
-<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/anitoYear2004SystemRequirements20220717T1920.jpg" width="60%">
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/anitoPCYear2003SystemRequirements20220717T1920.jpg" width="60%">
 
-<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/anitoYear200420220717T1919.jpg" width="60%">
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/anitoPCYear200320220717T1919.jpg" width="60%">
+
+#### remembered: ALAMAT ng AGIMAT: ANIM NA PERLAS
+--> Nokia/Sony Ericsson Series Mobile Telephone; JAVA 2 Microedition (Year 2004)<br/>
+--> adds: did NOT use available TIME to PLAY <b>ANITO</b> after QUICK verification;<br/>
+--> opted: to increase know-how via actual WORK on COMPUTER GAME DEVELOPMENT
 
 ## STEAM + PROTON
 
