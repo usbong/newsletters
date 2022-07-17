@@ -27,6 +27,18 @@ Buhayin sa 4K FULL REMASTER, sa tulong ng mga dating Kasapi ng Westwood Studios;
 <b>Example Systems:</b> Sega Gamegear, Super Family Computer, Arcade, <br/>
 Sony PlayStation, Nintendo Gameboy Color, Personal Computer (PC)
 
+[Command & Conquer™ Remastered Collection](https://store.steampowered.com/news/app/1213210/view/2255687723361166342)
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/c%26cRedAlertRemasteredLinuxUbuntuProtonNoteRememberedAnitoReInstallationInWindows7MachineAfterOver10YearsWorkInProgressV20220717T0900.jpg" width="60%">
+
+### C&C Red Alert via Linux Ubuntu + Proton work-in-progress
+
+remembered: ANITO re-installation in Windows7 Machine after over 10 years
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/anitoYear2004SystemRequirements20220717T1920.jpg" width="60%">
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/anitoYear200420220717T1919.jpg" width="60%">
+
 ## STEAM + PROTON
 
 https://www.protondb.com/; last accessed: 20220707
