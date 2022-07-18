@@ -12,6 +12,71 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [中国産マグロを台湾産と表示　豊洲市場の「大卸」、2.3万本販売](https://www.asahi.com/articles/ASQ7J2SV0Q7HUTIL03M.html?iref=comtop_Life_02); last accessed: 20220718
+
+> 中国産マグロを台湾産と表示　豊洲市場の「大卸」、2.3万本販売
+
+Ipinalabas na Gawang TAIWAN ang TUNA ng TSINA;<br/>
+Sa Pamilihan ng TOYOSU, "Malaking Benta"<br/>
+23K ISDA Naibenta;
+
+> 前川浩之2022年7月16日 9時57分
+
+MAEKAWA, HIROYUKI; 2022-07-16T09:57
+
+> 中国産のマグロを台湾産などと表示して販売
+
+BENTA, nang ipinalabas na Gawang TAIWAN ang TUNA ng TSINA
+
+> 農林水産省
+
+Tagangasiwa ng Gawaan sa Taniman, Kahuyan, at Palaisdaan
+
+> 15日、東京・豊洲市場の水産物卸売会社「築地魚市場」（東京都江東区）
+
+Ika-15, "Pamilihan ng ISDA ng TSUKIJI" (Samahan ng Bentahan ng Isda) sa Pamilihan ng TOYOSU sa TOKYO; Lungsod TOKYO, Bahaging KOUTOU
+
+> 事実と異なる表示は、同社が2018年4月～昨年10月、133社の仲卸業者などに売った冷凍メバチマグロで、計2万3530本（1376トン）にのぼる。
+
+Umakyat ang bilang ng pagkakaiba ng ipinalabas sa tunay nito; 2018-04 hanggang nakaraang taon ng Okutbre, ibinenta ang pinalamig na BIG EYE TUNA (MEBACHI MAGURO) sa 133 samahan ng Mangangalakal ng Bentahan; Sinukat sa 23,530 ISDA (1375 ton).
+
+> 8割は中国産を台湾産と表示し、日本インド洋産を台湾産に、中国産をバヌアツ産にした例もあった。同社によると、扱う冷凍マグロの2割で表示が異なっていたという。
+
+80% nito, ipinalabas ito:<br/>
+Gawang Taiwan ang Gawang Tsina;<br/>
+<br/>
+Ipinalabas din ito bilang halimbawa;<br/>
+Gawang Taiwan ang Gawang Dagat sa Bansang Hapon at INDIA,<br/>
+Gawang Vanuatu ang Gawang Tsina;<br/>
+<br/>
+Ayon sa nasabing samahan, <br/>
+sinasabing IBA ang ipinalabas ng 20% <br/>
+ng inasikasong pinalamig na TUNA;<br/>
+
+> 農水省によれば、同社は世界中からマグロを買い付けて豊洲市場で競りにかける「大卸」の5社の一つ
+
+Ayon sa Tagangasiwa ng Taniman at Palaisdaan,<br/>
+isa sa limang Samahan ang nabanggit <br/>
+sa mga bumibili mula sa loob ng Daigdag ng TUNA,<br/>
+at nakikipagtunggali sa "Malaking Benta"<br/>
+sa Pamilihan ng TOYOSU.<br/>
+
+> 同社の大竹利夫取締役常務執行役員は朝日新聞の取材に「制度の理解が不十分で、担当者がよく確認せずに表示していた」と説明した。
+
+Ipinaliwanag ni OHTAKE, TOSHIO (Punong Tagangasiwa ng Tagapagpatupad ng Karaniwaang Tungkulin) ng nabanggit na Samahan
+sa ASAHI SHIMBUN (DYARYO) bilang makukuhang gamit (sa balita) ito:
+"Hindi lubusang nauunawaan ng Tagangasiwa ang patakaran (Nibel ng Higpit), at walang maiging pagtitiyak sa paglalabas (ng pangalan kung saan Gawa)"
+
+>　大竹氏によると、昨年4月からの農水省検査の過程で、不適切な表示が昨年10月になって発覚し、同11月からは表示を改めたという。同社は農水相に8月にも、是正結果や再発防止策などを報告する。（前川浩之）
+
+Ayon kay G. OHTAKE, mula Abril ng nakaraang taon, bilang panglipas ng hakbang (proceso) ng pagsisiyasat ng Tagangasiwa ng Taniman at Palaisdaan, Oktubre ng nakaraan taon nang namulat sila sa hindi ayos na pagpapalabas; At sinasabing inayos ang pagpapalabas mula Nobyembre ng nabanggit na taon. Ipinahayag ng nabanggit na Samahan sa Taniman at Palaisdaan ng Agosto rin, ang wastong kinahinatnan, ang paraan upang muling masangga't itigl ito, atbp. (MAEKAWA, HIROYUKI)
+
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+2) Japanese-English Dictionary Android Application
+3) PLECO Chinese Mandarin Android Application
+
 ## [【そもそも解説】人が月に行く「アルテミス計画」とは？　日本も参加](https://www.asahi.com/articles/photo/AS20220709000053.html); last accessed: 20220711
 
 > 【そもそも解説】人が月に行く「アルテミス計画」とは？　日本も参加
