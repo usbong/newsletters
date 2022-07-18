@@ -533,13 +533,25 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			--> <b>UPS</b> device remained connected to <b>electrical outlet</b> to <b>refill electricity</b><br/>			
 			<br/>
 			<b>Current ACTION:</b><br/>
-			1) using: recycled L<b>ENOVO IdeaPad with BATTERY</b> as Computer Server<br/>
+			1) using: recycled <b>LENOVO IdeaPad with BATTERY</b> as Computer Server<br/>
 			--> where: <b>IdeaPad</b> classified to be <b>Laptop Computer</b><br/>
 			--> observed: execution of <b>Computer Web Browser</b>, e.g. Mozilla Firefox, to have <b>noticeable DELAY</b><br/>
 			<br/>
-			--> <b>OUTPUT:</b> opted: to <b>USE another Computer</b> for Web Browser ACTIONS<br/>
+			<b>OUTPUT:</b> opted: to <b>USE another Computer</b> for Web Browser ACTIONS<br/>
 			<br/>
-			--> adds: however, <b>applications</b> that I wrote in the following Computer Language <b>execute</b> WITHOUT noticeable DELAY:<br/>
+			<br/>
+				TO-DO: -add: TABLET PC photograph<br/>
+			<br/>
+			<br/>
+			<b>Additional Note:</b><br/>
+			1) installed: in <b>LENOVO IdeaPad</b>, the following Web Server Tools:<br/>
+			1.1) <a class="webServiceLink" target="_blank" href="https://httpd.apache.org/">Apache Web Server</a><br/>			
+			1.2) <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a><br/>						
+			1.3) <a class="webServiceLink" target="_blank" href="https://www.phpmyadmin.net/">phpMyAdmin Tools</a><br/>
+			<br/>
+			--> With this <b>Computer Server</b>, <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">XAMPP</a> <b>did NOT install successfully</b> as with another <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a> <b>Computer Server</b><br/>
+			<br/>
+			--> adds: however, <b>applications</b> that I wrote in the following Computer Languages <b>execute</b> WITHOUT noticeable DELAY:<br/>
 			<br/>			
 			1.1) <b>C/C++ COMPUTER LANGUAGE</b><br/>
 			1.2) <a class="webServiceLink" target="_blank" href="https://www.java.com/en/">JAVA COMPUTER LANGUAGE</a></b>
