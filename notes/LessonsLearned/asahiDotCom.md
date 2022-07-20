@@ -12,6 +12,52 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+https://www.asahi.com/articles/ASQ7M6HM2Q7MULFA01Y.html?iref=comtop_Business_05;
+last accessed: 20220720
+
+> トヨタ、8月生産は15万台減　半導体不足などで
+
+TOYOTA, sa Agosto, <br/>
+Bababa ang Inilalabas na Gawang Makina ng mga 150K<br/>
+Dulot ng hindi sapat na TRANSISTOR, atbp;
+
+#### TRANSISTOR = 半導体 (Kalahating Ginagabayang Katawan)
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na Kasapi
+
+> 奈良部健2022年7月19日 19時56分
+
+NARABE, KEN; 2022-07-19T1956
+
+> トヨタ自動車は19日、8月の世界生産を年初の計画から約15万台減らし、70万台程度にすると発表した。半導体が不足するなど部品の供給が滞り、減産幅が広がっている。
+
+Nitong ika-19, ipinahayag ng TOYOTA (Sariling Kumikilos na Sasakyan) na sa Agosto ibababa mula sa Sinukat na Larawan ng simula ng taon, ng mga 150K ang Gawang Makinang kanilang ilalabas sa daigdig; Gagawing nasa 700K ang magiging kabuuan nito. Bumagal ang SUPPLY (Pagbabahagi); hindi sapat ang TRANSISTOR, atbp mga bahagi; Lumalago ang lawak ng pagbaba ng Gawa.
+
+>　年初計画に比べ5、6月はそ…
+
+Kung ihahambing ang Sinukat na Larawan ng simula ng taon, sa Mayo, Hunyo...
+
+> この記事は有料会員記事です。残り271文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 271titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+<br/>
+--<br/>
+<br/>
+
+> トヨタ自動車社旗=2021年3月、愛知県豊田市<br/>
+
+Watawat ng Samahan ng TOYOTA (Sariling Kumikilos na Sasakyan)<br/>
+=2021-03, AICHI-KEN, Lungsod TOYODA
+
+## Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [中国産マグロを台湾産と表示　豊洲市場の「大卸」、2.3万本販売](https://www.asahi.com/articles/ASQ7J2SV0Q7HUTIL03M.html?iref=comtop_Life_02); last accessed: 20220718
 
 > 中国産マグロを台湾産と表示　豊洲市場の「大卸」、2.3万本販売
