@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220718; from 20220707
+  @date updated: 20220721; from 20220718
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -580,7 +580,43 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <br/>
 <br/>
-
+TO-DO: -update: this</br>
+</br>
+</br>
+b) <b>SINGLE PROPRIETOR: BIR FORM 1701</b></br>
+1st Quarter 15-APR</br>
+2nd Quarter 15-AUG</br>
+3rd Quarter 15-NOV</br>
+Annual 15-APR (Following Year)</br>
+</br>
+</br>
+eBIR Form No. 1701Qv2018</br>
+</br>
+TABLE 1 - Tax Rates (effective January 1, 2018 to December 31, 2022)</br>
+If Taxable Income is:  Tax Due is:  </br>
+Not over P250,000  0%  </br>
+Over P250,000 but not over P400,000  20% of the excess over P250,000  </br>
+Over P400,000 but not over P800,000  P30,000 + 25% of the excess over P400,000  </br>
+Over P800,000 but not over P2,000,000  P130,000 + 30% of the excess over P800,000  </br>
+Over P2,000,000 but not over P8,000,000  P490,000 + 32% of the excess over P2,000,000  </br>
+Over P8,000,000  P2,410,000 + 35% of the excess over P8,000,000  </br>
+</br>
+TABLE 2 - Tax Rates (effective January 1, 2023 and onwards) </br>
+If Taxable Income is:  Tax Due is:  </br>
+Not over P250,000  0%  </br>
+Over P250,000 but not over P400,000  15% of the excess over P250,000  </br>
+Over P400,000 but not over P800,000  22,500 + 20% of the excess over P400,000  </br>
+Over P800,000 but not over P2,000,000  102,500 + 25% of the excess over P800,000  </br>
+Over P2,000,000 but not over P8,000,000  402,500 + 30% of the excess over P2,000,000  </br>
+Over P8,000,000  P2,202,500 + 35% of the excess over P8,000,000  </br>
+ 
+</br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <b>QUICK START-UP</b>;<br/>
 --> where: <b>START-UP</b> : <b>VEHICLE ENGINE IGNITION</b><br/>
