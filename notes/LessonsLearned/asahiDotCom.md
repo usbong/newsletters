@@ -55,7 +55,7 @@ Ayon sa Pook ng Pananaliksik ng Maparaang Pag-aaral ng Paglalathala, isama man a
 
 > 出版不況について福井さんは「海賊版だけが原因ではない」と指摘。「ネットの発達で、もはやギガ（１０億）コンテンツの時代となり、激増した無料・低廉の作品にプロの作品が押されている」
 
-Ukol sa hindi ayos na kalagayan ng lathalan, tinuro ni G. FUKUI ito: "Hindi lamang sanhi ang Piratang Lathala. Dahil sa pagdating ng INTERNET, marahil nang maging panahon na ng GIGA (1Bilyon) CONTENTS, nakagugulat ang bilis ng mga Walang Bayad at Mababang Halaga ng mga LIKHA, na tinutulak paalis ang mga LIKHA ng PRO."
+Ukol sa hindi ayos na kalagayan ng lathaan, tinuro ni G. FUKUI ito: "Hindi lamang sanhi ang Piratang Lathala. Dahil sa pagdating ng INTERNET, marahil nang maging panahon na ng GIGA (1Bilyon) CONTENTS, nakagugulat ang bilis ng mga Walang Bayad at Mababang Halaga ng mga LIKHA, na tinutulak paalis ang mga LIKHA ng PRO."
 
 > 一方で、環太平洋経済連携協定（ＴＰＰ）により、著作権の保護期間が作者の死後５０年から７０年に延びることが決まっている。
 
