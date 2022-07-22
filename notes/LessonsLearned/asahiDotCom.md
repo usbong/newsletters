@@ -105,7 +105,7 @@ Dumarating ang Karapatan ng May-akda sa saglit ng pagkasilang ng kanyang LIKHA. 
 
 ### --
 
-Author Rights arise the moment the masterpiece is born. "70years after death", the son of the grandchild of the author substitutes as the protector, such that there is fear that the distribution of the masterpiece becomes obstructed." Mr. FUKUI complains against such extension.
+Author Rights arise the moment the masterpiece is born. "70years after death", the son of the grandchild of the author substitutes as the protector, such that there is fear that the distribution of the masterpiece becomes hindered." Mr. FUKUI complains against such extension.
 
 >　著作権が切れれば、作品をネットで公開する「デジタルアーカイブ」などで過去の作品に光が当たりやすくなる。
 
