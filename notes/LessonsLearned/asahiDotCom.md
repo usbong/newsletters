@@ -36,8 +36,7 @@ Sulat: UEDA, MAYUMI, KIMURA, NAOKI;<br/>
 > 弁護士の福井健策さん
 
 Mag-aaral ng Tagapagtanggol ng Salita (Abogado): G. FUKUI, KENSAKU; <br/> 
-May-akda ng "Pagpasok ng Karapatan <br/> 
-ng 18taon gulang na May-akda", atbp,<br/> 
+May-akda ng "Pagpasok ng Karapatan ng 18taon gulang na May-akda", atbp,<br/> 
 
 > 「漫画で絶版状態になってしまう本が多いのはなぜでしょう」と問うと、「出版点数と巻数が多いので書店の棚があふれ、古い作品は消えやすい」と正解が出て、驚く場面もあった。
 
