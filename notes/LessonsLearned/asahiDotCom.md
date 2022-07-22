@@ -59,7 +59,7 @@ Ukol sa hindi ayos na kalagayan ng lathalan, tinuro ni G. FUKUI ito: "Hindi lama
 
 > 一方で、環太平洋経済連携協定（ＴＰＰ）により、著作権の保護期間が作者の死後５０年から７０年に延びることが決まっている。
 
-Sa isang banda, ayon sa Pinagpasiyang Pagtutulungan ng mga Magkadikit na EKONOMIYA sa Ikot ng Patag na Dagat (Dagat Pasipiko) (TPP), pinagpasiyan na mula 50taon ng pagkamatay ng taong Lumikha, 70taon na ang Panahon ng Pagtatanggol ng Karapatan ng May-akda.
+Sa isang banda, ayon sa Pinagpasiyang Pagtutulungan ng mga Magkadikit na EKONOMIYA sa Ikot ng Patag na Dagat (Dagat Pasipiko) (TPP), pinagpasiyan na mula 50taon ng pagkamatay ng Taong lumikha, 70taon na ang Panahon ng Pagtatanggol ng Karapatan ng May-akda.
 
 >　著作権は、作品が生まれた瞬間に発生する。「死後７０年」となると作者のひ孫の代まで保護されることになり、かえって作品の流通が妨げられる恐れがあるとして福井さんは延長反対を訴えてきた。
 
