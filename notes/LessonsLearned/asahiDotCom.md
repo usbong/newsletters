@@ -69,7 +69,7 @@ Nang lumabas itong Wastong Sagot, may nagulat din sa tanghalan:
 
 ### --
 
-When we ask, "WHY could it be that there are many MANGA (COMIC) books that have ended up in a situation of out-of-publication," there was also those surprised, after the CORRECT ANSWER came out: <br/>
+When we ask, "WHY could it be that there are many MANGA (COMIC) books that have ended up in a situation of out-of-publication," there were also those surprised, after the CORRECT ANSWER came out: <br/>
 <br/>
 "Because there are many published and serial works, the shelves of Bookstore are overflown, making it is easy for old Masterpieces to disappear."
 
