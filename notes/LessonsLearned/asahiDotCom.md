@@ -35,8 +35,7 @@ Sulat: UEDA, MAYUMI, KIMURA, NAOKI;<br/>
 > 『１８歳の著作権入門』などの著者で
 > 弁護士の福井健策さん
 
-Mag-aaral ng Tagapagtanggol ng Salita (Abogado): <br/> 
-G. FUKUI, KENSAKU; <br/> 
+Mag-aaral ng Tagapagtanggol ng Salita (Abogado): G. FUKUI, KENSAKU; <br/> 
 May-akda ng "Pagpasok ng Karapatan <br/> 
 ng 18taon gulang na May-akda", atbp,<br/> 
 
@@ -46,7 +45,7 @@ Kapag itinanong kung "BAKIT kaya marami ang mga aklat MANGA (KOMIKS) na may kala
 
 Nang lumabas itong Wastong Sagot, may nagulat sa tanghalan:
 
-"Sapagkat marami ang bilang ng mga Inilalathala at ang mga magkasunod na Aklat, umaapaw ang lagayan ng mga ito sa Tindahan ng Aklat; Kaya naman, madaling mawala ang mga lumang LIKHA."
+"Sapagkat marami ang bilang ng mga inilalathala at ang mga magkasunod na Aklat, umaapaw ang lagayan ng mga ito sa Tindahan ng Aklat; Kaya naman, madaling mawala ang mga lumang LIKHA."
 
 > 出版科学研究所によると、昨年の紙の出版物の推定販売額は１兆３千億円で最盛期の半分で、電子出版市場を含めても前年割れだ。
 
@@ -56,7 +55,7 @@ Ayon sa Pook ng Pananaliksik ng Maparaang Pag-aaral ng Paglalathala, isama man a
 
 > 出版不況について福井さんは「海賊版だけが原因ではない」と指摘。「ネットの発達で、もはやギガ（１０億）コンテンツの時代となり、激増した無料・低廉の作品にプロの作品が押されている」
 
-Ukol sa hindi ayos na kalagayan ng lathalan, tinuro ni G. FUKUI ito: "Hindi lamang sanhi ang Piratang Lathala. Dahil sa pagdating ng INTERNET, marahil nang maging panahon na ng GIGA (1Bilyon) CONTENTS, nakagugulat ang bilis ng mga Walang Bayad at Mababang Halaga ng mga Binuong Gawa, na tinutulak paalis ang mga LIKHA ng PRO."
+Ukol sa hindi ayos na kalagayan ng lathalan, tinuro ni G. FUKUI ito: "Hindi lamang sanhi ang Piratang Lathala. Dahil sa pagdating ng INTERNET, marahil nang maging panahon na ng GIGA (1Bilyon) CONTENTS, nakagugulat ang bilis ng mga Walang Bayad at Mababang Halaga ng mga LIKHA, na tinutulak paalis ang mga LIKHA ng PRO."
 
 > 一方で、環太平洋経済連携協定（ＴＰＰ）により、著作権の保護期間が作者の死後５０年から７０年に延びることが決まっている。
 
