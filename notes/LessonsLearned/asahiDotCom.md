@@ -20,16 +20,32 @@ Piratang Lathala, Walang Bayad...<br/>
 Sa Panahon ng GIGA CONTENTS<br/> 
 Mga LIKHA ng PRO at Karapatan ng May-akda<br/> 
 
+### --
+
+Pirated Version, FREE... <br/> 
+In the age of GIGA CONTENTS,<br/> 
+PRO Masterpieces and Author Rights 
+
 ### GIGA : 1,000,000,000 (Bilyon); 
 
 > 有料会員記事
 
 Sulatin sa nagbabayad na kasapi
 
+### --
+
+Article for Paying Members
+
 > 聞き手・赤田康和、文・上田真由美、木村尚貴2018年10月1日 16時34分
 
 Tagapakinig: AKADA, YASUKAZU;<br/> 
 Sulat: UEDA, MAYUMI, KIMURA, NAOKI;<br/> 
+2018-10-01T16:34
+
+### --
+
+Listener: AKADA, YASUKAZU;<br/>
+Writing: UEDA, MAYUMI, KIMURA, NAOKI;<br/>
 2018-10-01T16:34
 
 > 『１８歳の著作権入門』などの著者で
@@ -38,17 +54,32 @@ Sulat: UEDA, MAYUMI, KIMURA, NAOKI;<br/>
 Mag-aaral ng Tagapagtanggol ng Salita (Abogado): G. FUKUI, KENSAKU; <br/> 
 May-akda ng "Pagpasok ng Karapatan ng 18taon gulang na May-akda", atbp,<br/> 
 
+### --
+
+Attorney: FUKUI, KENSAKU<br/>
+Author of "The Entering of the Rights of 18Year Old Authors"
+
 > 「漫画で絶版状態になってしまう本が多いのはなぜでしょう」と問うと、「出版点数と巻数が多いので書店の棚があふれ、古い作品は消えやすい」と正解が出て、驚く場面もあった。
 
 Kapag itinanong kung "BAKIT kaya marami ang mga aklat MANGA (KOMIKS) na may kalagayan na UBOS na sa paglathala?<br/>
 
-Nang lumabas itong Wastong Sagot, may nagulat sa tanghalan:
+Nang lumabas itong Wastong Sagot, may nagulat din sa tanghalan:
 
 "Sapagkat marami ang bilang ng mga inilalathala at ang mga magkasunod na Aklat, umaapaw ang lagayan ng mga ito sa Tindahan ng Aklat; Kaya naman, madaling mawala ang mga lumang LIKHA."
+
+### --
+
+When we ask, "WHY could it be that there are many MANGA (COMIC) books that have ended up in a situation of out-of-publication," there was also those surprised, after the CORRECT ANSWER came out: <br/>
+<br/>
+"Because there are many published and serial works, the shelves of Bookstore are overflown, making it is easy for old Masterpieces to disappear."
 
 > 出版科学研究所によると、昨年の紙の出版物の推定販売額は１兆３千億円で最盛期の半分で、電子出版市場を含めても前年割れだ。
 
 Ayon sa Pook ng Pananaliksik ng Maparaang Pag-aaral ng Paglalathala, isama man ang Pamilihan ng Digital na Lathala, HATI ng nakaraang taon ang sinukat ng nabentang bilang ng mga inilathalang papel ng nakaraang taon sa 1.3 Trilyon yen, KALAHATI ng pinakasaganang panahon; 
+
+### --
+
+According to the Research Unit on the Science of Publishing, even including the Digital Publishing Market, last year's Amount of Estimated Sold Published Items in Paper is 1.3 Trilyon yen, a part that is only HALF of the most prolific period.
 
 #### １兆３千億円 = 1,300,000,000,000
 
@@ -56,37 +87,77 @@ Ayon sa Pook ng Pananaliksik ng Maparaang Pag-aaral ng Paglalathala, isama man a
 
 Ukol sa hindi ayos na kalagayan ng lathaan, tinuro ni G. FUKUI ito: "Hindi lamang sanhi ang Piratang Lathala. Dahil sa pagdating ng INTERNET, marahil nang maging panahon na ng GIGA (1Bilyon) CONTENTS, nakagugulat ang bilis ng mga Walang Bayad at Mababang Halaga ng mga LIKHA, na tinutulak paalis ang mga LIKHA ng PRO."
 
+### --
+
+Regarding the dismal publishing situation, Mr. FUKUI pointed: "The reason is NOT only due to PIRATED Publications. Due to the arrival of the INTERNET, perhaps when it became the AGE of GIGA (1 billon) CONTENTS, the PRO masterpieces were being pushed aside by the QUICK INCREASE of FREE and LOW VALUE works."
+
 > 一方で、環太平洋経済連携協定（ＴＰＰ）により、著作権の保護期間が作者の死後５０年から７０年に延びることが決まっている。
 
 Sa isang banda, ayon sa Pinagpasiyang Pagtutulungan ng mga Magkadikit na EKONOMIYA sa Ikot ng Patag na Dagat (Dagat Pasipiko) (TPP), pinagpasiyan na mula 50taon ng pagkamatay ng Taong lumikha, 70taon na ang Panahon ng Pagtatanggol ng Karapatan ng May-akda.
+
+### --
+
+On the one side, according to the Trans-Pacific Partnership (TPP), it has been decided that the protected period of Author Rights is extended from 50years to 70years.
 
 >　著作権は、作品が生まれた瞬間に発生する。「死後７０年」となると作者のひ孫の代まで保護されることになり、かえって作品の流通が妨げられる恐れがあるとして福井さんは延長反対を訴えてきた。
 
 Dumarating ang Karapatan ng May-akda sa saglit ng pagkasilang ng kanyang LIKHA. 70taon pagkatapos niyang yumao, pumapalit ang anak ng kanyang apo bilang tagapagtanggol nito, kung kaya't may takot na mahadlangan pa ang pagdaloy ng kanyang LIKHA. Dito dinaing ni G. FUKUI ang kanyang paglaban sa paghaba nito.
 
+### --
+
+Author Rights arise the moment the masterpiece is born. "70years after death", the son of the grandchild of the author substitutes as the protector, such that there is fear that the distribution of the masterpiece becomes obstructed." Mr. FUKUI complains against such extension.
+
 >　著作権が切れれば、作品をネットで公開する「デジタルアーカイブ」などで過去の作品に光が当たりやすくなる。
 
 Kapag naputol na ang Karapatan ng May-akda, madali nang matamaan ng liwanag ang mga nakaraang LIKHA dulot ng Pagbukas Publiko ng mga LIKHA tulad ng "DIGITAL ARCHIVE", atbp sa Internet.
 
+### --
+
+When the Author Rights are severed, it becomes easier to shed light on PAST masterpieces due to the public opening for such things on the INTERNET via among others: the "DIGITAL ARCHIVE".
+
 > 映画化や翻訳、出版もしやすくなり、出版界の活性化につながる。
 
-May ugnayan sa pagbuhay ng Daigdig ng Paglathala ang pagbabago ng mga Inilalarawan (Pelikula), Isinasaling Sulatin, ang mga Inilalathala rin, atbp.
+May ugnayan sa pagbuhay ng Daigdig ng Paglathala ang madaling paggawa ng pagbabago ng mga Inilalarawan (Pelikula), Isinasaling Sulatin, ang mga Inilalathala rin, atbp.
+
+### --
+
+There is a connection between the life of the Publishing World and the ease of making change in MOVIES, written translation, and also publishing.
 
 > 「保護期間の延長で、過去の作品が埋没し忘れ去られたりする可能性が高まる」
 
-"Dahil sa mahabang panahon ng pagtatanggol, tumataas ang pagkakataong mabaon sa limot ang mga nakaraang LIKHA."
+"Dahil sa mahabang panahon ng pagtatanggol, tumataas ang pagkakataong mabaon sa limot ang mga nakaraang LIKHA, atbp"
 
+### --
+
+"There is a high possibility that due to the extension of the period of protection, past masterpieces shall be buried, left forgotten, and so on."
 
 >　著作権法は「文化の発展」を…
 
 May ginagawa ang Batas ng Karapatang May-akda sa "Pagpalabas ng Pagbabago ng mga Sinulat (KULTURA)"...
 
+### --
+
+The LAW on Author Rights impacts "Culture Development"...
+
 > この記事は有料会員記事です。残り695文字有料会員になると続きをお読みいただけます。
 
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 695 na titik; Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
 
+### --
+
+This article is for Paying Members. There remain 695 characters. When you become a paying member, you may be able to read the continuation.
+
 ### Sanggunian:
+
 GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+
+--> Maalala habang isinasalin mula Wikang Hapon tungo sa Wikang Ingles ang paraan ng pagsusulat sa mga Magasin tulad ng "THE ECONOMIST".<br/>
+<br/>
+--> Halimbawa: mga salita ng ginagamit, paraan ng pangungusap;
+
+
 
 ## [トヨタ、8月生産は15万台減　半導体不足などで](https://www.asahi.com/articles/ASQ7M6HM2Q7MULFA01Y.html?iref=comtop_Business_05); last accessed: 20220720
 
