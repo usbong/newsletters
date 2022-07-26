@@ -12,6 +12,66 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [加藤智大死刑囚の死刑を執行　2008年に東京・秋葉原で無差別殺傷](https://www.asahi.com/articles/ASQ7V2VDBQ7VUTIL002.html?iref=comtop_7_01); last accessed: 20220726
+
+> 加藤智大死刑囚の死刑を執行　2008年に東京・秋葉原で無差別殺傷
+
+Isinakatuparan ang Parusang KAMATAYAN<br/>
+kay KATOU, TOMOHIRO, Bilanggo<br/> 
+ng Parusang Kamatayan
+
+Taong 2008. sa TOKYO・AKIHABARA,<br/>
+pumaslang at nanugat nang walang pagbubukod
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年7月26日 9時17分
+
+2022-07-26T09:17
+
+
+> 法務省は26日、2008年に東京・秋葉原で無差別に7人を殺害し、10人に重軽傷を負わせたとして殺人罪などで死刑が確定した加藤智大（ともひろ）死刑囚（39）について、死刑を執行した。関係者への取材でわかった。
+
+Ukol kay KATOU, TOMOHIRO (39), Bilanggo ng Parusang Kamatayan, isinakatuparan ng Pook ng may Tungkulin sa Batas nitong ika-26 araw ang pinagpasiyahang tiyak na KAMATAYAN, dulot ng Parusa sa Pagpatay ng Tao, atbp; Taong 2008, sa TOKYO・AKIHABARA, 7 tao ang walang pagbubukod na kanyang pinaslang; 10 tao ang nagdala ng mabibigat at magagaang sugat. Natuklasan ito mula sa nakalap na balita ng kaugnay na tao.
+
+> 　死刑の執行は、昨年12月に2事件で計3人が執行されて以来、約7カ月ぶりで、古川禎久法相の就任後は2度目。
+
+Ang Pagsasakatuparan ng Parusang Kamatayan: <br/>
+<br/>
+Pagkatapos isakatuparan ng ika-12 buwan ng nakaraang taon, may 2 itong pangyayari, 3 tao ang sinukat na kabuuan. Mga 7 buwan din ang lumipas, bago nagkaroon muli ng pagsasakatuparan. Pangalawa ito nang maglingod sa tungkulin si YOSHIKAWA, FURUKAWA, bilang Pinuno ng Ministro ng BATAS.
+
+>    [今なお共鳴、加藤死刑囚の孤独　ネットに書き込み絶えず](https://www.asahi.com/articles/ASL6700F3L66UTIL072.html?iref=pc_extlink); last accessed: 20220725
+
+Walang tigil ang pagsusulat sa INTERNET<br/>
+ng kasalukuyang magkasamang tinig,<br/> 
+ukol sa malungkot na pag-iisa ng Bilanggo<br/> 
+sa Parusang KAMATAYAN na si KATOU<br/>
+
+>　確定判決によると、元派遣社員の加藤死刑囚は08年6月8日午後0時半ごろ、自らが運転するトラックで秋葉原の歩行者天国に突入し、3人をはねて殺害、2人にけがを負わせた。さらに、トラックを降りてダガーナイフで4人を刺殺し、8人にけがをさせた。
+
+Ayon sa tiyak na pagpapasiya, ipinasok patusok ng dating ipinadalang Manggagawa na si KATOU, ang Bilanggo sa Parusang Kamatayan, ang kanyang sariling ipinakikilos na TRUCK sa Kaharian ng Langit na daanan ng tao sa AKIHABARA, 3 tao ang tinamaan, pinaslang, at 2 tao ang nagdala ng sugat. Dagdag pa, bumaba siya ng TRUCK, at 4 na tao ang pinatay sa saksak gamit ang DAGGER KNIFE (patalim), 8 tao ang sinugatan.
+
+>　亡くなったのは当時19～74歳の男女7人で、買い物などの最中だった。加藤死刑囚は駆けつけた警察官に現行犯逮捕された。
+
+　7 tao, lalake't babae, 19~74 taong gulang ang namatay nang panahong iyon; sa gitna ng pamimili. Hinabol upang hulihin ng Pulisiya ang sa kasalukuyang panahong iyong gumawa ng sala (krimen) na si KATOU, Bilanggo sa Parusang Kamatayan.
+
+> 加藤死刑囚は東京地裁で10…
+
+Ang Bilanggo sa Parusang Kamatayan na si KATOU, sa pook ng Hukom ng TOKYO...
+
+> この記事は有料会員記事です。残り488文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 488 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Dagdag na Sangguninan
+https://www.kantei.go.jp/jp/100_kishida/meibo/daijin/furukawa_yoshihisa.html; last accessed: 20220726
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [海賊版、無料…　ギガコンテンツ時代のプロ作品と著作権](https://www.asahi.com/articles/ASL9Q7KD1L9QUCVL00S.html?iref=comtop_ThemeLeftS_03); last accessed: 20220722
 
 > 海賊版、無料…　ギガコンテンツ時代のプロ作品と著作権
