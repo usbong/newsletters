@@ -5,6 +5,13 @@ https://www.1101.com/home.html<br/>
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
 ## https://www.1101.com/home.html;
+last accessed: 20220725; <br/>
+--> ESSAY keyphrase: <br/>
+--> MR. ITOI prefers: VICTORY : WIN with NO 勝負;<br/>
+--> where: 勝負 : CAN WIN/CAN LOSE;<br/>
+--> however, majority appears to prefer with 勝負;<br/>
+
+## https://www.1101.com/home.html;
 last accessed: 20220712; <br/>
 --> Translation executed on 20220713
 
