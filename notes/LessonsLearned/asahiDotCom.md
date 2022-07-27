@@ -66,7 +66,7 @@ Bawat taon, bilang pagsulong na pag-aaral tumutungo sa Pamantasan sa Ibayong Dag
 
 > この記事は有料会員記事です。残り4037文字有料会員になると続きをお読みいただけます。
 
-Sa nagbabayad na kasapi ang sulating ito. May natitira pang 4037 na titik. Kapag na naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 4037 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
 
 
 ## [加藤智大死刑囚の死刑を執行　2008年に東京・秋葉原で無差別殺傷](https://www.asahi.com/articles/ASQ7V2VDBQ7VUTIL002.html?iref=comtop_7_01); last accessed: 20220726
