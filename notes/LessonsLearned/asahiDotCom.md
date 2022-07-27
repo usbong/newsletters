@@ -12,6 +12,63 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [東大推薦入試、どんな生徒が合格?　7年連続で輩出　渋渋校長に聞く](https://www.asahi.com/articles/ASQ7T3JLPQ6YULZU00M.html?iref=comtop_7_03); last accessed: 20220727
+
+> 東大推薦入試、どんな生徒が合格?　7年連続で輩出　渋渋校長に聞く
+
+Ukol sa Pagsusulit ng PAGMUMUNGKAHI<br/>
+ng Pampasok sa Pamantasan ng TOKYO,<br/>
+Anong uri ng Mag-aaral ang pumapasa?<br/> 
+<br/>
+Tinanong ang Pinuno ng Paaralan ng SHIBUSHIBU;<br/>
+7 Taon na sunud-sunod na Naglalabas ng mga Pumapasa
+
+> 有料会員記事変わる進学
+
+Sa nagbabayad na kasapi;<br/>
+Sulating nagbabago sa pagsulong ng pag-aaral
+
+> 聞き手・編集委員 宮坂麻子2022年7月27日 7時00分
+
+Tagapakinig・Tauhan ng Mambubuklod:<br/>
+MIYASAKA, ASAKO; 20220727T0700
+
+> 東京大学の推薦入試と京都大学の特色入試で合格者を続々と出している学校はどんな教育をしているのでしょうか。校長に聞く５回シリーズの初回は、渋谷教育学園渋谷中学校・高校です。
+
+Ano kayang uri ng pagtuturo't pag-aalaga ang ginagawa ng paaralang nakapaglalabas ng sunud-sunod na mga Pumapasa sa Pagsusulit ng PAGMUMUNGKAHI na Pampasok sa Pamantasan ng TOKYO at ang bukod-tanging Pampasok na Pagsusulit sa Pamantasan ng KYOTO?<br/>
+<br/>
+Una sa 5 SERYE ng pagtatanong sa Pinuno ng Paaralan: Gitna at Mataas na Paaralan ng SHIBUYA; Pagtuturo't Pag-aalagang Paaralan sa SHIBUYA.
+
+> 本校は、2016年度入試から東京大学が導入した学校推薦型選抜で、毎年合格者を出しています。今年も3人合格しました。
+
+Mula Taong 2016 ng Pampasok na Pagsusulit, sa ipinakilala ng Pamantasan ng TOKYO sa mga Paaralan na Piling Paraan ng PAGMUMUNGKAHI, naglalabas taun-taon ng mga Pumapasa itong nabanggit na paaralan.
+
+### Paraan : HUGIS
+
+> 東大の学校推薦型の特徴は、大学の教育の軸に基づいた、アドミッションオフィスによる選抜が機能していることでしょう。海外大と違って専門官ではなく、教授の方々が審査をされていますが、「学部や研究室を活性化させる人材」を求めていることは明確です。
+
+Maaaring ginagamit talaga sa Pagpili ayon sa ADMISSION OFFICE ang bukod-tanging uri ng Paraan ng PAGMUMUNGKAHI ng Paaralan ng Pamantasan ng TOKYO, batay sa AKSIS ng Pagtuturo't Pag-aalaga ng Pamatansan.<br/>
+<br/>
+Iba sa mga Pamantasan sa Ibayong Dagat, hindi man mga Dalubhasa ang nagsisiyasa't nagpapasiyang mga ginagalang na Nagtuturo, tiyak na malinaw na hinahangad ang "Taong bubuhay sa Unit ng Pag-aaral, Silid ng Pananaliksik, atbp"
+
+
+>　受験した生徒から聞くと、高校側が提出した推薦文もよく読み込んでくださっている印象です。
+
+Kapag tinanong ang mga mag-aaral na kumuha ng pagsusulit, may bakat na maiging binabasa sa banda rin ng Mataas na Paaralan ang mga sulatin ng PAGMUMUNGKAHI na kanilang ipinapasa.
+
+> 記事後半では、同校から東大の推薦入試に合格した生徒が取り組んでいたことを紹介します。ある生徒は、動物園のおりの前で……。
+
+Sa kalahating bahagi pa ng sulatin, ipakikilala ang mga bagay na pinagkaabalahan ng mga Pumasang Mag-aaral sa Pagsusulit ng PAGMUMUNGKAHI na Pampasok sa Pamantasan ng TOKYO mula sa nabanggit na Paaralan. May mag-aaral na sa harap ng kulungan ng Halamanan ng mga Hayop (ZOO)...
+
+>　本校は毎年、海外大への進学…
+
+Bawat taon, bilang pagsulong na pag-aaral tumutungo sa Pamantasan sa Ibayong Dagat...
+
+> この記事は有料会員記事です。残り4037文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 4037 na titik. Kapag na naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+
 ## [加藤智大死刑囚の死刑を執行　2008年に東京・秋葉原で無差別殺傷](https://www.asahi.com/articles/ASQ7V2VDBQ7VUTIL002.html?iref=comtop_7_01); last accessed: 20220726
 
 > 加藤智大死刑囚の死刑を執行　2008年に東京・秋葉原で無差別殺傷
