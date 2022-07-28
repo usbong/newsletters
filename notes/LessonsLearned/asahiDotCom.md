@@ -51,7 +51,7 @@ Gayunpaman, matindi ang Pandaigdigang pakikipagtunggali, dulot ng pamumuhunan ng
 
 >　5月17日。東京都文京区の東大本郷キャンパスにある理学部の講義室。一杉さんは、化学科の約40人の学生に英語で呼びかけた。
 
-Ika-17 Araw ng ika-5 Buwan. Sa Silid ng Pagpupulong ng Unit ng Pag-aaral ng Dahilan sa Pinanggalingang Tahanang CAMPUS ng Pamantasan ng TOKYO, sa bahagi ng BUNKYOU ng Lungsod ng TOKYO. Sinimulang tawagin ni G. ICHISUGI ang mga 40 taong mag-aaral ng Agham ng Pag-aaral ng Pagbabago.
+Ika-17 Araw ng ika-5 Buwan. Sa Silid ng Pagpupulong ng Unit ng Pag-aaral ng Dahilan sa Tahanang CAMPUS ng Pamantasan ng TOKYO, sa bahagi ng BUNKYOU ng Lungsod ng TOKYO. Sinimulang tawagin ni G. ICHISUGI sa Wikang Ingles ang mga 40 taong mag-aaral ng Agham ng Pag-aaral ng Pagbabago.
 
 >　ノーベル賞の対象となった青色発光ダイオードやリチウムイオン電池など、材料科学は日本のお家芸の一つ。気候変動や海洋プラスチックごみ問題など地球規模の社会課題の解決に、重要性は増すばかりだ。だが、博士課程進学者の減少など、日本の研究力低下が指摘されている。
 
