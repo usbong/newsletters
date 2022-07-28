@@ -55,7 +55,7 @@ Ika-17 Araw ng ika-5 Buwan. Sa Silid ng Pagpupulong ng Unit ng Pag-aaral ng Dahi
 
 >　ノーベル賞の対象となった青色発光ダイオードやリチウムイオン電池など、材料科学は日本のお家芸の一つ。気候変動や海洋プラスチックごみ問題など地球規模の社会課題の解決に、重要性は増すばかりだ。だが、博士課程進学者の減少など、日本の研究力低下が指摘されている。
 
-Isa ang Agham ng Kagamitan sa iginagalang na Panitikan ng Pinanggagalingan ng Araw, dulot ng pagiging pakay ng Gantipala ng NOBEL ang kanilang DIODE na may Kulay-Bughaw na Paglabas ng Liwanag, LITHIUM-ION BATTERY (Lawa ng Kuryente). Kadadagdag pa lamang ang bigat ng pangangailangan upang lutasin ang mga paksa ng lipunan bilang hulma ng daigdig, tulad ng Pagbabagong Kilos ng Panahon, Suliranin ng itinatapong PLASTIK sa Karagatan, atbp. Gayunpaman, natutukoy ang pagbaba ng LAKAS ng Pananaliksik ng Pinanggagalingan ng Araw, dulot ng pagkaunti ng mga taong sumusulong sa pag-aaral sa paraan ng Mag-aaral ng Dalubhasa.
+Isa ang Agham ng Kagamitan sa iginagalang na Panitikan ng Pinanggagalingan ng Araw, dulot ng pagiging pakay ng Gantipala ng NOBEL ang kanilang DIODE na may Kulay-Bughaw na Paglabas ng Liwanag, LITHIUM-ION BATTERY (Lawa ng Kuryente). Kadadagdag pa lamang ang bigat ng pangangailangan upang lutasin ang mga paksa ng lipunan bilang hulma ng daigdig, tulad ng Pagbabagong Kilos ng Panahon, Suliranin ng itinatapong PLASTIK sa Karagatan, atbp. Gayunpaman, natutukoy ang pagbaba ng LAKAS ng Pananaliksik ng Pinanggagalingan ng Araw, dulot ng pagkaunti ng mga taong sumusulong sa pag-aaral sa paraan ng Dalubhasang Mag-aaral.
 
 >　長年、日本の材料研究を支え…
 
