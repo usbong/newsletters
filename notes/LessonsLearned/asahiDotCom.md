@@ -95,7 +95,7 @@ Una sa 5 SERYE ng pagtatanong sa Pinuno ng Paaralan: Gitna at Mataas na Paaralan
 
 > 本校は、2016年度入試から東京大学が導入した学校推薦型選抜で、毎年合格者を出しています。今年も3人合格しました。
 
-Mula Taong 2016 ng Pampasok na Pagsusulit, sa ipinakilala ng Pamantasan ng TOKYO sa mga Paaralan na Piling Paraan ng PAGMUMUNGKAHI, naglalabas taun-taon ng mga Pumapasa itong nabanggit na paaralan.
+Mula Taong 2016 ng Pampasok na Pagsusulit, sa ipinakilala ng Pamantasan ng TOKYO sa mga Paaralan na Piling Paraan ng PAGMUMUNGKAHI, naglalabas taun-taon ng mga Pumapasa itong nabanggit na paaralan. Ngayong taon din, 3 ang pumasa.
 
 ### Paraan : HUGIS
 
@@ -240,7 +240,7 @@ Nang lumabas itong Wastong Sagot, may nagulat din sa tanghalan:
 
 ### --
 
-When we ask, "WHY could it be that there are many MANGA (COMIC) books that have ended up in a situation of out-of-publication," there were also those surprised, after the CORRECT ANSWER came out: <br/>
+When we asked, "WHY could it be that there are many MANGA (COMIC) books that have ended up in a situation of out-of-publication," there were also those surprised, after the CORRECT ANSWER came out: <br/>
 <br/>
 "Because there are many published and serial works, the shelves of Bookstore are overflown, making it is easy for old Masterpieces to disappear."
 
