@@ -12,6 +12,60 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [お家芸の材料科学、AIロボで世界へ　東大教授「二刀流を育てたい」](https://www.asahi.com/articles/ASQ7W52T5Q7MULBH00D.html?iref=comtop_7_05); last accessed: 20220728
+
+> お家芸の材料科学、AIロボで世界へ　東大教授「二刀流を育てたい」
+
+Agham ng Kagamitan sa iginagalang na Panitikan,<br/>
+gamit ang ROBO na may AI, tungo sa DAIGDIG<br/>
+Mangangaral ng Pamantasan ng TOKYO:<br/>
+"Nais kong alagaan ang may Dalawang Daloy na Patalim"
+
+### Agham = May Pagbubukod na Pag-aaral 
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 桜井林太郎2022年7月28日 9時00分
+
+SAKURAI, HAYASHITAROU; 20220728T0900
+
+>　材料科学は日本が最も得意とする研究分野の一つだ。
+
+Isa ang Agham ng Kagamitan sa larangan ng pananaliksik na pinakamay pagtanggap mula sa Pinanggagalingan ng Araw (Bansang Hapon).
+
+> だが、圧倒的な研究資金を投入する中国の台頭など、国際競争が激しい。
+
+Gayunpaman, matindi ang Pandaigdigang pakikipagtunggali, dulot ng pamumuhunan ng salapi sa pananaliksik ng Pamunuan ng Gitnang Kaharian (Tsina), atbp.
+
+> 15年ぶりに母校に戻った東京大学教授の一杉太郎さん（50）は、人工知能（AI）を持つ実験ロボットで勝機を見いだそうとしている。
+
+15 Taon ang lumipas bago makabalik sa kanyang Inang Paaralan ang Mangangaral ng Pamantasan ng TOKYO na si G. ICHISUGI, TAROU (50). Ito'y upang subukang maipakitang manalo ang kanyang isinakatuparang ROBOT na may dalang AI (Taong Pinabilis ang Kaalaman at Kakayanan).
+
+>　「将棋の藤井聡太さんが大変いいことを言っていました。AIでインスパイアーされる、と。AIとロボットができることを人間がするのではなく、人間しかできないことに集中する。広い視野を持ち、使いこなす側にならないと」
+
+"Nagsabi si FUJII, SOUTA ng SHOUGI nitong lubhang AYOS na bagay: sa AI, nabibigyan tayo ng pag-uudyok ("INSPIRE"). Huwag nating TAO gawin ang magagawa ng AI at ROBOT; sa halip, tutukan natin ang hindi nagagawa ng TAO. Dala ang malawak na larangan ng pagtingin, kailangang naroon tayo sa banda kung saan lubusan nating magagamit ang mga ito."
+
+### MALUBHA : MALAKING PAGBABAGO
+
+>　5月17日。東京都文京区の東大本郷キャンパスにある理学部の講義室。一杉さんは、化学科の約40人の学生に英語で呼びかけた。
+
+Ika-17 Araw ng ika-5 Buwan. Sa Silid ng Pagpupulong ng Unit ng Pag-aaral ng Dahilan sa Pinanggalingang Tahanang CAMPUS ng Pamantasan ng TOKYO, sa bahagi ng BUNKYOU ng Lungsod ng TOKYO. Sinimulang tawagin ni G. ICHISUGI ang mga 40 taong mag-aaral ng Agham ng Pag-aaral ng Pagbabago.
+
+>　ノーベル賞の対象となった青色発光ダイオードやリチウムイオン電池など、材料科学は日本のお家芸の一つ。気候変動や海洋プラスチックごみ問題など地球規模の社会課題の解決に、重要性は増すばかりだ。だが、博士課程進学者の減少など、日本の研究力低下が指摘されている。
+
+Isa ang Agham ng Kagamitan sa iginagalang na Panitikan ng Pinanggagalingan ng Araw, dulot ng pagiging pakay ng Gantipala ng NOBEL ang kanilang DIODE na may Kulay-Bughaw na Paglabas ng Liwanag, LITHIUM-ION BATTERY (Lawa ng Kuryente). Kadadagdag pa lamang ang bigat ng pangangailangan upang lutasin ang mga paksa ng lipunan bilang hulma ng daigdig, tulad ng Pagbabagong Kilos ng Panahon, Suliranin ng itinatapong PLASTIK sa Karagatan, atbp. Gayunpaman, natutukoy ang pagbaba ng LAKAS ng Pananaliksik ng Pinanggagalingan ng Araw, dulot ng pagkaunti ng mga taong sumusulong sa pag-aaral sa paraan ng Mag-aaral ng Dalubhasa.
+
+>　長年、日本の材料研究を支え…
+
+Sa kahabaan ng taon, tinutulungan ang Pananaliksik ng Kagamitan ng Pinanggagalingan ng Araw...
+
+> この記事は有料会員記事です。残り2036文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na sulatin po ito. May natitira pang 2036titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+
 ## [東大推薦入試、どんな生徒が合格?　7年連続で輩出　渋渋校長に聞く](https://www.asahi.com/articles/ASQ7T3JLPQ6YULZU00M.html?iref=comtop_7_03); last accessed: 20220727
 
 > 東大推薦入試、どんな生徒が合格?　7年連続で輩出　渋渋校長に聞く
