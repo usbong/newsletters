@@ -12,11 +12,119 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [日比谷・翠嵐・浦和…東大合格が急増、塾に頼らぬ勉強術](https://www.asahi.com/articles/ASP4565SHP3YUTIL032.html?iref=pc_rellink_02); last accessed: 20220730
+
+> 日比谷・翠嵐・浦和…東大合格が急増、塾に頼らぬ勉強術
+
+Sa HIBIYA, SUIRAN, URAWA...<br/> 
+Mablis na pagtaas ng mga PASADO sa Pamantasan ng TOKYO;<br/>
+Ang Paraan ng Pag-aaral nang hindi umaasa sa Dagdag na Paaralan<br/>
+
+> 有料会員記事変わる進学
+
+Sulatin sa nagbabayad na kasapi;<br/>
+Nagbabagong pagsulong ng pag-aaral;
+
+> 川口敦子、宮坂麻子2021年4月6日 14時00分
+
+KAWAGUCHI, ATSUKO; MIYASAKA, ASAKO;<br/>
+2021-04-06T14:00
+
+> 東京都立日比谷、神奈川県立横浜翠嵐、埼玉県立浦和
+
+Lungsod TOKYO, sa HIBIYA,;<br/>
+KANAGAWA-KEN, Lungsod ng YOKOHAMA, sa SUIRAN;<br/>
+SAITAMA-KEN, sa URAWA;
+
+> 躍進の理由と指導法
+
+Dahilan ng palipad na pagsulong AT ang Paraan ng Paggabay at Pagtuturo
+
+> 日比谷式「計画的自習のススメ」
+
+Gawi sa HIBIYA: "Mungkahi ang Sariling Pag-aaral na may Sinukat na Larawan (PLANO)"
+
+> 中高; 模試
+
+Sa Gitna at Mataas na Paaralan: Hulmang Pagsusulit
+
+>　近年の東大合格者は、2018年度入試で48人、19年度は47人、20年度は東大は40人でしたが国公立の医学部医学科が倍増して43人に。そして今回は、東大63人（現役48人）で、ついに60人の壁を越えました。
+
+Mga PUMASA sa Pamantasan ng TOKYO sa malapit na mga taon;<br/>
+Taon 2018 ng Pampasok na Pagsusulit: 48 tao;<br/>
+Taong 2019 : 47 tao;<br/>
+Taong 2020 : 40 tao;<br/>
+<br/>
+Pinarami sa 43 tao ang pagtaas ng mga PASADO sa Agham ng Pag-aaral ng Panggagamot sa Unit ng Pag-aaral ng Panggagamot ng Pampublikong Paaralan ng Kaharian.
+
+### Pampubliko : Bukas sa Mamamayan
+
+> 国語・数学・英語の成績は悪くない
+
+Wika ng Kaharian; Pag-aaral ng Bilang; Wikang Ingles;
+Hindi masama ang natamong marka;
+
+> が、理科・社会が追いつかない
+
+Gayunpaman, hindi nila mahabol ang sa Agham ng Dahilan at Lipunan; 
+
+### Agham : Maparaang Pagbubuklod
+
+> 高2の秋に「自学習の指針」
+
+Sa Taglagas ng ika-2 ng Mataas ng Paaralan: 
+"May Gabay na Pagtuturo ng Sariling Pag-aaral at Pagkatuto"
+
+> 理社の各科目について「冬休みまでに、この教材の○ページ～○ページを、こういう狙いで取り組む」と細かく指定します。
+
+Ukol sa lahat ng tinututukan ng Agham sa Dahilan at Lipunan, mabusising pinagpasiyahang ituro ito: "Hanggang sa Pahinga ng Taglamig, asikasuhin ang tulad ng mga ganitong pakay ng Aklat (Bagay na Itinuturo) mula pahina ito hanggang ito..."
+
+> その通り完璧にやれば、塾に通わなくても十分成果が出せる。
+
+Kapag magawa nang walang mali ang ganoon, kahit hindi na pumunta sa Dagdag na Paaralan, mailalabas ang sapat na  bunga ng binuo.
+
+> 英語は高1から発表、高2でディベートをし、4技能をバランスよく高める。英語で議論するので文法や語彙（ごい）も学ばざるを得ない。
+
+Sa Wikang Ingles, mula ika-1 ng Mataas na Paaralan, pagpapahayag, sa ika-2, paggawa ng DEBATE, maiging itaas ang BALANSE ng 4 na Maparaang Kakayanan. Sapagkat makikipagtalakayan sa Wikang Ingles, kailangang aralin ang paraan ng sulatin (balarila), lista ng mga salita, atbp.
+
+>　模試の返却は学年集会で行い、課題を全員で共有し、「みんなで高める」。
+
+Sa pagsauli ng Hulmang Pagsusulit, may gagawing Pagpupulong ng mga Taon na Pinag-aaralan; may pagbabahagi sa lahat ng kasapi ng paksa, "Magkasama ang lahat sa Pag-angat"
+
+> 古文・漢文も含め、国数英は高2までに仕上げ、高3はウェートを増やす。
+
+Lumang Sulatin, kabilang ang Sulat Tsino, hanggang ika-2 ng Mataas na Paaralan ginagawa ang Kaharian, Bilangan, at Ingles. Pataasin ang bigat ng mga ito sa ika-3 ng Mataas na Paaralan.
+
+> コロナ下でも早期からオンライン授業を充実させ、特に高3生から「ありがたかった」と感謝されました。
+
+Kahit sa CORONA, mula pa sa maagang yugto, lubusang ipinagawa ang ONLINE na pagtanggap ng tungkulin (pag-aaral); Bukod-tanging pinasalamatan ito ng mag-aaral sa ika-3 ng Mataas na Paaralan: "Pasalamat".
+
+>　「1日のうちにも文武両道を」とも伝えます。行事で忙しい日も「文」つまり勉強は必ずやる。両方できてこそ日比谷生です。
+
+Ipinarating din ito: "Sa loob ng isang araw, tahakin ang dalawang daan ng Sulatin at Tapang". Kahit din abala ang araw sa kilusan, tiyak na gagawin ang "sulatin", ibig sabihin ang pag-aaral. Tunay na mag-aaral ng HIBIYA ang kayang gumawa ng dalawang ito.
+
+
+> 都立日比谷高校の武内彰・前校長=2021年3月31日、東京都千代田区の同校
+
+Mataas na Paaralan ng HIBIYA: TAKEUCHI, AKIRA (dating Pinuno ng Paaralan); 2021-03-31, Lungsod TOKYO, sa Bahagi ng CHIYODA ng nabanggit na Paaralan
+
+> 3月で退任しましたが、大学がゴールじゃない。日本や世界の未来を委ねられるような人間になってください。
+
+Bagama't umatras na sa tungkulin nitong ika-3 Buwan, hindi ang Malaking Paaralan ang kanyang pakay (GOAL). Maging tao na kayang baguhin ang hinaharap ng Pinanggagalingang ng Araw, ang Daigdig, atbp.
+
+> この記事は有料会員記事です。残り1637文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 1647 titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [お家芸の材料科学、AIロボで世界へ　東大教授「二刀流を育てたい」](https://www.asahi.com/articles/ASQ7W52T5Q7MULBH00D.html?iref=comtop_7_05); last accessed: 20220728
 
 > お家芸の材料科学、AIロボで世界へ　東大教授「二刀流を育てたい」
 
-Agham ng Kagamitan sa iginagalang na Panitikan,<br/>
+Agham ng Kagamitan sa iginagalang na Sining,<br/>
 gamit ang ROBO na may AI, tungo sa DAIGDIG<br/>
 Mangangaral ng Pamantasan ng TOKYO:<br/>
 "Nais kong alagaan ang may Dalawang Daloy na Patalim"
@@ -55,7 +163,7 @@ Ika-17 Araw ng ika-5 Buwan. Sa Silid ng Pagpupulong ng Unit ng Pag-aaral ng Dahi
 
 >　ノーベル賞の対象となった青色発光ダイオードやリチウムイオン電池など、材料科学は日本のお家芸の一つ。気候変動や海洋プラスチックごみ問題など地球規模の社会課題の解決に、重要性は増すばかりだ。だが、博士課程進学者の減少など、日本の研究力低下が指摘されている。
 
-Isa ang Agham ng Kagamitan sa iginagalang na Panitikan ng Pinanggagalingan ng Araw, dulot ng pagiging pakay ng Gantipala ng NOBEL ang kanilang DIODE na may Kulay-Bughaw na Paglabas ng Liwanag, LITHIUM-ION BATTERY (Lawa ng Kuryente). Kadadagdag pa lamang ang bigat ng pangangailangan upang lutasin ang mga paksa ng lipunan bilang hulma ng daigdig, tulad ng Pagbabagong Kilos ng Panahon, Suliranin ng itinatapong PLASTIK sa Karagatan, atbp. Gayunpaman, natutukoy ang pagbaba ng LAKAS ng Pananaliksik ng Pinanggagalingan ng Araw, dulot ng pagkaunti ng mga taong sumusulong sa pag-aaral sa paraan ng Dalubhasang Mag-aaral.
+Isa ang Agham ng Kagamitan sa iginagalang na Sining ng Pinanggagalingan ng Araw, dulot ng pagiging pakay ng Gantipala ng NOBEL ang kanilang DIODE na may Kulay-Bughaw na Paglabas ng Liwanag, LITHIUM-ION BATTERY (Lawa ng Kuryente). Kadadagdag pa lamang ang bigat ng pangangailangan upang lutasin ang mga paksa ng lipunan bilang hulma ng daigdig, tulad ng Pagbabagong Kilos ng Panahon, Suliranin ng itinatapong PLASTIK sa Karagatan, atbp. Gayunpaman, natutukoy ang pagbaba ng LAKAS ng Pananaliksik ng Pinanggagalingan ng Araw, dulot ng pagkaunti ng mga taong sumusulong sa pag-aaral sa paraan ng Dalubhasang Mag-aaral.
 
 >　長年、日本の材料研究を支え…
 
