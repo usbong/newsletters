@@ -12,6 +12,64 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「パワーの象徴」壊した意味　犯罪心理学者からみた銃撃容疑者の視界](https://www.asahi.com/articles/ASQ7V4W6CQ7QULEI006.html?iref=comtop_7_02); last accessed: 20220801
+
+>「パワーの象徴」壊した意味　犯罪心理学者からみた銃撃容疑者の視界
+
+Kahulugan ng Pagwasak ng "Sagisag ng KAPANGYARIHAN"<br/>
+Mula sa Mag-aaral ng Dahilan ng Isipan sa larangan ng Paggawa ng Kasalanan<br/>
+Ang Pagtingin ng Salarin
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+構成・忠鉢信一2022年8月1日 7時30分
+
+Pagkaayos; CHUUBACHI, SHINICHI; 2022-08-01T07:30
+
+> 安倍晋三元首相の銃撃事件を受け、刑務所や少年院で勤務経験があり、犯罪心理学者として多くの受刑者や非行少年を見てきた大阪大名誉教授の藤岡淳子さん（67）は、「世界平和統一家庭連合（旧統一教会）」を恨んで事件を起こしたとされる容疑者が、自分自身に降りかかった課題を誰かと一緒に、民主的な方法で解決しようとした形跡が見えないところに、社会の危うさを感じている。
+
+Tinanggap ang pangyayari ng pagsalakay ng baril sa Dating Punong Ministrong si ABE,SHINZOU, may karanasan sa tungkulin sa Kulungan, sa mga pook ng Kabataan, atbp, bilang Mag-aaral ng Dahilan ng Isipan sa larangan ng Paggawa ng Kasalanan, marami nang nakitang mga Nakakulong, Kabataang Hindi Ayos ang Pagkilos, Tanyag na Mangangaral ng OSAKA: FUJIOKA, JUNKO (67);<br/>
+<br/> 
+Naramdaman niya ang panganib sa lipunan sa hindi makitang bakat sa pagsubok lutasin itong pangyayari sa paraan ng DEMOKRASIYA (Pangunahin ang Mamamayan), sapagkat mukhang walang kasama ang Salarin dito sa kaniyang sariling nababaang paksa, kung saan nagawa niya itong pangyayari, nang may puot sa "Samahan ng Pinagkaisang Tahanan ng Mapayapang Daigdig (Dating Pinagkaisang Simbahan)".
+
+>　――犯罪心理学者としての関心はどこにありますか。
+
+Bilang Mag-aaral ng Dahilan ng Isipan sa larangan ng Paggawa ng Sala (KRIMEN), nasaan naroon ang kailangang pahalagahan?
+
+　「この事件は、今の日本社会を色濃く映していると思います。犯罪歴がなく、中流以上の家庭で育ち、勉強もできた人が大きな事件を起こした。そして、その標的は『パワーの象徴』だと容疑者が考えた人でした。これはいったいどういうことなのか。疑問とともに、容疑者の生い立ちや置かれていた状況に関心が湧きました」
+
+"Sa aking isipan, makapal na kulay ang inilalarawan nitong pangyayari sa kasalukuyang lipunan ng Pinagmumulan ng Araw. Walang kasaysayan ng paggawa ng kasalanan, inalagaan sa Tahanan na higit pa sa itaas ng sa Gitna, may pinag-aralan din itong taong gumawa ng malaking pangyayari. Pagkatapos, ang Salarin ang siyang nag-isip ng kanyang pakay na 'SAGISAG ng KAPANGYARIHAN'. Ano nga ba ang ibig sabihin nito? Kasabay ng pagdududa, umapaw sa pook ng kailangang pahalagan ang pagpapalaki, ang kinalalagyan, atbp ng Salarin."
+
+>　――生い立ちと「パワー」は、どうつながるのでしょうか。
+
+Ano kaya ang ugnayan ng pagpapalaki at ng "KAPANGYARIHAN"?
+
+### KAPANGYARIHAN = PERA, LAKAS ng KARAPATAN, atbp;
+
+>　「金や権力といったパワーに吸い寄せられる人たちは、人間関係を上下でしか見ません。自分はもっと上に行けていたはずだと思っている人たちは、現実の世界でパワーを持てないことを不当だと恨みます。そして自分のパワーを世の中に示してやろうと思うのです」
+
+"Ang itaas at ibaba lamang ng Ugnayan ng Tao ang nakikita ng mga Manghihigop (mga taong sip-sip) nitong sinasabing KAPANGYARIHAN.<br/>
+<br/>
+Mayroong puot ang mga taong nag-iisip na dapat makapupunta ang kaniyang sarili sa itaas, sapagkat hindi akma na wala siyang KAPANGYARIHAN sa kasalukuyang bunga ng daigdig.<br/>
+<br/>
+Pagkatapos, kaniyang iniisip na ipakikita niya sa loob nitong daigdig ang kanyang sariling KAPANGYARIHAN." 
+
+>　「母親は容疑者が何を言って…
+
+"Ano ang sabi ng Nanay sa Salarin..."
+
+> この記事は有料会員記事です。残り1464文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi itong sulatin. May natitira pang 1464 titik; Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE: TRANSLATE
+
+
 ## [日比谷・翠嵐・浦和…東大合格が急増、塾に頼らぬ勉強術](https://www.asahi.com/articles/ASP4565SHP3YUTIL032.html?iref=pc_rellink_02); last accessed: 20220730
 
 > 日比谷・翠嵐・浦和…東大合格が急増、塾に頼らぬ勉強術
