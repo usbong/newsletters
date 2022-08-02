@@ -12,6 +12,51 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ボーイングが日本国内初の技術開発拠点設立　エコ燃料研究へ](https://www.asahi.com/articles/ASQ8165HSQ81ULFA00V.html?iref=comtop_Tech_science_02); last accessed: 20220802
+
+> ボーイングが日本国内初の技術開発拠点設立　エコ燃料研究へ
+
+Nagtatag ang BOEING ng pangunahing pook ng Panglalabas (DEVELOPMENT) ng Maparaang Kakayanan (TEKNOLOHIYA),
+una sa loob ng Kaharian ng Pinanggagalingan ng Araw;
+
+Tungo sa Pananaliksik ng may ECO na Pagsunog ng Sangkap (FUEL)
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 高橋豪2022年8月1日 20時19分
+
+TAKAHASHI, GOU; 2022-08-01T20:19
+
+>　米航空機大手ボーイングは1日、日本に「研究開発センター」を設立したと発表した。廃食油やごみを原料にした「持続可能な航空燃料」（SAF）や水素燃料、エンジンの電動化などの研究開発を通し、航空産業の脱炭素化につなげたい考えだ。
+
+Nitong ika-1 araw, ipinahayag ng BOEING, ang malaking Gawaan ng Panlipad ng AMERIKA, ang pagtatatag sa Pinanggagalingan ng Araw ng "SENTRO ng Pananaliksik ng Panglalabas". Pinagnilayan ang pag-uugnay nito sa mga ito:
+
+1) pagbabago sa paglalabas ng CARBON (sinaunang bato sa apoy sa ilalim ng bundok) sa Industriya (Daigdig ng Mangangalakal) ng Gawaan ng Panlipad;
+
+2) pananaliksik sa paglalabas ng pagbabago sa Pagpapakilos ng Kuryente, at iba pang magagamit sa ENGINE (MAKINA); 
+
+3) pananaliksik sa paglalabas ng Sinaunang Tubig na Pangsunog na Sangkap, 
+
+3) pananaliksik sa paglalabas ng "Kakayanang Ituloy ang Pagdadala ng Pangsunog na Sangkap ng Pampalipad" mula sa itinapon na langis sa pagkain, mga basurang (tapon) ginawang Pinanggalingang Sangkap.
+
+>　同社の技術開発拠点は米国以…
+
+Ang Pangunahing Pook ng Panglalabas ng TEKNOLOHIYA ng nabanggit na SAMAHAN...
+
+> この記事は有料会員記事です。残り180文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 180titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Dagdag
+
+> 無人機（ドローン）, 空爆, 米国, フランス軍
+
+Walang Taong Makina (DRONE), Pagsabog mula Langit, Amerika, Militar ng PRANSIYA
+
+
+
 ## [「パワーの象徴」壊した意味　犯罪心理学者からみた銃撃容疑者の視界](https://www.asahi.com/articles/ASQ7V4W6CQ7QULEI006.html?iref=comtop_7_02); last accessed: 20220801
 
 >「パワーの象徴」壊した意味　犯罪心理学者からみた銃撃容疑者の視界
