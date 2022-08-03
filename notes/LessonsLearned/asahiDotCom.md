@@ -12,6 +12,66 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [水中ドローン、観測データを10秒で自動回収　光無線通信で世界初](https://www.asahi.com/articles/ASQ7Y4QB6Q7RULBH008.html?iref=comtop_Tech_science_03); last accessed: 20220803
+
+> 水中ドローン、観測データを10秒で自動回収　光無線通信で世界初
+
+DRONE sa loob ng tubig, <br/>
+Pagkalap ng Minasdan at Sinukat na DATOS,<br/>
+10 segundo, Sariling Pagkilos;<br/>
+Gamit ang Pinagkatitiwalaang Pagpasada<br/>
+ng Liwanag na Walang Tali,<br/>
+Una sa Daigdig
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 桜井林太郎2022年8月2日 15時00分
+
+SAKURAI, RINTAROU; 2022-08-02T15:00
+
+
+>　海洋研究開発機構の沢隆雄主任研究員らのチームが、自律型の無人探査機（水中ドローン）を使い、深い海底に設置された観測装置のデータを自動回収することに成功した。光を高速に点滅させてデータを伝送する「光無線通信」技術を利用した、世界で初めての例だという。
+
+Nagtagumpay ang pangkat ng mga Mananaliksik kung saan pangunahing nanunungkulan si SAWA, TAKAO, ng Pananaliksik ng Paglalabas ng MEKANISMO (Instraktura ng Makina) sa Karagatan, sa paggamit ng sariling nagsisiyasat (sa loob ng tubig) na Makinang Walang Tao, upang sariling kumilos sa pagkalap mula sa ikinabit na gamit dito ng minasdan at sinukat nitong DATOS sa malalim na ilalim ng dagat.<br/>
+<br/>
+Sinasabing unang halimbawa sa dagidig ang ginamit na Maparaang Kakayanan, "Pinagkatitiwalaang Pagpasada ng Liwanag na Walang Tali", na kung saan pinadadala ang DATOS sa mabilis na pagsindi't pagpatay ng liwanag.
+
+>　実験したのは、相模湾内の水深1420メートルの海底だ。
+
+Sinubukang isakatuparan sa lalim ng tubig na 1420metro ng ilalim ng dagat sa loob ng bay ng SAGAMI.
+
+> 深海では電波も光も届かないので、ふつうの無線通信は使えない。ロボットが専門の沢さんらは、島津製作所製の光無線通信装置を搭載した水中ドローンを開発し、データ回収に挑戦した。
+
+Sapagkat sa malalim na dagat, hindi makararating ang alon ng kuryente at liwanag, hindi maaaring gamitin ang karaniwang pinagkatitiwalaang pagpasada ng liwanag na walang tali. Ginawang paghamon ng mga nagpakadalubhasa sa ROBOT na sila G. SAWA, ang paglalabas sa loob ng tubig ng DRONE na kinabitan ng Gamit ng "Pinagkatitiwalaang Pagpasada ng Liwanag na Walang Tali" na binuo ng Pagawaan ng SHIMAZU.
+
+>　ドローンは長さが4メートルで重さが2トン。運航速度は最大時速5キロで、連続して2日間も使える。ただ、低速度ではフラフラして安定性が悪くなる。そこで海底の観測装置の30～40メートルほど上を、時速3キロほどの一定スピードで通過させ、光無線で通信させたところ、わずか10秒ほどで深海の画像データを回収できた。
+
+2 tonelada ang bigat, at 4 metro ang haba ng DRONE. Ukol sa nibel ng bilis ng pagkilos at pagbubuhat, magagamit ito ng dalawang araw nang tuluy-tuloy sa pinakamabilis nitong 5 kilometro ng kinaukulang panahon.<br/> 
+<br/>
+Nakalap ang umabot sa loob ng 10 segundo ng DATOS ng mga larawan sa malalim na dagat; Pinalampas ang pagpasada ng liwanag na walang tali sa pinagpasiyahang bilis na umabot sa 3 kilometro ng kaukulang panahon, at higit pa sa 30~40 metro ng kinabit na gamit ng pagmamasad at pagsusukat sa ilalim ng dagat.
+
+>　水中ドローンには、観測装置…
+
+Sa DRONE sa loob ng tubig, ang gamit sa pagmamasid at pagsusukat...
+
+> この記事は有料会員記事です。残り489文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 489titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+
+### Diin:
+
+> 深海の画像データを回収できた。
+
+Nakalap ang DATOS ng mga larawan ng malalim na dagat.
+
+### Sanggunian:
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [ボーイングが日本国内初の技術開発拠点設立　エコ燃料研究へ](https://www.asahi.com/articles/ASQ8165HSQ81ULFA00V.html?iref=comtop_Tech_science_02); last accessed: 20220802
 
 > ボーイングが日本国内初の技術開発拠点設立　エコ燃料研究へ
