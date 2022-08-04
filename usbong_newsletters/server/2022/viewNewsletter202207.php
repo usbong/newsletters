@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220801; from 20220718
+  @date updated: 20220805; from 20220801
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -158,14 +158,15 @@
 						
 						blockquote.usbongBlockquote {
 							background: #eee;
-							color: rgb(40,40,40); /* from black to white */ 
+							color: rgb(20,20,20); /*rgb(40,40,40);*/ /* from black to white */ 
 							margin:0;		
 							border-left: 5px solid #ab9c7d;
 							padding: 2px;					
 							padding-left: 3%;
 							
 							/* text-indent: 5%;*/
-
+							
+							font-size: 14pt;
 						}
 						
 						
@@ -384,7 +385,13 @@
 							width: 50%;
 							display: inline-block;
 							text-align: right;
-						}												
+						}				
+
+						span.usbongTranslationSpan
+						{
+							font-size: 12pt;
+							/*color: rgb(30,30,30);*/							
+						}
     /**/
     </style>
     <title>
@@ -539,8 +546,8 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			<b>OUTPUT:</b> opted: to <b>USE another Computer</b> for Web Browser ACTIONS<br/>
 			<br/>
-			<br/>
-				TO-DO: -add: TABLET PC photograph<br/>
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202207/exampleTabletPCSoftwareHardwareWithMedItemBoxTechnique20220314T1158.jpg"><br/>
+				<b>Example Tablet Personal Computer (PC) on BATTERY Power</b>
 			<br/>
 			<br/>
 			<b>Additional Note:</b><br/>
@@ -593,13 +600,14 @@ last accessed: 20220708
 </p>
 </blockquote>
 <br/>
-
+<span class="usbongTranslationSpan">
 Una sa Daigdig: MINI Lamang LALAGYAN;<br/>
 Binuo mula sa Manipis na Balot (CELL) ng May-sakit<br/>
 sa panglulunas ng Nasusunog na Pakiramdam<br/>
 ng Malaking Bahagi ng Tiyan (LARGE INTESTINE)<br/>
 na may Sakit sa Pagpisa (ULCER)<br/>
 <br/>
+</span>
 
 <blockquote class="usbongBlockquote">
 <p>
@@ -607,8 +615,9 @@ na may Sakit sa Pagpisa (ULCER)<br/>
 </p>
 </blockquote>
 <br/>
-
+<span class="usbongTranslationSpan">
 Sulatin sa nagbabayad na kasapi<br/>
+</span>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
@@ -616,9 +625,9 @@ Sulatin sa nagbabayad na kasapi<br/>
 </p>
 </blockquote>
 <br/>
-
+<span class="usbongTranslationSpan">
 NOGUCHI, KENTA; 2022-07-08T07:00<br/>
-
+</span>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
@@ -626,39 +635,44 @@ NOGUCHI, KENTA; 2022-07-08T07:00<br/>
 </p>
 </blockquote>
 <br/>
-
+<span class="usbongTranslationSpan">
 Ika-7, ipinahayag ng Malaking Paaralan (Pamantasan) ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin, na nailipat sa May-sakit ang binuong MINI Lamang LALAGYAN (Balat ng Tiyan na ORGANOID) mula sa pagdagdag ng ginagamit niyang Manipis na Balot, upang bigyang-lunas ang "Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER)"<br/>
 <br/>
 Una sa daigdig; inilapat sa May-sakit ang ORGANOID upang bigyang-lunas hindi lamang ang Nasusunog na Pakiramdam sa Malaking Bahagi ng Tiyan.<br/>
 <br/>
+</span>
+
 <blockquote class="usbongBlockquote">
 <p>
     　潰瘍性大腸炎は、大腸の粘膜で慢性的な炎症が起きる難病で、腹痛や下痢、血便などの症状が続く。
 </p>
 </blockquote>
 <br/>
-
+<span class="usbongTranslationSpan">
 Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER): Mahirap na sakit na nagaganap dulot ng Mabagal na Nasusunog na Pakiramdam, sa Malagkit na Takip (MEMBRANE) ng Malaking Bahagi ng Tiyan (LARGE INTESTINE); Tuluy-tuloy na karamdaman na may dugo sa dumi, pagtatae, pananakit ng tiyan, atbp<br/>
 <br/>
-
+</span>
 <blockquote class="usbongBlockquote">
 <p>
     国内には22万人の患者がいると推計される。薬で炎症を抑える治療が一般的だが、傷ついた粘膜が治らないと、大腸を摘出する手術が必要になる場合もある。
 </p>
 </blockquote>
 <br/>
-
+<span class="usbongTranslationSpan">
 Sa loob ng Kaharian, nasusukat na may 220K ang May-sakit na ito. Bagama't karaniwan ang paggamit ng GAMOT upang malunasan ito sa pamamagitan ng pangangasiwa (CONTROL) ng Nasusunog na Pakiramdam, kapag hindi nalunasan ang nasugatang
 Malagkit na Takip, nangyayari rin ang pangangailangang ilabas ang Malaking Bahagi ng Tiyan gamit ang Paraan ng Kamay (SURGERY).
 <br/>
 <br/>
+</span>
 <blockquote class="usbongBlockquote">
 <p>
     　東京医科歯科大の臨床研究チ…
 </p>
 </blockquote>
 <br/>
+<span class="usbongTranslationSpan">
 Ang pangkat ng mananaliksik ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin...<br/>
+</span>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
@@ -666,16 +680,61 @@ Ang pangkat ng mananaliksik ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipi
 </p>
 </blockquote>
 <br/>
+<span class="usbongTranslationSpan">
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 362titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.<br/>
 <br/>
-
-<b>Sanggunian:</b><br/>
+</span>
+<h3><b>Sanggunian:</b></h3>
+<span class="usbongTranslationSpan">
     GOOGLE SEARCH ENGINE; TRANSLATE<br/>
     Japanese-English Dictrionary (JED) Android Application<br/>
     PLECO Chinese-English Dictionary Android Application<br/>
+</span>
 <br/>
 <br/>
 <br/>
+
+TO-DO: -add: this in SECURITY DEFENSE FORCE<br/>
+--> adds: wireless broadcasting of IDEAS on how to improve OUTPUTs, e.g. in computer programming;
+--> observed: IDEAS appear to be among others: JARGON, obvious, came from another who appeared to have know-how, but was NOT verified by themselves;
+--> OUTPUT: INCORRECT; 
+--> classification: NOISE POLLUTION
+
+--
+
+--> notes: continuous broadcasting of "panaginip" by Manloloko group to cause RE-ACTION, e.g. regrets;
+--> SOLUTION: classify: as NOISE POLLUTION; 
+--> where: NO NEED to use available TIME to identify significance, et cetera
+
+--
+
+"FRATERNITY"
+
+
+> Please teach me about fraternities, sororities, NPA, and CPP.
+> What have you encountered?
+
+classifies: Those that execute harm, e.g. noise pollution, physical injuries, are with the Manloloko/Teroristang Komunista group;
+
+> Do you know specific groups?
+
+Use of Greek letters, e.g. Alpha, Epsilon, et cetera due to based on American School System, e.g. Harvard;
+--> notes: adds "MYSTERY", causing INCORRECT IDEAS
+--> where: INCORRECT IDEAS cause FEAR, et cetera;
+--> where: to CORRECT IDEA via INFORMATION may accept PANLOLOKO;
+
+Example:
+> Have you been invited before?
+
+During my visits as student to University of the Philippines (UP) Diliman, Manila, Asian Institute of Management (AIM), et cetera,
+
+observed: NOISE POLLUTION on such Fraternity/Sorority groups;
+
+--> Example: "Epsilon group is FRIENDS with ALL";
+--> notes: increase in excess USE of TIME to think of significance
+
+remembers: @Medical City Hospital, Ortigas, Pasig City, meeting female students who introduced themselves as part of SORORITY who work on Mental Health;
+
 
 	<div class="copyright">
 		<span>
