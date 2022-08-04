@@ -12,6 +12,108 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「TPV発電」に注目、効率40%の研究も　再エネを「熱電池」に](https://www.asahi.com/articles/ASQ7Y62KGQ5SULBH00M.html?iref=comtop_Tech_science_01); last accessed: 20220804
+
+>「TPV発電」に注目、効率40%の研究も　再エネを「熱電池」に
+
+Tutukan ang "TPV na Paglabas ng Kuryente";<br/>
+40% Walang Aksayang Pagkilos (EFFICIENCY) rin sa Pananaliksik<br/>
+Muling Magagamit na ENERHIYA<br/>
+tungo sa "Lawa ng Mainit na Kuryente (THERMO-ELECTRIC BATTERY)"
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 小堀龍之2022年8月4日 9時00分
+
+KOBORI, TATSUYUKI; 2022-08-04T09:00
+
+>　熱から電気をつくる「TPV発電（熱光起電力発電）」という技術が注目されている。
+
+Tinutukan ang Maparaang Kakayanan ng "TPV na Paglabas ng Kuryente (Paglabas ng Kuryente mula sa Lakas ng Kuryenteng ginising ng INIT at LIWANAG)", kung saan mula sa INIT, gumagawa ng KURYENTE.
+
+> 米国の研究チームは今春、TPV発電で効率約40%を達成したと科学誌ネイチャーに発表した。
+
+Ipinahayag ng NATURE, Magasin ng Pag-aaral ng Pagbubukod, nitong Tagsibol, na natamo ng Pangkat ng mga Mananaliksik ng Amerika, ang mga 40% na Walang Aksayang Pagkilos, gamit ang TPV na paglabas ng kuryente.
+
+> 再生可能エネルギーを「熱電池」のように使ったり、廃熱を有効利用したりすることも期待されている。
+
+Inaasahan na magagamit ang inilabas na init nang higit na maayos, sa pamamagitan ng paggamit ng muling magagamit na ENERHIYA tulad sa "Lawa ng Mainit na Kuryente".
+
+> どんな技術なのか。
+
+Anong uri ng Maparaang Kakayanan ba ito?
+
+>　新潟大学の櫻井篤准教授によれば、TPVは「サーモ・フォト・ボルタイック」の略語だ。
+
+Ayon kay SAKURAI, ATSUJIN, Mangangaral ng Pamantasan ng NIIGATA, pinaikling wika ng TPV ang "THERMO-PHOTO-VOLTAIC".
+
+### Dagdag: TPV = Thermophotovoltaic
+
+http://www.energy.mech.tohoku.ac.jp/research/tpv/tpv_info.html; last accessed: 20220804
+
+--<br/>
+<br/>
+
+> 太陽や高温の金属などの熱源からは「ふく射光」という光が出ており、それを光電変換というしくみで電気エネルギーに変える。
+
+Mula sa Pinanggagalingan ng INIT ng ARAW, mataas na temperatura (init) ng mga may ugnayan sa ginto, atbp, nababago tungo sa Kuryenteng ENERHIYA ang lumalabas na liwanag, na may tawag na "Sinag ng Liwanag (RADIATION)", at ginagamit sa MEKANISMO iyong pagbabago ng LIWANAG sa Kuryente.
+
+> 光電変換には、ガリウムやインジウムなどを組み合わせた化合物半導体を使う。
+
+Ginagamit sa pagbabago ng LIWANAG sa Kuryente ang pinagsamang GALIUM, INDIUM, atbp sa pinagsamang bagay na TRANSISTOR (Kalahating Ginagabayang Katawan).
+
+>　米国のマサチューセッツ工科大学（MIT）と米国立再生可能エネルギー研究所のチームは、ガリウムなどを組み合わせて1センチ角の「TPVセル」を開発した。
+
+Naglabas ng "TPV CELL" ang Pangkat na taga-Massachusetts Institute of Technology (Pamantasan ng Pinabilis na Pagbubuklod sa Massachusetts) at ang Pook ng Pananaliksik ng Muling Magagamit na ENERHIYA ng Amerika. 
+
+> 1900～2400度の熱源から出るふく射光で、効率約40%で発電した。
+
+Nailabas ang kuryente na may mga 40% walang aksayang pagkilos, gamit ang lumalabas na Sinag ng Liwanag mula sa pinanggagalingan ng init na may nibel na 1900~2400.
+
+>　研究チームは今後、技術を発展させて大型化し、「熱電池」のようなシステムを作ることを考えている。
+
+Pinagninilayan ng Pangkat ng mga Mananaliksik, pagkatapos nito ang pagbuo ng SISTEMA na tulad sa "Lawa ng Mainit na Kuryente", sa pamamagitan ng pagpapalaki ng pina-uusbong na Maparaang Kakayanan.
+
+> 再生可能エネルギーでつくった電気で炭素（グラファイト）のブロックを加熱して熱をためておき、必要な際に発電に使うのだという。
+
+Sinasabing ginagamit sa panahon ng pangangailangan ang paglalabas ng kuryente mula sa naipon na INIT ng pinainit na BLOCK (BLOKE) ng GRAPHITE (sinaunang bagay sa apoy sa ilalim ng bundok) gamit ang kuryenteng ginawa mula sa Muling Magagamit na ENERHIYA.
+
+>　MITの研究者は「この技術は安全で環境に優しく、電力生産にともなう二酸化炭素の排出を抑えるのに、とても大きな効果を発揮する」としている。
+
+Ginagawa ng mga Mananaliksik ng MIT ang "pagpapakita ng talagang malaking bunga ng walang pag-aaksayang pagkilos, mula sa Maparaang Kakayanang ito, na ligtas at mabuti sa kalikasan, at napangangasiwaan kasabay ng paglikha ng Lakas ng Kuryente, ang paglalabas ng Carbon Dioxide (dalawang binago ng ASIM (ACID) AT sinaunang bagay mula sa apoy sa ilalim ng bundok)".
+
+### Dagdag: alalahanin "化学反応" sa KIMIKA
+
+化学反応 : Tugon sa Pag-aaral ng Pagbabago; CHEMICAL REACTION
+
+https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/chemical-reactions-introduction; last accessed: 20220804
+
+--<br/>
+<br/>
+
+> 研究成果は科学誌のサイトに掲載（https://www.nature.com/articles/s41586-022-04473-y別ウインドウで開きます）された。
+
+Inalathala sa SITE ng Magasin ng Pag-aaral ng Pagbubukod ang nabuong bunga ng pananaliksik (https://www.nature.com/articles/s41586-022-04473-y; bubuksan sa ibang dungawan).
+
+> TPV発電は、シリコン半導…
+
+Ang TPV na paglalabas ng Kuryente, SILCON Transistor...
+
+> この記事は有料会員記事です。残り756文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 756titik. Kapag naging nagbabayad na kasapi na po kayo, maaarin niyo na pong mabasa ang kasunod.
+
+### Dagdag
+
+https://www.asahi.com/articles/photo/AS20220729002710.html;
+last accessed: 20220804
+
+>「熱光起電力（TPV）セル」を放熱板に取り付けたもの。大きさは1センチ角=（C）Felice　Frankel
+
+Idinikit sa nilabasan ng init na patungan ang "Lakas ng Kuryenteng ginising ng Init at Liwanag (TPV) CEll". 1cm (bagay na may sulok) ang laki = (C) Felice Frankel
+
 ## [水中ドローン、観測データを10秒で自動回収　光無線通信で世界初](https://www.asahi.com/articles/ASQ7Y4QB6Q7RULBH008.html?iref=comtop_Tech_science_03); last accessed: 20220803
 
 > 水中ドローン、観測データを10秒で自動回収　光無線通信で世界初
