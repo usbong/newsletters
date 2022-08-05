@@ -2,7 +2,70 @@
 https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q/videos<br/>
 <br/>
 TO-DO: -update: this<br/>
+
+## [元カプコンの後輩に退職後の経歴聞いてみた〔前編〕ポラリスエックス代表・住田康洋さん対談](https://www.youtube.com/watch?v=HXPoSuSRlxE); last accessed: 20220805
+
+> 元カプコンの後輩に退職後の経歴聞いてみた〔前編〕ポラリスエックス代表・住田康洋さん対談
+
+We ask Former CAPCOM JUNIOR EMPLOYEE his story after retirement from CAPCOM;<br/>
+Conversation with: POLARIS X Represenative, SUMIDA, YASUHIRO<br/>
+(Part 1 of 2)<br/>
+
+> Aug 3, 2022
+
+### KEYPHRASE:
+
+### 元カプコンの後輩
+
+FORMER CAPCOM JUNIOR EMPLOYEE
+
+### プロジェクトが終わって、やめた。
+
+RESIGNED after finishing a PROJECT;
+
+### 中国から、日本にローカライズする仕事；　
+
+(NEW) WORK: LOCALIZE to JAPANESE MARKET, GAMES FROM MAINLAND CHINA 
+
+### 投資半々；
+
+shared INVESTMENT in new COMPANY, 50/50;
+
+### パートナー入院、縮小される；
+
+Partner was admitted in HOSPITAL, COMPANY shrunk;
+
+### 韓国から、日本にローカライズして、パブリッシングの仕事
+
+(UPDATED) WORK: LOCALIZE to JAPANSE MARKET, PUBLISH, GAMES From KOREA;<br/>
 <br/>
+IF 10K Units SOLD;<br/>
+CAN RECEIVE: 5\~10Million YEN; (2.5\~5Million PESOS)<br/>
+
+> 手塚　武
+
+TEZUKA, TAKESHI<br/>
+Business Development (BizDev):<br/>
+SMARTPHONE PRODUCT -> give PRESENTATION to DOCOMO TELECOM, et cetera;<br/>
+
+### RECOMMENDATION TO INDIE GAME DEVELOPERS (Team with 2~3 Unit Members):
+
+> 続けること
+
+"TO CONTINUE"
+
+### Additional Reading:
+
+1) LOCALIZATION of FINAL FANTASY VII to U.S. MARKET, by U.S. and Japanese TEAM @SQUARE SOFT, INC.;<br/>
+--> where: JAPANESE TEXT to ENGLISH TEXT;<br/>
+--> notes: DIFFICULTY caused by difference in LANGUAGE GRAMMER STRUCTURES;<br/>
+--> adds: NOT as with Wild ARMS (PS1), <br/>
+--> where: due to WESTERN SETTING, JAPANESE WORDS already sound as ENGLISH WORDS; <br/>
+--> Example: NAMES セシリア : CECILIA<br/>
+<br/>
+--> TO-DO: -add: GAME MAGAZINE as reference;
+
+
 ## [キャラ・アニメ版権のゲーム開発って難しくないか！？ゲームプロデューサーが版権モノの開発の厳しさを解説します【MARVEL SUPER HEROES】](https://www.youtube.com/watch?v=kpmWY5zFgns); last accessed: 20220220<br/>
 <b>| Character・Animation Copyright's Game Development, NOT difficult? Game Producer explains difficulty with development of objects with Copyright [MARVEL SUPER HEROES]</b><br/>
 <br/>
