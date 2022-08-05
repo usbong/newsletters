@@ -12,6 +12,95 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ビタミンKに細胞死防ぐ効果　血液凝固の「なぞ」も思いがけず解明](https://www.asahi.com/articles/ASQ845CYFQ83UTFL001.html?iref=comtop_Tech_science_01); last accessed: 20220805
+
+> ビタミンKに細胞死防ぐ効果　血液凝固の「なぞ」も思いがけず解明
+
+Sa Bitamina K, may ayos na bunga:<br/>
+pagsangga sa pagkamatay ng mga CELL<br/>
+Hindi man sinimulang isipin, <br/>
+Maliwanag na nalutas <br/>
+ang "Palaisipan" ng paninigas ng dugo.
+
+### CELL : Binalutan ng Manipis 
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 野口憲太2022年8月5日 8時30分
+
+NOGUCHI, KENTA; 2022-08-05T08:30
+
+> 血液凝固の作用があるビタミンKに、細胞死の一つを防ぐ効果があることを、東北大などの研究チームが明らかにした。
+
+Niliwanag ng Pangkat ng Mananaliksik ng Pamantasan ng TOUHOKU, atbp na may ayos na bunga sa pagsangga sa isa sa mga pumapatay sa CELL, ang Bitamina K na ginagamit sa pagbuo ng paninigas ng dugo.
+
+>「フェロトーシス」と呼ばれるこの細胞死は、アルツハイマー病などへの関与が報告されていて、新たな治療法の糸口となる可能性があるという。
+
+Sinasabing may kakayanang iugnay ito sa panibagong Paraan ng Panggagamot at Panghihilom, dahil sa balitang may ibinibigay na halaga ang pagkamatay ng CELL na tinatawag na "FERROPTOSIS" tungo sa Sakit na ALZHEIMER'S.
+
+>　成果は3日付で、科学誌ネイチャーで発表された（https://doi.org/10.1038/s41586-022-05022-3別ウインドウで開きます）。
+
+Ipinahayag ang binuong bunga nitong ika-3 araw, sa NATURE, Magasin ng Pag-aaral ng Pagbubukod,  (https://doi.org/10.1038/s41586-022-05022-3; Bubukas sa ibang Dungawan).
+
+>　フェロトーシスは、2012年に提唱された新しいタイプの細胞死。細胞内に過剰に酸化された脂質がたまることで引き起こされ、病気への関与も報告されている。
+
+Taong 2012 nang inihayag itong "FERROPTOSIS": isang panibagong uri ng pagkamatay ng CELL.
+
+>　抗酸化作用のあるビタミンEなどに、この細胞死を防ぐ効果があることが知られていたが、そのほかのビタミンにも同じような効果があるかは分かっていなかった。
+
+Bagama't alam nang may ayos na bunga sa pagsangga rito sa pagkamatay ng CELL ang mga Bitamina E, atbp na may gamit sa pagbuo ng Pagbabago sa Panlaban sa Asim (ANTI-OXIDANT), hindi pa nauunawaan ang katulad nitong ayos na bunga mula naman sa iba pang bitamina.
+
+>　独ヘルムホルツ研究センターの三島英換（えいかん）・客員研究員（東北大非常勤講師）らのチームは、複数のビタミンを細胞実験で調べたところ、緑色の野菜や納豆、肉や卵に含まれるビタミンKにも、この細胞死を防ぐ強い作用があることを発見した。
+
+Pagkatapos siyasating subukang isakatuparan sa CELL ang maraming BITAMINA, natuklasan ng Pangkat ni MISHIMA, EIKAN, at ng mga Dumadalaw na Mananaliksik (mga Hindi Pangkaraniwang Nanunungkulang Mangangaral ng Pamantasan ng TOUHOKU) sa HELMHOLTZ, Sariling SENTRO ng Pananaliksik, na may malakas na gamit sa pagbuo ng panangga rito sa pagkamatay ng CELL, ang Bitamina K ng mga kulay lunting gulay, nattou (binhi ng soy), laman (karne), itlog, atbp.
+
+>　ビタミンKは通常「酸化型」という状態で食べ物などに含まれていて、ビタミンEのような抗酸化作用はない。
+
+Walang gamit sa pagbuo ng pagbabago sa panlaban sa asim tulua ng Bitamina E ang karaniwang "Hugis na Binago ng Asim" ng Bitamina K na kasama sa pagkain.
+
+>　そこで、ビタミンKが細胞死を防ぐ仕組みを詳しく調べた。
+
+Doon masinsin pa nilang sinisyasat ang MEKANISMO (paraan ng pagsasama) sa pagsangga ng Bitamina K sa pagkamatay ng CELL.
+
+>　すると、細胞内でつくられる「FSP1」という酵素が、ビタミンKを①酸化型から②還元型と呼ばれる状態に変化させることで細胞内の脂質の酸化を防ぎ、結果として細胞死を防いでいることがわかった。
+
+Sa paggawa nito, naunawaan bilang kinahinatnan na sinasangga ng sinaunang bagay (ENZYME) na may tawag na "FSP1" na nabubuo mula sa loob ng CELL ang pagkamatay ng CELL sa pamamagitan ng pagsangga sa pagiging maasim ng TABA (LIPID) sa loob ng CELL, gamit ang pagpapabago ng ①"Hugis na Binago ng Asim" tungo sa tinatawag na kalagayan na ②"Pag-ikot sa Dati (REDUCTION)" ng Bitamina K.
+
+### 酵素 : sinaunang paggalang sa kanluran; ENZYME
+
+>　これまでに、アルツハイマー病などの神経変性疾患や、腎臓の疾患にも、フェロトーシスが関与していると報告がある。
+
+Hanggang dito, may balita na may ibinibigay na halaga ang "FERROPTOSIS" sa mga sakit sa BATO (KIDNEY), mga sakit ng Pagbabago ng Pagpasada ng Panginoon (NERVE), at ibang pang mga sakit tulad ng ALZHEIMER'S.
+
+>　三島さんによると、実験で細胞死を防ぐのに必要だったビタミンKの量は、食事から摂取できる量よりもはるかに多い。そのため、現時点でビタミンKが豊富な食品に病気の予防効果があるなどのことは言えないという。
+
+Ayon kay G. MISHIMA, mula sa isinakatuparang pagsubok, 
+upang sanggain ang pagkamatay ng CELL, higit na marami pa ang bilang ng Bitamina K na kailangan kaysa roon sa makukuha mula sa pagkain. Dahil dito, sa kasalukuyang panahon, hindi pa masasabing may ayos nang bunga sa pagsangga ng parating na sakit ang mga pagkaing sagana sa Bitamina K.
+
+>　一方で、ビタミンKやFSP1が関わる細胞内の仕組みをさらに研究することが、これらの病気を防いだり治療したりするための、新たな方法の開発の糸口になる可能性があるという。
+
+Sa isang banda, sinasabing may kakayanang iugnay bilang simula ang paglalabas ng panibagong paraan upang sanggain at bigyang lunas itong mga sakit, gamit ang dagdag na pananaliksik ng MEKANISMO sa loob ng CELL na may ugnayan sa Bitamina K, FSP1, atbp.
+
+> 抗凝固薬のワルファリンを治療で使う人は、一般的に納豆や青汁を食事でとらないように医師から指導されます。
+
+Tinuturan at ginagabayan ng mga Manggagamot ang mga taong gumagamit bilang lunas ng WARFARIN, gamot na panlaban sa paninigas, na huwag kunin ito mula sa karaniwang pagkain ng NATTOU, Katas ng Gulay, atbp.
+
+> 記事の後半では、ビタミンＫと血液凝固をめぐる半世紀にわたる「なぞ」についての研究成果を紹介します。
+
+Sa kalahati pa nitong sulatin, ipakikilala ang binuong bunga ng pananaliksik ukol sa "Palaisipan" ng Bitamina K at Paninigas ng Dugo ng kalahating sigo.
+
+>　思いがけないことに、今回の…
+
+Hindi man sinimulang isipin, sa pagkakataong ito...
+
+> この記事は有料会員記事です。残り1425文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 1425 titik. Kapag naging nagbabayad na kasapi na po kayo, maaarin niyo na pong mabasa ang kasunod.
+
+
+
 ## [「TPV発電」に注目、効率40%の研究も　再エネを「熱電池」に](https://www.asahi.com/articles/ASQ7Y62KGQ5SULBH00M.html?iref=comtop_Tech_science_01); last accessed: 20220804
 
 >「TPV発電」に注目、効率40%の研究も　再エネを「熱電池」に
