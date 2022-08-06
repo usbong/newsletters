@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220805; from 20220801
+  @date updated: 20220806; from 20220805
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -522,7 +522,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> for <b>ELECTRICITY to RETURN</b> to be <b>OVER one (1) HOUR</b>.<br/> 
 --> Previously, in <b>5mins (APPROX)</b>, <b>ELECTRICITY POWER</b> returns for Computer Servers to <b>auto-start</b>;<br/>
 --> added: partner MOSC, has <b>POWER GENERATOR</b> using <b>FUEL</b><br/> 
---> to cause select <b>appliances</b>, e.g. <b>LAMPS</b>, <b>local router</b>, to function;<br/>
+--> to cause select <b>appliances</b>, e.g. <b>Light Emitting Diodie (LED) LAMPS</b>, <b>local router</b>, to function;<br/>
 --> added: however, <b>desktop computers</b> to be set to <b>OFF</b>;<br/>
 <br/>
 
@@ -576,8 +576,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 <br/>
 <br/>
-continued: with <b>AUTOMATIC</b> transferring copies of <b>Database files</b> from <b>MAIN Computer Server</b> to available <b>Multiple Computer Servers</b><br/>
---> where: <b>Computer Server</b> : <b>combination of Operating Systems (OS)</b>, e.g. <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a>, <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/">Windows 7</a>;<br/>
+continued: with <b>AUTOMATIC</b> transferring as copies <b>Database files</b><br/>
+--> from <b>MAIN Computer Server</b> to available <b>Multiple Computer Servers</b><br/>
+--> where: <b>Computer Server</b> : <b>combination of Operating Systems (OS)</b>,<br/> 
+--> e.g. <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a>, <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/">Windows 7</a>;<br/>
 --> where: <b>Database files</b> : <b>Saved Work</b><br/>
 --> <b>Example Computer Instructions</b> written in <b>Bash Shell</b><br/> 
 					<video width="416" height="312" controls>
@@ -601,8 +603,8 @@ last accessed: 20220708
 </blockquote>
 <br/>
 <span class="usbongTranslationSpan">
-Una sa Daigdig: MINI Lamang LALAGYAN;<br/>
-Binuo mula sa Manipis na Balot (CELL) ng May-sakit<br/>
+Una sa Daigdig: MINI LALAGYAN ng LAMAN;<br/>
+Binuo mula sa CELL (Binalutan ng Manipis) ng May-sakit<br/>
 sa panglulunas ng Nasusunog na Pakiramdam<br/>
 ng Malaking Bahagi ng Tiyan (LARGE INTESTINE)<br/>
 na may Sakit sa Pagpisa (ULCER)<br/>
@@ -636,9 +638,9 @@ NOGUCHI, KENTA; 2022-07-08T07:00<br/>
 </blockquote>
 <br/>
 <span class="usbongTranslationSpan">
-Ika-7, ipinahayag ng Malaking Paaralan (Pamantasan) ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin, na nailipat sa May-sakit ang binuong MINI Lamang LALAGYAN (Balat ng Tiyan na ORGANOID) mula sa pagdagdag ng ginagamit niyang Manipis na Balot, upang bigyang-lunas ang "Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER)"<br/>
+Sa ika-7 araw, ipinahayag ng Malaking Paaralan (Pamantasan) ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin, na nailipat sa May-sakit ang binuong MINI LALAGYAN ng LAMAN (Balat ng Tiyan na ORGANOID) mula sa pagdagdag ng ginagamit niyang CELL, upang bigyang-lunas ang "Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER)"<br/>
 <br/>
-Una sa daigdig; inilapat sa May-sakit ang ORGANOID upang bigyang-lunas hindi lamang ang Nasusunog na Pakiramdam sa Malaking Bahagi ng Tiyan.<br/>
+Una sa daigdig; inilipat sa May-sakit ang ORGANOID upang bigyang-lunas hindi lamang ang Nasusunog na Pakiramdam sa Malaking Bahagi ng Tiyan.<br/>
 <br/>
 </span>
 
@@ -659,7 +661,7 @@ Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER): Mahirap na sa
 </blockquote>
 <br/>
 <span class="usbongTranslationSpan">
-Sa loob ng Kaharian, nasusukat na may 220K ang May-sakit na ito. Bagama't karaniwan ang paggamit ng GAMOT upang malunasan ito sa pamamagitan ng pangangasiwa (CONTROL) ng Nasusunog na Pakiramdam, kapag hindi nalunasan ang nasugatang
+Sa loob ng Kaharian, nasusukat na may 220K ang May-sakit nito. Bagama't karaniwan ang paggamit ng GAMOT upang malunasan ito sa pamamagitan ng pangangasiwa (CONTROL) ng Nasusunog na Pakiramdam, kapag hindi nalunasan ang nasugatang
 Malagkit na Takip, nangyayari rin ang pangangailangang ilabas ang Malaking Bahagi ng Tiyan gamit ang Paraan ng Kamay (SURGERY).
 <br/>
 <br/>
@@ -691,51 +693,69 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 362titik. Kapag nagi
     PLECO Chinese-English Dictionary Android Application<br/>
 </span>
 <br/>
+
+<h3>3) SECURITY DEFENSE FORCE</h3>
+<h4>
+--> 3.1) <b>NOISE POLLUTION</b> from <b>Manloloko/budol-budol/carnapper/smuggler/<br/>
+</h4>
+<h5>
+--> Cybercriminal/Teroristang Komunista group</b> continues<br/>
+--> <b>Example#1:</b> wireless broadcasting of IDEAS on how to improve OUTPUTs, e.g. in computer programming;<br/>
+--> observed: <b>IDEAS</b> appear to be among others: JARGON, obvious, came from another who appeared to have know-how, but were NOT verified by his/herself;<br/>
+--> <b>OUTPUT:</b> INCORRECT;<br/> 
+--> classification: <b>NOISE POLLUTION</b><br/>
+<br/>
+--> <b>Example#2:</b> continuous broadcasting of "panaginip"<br/> 
+--> by Manloloko group to cause RE-ACTION, e.g. regrets;<br/>
+--> <b>SOLUTION#1:</b> classify: as <b>NOISE POLLUTION</b>;<br/> 
+--> where: <b>NO NEED</b> to use available TIME to identify significance, et cetera<br/>
+--> <b>SOLUTION#2:</b> file: incident reports with Law Enfocement, e.g. Police<br/> 
+</h5>
+<h4>
+--> 3.2) <b>FRATERNITY</b>: Question & Answer for CLARIFICATION<br/>
+</h4>
+<h5>
+<blockquote class="usbongBlockquote">
+<p>
+Q&A#1) Please teach me about fraternities, sororities, New People's Army (NPA), and Communist Party of the Philippines (CPP).<br/> 
+What have you encountered?
+</p>
+</blockquote>
+<br/>
+
+1) classifies: Those that execute harm, e.g. <b>NOISE POLLUTION</b>, <b>PHYSICAL INJURIES</b>, are with the <b>Manloloko/Teroristang Komunista group</b>;<br/>
+<br/>
+<b> reminder:</b> <b>smuggler/carnapper</b> classified with the <b>Manloloko/Teroristang Komunista group</b><br/>
+<br/>
+2) Use of Greek letters, e.g. <b>Alpha</b>, <b>Epsilon</b>, due to based on <b>American School System</b>, e.g. Harvard;<br/>
+--> notes: adds <b>"MYSTERY"</b>, causing <b>INCORRECT IDEAS</b><br/>
+--> where: <b>INCORRECT IDEAS</b> cause <b>FEAR</b>, <b>DESIRE</b>, et cetera;<br/>
+--> where: may accept <b>PANLOLOKO</b> to CORRECT via INFORMATION the <b>INCORRECT IDEAS</b>;<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+Q&A#2) Have you been invited before?
+</p>
+</blockquote>
+<br/>
+During my visits as student to <b>University of the Philippines (UP) Diliman</b>, <b>Manila</b>, <b>Asian Institute of Management (AIM)</b>, et cetera;<br/>
+<br/>
+observed: <b>NOISE POLLUTION</b> about <b>Fraternity/Sorority</b> groups;<br/>
+<br/>
+--> <b>Example:</b> "Epsilon group is FRIENDS with ALL";<br/>
+--> notes: <b>increase in excess USE of TIME to think of significance</b><br/>
+<br/>
+remembers: @<b>Medical City Hospital</b>, Ortigas, Pasig City, meeting female students who introduced themselves as part of SORORITY who work on Mental Health;<br/>
+<br/>
+<b>reminder:</b> Those that execute <b>NOISE POLLUTION<br/>  
+with PHYSICAL HARM</b> are with the Manloloko group;<br/>
+
+</h5>
 <br/>
 <br/>
-
-TO-DO: -add: this in SECURITY DEFENSE FORCE<br/>
---> adds: wireless broadcasting of IDEAS on how to improve OUTPUTs, e.g. in computer programming;
---> observed: IDEAS appear to be among others: JARGON, obvious, came from another who appeared to have know-how, but was NOT verified by themselves;
---> OUTPUT: INCORRECT; 
---> classification: NOISE POLLUTION
-
---
-
---> notes: continuous broadcasting of "panaginip" by Manloloko group to cause RE-ACTION, e.g. regrets;
---> SOLUTION: classify: as NOISE POLLUTION; 
---> where: NO NEED to use available TIME to identify significance, et cetera
-
---
-
-"FRATERNITY"
-
-
-> Please teach me about fraternities, sororities, NPA, and CPP.
-> What have you encountered?
-
-classifies: Those that execute harm, e.g. noise pollution, physical injuries, are with the Manloloko/Teroristang Komunista group;
-
-> Do you know specific groups?
-
-Use of Greek letters, e.g. Alpha, Epsilon, et cetera due to based on American School System, e.g. Harvard;
---> notes: adds "MYSTERY", causing INCORRECT IDEAS
---> where: INCORRECT IDEAS cause FEAR, et cetera;
---> where: to CORRECT IDEA via INFORMATION may accept PANLOLOKO;
-
-Example:
-> Have you been invited before?
-
-During my visits as student to University of the Philippines (UP) Diliman, Manila, Asian Institute of Management (AIM), et cetera,
-
-observed: NOISE POLLUTION on such Fraternity/Sorority groups;
-
---> Example: "Epsilon group is FRIENDS with ALL";
---> notes: increase in excess USE of TIME to think of significance
-
-remembers: @Medical City Hospital, Ortigas, Pasig City, meeting female students who introduced themselves as part of SORORITY who work on Mental Health;
-
-
+TO-DO: -update: this<br/>
+<br/>
+<br/>
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
