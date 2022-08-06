@@ -12,6 +12,51 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [スペースX衛星40基失う、原因は太陽フレア　災害備え近くから監視](https://www.asahi.com/articles/ASQ845GDTQ7XULBH008.html?iref=comtop_Tech_science_02); last accessed: 20220806
+
+> スペースX衛星40基失う、原因は太陽フレア　災害備え近くから監視
+
+Nawala ng SPACE X ang 40 nitong Nagbabantay na Bituin (SATELLITE)<br/>
+Dahilan: FLARE mula sa Araw;<br/>
+Malapitang Pagmamasid sa Paghahanda sa SAKUNA<br/>
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 玉木祥子2022年8月5日 17時00分
+
+TAMAKI, SACHIKO; 2022-08-05T17:00
+
+> 太陽表面の爆発に伴って通信・放送が2週間断続的に途絶える――。総務省が6月、激しい太陽活動がもたらす「最悪シナリオ」を発表した。太陽活動による極端な宇宙天気は、社会経済へ大きな影響を与えかねない。対応に向けた研究や観測が進んでいる。<br/>
+> <br/>
+>　大規模な停電のほか、携帯電話や防災無線などが断続的に途絶え、110番などの緊急通報はつながりにくくなる。GPSは最大数十メートルもずれ、車のカーナビや自動運転も危険に。総務省がまとめた「100年に1回の最悪シナリオ」の概要だ。太陽表面の爆発現象「太陽フレア」の規模を示す5段階のうち最大規模「Xクラス」のレベルが「X10」という超巨大爆発が、2週間にわたって連続して発生した状況を想定した。<br/>
+> <br/>
+>　小規模の爆発は毎日起きているが、Xクラスの大規模なフレアは年に数回。太陽活動は約11年周期で強くなったり弱くなったりすることが分かっていて、今のサイクルだと2025年に活発化すると予想されている。<br/>
+> <br/>
+>　フレアが起こると、地球に高…
+
+<br/>
+
+> この記事は有料会員記事です。残り1804文字有料会員になると続きをお読みいただけます。
+
+Sulatin sa nagbabayad na kasapi. May natitira pang 1804 titik. Kapag naging nagbabayad na kasapi na po kayo, maaarin niyo na pong mabasa ang kasunod.
+
+
+### Diin: paraan ng pagsusulat
+
+Halimbawa: 
+
+> 大規模な停電のほか、携帯電話や防災無線などが断続的に途絶え、110番などの緊急通報はつながりにくくなる。GPSは最大数十メートルもずれ、車のカーナビや自動運転も危険に。総務省がまとめた「100年に1回の最悪シナリオ」の概要だ。太陽表面の爆発現象「太陽フレア」の規模を示す5段階のうち最大規模「Xクラス」のレベルが「X10」という超巨大爆発が、2週間にわたって連続して発生した状況を想定した。
+
+Bukod sa malakihang pagtigil ng kuryente, mapuputol ang pagkatuluy-tuloy ng mga dala-dalang telepono, walang tali (ng telepono, atbp) na Panangga ng SAKUNA, atbp, at magiging mahirap makipag-ugnayan ukol sa mga Mabilisang Balita tulad ng sa 110 (bilang sa Pulisiya), atbp. 10 metro (pinakamalaki) rin ang maiiba sa GPS, magiging mapanganib din ang NAVIGASYON ng sasakyan, pagpapakilos ng mga ito, atbp. Pinagsamang BUOD ng Pook ng Pinagsamang mga Tungkulin: "1 sa 100 Taon na Pinakamasamang SENARYO". Ito ang pinagnilayang tiyak na kalagayan mula sa tuluy-tuloy na magaganap sa loob ng 2 linggo: SUPER DAMBUHALANG PAGSABOG, "X10" ng "X CLASS", ang pinakamalaki sa loob ng 5 nibel na ipinakikita ng LAKI ng "FLARE ng Araw", ang Kababalaghang Pagsabog sa Mukha ng Araw.
+
+### Dagdag
+
+1) https://www.technologyreview.jp/s/268646/spacex-just-lost-40-satellites-to-a-geomagnetic-storm-there-could-be-worse-to-come/; last accessed: 20220806<br/>
+--> siniyasat: upang linawin ang kahulugan ng "40"; hindi pangalan;  bagkus, bilang ng mga nawala;
+
+
 ## [ビタミンKに細胞死防ぐ効果　血液凝固の「なぞ」も思いがけず解明](https://www.asahi.com/articles/ASQ845CYFQ83UTFL001.html?iref=comtop_Tech_science_01); last accessed: 20220805
 
 > ビタミンKに細胞死防ぐ効果　血液凝固の「なぞ」も思いがけず解明
