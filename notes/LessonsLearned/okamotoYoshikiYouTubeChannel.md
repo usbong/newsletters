@@ -17,11 +17,13 @@ Conversation with: POLARIS X Representative, SUMIDA, YASUHIRO<br/>
 
 ### 元カプコンの後輩
 
-FORMER CAPCOM JUNIOR EMPLOYEE
+FORMER CAPCOM JUNIOR EMPLOYEE<br/>
+WORK YEARS: 1992~2013 
 
 ### プロジェクトが終わって、やめた。
 
-RESIGNED after finishing a PROJECT;
+RESIGNED after finishing a PROJECT;<br/>
+where: PROJECT : sell non-console ONLINE game in INDONESIA, ASIA
 
 ### 中国から、日本にローカライズする仕事；　
 
