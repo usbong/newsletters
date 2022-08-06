@@ -18,7 +18,8 @@ Conversation with: POLARIS X Representative, SUMIDA, YASUHIRO<br/>
 ### 元カプコンの後輩
 
 FORMER CAPCOM JUNIOR EMPLOYEE<br/>
-WORK YEARS: 1992~2013 
+WORK YEARS: 1992~2013;<br/>
+SCHOOL TRAINING: ENGLISH Language @KYOTO School of Foreign Language Studies
 
 ### プロジェクトが終わって、やめた。
 
@@ -39,7 +40,7 @@ Partner was admitted in HOSPITAL, COMPANY shrunk;
 
 ### 韓国から、日本にローカライズして、パブリッシングの仕事
 
-(UPDATED) WORK: LOCALIZE to JAPANSE MARKET, PUBLISH, GAMES From KOREA;<br/>
+(UPDATED) WORK: LOCALIZE ang PUBLISH to JAPANSE MARKET, GAMES From KOREA;<br/>
 <br/>
 IF 10K Units SOLD;<br/>
 CAN RECEIVE: 5\~10Million YEN; (2.5\~5Million PESOS)<br/>
@@ -58,7 +59,8 @@ SMARTPHONE PRODUCT -> give PRESENTATION to DOCOMO TELECOM, et cetera;<br/>
 
 ### Additional Reading:
 
-1) LOCALIZATION of FINAL FANTASY VII to U.S. MARKET, by U.S. and Japanese TEAM @SQUARE SOFT, INC.;<br/>
+1) LOCALIZATION of FINAL FANTASY VII to U.S. MARKET,<br/>
+--> by U.S. and Japanese TEAM @SQUARE SOFT, INC.;<br/>
 --> where: JAPANESE TEXT to ENGLISH TEXT;<br/>
 --> notes: DIFFICULTY caused by difference in LANGUAGE GRAMMER STRUCTURES;<br/>
 --> objective#1: translated ENGLISH TEXT classified to be readable as CORRECT ENGLISH<br/>
