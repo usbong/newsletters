@@ -8,7 +8,7 @@ TO-DO: -update: this<br/>
 > 元カプコンの後輩に退職後の経歴聞いてみた〔前編〕ポラリスエックス代表・住田康洋さん対談
 
 We ask Former CAPCOM JUNIOR EMPLOYEE his story after retirement from CAPCOM;<br/>
-Conversation with: POLARIS X Represenative, SUMIDA, YASUHIRO<br/>
+Conversation with: POLARIS X Representative, SUMIDA, YASUHIRO<br/>
 (Part 1 of 2)<br/>
 
 > Aug 3, 2022
@@ -59,12 +59,19 @@ SMARTPHONE PRODUCT -> give PRESENTATION to DOCOMO TELECOM, et cetera;<br/>
 1) LOCALIZATION of FINAL FANTASY VII to U.S. MARKET, by U.S. and Japanese TEAM @SQUARE SOFT, INC.;<br/>
 --> where: JAPANESE TEXT to ENGLISH TEXT;<br/>
 --> notes: DIFFICULTY caused by difference in LANGUAGE GRAMMER STRUCTURES;<br/>
---> adds: NOT as with Wild ARMS (PS1), <br/>
+--> objective#1: translated ENGLISH TEXT classified to be readable as CORRECT ENGLISH<br/>
+--> BEST scenario: translated TEXT to appear to have been originally written in ENGLISH<br/>   
+--> adds: NOT as with Wild ARMS (PS1),<br/>
 --> where: due to WESTERN SETTING, JAPANESE WORDS already sound as ENGLISH WORDS; <br/>
---> Example: NAMES セシリア : CECILIA<br/>
-<br/>
---> TO-DO: -add: GAME MAGAZINE as reference;
+--> Example: NAMES セシリア : CECILIA<br/><br/>
+--> adds: 50 people in U.S. translation team;<br/>
+--> objective#2: finish translation in 1 year (approx)<br/>
 
+#### Reference: 
+
+1) Lane, J. (1997). Electronic Gaming Monthly (Number 10.5, May 1997). USA: Ziff-Davis Publishing
+
+2) GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## [キャラ・アニメ版権のゲーム開発って難しくないか！？ゲームプロデューサーが版権モノの開発の厳しさを解説します【MARVEL SUPER HEROES】](https://www.youtube.com/watch?v=kpmWY5zFgns); last accessed: 20220220<br/>
 <b>| Character・Animation Copyright's Game Development, NOT difficult? Game Producer explains difficulty with development of objects with Copyright [MARVEL SUPER HEROES]</b><br/>
