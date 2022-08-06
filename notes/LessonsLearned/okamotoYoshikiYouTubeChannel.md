@@ -40,7 +40,7 @@ Partner was admitted in HOSPITAL, COMPANY shrunk;
 
 ### 韓国から、日本にローカライズして、パブリッシングの仕事
 
-(UPDATED) WORK: LOCALIZE ang PUBLISH to JAPANSE MARKET, GAMES From KOREA;<br/>
+(UPDATED) WORK: LOCALIZE and PUBLISH to JAPANSE MARKET, GAMES From KOREA;<br/>
 <br/>
 IF 10K Units SOLD;<br/>
 CAN RECEIVE: 5\~10Million YEN; (2.5\~5Million PESOS)<br/>
