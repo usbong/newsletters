@@ -49,7 +49,7 @@ Halimbawa:
 
 > 大規模な停電のほか、携帯電話や防災無線などが断続的に途絶え、110番などの緊急通報はつながりにくくなる。GPSは最大数十メートルもずれ、車のカーナビや自動運転も危険に。総務省がまとめた「100年に1回の最悪シナリオ」の概要だ。太陽表面の爆発現象「太陽フレア」の規模を示す5段階のうち最大規模「Xクラス」のレベルが「X10」という超巨大爆発が、2週間にわたって連続して発生した状況を想定した。
 
-Bukod sa malakihang pagtigil ng kuryente, mapuputol ang pagkatuluy-tuloy ng mga dala-dalang telepono, walang tali (ng telepono, atbp) na Panangga ng SAKUNA, atbp, at magiging mahirap makipag-ugnayan ukol sa mga Mabilisang Balita tulad ng sa 110 (bilang sa Pulisiya), atbp. 10 metro (pinakamalaki) rin ang maiiba sa GPS, magiging mapanganib din ang NAVIGASYON ng sasakyan, pagpapakilos ng mga ito, atbp. Pinagsamang BUOD ng Pook ng Pinagsamang mga Tungkulin: "1 sa 100 Taon na Pinakamasamang SENARYO". Ito ang pinagnilayang tiyak na kalagayan mula sa tuluy-tuloy na magaganap sa loob ng 2 linggo: SUPER DAMBUHALANG PAGSABOG, "X10" ng "X CLASS", ang pinakamalaki sa loob ng 5 nibel na ipinakikita ng LAKI ng "FLARE ng Araw", ang Kababalaghang Pagsabog sa Mukha ng Araw.
+Bukod sa malakihang pagtigil ng kuryente, mapuputol ang pagkatuluy-tuloy ng mga dala-dalang telepono, walang tali (ng telepono, atbp) na Panangga ng SAKUNA, atbp, at magiging mahirap makipag-ugnayan ukol sa mga Mabilisang Balita tulad ng sa 110 (bilang sa Pulisiya), atbp. 10 metro (pinakamalaki) rin ang maiiba sa GPS, magiging mapanganib din ang NAVIGASYON ng sasakyan, pagpapakilos ng mga ito, atbp. Pinagsamang BUOD ng Pook ng Pinagsamang mga Tungkulin: "1 sa 100 Taon na Pinakamasamang SENARYO". Ito ang pinagnilayang tiyak na kalagayan mula sa tuluy-tuloy na magaganap sa loob ng 2 linggo: SUPER DAMBUHALANG PAGSABOG, "X10" ng "X CLASS", ang pinakamalaki sa loob ng 5 nibel na ipinakikitang LAKI ng "FLARE ng Araw", ang Kababalaghang Pagsabog sa Mukha ng Araw.
 
 ### Dagdag
 
