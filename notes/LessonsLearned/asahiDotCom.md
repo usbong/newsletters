@@ -56,6 +56,7 @@ Bukod sa malakihang pagtigil ng kuryente, mapuputol ang pagkatuluy-tuloy ng mga 
 1) https://www.technologyreview.jp/s/268646/spacex-just-lost-40-satellites-to-a-geomagnetic-storm-there-could-be-worse-to-come/; last accessed: 20220806<br/>
 --> siniyasat: upang linawin ang kahulugan ng "40"; hindi pangalan;  bagkus, bilang ng mga nawala;
 
+2) GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## [ビタミンKに細胞死防ぐ効果　血液凝固の「なぞ」も思いがけず解明](https://www.asahi.com/articles/ASQ845CYFQ83UTFL001.html?iref=comtop_Tech_science_01); last accessed: 20220805
 
