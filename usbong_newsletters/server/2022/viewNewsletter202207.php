@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220806; from 20220805
+  @date updated: 20220807; from 20220806
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -522,7 +522,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> for <b>ELECTRICITY to RETURN</b> to be <b>OVER one (1) HOUR</b>.<br/> 
 --> Previously, in <b>5mins (APPROX)</b>, <b>ELECTRICITY POWER</b> returns for Computer Servers to <b>auto-start</b>;<br/>
 --> added: partner MOSC, has <b>POWER GENERATOR</b> using <b>FUEL</b><br/> 
---> to cause select <b>appliances</b>, e.g. <b>Light Emitting Diodie (LED) LAMPS</b>, <b>local router</b>, to function;<br/>
+--> to cause select <b>appliances</b>, e.g. <b>Light Emitting Diode (LED) LAMPS</b>, <b>local router</b>, to function;<br/>
 --> added: however, <b>desktop computers</b> to be set to <b>OFF</b>;<br/>
 <br/>
 
@@ -541,38 +541,58 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			<b>Current ACTION:</b><br/>
 			1) using: recycled <b>LENOVO IdeaPad with BATTERY</b> as Computer Server<br/>
-			--> where: <b>IdeaPad</b> classified to be <b>Laptop Computer</b><br/>
-			--> observed: execution of <b>Computer Web Browser</b>, e.g. Mozilla Firefox, to have <b>noticeable DELAY</b><br/>
+			--> where: <b>IdeaPad</b> classified to be <b>Laptop Personal Computer (PC)</b><br/>
+			--> observed: execution of <b>Computer Web Browser</b>, e.g. <a class="webServiceLink" target="_blank" href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a>, to have <b>noticeable DELAY</b><br/>
 			<br/>
-			<b>OUTPUT:</b> opted: to <b>USE another Computer</b> for Web Browser ACTIONS<br/>
+			<b>OUTPUT:</b> opted: to <b>USE Tablet PC</b> for <b>Web Browser</b> ACTIONS,<br/>
+			while using <b>recycled LENOVO Laptop Computer</b> as <b>Server</b><br/> 
+			during <b>NO ELECTRICITY POWER</b> incidents<br/>
 			<br/>
 				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202207/exampleTabletPCSoftwareHardwareWithMedItemBoxTechnique20220314T1158.jpg"><br/>
-				<b>Example Tablet Personal Computer (PC) on BATTERY Power</b>
+				<b>Example Tablet PC on BATTERY Power</b>
 			<br/>
 			<br/>
-			<b>Additional Note:</b><br/>
+			<b>Additional Notes:</b><br/>
 			1) installed: in <b>LENOVO IdeaPad</b>, the following Web Server Tools:<br/>
 			1.1) <a class="webServiceLink" target="_blank" href="https://httpd.apache.org/">Apache Web Server</a><br/>			
 			1.2) <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a><br/>						
 			1.3) <a class="webServiceLink" target="_blank" href="https://www.phpmyadmin.net/">phpMyAdmin Tools</a><br/>
 			<br/>
-			--> With this <b>Computer Server</b>, <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">XAMPP</a> <b>did NOT install successfully</b> as with another <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a> <b>Computer Server</b><br/>
+			--> observed: <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">XAMPP</a> <b>did NOT install successfully</b>, in contrast with another <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a> <b>Computer Server</b><br/>
 			<br/>
-			--> adds: however, <b>applications</b> that I wrote in the following Computer Languages <b>execute</b> WITHOUT noticeable DELAY:<br/>
-			<br/>			
-			1.1) <b>C/C++ COMPUTER LANGUAGE</b><br/>
-			1.2) <a class="webServiceLink" target="_blank" href="https://www.java.com/en/">JAVA COMPUTER LANGUAGE</a></b>
+			--> <b>ACTION:</b> wrote: in a file, <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS/blob/master/Miscellaneous%20Commands/installWebServerInLinuxMachineNotViaXAMPP.sh">List of Install Commands for Auto-execution</a><br/>
+			--> where: <b>classification</b>: NON-XAMPP Web Server<br/>		
+			<br/>
+			2) observed: in <b>LENOVO IdeaPad</b>, <b>applications</b> that I wrote in the following Computer Languages <b>execute</b> WITHOUT noticeable DELAY:<br/>
+			<br/>
+			2.1) <b>C/C++ COMPUTER LANGUAGE</b><br/>
+			2.2) <a class="webServiceLink" target="_blank" href="https://www.java.com/en/">JAVA COMPUTER LANGUAGE</a></b>
 			<br/>
 			<br/>
 			<b>Example:</b> Setup System for Quick Execution of <b>WORKBOOK Reports</b><br/>
 		<video width="416" height="312" controls>
 		  <source src="assets/images/videos/halimbawaSetupSystemForQuickExecution20220713T1018.mp4" type="video/mp4">
 		  Your browser does not support the video tag.
-		</video><br/>											
+		</video><br/>
+		<br/>
+		    --> observed: <b>noticeable DELAY</b> due to the following:<br/>
+		    <br/>
+		    1) increase in computation tasks<br/>
+		    --> <b>Example:</b> COMMANDS with 3-Dimensional Graphics techniques, e.g. floating-point numbers/fractions, for drawing the resizable DISPLAY <br/>
+		    <br/>
+		    2) decrease in available memory storage<br/>
+		    --> <b>Example:</b> Spreadsheet with multiple worksheets with ROW and COLUMN counts whose Total FILE SIZE is 700MB<br/>
+			<br/>
+		    <b>Recommended Action:</b> use: for such tasks, MACHINES with the following:<br/>
+		    1) <b>faster microcomputers</b> (processors);<br/>
+		    2) <b>higher memory storage</b> (Random-Access Memory (RAM));<br/>		    
 		<br/>
 		</td>
 	</tr>
 </table>
+<br/>
+<br/>
+TO-DO: -add: notification on BIR Income Tax Return Notes<br/>
 
 <br/>
 <br/>
@@ -744,6 +764,7 @@ observed: <b>NOISE POLLUTION</b> about <b>Fraternity/Sorority</b> groups;<br/>
 <br/>
 --> <b>Example:</b> "Epsilon group is FRIENDS with ALL";<br/>
 --> notes: <b>increase in excess USE of TIME to think of significance</b><br/>
+--> <b>ACTION:</b> classify: as <b>NOISE POLLUTION</b><br/>
 <br/>
 remembers: @<b>Medical City Hospital</b>, Ortigas, Pasig City, meeting female students who introduced themselves as part of SORORITY who work on Mental Health;<br/>
 <br/>
