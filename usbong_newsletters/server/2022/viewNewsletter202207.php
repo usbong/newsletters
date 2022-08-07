@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220807; from 20220806
+  @date updated: 20220808; from 20220807
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -196,12 +196,21 @@
 							border: 1px solid #ab9c7d;
 							background-color: #dddddd;
 							text-align: center;
+							font-size: 12pt;
+							font-style: bold;
+							color: black;
 						}
 
 						td.noteTaxTableColumn
 						{
 							border: 1px solid #ab9c7d;
 							text-align: left;
+							color: black;
+						}
+
+						span.updateEmphasisSpan
+						{
+							color: #00aa00;
 						}
 
 						table.noteTable
@@ -581,19 +590,15 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 		    --> <b>Example:</b> COMMANDS with 3-Dimensional Graphics techniques, e.g. floating-point numbers/fractions, for drawing the resizable DISPLAY <br/>
 		    <br/>
 		    2) decrease in available memory storage<br/>
-		    --> <b>Example:</b> Spreadsheet with multiple worksheets with ROW and COLUMN counts whose Total FILE SIZE is 700MB<br/>
+		    --> <b>Example:</b> Spreadsheet with multiple worksheets with ROW and COLUMN counts whose Total FILE SIZE is 724KB<br/>
 			<br/>
-		    <b>Recommended Action:</b> use: for such tasks, MACHINES with the following:<br/>
+		    <b>Recommended Action:</b> use: MACHINES with the following:<br/>
 		    1) <b>faster microcomputers</b> (processors);<br/>
 		    2) <b>higher memory storage</b> (Random-Access Memory (RAM));<br/>		    
 		<br/>
 		</td>
 	</tr>
 </table>
-<br/>
-<br/>
-TO-DO: -add: notification on BIR Income Tax Return Notes<br/>
-
 <br/>
 <br/>
 continued: with <b>AUTOMATIC</b> transferring as copies <b>Database files</b><br/>
@@ -607,7 +612,176 @@ continued: with <b>AUTOMATIC</b> transferring as copies <b>Database files</b><br
 		  			Your browser does not support the video tag.
 					</video><br/>	
 			<br/>
+--> <b>reminder:</b> When <b>MAIN Computer Server</b> malfunctions due to <b>LOSS of ELECTRICITY POWER</b>, this <b>ACTION</b> empowers UNIT to <b>QUICKLY</b> use <b>another Computer Server</b> with the copy of the <b>Database files</b> to <b>UPDATE INVENTORY</b>, et cetera
+</h5>
 
+<h5> 
+1.1.2) shared: with Public, <b>DECREASE in TAX</b> by next year, <b>JANUARY 2023 onwards</b>
+<br/>
+<br/>
+<b>eBIR Form No. 1701Qv2018</b><br/>
+</br>
+<b>TABLE 1 - Tax Rates (effective January 1, 2018 to December 31, 2022)</b></br>
+<br/>
+<table class="noteTaxTable">
+<tr>
+	<td class="noteTaxTableColumnHeader">
+If Taxable Income is:
+	</td>
+	<td class="noteTaxTableColumnHeader">
+Tax Due is:
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Not over P250,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">0%</span>
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P250,000 but not over P400,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">20%</span> of the excess over P250,000	
+</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P400,000 but not over P800,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">P30,000 + 25%</span> of the excess over P400,000	
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P800,000 but not over P2,000,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">P130,000 + 30%</span> of the excess over P800,000
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P2,000,000 but not over P8,000,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">P490,000 + 32%</span> of the excess over P2,000,000
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P8,000,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">P2,410,000 + 35%</span> of the excess over P8,000,000
+	</td>	
+</tr>
+</table>
+
+</br>
+<b>TABLE 2 - Tax Rates (effective January 1, 2023 and onwards)</b></br>
+<br/>
+<table class="noteTaxTable">
+<tr>
+	<td class="noteTaxTableColumnHeader">
+If Taxable Income is:
+	</td>
+	<td class="noteTaxTableColumnHeader">
+Tax Due is:
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Not over P250,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">0%</span>
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P250,000 but not over P400,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">15%</span> of the excess over P250,000
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P400,000 but not over P800,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">22,500 + 20%</span> of the excess over P400,000
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P800,000 but not over P2,000,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">102,500 + 25%</span> of the excess over P800,000
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P2,000,000 but not over P8,000,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">402,500 + 30%</span> of the excess over P2,000,000
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Over P8,000,000
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">P2,202,500 + 35%</span> of the excess over P8,000,000
+	</td>	
+</tr>
+
+</table> 
+</br>
+<b>REMINDER: SINGLE PROPRIETOR: BIR FORM 1701</b></br>
+<br/>
+<table class="noteTaxTable">
+<tr>
+	<td class="noteTaxTableColumn">
+1st Quarter
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">15-APR</span>
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+2nd Quarter
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">15-AUG</span>
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+3rd Quarter
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">15-NOV</span>
+	</td>	
+</tr>
+<tr>
+	<td class="noteTaxTableColumn">
+Annual
+	</td>
+	<td class="noteTaxTableColumn">
+<span class="updateEmphasisSpan">15-APR (Following Year)</span>
+	</td>	
+</tr>
+</table>
+</br>
 </h5>
 
 <h4>2.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
