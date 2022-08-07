@@ -84,7 +84,9 @@ Unless set to auto-execute when the Operating System restarts, we again execute 
 
 ## 4. Add-on Software Requirements
 ### 4.1. Linux Machine 
-<b>Note:</b> `Apache Web Server` already included in [LUBUNTU LTS 20.4](http://lubuntu.me) Operating System (OS)
+<b>Note:</b> `Apache Web Server` already included in [LUBUNTU LTS 20.4](http://lubuntu.me) Operating System (OS)<br/>
+
+<b>List of Install Commands for Auto-execution:</b> [installWebServerInLinuxMachineNotViaXAMPP.sh](https://github.com/usbong/KMS/blob/master/Miscellaneous%20Commands/installWebServerInLinuxMachineNotViaXAMPP.sh)
 
 ### 4.2. Windows Machine
 #### XAMPP
