@@ -59,7 +59,7 @@ Tagapakinig: KOIDE, DAIKI; 20220713T1930
 83,333.33 PISO / Buwan
 
 > ちょっとした知恵によって乗り越えるヒント
-> 本の狙いでしたhttp://nihongo.monash.edu/cgi-bin/wwwjdic?1E
+> 本の狙いでした
 
 <b>Pakay ng Aklat:</b> Paraan upang kahit sa kaunting kaalaman, maaaring makaraos 
 
