@@ -12,6 +12,92 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [豊かな「年収200万」？　話題本の監修者が明かす「実は私も…](https://www.asahi.com/articles/ASQ7D6FH3Q6WULFA02N.html?iref=pc_extlink); last accessed: 20220808
+
+> 豊かな「年収200万」？　話題本の監修者が明かす「実は私も…」
+
+Sagana sa "1 Milyong (PISO) KITA sa Bawat Taon"?<br/>
+Tagapangasiwa ng Paksa ng Aklat,<br/>
+ipinaliwanag: "Ang sa katunayan, ako rin..."
+
+> 有料会員記事
+
+Sulatin sa nagsusulat na kasapi
+
+> 聞き手・小出大貴2022年7月13日 19時30分
+
+Tagapakinig: KOIDE, DAIKI; 20220713T1930
+
+>「年収200万円で豊かに暮らす」（宝島社）とのタイトルで、6月7日に発売された本がソーシャルメディア上で取り上げられ、議論を呼んだ。さまざまなモノの値段が上がる中で、そのタイトルから、賃金が上がらないことを受け入れるように促しているのではないかという意見などが出ていた。この本の監修者で、「年収200万円からの貯金生活宣言」などの著書もある「家計再生コンサルタント」の横山光昭さんに、伝えたかったメッセージを聞いた。<br/>
+> <br/>
+>　――本のタイトルをめぐり、ネット上では「年収200万円でいいんだと若者をミスリードしている」などという声が上がり、多くの反響がありました。<br/>
+> <br/>
+>　予想を超える反応でした。円安や物価高が言われるなか、今後どうなるのか不安に感じる方が多く、（反響が）広がったのではないかと思います。事実、私の会社にも生活が本当に苦しいという相談があります。そういう状況でも、ちょっとした知恵によって乗り越えるヒントとして読んで頂きたいというのが、この本の狙いでした。本の中では、作り置きで食費を減らすコツや、同じような形や色の服が多い人はお金がたまりにくいことなど、生活のなかでできる節約術や注意点を紹介しています。<br/>
+> <br/>
+>　――国税庁の調査によると、年収が200万円以下の人は2020年で全体の22・2%を占めますが、年収200万円では豊かに暮らせない、といった声もあります。<br/>
+> <br/>
+>　まず自分が望む生活には月にいくらの支出が必要なのか、を把握することが重要です。年収の額面が200万円台でも関東で一人暮らしをしながら、毎月貯金や投資をしている方もいますし、年収1千万円でも家計が赤字の人もいます。<br/>
+> <br/>
+>　私はいつも家計を「収入・支出・運用」の3要素で考えていて、この本は支出の改善に焦点をあてたものです。ただ、本で紹介している節約術を使ってずっとやりくりをしましょう、という話でもありません。年収を上げることは簡単ではありませんが、別の対策法はあります。家計状況を変えたいのであれば、どの要素も大切です。<br/>
+> <br/>
+>　――しかし家計状況を変えるのは、大変そうです。<br/>
+> <br/>
+>　実は私も約20年前、司法書…
+> <br/>
+> この記事は有料会員記事です。残り540文字有料会員になると続きをお読みいただけます。
+
+--
+
+>「年収200万円で豊かに暮らす」（宝島社）とのタイトルで、6月7日に発売された本
+
+<b>Pamagat ng Aklat:</b> "Saganang mabuhay sa 1 Milyong PISO'ng KITA sa Bawat Taon"<br/>
+<b>Tagalathala:</b> TAKARA-JIMA-SHA<br/>
+<b>Panahon:</b> 2022-06-07
+
+### Paalala: 
+1 Milyong PISO / Taon;<br/> 
+83,333.33 PISO / Buwan
+
+> ちょっとした知恵によって乗り越えるヒント
+> 本の狙いでしたhttp://nihongo.monash.edu/cgi-bin/wwwjdic?1E
+
+<b>Pakay ng Aklat:</b> Paraan upang kahit sa kaunting kaalaman, maaaring makaraos 
+
+### Halimbawa: 
+
+> 作り置きで食費を減らすコツや、同じような形や色の服が多い人はお金がたまりにくいことなど、生活のなかでできる節約術や注意点を紹介しています。<br/>
+
+Paraan ng sariling paggagawa upang mabawasan ang gastusin sa pagkain;<br/>
+Hirap sa pag-iipon ng pera ang maraming mga taong may damit na magkatulad ng hugis at kulay;<br/>
+
+> 国税庁の調査によると、年収が200万円以下の人は2020年で全体の22・2%を占めますが、年収200万円では豊かに暮らせない、といった声もあります。
+
+Ayon sa Pook sa Pangangasiwa ng Buwis ng Kaharian, sa Taong 2020, nasasakop ng 22.2% ng kabuuan ang mga taong kumikita ng mababa sa 1 Milyon PISO bawat taon. May tinig na nagsasabing hindi kayang mabuhay nang sagana sa KITA na 1 Milyong PISO.
+
+> まず自分が望む生活には月にいくらの支出が必要なのか、を把握することが重要です。
+
+Bilang simula, mabigat ang pangangailangang maunawaan kung magkano ang kailangang gastusin sa bawat buwan upang mabuhay nang nais ang sarili.
+
+> 年収の額面が200万円台でも関東で一人暮らしをしながら、毎月貯金や投資をしている方もいますし、年収1千万円でも家計が赤字の人もいます。
+
+May taong sa KANTOU (bahagi kung saan naroon ang TOKYO, atbp), nabubuhay nang mag-isa sa halagang 1 Milyong PISO, habang nag-iipon at namumuhunan bawat buwan; May tao ring kahit 5 milyon ang KITA bawat Taon, KULANG pa rin ayon sa sukat ng kailangan ng kanyang tahanan.
+
+> 家計を「収入・支出・運用」の3要素で
+
+3 Kailangang Sangkap sa Tahanan: <br/>
+1) KITA<br/>
+2) GASTOS<br/>
+3) PANGANGASIWA
+
+> 年収を上げることは簡単ではありませんが、別の対策法はあります。家計状況を変えたいのであれば、どの要素も大切です
+
+Bagama't hindi madaling pataasin ang KITA bawat Taon, may PARAAN din. Kung nais nating baguhin ang kalagayan ng ating Tahanan, MAHALAGA ang alinman sa tatlong nabanggit na Kailangang Sangkap.
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE;
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E; last accessed: 20220808
+
+
 ## [スペースX衛星40基失う、原因は太陽フレア　災害備え近くから監視](https://www.asahi.com/articles/ASQ845GDTQ7XULBH008.html?iref=comtop_Tech_science_02); last accessed: 20220806
 
 > スペースX衛星40基失う、原因は太陽フレア　災害備え近くから監視
