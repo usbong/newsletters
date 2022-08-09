@@ -12,6 +12,63 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [東工大と東京医科歯科大、統合協議へ　「大学ファンド」の応募も視野](https://www.asahi.com/articles/ASQ886KLDQ88UTIL01Z.html?iref=comtop_Tech_science_02); last accessed: 20220809
+
+> 東工大と東京医科歯科大、統合協議へ　「大学ファンド」の応募も視野
+
+Pamantasan ng TOKYO sa Pampabilis ng Gawain at Pamantasan ng TOKYO sa Maparaang Pagbubukod sa Panggagamot kabilang ang sa Ngipin,<br/>
+<br/>
+Tungo sa Pagpupulong ng Pinag-isang Pagsasama sa Pagtutulungan;<br/>
+<br/>
+Malawakang Pagtingin sa Paghiling ng "FUND ng Pamantasan"
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年8月8日 20時12分
+
+20220808T2012
+
+>　2大学は世界最高水準の教育研究活動が期待される「指定国立大学」。
+
+Inaasahan itong dalawang pamantasan bilang "Tinutukoy na Pamantasang Itinayo ng Kaharian" upang Buhayin sa Pagkilos ang Pananaliksik ng Pagtuturo't Pag-aalaga sa Pinakamataas na Nibel ng Daigdig.
+
+> 統合が実現すれば、指定国立大同士では初めてとなる。
+
+Kapag naisakatupuran ang pinag-isang pagsasama, magiging unang pagkakataon ang dalawang magkatulad bilang Tinutukoy na Pamantasang Itinayo ng Kaharian.
+
+> 政府は大学の国際競争力強化を狙い、財政投融資を主な原資として10兆円規模の大学ファンド（基金）を創設して、2024年度から運用益をもとに最大で5～7大学に年数百億円ずつ配る予定だ。
+
+Pakay ng Pook ng Pangangasiwa (ADMIN) na palakasin ang Pandaigdigang Pakikitunggali, sa pamamagitan ng pagtataguyod, gamit ang YAMAN sa Pamumuhunan, sa paggawa ng pangunahing pinanggagalingang ng salapi, ng hinuhulmang 5 Trilyong PISONG FUND ng Pamantasan (Pangunahing Salapi). Tiyak sa hinaharap na ipamamahagi ng ilang 5Bilyong PISO, mula Taong 2024, sa 5~7 (Pinakamalaki) mga Pamantasan batay sa Kinita mula sa Pamumuhunan.
+ 
+### Paalala
+
+百億円<br/>
+100*100MilyonYEN<br/>
+10,000MilyonYEN
+ 
+
+> 今年12月までに、対象となる「国際卓越研究大学」を公募する。
+
+Hanggang ika-12 Buwan ng kasalukuyang taon, ibubukas ang paghiling sa pinapakay na "Pamantasang Mahusay sa Pandaigdigang Pananaliksik"
+
+> 応募には「国際的に優れた研究成果の創出」などの要件を満たす必要
+
+Upang humiling, kailangang makamit ang pangangailang "Makapaglabas ng Bunga ng Mahusay na Pandaigdigang Pananaliksik", atbp.
+
+> 関係者によると、東工大と医科歯科大は応募を視野に統合で研究力を高めることを目指しているという。
+
+Ayon sa kaugnay na tao, sinasabing hinahangad ang pagtaas ng LAKAS ng pananaliksik sa pinag-isang pagsasama, gamit ang Malawakang Pagtingin, ng Pamantasan ng TOKYO sa Pampabilis ng Gawain at ng Pamantasan ng TOKYO sa Maparaang Pagbubukod sa Panggagamot kabilang ang sa Ngipin.
+
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+
+1) Maikling pagbubuod ito ng sulatin
+
 ## [豊かな「年収200万」？　話題本の監修者が明かす「実は私も…](https://www.asahi.com/articles/ASQ7D6FH3Q6WULFA02N.html?iref=pc_extlink); last accessed: 20220808
 
 > 豊かな「年収200万」？　話題本の監修者が明かす「実は私も…」
