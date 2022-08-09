@@ -46,6 +46,7 @@ Pakay ng Pook ng Pangangasiwa (ADMIN) na palakasin ang Pandaigdigang Pakikitungg
 
 百億円<br/>
 100*100MilyonYEN<br/>
+百億円<br/>
 10,000MilyonYEN
  
 
