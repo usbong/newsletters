@@ -40,15 +40,28 @@ Kapag naisakatupuran ang pinag-isang pagsasama, magiging unang pagkakataon ang d
 
 > 政府は大学の国際競争力強化を狙い、財政投融資を主な原資として10兆円規模の大学ファンド（基金）を創設して、2024年度から運用益をもとに最大で5～7大学に年数百億円ずつ配る予定だ。
 
-Pakay ng Pook ng Pangangasiwa (ADMIN) na palakasin ang Pandaigdigang Pakikitunggali, sa pamamagitan ng pagtataguyod, gamit ang YAMAN sa Pamumuhunan, sa paggawa ng pangunahing pinanggagalingang ng salapi, ng hinuhulmang 5 Trilyong PISONG FUND ng Pamantasan (Pangunahing Salapi). Tiyak sa hinaharap na ipamamahagi ng ilang 5Bilyong PISO, mula Taong 2024, sa 5~7 (Pinakamalaki) mga Pamantasan batay sa Kinita mula sa Pamumuhunan.
+Pakay ng Pook ng Pangangasiwa (ADMIN) na palakasin ang Pandaigdigang Pakikitunggali, sa pamamagitan ng pagtataguyod, gamit ang YAMAN sa Pamumuhunan, sa paggawa ng pangunahing pinanggagalingang ng salapi, ng hinuhulmang 5 Trilyong PISONG FUND ng Pamantasan (Pangunahing Salapi). Tiyak sa hinaharap na ipamamahagi ng ilang 5 Bilyong PISO, mula Taong 2024, sa 5~7 (Pinakamalaki) mga Pamantasan batay sa Kinita mula sa Pamumuhunan.
  
-### Paalala
+### Paalala#1
 
-百億円<br/>
-100*100MilyonYEN<br/>
-百億円<br/>
-10,000MilyonYEN
- 
+百億<br/>
+100\*100Million<br/>
+百億<br/>
+10,000Million = 10Billion
+
+### Paalala#2
+
+百万<br/>
+100\*10Thousand<br/>
+100\*10,000<br/>
+百万<br/>
+1,000K = 1Million<br/>
+<br/>
+10万<br/>
+10\*10Thousand<br/>
+10\*10,000<br/>
+百万<br/>
+100K<br/>
 
 > 今年12月までに、対象となる「国際卓越研究大学」を公募する。
 
