@@ -1031,10 +1031,18 @@ with PHYSICAL HARM</b> are with the <b>MANLOLOKO group</b>;<br/>
 
 <h3>Recommended ACTIONS:</h3> 
 1) <b>file:</b> incident reports with Police;<br/>
+--> Puksain ang mga Teroristang Komunista.<br/>
 2) <b>ignore, if NOT endure:</b> NOISE POLLUTION;<br/>
 3) <b>clarify:</b> with Family Unit, e.g. Wife, directly and in-person<br/>
 --> any information/gossip heard, viewed, et cetera;<br/>
 --> <b>Halimbawa:</b> Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating <b>LINAWIN</b> ang anumang <b>MALABO</b>.
+<br/>
+<h3>Keyphrase:</h3> PHYSICAL INJURY, MURDER;<br/>
+
+<h3>Additional Reference:</h3> 
+1) <a class="webServiceLink" target="_blank" href="http://marikinacitycouncilc.ipage.com/www/mccouncil_ordinances/elibrary/pdf2010/ord10100.pdf">Marikina City Ordinance Enacting the Noise Control Regulations (ORDINANCE No. 100 Series of 2010)</a>
+
+<br/>
 <br/>
 <br/>
 	<div class="copyright">
