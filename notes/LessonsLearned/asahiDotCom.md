@@ -12,6 +12,10 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [https://www.asahi.com/articles/photo/AS20220809002108.html](日本の注目度高い論文数　韓国、スペインに抜かれ12位に); last accessed: 20220810
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/asahiShimbunChartV20220810.png" width="100%">
+
 ## [東工大と東京医科歯科大、統合協議へ　「大学ファンド」の応募も視野](https://www.asahi.com/articles/ASQ886KLDQ88UTIL01Z.html?iref=comtop_Tech_science_02); last accessed: 20220809
 
 > 東工大と東京医科歯科大、統合協議へ　「大学ファンド」の応募も視野
