@@ -1,12 +1,10 @@
 # Usbong Newsletters
-<b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202206.php<br/>
+<b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202207.php<br/>
 --> Select <b>WORKS</b> accomplished by:<br/> 
 --> <b>THE YEAR TWO THOUSAND AND TWENTY-TWO,<br/> 
---> MONTH OF JUNE</b><br/>
+--> MONTH OF JULY</b><br/>
 <br/>
-<b>Previous Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202205.php<br/>
-<br/>
-<b>Next Newsletter (draft):</b> http://store.usbong.ph/server/2022/viewNewsletter202207.php<br/>
+<b>Previous Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202206.php<br/>
 <br/>
 <b>Printed version</b> shared @the following <b>barangays</b> among others:<br/>
 --> Marikina City: Sto. Niño, Sta. Elena, San Roque, Marikina Heights, Concepcion Uno<br/>
