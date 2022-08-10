@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220808; from 20220807
+  @date updated: 20220810; from 20220808
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -505,8 +505,8 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>コンピュータ情報</b> (kompyu-ta jouhou) : <b>BALITA</b><br/>
-		Kompyuter; Damdamin Pinagpapala;
+		<b>手術</b> (しゅじゅ; shujutsu) : <br/>
+		<b>Paraan ng Kamay (SURGERY)</b>
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -606,7 +606,7 @@ continued: with <b>AUTOMATIC</b> transferring as copies <b>Database files</b><br
 --> where: <b>Computer Server</b> : <b>combination of Operating Systems (OS)</b>,<br/> 
 --> e.g. <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a>, <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/">Windows 7</a>;<br/>
 --> where: <b>Database files</b> : <b>Saved Work</b><br/>
---> <b>Example Computer Instructions</b> written in <b>Bash Shell</b><br/> 
+--> <b>Example <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS/tree/master/Miscellaneous%20Commands">Computer Instructions</a></b> written in <b>Bash Shell</b><br/> 
 					<video width="416" height="312" controls>
 		  			<source src="assets/images/videos/usbongKmsDatabaseSavedWorkReminderDeleteExcessDBFiles20220714T1620.mp4" type="video/mp4">
 		  			Your browser does not support the video tag.
@@ -781,8 +781,10 @@ Annual
 	</td>	
 </tr>
 </table>
-</br>
 </h5>
+<h4>
+<b>REFERENCE:</b> <a class="webServiceLink" target="_blank" href="https://www.bir.gov.ph/index.php/eservices/ebirforms.html">Offline eBIR Forms Package (version 7.9.2.1)</a>
+</h4>
 
 <h4>2.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
@@ -882,18 +884,19 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 362titik. Kapag nagi
 </span>
 <h3><b>Sanggunian:</b></h3>
 <span class="usbongTranslationSpan">
-    GOOGLE SEARCH ENGINE; TRANSLATE<br/>
-    Japanese-English Dictrionary (JED) Android Application<br/>
-    PLECO Chinese-English Dictionary Android Application<br/>
+    <a class="webServiceLink" target="_blank" href="https://www.google.com">GOOGLE SEARCH ENGINE; TRANSLATE</a><br/>
+    <a class="webServiceLink" target="_blank" href="https://play.google.com/store/apps/details?id=com.umibouzu.jed&hl=en&gl=US">Japanese-English Dictrionary (JED) Android Application</a><br/>
+	<a class="webServiceLink" target="_blank" href="https://www.pleco.com/">PLECO Chinese-English Dictionary Android Application</a><br/>
 </span>
 <br/>
 
 <h3>3) SECURITY DEFENSE FORCE</h3>
 <h4>
---> 3.1) <b>NOISE POLLUTION</b> from <b>Manloloko/budol-budol/carnapper/smuggler/<br/>
+--> 3.1) <b>NOISE POLLUTION</b> from <b>MANLOLOKO/budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista group</b><br/>
+--> <b>reminder:</b> <b>carnapper</b> executes among others: <b>BUKAS KOTSE CRIMINAL ACTIONS</b><br/>
 </h4>
 <h5>
---> Cybercriminal/Teroristang Komunista group</b> continues<br/>
+--> <b>Cybercriminal/Teroristang Komunista group</b> continues<br/>
 --> <b>Example#1:</b> wireless broadcasting of IDEAS on how to improve OUTPUTs, e.g. in computer programming;<br/>
 --> observed: <b>IDEAS</b> appear to be among others: JARGON, obvious, came from another who appeared to have know-how, but were NOT verified by his/herself;<br/>
 --> <b>OUTPUT:</b> INCORRECT;<br/> 
@@ -903,10 +906,10 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 362titik. Kapag nagi
 --> by Manloloko group to cause RE-ACTION, e.g. regrets;<br/>
 --> <b>SOLUTION#1:</b> classify: as <b>NOISE POLLUTION</b>;<br/> 
 --> where: <b>NO NEED</b> to use available TIME to identify significance, et cetera<br/>
---> <b>SOLUTION#2:</b> file: incident reports with Law Enfocement, e.g. Police<br/> 
+--> <b>SOLUTION#2:</b> file: incident reports with Law Enforcement, e.g. Police<br/> 
 </h5>
 <h4>
---> 3.2) <b>FRATERNITY</b>: Question & Answer for CLARIFICATION<br/>
+--> 3.2) <b>FRATERNITY</b>: <b>Question & Answer</b> for <b>CLARIFICATION</b><br/>
 </h4>
 <h5>
 <blockquote class="usbongBlockquote">
@@ -915,24 +918,104 @@ Q&A#1) Please teach me about fraternities, sororities, New People's Army (NPA), 
 What have you encountered?
 </p>
 </blockquote>
-<br/>
 
-1) classifies: Those that execute harm, e.g. <b>NOISE POLLUTION</b>, <b>PHYSICAL INJURIES</b>, are with the <b>Manloloko/Teroristang Komunista group</b>;<br/>
+<h4>1) classifies: Those that execute harm, e.g. <b>NOISE POLLUTION</b>, <b>PHYSICAL INJURIES</b>, are with the <b>Manloloko/Teroristang Komunista group</b>;
+</h4>
+<h5>
+<b> reminder#1:</b> <b>smuggler/carnapper</b> classified with the <b>Manloloko/Teroristang Komunista group</b><br/>
+<b>reminder#2:</b> <b>Teroristang Komunista/MANLOLOKO group</b> misuses <b>wireless broadcasting</b> to attack <b>target</b><br/>
 <br/>
-<b> reminder:</b> <b>smuggler/carnapper</b> classified with the <b>Manloloko/Teroristang Komunista group</b><br/>
+<b>Example#1 Physical Attacks causing Injury to Target:</b><br/>
+			<b>Target:</b> SYSON, MICHAEL B.<br/>			 
 <br/>
-2) Use of Greek letters, e.g. <b>Alpha</b>, <b>Epsilon</b>, due to based on <b>American School System</b>, e.g. Harvard;<br/>
---> notes: adds <b>"MYSTERY"</b>, causing <b>INCORRECT IDEAS</b><br/>
+identified: <b>Teroristang Komunista Members</b> as <b>ATTACKERS</b><br/>
+1) <b>Ramon Syson</b>, younger brother of father Dr. Pedro Syson<br/>
+2) <b>Ryan Syson</b>, eldest son of Ramon Syson<br/>
+<br/>
+Both Knees (datetime stamp: 2020-10-15T13:34)<br/>
+			 <table>
+			 <tr>
+			 <td>
+					<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202112/20201021_075857LEFTOccurred20201015T1334.jpg">
+					<br/>
+					LEFT Knee
+			</td>
+			 <td>
+					<img class="newsletterImage" width="50%" height="50%" src="assets/images/newsletter/202112/20201021_075812RIGHTOccurred20201015T1334.jpg">
+					<br/>
+					RIGHT Knee
+			</td>			
+			</tr>
+			</table>			 
+
+<br/>
+			<b>Example#2 Noise Pollution via <b>RADIO FREQUENCY</b> previously set to <b>STATIC</b>:</b><br/>
+			<b>Target:</b> SYSON, MICHAEL B.<br/>			 
+			<br/>
+			identified: <b>Teroristang Komunista Members</b> as <b>ATTACKERS</b><br/>
+1) <b>Tyrone Tang</b>, basketball player<br/>
+2) <b>Keith Haw</b>, friend and classmate of <b>Tyrone Tang</b><br/>
+<br/>
+Both are classmates of <b>SYSON, MICHAEL B.</b> @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;
+			
+			 <table>
+<tr>
+			 <td>
+			 <br/>
+				<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+				Approx size: 6x6cm
+			</td>
+			<td>
+			</td>
+			</tr>			
+			</table>		
+			<br/>	 
+<b>CAUSE:</b> After investigation, <b>Teroristang Komunista</b> group was verifying via <b>CRIMINAL ACTIONS</b> classified as <b>HARASSMENT/EXTORTION</b>, et cetera to identify among others:<br/>
+<br/>
+1) <b>LOCATION</b> of smuggled vehicles<br/>
+2) <b>Police Units</b> who caused DELAY in their <b>smuggling ACTIONS</b><br/>
+		</td>
+<br/>		
+<b>Paalala</b>) verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
+--> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>; last accessed: 20220322<br/>
+<br/>
+<b>
+    | BOC Destroys 21 Smuggled Vehicles<br/>
+    | Posted on June 18, 2021<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+<b>
+    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b>,<br/> 
+<h4>
+2) Use of Greek letters, e.g. <b>Alpha</b>, <b>Epsilon</b>, due to based on <b>American School System</b>, e.g. Harvard;
+</h4>
+<h5>
+--> where:  American School System has <b>VOTING systems</b>;<br/>
+--> Therefore, after <b>VOTING</b>, the <b>PRESIDENT of the GROUP</b> is the <b>Unit Chief</b>;<br/>
+--> adds: <b>SCHOOLS</b> measure performance via <b>GRADES</b>;<br/>
+--> Because <b>Fraternities/Sororities</b> are <b>SCHOOL-based</b>, <b>GRADES</b> are used for identification;<br/>
+--> <b>Example:</b> which <b>student</b> is part of a <b>GROUP</b> during graduation;<br/>
+--> <b>FAILURE in SCHOOL</b> : <b>DROP-OUT</b> classification<br/>
+<br/>
+--> notes: <b>MANLOLOKO group</b> adds <b>"MYSTERY"</b>, causing <b>INCORRECT IDEAS</b><br/>
 --> where: <b>INCORRECT IDEAS</b> cause <b>FEAR</b>, <b>DESIRE</b>, et cetera;<br/>
 --> where: may accept <b>PANLOLOKO</b> to CORRECT via INFORMATION the <b>INCORRECT IDEAS</b>;<br/>
 <br/>
+
 <blockquote class="usbongBlockquote">
 <p>
 Q&A#2) Have you been invited before?
 </p>
 </blockquote>
 <br/>
-During my visits as student to <b>University of the Philippines (UP) Diliman</b>, <b>Manila</b>, <b>Asian Institute of Management (AIM)</b>, et cetera;<br/>
+During my visits as student to <b>University of the Philippines (UP): Diliman</b>・<b>Manila</b>, <b>Asian Institute of Management (AIM)</b>, et cetera;<br/>
 <br/>
 observed: <b>NOISE POLLUTION</b> about <b>Fraternity/Sorority</b> groups;<br/>
 <br/>
@@ -943,12 +1026,15 @@ observed: <b>NOISE POLLUTION</b> about <b>Fraternity/Sorority</b> groups;<br/>
 remembers: @<b>Medical City Hospital</b>, Ortigas, Pasig City, meeting female students who introduced themselves as part of SORORITY who work on Mental Health;<br/>
 <br/>
 <b>reminder:</b> Those that execute <b>NOISE POLLUTION<br/>  
-with PHYSICAL HARM</b> are with the Manloloko group;<br/>
-
+with PHYSICAL HARM</b> are with the <b>MANLOLOKO group</b>;<br/>
 </h5>
-<br/>
-<br/>
-TO-DO: -update: this<br/>
+
+<h3>Recommended ACTIONS:</h3> 
+1) <b>file:</b> incident reports with Police;<br/>
+2) <b>ignore, if NOT endure:</b> NOISE POLLUTION;<br/>
+3) <b>clarify:</b> with Family Unit, e.g. Wife, directly and in-person<br/>
+--> any information/gossip heard, viewed, et cetera;<br/>
+--> <b>Halimbawa:</b> Kung may narinig kang hindi ayos ukol sa akin, kausapin mo muna ako nang direkta at harap-harapan upang ating <b>LINAWIN</b> ang anumang <b>MALABO</b>.
 <br/>
 <br/>
 	<div class="copyright">
