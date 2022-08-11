@@ -65,13 +65,13 @@ Sa Munisipiyo, nahawakan niya ang kalakalan ng pagyaya sa OLYMPICS (Limang Sing-
 
 ### DIIN
 
-記事の後半では、吉村さんが難関の司法試験を突破した勉強法を紹介します。公務員ならば誰しもが身につける経験を存分に生かしたやり方がありました。その一方で、受験勉強には欠かせない「あること」も明かします。
+> 記事の後半では、吉村さんが難関の司法試験を突破した勉強法を紹介します。公務員ならば誰しもが身につける経験を存分に生かしたやり方がありました。その一方で、受験勉強には欠かせない「あること」も明かします。
 
 Sa sunod na kalahating bahagi ng Sulatin, ipakikilala ni G. YOSHIMURA ang Paraan ng Pag-aaral upang ipasa ang mahirap na bahagi ng Pagsusulit ng Tagapangasiwa ng BATAS. Kahit ang Nanungkulan sa BAYAN din, mayroong paraan ng paggawa kung saan lubusang bubuhayin ang ating karanasan upang kahit sino, magiging bihasa. Lilinawin ang mga "bagay" na hindi maaaring kulang sa Pag-aaral ng Kukuha ng Pagsusulit.
 
-###
+### --
 
-　公務員としてのゴールが見えた58歳のころ。
+>　公務員としてのゴールが見えた58歳のころ。
 
 Bilang Nanunungkulan sa BAYAN, nakita niya sa paningin itong kanyang PAKAY nang 58 taong gulang siya.
 
