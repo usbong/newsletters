@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220810; from 20220808
+  @date updated: 20220811; from 20220810
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -505,7 +505,7 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>手術</b> (しゅじゅ; shujutsu) : <br/>
+		<b>手術</b> (しゅじゅつ; shujutsu) : <br/>
 		<b>Paraan ng Kamay (SURGERY)</b>
 	</div>
 	<br>
