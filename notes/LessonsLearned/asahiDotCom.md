@@ -12,6 +12,135 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [定年後5年で司法試験合格　「ITじいさん弁護士」の公務員的勉強法](https://www.asahi.com/articles/ASQ30115RQ3TTIPE02J.html?iref=comtop_list_02); last accessed: 20220811
+
+> 定年後5年で司法試験合格　「ITじいさん弁護士」の公務員的勉強法
+
+Pagkatapos ng Tiyak na mga Taon sa Tungkulin,<br/>
+sa loob ng 5 Taon, Naipasa ang Pagsusulit sa Tagapangasiwa ng BATAS;<br/>
+<br/>
+Paraan ng Pag-aaral ng Nanungkulan sa BAYAN:,<br/>
+"Mag-aaral ng Tagapagtanggol ng Salita: Lolo IT"
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 松沢拓樹2022年4月2日 19時00分
+
+MATSUZAWA, TAKUKI; 2022-04-02T19:00
+
+> 市役所を定年退職後、京都大の法科大学院で学び、65歳にして司法試験を突破した弁護士がいる。
+
+Mayroong 65 taong gulang na Mag-aaral ng Tagapagtanggol ng Salita na pinasa ang Pagsusulit ng Tagapangasiwa ng Batas. Pagkatapos niya umatras mula sa tungkulin kung saan tiyak ang mga taon sa Munisipiyo, nag-aaral siya sa Paaralan ng mga Nagtapos sa Pagbubukod ng Batas sa Pamantasan ng KYOTO. 
+
+> 司法試験合格者の平均年齢は20代後半。
+
+Kapag pinatag (AVE) ang mga taong gulang ng mga pumasa sa Pagsusulit ng Tagapangasiwa ng Batas, nasa mga sumunod na taon ito pagkatapos ng gitna ng Taong 20.
+
+> 同期では最高齢の合格から弁護士となって6年。
+
+Sa nabanggit na panahon, 6 taon ang lumipas mula nang pumasa ang may pinakamataas na taong gulang, at naging Mag-aaral ng Tagapagtanggol ng Batas.
+
+> 裁判資料を読み込むための3台のパソコン画面は、黒色基調のフィルムカメラのネガのよう。
+
+Upang mabasa ang kasulatan ng Hukom, tatlong (3) Mukha ng Larawan ng kompyuter, na tila NEGATIVE ng FILM ng CAMERA na may pangunahing tonong kulay itim.
+
+> 定年後になぜ、勉強法は、見慣れない色合いの画面に囲まれる理由は――。
+
+Pagkatapos ng Tiyak na mga Taon sa tungkulin, may kinalaman ang kanyang Paraan ng Pag-aaral sa DAHILAN kung BAKIT pinalilibutan siya ng mga Mukha ng Larawang may pinagsamang kulay, na hindi kayang masanay tingnan...?
+
+>　一念発起、弁護士への挑戦を決めたのは、定年を2年後に控えたころだった。
+
+Isang panggising sa pagnilay: palapit na ng 2 taon pagkatapos ng kaniyang Tiyak na mga Taon sa tungkulin, nang pagpasiyahan niyang tumungo sa pagsubok ng Mag-aaral ng Tagapagtanggol na Salita.
+
+>　福岡県弁護士会所属の吉村哲夫さん（72）はもともと、福岡市役所の職員だった。
+
+Sa simula't simula, Tauhan sa Munisipiyo ng Lungsod ng FUKUOKA si G. YOSHIMURA, TETSUO (72), na may ugnayan sa Samahan ng mga Mag-aaral ng Tagapagtanggol ng Salita sa FUKUOKA-KEN.
+
+> 役所では、五輪の招致や国際スポーツ大会の運営に携わり、市幹部まで務めた。
+
+Sa Munisipiyo, nahawakan niya ang kalakalan ng pagyaya sa OLYMPICS (Limang Sing-sing), ang mga Malalaking Samahan ng Pandaigdigang Palakasan, hanggang manungkulan siya bilang Pinuno sa Tagapangasiwa ng Lungsod.
+
+### DIIN
+
+記事の後半では、吉村さんが難関の司法試験を突破した勉強法を紹介します。公務員ならば誰しもが身につける経験を存分に生かしたやり方がありました。その一方で、受験勉強には欠かせない「あること」も明かします。
+
+Sa sunod na kalahating bahagi ng Sulatin, ipakikilala ni G. YOSHIMURA ang Paraan ng Pag-aaral upang ipasa ang mahirap na bahagi ng Pagsusulit ng Tagapangasiwa ng BATAS. Kahit ang Nanungkulan sa BAYAN din, mayroong paraan ng paggawa kung saan lubusang bubuhayin ang ating karanasan upang kahit sino, magiging bihasa. Lilinawin ang mga "bagay" na hindi maaaring kulang sa Pag-aaral ng Kukuha ng Pagsusulit.
+
+###
+
+　公務員としてのゴールが見えた58歳のころ。
+
+Bilang Nanunungkulan sa BAYAN, nakita niya sa paningin itong kanyang PAKAY nang 58 taong gulang siya.
+
+> 再就職しても、せいぜい5年。
+
+Kahit muling maghanap ng pook ng panunungkulan, 5 taon ang pinakamahaba nito.
+
+> その後の長い余生を過ごす自分が想像できなかった。
+
+Hindi niya maisip ang larawan ng sariling pinapalipas ang nalalabi ng kanyang mahabang buhay pagkatapos niyon.
+
+> 「死ぬまで続けられる仕事がしたい」。
+
+"Nais ko ang tuluy-tuloy na paghahanap-buhay hanggang mamatay."
+
+> 大学は法学部出身。Mukha ng Larawan
+
+Sa Malaking Paaralan, mula siya sa Unit ng Pag-aaral ng BATAS.
+
+> 市職員として法務を担当した経験もあり、司法試験にも役立つはずと思った。
+
+Naisip niyang may saysay sa Pagsusulit ng Tagapangasiwa ng Batas ang kanyang karanasan sa pag-aako ng tungkulin sa BATAS bilang Manunungkulan ng Lungsod.
+
+> だが、現実は違った。
+
+Gayunpaman, iba ang katotohanan.
+
+>　大学院で机を並べる若者に、気持ちだけは追いつこうとしたが、還暦をすぎた年齢ゆえの体力の衰えは否めなかった。
+
+Sa Malaking Paaralan ng mga Nagtapos, magkasama ang mga kabataan sa MESA, sinubukan niyang habulin sila kahit sa damdamin lamang; ngunit, hinihindian siya ng kanyang humihinang lakas ng katawan, na may mga ilang taong labis na ng gulang sa talaan ng panahon (kalendariyo).
+
+>　「神社仏閣が好き」と選んだ京大の法科大学院では、親子ほど年齢の離れた学生に囲まれて、日々、深夜3時まで机に向かった。
+
+Sa Pagbubukod ng Batas ng Malaking Paaralan ng mga Nagtapos sa Pamantasan ng KYOTO, na kaniyang pinili dahil "Mahilig siya sa SIMBAHAN", pinalibutan siya ng mga Mag-aaral na nahiwalay na ng taong gulang, halintulad sa Magulang at Anak; araw-araw, hanggang ika-3 ng malalim na gabi, hinarap niya ang MESA.
+
+> 周りの学生と同じ目線で情報交換しようと、ツイッターやLINEも始めた。
+
+Upang makipagpalitan ng BALITA, gamit ang magkatulad na paningin, kasama ang mga nakapaligid na Mag-aaral, sinimulan niyang gamitin ang TWITTER, ang LINE din, atbp.
+
+> 髪形も若者に寄せて、ワックスも買った。
+
+Bumili rin siya ng wax, upang iayon din ang kanyang gupit sa mga kabataan.
+
+>　だが、体力が追いつかない。
+
+Gayunpaman, hindi makahabol ang lakas ng kanyang katawan.
+
+> 気持ちが折れかけるたびに、送り出してくれた元同僚たちの顔が浮かび、思いとどまった。
+
+Tuwing nagsisimulang mabali ang kanyang damdamin, lumulutang ang mga mukha ng kanyang dating mga kasamahang tumulong sa kaniya, at humihinto roon ang kanyang pag-iisip. 
+
+>　「特別な勉強法があるのかと…
+
+"May bukod-tanging Paraan ng Pag-aaral.."
+
+> この記事は有料会員記事です。残り2702文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 2702 titik; Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+
+Pansinin ang paraan ng pagsusulat ng may-akda;<br/>
+--> Unawain ang BUNGA kapag isinalin ito mula Wikang Hapon tungo sa Wikang Filipino.
+
+
 ## [https://www.asahi.com/articles/photo/AS20220809002108.html](日本の注目度高い論文数　韓国、スペインに抜かれ12位に); last accessed: 20220810
 
 <img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/asahiShimbunChartV20220810.png" width="100%">
