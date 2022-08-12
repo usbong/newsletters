@@ -47,52 +47,7 @@ Subalit, marahil marami ang pagkakataong hindi magagawang salita ang ganoong bag
 
 > ＜よくあるゲームがやめられない四つの理由＞
 
-4 na madalas na DAHILAN ng hindi makaayaw sa LARO
-
-> 1　達成感がすごい！
-
-Ang GALING ng pakiramdam ng pagkamit!
-
-> 2　続きが気になる
-
-Nagiging bahagi ng sariling lakas ang malaman ang kasunod
-
-> 3　誰かと一緒にでる/注目される
-
-May kung sinong > 子どもがゲームをやめられない　隠れている4つの理由を考える
-
-Hindi makaayaw sa LARO ang mga bata;<br/>
-Pagnilayan ang 4 na nakatagong DAHILAN
-
-> 中島美鈴2022年8月12日 7時00分
-
-NAKAJIMA, MISUZU; 2022-08-12T07:00
-
-> ゲームをするメリットが、仮に「クラスのお友達と一緒にプレーする」という社会的な理由だったとします。
-
-Gawin nating MERIT ng mga LARO ang DAHILANG PANLIPUNAN tulad nito: "Paglalaro kasama ang mga kaibigang kaklase sa paaralan"
-
-### Paalala: MERIT : Halaga/Saysay
-
-> すると、この子どもに「我慢しなさい。ゲームはダメ」と禁止だけするよりも、「クラスの友達とゲーム以外の方法で仲良くするにはどうしたらいいか」を一緒に考えてあげた方が、何倍もゲームをやめやすくなります。
-
-Kapag ginawa natin ang ganoon, higit pa sa pagpapatigil sa mga batang ito sa pamamagitan ng pagsabi ng "Magtiis ka. BAWAL ang maglaro", madali't maraming ulit natin silang mapaaayaw sa paglalaro, kapag magkasama nating pagnilayan ang "Bukod pa sa paraan ng paglalaro kasama ang mga kaibigang kaklase, paano ba nating magagawang magkaroon ng maayos na samahan?"
-
->　こんなふうに、まずはやめられない行動のメリットを明らかにすることが、やめるための第一歩なのです。
-
-Sa ganoong paraan, unang hakbang sa pagpapaayaw ang paglilinaw sa simula ng MERIT ng hindi makaayaw na pagkilos.
-
->　具体的には、「ゲーム自体も面白いだろうけど、やってる時って本当は何が欲しいの？」といった聴き方をすると、隠れたメリットが掘り起こせるかもしれません。
-
-Upang bigyan pa ng laman ito, maaari nating hukayin ang nakatago pang MERIT dito kapag sinabi ng Tagapakinig ito: "Maaari mang nakaaaliw ang LARO, sa panahong ginagawa mo ito, ano ba talaga ang nais mo?"
-
->　でも、小学生だとそんなことを言語化できない場合が多いでしょう。
-
-Subalit, marahil marami ang pagkakataong hindi magagawang salita ang ganoong bagay ng mga Mag-aaral sa Mababang Paaralan.
-
-> ＜よくあるゲームがやめられない四つの理由＞
-
-4 na madalas na DAHILAN ng hindi makaayaw sa LARO
+#### 4 na madalas na DAHILAN ng hindi makaayaw sa LARO
 
 > 1　達成感がすごい！
 
