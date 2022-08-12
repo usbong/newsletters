@@ -20,6 +20,7 @@ Hindi makaayaw sa LARO ang mga bata;<br/>
 Pagnilayan ang 4 na nakatagong DAHILAN
 
 > 中島美鈴2022年8月12日 7時00分
+
 NAKAJIMA, MISUZU; 2022-08-12T07:00
 
 > ゲームをするメリットが、仮に「クラスのお友達と一緒にプレーする」という社会的な理由だったとします。
