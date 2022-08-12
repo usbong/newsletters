@@ -1,5 +1,15 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+## [『スーパー野田ゲーWORLD』インタビュー。野田クリスタル氏が語る“出オチを越えるおもしろさ”を生む苦労と、収録タイトルの魅力。次回作もすぐに始動？](https://www.famitsu.com/news/202207/29269655.html); last accessed: 20220812; from 20220730
+
+> 野田作りたいものは山ほどありますし。いつかはMMORPGを作りたいんです。それには予算が40億必要、と言われましたが（笑）。
+
+<b>Estimated Computation:</b> <br/> 
+<br/> 
+4 Billion YEN (2 Billion PHP) to make MMORPG<br/> 
+<br/> 
+where: MMORPG = Massively Multiplayer Online Role-Playing Game
+
 ## [“ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供](https://www.famitsu.com/news/202206/08264224.html); last accessed: 20220609
 
 > “ジャンプアプリ開発コンテスト2022”のエントリー開始。募集内容は“マンガ創出につながる斬新なアプリ・Webサービス企画、受賞企画には開発資金最大5000万円が提供
