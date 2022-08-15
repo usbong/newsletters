@@ -12,6 +12,127 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [戦争を終わらせるのはなぜ難しいのか　政治学者が見いだしたジレンマ](https://www.asahi.com/articles/ASQ8D2S66Q7WUPQJ00S.html?iref=comtop_Opinion_01); last accessed: 20220815; from 20220814
+
+> 戦争を終わらせるのはなぜ難しいのか　政治学者が見いだしたジレンマ
+
+Bakit mahirap wakasan ang DIGMAAN?<br/>
+Inilabas na DILEMMA (Mahirap na Kalagayan sa Pagpasiya)<br/>
+mula sa paningin ng Mag-aaral ng PULTIKA 
+
+## PULITIKA : Panglunas ng Wastong Pagtama
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 聞き手 編集委員・塩倉裕2022年8月13日 5時00分
+
+Tagapakinig; Tauhan sa Pangbubuklod: SHIOKURA, HIROSHI<br/>
+2022-08-13T05:00
+
+> ――失敗とは？
+
+Ano ang kahulugan ng TALO?
+
+>　「敗北が決定的になったあとも絶望的な戦いを続けてしまったことです。
+
+"Kahit pagkatapos ng napagpasiyahang pagkatalo, tinuloy pa rin ang walang pag-asang pakikipaglaban.
+
+> もし日本に降伏を促したポツダム宣言を早く受諾していれば、広島・長崎への核兵器使用やソ連の対日参戦による甚大な犠牲は食い止められたはずです」
+
+Kung maagang tinanggap ng Pinanggagalingan ng Araw ang isinulong na Pahayag ng POTSDAM, dapat nahinto na ang malaking PAGBUWIS (ng buhay, atbp) na may kinalaman sa paglaban ng Hapon sa SOVIET UNION, ang paggamit ng Sandatang Nukleyar tungo sa HIROSHIMA at NAGASAKI, atbp.
+
+>　「しかし実際には日本の指導部は、米軍に有効な一撃を加えたりソ連に米国との仲介をし仲介てもらったりすることを通じて、より有利な和平を目指そうと考え続けてしまいました。
+
+Subalit, ang sa katunayan, tinuloy pagnilayan ng Unit ng Pagtuturo't Paggagabay ng Pinanggagalingan ng Araw ang hinahangad nitong higit na kanais-nais na KAPAYAPAAN, sa pamamagitan ng pagdagdag ng isang may talab na pagsalakay sa Militar ng AMERIKA, paggamit sa pamamagitan ng SOVIET UNION sa AMERIKA, atbp.
+
+> 自らの政策の非現実性に向き合えなかった例です」
+
+Halimbawa ito ng hindi kayang pagharap (ng Kaharian) sa MALING bunga ng sariling PARAAN ng WASTONG PAGTAMA (POLISIYA).
+
+>　――ではなぜ、戦争終結一般の議論が低調なのでしょう。
+
+Kung gayon, BAKIT kaya mababa ang tunog ng karaniwang pangkalahatang talakayan ukol sa pagwawakas ng DIGMAAN?
+
+> 『戦争を容認すること』だと誤解されかねなかったのです。
+
+Aakalain kasing "Madaling tinatanggap ang DIGMAAN (upang isulong)".
+
+<br/>
+--<br/>
+<br/>
+
+### > 分析の結果、見えてきた構図
+
+### Nakikitang hugis (istraktura) ng CHART mula sa Bunga ng Pagsusuri
+
+>　――具体的にどう研究を進めていったのでしょう。
+
+Upang lagyan pa ng laman, paano nga ba sinulong ang pananaliksik?
+
+>　「戦争は無条件降伏という形で終わることもあれば、妥協的な休戦で終わることもあります。
+
+"Kung mayroong digmaang nagwawakas na may hugis ng WALANG anumang HILING (KONDISYONES) na pagsuko, mayroon din namang nagwawakas sa matulunging pagpapahinga ng pakikipaglaban.
+
+> 20世紀以降に起きた主な戦争がどう終わったかを分析した結果、次のような構図が見えてきました」
+
+Itong kasunod na nakikitang hugis (istraktura) ng CHART ang bunga ng pagsusuri sa kung paano nagwakas ang mga pangunahing digmaang ginising pagkatapos ng ika-20 siglo."
+
+>　「まず戦争は力と力のぶつかり合いであるため、戦争終結は戦局で優勢にある側が主導します。
+
+Una, dahil sa DIGMAAN, may magkasamang banggaan ng LAKAS; ating pangunahing gabay ang banda ng digmaang kinalaunan, nagwakas nang may bugsong GALING.
+
+> そして優勢側から見て終結の形態は大きく二つに分かれます。
+
+Pagkatapos, mula sa pagtingin ng banda na may bugsong GALING, nahahati ito nang malaki sa dalawang kinahihinatnan.
+
+> 相手と二度と戦わずに済むよう徹底的にたたく『紛争原因の根本的解決』と、自国兵の人命などの犠牲を出したくないためそこまでいかずに妥協する『妥協的和平』です」
+
+1) "Paglutas sa pinanggagalingang ugat ng dahilan ng pakikipag-away": Tuluyang pagtama upang hindi na muling makipaglaban<br/>
+2) "Pakikipagtulungan tungo KAPAYAPAAN": Upang hindi ibuwis ang buhay ng mga nakikipaglaban (sundalo) ng sariling kaharian, makikipagtulungan
+
+> ――過去の戦争で言うと、それぞれのケースの例は？
+
+Kapag binanggit ang DIGMAAN ng nakaraan, anu-ano ang mga halimbawa ng samu't saring mga KASO?
+
+>　「紛争原因の根本的解決と呼べる代表例は、第2次世界大戦でナチスドイツと戦った連合国です。
+
+"Halimbawa ng SAGISAG ng tinatawag na paglutas sa pinanggagalingang ugat ng dahilan ng pakikipag-away: Pinagsamang mga Kahariang nakipaglaban kasama ang NAZIST na ALEMANYA, sa ikalawang Malaking Pandaigdigang Digmaan.
+
+> 首都ベルリンを陥落させ、ドイツの主権を消滅させるまで戦った。
+
+Nakipaglaban hanggang wasakin ang pangunahing karapatan ng ALEMANYA, sa pagpapabagsak ng BERLIN, ang Punong Lungsod.
+
+> 連合国兵士の犠牲を抑えることよりも、大戦を引き起こす要因となったナチズムを完全排除することを重視した終わらせ方です。
+
+Higit pa sa pangangasiwa ng pagbuwis ng buhay ng mga Mag-aaral ng Pakikipaglaban ng Pinagsamang mga Kaharian, paraan ito ng pagwawakas kung saan mabigat na tinitingnan ang buuang pagbubura ng DAHILAN ng paggising at paghila sa Malaking Digmaan: NAZISM
+
+> 日本の無条件降伏で終わった太平洋戦争も、こちらに分類できます」
+
+Dito maaaring iuri ang Digmaan sa Malaking Karagatan (PASIPIKO) na nagwakas sa pagsuko nang Walang Anumang HILING ang Pinanggagalingan ng Araw."
+
+>「紛争原因の根本的解決」で終わる戦争と、「妥協的和平」で終わる戦争。
+
+1) Pagwawakas ng DIGMAAN sa "Paglutas sa pinanggagalingang ugat ng dahilan ng pakikipag-away": Tuluyang pagtama upang hindi na muling 
+makipaglaban<br/>
+2) Pagwawakas ng DIGMAAN sa "Pakikipagtulungan tungo KAPAYAPAAN"
+
+> 両者を分けるポイントは何なのか。記事後半では、戦争終結がはらむ深刻な「ジレンマ」について、千々和泰明さんが解説していきます。ウクライナ侵攻についても考察します。
+
+Ano ang saysay ng paghati nitong dalawa? Sa kalahating bahagi pa ng sulatin, isasalaysay ni G. CHIJIWA, YASUAKI ang tungkol sa malalim na "DILEMMA" na isinisilang ng Kinahihinatnan ng DIGMAAN. Pagninilayan din ang ukol sa Pagsalakay sa UKRAINE.
+
+### Dagdag
+
+Pinaikling pagbubuod
+
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE<br/>
+2) Japanese-English Dictionary Android Application<br/>
+3) PLECO Chinese Mandarin Android Application
+
+
 ## [子どもがゲームをやめられない　隠れている4つの理由を考える](https://www.asahi.com/articles/ASQ85536JQ85UTFL00L.html?iref=comtop_Topnews2_04); last accessed: 20220812
 
 > 子どもがゲームをやめられない　隠れている4つの理由を考える
