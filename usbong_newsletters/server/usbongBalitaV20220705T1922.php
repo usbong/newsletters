@@ -7,11 +7,11 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220815; from 20220705
+  @date updated: 20220705; from 20220702
   @website address: http://www.usbong.ph
  
   Input:
-  1) Lessons-learned .PHP TEXT FILE in UTF-8 ENCODING
+  1) Lessons-learned HTML TEXT FILE
   Output:
   1) Usbong Balita viewable using Computer/Mobile Web Browsers  
   
@@ -796,115 +796,56 @@ window.onclick = function(event) {
 	else {
 		echo "<div class='readingForTheDayDiv'>";
 	}
-	
-		$iMonthCount=13;//to start at 12;
-		$iYearCount=2022;
-		
-		//edited by Mike, 20211020
-//		$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
-		$filename="viewBalita20220705.php";
-		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
-		
-//		echo $completeFilename."<br/><br/>";
-		
-		//added by Mike, 20211020
-		//while (file_exists($completeFilename)) {
-		if (file_exists($completeFilename)) {
-	
-			//added by Mike, 20220302
-			$data="";		
-							
-			//removed by Mike, 20211020
-//			if (file_exists($completeFilename)) {
-				//edited by Mike, 20211020
-				//added "@" for computer to NOT display warnings
-								
-				if (($handle = @fopen($completeFilename, "r")) !== FALSE) {
-//				if (($handle = utf8_fopen_read($completeFilename, "r")) !== FALSE) 
-
-				  while (!feof($handle)) {		  
-					//edited by Mike, 20211014;
-					//TO-DO: -update: to identify if keyphrase uses 
-					//the previous read batch and the next batch
-					//edited by Mike, 20211014; edited again by Mike, 20211022
-//					$data = fread($handle, 128);
-
-					//added by Mike 20211022
-					//TO-DO: -reverify: increase in fread
-					//to eliminate excess HTML tags
-					//using strip_tags(...) COMMAND
-					//reminder: with read length @128, 
-					//$data as $cellValue NOT classified as HTML
-					//execute with downloaded newsletters 2020 and 2021
-
-					$data = fread($handle, 204800);
-					//fread($handle,filesize($completeFilename));
-
-//					$data = fread($handle, 164);
-		
-					//edited by Mike, 20211013
-					//$cellValue = utf8_encode($data);					
-					$cellValue = $data; //note: input file already in UTF-8 encoding
-
-					//edited by Mike, 20211014
-//					$cellValue = strip_tags(utf8_encode($data));
-
-//					$cellValue = strip_tags($data);
-
-					echo $cellValue;
-
-/*
-					//added by Mike, 20211014
-					//sKeyphrase does NOT exist in $cellValue
-					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {
-						if (!feof($handle)) {
-							//edited by Mike, 20211017; add string of characters after sKeyPhrase
-							//$nextData=fread($handle, strlen($sKeyphrase));
-							//edited by Mike, 20211022
-							$iCellValueTailLength=20;//1020; //note: max 100000000;//42;							
-							
-							//note: read until there exists Characters in $cellValue
-							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
-							
-							$data = $data.$nextData;
-							$cellValue = strip_tags($data);	
-						}						
-					}
-	
-					//added by Mike, 20220305
-//					$cellValue = "website address: ".getUpdatedWebAddress($completeFilename, $sWebAddressBasePath).";".$cellValue;
-					$cellValue = "website address: ".$completeFilename.";".$cellValue;
-*/
-
-/*	
-					//edited by Mike, 20211014
-					//sKeyphrase: case-sensitive OFF
-	//				if (strpos($cellValue,$sKeyphrase)!==false) {
-					//edited by Mike, 20211014
-					if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-////echo ">>>>>".$completeFilename;
-////echo ">>>>>".$cellValue;
-////echo ">>>>>".$sKeyphrase;
-
-						//added by Mike, 20211016
-						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
-						
-						//added by Mike, 20211014
-						$bHasFoundKeyphrase=true;
-
-						//display only the first result with keyphrase found from each existing file
-						break;						
-					}
-*/
-
-				  }
-				}							
-			//removed by Mike, 20211020
-//			}
-		}		
-		
 ?>	
+	
+	<h3>
+	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
+		「（天声人語）書店消失」</a> 
+	</h3>				
+	<div class="textDoubleSpacedDiv">
+<!-- TO-DO: -add: as NOTE	
+last accessed: 20220622<br/>	
+07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
+-->
 
+<blockquote class="usbongBlockquote">
+<p>
+（天声人語）書店消失
+</p>
+</blockquote>
+(Tinig ng Langit; Salaysay ng Tao)<br/>
+Pagkawala ng mga Tindahan ng Aklat<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+    有料会員記事
+</p>
+</blockquote>
+Sulatin sa nagbabayad na kasapi<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+    2022年6月21日 5時00分
+</p>
+</blockquote>
+2022-06-21T05:00<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+夢に本屋が出てきたことがある。書棚で何かを探しているのだが、そこはむかし郷里にあった小さな店なのだ。子どもの頃から通い、マンガ雑誌の発売日に駆け込んでいた。文庫本の棚では星新一の面白さに出会った▼自分のなかでは本屋の原型なのかもしれない。これからの子どもたちには縁のない話になるだろうか。身の回りか…
+</p>
+</blockquote>
+    
+May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindahan na naroon noon sa pook ng aking kinalakihan; May hinahanap akong kung ano sa lagayan ng mga aklat. Simula pa noong dumaan ako sa aking kabataan, hinahabol ko na ang araw ng bentahan ng Magasin ng Komiks (MANGA). May natagpuan akong nakaaaliw kay SEI SHINICHI (Manunulat; Bituin, Bagong Isa) sa lagayan ng mga aklat ng malaking lalagyan ng mga sulatin. Sa loob-loob ko, marahil ito ang pinagmulang hugis ng Tindahan ng Aklat. Mawawala kaya ang usaping ganito sa mga kabataan mula ngayon? Sa paligid...
+<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+    この記事は有料会員記事です。残り454文字有料会員になると続きをお読みいただけます。
+</p>
+</blockquote>
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+	</div>
 	
 	<!-- //added by Mike 20220705  
 		//END of "readingForTheDayDiv" -->
