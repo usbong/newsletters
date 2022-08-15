@@ -77,7 +77,7 @@ Upang lagyan pa ng laman, paano nga ba sinulong ang pananaliksik?
 
 > 20世紀以降に起きた主な戦争がどう終わったかを分析した結果、次のような構図が見えてきました」
 
-Itong kasunod na nakikitang hugis (istraktura) ng CHART ang bunga ng pagsusuri sa kung paano nagwakas ang mga pangunahing digmaang ginising pagkatapos ng ika-20 siglo."
+Itong kasunod na nakikitang hugis (istraktura) ng CHART ang bunga ng pagsusuri sa kung paano nagwakas ang pangunahing digmaang ginising pagkatapos ng ika-20 siglo."
 
 >　「まず戦争は力と力のぶつかり合いであるため、戦争終結は戦局で優勢にある側が主導します。
 
