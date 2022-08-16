@@ -12,6 +12,61 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [（天声人語）探偵と犯人](https://www.asahi.com/articles/DA3S15388841.html?iref=comtop_Opinion_05); last accessed: 20220816
+
+08:59~09:23; Ginugol na Panahon: 22minuto
+
+>（天声人語）探偵と犯人
+
+Tinig ng Langit, Wika ng Tao;<br/>
+Taga-siyasat AT Salarin
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年8月16日 5時00分
+
+2022-08-16T05:00
+
+
+[PR]
+
+>　推理小説家のヴァン・ダインが同業者に向けて書いた創作の心得がある。
+
+Ang Makukuhang ISIPAN sa mga isinulat na LIKHA<br/>
+ng Manunulat ng Maliliit na Salaysay (NOVEL)<br/>
+na Nagtutulak ng DAHILAN (MYSTERY) na si DINE, VAN<br/>
+tungo sa mga kapwa niya sa larangan. 
+
+>「探偵小説作法二十則」という小文で、たとえば「心霊術、水晶占いの類いで真実に到達するのはタブー」だという。
+
+Sa Maliit na Sulating tinatawag na "20 Patakaran ng Paglikha ng Maliliit na Salaysay na Nagtutulak ng Dahilan", halimbawa, sinasabing "TABOO ang marating at makamit ang KATOTOHANAN sa pamamagitan ng Paraan ng Kaluluwa ng Isipan (PSYCHIC), mga uri ng Panghuhulang gumagamit ng kristal ng tubig (BOLANG KRISTAL)."
+
+### Dagdag
+
+心霊 : Kaluluwa ng Isipan; Kaluluwa sa Isipan<br/>
+水晶 : Kristal ng Tubig
+
+Kapag inuna ang dulong titik, magagamit ang "ng" upang idikit ang nasa bungad.
+
+> 理詰めで犯人を突き止める探偵が不要になるからだ▼
+
+Ito'y sapagkat hindi na kakailanganin ang Taga-siyasat upang matumbok ang Salarin gamit ang patung-patong na DAHILAN.
+
+>「探偵自身が犯人であってはならない」というのも至極当然だ。
+
+Labis namang likas din ang pagsasabing "Hindi maaaring Salarin ang siyang Taga-siyasat."
+
+> 誰が犯人でもいいが…
+
+Kahit sino, maaaring Salarin...
+
+> この記事は有料会員記事です。残り453文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 453titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
 ## [戦争を終わらせるのはなぜ難しいのか　政治学者が見いだしたジレンマ](https://www.asahi.com/articles/ASQ8D2S66Q7WUPQJ00S.html?iref=comtop_Opinion_01); last accessed: 20220815; from 20220814
 
 > 戦争を終わらせるのはなぜ難しいのか　政治学者が見いだしたジレンマ
