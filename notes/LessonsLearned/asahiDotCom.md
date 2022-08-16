@@ -15,7 +15,8 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 ## [（天声人語）探偵と犯人](https://www.asahi.com/articles/DA3S15388841.html?iref=comtop_Opinion_05); last accessed: 20220816
 
-08:59~09:23; Ginugol na Panahon: 22minuto
+08:59\~09:23; Ginugol na Panahon: 22minuto<br/>
+09:31\~09:33; Ginugol na Panahon: 2minuto (Muling Pagbasa)
 
 >（天声人語）探偵と犯人
 
@@ -30,6 +31,7 @@ Sulatin sa nagbabayad na kasapi
 
 2022-08-16T05:00
 
+> [PR]
 
 [PR]
 
@@ -38,7 +40,7 @@ Sulatin sa nagbabayad na kasapi
 Ang Makukuhang ISIPAN sa mga isinulat na LIKHA<br/>
 ng Manunulat ng Maliliit na Salaysay (NOVEL)<br/>
 na Nagtutulak ng DAHILAN (MYSTERY) na si DINE, VAN<br/>
-tungo sa mga kapwa niya sa larangan. 
+tungo sa mga Kapwa Niya sa Larangan. 
 
 >「探偵小説作法二十則」という小文で、たとえば「心霊術、水晶占いの類いで真実に到達するのはタブー」だという。
 
@@ -50,6 +52,8 @@ Sa Maliit na Sulating tinatawag na "20 Patakaran ng Paglikha ng Maliliit na Sala
 水晶 : Kristal ng Tubig
 
 Kapag inuna ang dulong titik, magagamit ang "ng" upang idikit ang nasa bungad.
+
+##
 
 > 理詰めで犯人を突き止める探偵が不要になるからだ▼
 
@@ -66,6 +70,9 @@ Kahit sino, maaaring Salarin...
 > この記事は有料会員記事です。残り453文字有料会員になると続きをお読みいただけます。
 
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 453titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## [戦争を終わらせるのはなぜ難しいのか　政治学者が見いだしたジレンマ](https://www.asahi.com/articles/ASQ8D2S66Q7WUPQJ00S.html?iref=comtop_Opinion_01); last accessed: 20220815; from 20220814
 
