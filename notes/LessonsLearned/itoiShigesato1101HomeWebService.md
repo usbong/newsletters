@@ -4,6 +4,153 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html; last accessed: 20220816
+
+> ・8月15日が今年もやってきました。
+
+Dumating na rin ngayong taon ang ika-15 ng buwan ng 8.
+
+>　亡くなった人が帰ってくるというお盆と、<br/>
+>　ほんとうにたくさんの人の命が失われた戦争が、<br/>
+>　敗れて終わった日が重なっているので、<br/>
+>　毎年、この月には「死者」のことを考えます。<br/>
+
+Sa sinasabing OBON,<br/>
+umuuwi ang mga taong namatay,<br/>
+at sapagkat mabigat ang araw <br/>
+na nagwakas sa pagkatalo sa DIGMAAN <br/>
+kung saan talagang maraming <br/>
+buhay ng tao ang nawala,<br/>
+bawat taon, sa buwang ito, <br/>
+pinagninilayan ang mga YUMAO.
+
+>　そして、毎年、これを繰り返しているうちに、<br/>
+>　「毎年この月には死者のことを考える」<br/>
+>　ということを考えるようになっていました。
+
+Pagkatapos, sa bawat taong pinag-uulit ito,<br/>
+mapagninilayan na rin ang sinasabing:<br/>
+"Bawat taon sa buwang ito, <br/>
+pagnilayan ang mga taong namatay"
+
+>　ぼくの世代の、父親の世代の人たちは、<br/>
+>　好むと好まざるとにかかわらず、<br/>
+>　現実の戦争に加わっていたわけで、<br/>
+>　そこで命を落とした人も大勢いました。
+
+Maraming buhay ng tao ang bumagsak doon sa DIGMAAN;<br/>
+naidagdag doon sa Katotohanan (Kasalukuyang Bunga), <br/>
+wala mang kinalaman sa ninais o hindi ninais,<br/>
+ng mga tao sa HENERASYON (Taon sa Daigdig) <br/>
+ng mga Tatay ng aking HENERASYON.
+
+>　そこで生き残った人単たちにも<br/>
+>　「親しい人を失った」という記憶が残りました。
+
+Sa mga taong natirang buhay din<br/>
+natira sa alaala ang "pagkawala ng malapit na tao".
+
+>　ぼくは、じぶんの父親を見ていましたが、<br/>
+>　「戦争のせいで、あんなにお酒を飲むようになった」と<br/>
+>　祖母がさかんに言っていたのを憶えています。
+
+Nakita ko man ang aking sariling Tatay,<br/>
+naaalala ko ang saganang sinabi ng aking Lola,<br/>
+"Dahil sa DIGMAAN, naging ganoon na <br/>
+ang kanyang pag-inom ng SAKE"　
+
+> 大人になってから、吉本隆明さんの話を聞くことだとか、<br/>
+>　書いたものを読んだりすることがありましたが、<br/>
+>　戦争のことは特別に語られていたような気がします。
+
+Pagkatapos kong lumaki, <br/>
+nabasa ko ang mga isinulat, <br/>
+napakinggan ang mga sinasabi <br/>
+ni G. YOSHIMOTO, TAKAAKI,<br/>
+at naramdaman ko ang bukod-tanging <br/>
+pagsasalaysay ukol sa DIGMAAN, 
+
+
+>　いまさらのように思うのですが、<br/>
+>　父や吉本さんの世代単の人たちは、じぶん自身が<br/>
+>　「生き残ったこと」についてのよかったという思いと、<br/>
+>　戦争で「亡くなったなかまたち」への<br/>
+>　言いにくく後ろめたいような気持ちとを両方持っていて、<br/>
+>　それがずっと考えの底にあったように思えます。
+
+Kung ngayon ko pang pag-isipan,<br/>
+tuluy-tuloy kong maiisip sa ilalim ng aking pagninilay,<br/>
+na dala-dala ng mga tao ng HENERASYON <br/>
+ng Tatay, si G. YOSHIMOTO, atbp ang dalawang ito:<br/>
+1) ang pag-iisip ng "mabuti't natira silang buhay", AT <br/>
+2) ang nasa likod na pakiramdam <br/>
+na mahirap sabihin, sapagkat tila nakahihiya,<br/>
+sa "mga namatay na kasamahan" sa DIGMAAN.
+
+>　日本は、じぶんたちは、なんでそうなったのか、<br/>
+>　どうしたらあんな目にあわないようになるのか、<br/>
+>　単純に善と悪や右だの左だので決めつけられない、
+
+Hindi mapagpasiyan nang dalisay (simple)<br/>
+ng Pinanggagalingan ng Araw,<br/>
+ang MABUTI at MASAMA, ang KANAN at KALIWA, atbp<br/>
+kung paano nakaganoon ang kanilang mga sarili,<br/>
+at paano nila magagawang hindi sila magkaganoon;
+
+>　人間のやってしまう非道いまちがいについて、<br/>
+>　「もっとわかりたい」と思ってやってきたことが、<br/>
+>　たとえば吉本隆明さんのライフワークだったと思えます。
+
+Ukol sa maling daan kung saan nagkamali<br/>
+ng gawa ang Taong Nilalang,<br/>
+maiisip halimbawa, ang LIFEWORK<br/>
+ni G. YOSHIKI, TAKAAKI,<br/>
+na ginawa pagkatapos isipin <br/>
+ang "Higit ko pang nais maunawaan".
+
+>　さまざまなかたちで、あの世代の人たちの一生は、
+>　それと格闘するにしても、そこから逃げ出すにしても、
+>　ずっと戦争から近いところにいたのだなぁ、と。
+
+Kabilang ang kanilang samu't saring mga kasamahan,<br/>
+talaga namang tuluy-tuloy na malapit mula sa pook ng DIGMAAN,<br/>
+ang buhay ng mga tao roon sa HENERASYONG iyon,<br/>
+makipaglaban man o lumisan.
+
+>　そして、その子どもの世代のぼくらがもう晩年にあります。
+
+Pagkatapos, kaming mga anak ng HENERASYONG iyon,
+nasa kinagabihan na ng taon.
+
+>　さらにその息子や娘たちも父や母と呼ばれるようになり、
+>　そこにまた、いまの時代の子どもたちがいます。
+
+Tinatawag nang Tatay, Nanay, atbp<br/> 
+ang mga anak nilang mga lalake't babae,<br/>
+at narito na sa kasalukuyang panahon,<br/>
+muli, ang kanila namang mga anak.
+
+>　そのだれもが、まだ、戦争から自由にはなっていません。
+
+Kahit sinuman, hindi pa nakalalaya mula sa DIGMAAN.
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+
+Ngayong araw din po, salamat sa pagdalaw sa "HALOS ARAW".
+
+> 人の不幸をつくる人はおそらく不幸なのだろうとは思います。　
+
+Iniisip kong marahil ang mga taong HINDI MALIGAYA<br/>
+ang gumagawa ng HINDI MALIGAYA sa tao.
+
+> 昨日の「今日のダーリン」を読み逃した方はこちら。
+
+Narito sa mga nagpalipas ng pagbasa<br/> 
+sa "Ngayong araw sa DARLING"<br/> 
+ang sa Kahapon.
+
+
+
 ## https://www.1101.com/home.html;
 last accessed: 20220725; <br/>
 --> ESSAY keyphrase: <br/>
