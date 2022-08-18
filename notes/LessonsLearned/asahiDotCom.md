@@ -12,6 +12,87 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [逮捕された電通元専務、自ら話した力の源泉　五輪組織委の裏で何が](https://www.asahi.com/articles/ASQ8K6D8SQ8KUTIL013.html?iref=comtop_7_07); last accessed: 20220818
+
+> 逮捕された電通元専務、自ら話した力の源泉　五輪組織委の裏で何が
+
+Hinuling Dating May-tutok na Tungkulin <br/>
+sa DENTSU (Daanan ng Kuryente),<br/>
+Mula sa Kanyang Sariling Sinabing<br/>
+Lawa ng Pinanggagalingan ng LAKAS;<br/>
+ANO ang mayroon sa LIKOD<br/>
+ng mga Tauhan ng Binuklod na Samahan<br/>
+ng 5 Sing-sing (OLYMPICS)?<br/>
+
+### Maikling Buod gamit ang KEYPHRASE
+
+<b>Ano Lawa ng Pinanggagalingan ng LAKAS sa LIKOD ng mga Tauhan ng Binuklod na Samahan ng Limang Sing-sing (OLYMPICS)? Mula sa mga SPONSER CM (COMMERCIAL), pagtanggap ng SUHOL
+</b>
+ 
+### -
+
+> 有料会員記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 2022年8月18日 5時00分
+
+2022-08-18T05:00
+
+>「唯一無二の存在」「ゼロから一を作り出した人」「フィクサー」――。
+
+"Tanging Isang Pag-iral; Walang Ikalawa"<br/>
+"Taong Gumawa't Naglabas ng mula WALA tungo ISA"<br/>
+"FIXER"
+
+>　東京五輪・パラリンピックのスポンサー選定などをめぐり、東京地検特捜部が17日、受託収賄容疑で逮捕した大会組織委員会元理事で電通元専務の高橋治之容疑者（78）。
+
+Sa Tiyak na pagpili ng SPONSER ng PARALYMPICS, ng dumaang TOKYO OLYMPICS, hinuli ng Unit ng May-tanging Pagsiyasat ng Pook TOKYO, sa ika-17 Araw, ang Dating Nanungkulan (sa Gawain ng mga DAHILAN) sa DENTSU, na si TAKAHASHI, HARUYUKI (78), dahil sa hinala na tumanggap ng tiwala sa pagtanggap ng SUHOL.
+
+>　高橋元理事は慶応大学卒業後、1967年に電通に入社。同社のスポーツビジネス拡大に寄与した中心的存在だ。
+
+Pagkatapos magtapos mula Pamantasan ng KEIO, taong 1967 nang pumasok sa DENTSU, ang Dating Nanungkulan sa Gawain ng mga DAHILAN, na si TAKAHASHI. Pangunahing umiral sa paglalaan sa pagpapalawak ng SPORTS BUSINESS (Kalakal ng Palakasan) ng nabanggit na Samahan.
+
+>　77年、「サッカーの神様」と呼ばれたペレの日本での引退試合をプロデュース。
+
+Taong 77, ginampanan ang paggawa ng PRODUKSYON ng pang-atras (retiro) na paligsahan sa Pinanggagalingan ng Araw, ng tinatawag na "Panginoon ng SOCCER" na si PELÉ . 
+
+> スポンサーのCMで試合を宣伝してもらう手法を考案し、サッカーが集客に苦しむ時代に、国立競技場を大観衆で埋めた。
+
+Noong mga panahon na gipit sa nagtitipong panauhin ang SOCCER, pinagnilayan niya't iminungkahi ang pamamaraan ng SPONSER CM (COMMERCIAL) upang ipahayag ang paligsahan, at binaon sa Malaking Bilang ng Manonood ang Pook ng Pakikipagtunggalian ng Kakayanan ng Kaharian.
+
+>　五輪との関わりは、84年ロサンゼルス大会から。民間資金の活用で黒字を生み、商業五輪の先駆けとなった大会で、日本企業のスポンサー入りを仲介した。
+
+Kaugnay sa Limang Sing-sing (Olympics), nagsimula ng taong 86, mula sa Malaking Pagpupulong ng LOS ANGELES. Gamit ang Salapi ng Mamamayan, binuhay upang HINDI LUGI (MAY-KITA : Sulat na Itim); Sa Malaking Pagpupulong, na nanguna sa Laraan ng Pangangalakal ng Limang Sing-sing, namagitan sa pagpasok ng mga SPONSER mula sa mga Nagtayo ng Kalakal sa Pinanggagalingan ng Araw.
+
+> 国際オリンピック委員会（IOC）の中でもその名が知られるようになる。
+
+Makikilala ang pangalan sa loob din ng Samahan ng mga Nanunungkulan sa Pandaigdigang OLYMPICS (IOC).
+
+>　サッカーW杯、世界陸上、米大リーグ。世界中の人々が熱狂する巨大イベントに関わり、世界のスポーツビジネスの要人との関係を深めていった。
+
+SOCCER W-CUP, Pandaigdigang Paglapag (World Athletics Championships), Malaking LIGA ng AMERIKA.<br/>
+<br/>
+Lumalim ang kanyang ugnayan sa mga kailangang tao ng Daigdig ng Kalakaran ng SPORTS, sa pag-ugnay sa mga Dambuhalang Pangyayari (EVENT) kung saan Mainit na Naloloko ang mga Mamamayan sa loob ng Daigdig.
+
+> 電通内でも局長、常務、専務と要職を歴任し、存在感を増していった。
+
+Dinagdagan ang pakiramdam ng pag-iral sa kasaysayan ng panunungkulan sa mga kailangang gawain, karaniwang tungkulin, Pamumuno ng Pook sa loob ng DENTSU.
+
+>　高橋元理事の力の源泉は何か。それを示す逸話がある。
+
+Ano ang Lawa ng Pinanggagalingan ng Lakas ng Dating Nanunungkulan (sa mga Gawain ng DAHILAN) na si TAKAHASHI? Mayroong mailap na salaysay na magpapahiwatig doon.
+
+>　国際サッカー連盟（FIFA…
+
+Mga Makadikit na Samahan ng Pandaigdigang SOCCER (FIFA...)
+
+> この記事は有料会員記事です。残り1455文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. May natitira pang 1455titik; kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## [（天声人語）探偵と犯人](https://www.asahi.com/articles/DA3S15388841.html?iref=comtop_Opinion_05); last accessed: 20220816
 
