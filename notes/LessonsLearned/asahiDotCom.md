@@ -26,7 +26,9 @@ ng 5 Sing-sing (OLYMPICS)?<br/>
 
 ### Maikling Buod gamit ang KEYPHRASE
 
-<b>Ano Lawa ng Pinanggagalingan ng LAKAS sa LIKOD ng mga Tauhan ng Binuklod na Samahan ng Limang Sing-sing (OLYMPICS)? Mula sa mga SPONSER CM (COMMERCIAL), pagtanggap ng SUHOL
+<b>Ano Lawa ng Pinanggagalingan ng LAKAS sa LIKOD ng mga Tauhan ng Binuklod na Samahan ng Limang Sing-sing (OLYMPICS)? <br/>
+<br/>
+Mula sa mga SPONSER CM (COMMERCIAL), pagtanggap ng SUHOL
 </b>
  
 ### -
@@ -85,7 +87,7 @@ Ano ang Lawa ng Pinanggagalingan ng Lakas ng Dating Nanunungkulan (sa mga Gawain
 
 >　国際サッカー連盟（FIFA…
 
-Mga Makadikit na Samahan ng Pandaigdigang SOCCER (FIFA...)
+Mga Magkadikit na Samahan ng Pandaigdigang SOCCER (FIFA...)
 
 > この記事は有料会員記事です。残り1455文字有料会員になると続きをお読みいただけます。
 
