@@ -80,9 +80,9 @@ May tatlong PATTERN na maaaring maranasan.<br/>
 
 >「だまそうとする犯人の心理がわかった。もう大丈夫」
 
-"Naunawaan ko ang Dahilan ng Isipan ng Salarin na susubok manloloko. Ayos na po."
+"Naunawaan ko ang Dahilan ng Isipan ng Salarin na susubok manloko. Ayos na po."
 
-### Halimbawa ng kinilos ng Lumahok na si Gng. HITOMI
+### Halimbawa ng kinilos ng Lumahok na si Gng. HITOMI (73)
 
 >　電話をかけると、相手が通話内容を録音しているとの警告メッセージが表示された。どうするか――。
 
