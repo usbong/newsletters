@@ -12,6 +12,90 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「あなたは特殊詐欺の犯人」なりきるアプリ　体験して気付く対抗策](https://www.asahi.com/articles/ASQ8J763RQ88PLZB00R.html?iref=comtop_Tech_science_05); last accessed: 20220819
+
+>「あなたは特殊詐欺の犯人」なりきるアプリ　体験して気付く対抗策
+
+APP kung saan magiging "Ikaw ang Salarin ng Kakaibang Panloloko";<br/>
+Maranasan, at mapansin ang Paraan ng Panlaban
+
+> 屋代良樹2022年8月17日 10時41分
+
+YASHIRO, YOSHIKI; 2022-08-17T10:41
+
+### 詐欺 : Panloloko sa ibang tao upang magnakaw ng pera, gamit, atbp; gumawa ng pahamak
+
+### Pook kung saan madaling maloko
+
+> 金融機関などのATMコーナー
+
+Mga Makinang may kinalaman sa Pera, e.g. ATM;
+
+### PINAIKLING BUOD
+
+#### POOK
+
+> 京都府警が老人福祉センターで開いた防犯教室の様子
+
+Huwarang Silid ng Paaralang Panangga ng Sala<br/>
+Binuksan ng Pulis ng Pook KYOTO <br/>
+sa CENTER ng Maliligayang Matatanda
+
+> あるアプリに沿って、特殊詐欺犯の立場になって考える疑似体験をしていたのだ。
+
+Gamit ang APP, mararanasan ang halintulad sa alinlangang mapagninilayan kapag nasa pook na sasala mula sa Kakaibang Panloloko. 
+
+> 加害者側が犯行をためらう対策法を参加者に学んでもらうのが狙い。
+
+Pakay ang mga Lalahok na mag-aaral ng Paraan bilang Panlaban sa mga Gagawa ng Pahamak na hindi tiyak sa kanilang gagawing SALA.
+
+> 参加者はまず、三つの質問に答える。①自分は詐欺に遭わない自信がある②知らない人の話によく聞き入る③電話が鳴ったらすぐ受話器を取る。
+
+Bilang simula, may tatlong tanong na sasagutin ng mga Lalahok:
+1) May tiwala ka ba sa sariling hindi ka maloloko
+2) Madalas ka bang makinig sa salaysay ng mga hindi kilalang tao
+3) Agad mo bang sinasagot ang telepono kapag tumunog ito
+
+> 二つ以上が当てはまると「詐欺被害に遭う可能性大」の判定が出る仕組み。
+
+Kapag 2 o higit pa ang umakma, lalabas ang HUSGA na "Malaki ang pagkakataong makaranas ka ng pahamak mula sa Panloloko".
+
+> その上で、前述の「犯人になってもらいます」体験をする。
+
+Kung kaya't, daranasin niya ang nabanggit na "Maging Salarin". 
+
+>　犯人体験は、高齢者がいる家の固定電話にかける設定だ。相手が通話を録音している▽留守番電話になっている▽相手がすぐに電話に出て世間話が始まり、相手をだませてしまう、の3パターンを体験できる。
+
+Sa pagdanas ng pagiging Salarin, isasagawa ang pagtawag sa isang bilang ng telepono kung saan naroon sa bahay ang Matanda (Taong Mataas ang Taong Gulang).
+
+> 相手が通話を録音している▽留守番電話になっている▽相手がすぐに電話に出て世間話が始まり、相手をだませてしまう、の3パターンを体験できる。
+
+May tatlong PATTERN na maaaring maranasan.<br/>
+
+1) Gagawan ng kausap ng recording ang pag-uusap sa telepono.
+2) May makinang nanatili upang magtanggol (sumagot) ng telepono
+3) Agad na may sasagot sa telepono, magsisimula ang usap-usapan, lolokohin ang kanyang kausap
+
+### Kinahinatnan
+
+>「だまそうとする犯人の心理がわかった。もう大丈夫」
+
+"Naunawaan ko ang Dahilan ng Isipan ng Salarin na susubok manloloko. Ayos na po."
+
+### Halimbawa ng kinilos ng Lumahok na si Gng. HITOMI
+
+>　電話をかけると、相手が通話内容を録音しているとの警告メッセージが表示された。どうするか――。
+
+Kapag tinawagan ang telepono, may ipinahiwatig na MENSAHE (BABALA; May paggalang na pagsasalita) na ginagawan daw ng recording ang laman ng pag-uusap. Ano ang iyong gagawin?
+
+>　ひとみさんは、切って次の家にかけることを選択した。
+
+Pinili ni Gng. HITOMI na putulin ang ugnayan sa telepono, at tumawag sa sunod na bahay.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [逮捕された電通元専務、自ら話した力の源泉　五輪組織委の裏で何が](https://www.asahi.com/articles/ASQ8K6D8SQ8KUTIL013.html?iref=comtop_7_07); last accessed: 20220818
 
 > 逮捕された電通元専務、自ら話した力の源泉　五輪組織委の裏で何が
