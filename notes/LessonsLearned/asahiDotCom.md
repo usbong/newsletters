@@ -12,6 +12,81 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [アベノミクスとは何だったのか　正体つかめぬ政策、その本質は](https://webronza.asahi.com/journalism/articles/2022080300003.html?iref=comtop_Opinion_06); last accessed: 20220822
+
+> アベノミクスとは何だったのか　正体つかめぬ政策、その本質は
+
+Ano ba ang ABENOMIKS?<br/>
+Hindi mahuli-huling Tunay na Katawan ng POLISIYA<br/>
+Ang Kaibuturan niyon?<br/>
+
+> 原 真人　朝日新聞編集委員
+
+HARA, MASATO; Tauhan ng Pinagsamang Pagbubuklod ng Pahayagang ASAHI 
+
+### Pinaikling Pagbubuod
+
+>　安倍政権に国政選挙6連勝という偉業を成し遂げさせ、憲政史上最長に導いた最大の政治的エンジン―。それは「アベノミクス」だったのではなかろうか。
+
+Ang Pinakamahaba sa Kasaysayan ng KONSTITUSYON,<br/>
+at Pinakamalaking MAKINA ng PULITKA: <br/>
+Karapatan ng PULTIKANG ABE;<br/>
+<br/>
+Upang buuin itong Magaling na Gawain, <br/>
+Ginabayan ng 6 na sunud-sunod na PANALO<br/>
+sa Botohan ng PULTIKANG Kaharian
+
+### Paalala
+
+KONSTITUSYON : Wastong Pagtama sa Kabuuan<br/>
+PULITKA : Panglunas ng Wastong Pagtama
+
+### ABENOMIKS
+
+> 正体がつかめない伝説の怪獣「ぬえ」の頭は猿、体はタヌキ、手足は虎、尾は蛇だったという。
+
+Sinasabing "NUE"<br/> 
+ang Kakaibang Halimaw sa Alamat<br/> 
+na hindi mahuli-huli<br/> 
+ang Tunay na Katawan:<br/> 
+<br/>
+Ulo ng Matsing;<br/>
+Katawan ng TANUKI <br/>
+Kamay at Paa ng Tigre;<br/>
+Buntot ng Ahas<br/>
+
+### 
+
+<b>TANUKI</b> : ASONG mukhang OSO na may Maitim na Kahoy ang Kulay
+
+> 第2次安倍政権の7年8カ月のあいだ、政権が掲げた経済政策の目標は「3本の矢」（大胆な金融緩和、機動的な財政出動、民間投資を促す成長戦略）に始まり、「新3本の矢」（強い経済=GDP600兆円、子育て支援=出生率1・8、安心につながる社会保障=介護離職ゼロ）へと広がった。
+
+Sa ikalawang Karapatang PULTIKANG ABE, sa loob ng 7 taon at 8 buwan, nagsimula ang pakay ng winawagayway nitong PULISYA ng EKONOMIYA sa: Tatlong Busog ng Pana<br/>
+<br/>
+1) Matapang na Paglumanay ng Salapi<br/>
+2) Kilos Makinang Pagpapalabas ng Pulitikang Salapi<br/>
+3) Pagpapalago ng Maikling Pakikipaglabang Nagsusulong sa Pamumuhunan sa Mamamayan<br/>
+<br/>
+Pinalaganap ang "Tatlong Panibagong Busog ng Pana"<br/>
+<br/>
+1) Malakas na EKONOMIYA=GDP600TrilyongYEN<br/>
+2) Pagtulong sa Pag-aalaga ng Bata=Bilang ng Pagbabago sa Panganganak1.8<br/>
+3) Pagtatanggol ng Lipunang umuugnay sa Murang (Panatag) Isipan=Pag-aalaga na ZERO ang Hiwalay sa Gawain<br/>
+<br/>
+
+> さらに一億総活躍、女性活躍、働き方改革、観光立国……。
+
+Higit pa... <br/>
+100Milyong Pinagbuklod na Kilusan,<br/>
+Kilusan ng Kababaihan,<br/>
+Pag-aayos na Pagbabago ng Paraan ng Paghahanap-buhay,<br/>
+Maliwanag na Pagmamasad (Pamamasyal) sa Tinayong Kaharian 
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [「あなたは特殊詐欺の犯人」なりきるアプリ　体験して気付く対抗策](https://www.asahi.com/articles/ASQ8J763RQ88PLZB00R.html?iref=comtop_Tech_science_05); last accessed: 20220819
 
 >「あなたは特殊詐欺の犯人」なりきるアプリ　体験して気付く対抗策
