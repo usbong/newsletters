@@ -96,6 +96,9 @@ Sa nagbabayad na kasapi ang sulating ito. Kapag naging nagbabayad na kasapi na p
 
 --> Ayon ito sa aking alaala.
 
+### Sanggunian
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [奥行き2メートル、街に開かれた極細空間　古本・雑貨・立ち飲み「ba hütte.」](https://www.asahi.com/and/article/20220823/421737080/?iref=comtop_And_02); last accessed: 20220824
 
 > 奥行き2メートル、街に開かれた極細空間　古本・雑貨・立ち飲み「ba hütte.」
