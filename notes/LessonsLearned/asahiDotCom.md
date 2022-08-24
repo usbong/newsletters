@@ -12,6 +12,90 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [暴走族のパシリ、建設現場で下働き　沖縄で体当たり調査をする理由](https://www.asahi.com/articles/ASQ8R3JQDQ8MUPQJ00B.html?iref=comtop_Opinion_02); last accessed: 20220824
+
+> 暴走族のパシリ、建設現場で下働き　沖縄で体当たり調査をする理由
+
+Utusan ng "Tribu ng Magugulo",<br/>
+Sa Mababang Hanap-buhay ng Gusali<br/>
+<br/>
+Mga DAHILAN sa Pagsusuri<br/>
+Sa OKINAWA, Sariling Pagdanas
+
+### 暴走族 : "Tribu ng Magugulo(ng TAKBO gamit ang MOTORSIKLO)"
+
+> 有料記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 聞き手・真鍋弘樹2022年8月24日 7時00分
+
+Tagapakinig: MANABE, HIROKI;<br/>
+2022-08-24T07:00
+
+> 打越正行さん。研究室のパソコン画面は、調査をした暴走族の写真が壁紙となっている=東京都町田市の和光大学
+
+G. UCHIKOSHI, MASAYUKI; Pamantasan ng WAKO sa Lungsod ng MACHIDA, TOKYO; Sa Mukha ng Larawan ng kanyang PERSONAL KOMPYUTER sa Silid ng Pananaliksik, ding-ding na ang larawan ng kanyang sinusuring "Tribu ng Magugulo"
+
+> 暴走族やヤンキーと呼和光ばれる若者たちと行動を共にし、体当たりで調査を進める研究者がいる。
+
+May Mananaliksik na nagtutuloy ng pagsusuri gamit ang sariling pagdanas ng kilos kasama ang mga kabataang tinatawang na "Tribu ng Magugulo", "YANKEE", atbp.
+
+> パシリ=使いっ走りになって牛丼を買いに行ったり、建設現場で下働きをしたり。
+
+PASHIRI (Utusan) = Ginagamit na Tagapaglakad, upang bumili ng GYUDON (Kaning may Karne ng Baka), upang maging manggagawa (mababang hanap-buhay) ng Gusali, atbp.
+
+> 型破りの調査手法で、沖縄社会の若者たちの現実をあきらかにした社会学者の打越正行さんに話を聞いた。
+
+Bilang paraan ng pagsusuri upang wasakin ang (maling) anyo, ating pinakinggan ang salasay ni G. UCHIKOSE, MASAYUKI upang linawin ang katotohanan ng mga kabataan ng lipunan sa OKINAWA.
+
+>　――沖縄の暴走族やヤンキーの若者とどうやって仲良くなったのですか？
+
+Paano ba magkakaroon ng maayos na samahan kasama ang mga kabataan ng "Tribu ng Magugulo", "YANKEE", atbp sa OKINAWA?
+
+>　「沖縄の国道58号、通称ゴーパチで毎晩のように暴走族を原付きバイクで追いかけ、休憩中に話を聞くことから始めました。
+
+Sa Bilang 58 ng Daanan ng Kaharian sa OKINAWA, sa daanang may pangalang "GO-PACHI", tila bawat gabi, sinundan ko gamit ang MOTORBIKE ang "Tribu ng Magugulo". Sinumulan ko ang pakikinig sa kanilang salaysay sa panahon ng pahinga.
+
+### MOTORBIKE : motorsiklong "SCOOTER" ang uri
+
+> 当初は警戒されましたが、しだいに打ち解けて話をしてくれる若者が現れ、調査対象者と仕事も生活も共にするようになりました。参与観察という手法です」
+
+Noong simula, tinuri nila akong taong kailangang maging mag-ingat (hango sa PULISIYA), bagama't unti-unti, nalutas din ang hinala, at may nagpakitang kabataang nakipag-usap sa akin; Bilang pakay ng pagsusuri, naging kasama ko sila sa hanap-buhay at sa kabuhayan din. Tinatawag itong paraan ng pagmamasid sa pamamagitan ng paglahok."
+
+> 暴走族のパシリをする社会学者　いったい、なぜ？
+
+BAKIT naging Utusan ng "Tribu ng Magugulo" ang Mag-aaral ng Lipunan?
+
+>「またアイツかよ」「ホント、なにもできねえな」などと言われて、打越さんはヤンキーの若者町田市たちに溶け込んでいきます。
+
+Sabihan man ng "Siya ulit!", "Talaga naman, wala tayong magawa sa kanya ah!", atbp, makapapasok sa mga Kabataan ng "YANKEE" si G. UCHIKOSHI.
+
+> なぜ、そこまでして調査を続けるのか。記事の後半では、その理由についても語っています。
+
+Bakit upang maituloy ang pagsusuri ganoon pa ang kaniyang ginawa? Sa sunod na kalahati ng sulatin, isasalysay ang ukol sa DAHILAN niyon.
+
+>　「『打越、ちょっと来い』と…
+
+"UCHIKOSHI, lapit ka rito"...
+
+> この記事は有料記事です。残り2432文字有料会員になると続きをお読みいただけます。
+
+Sa nagbabayad na kasapi ang sulating ito. Kapag naging nagbabayad na kasapi na po kayo, mababasa niyo na po ang kasunod na natitira pang 2432 na titik.
+
+### Dagdag
+
+1) Basahin upang matuklasan ang mga bagay-bagay na hindi karaniwang nararanasan.<br/>
+--> Maaalala si G. MURAKAMI, HARUKI na nagsusulat ng mga hindi pangkaraniwang bagay na nangyayari sa karaniwang buhay ng tao; halimbawa, sa 海辺のカフカ (KAFUKA ng Dalampasigan): 
+
+> Makulimlim. Mukhang uulan na. <br/> 
+> <br/>
+> Binuksan ko ang aking payong bilang paghahanda sa parating na pagbagsak. <br/> 
+> <br/>
+> Isda, sa halip na tubig ulan, ang bumagsak. <br/>
+
+--> Ayon ito sa aking alaala.
+
 ## [奥行き2メートル、街に開かれた極細空間　古本・雑貨・立ち飲み「ba hütte.」](https://www.asahi.com/and/article/20220823/421737080/?iref=comtop_And_02); last accessed: 20220824
 
 > 奥行き2メートル、街に開かれた極細空間　古本・雑貨・立ち飲み「ba hütte.」
