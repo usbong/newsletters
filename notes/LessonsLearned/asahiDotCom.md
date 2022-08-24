@@ -104,6 +104,11 @@ Doon po mukhang naroon ang halaga ng paggawa." (Gng. SEINO)
 1) Sa unang tingin, mukhang hindi kumikita ang ganitong uri ng tindahan; gayunpaman, sapagkat marahil hindi lamang ako ang may nais din ng ganito, nagiging sapat ang kanilang kinikita upang manatili't makapagpatuloy.
 
 
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1E; last accessed: 20220824
+
 ## [アベノミクスとは何だったのか　正体つかめぬ政策、その本質は](https://webronza.asahi.com/journalism/articles/2022080300003.html?iref=comtop_Opinion_06); last accessed: 20220822
 
 > アベノミクスとは何だったのか　正体つかめぬ政策、その本質は
