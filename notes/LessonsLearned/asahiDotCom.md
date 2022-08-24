@@ -12,6 +12,98 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [奥行き2メートル、街に開かれた極細空間　古本・雑貨・立ち飲み「ba hütte.」](https://www.asahi.com/and/article/20220823/421737080/?iref=comtop_And_02); last accessed: 20220824
+
+> 奥行き2メートル、街に開かれた極細空間　古本・雑貨・立ち飲み「ba hütte.」
+
+「ba hütte.」: Binuksan sa daanang labis na makitid ang pagitan; 2metro upang Matahak ang Looban; lumang aklat・samu't saring tinda・sandaling matitigilan upang may mainom 
+
+> ESSAY
+
+Sulatin
+
+> 2022.08.23
+
+2022-08-23
+
+> 大橋知沙 <br/>
+> 編集者・ライター 
+
+OH-HASHI, CHISA<br/>
+Tagapagbuklod・Manunulat
+
+> 津久井珠美<br/>
+> 写真家 
+
+TSUKUI, TAMAMI<br/>
+Tagakuha ng Larawan
+
+
+> 街なかからやや離れた緑豊かな住宅街・修学院の一角にたたずむ「ba hütte.（バヒュッテ）」
+
+"ba hütte", isang sulok sa may paaralan at tirahang sagana sa kulay lunti, na bahagiyang nahihiwalay mula sa daanan. 
+
+> 古本と雑貨と立ち飲みの店。
+
+Tindahan ng mga lumang aklat, mga samu't saring bagay, at sandaling matitigilan upang may mainuman. 
+
+> 奥行きわずか2メートルほどという極細の地形に建てられたこの店に、自然と人が集うのには理由がありました。
+
+Nakatayo ang tindahan sa hugis ng lupang sukdulan ang kitid, na sinasabing 2metro lamang upang matahak ang looban; Dahilan kasi ito upang ipagsama ang Kalikasan at Tao.
+
+> ■暮らすように、小さな旅にでかけるように、自然体の京都を楽しむ。
+
+■Upang mabuhay, lumabas tungo sa maikling paglalakbay, lasapin ang Kalikasan sa KYOTO.
+
+> 連載「京都ゆるり休日さんぽ」はそんな気持ちで、京都の素敵なスポットをご案内しています。
+
+Kaugnay na Balita: "Mahinahong Paglalakad sa KYOTO"; Sa ganoong pakiramdam, gagabayan ko po kayo sa Magandang SPOT ng KYOTO.
+
+> センスの光る空間でありながら、雑多で気楽な空気感の「ba hütte.」
+
+「ba hütte.」: Masarap na pakiramdam, sa marami't samu't sari, habang nasa naliliwanagang pagitan.
+
+> 同じく書店員であるパートナーと一緒に立ち上げた店。
+
+Tindahang itinayo kasama ang kanyang PARTNER na katulad din niyang Tauhan ng Tindahan ng Aklat.
+
+>「本の虫」夫婦の増え続ける蔵書をシェアするような形で、サブカルチャーやアートの本、文芸書、絵本まで、ボーダーレスな書棚ができあがりました。
+
+Binubuo ang "BORDERLESS" na Lagayan ng Aklat ng SUB-CULTURE, ART BOOK, Aklat ng Sining at Panitikan, hanggang sa Aklat na may Guhit; Ito'y upang maibahagi ng Mag-asawang, "Insekto ng Aklat", ang tuluy-tuloy na dumarami nilang mga aklat.
+
+> 好きな本が安価で市場に出ているのを見つけると、『この本はこんなに安く売られていい本じゃない』と、在庫があるのについ“救出”して（仕入れて）しまうんです。
+
+Kapag natagpuan nila ang hilig nilang aklat sa pamilihan at sa murang halaga, napasasabi si Gng. SEINO ng "Ganito na lamang murang ibinibenta itong aklat!", at inilalagay niya ito sa kanilang lagayan upang "iligtas".
+
+> 人にあげたりおすすめしたりしようと思って。
+
+Naisip niyang ibibigay o imumungkahi niya iyon sa tao.
+
+> 古本なのに複数冊があるのはそのせいです」
+
+Iyon ang dahilan kaya luma man ang mga aklat, samu't sari na ang bilang ng mga ito."
+
+>「建築目当てに足を運んでくださる方が一番多いですね。
+
+"Ang mga taong nakita ang uri ng pagkatayo ng tindahan ang pinakamaraming dumaraan dito.
+
+> 次に立ち飲み、ついでに本や雑貨を買ってくださったり。
+
+Pagkatapos, sandali silang tumitigil upang uminom, at bumibili rin mula sa'min ng aklat, ng samu't saring tinda, atbp.
+
+> 地元のおじさんから知り合いの店主や作家まで、ここで偶然居合わせた人が出会ったり、つながったりするのがおもしろくて。
+
+Nakaaaliw na nagkakaroon ng ugnayan ang mga hindi sinasadyang nagkikita rito, mula kay Tito sa Bayan, ang aming kakilalang may-ari ng tindahan, hanggang sa Magsusulat.
+
+> それがやりがいみたいなものです」（清野さん）
+
+Doon po mukhang naroon ang halaga ng paggawa." (Gng. SEINO)
+
+### Dagdag
+
+1) Sa unang tingin, mukhang hindi kumikita ang ganitong uri ng tindahan; gayunpaman, sapagkat marahil hindi lamang ako ang may nais din ng ganito, nagiging sapat ang kanilang kinikita upang manatili't makapagpatuloy.
+
+
 ## [アベノミクスとは何だったのか　正体つかめぬ政策、その本質は](https://webronza.asahi.com/journalism/articles/2022080300003.html?iref=comtop_Opinion_06); last accessed: 20220822
 
 > アベノミクスとは何だったのか　正体つかめぬ政策、その本質は
