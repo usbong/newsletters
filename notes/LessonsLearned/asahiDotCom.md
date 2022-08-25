@@ -47,7 +47,7 @@ Sa pagsulong ng mababang YEN, mayroon ding sinasabing dulot ang pagdaing sa hala
 
 >　パナソニックホールディングスは、新型コロナの影響による中国・上海市の都市封鎖や半導体不足で、国内向け家電などの供給が滞った。
 
-Sa PANASONIC HOLIDINGS, malubha ang SUPLAY ng mga may-kuryenteng gamit sa bahay na tumutungo sa Loob ng Kaharian, dahil sa hindi sapat na TRANSISTOR, pagsasara ng mga lungsod ng SHANGHAI sa Tsina dulot ng panibagong anyo ng CORONA.
+Sa PANASONIC HOLDINGS, malubha ang SUPLAY ng mga may-kuryenteng gamit sa bahay na tumutungo sa Loob ng Kaharian, dahil sa hindi sapat na TRANSISTOR, pagsasara ng mga lungsod ng SHANGHAI sa Tsina dulot ng panibagong anyo ng CORONA.
 
 > これにより4～6月期の営業利益が約200億円押し下げられた。
 
