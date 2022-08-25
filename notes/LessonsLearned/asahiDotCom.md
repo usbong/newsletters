@@ -12,6 +12,67 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [工場が続々と国内回帰　円安だけではないその理由](https://www.asahi.com/articles/ASQ8S6WVPQ8SULFA00V.html?iref=comtop_7_03); last accessed: 20220825
+
+> 工場が続々と国内回帰　円安だけではないその理由
+
+Tuluy-tuloy nang Bumabalik ang mga Pagawaan sa Loob ng Kaharian; Hindi lamang ang Murang YEN ang DAHILAN
+
+> 有料記事
+
+Sulatin sa nagbabayad na kasapi
+
+> 栗林史子、神山純一 鷲田智憲、田中奏子 土居新平、福田直之2022年8月25日 7時00分
+
+KURIBAYASHI, FUMIKO; KAMIYAMA, JUNICHI; WASHIDA, TOMONORI; TANAKA, KANAKO; DOI, SHINPEI; FUKUDA, NAOYUKI; 2022-08-25T07:00
+
+>　中国の工場を日本に戻したり、国内生産を増やそうとしたりする企業が相次いでいる。
+
+Tuluy-tuloy ang mga Mangangalakal na sinusubukang paramihin ang mga Gawaan sa loob ng Kaharian, sa pagbabalik sa Bansang Hapon ng mga Pagawaan sa Tsina.
+
+> 背景にあるのは、新型コロナによる供給網の断絶や、経済安全保障意識の高まりだ。
+
+Ito ang nasa likuran:<br/> 
+
+1) Pagtaas ng Kamalayan sa Pagtatanggol mula sa Kapansanan at ang Kaligtasan ng EKONOMIYA
+2) Pagputol sa ugnayan ng SUPLAY dulot ng Panibagong Anyo ng CORONA.
+
+> 円安が進み、ブランド価値をアピールできる国内製造を選びやすくなったという事情もある。
+
+Sa pagsulong ng mababang YEN, mayroon ding sinasabing dulot ang pagdaing sa halaga ng BRAND sa madaling pagpili ng mga ito na gawa sa loob ng Kaharihan. 
+
+> 「コストの低い地域に対する依存から脱却」
+
+"Paglisan mula sa pananatili sa pook na mababa ang COST"
+
+>　パナソニックホールディングスは、新型コロナの影響による中国・上海市の都市封鎖や半導体不足で、国内向け家電などの供給が滞った。
+
+Sa PANASONIC HOLIDINGS, malubha ang SUPLAY ng mga may-kuryenteng gamit sa bahay na tumutungo sa Loob ng Kaharian, dahil sa hindi sapat na TRANSISTOR, pagsasara ng mga lungsod ng SHANGHAI sa Tsina dulot ng panibagong anyo ng CORONA.
+
+> これにより4～6月期の営業利益が約200億円押し下げられた。
+
+Dahil dito, sa 4~6 na buwang panahon, naitulak paibaba ng mga 20Bilyong YEN ang KITA mula sa pangangalakal.
+
+>　家電を担当するパナソニックくらしアプライアンス社は中国に集中していた生産を日本やアジアに分散させ始めた。
+
+Sinimulan na ng Samahan ng PANASONIC APPLIANCE sa Pangkabuhayan, na umaako sa mga may-kuryenteng gamit sa bahay, ang pagkalat ng mga gawang tinutukan sa TSINA tungo sa Bansang Hapon, ASIYA, atbp, 
+
+> スティック掃除機の生産を滋賀県の工場に移し、洗濯機についても国内生産を強化する。
+
+Inilipat sa Pagawaan sa SHIGA-KEN ang gawaan ng Makinang Panglinis na "STICK", at pinalakas ang gawaan sa loob ng Kaharian ng tungkol din sa Makinang Panlaba.
+
+>　同社の松下理一社長は「フレキシブルな生産移管をやっていかないといけない。日本やベトナムも含めて考えていく」と話す。
+
+Ayon kay MATSUSHITA, RIICHI, Pinuno ng nabanggit na Samahan, "Kailangang FLEXIBLE ang Ugnayan sa Lipatan ng GAWAAN. Pagnilayan sa pagsulong ang pagsama rin dito ng Bansang Hapon, VIETNAM, atbp." 
+
+>　マツダも上海封鎖や半導体不…
+
+Dahil sa pagsasara sa SHANGHAI, hindi sapat na TRANSISTOR, ang MAZDA rin...
+
+> この記事は有料記事です。残り2284文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin ito. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang natitirang 2284 na titik.
+
 ## [暴走族のパシリ、建設現場で下働き　沖縄で体当たり調査をする理由](https://www.asahi.com/articles/ASQ8R3JQDQ8MUPQJ00B.html?iref=comtop_Opinion_02); last accessed: 20220824
 
 > 暴走族のパシリ、建設現場で下働き　沖縄で体当たり調査をする理由
