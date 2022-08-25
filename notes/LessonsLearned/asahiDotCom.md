@@ -63,7 +63,7 @@ Inilipat sa Pagawaan sa SHIGA-KEN ang gawaan ng Makinang Panglinis na "STICK", a
 
 >　同社の松下理一社長は「フレキシブルな生産移管をやっていかないといけない。日本やベトナムも含めて考えていく」と話す。
 
-Ayon kay MATSUSHITA, RIICHI, Pinuno ng nabanggit na Samahan, "Kailangang FLEXIBLE ang Ugnayan sa Lipatan ng GAWAAN. Pagnilayan sa pagsulong ang pagsama rin dito ng Bansang Hapon, VIETNAM, atbp." 
+Ayon kay MATSUSHITA, RIICHI, Pinuno ng nabanggit na Samahan, "Kailangang FLEXIBLE ang ugnayan sa lipatan ng GAWAAN. Pagnilayan sa pagsulong ang pagsama rin dito ng Bansang Hapon, VIETNAM, atbp." 
 
 >　マツダも上海封鎖や半導体不…
 
@@ -72,6 +72,10 @@ Dahil sa pagsasara sa SHANGHAI, hindi sapat na TRANSISTOR, ang MAZDA rin...
 > この記事は有料記事です。残り2284文字有料会員になると続きをお読みいただけます。
 
 May bayad na sulatin ito. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang natitirang 2284 na titik.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## [暴走族のパシリ、建設現場で下働き　沖縄で体当たり調査をする理由](https://www.asahi.com/articles/ASQ8R3JQDQ8MUPQJ00B.html?iref=comtop_Opinion_02); last accessed: 20220824
 
