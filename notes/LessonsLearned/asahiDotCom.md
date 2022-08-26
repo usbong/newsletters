@@ -60,7 +60,7 @@ Unawain ang paraan ng pagsusulat.<br/>
 
 > 懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。
 
-Tungo sa paglutas ng suliranin, kailangang nangunguna sa pagkilos ang mga Gumagabay sa PULITKA. Unang hakbang sa kaligtasan at pagtatanggol mula sa pahamak ang pag-aayos bilang paghahanda ng kapaligiran kung saan maaaring makapag-usap, sa pamamagitan ng parating pagpapabuti ng daloy ng hangin sa paghinga.
+Tungo sa paglutas ng suliranin, kailangang nangunguna sa pagkilos ang mga Gumagabay sa PULITIKA. Unang hakbang sa kaligtasan at pagtatanggol mula sa pahamak ang pag-aayos bilang paghahanda ng kapaligiran kung saan maaaring makapag-usap, sa pamamagitan ng parating pagpapabuti ng daloy ng hangin sa paghinga.
 
 ### Dagdag#2
 
