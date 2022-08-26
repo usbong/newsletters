@@ -70,6 +70,77 @@ Maaalala ang pagkilos sa ganitong pook sa mga sistema ng labanan tulad ng CHESS,
 Naiiba ito sa pagkilos sa pook ng pakikipaglaban kung saan naroon ang sundalo.<br/>
 <b>keyphrase:</b> AKSYON, FIGHTING, impulse, bunsod, sanayan
 
+### Dagdag#3: Pagsasalin mula Wikang Hapon tungo Wikang Filipino
+
+>　中国と韓国が国交を樹立してきのうで３０年となった。来月には日中も国交正常化から半世紀という節目を迎える。
+
+30 Taon na ang itinayong puno ng ugnayan ng Kahariang Tsina at Korea. Sa darating na buwan, sasalubungin din ng Hapon at Tsina ang mahalagang panahon ng kalahating siglo mula nang iwinasto ang palitan ng dalawang Kaharian.
+
+>　北朝鮮への対応をはじめ、経済や環境など日中韓が利害を共有する課題は多岐にわたる。
+
+Simula sa pagtugon sa Hilagang Korea, marami ang tinatawid na paksa kung saan magkasamang nagkaroon ng mabuti at pahamak sa Hapon, Tsina, at Korea sa larangan ng EKONOMIYA, Kalikasan, atbp.
+
+>　同時に、安全保障や歴史、領土といった懸案を多く抱えているのも事実だ。
+
+Sa nabanggit na panahon, tunay na maraming dinanas ang tatlong Kaharian na suliraning may kinalaman sa Kaligtasan at Pagtatanggol sa Pahamak, Kasaysayn, Sakop na Lupain, atbp.
+
+> その隔たりを縮めるためにも、互いに言うべきことは主張しながら協力関係を深化させ、地域の安定につなげる努力を惜しんではならない。
+
+Upang paliitin ang pagitang iyon, habang dinidiin ang pagsasabi sa kung ano ang kailangan sa at ng isa't isa, palalimin pa ang ugnayan ng pagtutulungan, at huwag maghinayang sa pagkikilos kaugnay sa katatagan ng rehiyon.
+
+>　中韓は３０年前、冷戦終結や中国の改革開放路線、社会主義国との関係改善をめざす韓国の北方政策を背景に国交を結んだ。
+
+30 taon noon, tinali ng Tsina at Korea ang palitan ng kanilang Kaharian sa pamamagitan ng, halimbawa, 1) pagwawakas sa Malamig na Pakikipaglaban, 2) paggawa ng daan sa maginhawang pagbabago sa Kaharian ng Tsina, at 3) pagbuo sa kalagayang ito ng kanilang Polisiya sa Hilagang Bahagi ng Kaharian ng Korea tungo sa pagpapabuti ng ugnayan ng mga Kaharian kung saan Pangunahin ang Lipunan.
+
+>　韓国はその後、安全保障は米国に、経済は中国に大きく寄りかかり、国を成長させてきた。今も中国は最大の貿易相手国であり、主力産業の半導体の輸出先では約４割を占める。
+
+Pagkatapos niyon, pinausbong ng Korea ang kanilang kaharian sa pamamagitan ng pagpapalaki ng pagpapaubaya sa Amerika, ang ukol sa Kaligtasan at Pagtatanggol sa Pahamak, at sa Tsina naman, ang ukol sa EKONOMIYA. Kahit sa kasalukuyan, Tsina ang kanilang pinakamalaking kaugnay na Kaharian sa Kalakal, at sumasakop ang paglalabas ng TRANSISTOR, bilang kanilang pangunahing gawa, tungo Tsina ng mga 40%.
+
+>　だがそんな関係性にも変化が出てきた。歴代の韓国政権は、米中のはざまで常に難しい選択を迫られてきたが、両大国の対立が深まるにつれ、さらに厳しい立場になっている。
+
+Gayunpaman, may lumalabas na pagbabago sa ugnayang iyon.  Dahil sa kalagayan ng ugnayan ng Amerika at Tsina, at habang lumalalim ang labanan ng dalawang malalaking kaharian, higit pang magiging mahigpit ang kanilang katayuan, kung saan parating nag-uudyok ang mahirap na pagpili.
+
+>　近年の中国の韓国に対する高圧的なふるまいも目に余る。
+
+Kita rin ang malakas na kilos ng pag-uudyok ng Tsina nitong mga nakaraang taon sa Korea.
+
+>　弾道ミサイル発射を繰り返す北朝鮮に対し、韓国政府が米軍のミサイル防衛システムの配備を決めたところ、中国は厳しい経済報復措置を加えた。韓国側に大きなダメージを与えただけでなく、韓国社会の対中感情を著しく悪化させた。
+
+Sa pagpasiya ng ADMI-NISTRASYON ng Korea sa paglagay bilang paghahanda ng sistema mula sa Militar ng Amerika ng pagsangga ng MISSILE, upang panlaban sa paulit-ulit na pagpapalabas ng dumaraang bala nito mula Hilagang Korea, dinagdagan ng Tsina ang paghihigpit ng kanyang EKONOMIYA bilang paraan ng pagbawi. Sa panig ng Korea, hindi lamang ito nagbigay ng malaking dagok, kamangha-manghang pinasama pa nito ang pakiramdam ng lipunang Korea tungo sa Tsina.
+
+>　５月に発足した韓国の尹錫悦（ユンソンニョル）政権は米韓同盟強化を最重要課題にすえる。米国が主導するインド太平洋経済枠組みへの参加を早々に表明したほか、日米や台湾との半導体供給網への加入も検討中とされる。
+
+Sa ika-5 Buwan, inilagay ni YUN, SEUK YEUR, ang Pangulo at Tagasulong ng Karapatan ng Korea, sa pinakamahalagang paksa ang pagpapalakas ng samahan ng Amerika at Korea. Bukod sa pagpapahayag ng maagang paglahok sa Samahan ng mga EKONOMIYA sa Malaking Karagatan sa INDIA, na pangunahing ginagabayan ng Amerika, kasalukuyang sinisiyasat din ang pagpasok sa ugnayan ng SUPLAY ng TRANSISTOR kasama ang Hapon at Amerika, ang TAIWAN, atbp.
+
+>　それでも、経済関係に加え、北朝鮮の後ろ盾として、一定の影響力を持つ中国との関係を悪化させるわけにはいかない。
+
+Gayunpaman, sa pagdagdag ng ugnayan sa EKONOMIYA, at sa paggamit ng panangga sa likuran sa Hilagang Korea, walang dahilan ang pagpapasama sa ugnayan kasama ang Tsina na may tiyak na lakas.
+
+>　台湾訪問後に韓国へ立ち寄ったペロシ米下院議長に、尹大統領は直接の面会を避けるなど、中国との無用な摩擦を避けたい思いが強くにじむ。
+
+Pagkatapos ng pagdalaw sa Taiwan, sa pag-iwas sa direkta at harapang pagkikita ng Pangulong Yun, kasama si Pelosi, ang Pinuno ng Mababang Kapulungan ng Amerika, nang pumunta siya sa Korea, atbp, malakas na pinalabo ang kasalukuyang kalagayan, kung saan maiisip na nais niyang umiwas sa walang saysay na pagpapabaga ng galit sa Tsina.
+
+>　米中対立のはざまで思い悩むのは日本とて同じだ。日韓はともに米国と同盟関係にあり、普遍的な価値観も共有する。
+
+Katulad sa Hapon ang kanilang alinlangan sa kalagayan ng labanan ng Amerika at Tsina. Magkasama ang Hapon at Korea sa pananaw na may pangkalahatang halaga ang ugnayan ng magkakatulad na samahan, kasama ang Amerika.
+
+>　そんな日韓が、中国を巻き込み、定期的な対話の機会を持とうとつくった枠組みが、日中韓の首脳会合だ。３カ国が回り持ちで年に１度の定例会を開くことになっているが、１９年の開催以来、先送りされている。
+
+Magkasamang pangunahing isipan ng Hapon, Tsina, at Korea ang kanilang ginawang hulma ng samahan, kung saan sinusubukan nilang magkaroon ng pagkakataon sa napagpasiyahang panahon ng usapan ang Hapon at Korea, kasama ang Tsina. Isa sa isang taon binubuksan ang pulong nang salin-sinan ng tatlong Kaharian, bagama't naaantala ito, pagkatapos ng pagsasagawa nito sa taong 2019.
+
+>　日韓間の徴用工問題に進展がないことを理由に、日本が出席をしぶっているためだ。
+
+Sapagkat wala namang pag-usad sa suliranin sa pagitan ng Hapon at Korea, ilang ang Hapon sa pagdalo sa pulong.
+
+>　懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。
+
+Tungo sa paglutas ng suliranin, kailangang nangunguna sa pagkilos ang mga gumagabay sa pulitika. Unang hakbang sa kaligtasan at pagtatanggol mula sa pahamak ang pag-aayos bilang paghahanda ng kapaligiran kung saan maaaring makapag-usap, sa pamamagitan ng parating pagpapabuti ng daloy ng hangin sa paghinga.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [工場が続々と国内回帰　円安だけではないその理由](https://www.asahi.com/articles/ASQ8S6WVPQ8SULFA00V.html?iref=comtop_7_03); last accessed: 20220825
 
 > 工場が続々と国内回帰　円安だけではないその理由
