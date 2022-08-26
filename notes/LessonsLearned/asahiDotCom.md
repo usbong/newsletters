@@ -56,7 +56,7 @@ Pagpapalakas ng Ugnayan kabilang ang Hapon
 ### Dagdag#1
 
 Unawain ang paraan ng pagsusulat.<br/>
-keyphrase: kasaysayan, labanan, pagkilos, opinion
+<b>keyphrase:</b> kasaysayan, labanan, pagkilos, opinion
 
 > 懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。
 
