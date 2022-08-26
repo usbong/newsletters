@@ -74,11 +74,11 @@ Naiiba ito sa pagkilos sa pook ng pakikipaglaban kung saan naroon ang sundalo.<b
 
 >　中国と韓国が国交を樹立してきのうで３０年となった。来月には日中も国交正常化から半世紀という節目を迎える。
 
-30 Taon na ang itinayong puno ng ugnayan ng Kahariang Tsina at Korea. Sa darating na buwan, sasalubungin din ng Kaharian ng Hapon at Tsina ang mahalagang panahon ng kalahating siglo mula nang iwinasto ang palitan ng kanilang dalawang Kaharian.
+30 taon na ang itinayong puno ng ugnayan ng Kahariang Tsina at Korea. Sa darating na buwan, sasalubungin din ng Kaharian ng Hapon at Tsina ang mahalagang panahon ng kalahating siglo mula nang iwinasto ang palitan ng dalawang Kaharian.
 
 >　北朝鮮への対応をはじめ、経済や環境など日中韓が利害を共有する課題は多岐にわたる。
 
-Simula sa pagtugon sa Hilagang Korea, marami ang tinatawid na paksa kung saan magkasamang nagkaroon ng mabuti at pahamak sa Hapon, Tsina, at Korea sa larangan ng EKONOMIYA, Kalikasan, atbp.
+Simula sa pagtugon sa Hilagang Korea, marami nang tinatawid na paksa, kung saan magkasamang nagkaroon ng mabuti at pahamak sa Hapon, Tsina, at Korea sa larangan ng EKONOMIYA, Kalikasan, atbp.
 
 >　同時に、安全保障や歴史、領土といった懸案を多く抱えているのも事実だ。
 
