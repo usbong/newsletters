@@ -12,6 +12,64 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+### [（社説）中韓国交３０年　日本含めた連携強化を](https://www.asahi.com/articles/DA3S15396706.html?iref=comtop_Opinion_04; last accessed: 20220825
+
+>（社説）中韓国交３０年　日本含めた連携強化を
+
+Usap-Lipunan: 30 Taong Palitan ng Kahariang Tsina at Korea<br/>
+Pagpapalakas ng Ugnayan kabilang ang Hapon
+
+> 2022年8月25日 5時00分
+
+2022-08-25T05:00
+
+>　中国と韓国が国交を樹立してきのうで３０年となった。来月には日中も国交正常化から半世紀という節目を迎える。<br/>
+><br/>
+>　北朝鮮への対応をはじめ、経済や環境など日中韓が利害を共有する課題は多岐にわたる。<br/>
+><br/>
+>　同時に、安全保障や歴史、領土といった懸案を多く抱えているのも事実だ。その隔たりを縮めるためにも、互いに言うべきことは主張しながら協力関係を深化させ、地域の安定につなげる努力を惜しんではならない。<br/>
+> <br/>
+>　中韓は３０年前、冷戦終結や中国の改革開放路線、社会主義国との関係改善をめざす韓国の北方政策を背景に国交を結んだ。<br/>
+> <br/>
+>　韓国はその後、安全保障は米国に、経済は中国に大きく寄りかかり、国を成長させてきた。今も中国は最大の貿易相手国であり、主力産業の半導体の輸出先では約４割を占める。<br/>
+> <br/>
+>　だがそんな関係性にも変化が出てきた。歴代の韓国政権は、米中のはざまで常に難しい選択を迫られてきたが、両大国の対立が深まるにつれ、さらに厳しい立場になっている。<br/>
+> <br/>
+>　近年の中国の韓国に対する高圧的なふるまいも目に余る。<br/>
+> <br/>
+>　弾道ミサイル発射を繰り返す北朝鮮に対し、韓国政府が米軍のミサイル防衛システムの配備を決めたところ、中国は厳しい経済報復措置を加えた。韓国側に大きなダメージを与えただけでなく、韓国社会の対中感情を著しく悪化させた。<br/>
+> <br/>
+>　５月に発足した韓国の尹錫悦（ユンソンニョル）政権は米韓同盟強化を最重要課題にすえる。米国が主導するインド太平洋経済枠組みへの参加を早々に表明したほか、日米や台湾との半導体供給網への加入も検討中とされる。<br/>
+> <br/>
+>　それでも、経済関係に加え、北朝鮮の後ろ盾として、一定の影響力を持つ中国との関係を悪化させるわけにはいかない。<br/>
+> <br/>
+>　台湾訪問後に韓国へ立ち寄ったペロシ米下院議長に、尹大統領は直接の面会を避けるなど、中国との無用な摩擦を避けたい思いが強くにじむ。<br/>
+> <br/>
+>　米中対立のはざまで思い悩むのは日本とて同じだ。日韓はともに米国と同盟関係にあり、普遍的な価値観も共有する。<br/>
+> <br/>
+>　そんな日韓が、中国を巻き込み、定期的な対話の機会を持とうとつくった枠組みが、日中韓の首脳会合だ。３カ国が回り持ちで年に１度の定例会を開くことになっているが、１９年の開催以来、先送りされている。<br/>
+> <br/>
+>　日韓間の徴用工問題に進展がないことを理由に、日本が出席をしぶっているためだ。<br/>
+> <br/>
+>　懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。<br/>
+
+### Dagdag#1
+
+Unawain ang paraan ng pagsusulat.<br/>
+keyphrase: kasaysayan, labanan, pagkilos, opinion
+
+> 懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。
+
+Tungo sa paglutas ng suliranin, kailangang nangunguna sa pagkilos ang mga Gumagabay sa PULITKA. Unang hakbang sa kaligtasan at pagtatanggol mula sa pahamak ang pag-aayos bilang paghahanda ng kapaligiran kung saan maaaring makapag-usap, sa pamamagitan ng parating pagpapabuti ng daloy ng hangin sa paghinga.
+
+### Dagdag#2
+
+Maaalala ang pagkilos sa ganitong pook sa mga sistema ng labanan tulad ng CHESS, I-GO, atbp<br/>
+<b>keyphrase:</b> turn-based, tactical, strategy, exchange, sanayan<br/>
+<br/>
+Naiiba ito sa pagkilos sa pook ng pakikipaglaban kung saan naroon ang sundalo.<br/>
+<b>keyphrase:</b> AKSYON, FIGHTING, impulse, bunsod, sanayan
+
 ## [工場が続々と国内回帰　円安だけではないその理由](https://www.asahi.com/articles/ASQ8S6WVPQ8SULFA00V.html?iref=comtop_7_03); last accessed: 20220825
 
 > 工場が続々と国内回帰　円安だけではないその理由
