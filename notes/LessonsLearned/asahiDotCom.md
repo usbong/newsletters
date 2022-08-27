@@ -12,6 +12,62 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「三菱電機は変わって」パワハラ自殺の遺族、命日の和解に込めた思い](https://www.asahi.com/articles/ASQ8V74SFQ8QULFA01J.html?iref=comtop_7_04); last accessed: 20220827
+
+「三菱電機は変わって」パワハラ自殺の遺族、命日の和解に込めた思い
+
+Saloobin ng Natirang Kamag-anak sa Paglutas ng Kasunduan ukol sa Huling Araw ng Buhay ng Nagpakamatay dulot ng POWER HARASSMENT; "Pagbabago sa MITSUBISHI DENKI (Makina ng Kuryente)"
+
+> 有料記事
+
+Sulating may bayad
+
+> 内藤尚志、橋本拓樹2022年8月27日 7時30分
+
+NAITO, TAKASHI; HASHIMOTO, HIROKI; 20220827T0730
+
+>　社員の自殺が相次いだ三菱電機で、3年前に自ら命を絶った男性新入社員（当時20代）の遺族と同社が和解した。
+
+Lutas na ang kasunduan ng natirang kamag-anak ng nagpakamatay na bagong pasok sa samahan na lalake (nasa 20's nang panahong iyon) 3 taon ang nakararaan at ng MITSUBISHI DENKI, kung saan tuluy-tuloy ang mga nagpapakamatay na tauhan ng kanilang samahan.  
+
+> 漆間啓社長はパワーハラスメントが原因だったと認め、遺族に会って謝罪した。
+
+Tinanggap ni URUMA, KEI, ang Pinuno ng Samahan, na POWER HARASSMENT ang dahilan, at nakipagkita sa natirang kamag-anak at umamin sa kasalanan.
+
+> パワハラによる自殺は他の大企業でも起きており、加害者個人の問題でなく、企業の責任が問われるという認識が広まりつつある。
+
+Kahit sa ibang Malalaking Mangangalakal, nagaganap din ang pagpapakamatay dulot ng POWER HARASSMENT. Sapagkat hindi ito sariling suliranin ng napahamak, patuloy na lumalaganap ang kamalayang tinatanong ang pananagutan ng Mangangalakal.
+
+>　和解した23日は、この新入社員の命日だった。
+
+Sa ika-23 araw ang paglutas sa kasunduan, huling araw ng buhay ng bagong pasok na tauhan ng samahan.
+
+>　「三菱電機、加害者、その上司らは今回のことを風化させることなく、今後はそういった場面で困った人を助ける側、環境に変わってもらいたい」。
+
+"Pagkatapos nito, sa panig ng magliligtas sa taong nasalanta dahil sa nabanggit na kaganapan, nais naming mabago ng kapaligiran ang MITSUBISHI DENKI, ang napahamak na tao, at ang mga nasa itaas na mamumuno, sa halip na hayaang gawin na lamang hangin itong pangyayari."
+
+> 遺族はそんな思いを込めたと弁護士を通して打ち明けた。
+
+Iyon ang ipinaliwanag sa pamamagitan ng Abogado, na saloobin ng natirang kamag-anak.
+
+>　裁判には至らず和解したが…
+
+Nalutas man ang kasunduan, kahit hindi dinaan sa hukom...
+
+> この記事は有料記事です。残り1101文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin ito. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod na natitirang 1101 titik.
+
+### Paalala
+
+1) Laganap na ang pag-aaral na hindi na mapangangaralan ang mga taong lagpas na ng High School (K-12). <br/>
+--> keyphrase: hipokrito<br/>
+--> Sa halip, mula sa pagkilos ng kanyang kapaligiran, e.g. mga taong malapit sa kanya, kanyang pinagkatitiwalaan, ang tinitirahang lungsod, ang higit na may kayang mag-udyok ng pagbabago.<br/>
+--> Gayunpaman, mahalaga sa panahong iyon na siya at hindi dahil sa utos ng iba, ang tatanggap sa katotohanang kailangan niyang magbago. <br/>
+--> Pagkatapos lamang nito natin mamasdan ang pagbabago ng kanyang pagkilos.
+
+
+
 ### [（社説）中韓国交３０年　日本含めた連携強化を](https://www.asahi.com/articles/DA3S15396706.html?iref=comtop_Opinion_04; last accessed: 20220825
 
 >（社説）中韓国交３０年　日本含めた連携強化を
