@@ -12,6 +12,41 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（社説）予算の未消化　「規模ありき」点検せよ](https://www.asahi.com/articles/photo/AS20220829000006.html); last accessed: 20220829
+
+>（社説）予算の未消化　「規模ありき」点検せよ
+
+(Usap-Lipunan) Hindi Ubos ang Inalaang Pera; Siyasatin ang "Hulma" 
+
+> 2022年8月29日 5時00分
+
+2022-08-29T05:00
+
+### Maikling Pagbubuod
+
+> コロナ禍以降、巨額の政府予算を使い切れない事態が続いている。
+
+Pagkatapos ng Sakuna ng CORONA, tuluy-tuloy na hindi maubos sa paggamit ang inilaang malaking bilang ng pera ng Pamahalaan upang tugunan ang Sakuna.
+
+### --
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/asahiShimbun20220829T1256.png" width="80%">
+
+### --
+
+
+>　目立つのが、飲食店への営業時間短縮の協力金や中小企業への低利融資といったコロナ対策の予算だ。使いづらい制度設計が原因で、必要な人に支援が行き渡らなかった事例はなかったか、検証が欠かせない。
+
+Tawag pansin ang inilaang pera panlaban sa CORONA, kung saan binabaan ang kita ng salapi mula sa Maliliit at Gitnang-Laking Mangangalakal, ang pagkakaroon ng pera upang tulungan ang Tindahan ng Kainan at Inuman na pinaikli ang panahon ng kalakal. Sapagkat naging mahirap gamitin ang inilaan at pinangasiwaang pera, hindi kukulangin ang pagsisiyasat upang sagutin kung wala bang halimbawa kung saan hindi naipasa ang tulong sa mga taong may kailangan nito.
+
+>　問題は、こうした「規模ありき」が異例の危機対応の分野以外にも広がっていることだ。
+
+Suliranin sa ganitong "Hulma" ang paglaganap nito sa iba pang larangan bukod sa pagtugon sa mga kakaibang KRISIS.
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [「三菱電機は変わって」パワハラ自殺の遺族、命日の和解に込めた思い](https://www.asahi.com/articles/ASQ8V74SFQ8QULFA01J.html?iref=comtop_7_04); last accessed: 20220827
 
 「三菱電機は変わって」パワハラ自殺の遺族、命日の和解に込めた思い
