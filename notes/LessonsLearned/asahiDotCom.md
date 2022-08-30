@@ -12,6 +12,60 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ホンダ、LGと米国でEV電池工場　25年量産開始　EV拡大にらむ](https://www.asahi.com/articles/ASQ8Y6Q55Q8YULFA00P.html?iref=comtop_Business_02); last accessed: 20220830
+
+> ホンダ、LGと米国でEV電池工場　25年量産開始　EV拡大にらむ
+
+HONDA at LG, Pagawaan ng Baterya sa Amerika, Simula ng pang-25 Taong Bilang ng Gawa; Tutok sa Pagpapalaganap ng EV
+
+> 有料記事
+
+May bayad na sulatin
+
+> 神山純一2022年8月29日 21時00分
+
+KAMIYAMA, JUNICHI; 2022-08-29T21:00
+
+> ホンダは29日、韓国電池大手のLGエナジーソリューションと合弁で、米国に電気自動車（EV）専用の電池工場を新設すると発表した。
+
+Sa ika-29 na araw, ipinahayag ng HONDA ang pakikipagsama sa LG ENERGY SOLUTION, ang Malaking Mangangalakal ng baterya ng Kaharian ng Korea, upang maglagay ng panibagong pagawaan ng baterya upang gamitin sa sasakyan ng kuryente sa Amerika.
+
+> 2023年初めに着工し、25年の量産開始をめざす。米国でのEVシフト加速を見込み、自動車各社が電池の調達体制づくりを急いでいる。
+
+Sa taong 2023 ang simula, at may pakay na pang-25 taong bilang ng gawa. Sa Amerika, binibilisan ang pag-aayos sa binubuong sistema upang makamit ng lahat ng mga Samahan ng Sasakyan ang baterya, na nakikitang bilang gamit sa EV SHIFT ng Pampabilis.
+
+>　合弁会社の出資比率はLGが51%、ホンダが49%。両社が計44億ドル（約6100億円）を投じて新工場を建てる。
+
+Batay sa paghahambing ng inilabas na salapi ng Pinagsamang Samahan, 51%, ang sa LG, 49% naman ang sa HONDA. Itinatayo ang bagong Pagawaan sa pahunan ng dalawang samahan na may kabuuang bilang na 4.4 Bilyong Dolyar (mga 237.6 Bilyong Piso (ginamit na palitan: 1 USD : 54 PHP)).
+
+> 生産した電池はすべて、北米にあるホンダの工場に供給する。
+
+Ibibigay ang lahat ng gawang baterya bilang suplay sa Pagawaan ng HONDA sa Hilagang Amerika.
+
+> 建設地は未定だが、主力工場のあるオハイオ州近郊につくるとみられる。
+
+Bagama't hindi pa tiyak ang lupaing tatayuan, nakikitang bubuuin ito sa suburb ng pook OHIO, kung saan mayroong pangunahing lakas ng pagawaan.
+
+>　ホンダは現在、米国のEV向けに、業務提携する米ゼネラル・モーターズ（GM）製の電池「アルティウム」を使う計画を掲げている。
+
+Kasalukuyang winawagayway ng HONDA ang plano ng paggamit ng "Ultium", ang gawang baterya ng General Motors (GM) ng Amerika, na nangangalakal tungo sa EV sa Amerika.
+
+> 24年には、GMと共同開発のEV2車種を発売する予定だ。
+
+Sa taong 2024, tiyak na inaasahan ang pagbebenta ng EV2, ang uri ng sasakyan na magkasamang pinauunlad kasama ang GM.
+
+> 急増する電池需要　不足に懸念
+
+Alalahanin ang hindi sapat na pagtugon sa mabilis na dumaraming pangangailangan ng baterya.
+
+>　ただ、急速なEV化を受けて…
+
+Kaya lang, sa pagtanggap ng mabilis na pagbabago tungo EV...
+
+> この記事は有料記事です。残り971文字有料会員になると続きをお読みいただけます。
+
+May bayad ang sulating ito. Maaari niyo pong mabasa ang kasunod na natitirang 971 titik kapag naging nagbabayad na kasapi na po kayo.
+
 ## [（社説）予算の未消化　「規模ありき」点検せよ](https://www.asahi.com/articles/photo/AS20220829000006.html); last accessed: 20220829
 
 >（社説）予算の未消化　「規模ありき」点検せよ
