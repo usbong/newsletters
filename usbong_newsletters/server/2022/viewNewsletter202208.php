@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220829; from 20220801
+  @date updated: 20220831; from 20220829
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -106,16 +106,19 @@
 						h3
 						{
 							color: rgb(0,0,0); /* black */							
+							font-size: 14pt;						
 						}
 					
 						h4
 						{
-							color: rgb(64,64,64);	
+							color: rgb(64,64,64);
+							font-size: 12.5pt;						
 						}
 
 						h5
 						{							
 							color: rgb(85,43,0);	
+							font-size: 12pt;
 						}
 						
 						b
@@ -508,13 +511,20 @@
 To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specialty Clinic (MOSC) requested Usbong's services to automate routine, monotonous tasks and share with unit members know-how on computers.
 
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
-<h4>1.1) continued: to share know-how on computers and Information Technology (IT) tools</h4>
-<h5>1.1.1) shared: with Public, <b>VALUE</b> of system efficiency<br/>
---> observed: using <b>GAINED TIME</b>, information, e.g. barangay, Senior Citizen Card Number, CAN already be added to the <b>computer database</b> from the <b>index card</b><br/>
---> This action assists with the printing of the acknowledgment form;<br/>
---> where: paid services, e.g. x-ray, laboratory, and items, e.g. arm sling, knee immobilizer, are auto-written by the computer in a LIST <br/>
---> adds: the acknowledgment form is given with the Bureau of Internal Revenue (BIR)-approved Official Receipt (OR)<br/>
---> This is due to handwritten text using the OR appears UNCLEAR<br/>
+<h4>1.1) continued: to share know-how on computers・Information Technology (IT) tools</h4>
+<h5>1.1.1) shared: with Public, <b>VALUE</b> of <b>SYSTEM EFFICIENCY</b><br/>
+<br/>
+--> observed: using <b>GAINED TIME</b>, <b>INFORMATION</b> CAN already be added<br/>
+--> from the <b>Index Card</b> to the <b>Computer Database</b><br/>
+--> <b>Example INFORMATION:</b> barangay, Senior Citizen Card Number<br/>
+<br/>
+--> This <b>ACTION</b> assists with the printing of the <b>Acknowledgment Form</b>;<br/>
+--> where: <b>PAID SERVICES</b> and <b>ITEMS</b> are auto-written by the <b>COMPUTER</b> in a <b>LIST</b><br/>
+--> <b>Example SERVICES:</b> X-RAY, LABORATORY<br/>
+--> <b>Example ITEMS:</b> ARM SLING, KNEE IMMOBILIZER<br/>
+--> adds: the <b>Acknowledgment Form</b> is given with the <b>Official Receipt (OR)</b><br/>
+--> where: <b>OR</b> is <a class="webServiceLink" target="_blank" href="https://www.bir.gov.ph">Bureau of Internal Revenue (BIR)</a>-approved<br/>
+--> This is due to <b>handwritten text</b> using the <b>OR</b> appears <b>UNCLEAR</b><br/>
 
 <h3> Gained TIME from System Efficiency is REUSED to further increase Gained TIME via System Efficiency</h3>
 
@@ -527,22 +537,59 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> <b>Example:</b><br/> 
 Request to NOT verify <b>Medical Prescription</b> to QUICKLY receive <b>Medicine Item</b><br/>
 <br/>
-<b>reminder#1:</b> <b>Medical Prescription</b> contains information, e.g. patient name, last visit,<br/> 
-prescribed medicine tablet count, medicine tablet in grams;<br/>
+<b>reminder#1:</b> <b>Medical Prescription</b> contains <b>INFORMATION</b><br/> 
+--> <b>Examples:</b> patient name, last visit, prescribed medicine tablet count/grams;<br/>
 <br/>
 observed: select patients request <b>family member</b> to buy medicine item for them;<br/>
---> where: <b>family member</b>'s list of tasks has increased to be <b>NOT GINHAWA</b><br/>
+--> where: <b>family member</b>'s LIST of TASK has increased to be <b>NOT GINHAWA</b><br/>
 <br/>
-<b>reminder#2:</b> <b>SPEED-UP</b> of patient's death caused by increasing <b>COST</b><br/>
+<b>reminder#2:</b> <b>SPEED-UP</b> of patient's <b>DEATH</b> caused by increasing <b>COST</b><br/>
 --> where: <b>COST</b> classified with <b>TIME</b> and <b>MONEY</b><br/>
 <br/>
+verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> from the <b>MANLOLOKO</b><br/>
+--> speeds-up <b>DEATH</b> and increases <b>COST</b><br/> 
+--> where: <b>MANLOLOKO</b> includes among others in <b>group</b>:<br/>
+--> <b>budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista</b>
 <br/>
-NOISE POLLUTION from MANLOLOKO/budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista group
+<br/>
+observed: continuous wireless broadcasting of <b>NOISE POLLUTION</b>;<br/>
+<br/>
+<b>Examples:</b> "TANGA, TATANGA-TANGA, 'TANGINA, BOBONG PULIS,<br/> 
+"PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
+<br/>
+--> adds: <b>UNSOLICITED</b> <u>breathing interference</u> causes <b>PHYSICAL STIMULATION</b><br/>
+--> due to among others: <b>INSUFFICIENT OXYGEN IN BRAIN</b> via blood stream<br/>
+--> where: <u>breathing interference</u> caused by among others:<br/> 
+--> <b>"HINGA"</b> classified: as <b>NOISE POLLUTION</b><br/>
+--> keyphrase: <b>UNSOLICITED</b><br/>
+<br/>
+<br/>
+<b>EXECUTED ACTIONS:</b> filed: incident reports with <b>Law Enforcement</b>;<br/>
+<b>Examples:</b><br/>
+1) Philippine National Police (PNP)<br/>
+<br/>
+1.1) Anti-cybercrime Group (ACG): Women and Children Cybercrime Protection Unit<br/>
+--> <a class="webServiceLink" target="_blank" href="mailto:pnp.acg.wccpu@gmail.com">pnp.acg.wccpu@gmail.com</a><br/>
+<br/>
+1.2) CRIMINAL INVESTIGATION AND DETECTION GROUP (CIDG)<br/>
+--> <a class="webServiceLink" target="_blank" href="mailto:cidgnhqcrmc@gmail.com">cidgnhqcrmc@gmail.com</a><br/>
+<br/>
+2) Office of Public Safety and Security (OPSS: Marikina City) Team<br/>
+--> <a class="webServiceLink" target="_blank" href="mailto:opss@marikina.gov.ph">opss@marikina.gov.ph</a><br/>
+<br/>
+reminder: <b>EMERGENY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
+<br/>
+<br/>
+TO-DO: -add: Cainta, Rizal
+<br/>
+<br/>
+TO-DO: -add: COST of STROKE; based on PhilHealth coverage;<br/>
+--> remembers: COST higher than coverage for CANCER;
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
+
 --> observed: recent <b>NO ELECTRICITY POWER incident</b> near <b>SCHOOL BUILDING CONSTRUCTION</b><br/> 
 --> in <b>Barangay Sto. Niño, Marikina City</b> caused <b>WAITING TIME</b><br/> 
 --> for <b>ELECTRICITY to RETURN</b> to be <b>OVER one (1) HOUR</b>.<br/> 
