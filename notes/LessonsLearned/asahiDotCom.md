@@ -28,19 +28,19 @@ KAMIYAMA, JUNICHI; 2022-08-29T21:00
 
 > ホンダは29日、韓国電池大手のLGエナジーソリューションと合弁で、米国に電気自動車（EV）専用の電池工場を新設すると発表した。
 
-Sa ika-29 na araw, ipinahayag ng HONDA ang pakikipagsama sa LG ENERGY SOLUTION, ang Malaking Mangangalakal ng baterya ng Kaharian ng Korea, upang maglagay ng panibagong pagawaan ng baterya upang gamitin sa sasakyan ng kuryente sa Amerika.
+Sa ika-29 na araw, ipinahayag ng HONDA ang pakikipagsama sa LG ENERGY SOLUTION, ang Malaking Mangangalakal ng baterya ng Kaharian ng Korea, upang maglagay sa Amerika ng panibagong pagawaan ng baterya upang gamitin sa mga sasakyan ng kuryente.
 
 > 2023年初めに着工し、25年の量産開始をめざす。米国でのEVシフト加速を見込み、自動車各社が電池の調達体制づくりを急いでいる。
 
-Sa taong 2023 ang simula, at may pakay na pang-25 taong bilang ng gawa. Sa Amerika, binibilisan ang pag-aayos sa binubuong sistema upang makamit ng lahat ng mga Samahan ng Sasakyan ang baterya, na nakikitang bilang gamit sa EV SHIFT ng Pampabilis.
+Sa taong 2023 ang simula, at may pakay na pang-25 taong bilang ng gawa. Sa Amerika, binibilisan ang pag-aayos sa binubuong sistema upang makamit ng lahat ng mga Samahan ng Sasakyan ang baterya, na nakikita bilang gamit sa EV SHIFT ng Pampabilis.
 
 >　合弁会社の出資比率はLGが51%、ホンダが49%。両社が計44億ドル（約6100億円）を投じて新工場を建てる。
 
-Batay sa paghahambing ng inilabas na salapi ng Pinagsamang Samahan, 51%, ang sa LG, 49% naman ang sa HONDA. Itinatayo ang bagong Pagawaan sa pahunan ng dalawang samahan na may kabuuang bilang na 4.4 Bilyong Dolyar (mga 237.6 Bilyong Piso (ginamit na palitan: 1 USD : 54 PHP)).
+Batay sa paghahambing ng inilabas na salapi ng Pinagsamang Samahan, 51%, ang sa LG, 49% naman ang sa HONDA. Itinatayo ang bagong pagawaan sa puhunan ng dalawang samahan na may kabuuang bilang na 4.4 Bilyong Dolyar (mga 237.6 Bilyong Piso (ginamit na palitan: 1 USD : 54 PHP)).
 
 > 生産した電池はすべて、北米にあるホンダの工場に供給する。
 
-Ibibigay ang lahat ng gawang baterya bilang suplay sa Pagawaan ng HONDA sa Hilagang Amerika.
+Ibibigay ang lahat ng gawang baterya bilang suplay sa pagawaan ng HONDA sa Hilagang Amerika.
 
 > 建設地は未定だが、主力工場のあるオハイオ州近郊につくるとみられる。
 
