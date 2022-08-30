@@ -12,6 +12,64 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は](https://www.asahi.com/articles/ASQ8Y64QXQ8DUQIP00Q.html?iref=comtop_National_04); last accessed: 20220830
+
+>【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は
+
+[LARAWAN] Dating Sundalo ng Hapon, Ngiti sa ilalim ng Sunog ng Labanan;  Ang Nakatago sa Loob ng Dibdib
+
+> 有料記事
+
+May bayad na sulatin
+
+> 2022年8月30日 6時00分
+
+2022-08-30T06:00
+
+> 朝日新聞写真館
+
+Pook Lagayan ng mga Larawan ng Pahayang ASAHI
+
+>　戦後、77年の時が過ぎた。
+
+77 taon na ang panahong lumipas pagkatapos ng labanan.
+
+>　悲惨な戦争の記憶を今に伝える当時の写真の中には兵士たちの「笑顔」が残されている。
+
+Sa loob ng larawan ng panahong iyon, "Nakangiti" ang mga natitirang sundalo; ipinaaalam nito sa kasalukuyan ang kaawa-awang lungkot ng alaala ng digmaan.
+
+>　それら1枚1枚が気づかせてくれるのは、戦火の下で、私たちと同じ生身の感情を持つ人間が生きていたという当たり前の事実だ。
+
+Ipinapapansin ng bawat isang mga larawang iyon ang litaw na katotohanang sa ilalim ng sunog ng labanan, nabuhay ang taong nilalang na may pakiramdam ng isinilang na katawang katulad ng sa atin.
+
+>　「満面の笑み」を残してこの…
+
+Sa tinirang "Ngiti sa Buong Mukha"...
+
+> この記事は有料記事です。残り48文字有料会員になると続きをお読みいただけます。
+
+May bayad ang sulating ito. Maaari niyo pong mabasa ang kasunod na natitirang 48 titik kapag naging nagbabayad na kasapi na po kayo.
+
+### --
+
+
+### [朝日新聞デジタル【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は 写真・図版](https://www.asahi.com/articles/photo/AS20220829002067.html); last accessed: 20220830
+
+>    朝日新聞デジタル【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は 写真・図版
+
+Pahayagan ng ASAHI Digital [LARAWAN] Dating Sundalo ng Hapon, Ngiti sa ilalim ng Sunog ng Labanan; Ang Nakatago sa Loob ng Dibdib; Larawan; Anyo
+
+> 1945（昭和20）年 米軍が沖縄に上陸し、爆弾を積んだ戦闘機で敵艦に体当たりする「特攻」が拡大する中、8人の特攻隊員が出撃する約30分前に記念写真におさまった。
+
+Taong 1945 (SHOWA 20), lumapag sa OKINAWA ang Hukbo ng Amerika, sa loob ng pagpapalaganap ng "TOKKOU (Natatanging Pagsalakay)" kung saan binabangga ang kalabang barko, sa pamamagitan ng Makina ng Pakikipaglaban, na puno ng Balang Pampasabog. Isinaayos sa Larawan ng Alaala ang 8 tauhang tao ng Natatanging Pagsalakay 30minuto bago ang pag-alis upang sumalakay. 
+
+> 知覧特攻基地（鹿児島県）で撮影した本社写真部員は、隊員（左から2人目）に「御両親様　昭和二十年五月十八日十九時二十分頃　沖縄島周辺にて戦死す。十四時三十分出発前書す」と紙切れに走り書きされた「遺書」を託されたという
+
+Sa Pangunahing Pook ng Natatanging Pagsalakay ng CHIRAN (Pook KAGOSHIMA), kung saan kinuha itong larawan ng mga Tauhan ng Unit, sinasabing tumatakbong isinulat sa hinating papel itong ipinagkatiwalang "Pamanang Sulat" ng Tauhan (ikalawang tao mula kaliwa), "Sa iginagalang na Magulang, SHOWA 25 (Taong 1950), ika-18 araw ng ika-5 buwan, 19:25; Sa paligid ng Isla ng OKINAWA, patay sa labanan. Isinulat bago lumuwas ng 14:30".
+
+### 知覧 (CHIRAN): Kita ng Alam
+
+
 ## [ホンダ、LGと米国でEV電池工場　25年量産開始　EV拡大にらむ](https://www.asahi.com/articles/ASQ8Y6Q55Q8YULFA00P.html?iref=comtop_Business_02); last accessed: 20220830
 
 > ホンダ、LGと米国でEV電池工場　25年量産開始　EV拡大にらむ
