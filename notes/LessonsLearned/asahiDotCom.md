@@ -61,7 +61,7 @@ Pahayagan ng ASAHI Digital [LARAWAN] Dating Sundalo ng Hapon, Ngiti sa ilalim ng
 
 > 1945（昭和20）年 米軍が沖縄に上陸し、爆弾を積んだ戦闘機で敵艦に体当たりする「特攻」が拡大する中、8人の特攻隊員が出撃する約30分前に記念写真におさまった。
 
-Taong 1945 (SHOWA 20), lumapag sa OKINAWA ang Hukbo ng Amerika, sa loob ng pagpapalaganap ng "TOKKOU (Natatanging Pagsalakay)" kung saan binabangga ang kalabang barko, sa pamamagitan ng Makina ng Pakikipaglaban, na puno ng Balang Pampasabog. Isinaayos sa Larawan ng Alaala ang 8 tauhang tao ng Natatanging Pagsalakay 30minuto bago ang pag-alis upang sumalakay. 
+Taong 1945 (SHOWA 20), lumapag sa OKINAWA ang Hukbo ng Amerika, sa loob ng panahon ng pagpapalaganap ng "TOKKOU (Natatanging Pagsalakay)", kung saan binabangga ang kalabang barko, sa pamamagitan ng Makina ng Pakikipaglaban, na puno ng Balang Pampasabog, isinaayos sa Larawan ng Alaala ang 8 tauhang tao ng Natatanging Pagsalakay, 30minuto bago ang pag-alis upang sumalakay. 
 
 > 知覧特攻基地（鹿児島県）で撮影した本社写真部員は、隊員（左から2人目）に「御両親様　昭和二十年五月十八日十九時二十分頃　沖縄島周辺にて戦死す。十四時三十分出発前書す」と紙切れに走り書きされた「遺書」を託されたという
 
