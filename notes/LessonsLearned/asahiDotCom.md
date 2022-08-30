@@ -28,7 +28,7 @@ May bayad na sulatin
 
 > 朝日新聞写真館
 
-Pook Lagayan ng mga Larawan ng Pahayang ASAHI
+Pook Lagayan ng mga Larawan ng Pahayagang ASAHI
 
 >　戦後、77年の時が過ぎた。
 
