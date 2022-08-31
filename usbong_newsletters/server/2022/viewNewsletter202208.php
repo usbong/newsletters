@@ -647,29 +647,6 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 
 <h3>NO JOKE</h3>
 
-<br/>
-TO-DO: -add: "secret"<br/>
-<br/>
-TO-DO: -add: NOTE from SYSON, MICHAEL B.<br/>
-<br/>
---> observed: LIFE DELAYS caused by this Manloloko group, where: WORK as OFW in I.T. COMPANY in JAPAN, STOPPED, WORK as Teacher @UNIVERSITY, STOPPED<br/>
---> adds: INCOME HIGH or LOW causes INGGIT;<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
---> observed: recent <b>NO ELECTRICITY POWER incident</b> near <b>SCHOOL BUILDING CONSTRUCTION</b><br/> 
---> in <b>Barangay Sto. Niño, Marikina City</b> caused <b>WAITING TIME</b><br/> 
---> for <b>ELECTRICITY to RETURN</b> to be <b>OVER one (1) HOUR</b>.<br/> 
---> Previously, in <b>5mins (APPROX)</b>, <b>ELECTRICITY POWER</b> returns for Computer Servers to <b>auto-start</b>;<br/>
---> added: partner MOSC, has <b>POWER GENERATOR</b> using <b>FUEL</b><br/> 
---> to cause select <b>appliances</b>, e.g. <b>LAMPS</b>, <b>local router</b>, to function;<br/>
---> added: however, <b>desktop computers</b> to be set to <b>OFF</b>;<br/>
-<br/>
-
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
@@ -677,46 +654,69 @@ TO-DO: -add: NOTE from SYSON, MICHAEL B.<br/>
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-			verified: using <b>Uninterruptible Power Supply (UPS)</b> devices;<br/> 
-			however, opted <b>NOT to use</b> due to among others:<br/>
-			1) <b>STORED ELECTRICITY POWER</b> decreased<br/> 
-			--> from <b>5mins</b> to <b>zero seconds</b> with <b>CONTINUED USE</b>;<br/>
-			--> <b>UPS</b> device remained connected to <b>electrical outlet</b> to <b>refill electricity</b><br/>			
+			observed: <b>LIFE DELAYS</b> caused by this <b>MANLOLOKO group</b>;<br/> 
 			<br/>
-			<b>Current ACTION:</b><br/>
-			1) using: recycled <b>LENOVO IdeaPad with BATTERY</b> as Computer Server<br/>
-			--> where: <b>IdeaPad</b> classified to be <b>Laptop Computer</b><br/>
-			--> observed: execution of <b>Computer Web Browser</b>, e.g. Mozilla Firefox, to have <b>noticeable DELAY</b><br/>
-			<br/>
-			<b>OUTPUT:</b> opted: to <b>USE another Computer</b> for Web Browser ACTIONS<br/>
-			<br/>
-			<br/>
-				TO-DO: -add: TABLET PC photograph<br/>
-			<br/>
-			<br/>
-			<b>Additional Note:</b><br/>
-			1) installed: in <b>LENOVO IdeaPad</b>, the following Web Server Tools:<br/>
-			1.1) <a class="webServiceLink" target="_blank" href="https://httpd.apache.org/">Apache Web Server</a><br/>			
-			1.2) <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a><br/>						
-			1.3) <a class="webServiceLink" target="_blank" href="https://www.phpmyadmin.net/">phpMyAdmin Tools</a><br/>
-			<br/>
-			--> With this <b>Computer Server</b>, <a class="webServiceLink" target="_blank" href="https://www.apachefriends.org/index.html">XAMPP</a> <b>did NOT install successfully</b> as with another <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a> <b>Computer Server</b><br/>
-			<br/>
-			--> adds: however, <b>applications</b> that I wrote in the following Computer Languages <b>execute</b> WITHOUT noticeable DELAY:<br/>
+			<b>Example#1:</b> <b>WORK</b> as OFW in I.T. COMPANY in JAPAN, <b>STOPPED</b>,<br/> 
+			where: OFW = Overseas Filipino Worker<br/>
 			<br/>			
-			1.1) <b>C/C++ COMPUTER LANGUAGE</b><br/>
-			1.2) <a class="webServiceLink" target="_blank" href="https://www.java.com/en/">JAVA COMPUTER LANGUAGE</a></b>
+			<b>Example#2:</b> <b>WORK</b> as Teacher @UNIVERSITY, <b>STOPPED</b><br/>
 			<br/>
+			--> adds: <b>INCOME HIGH</b> or <b>LOW</b> causes <b>INGGIT</b>;<br/>			
 			<br/>
-			<b>Example:</b> Setup System for Quick Execution of <b>WORKBOOK Reports</b><br/>
-		<video width="416" height="312" controls>
-		  <source src="assets/images/videos/halimbawaSetupSystemForQuickExecution20220713T1018.mp4" type="video/mp4">
-		  Your browser does not support the video tag.
-		</video><br/>											
-		<br/>
-		</td>
+			observed: <b>MANLOLOKO group</b> shall continue with the <b>NOISE POLLUTION</b>;<br/> 
+			<br/>			
+			This is despite <b>TARGET</b> does <b>NOT</b> file reports with <b>POLICE</b>;<br/>
+			<br/>
+			<b>GAWA-GAWANG RULE:</b> Keep CRIMINAL ACTIONS <b>"secret"</b><br/>
+			where: <b>"secret"</b> : <b>KNOW-HOW</b> of their <b>CRIMINAL techniques</b>;<br/> 
+			where: <b>"secret"</b> : <b>NOT to be filed</b> as report with <b>POLICE</b><br/>
+			where: <b>"secret"</b> : <b>NOT to be shared</b> with <b>WORK</b> & <b>Family</b> Unit</b><br/>
+			<br/>
+			<b>Example KNOW-HOW:</b> unauthorized access to CCTV, misuse of wireless broadcasting<br/>
+			<br/>
+			<b>Example OUTPUT:</b> "Anong NOISE POLLUTION?", "Wala akong naririnig.", "Wala kaming naririnig.", "Ikaw lang ang nag-iisip niyan.",<br/>
+			<br/>
+			observed: <b>MANLOLOKO group</b> has been <b>attempting</b> to classify the continuous <b>NOISE POLLUTION</b> to be as <b>RECOMMENDED</b> by <b>Law Enforcement</b> to <b>catch</b> NOT yet identified <b>MANLOLOKO members</b><br/>
+			<br/>
+			adds: I have <b>NOT received</b> such <b>RECOMMENDATION</b>,<br/>
+			from <b>ALL</b> the <b>LAW ENFORCEMENT UNITS</b> that I contacted<br/> 
+			where: <b>RECOMMENDATION</b> = to execute <b>NOISE POLLUTION</b><br/> 
+			<br/>
+			observed: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b><br/>
+			--> AND <b>INCORRECT identification and classification</b><br/>
+			<b>keyphrase:</b> <u>consistent</u> and <u>continuous</u><br/> 
+			<br/>
+			
+			observed: <b>MANLOLOKO members</b> intentionally choose the <b>WORDS</b><br/> 
+			where: <b>WORDS</b> : to be part of their <b>NOISE POLLUTION</b><br/>
+			<br/>
+			<b>Example:</b> identification errors: <b>hand sign</b> as <b>"baril"</b>;<br/>
+			--> notes: even after 5 years (approx) of <b>"may baril siya"</b> incident,<br/> 
+			<b>MANLOLOKO members</b> has <b>NOT learned</b><br/>
+			--> adds: select <b>MANLOLOKO members</b>, did <b>NOT learn</b> even after > 5 years<br/>
+			--> still continues with <b>NOISE POLLUTION</b><br/>  
+			<br/>
+			reminder: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b>,<br/>
+			<b>INCORRECT identification and classification</b>;<br/>
+			<br/>
+			<b>CAUSE keyphrase:</b> <b>ILLEGAL DRUGS</b> : <b>WHITE SALT (PUTING ASIN)</b><br/> 
+			--> where: <b>"SAL (from LATIN)"</b> = <b>"SALARY"</b>;<br/>
+			<br/>
+			<b>reminder:</b> NO NEED TO AGREE by classifying as CORRECT, item identifications from <b>MANLOLOKO group</b>
+			<br/>
+			<br/>			
+			adds: EXCESS MONEY, SMUGGLING, ILLEGAL DRUGS, NO COMMUNICATION IN FAMILY UNIT<br/>
+			</td>	
 	</tr>
 </table>
+
+<br/>
+<br/>
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+<br/>
+<br/>
 
 <br/>
 <br/>
