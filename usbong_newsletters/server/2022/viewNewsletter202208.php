@@ -528,7 +528,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> This is due to <b>handwritten text</b> using the <b>OR</b> appears <b>UNCLEAR</b><br/>
 
 <br/>
-<img width="80%" src="assets/images/newsletter/202208/exampleAcknowledgmentFormV0220831.jpeg">
+<img width="80%" src="assets/images/newsletter/202208/exampleAcknowledgmentFormV20220831.jpeg">
 
 <h3> Gained TIME from System Efficiency is REUSED<br/> 
 to FURTHER increase Gained TIME via System Efficiency</h3>
