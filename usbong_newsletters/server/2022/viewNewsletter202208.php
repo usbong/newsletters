@@ -396,12 +396,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-
+<!-- //edited by Mike, 20220831; from 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
-
-<!-- //edited by Mike, 20220325
-	<base href="http://store.usbong.ph/" target="_blank">
 -->
+
+	<base href="http://store.usbong.ph/" target="_blank">
 
   </head>
 	  <script>
@@ -558,7 +557,22 @@ verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> to be from the <b>M
 <br/>
 <br/>
 observed: continuous wireless broadcasting of <b>NOISE POLLUTION</b>;<br/>
-<br/>
+
+<table width="90%">
+<tr>
+ <td>
+    <br/>
+	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+	Approx size: 6x6cm
+ </td>
+ <td>
+	NOTE: <b>RADIO FREQUENCY</b> set to <b>STATIC</b>;<br/>
+	<br/>
+	<b>WIRELESS BROADCASTING TOWER</b> misused to <b>TRANSMIT SIGNAL</b> to <b>FREQUENCY</b> set to <b>STATIC</b>
+ </td>
+</tr>			
+</table>		
+<br/>	 
 <b>Examples:</b> "TANGA", "TATANGA-TANGA", "'TANGINA", "BOBONG PULIS",<br/> 
 "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
 <br/>
