@@ -6,6 +6,8 @@
 <br/>
 <b>Previous Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202206.php<br/>
 <br/>
+<b>Next Newsletter (DRAFT):</b> http://store.usbong.ph/server/2022/viewNewsletter202208.php<br/>
+<br/>
 <b>Printed version</b> shared @the following <b>barangays</b> among others:<br/>
 --> Marikina City: Sto. Niño, Sta. Elena, San Roque, Marikina Heights, Concepcion Uno<br/>
 --> Cainta, Rizal Province: San Isidro<br/>
