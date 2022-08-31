@@ -397,11 +397,12 @@
     <style type="text/css">
     </style>
 
-<!-- //edited by Mike, 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
+
+<!-- //edited by Mike, 20220325
+	<base href="http://store.usbong.ph/" target="_blank">
 -->
 
-	<base href="http://store.usbong.ph/" target="_blank">
   </head>
 	  <script>
 	  </script>
@@ -526,7 +527,11 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> where: <b>OR</b> is <a class="webServiceLink" target="_blank" href="https://www.bir.gov.ph">Bureau of Internal Revenue (BIR)</a>-approved<br/>
 --> This is due to <b>handwritten text</b> using the <b>OR</b> appears <b>UNCLEAR</b><br/>
 
-<h3> Gained TIME from System Efficiency is REUSED to further increase Gained TIME via System Efficiency</h3>
+<br/>
+<img width="80%" src="assets/images/newsletter/202208/exampleAcknowledgmentFormV0220831.jpeg">
+
+<h3> Gained TIME from System Efficiency is REUSED<br/> 
+to FURTHER increase Gained TIME via System Efficiency</h3>
 
 <b>Output:</b> GINHAWA<br/>
 
@@ -546,15 +551,15 @@ observed: select patients request <b>family member</b> to buy medicine item for 
 <b>reminder#2:</b> <b>SPEED-UP</b> of patient's <b>DEATH</b> caused by increasing <b>COST</b><br/>
 --> where: <b>COST</b> classified with <b>TIME</b> and <b>MONEY</b><br/>
 <br/>
-verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> from the <b>MANLOLOKO</b><br/>
---> speeds-up <b>DEATH</b> and increases <b>COST</b><br/> 
---> where: <b>MANLOLOKO</b> includes among others in <b>group</b>:<br/>
+verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> to be from the <b>MANLOLOKO group</b><br/>
+--> <b>OUTPUT:</b> speed-up of <b>DEATH</b> and increase in <b>COST</b><br/> 
+--> where: <b>MANLOLOKO group</b> includes among others:<br/>
 --> <b>budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista</b>
 <br/>
 <br/>
 observed: continuous wireless broadcasting of <b>NOISE POLLUTION</b>;<br/>
 <br/>
-<b>Examples:</b> "TANGA, TATANGA-TANGA, 'TANGINA, BOBONG PULIS,<br/> 
+<b>Examples:</b> "TANGA", "TATANGA-TANGA", "'TANGINA", "BOBONG PULIS",<br/> 
 "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
 <br/>
 --> adds: <b>UNSOLICITED</b> <u>breathing interference</u> causes <b>PHYSICAL STIMULATION</b><br/>
@@ -563,28 +568,80 @@ observed: continuous wireless broadcasting of <b>NOISE POLLUTION</b>;<br/>
 --> <b>"HINGA"</b> classified: as <b>NOISE POLLUTION</b><br/>
 --> keyphrase: <b>UNSOLICITED</b><br/>
 <br/>
-<br/>
 <b>EXECUTED ACTIONS:</b> filed: incident reports with <b>Law Enforcement</b>;<br/>
 <b>Examples:</b><br/>
-1) Philippine National Police (PNP)<br/>
+1) <b>Philippine National Police (PNP)</b><br/>
 <br/>
-1.1) Anti-cybercrime Group (ACG): Women and Children Cybercrime Protection Unit<br/>
+1.1) <b>Anti-cybercrime Group (ACG): Women and Children Cybercrime Protection Unit</b><br/>
 --> <a class="webServiceLink" target="_blank" href="mailto:pnp.acg.wccpu@gmail.com">pnp.acg.wccpu@gmail.com</a><br/>
 <br/>
-1.2) CRIMINAL INVESTIGATION AND DETECTION GROUP (CIDG)<br/>
+1.2) <b>CRIMINAL INVESTIGATION AND DETECTION GROUP (CIDG)</b><br/>
 --> <a class="webServiceLink" target="_blank" href="mailto:cidgnhqcrmc@gmail.com">cidgnhqcrmc@gmail.com</a><br/>
 <br/>
-2) Office of Public Safety and Security (OPSS: Marikina City) Team<br/>
+2) <b>Office of Public Safety and Security (OPSS: Marikina City) Team</b><br/>
 --> <a class="webServiceLink" target="_blank" href="mailto:opss@marikina.gov.ph">opss@marikina.gov.ph</a><br/>
 <br/>
-reminder: <b>EMERGENY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
-<br/>
+reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
 <br/>
 TO-DO: -add: Cainta, Rizal
 <br/>
 <br/>
 TO-DO: -add: COST of STROKE; based on PhilHealth coverage;<br/>
 --> remembers: COST higher than coverage for CANCER;
+<br/>
+<br/>
+</h5>
+
+<h3>2) Continued with HEALTH・Security Defense Force</h3>
+<h4>2.1) shared: KNOW-HOW and Lessons-learned from <b>WORK</b></h4>
+<h5>
+<b>MANLOLOKO group</b> <b>LOST</b> > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
+<br/>
+<b>Paalala</b>) verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
+--> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>; last accessed: 20220322<br/>
+<br/>
+<b>
+    | BOC Destroys 21 Smuggled Vehicles<br/>
+    | Posted on June 18, 2021<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+<b>
+    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/> 
+<br/>
+--> <b>ADDITIONAL OUTPUT#1:</b> increase in <b>NOISE POLLUTION</b> <br/>
+--> identified: to be caused by growing <b>MANLOLOKO group</b> <br/>
+--> where: <b>MANLOLOKO members</b> are <b>TAMAD</b>, i.e. DO NOT VALUE HONEST WORK;<br/>
+--> keyphrase: <b>QUICK MONEY</b><br/>
+<br/>
+--> <b>MANLOLOKO group</b> now <b>TARGETS</b> people with <b>"PROMISES"</b>;<br/> 
+--> where: <b>TARGET</b>'s received <b>VALUE</b> of item is <b>LESS THAN</b> that of the <b>EXCHANGE</b>;<br/>
+--> reminder: <b>NO NEED</b> to even expect <b>MANLOLOKO group</b> to give item<br/> 
+--> whose: <b>VALUE</b> is <b>GREATER THAN</b> what the <b>MANLOLOKO group</b> shall receive;<br/> 
+--> keyphrase: <b>INGGIT</b><br/>
+<br/>
+--> <b>ADDITIONAL OUTPUT#2:</b><br/>
+--> <b>Example#1:</b> MOSC PT Unit Member <b>DIED</b>; keyphrase: <b>Ear, Nose, Throat (ENT)</b>;<br/>
+--> <b>Example#2:</b> MOSC Orthopedic Surgeon Member suffered <b>STROKE</b><br/> 
+--> to be <b>NON-PRACTICING</b> (previously trained @UP INTRAMED)<br/>
+
+<h3>NO JOKE</h3>
+
+<br/>
+TO-DO: -add: "secret"<br/>
+<br/>
+TO-DO: -add: NOTE from SYSON, MICHAEL B.<br/>
+<br/>
+--> observed: LIFE DELAYS caused by this Manloloko group, where: WORK as OFW in I.T. COMPANY in JAPAN, STOPPED, WORK as Teacher @UNIVERSITY, STOPPED<br/>
+--> adds: INCOME HIGH or LOW causes INGGIT;<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
