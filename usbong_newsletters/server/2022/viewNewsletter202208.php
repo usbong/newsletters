@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20220831; from 20220829
+  @date updated: 20220901; from 20220831
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -550,7 +550,7 @@ observed: select patients request <b>family member</b> to buy medicine item for 
 <b>reminder#2:</b> <b>SPEED-UP</b> of patient's <b>DEATH</b> caused by increasing <b>COST</b><br/>
 --> where: <b>COST</b> classified with <b>TIME</b> and <b>MONEY</b><br/>
 <br/>
-verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> to be from the <b>MANLOLOKO group</b><br/>
+verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> from <b>MANLOLOKO group</b><br/>
 --> <b>OUTPUT:</b> speed-up of <b>DEATH</b> and increase in <b>COST</b><br/> 
 --> where: <b>MANLOLOKO group</b> includes among others:<br/>
 --> <b>budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista</b>
@@ -612,7 +612,8 @@ TO-DO: -add: COST of STROKE; based on PhilHealth coverage;<br/>
 <b>MANLOLOKO group</b> <b>LOST</b> > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
 <br/>
 <b>Paalala</b>) verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
---> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>; last accessed: 20220322<br/>
+--> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
+last accessed: 20220322<br/>
 <br/>
 <b>
     | BOC Destroys 21 Smuggled Vehicles<br/>
@@ -635,10 +636,22 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 --> keyphrase: <b>QUICK MONEY</b><br/>
 <br/>
 --> <b>MANLOLOKO group</b> now <b>TARGETS</b> people with <b>"PROMISES"</b>;<br/> 
---> where: <b>TARGET</b>'s received <b>VALUE</b> of item is <b>LESS THAN</b> that of the <b>EXCHANGE</b>;<br/>
---> reminder: <b>NO NEED</b> to even expect <b>MANLOLOKO group</b> to give item<br/> 
---> whose: <b>VALUE</b> is <b>GREATER THAN</b> what the <b>MANLOLOKO group</b> shall receive;<br/> 
---> keyphrase: <b>INGGIT</b><br/>
+<br/>
+<b>Example of "PROMISE":</b> Give you <b>QUICK MONEY</b> via <b>INFORMATION</b><br/>
+--> when: a <b>HOUSEHOLD</b> shall <b>NOT be @HOME</b> AND<br/> 
+--> where: <b>MONEY</b> is located<br/> 
+<br/>
+--> <b>TARGET</b>'s received <b>VALUE</b> of item is <b>LESS THAN</b> that of the <b>EXCHANGE</b>;<br/>
+<br/>
+<b>Example of EXCHANGE:</b> <b>QUICK MONEY</b> for <b>REPEAT CRIMINAL ACTIONS</b><br/> 
+<b>where:</b> <b>TARGET</b> shall be continuously <b>USED</b> by <b>MANLOLOKO group</b><br/>
+<br/>
+<b>CAUSE:</b> <b>SHALL NOT REPORT</b> to <b>POLICE</b> due to <b>FEAR</b><br/>
+--> reminder: shall <b>NEED</b> to <b>REVEAL</b> <b>CRIMINAL HISTORY of ACTIONS</b><br/>
+<br/>
+--> keyphrase: <b>MANLOLOKO group</b>, <b>INGGIT</b><br/>
+--> where: <b>SHALL NOT ACCEPT</b> receiving <b>EXCHANGED VALUE</b><br/>
+--> where: <b>VALUE</b> is <b>LOWER THAN</b> their <b>"PROMISE"</b><br/>
 <br/>
 --> <b>ADDITIONAL OUTPUT#2:</b><br/>
 --> <b>Example#1:</b> MOSC PT Unit Member <b>DIED</b>; keyphrase: <b>Ear, Nose, Throat (ENT)</b>;<br/>
