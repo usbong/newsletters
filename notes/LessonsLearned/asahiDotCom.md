@@ -65,7 +65,7 @@ Taong 1945 (SHOWA 20), lumapag sa OKINAWA ang Hukbo ng Amerika, sa loob ng panah
 
 > 知覧特攻基地（鹿児島県）で撮影した本社写真部員は、隊員（左から2人目）に「御両親様　昭和二十年五月十八日十九時二十分頃　沖縄島周辺にて戦死す。十四時三十分出発前書す」と紙切れに走り書きされた「遺書」を託されたという
 
-Sa Pangunahing Pook ng Natatanging Pagsalakay ng CHIRAN (Pook KAGOSHIMA), kung saan kinuha itong larawan ng mga Tauhan ng Unit, sinasabing tumatakbong isinulat sa hinating papel itong ipinagkatiwalang "Pamanang Sulat" ng Tauhan (ikalawang tao mula kaliwa), "Sa iginagalang na Magulang, SHOWA 25 (Taong 1950), ika-18 araw ng ika-5 buwan, 19:25; Sa paligid ng Isla ng OKINAWA, patay sa labanan. Isinulat bago lumuwas ng 14:30".
+Sa Pangunahing Pook ng Natatanging Pagsalakay ng CHIRAN (Pook KAGOSHIMA), kung saan kinuha itong larawan ng mga Tauhan ng Unit, sinasabing tumatakbong isinulat sa hinating papel itong ipinagkatiwalang "Pamanang Sulat" ng Tauhan (ikalawang tao mula kaliwa), "Sa iginagalang na Magulang, SHOWA 20 (Taong 1945), ika-18 araw ng ika-5 buwan, 19:25; Sa paligid ng Isla ng OKINAWA, patay sa labanan. Isinulat bago lumuwas ng 14:30".
 
 ### 知覧 (CHIRAN): Kita ng Alam
 
