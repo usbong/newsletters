@@ -664,6 +664,7 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 --> <b>BUTO</b>, <b>MASEL</b>, at sa mga <b>NAGDIDIKIT</b> sa mga iyon, e.g. <b>JOINT</b><br/>
 --> where: <b>SURGEON</b> : <b>KNIFE</b>, <b>外科</b><br/> 
 --> where: <b>外科</b> = <b>げか</b> (geka); <b>Maparaang Pagbubukod ng LABAS (ng Kaharian)</b><br/>
+
 <h3>PAALALA: NO JOKE</h3>
 
 <b>NOTE (from SYSON, MICHAEL B.):</b>
@@ -720,19 +721,14 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			--> due to has already <b>ADMITTED</b> to self, <b>CRIMINAL ACTIONS INCORRECT</b><br/> 
 			<br/>
 			--> added: in my reports, <b>JOAN SYSON</b> executes <b>UNAUTHORIZED ACCESS</b> to <b>web services</b> including among others: <b>ONLINE BANKING</b><br/>
-			--> observed: continuous verification of <b>ANOTHER persons</b>'s <b>MONEY</b><br/>
+			--> observed: continuous verification of <b>ANOTHER person</b>'s <b>MONEY</b><br/>
 			--> <b>keyphrase:</b> <b>INGGIT</b><br/>
 			--> adds: <b>MANLOLOKO</b> does <b>NOT</b> understand <b>WHY<br/> 
 			--> MANLOLOKO</b> regularly has <b>INSUFFICIENT MONEY</b><br/>		
 			<br/>	
-			<b>Recommended ACTION</b>:<br/> 
-			--> <b>NO NEED</b> to even attempt to <b>COMMUNICATE</b> with <b>MANLOLOKO</b><br/>
-			--> reminder: <b>LECTURES</b> on <b>VALUES NOT</b> anymore <b>EFFECTIVE</b> after <b>K-12</b><br/>
-			--> where: <b>K-12</b> : High School<br/>
-			<br/>						
 			<b>Result as OUTPUT</b>:<br/> 						
 			<b>MANLOLOKO members</b> do <b>NOT learn</b> even after over 5 years; still continues with <b>NOISE POLLUTION</b><br/>  
-			<br/>
+			<br/>						
 			<b>CAUSE</b>: <b>"secret"</b>, i.e. <b>KNOW-HOW that is NOT to be shared</b><br/>
 			<br/>
 			reminder: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b>,<br/>
@@ -745,126 +741,121 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			<br/>
 			<br/>			
 			adds: <b>EXCESS MONEY</b>, <b>SMUGGLING</b>, <b>ILLEGAL DRUGS</b>, <b>NO COMMUNICATION IN FAMILY UNIT</b><br/>
+			<br/>
+			identified: <b>MANLOLKO group members</b> to include among others:<br/>
+			<b>keyphrase:</b> <b>ATTACKERS</b> and <b>PROMULGATORS</b> of <b>"secret"</b><br/>
+			<br/>
+			1) <b>Ramon Syson</b>, younger brother of father, Dr. Pedro Syson<br/>
+			2) <b>Ryan Syson</b>, eldest son of Ramon Syson<br/>
+			3) <b>Joan Syson</b>, sister of Ryan Syson<br/>			
+			4) <b>Tyrone Tang</b>, basketball player;<br/>
+			5) <b>Keith Haw</b>, friend and classmate of Tyrone Tang<br/>
+			<br/>
+			Both <b>Tyrone Tang</b> and <b>Keith Haw</b> are classmates of SYSON, MICHAEL B. @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;<br/> 
+			<br/>
+			<b>Recommended ACTIONS</b>:<br/> 
+			1) <b>NO NEED</b> to even attempt to <b>COMMUNICATE</b> with <b>MANLOLOKO</b><br/>
+			--> reminder: <b>LECTURES</b> on <b>VALUES NOT</b> anymore <b>EFFECTIVE</b> after <b>K-12</b><br/>
+			--> where: <b>K-12</b> : High School<br/>
+			<br/>
+			2) <b>PREPARE</b> to <b>BE READY</b> to <b>DESTROY MANLOLOKO</b><br/> 
+			--> keyphrase as reminder: <b>COST</b>, <b>NO EXCITEMENT</b><br/>
+			--> where: <b>DESTROY</b> : <b>PUKSAIN</b><br/>
+			<h3>PAALALA: NO JOKE</h3>
 			</td>	
 	</tr>
 </table>
 
-<br/>
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-<br/>
 
-<br/>
-<br/>
-continued: with <b>AUTOMATIC</b> transferring copies of <b>Database files</b> from <b>MAIN Computer Server</b> to available <b>Multiple Computer Servers</b><br/>
---> where: <b>Computer Server</b> : <b>combination of Operating Systems (OS)</b>, e.g. <a class="webServiceLink" target="_blank" href="https://lubuntu.me/">Linux Ubuntu</a>, <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en-ph/">Windows 7</a>;<br/>
---> where: <b>Database files</b> : <b>Saved Work</b><br/>
---> <b>Example Computer Instructions</b> written in <b>Bash Shell</b><br/> 
-					<video width="416" height="312" controls>
-		  			<source src="assets/images/videos/usbongKmsDatabaseSavedWorkReminderDeleteExcessDBFiles20220714T1620.mp4" type="video/mp4">
-		  			Your browser does not support the video tag.
-					</video><br/>	
-			<br/>
-
-</h5>
-
-<h4>2.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
+<h4>3.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
-2.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ776T1ZQ76UTFL02M.html?iref=comtop_Tech_science_02">潰瘍性大腸炎の治療に「ミニ臓器」　患者本人の細胞から作出　世界初</a>;<br/>
-last accessed: 20220708
+3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ776T1ZQ76UTFL02M.html?iref=comtop_Tech_science_02">（社説）中韓国交３０年　日本含めた連携強化を</a>; last accessed: 20220825
 <br/><br/>
-
 <blockquote class="usbongBlockquote">
 <p>
-    潰瘍性大腸炎の治療に「ミニ臓器」　患者本人の細胞から作出　世界初
+（社説）中韓国交３０年　日本含めた連携強化を    
 </p>
 </blockquote>
 <br/>
 
-Una sa Daigdig: MINI Lamang LALAGYAN;<br/>
-Binuo mula sa Manipis na Balot (CELL) ng May-sakit<br/>
-sa panglulunas ng Nasusunog na Pakiramdam<br/>
-ng Malaking Bahagi ng Tiyan (LARGE INTESTINE)<br/>
-na may Sakit sa Pagpisa (ULCER)<br/>
+Usap-Lipunan: 30 Taong Palitan ng Kahariang Tsina at Korea<br/>
+Pagpapalakas ng Ugnayan kabilang ang Hapon<br/>
 <br/>
-
 <blockquote class="usbongBlockquote">
 <p>
-    有料会員記事
+    2022年8月25日 5時00分
+</p>
+</blockquote>
+<br/>
+2022-08-25T05:00<br/>
+
+<h4>Dagdag#1</h4>
+
+Unawain ang paraan ng pagsusulat.<br/>
+<br/>
+<b>keyphrase:</b> kasaysayan, labanan, pagkilos, opinion<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+    懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。
 </p>
 </blockquote>
 <br/>
 
-Sulatin sa nagbabayad na kasapi<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    野口憲太2022年7月8日 7時00分
-</p>
-</blockquote>
-<br/>
+Tungo sa paglutas ng suliranin, kailangang nangunguna sa pagkilos ang mga Gumagabay sa PULITIKA. Unang hakbang sa kaligtasan at pagtatanggol mula sa pahamak ang pag-aayos bilang paghahanda ng kapaligiran kung saan maaaring makapag-usap, sa pamamagitan ng parating pagpapabuti ng daloy ng hangin sa paghinga.
 
-NOGUCHI, KENTA; 2022-07-08T07:00<br/>
+<h4>Dagdag#2</h4>
 
+Maaalala ang pagkilos sa ganitong pook sa mga sistema ng labanan tulad ng CHESS, I-GO, atbp<br/>
 <br/>
-<blockquote class="usbongBlockquote">
-<p>
-東京医科歯科大学は7日、大腸の粘膜に炎症が起こる難病「潰瘍（かいよう）性大腸炎」の患者1人に対して、患者本人から採取した細胞を増やして腸の「ミニ臓器（腸上皮オルガノイド）」を作り、患部に移植したと発表した。この大腸炎に限らず、治療のためにオルガノイドを患者に移植したのは、世界で初めてという。
-</p>
-</blockquote>
+<b>keyphrase:</b> turn-based, tactical, strategy, exchange, sanayan<br/>
 <br/>
-
-Ika-7, ipinahayag ng Malaking Paaralan (Pamantasan) ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin, na nailipat sa May-sakit ang binuong MINI Lamang LALAGYAN (Balat ng Tiyan na ORGANOID) mula sa pagdagdag ng ginagamit niyang Manipis na Balot, upang bigyang-lunas ang "Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER)"<br/>
+Naiiba ito sa pagkilos sa pook ng pakikipaglaban kung saan naroon ang sundalo.<br/>
 <br/>
-Una sa daigdig; inilapat sa May-sakit ang ORGANOID upang bigyang-lunas hindi lamang ang Nasusunog na Pakiramdam sa Malaking Bahagi ng Tiyan.<br/>
+<b>keyphrase:</b> AKSYON, FIGHTING, impulse, bunsod, sanayan<br/>
 <br/>
-<blockquote class="usbongBlockquote">
-<p>
-    　潰瘍性大腸炎は、大腸の粘膜で慢性的な炎症が起きる難病で、腹痛や下痢、血便などの症状が続く。
-</p>
-</blockquote>
-<br/>
-
-Sunog sa Malaking Bahagi ng Tiyan na may Sakit sa Pagpisa (ULCER): Mahirap na sakit na nagaganap dulot ng Mabagal na Nasusunog na Pakiramdam, sa Malagkit na Takip (MEMBRANE) ng Malaking Bahagi ng Tiyan (LARGE INTESTINE); Tuluy-tuloy na karamdaman na may dugo sa dumi, pagtatae, pananakit ng tiyan, atbp<br/>
-<br/>
-
-<blockquote class="usbongBlockquote">
-<p>
-    国内には22万人の患者がいると推計される。薬で炎症を抑える治療が一般的だが、傷ついた粘膜が治らないと、大腸を摘出する手術が必要になる場合もある。
-</p>
-</blockquote>
-<br/>
-
-Sa loob ng Kaharian, nasusukat na may 220K ang May-sakit na ito. Bagama't karaniwan ang paggamit ng GAMOT upang malunasan ito sa pamamagitan ng pangangasiwa (CONTROL) ng Nasusunog na Pakiramdam, kapag hindi nalunasan ang nasugatang
-Malagkit na Takip, nangyayari rin ang pangangailangang ilabas ang Malaking Bahagi ng Tiyan gamit ang Paraan ng Kamay (SURGERY).
-<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    　東京医科歯科大の臨床研究チ…
-</p>
-</blockquote>
-<br/>
-Ang pangkat ng mananaliksik ng TOKYO sa Maparaang Panggagamot kabilang ang Ngipin...<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    この記事は有料会員記事です。残り362文字有料会員になると続きをお読みいただけます。
-</p>
-</blockquote>
-<br/>
-Sa nagbabayad na kasapi ang sulating ito. May natitira pang 362titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.<br/>
-<br/>
-
 <b>Sanggunian:</b><br/>
     GOOGLE SEARCH ENGINE; TRANSLATE<br/>
-    Japanese-English Dictrionary (JED) Android Application<br/>
-    PLECO Chinese-English Dictionary Android Application<br/>
+</h5>
+
+<h5>
+3.1.2) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/photo/AS20220829002067.html">朝日新聞デジタル【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は 写真・図版</a>; last accessed: 20220830
+<br/><br/>
+<blockquote class="usbongBlockquote">
+<p>
+朝日新聞デジタル【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は 写真・図版  
+</p>
+</blockquote>
 <br/>
+
+Pahayagan ng ASAHI Digital [LARAWAN] Dating Sundalo ng Hapon, Ngiti sa ilalim ng Sunog ng Labanan; Ang Nakatago sa Loob ng Dibdib; Larawan; Anyo<br/>
 <br/>
+<blockquote class="usbongBlockquote">
+<p>
+    1945（昭和20）年 米軍が沖縄に上陸し、爆弾を積んだ戦闘機で敵艦に体当たりする「特攻」が拡大する中、8人の特攻隊員が出撃する約30分前に記念写真におさまった。
+</p>
+</blockquote>
+<br/>
+Taong 1945 (SHOWA 20), lumapag sa OKINAWA ang Hukbo ng Amerika, sa loob ng panahon ng pagpapalaganap ng "TOKKOU (Natatanging Pagsalakay)", kung saan binabangga ang kalabang barko, sa pamamagitan ng Makina ng Pakikipaglaban, na puno ng Balang Pampasabog, isinaayos sa Larawan ng Alaala ang 8 tauhang tao ng Natatanging Pagsalakay, 30minuto bago ang pag-alis upang sumalakay.<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+ 知覧特攻基地（鹿児島県）で撮影した本社写真部員は、隊員（左から2人目）に「御両親様　昭和二十年五月十八日十九時二十分頃　沖縄島周辺にて戦死す。十四時三十分出発前書す」と紙切れに走り書きされた「遺書」を託されたという
+</p>
+</blockquote>
+<br/>
+
+Sa Pangunahing Pook ng Natatanging Pagsalakay ng CHIRAN (Pook KAGOSHIMA), kung saan kinuha itong larawan ng mga Tauhan ng Unit, sinasabing tumatakbong isinulat sa hinating papel itong ipinagkatiwalang "Pamanang Sulat" ng Tauhan (ikalawang tao mula kaliwa), "Sa iginagalang na Magulang, SHOWA 20 (Taong 1945), ika-18 araw ng ika-5 buwan, 19:25; Sa paligid ng Isla ng OKINAWA, patay sa labanan. Isinulat bago lumuwas ng 14:30".
+
+<h4>知覧 (CHIRAN): Kita ng Alam</h4>
+
+<b>Paalala:</b> Nasa <b>ASAHI Digital website</b> ang <b>LARAWAN</b>:<br/> 
+<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/photo/AS20220829002067.html">https://www.asahi.com/articles/photo/AS20220829002067.html
+</a>;<br/> 
+last accessed: 20220830<br/>
+<br/>
+<b>Sanggunian:</b><br/>
+GOOGLE SEARCH ENGINE; TRANSLATE<br/>
 <br/>
 
 	<div class="copyright">
