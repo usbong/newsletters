@@ -766,7 +766,7 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 	</tr>
 </table>
 
-
+<h3>3) shares: Lessons-learned from NEWSPAPERS</h3>
 <h4>3.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
 3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ776T1ZQ76UTFL02M.html?iref=comtop_Tech_science_02">（社説）中韓国交３０年　日本含めた連携強化を</a>; last accessed: 20220825
@@ -856,8 +856,43 @@ last accessed: 20220830<br/>
 <br/>
 <b>Sanggunian:</b><br/>
 GOOGLE SEARCH ENGINE; TRANSLATE<br/>
+
+<h4>3.2) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
+<h5>
+3.2.1) FROM: <b>Pag-IBIG nets P20.48B in H1 (2022-08-12)</b><br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+	Pag-IBIG Fund posted a net income of P20.48 billion in the first half of 2022, up 27 percent compared to the same period last year.
+</p>
+</blockquote>
 <br/>
 
+<b>keyphrase:</b> housing, short-tern loans (cash loans), and trading gains<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+The agency has so far released P51.96 billion in home loans to finance the acquisition of 47,184 homes for its members during the first half of the year.
+</p>
+</blockquote>
+
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+Savings from its members reached P38.83 billion, strongly driven by the agency's popular MP2 Savings where members have collectively saved P19.40 billion.</p>
+</blockquote>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+"Pag-IBIG Fund is wholly-owned by the Filipino workers. That is why it is our responsibility, as the administrators of the Fund, to manage their contributions responsibly and excellently. With our second half prospects in terms of loan releases and collections high, we are optimistic that we will achieve at least P30 billion in annual net income for the sixth consecutive year. This is our commitment to our members"
+</p>
+</blockquote>
+<br/>
+
+<b>keyphrase:</b> Pag-IBIG Fund CEO Moti, Acmad Rizaldy<br/>
+
+<br/>	
+</h5>
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
