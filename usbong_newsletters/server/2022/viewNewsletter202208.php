@@ -492,8 +492,8 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>コンピュータ情報</b> (kompyu-ta jouhou) : <b>BALITA</b><br/>
-		Kompyuter; Damdamin Pinagpapala;
+		<b>SURGEON</b> : <b>外科 (げか (geka))</b>, <b>KNIFE</b><br/>
+		Maparaang Pagbubuklod ng LABAS (ng Kaharian)
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -650,15 +650,21 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 --> reminder: shall <b>NEED</b> to <b>REVEAL</b> <b>CRIMINAL HISTORY of ACTIONS</b><br/>
 <br/>
 --> keyphrase: <b>MANLOLOKO group</b>, <b>INGGIT</b><br/>
---> where: <b>SHALL NOT ACCEPT</b> receiving <b>EXCHANGED VALUE</b><br/>
---> where: <b>VALUE</b> is <b>LOWER THAN</b> their <b>"PROMISE"</b><br/>
+--> where: <b>SHALL NOT ACCEPT</b> receiving <b>EXCHANGED ITEM/SERVICE</b><br/>
+--> whose: <b>VALUE</b> is <b>LOWER THAN</b> their <b>"PROMISE"</b><br/>
 <br/>
 --> <b>ADDITIONAL OUTPUT#2:</b><br/>
 --> <b>Example#1:</b> MOSC PT Unit Member <b>DIED</b>; keyphrase: <b>Ear, Nose, Throat (ENT)</b>;<br/>
 --> <b>Example#2:</b> MOSC Orthopedic Surgeon Member suffered <b>STROKE</b><br/> 
---> to be <b>NON-PRACTICING</b> (previously trained @UP INTRAMED)<br/>
-
-<h3>NO JOKE</h3>
+--> to be <b>NON-PRACTICING</b> (previously trained @<b>UP INTARMED</b>)<br/>
+--> where: <b>UP</b> = University of the Philippines<br/>
+--> where: <b>INTARMED (INTegrated Liberal–ARts MEDicine)</b><br/>
+--> where: <b>INTARMED</b>: intense yet quick Medical Doctor training<br/>
+--> where: <b>Orthopedic</b>: dagdag na pagsasanay na may kinalaman sa mga ito:<br/>
+--> <b>BUTO</b>, <b>MASEL</b>, at sa mga <b>NAGDIDIKIT</b> sa mga iyon, e.g. <b>JOINT</b><br/>
+--> where: <b>SURGEON</b> : <b>KNIFE</b>, <b>外科</b><br/> 
+--> where: <b>外科</b> = <b>げか</b> (geka); <b>Maparaang Pagbubuklod ng LABAS (ng Kaharian)</b><br/>
+<h3>PAALALA: NO JOKE</h3>
 
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
@@ -705,9 +711,11 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			<br/>
 			<b>Example:</b> identification errors: <b>hand sign</b> as <b>"baril"</b>;<br/>
 			--> notes: even after 5 years (approx) of <b>"may baril siya"</b> incident,<br/> 
-			<b>MANLOLOKO members</b> has <b>NOT learned</b><br/>
-			--> adds: select <b>MANLOLOKO members</b>, did <b>NOT learn</b> even after > 5 years<br/>
-			--> still continues with <b>NOISE POLLUTION</b><br/>  
+			<b>MANLOLOKO members</b> have <b>NOT learned</b><br/>
+			--> adds: select <b>MANLOLOKO members</b>, do <b>NOT learn</b> even after over 5 years; still continues with <b>NOISE POLLUTION</b><br/>  
+			<br/>
+			<b>CAUSE</b>: <b>"secret"</b>;<br/>
+			where: <b>"secret"</b> : <b>KNOW-HOW that is NOT to be shared</b><br/>
 			<br/>
 			reminder: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b>,<br/>
 			<b>INCORRECT identification and classification</b>;<br/>
