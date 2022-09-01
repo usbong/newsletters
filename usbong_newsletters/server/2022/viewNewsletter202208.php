@@ -493,7 +493,7 @@
 	<br>	
 	<div class="newsletterTitle">
 		<b>SURGEON</b> : <b>外科 (げか (geka))</b>, <b>KNIFE</b><br/>
-		Maparaang Pagbubuklod ng LABAS (ng Kaharian)
+		Maparaang Pagbubukod ng LABAS (ng Kaharian)
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -663,7 +663,7 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 --> where: <b>Orthopedic</b>: dagdag na pagsasanay na may kinalaman sa mga ito:<br/>
 --> <b>BUTO</b>, <b>MASEL</b>, at sa mga <b>NAGDIDIKIT</b> sa mga iyon, e.g. <b>JOINT</b><br/>
 --> where: <b>SURGEON</b> : <b>KNIFE</b>, <b>外科</b><br/> 
---> where: <b>外科</b> = <b>げか</b> (geka); <b>Maparaang Pagbubuklod ng LABAS (ng Kaharian)</b><br/>
+--> where: <b>外科</b> = <b>げか</b> (geka); <b>Maparaang Pagbubukod ng LABAS (ng Kaharian)</b><br/>
 <h3>PAALALA: NO JOKE</h3>
 
 <b>NOTE (from SYSON, MICHAEL B.):</b>
@@ -684,18 +684,18 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			<br/>
 			observed: <b>MANLOLOKO group</b> shall continue with the <b>NOISE POLLUTION</b>;<br/> 
 			<br/>			
-			This is despite <b>TARGET</b> does <b>NOT</b> file reports with <b>POLICE</b>;<br/>
+			This is despite <b>TARGET</b> obeys by <b>NOT</b> filing reports with <b>POLICE</b>;<br/>
 			<br/>
 			<b>GAWA-GAWANG RULE:</b> Keep CRIMINAL ACTIONS <b>"secret"</b><br/>
 			where: <b>"secret"</b> : <b>KNOW-HOW</b> of their <b>CRIMINAL techniques</b>;<br/> 
 			where: <b>"secret"</b> : <b>NOT to be filed</b> as report with <b>POLICE</b><br/>
-			where: <b>"secret"</b> : <b>NOT to be shared</b> with <b>WORK</b> & <b>Family</b> Unit</b><br/>
+			where: <b>"secret"</b> : <b>NOT to be shared</b> with <b>WORK</b> & <b>Family Units</b></b><br/>
 			<br/>
 			<b>Example KNOW-HOW:</b> unauthorized access to CCTV, misuse of wireless broadcasting<br/>
 			<br/>
 			<b>Example OUTPUT:</b> "Anong NOISE POLLUTION?", "Wala akong naririnig.", "Wala kaming naririnig.", "Ikaw lang ang nag-iisip niyan.",<br/>
 			<br/>
-			observed: <b>MANLOLOKO group</b> has been <b>attempting</b> to classify the continuous <b>NOISE POLLUTION</b> to be as <b>RECOMMENDED</b> by <b>Law Enforcement</b> to <b>catch</b> NOT yet identified <b>MANLOLOKO members</b><br/>
+			observed: <b>MANLOLOKO group</b> has been <b>attempting</b> to classify the continuous <b>NOISE POLLUTION</b> as <b>RECOMMENDED</b> by <b>Law Enforcement</b> to <b>catch</b> NOT yet identified <b>MANLOLOKO members</b><br/>
 			<br/>
 			adds: I have <b>NOT received</b> such <b>RECOMMENDATION</b>,<br/>
 			from <b>ALL</b> the <b>LAW ENFORCEMENT UNITS</b> that I contacted<br/> 
@@ -710,12 +710,30 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			where: <b>WORDS</b> : to be part of their <b>NOISE POLLUTION</b><br/>
 			<br/>
 			<b>Example:</b> identification errors: <b>hand sign</b> as <b>"baril"</b>;<br/>
-			--> notes: even after 5 years (approx) of <b>"may baril siya"</b> incident,<br/> 
+			--> Even after 5 years (approx) of <b>JOAN SYSON</b>'s <b>"may baril siya"</b> incident,<br/> 
 			<b>MANLOLOKO members</b> have <b>NOT learned</b><br/>
-			--> adds: select <b>MANLOLOKO members</b>, do <b>NOT learn</b> even after over 5 years; still continues with <b>NOISE POLLUTION</b><br/>  
+			--> keyphrase: <b>ILLEGAL DRUGS</b>, <b>WIRELESS BROADCASTING</b><br/>
+			--> where: <b>JOAN SYSON</b> : <b>MANLOLOKO member</b> and sister of <b>RYAN SYSON</b>,<br/>
+			--> assists <b>MANLOLOKO group</b> with <b>CRIMINAL ACTIONS</b><br/>
+			--> <b>QUESTION as REMINDER</b>: where is <b>JOAN SYSON</b>'s <b>POLICE REPORT</b>?<br/>
+			--> observed: within <b>MANLOLOKO GROUP</b>, <b>FIGHTING</b> exists;<br/>
+			--> due to has already <b>ADMITTED</b> to self, <b>CRIMINAL ACTIONS INCORRECT</b><br/> 
 			<br/>
-			<b>CAUSE</b>: <b>"secret"</b>;<br/>
-			where: <b>"secret"</b> : <b>KNOW-HOW that is NOT to be shared</b><br/>
+			--> added: in my reports, <b>JOAN SYSON</b> executes <b>UNAUTHORIZED ACCESS</b> to <b>web services</b> including among others: <b>ONLINE BANKING</b><br/>
+			--> observed: continuous verification of <b>ANOTHER persons</b>'s <b>MONEY</b><br/>
+			--> <b>keyphrase:</b> <b>INGGIT</b><br/>
+			--> adds: <b>MANLOLOKO</b> does <b>NOT</b> understand <b>WHY<br/> 
+			--> MANLOLOKO</b> regularly has <b>INSUFFICIENT MONEY</b><br/>		
+			<br/>	
+			<b>Recommended ACTION</b>:<br/> 
+			--> <b>NO NEED</b> to even attempt to <b>COMMUNICATE</b> with <b>MANLOLOKO</b><br/>
+			--> reminder: <b>LECTURES</b> on <b>VALUES NOT</b> anymore <b>EFFECTIVE</b> after <b>K-12</b><br/>
+			--> where: <b>K-12</b> : High School<br/>
+			<br/>						
+			<b>Result as OUTPUT</b>:<br/> 						
+			<b>MANLOLOKO members</b> do <b>NOT learn</b> even after over 5 years; still continues with <b>NOISE POLLUTION</b><br/>  
+			<br/>
+			<b>CAUSE</b>: <b>"secret"</b>, i.e. <b>KNOW-HOW that is NOT to be shared</b><br/>
 			<br/>
 			reminder: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b>,<br/>
 			<b>INCORRECT identification and classification</b>;<br/>
@@ -723,10 +741,10 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			<b>CAUSE keyphrase:</b> <b>ILLEGAL DRUGS</b> : <b>WHITE SALT (PUTING ASIN)</b><br/> 
 			--> where: <b>"SAL (from LATIN)"</b> = <b>"SALARY"</b>;<br/>
 			<br/>
-			<b>reminder:</b> NO NEED TO AGREE by classifying as CORRECT, item identifications from <b>MANLOLOKO group</b>
+			<b>reminder:</b> <b>NO NEED TO AGREE</b> by classifying as <b>CORRECT</b>, item identifications from <b>MANLOLOKO group</b>
 			<br/>
 			<br/>			
-			adds: EXCESS MONEY, SMUGGLING, ILLEGAL DRUGS, NO COMMUNICATION IN FAMILY UNIT<br/>
+			adds: <b>EXCESS MONEY</b>, <b>SMUGGLING</b>, <b>ILLEGAL DRUGS</b>, <b>NO COMMUNICATION IN FAMILY UNIT</b><br/>
 			</td>	
 	</tr>
 </table>
