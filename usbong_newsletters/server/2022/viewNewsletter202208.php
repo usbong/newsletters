@@ -597,13 +597,9 @@ observed: continuous wireless broadcasting of <b>NOISE POLLUTION</b>;<br/>
 <br/>
 reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
 <br/>
-TO-DO: -add: Cainta, Rizal
+	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202208/SLHCCEmergencyNumbers.jpg"><br/>
 <br/>
-<br/>
-TO-DO: -add: COST of STROKE; based on PhilHealth coverage;<br/>
---> remembers: COST higher than coverage for CANCER;
-<br/>
-<br/>
+
 </h5>
 
 <h3>2) Continued with HEALTH・Security Defense Force</h3>
@@ -759,7 +755,7 @@ keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 			--> where: <b>K-12</b> : High School<br/>
 			<br/>
 			2) <b>PREPARE</b> to <b>BE READY</b> to <b>DESTROY MANLOLOKO</b><br/> 
-			--> keyphrase as reminder: <b>COST</b>, <b>NO EXCITEMENT</b><br/>
+			--> keyphrase as reminder: <b>COST</b>, <b>NO EXCITEMENT</b>, <b>DEFENSE</b><br/>
 			--> where: <b>DESTROY</b> : <b>PUKSAIN</b><br/>
 			<h3>PAALALA: NO JOKE</h3>
 			</td>	
@@ -890,8 +886,12 @@ Savings from its members reached P38.83 billion, strongly driven by the agency's
 <br/>
 
 <b>keyphrase:</b> Pag-IBIG Fund CEO Moti, Acmad Rizaldy<br/>
-
+where: CEO = <b>Chief Executive Officer</b>
+<br/>
 <br/>	
+<b>Recommended Action:</b> contribute: to Modified Pag-IBIG II (MP2) SAVINGS<br/>
+--> <b>minimum:</b> P500<br/>
+--> observed: <b>at least 6% income</b> from <b>SAVINGS contribution</b>
 </h5>
 	<div class="copyright">
 		<span>
