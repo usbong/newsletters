@@ -12,6 +12,86 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [【そもそも解説】1ドル=140円台、「平成不況」と違ういまの円安](https://www.asahi.com/articles/ASQ92037KQ91ULFA008.html?iref=comtop_7_02); last accessed: 20220902
+
+>【そもそも解説】1ドル=140円台、「平成不況」と違ういまの円安
+
+(Pagliliwanag sa Simula't Simula) 1USD=140YEN na Palitan, Iba sa "Hindi Ayos na Kalagayan noong Panahon ng HEISEI" ang Kasalukuyang Mababang YEN
+
+> 有料記事そもそも解説
+
+May bayad na sulatin; Pagliliwanag sa Simula't Simula
+
+> 江口英佑、稲垣千駿、徳島慎也2022年9月2日 6時00分
+
+EGUCHI, EISUKE; INAGAKI, CHIHAYA; TOKUSHIMA, SHIN'YA; 2022-09-02T06:00
+
+### Maikling Pagbubuod na may Dagdag na Paliwanag
+
+> 円安加速、24年ぶり1ドル=140円台　米利上げ継続の見方強まる
+    
+Nadaragdagan ang Bilis ng Pagmura ng YEN, 24 Taon din bago naging 1USD=140YEN ang palitan; Pampalakas ng Pagtingin sa tuluy-tuloy na Pagtaas ng KITA sa DOLYAR.
+
+### TANONG
+
+>　Q　今、円安が進んでいるのはなぜなの。
+
+Sa kasalukuyan, bakit sumusulong ang mababang halaga ng YEN?
+
+#### Paalala: KITA = HALAGA
+
+### SAGOT
+
+>　A　米国と日本の政策金利の差が広がり始めているからだ。日本の中央銀行である日本銀行は、企業や個人がお金を借りやすくするために、政策金利をとても低くしている。
+
+Nagsimula ito sa paglaganap ng pagkakaiba ng POLISIYA sa KITA ng salapi sa AMERIKA at HAPON. Upang madaling makahiram ng pera ang mga Mangangalakal at Nagsariling (Pribadong) Tao, talagang binababaan ng BANGKO ng Hapon (BANGKO SENTRAL ng HAPON) ang kanilang KITA mula sa salapi ayon sa kanilang POLISIYA. 
+
+> 一方で、米国では急激に上がる物価を抑えようと、今年3月から金利を上げ始めている。
+
+Sa isang panig, upang mapangasiwaan ang nakagugulat na bilis na pagtaas ng halaga ng mga bilihin, mula ika-3 buwan ng kasalukuyang taon, sinimulang itaas ng AMERIKA ang kanilang KITA mula sa kanilang salapi.
+
+#### Paalala
+
+Pagtaas ng Halaga ng mga Bilihin -> Pagtaas ng KITA・HALAGA ng Salapi ayon sa POLISIYA<br/>
+<br/>
+--> <b>BAKIT?</b> Ito'y upang mabawasan ang paghiram sa BANGKO.
+
+#### Dagdag
+
+> 金利は高い方が通貨は買われやすくて、低い方は売られて安くなる。
+
+ Sa mataas na KITA・HALAGA ng salapi, madali namang mabibili ang PERA, sa mababa nito, nagiging mura ang KITA・HALAGA ng salapi, naibebenta. 
+
+#### Paalala
+Pagtaas ng KITA・HALAGA ng Salapi ayon sa POLISIYA -> Pagdami ng Bumibili ng PERA <br/>
+<br/>
+--> <b>BAKIT?</b> Mataas ang kikitain.
+
+Pagbaba ng KITA・HALAGA ng Salapi ayon sa POLISIYA -> Pagkaunti ng Bumibili ng PERA<br/> 
+<br/>
+--> <b>BAKIT?</b> Mababa ang kikitain.
+ 
+> だから3月以降、25円も円安ドル高が進んでいるんだ。
+ 
+Kung kaya't, pagkatapos ng ika-3 buwan, sumusulong din ang 25YEN, na may mababang halaga ng YEN, at mataas na DOLYAR.  
+
+#### Paalala: KITA = HALAGA
+
+> ある国の中央銀行が政策金利を引き上げると、その国の資産に投資するために必要な通貨も買われやすくなる。
+
+Kapag hinila paitaas ng Bangko Sentral ng isang kaharian ang kanyang KITA mula sa salapi, madaling makabibili ang kahariang iyon ng kailangang pera upang makapagpuhunan sa mga ari-arian (assets) ng kanyang kaharian. 
+
+> 災害や戦争などその国の経済状態が悪くなるリスクが出てくると、通貨が売られて安くなることもあるよ。
+
+Kapag lumabas ang malagim na RISK mula sa kalagayan ng EKONOMIYA ng kahariang iyon dulot ng SAKUNA, DIGMAAN, atbp, mayroong ding pagmura ng ibinibentang PERA. 
+
+--> <b>BAKIT?</b> Ito'y upang makabili naman ng mga bagay-bagay sa labas ng kaharian.
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は](https://www.asahi.com/articles/ASQ8Y64QXQ8DUQIP00Q.html?iref=comtop_National_04); last accessed: 20220830
 
 >【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は
