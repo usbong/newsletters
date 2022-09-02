@@ -60,7 +60,7 @@ Pagtaas ng Halaga ng mga Bilihin -> Pagtaas ng KITA・HALAGA ng Salapi ayon sa P
 
 > 金利は高い方が通貨は買われやすくて、低い方は売られて安くなる。
 
- Sa mataas na KITA・HALAGA ng salapi, madali namang mabibili ang PERA, sa mababa nito, nagiging mura ang KITA・HALAGA ng salapi, naibebenta. 
+ Sa mataas na KITA・HALAGA ng salapi, madali namang mabibili ang PERA; sa mababa nito, nagiging mura ang KITA・HALAGA ng salapi, naibebenta. 
 
 #### Paalala
 Pagtaas ng KITA・HALAGA ng Salapi ayon sa POLISIYA -> Pagdami ng Bumibili ng PERA <br/>
