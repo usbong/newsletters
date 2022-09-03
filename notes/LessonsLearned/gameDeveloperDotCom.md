@@ -4,17 +4,35 @@ TO-DO: -verify: English to Filipino language translation
 
 ## https://www.gamedeveloper.com/business/-i-frostpunk-i-developer-11-bit-to-end-giving-steam-keys-to-curators; last accessed: 20220903
 
-> Justin Carter<br/>
-> Contributing Editor<br/>
-> September 03, 2022
+>    Justin Carter
+
+Carter, Justin
+
+>    Contributing Editor
+
+Nag-aambag na Tagapagbuklod
+
+>    September 03, 2022
+
+2022-09-03
 
 ### Pinaikling Buod
 
-> Beyond the resellers and scammers, 11 bit freely admitted that what reviews it receives from Curators didn't seem to "bring any value" for the community of its games. Tomi Toikka, CEO of Finnish developer Makea Games, corroborated 11 bit's claim, saying that Steam keys to his games would soon be resold at G2A or activated without any reviews to show for it. <br/>
-> <br/>
-> Key reselling has been an issue for the PC games industry for years. In 2016, digital game marketplace G2A was called one of the best places to sell stolen game keys, particularly for indie games. <br/>
-> <br/>
-> Recently, PCGamer reported that Valve banned 20 curator pages after indie developer Cowcat accused multiple curators of trying to get free codes from the developer. After spamming Cowcat's game Brok the Investigator with negative reviews received wider attention, all the Curators involved were banned. 
+>    Beyond the resellers and scammers, 11 bit freely admitted that what reviews it receives from Curators didn't seem to "bring any value" for the community of its games. 
+
+Higit pa sa mga reseller at scammer, malayang inamin ng 11 bit na walang "idinadagdag na halaga" sa lipunan ng kanilang mga laro, ang kung anumang review (mga puna) na kanilang natatanggap.
+
+> Tomi Toikka, CEO of Finnish developer Makea Games, corroborated 11 bit's claim, saying that Steam keys to his games would soon be resold at G2A or activated without any reviews to show for it.
+
+Sinang-ayunan ni Tomi Toikka, ang CEO ng Finnish developer na Makea Games, ang saad ng 11 bit, at sinabing agad na niyang ibebenta sa G2A o activated kahit walang anumang review ang mga Steam key (susi) ng kaniyang mga laro. 
+
+> Key reselling has been an issue for the PC games industry for years. In 2016, digital game marketplace G2A was called one of the best places to sell stolen game keys, particularly for indie games.
+
+Taun-taon nang sulirinan ang muling pagbebenta ng susi sa larangan ng mga PC na laro. Sa taong 2016, binansagan ang digital na pamilihan ng mga laro, na G2A, bilang isa sa mga pinakamaiging pook, upang magbenta ng mga nakaw na susi ng mga laro, lalo na ang mga indie na laro.
+
+>    Recently, PCGamer reported that Valve banned 20 curator pages after indie developer Cowcat accused multiple curators of trying to get free codes from the developer. After spamming Cowcat's game Brok the Investigator with negative reviews received wider attention, all the Curators involved were banned.
+
+Kamakailan, ibinalita ng PCGamer na BANNED ang 20 mga pahina ng curator, pagkatapos pinaratangan ng indie developer na Cowcat ang maraming curator na nagtangkang kumuha ng mga free code (gratis na code) mula sa developer. Pagkatapos makatanggap ng laganap na pansin ang ginawa nilang spamming ng negative review sa laro ng Cowcat na Brok the Investigator, BANNED na ang lahat ng mga Curator na may kinalaman doon.
 
 
 ## https://www.gamedeveloper.com/business/2k-restores-multiplayer-shooter-i-evolve-s-i-online-servers; last accessed: 20220728
