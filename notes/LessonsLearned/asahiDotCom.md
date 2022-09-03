@@ -12,6 +12,42 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [（天声人語）修理する権利](https://www.asahi.com/articles/DA3S15405512.html?iref=comtop_Opinion_05); last accessed: 20220903
+
+> （天声人語）修理する権利
+
+(Tinig ng Langit, Salaysay ng Tao) Halaga ng Karapatang Mag-ayos
+
+> 有料記事
+
+May bayad na sulatin
+
+> 2022年9月3日 5時00分
+
+2022-09-03T05:00
+
+>　もし自分が過去へとタイムスリップしたら、と考えることがある。２１世紀の科学技術を教えてほしいと言われるかもしれない。しかしパソコンもスマホもどういう仕組みで動いているのか分からない▼ラジオを自作した時代はすでに遠く、最近の電子機器はブラックボックスそのものだ。いや、そんなことではいけないという動き…
+
+Napagnilayan ko na kung sakaling bumalik ako sa nakaraan gamit ang TIMESLIP. Maaaring sabihan akong nais ng mga tao roon na magturo ako ng Kakayanan ng Maparaang Pagbubukod ng ika-21 siglo. Kaya lang, hindi ka alam sa kung anong MEKANISMO kumikilos ang Personal Computer (PC), at Smartphone din.▼Malayo na ang panahon kung kailan sariling binubuo ang RADYO; BLACKBOX na rin ang mga kamakailang kagamitan ng kuryente. Mali, hindi maaari sa ganoong paraan ang pagkilos...
+
+> この記事は有料記事です。残り454文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin ito. Maaari niyo pong mabasa ang kasunod na 454 titik kapag naging nagbabayad na kasapi na po kayo.
+
+### Paalala
+
+1) KAGAMITAN : GAMIT; <br/>
+--> Dagdag na mga titik upang luminaw batay sa pangungusap.<br/>
+--> Gayunpaman, higit na maigi ang maikli man, malinaw na.
+
+### Naaalala
+
+1) STAR TREK (aklat)<br/>
+--> Maaalala ang panahong bumalik sina Kapitan Kirk at Spock sa nakaraan ng Amerika, kung saan may nagaganap na malaking pagbabago. Kinailangang bumuo ni Spock ng kompyuter gamit ang mga Kagamitan ng Kuryente mula sa panahong iyon.
+
+TO-DO: -add: sanggunian
+
 ## [【そもそも解説】1ドル=140円台、「平成不況」と違ういまの円安](https://www.asahi.com/articles/ASQ92037KQ91ULFA008.html?iref=comtop_7_02); last accessed: 20220902
 
 >【そもそも解説】1ドル=140円台、「平成不況」と違ういまの円安
@@ -60,7 +96,8 @@ Pagtaas ng Halaga ng mga Bilihin -> Pagtaas ng KITA・HALAGA ng Salapi ayon sa P
 
 > 金利は高い方が通貨は買われやすくて、低い方は売られて安くなる。
 
- Sa mataas na KITA・HALAGA ng salapi, madali namang mabibili ang PERA; sa mababa nito, nagiging mura ang KITA・HALAGA ng salapi, naibebenta. 
+ Sa mataas na KITA・HALAGA ng salapi, madali namang mabibili ang PERA;<br/> 
+ Sa mababa nito, nagiging mura ang KITA・HALAGA ng salapi, naibebenta. 
 
 #### Paalala
 Pagtaas ng KITA・HALAGA ng Salapi ayon sa POLISIYA -> Pagdami ng Bumibili ng PERA <br/>
