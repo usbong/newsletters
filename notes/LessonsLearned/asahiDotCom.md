@@ -12,6 +12,69 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [日本の科学研究を反転攻勢に向かわせる３つのポイン](https://webronza.asahi.com/science/articles/2022082900001.html?iref=comtop_Opinion_06); last accessed: 20220903; from 20220902
+
+> 日本の科学研究を反転攻勢に向かわせる３つのポイント
+
+3 bagay upang paikutin ang pagsalakay ng Pananaliksik ng Maparaang Pagbubukod ng Hapon
+
+> 好調なドイツから学ぶ日本の大学院に足りないもの
+
+Ang hindi sapat na bagay sa Paaralan ng mga Nagtapos ng Hapon na maaaral mula sa maayos na kalagayan ng sa Aleman
+
+> 川辺浩志　群馬大学大学院医学系研究科薬理学講座教授
+
+KAWABE, HIROSHI;<br/>
+Mangangaral ng mga Aral mula sa Pag-aaral ng Dahilan ng mga Gamot,<br/>
+Pananaliksik ng Maparaang Pagbubukod sa Pag-aaral ng Panggagamot,<br/>
+Paaralan ng GUNMA, Paaralan ng mga Nagtapos;
+
+### Pinaikling Pagbubuod
+
+> 日本の研究がどのようにすれば再び世界をリードできるのか、日独の大学院に注目して日本が打つべき手について感じたことを書きたい。
+
+Paano muling mamumuno ang pananaliksik ng Hapon? Nais kong tutukan ang Paaralan ng mga Nagtapos at isulat ang aking pakiramdam ukol sa paraan na kailangang tamaan ng Hapon. 
+
+
+>　日本とドイツの大学院では何が違うのか？　結論から言うと、「大学院生の待遇」「大学院でのトレーニング」、そして「大学院修了後の就職事情」の3点について天と地ほどの差がある。
+
+Ano ang iba sa Paaralan ng mga Nagtapos ng Hapon at ng sa Alemanya? Mula sa pagwawakas nitong talakayan, may 3 bagay na Langit at Lupa ang pagkakaiba: "Pakikitungo sa Mag-aaral", "Pagsasanay sa Paaralan", at "Kalagayan ng paghahanap ng hanap-buhay pagkatapos magtapos sa Paaralan"
+
+### --
+
+> では、なぜアメリカからではなくて、ドイツから学べることが多いのか？　
+
+Kung gayon, bakit hindi mula sa Amerika, bagkus mula sa Aleman ang higit na marami ang maaaring maaral?
+
+> 一言でいうと日本とドイツは国力が似ているからである。
+
+Sa isang salita, magkahalintulad kasi ang Lakas ng Kaharian ng Hapon at Aleman.
+
+> 日本とドイツでは、国土、人口、GDPのどれをとっても非常に近い値になっている（図2）。
+
+Labis na magkalapit ang halaga ng mga ito sa Hapon at Aleman: Lupa ng Kaharian, Bilang ng mga Mamamayan, ang alinman ng sa GDP (Sukat 2).
+
+> 天然資源が少ないことも両者に共通している。
+
+Magkasama rin ang dalawa sa pagkakaroon ng kaunting Likas na Yaman.
+
+> 両国とも国を発展させるためにはイノベーションで世界をリードする必要がある。
+
+Magkatulad ang dalawang kaharian sa pagkakaroon ng pangangailangang mamuno sa INOBASYON (pagbabago) sa daigdig upang paunlarin ang kaharian.
+
+> 国と経済の規模があまりに違うアメリカと同じやり方で研究成果を上げたいというのはないものねだりである。
+
+Walang malakas na daing upang itaas ang bunga ng pananaliksik sa katulad na paraan ng Amerika, na labis na naiiba ang hulma ng EKONOMIYA at KAHARIAN.
+
+> 参考にすべきはアメリカでなく、ドイツである。
+
+Aleman ang kailangang gawing sanggunian, at hindi ang Amerika.
+
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1F; last accessed: 20220903
 
 ## [（天声人語）修理する権利](https://www.asahi.com/articles/DA3S15405512.html?iref=comtop_Opinion_05); last accessed: 20220903
 
