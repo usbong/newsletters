@@ -2,6 +2,21 @@
 
 TO-DO: -verify: English to Filipino language translation
 
+## https://www.gamedeveloper.com/business/-i-frostpunk-i-developer-11-bit-to-end-giving-steam-keys-to-curators; last accessed: 20220903
+
+> Justin Carter<br/>
+> Contributing Editor<br/>
+> September 03, 2022
+
+### Pinaikling Buod
+
+> Beyond the resellers and scammers, 11 bit freely admitted that what reviews it receives from Curators didn't seem to "bring any value" for the community of its games. Tomi Toikka, CEO of Finnish developer Makea Games, corroborated 11 bit's claim, saying that Steam keys to his games would soon be resold at G2A or activated without any reviews to show for it. <br/>
+> <br/>
+> Key reselling has been an issue for the PC games industry for years. In 2016, digital game marketplace G2A was called one of the best places to sell stolen game keys, particularly for indie games. <br/>
+> <br/>
+> Recently, PCGamer reported that Valve banned 20 curator pages after indie developer Cowcat accused multiple curators of trying to get free codes from the developer. After spamming Cowcat's game Brok the Investigator with negative reviews received wider attention, all the Curators involved were banned. 
+
+
 ## https://www.gamedeveloper.com/business/2k-restores-multiplayer-shooter-i-evolve-s-i-online-servers; last accessed: 20220728
 
 > Justin Carter<br/>
