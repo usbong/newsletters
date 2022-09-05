@@ -36,7 +36,7 @@ last accessed: 20220904
 
 > perestroika, (Russian: “restructuring”) program instituted in the Soviet Union by Mikhail Gorbachev in the mid-1980s to restructure Soviet economic and political policy. Seeking to bring the Soviet Union up to economic par with capitalist countries such as Germany, Japan, and the United States, Gorbachev decentralized economic controls and encouraged enterprises to become self-financing. 
 
---> capitalist countries, e.g. Germany, Japan, and the U.S.A.<br/>
+--> capitalist countries, e.g. Germany, Japan, U.S.A.<br/>
 --> self-financing
 
 > The economic bureaucracy, fearing the loss of its power and privileges, obstructed much of his program, however. Gorbachev also proposed reducing the direct involvement of the Communist Party leadership in the country’s governance and increasing the local governments’ authority. 
