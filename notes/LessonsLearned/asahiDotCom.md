@@ -12,6 +12,125 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [2年後導入のデジ教科書、授業どう変わる　文科省作業部会トップ語る](https://www.asahi.com/articles/ASQ923TYZQ8LULZU004.html?iref=comtop_Topnews2_03); last accessed: 20220905; from 20220904
+
+> 2年後導入のデジ教科書、授業どう変わる　文科省作業部会トップ語る
+
+Pagkatapos ng 2 taon nang ipinakilala ang DIGITAL na Aklat Pampaaralan, ano ang nagbago sa aralin? Sinasalaysay sa Pagpupulong ng mga nasa Itaas ng Unit ng Agham at Panitikan (EDUKASYON).
+
+> 有料記事
+
+May bayad na sulatin
+
+> 聞き手 編集委員・宮坂麻子、桑原紀彦2022年9月4日 7時00分
+
+Tagapakinig, Tagapagbuklod: MIYASAKA, ASAKO; KUWABARA, NORIHIKO; 2022-09-04T07:00
+
+### Maikling Pagbubuod
+
+> 文部科学省は、2024年度から小学5年～中学3年の英語で「デジタル教科書」を先行導入し、算数・数学の25年度以降の使用を検討すると決めた。
+
+Pinagpasiyahan ng Unit ng Pag-aaral ng Agham at Panitikan na unang ipakilala ang "DIGITAL na AKLAT" sa Wikang Ingles ng Taong 5 ng Mababang Paaralan ~ Taong 3 ng Gitnang Paaralan mula Taong 2024; Susuriin naman ang paggamit pagkatapos ng Taong 2025 ng sa Maparaang Pagbibilang.
+
+> 学びの姿はどう変わるのか。積み残された論点は何か。導入に向けた中間報告案をまとめた文科省の作業部会を取り仕切った堀田龍也・東北大大学院教授に聞いた。
+
+Ano ang nagbago sa anyo ng pag-aaral? Anong bahagi ng talakayan ang natitira? Tinanong ang mga ito kay HORITA, TATSUYA, Mangangaral sa Paaralan ng mga Nagtapos ng Pamantasan ng TOUHOKU, sa kanyang isinagawang Pagpupulong ng Unit ng Agham at Panitikan, kung saan pinagbuklod ang mga Balita't Mungkahi tungo sa Pagpapakilala ng DIGITAL na AKLAT.
+
+>　――改めて、デジタル教科書を学校現場に導入する意義は何ですか
+
+Muli, ano ang saysay ng pagpapakilala sa Pook ng Paaralan ng DIGITAL na AKLAT?
+
+>　子ども一人ひとりの特性に合わせた学びをより効果的にする、という点です。
+
+Bahagi kasi ito ng higit na may bunga na pag-aaral kung saan pinagsasama ang katangian ng bawat isang bata.
+
+> 日本の学校は、学ぶ内容を「みんな一緒に」という横並びの意識が強い。
+
+Malakas sa Paaralan ng Hapon ang kamalayan na "Magkasama Tayong Lahat", kung saan magkahilera ang nilalaman ng pag-aaral. 
+
+> 他のクラス、他の子と同じ内容を勉強していれば、保護者も教員も安心、と思う。
+
+Sa palagay ko, panatag ang Nagtuturo at ang Tagapag-alaga rin, kapag kahit sa ibang klase at sa ibang bata, magkatulad ang nilalaman ng inaaral.
+
+> 紙の教科書は、画一的に同じ内容を教える指導には適していたと思います。
+
+Iniisip ko na akma ang gawang-papel na AKLAT sa paggagabay sa pagtuturo ng isang magkatulad na nilalaman.
+
+>　ただ、これからは「みんな同じ」ことに価値がある時代ではなくなる。
+
+Kaya lang, mula ngayon, nagbabago na ang panahon kung saan may halaga ang "Lahat Magkatulad".
+
+> 人と違う独創的な発想が社会に必要になっている。
+
+Kinakailangan na sa lipunan ang pag-iisip ng makabago at naiiba.
+
+> そんな人材が求められる中で、学校も従来通りの教育から脱却しなければならない。
+
+Sa paghahanap ng ganoong uri ng tauhan, kailangang makalisan din ang paaralan mula sa pagtuturo't pag-aalaga sa paraang ginagawa nito mula noon pa, hanggang ngayon.
+
+> デジタル教科書は、個々に応じた学びを実現するツールの一つです。
+
+Isang kasangkapan ang DIGITAL na AKLAT na isinasakatuparan ang pag-aaral na tumutugon sa bawat isang bata.
+
+> 得意なところ、苦手なところを可視化
+
+Pagbabago sa pagmamasid ng Magaling at Mahinang mga bahagi
+
+>　――具体的に、どう変わるのでしょう
+
+Sa pagdadagdag pa ng laman dito, ano kaya ang nagbago?
+
+>　デジタル教科書では、拡大したり、音声で聞いたり、それぞれが使いやすい方法を選べます。
+
+Sa Digital na AKLAT, madaling magagamit ang mga ito bilang mapipiling paraan: Mapalalaki, Mapakikinggan ang tinig
+
+> どの子が何を学習したのか、どんなところを間違いやすいのか、連携したデジタル教材を使えば、ログ（記録）で可視化することができる。
+
+Maaaring mabago ang pagmamasid gamit ang LOGGING (recording), kapag ginamit ang kaugnay na DIGITAL na kagamitan sa pagtuturo, sa pagtatanong ng aling bata ang natuto ng ano, sa aling bahagi ang madaling magkamali.
+
+> 解している子は先の課題に進み、難しい子は反復して習得する。
+
+Makukuha ang mga ito mula sa pagsusulong ng paksa ng mga nakasasagot na bata, at pag-uulit ng mga iyon ng hirap na bata.
+
+> そんな指導が可能になると期待されます。
+
+Inaasahan ang ganoong kakayanan sa paggagabay.
+
+>　ただし、紙かデジタルか、二者択一の議論とは違います。
+
+Gayunman, hindi may saysay na talakayan ang pagpili lamang ng isa mula sa dalawa: PAPEL o DIGITAL.
+
+> 一覧性や定着の面では、紙の方が優れているとも言われます。
+
+
+Sinasabi ring magaling ang panig ng PAPEL sa bahagi ng paningin, pagtutok, atbp.
+
+> ある場面ではデジタル教科書を使い、別の場面では紙の教科書に切り替える。
+
+Sa isang bahagi, gamitin ang DIGITAL na AKLAT, at sa ibang bahagi naman baguhin ito sa paggamit ng PAPEL na AKLAT.
+
+> 必要に応じて使い分けられるようにすることが大切です。
+
+Malaking bagay ang nauunawan ang paggamit ayon sa pangangailangan.
+
+> 　――2年後から、そんな授業に変わりますか
+
+Pagkatapos ng 2 taon, mababago ba ang ganoon aralin?
+
+> 　文科省がデジタル教科書を実…
+
+DIGITAL na AKLAT...
+
+
+> この記事は有料記事です。残り1739文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin ito. Maaari niyo pong mabasa ang kasunod na natitirang 1739 na titik kapag naging nagbabayad na kasapi na po kayo.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [日本の科学研究を反転攻勢に向かわせる３つのポイン](https://webronza.asahi.com/science/articles/2022082900001.html?iref=comtop_Opinion_06); last accessed: 20220903; from 20220902
 
 > 日本の科学研究を反転攻勢に向かわせる３つのポイント
