@@ -4,6 +4,24 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## [ギュッとしてパッと解消](https://www.youtube.com/watch?v=ItuZ_AZG49M); last accessed: 20220906
+
+> ギュッとしてパッと解消<br/>
+> 191,226 views<br/>
+> Sep 4, 2022
+
+> 単にほかのゲームにありがちなことをまねるのではなく<br/>
+> 元からの意味を考え直せば、より斬新なゲームができる<br/>
+> 可能性もあるかもしれません
+
+### 道筋（みちすじ）につなげる褒美（ほうび；　PRIZE）
+レベルアップ(経験値あがり）、より強くなる<br/>
+金を得ることで、装備を整える
+<br/>
+多少な選択幅<br/>
+<br/>
+ストレスをかけると、解消する（すっきり）
+
 ## [遊びの仕事は遊びじゃない](https://www.youtube.com/watch?v=5DS_aGjo9zY); last accessed: 20220831
 
 > 遊びの仕事は遊びじゃない
