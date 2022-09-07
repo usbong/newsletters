@@ -58,7 +58,7 @@ Nabalitaang bagama't 3 taon at 2 buwan nang naglingkod dahil sa bukod-tanging ka
 
 >　「刑期満了から1年もたたない2018年6月、ソウルのカジノで、3千万円の元手を9億円に増やしました。これも後日、結局はゼロになってしまうのですが……。106億8千万円を熔（と）かして特別背任罪に問われたことといい、依存症的体質のある私はバクチとは相性が良すぎてしまったのかもしれません」
 
-"Bagama't hindi pa 1 taon ang nakalilipas nang tinapos ko ang pagpuno sa kulungan ng aking panahon, nagtungo ako sa SUGALAN ng SEOUL, at pinarami ang dating kong hawak na 30 Milyong YEN sa 900 Milyong YEN. Sa pagkatapos na araw, kinalaunan naging ZERO rin... Sa pagtunaw ng 10.68 Bilyong YEN, maiging matanong ang bukod-tanging kasalanan ng pag-aako. Maaaring may nananatiling sakit sa kaibuturan ng aking sarili kung saan labis na maigi ang pagpusta."
+"Bagama't hindi pa 1 taon ang nakalilipas nang tinapos ko ang pagpuno sa kulungan ng aking panahon, nagtungo ako sa SUGALAN ng SEOUL, at pinarami ang dati kong hawak na 30 Milyong YEN sa 900 Milyong YEN. Sa pagkatapos na araw, kinalaunan naging ZERO rin... Sa pagtunaw ng 10.68 Bilyong YEN, maiging matanong ang bukod-tanging kasalanan ng pag-aako. Maaaring may nananatiling sakit sa kaibuturan ng aking sarili kung saan labis na maigi ang pagpusta."
 
 　――服役中もギャンブルに行きたいと思っていたのですか。
 
