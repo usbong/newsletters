@@ -37,7 +37,7 @@ Si IKAWA, MOTOTAKA (58) ang Ikatlong Henerasyon ng Tagapagtaguyod ng Malaking Ha
 
 > 2017年10月の刑期満了から、間もなく5年。大損の「痛み」は癒えたのか。
 
-5 taon ang lilipas nang pinuno niya ang kulungan ng kanyang panahon ng taong 2017 ng ika-10 buwan. Paghihilom ba ito ng "Sakit" ng malaking pagkalugi?
+5 taon ang lilipas nang pinuno niya ang kulungan ng kanyang panahon ng taong 2017 sa ika-10 buwan. Paghihilom ba ito ng "Sakit" ng malaking pagkalugi?
 
 ### --
 
@@ -47,7 +47,7 @@ IKAWA, MOTOTAKA
 
 > 1964年、大王製紙創業家の3代目として生まれる。87年に大王製紙入社、2007年6月に社長、11年6月に会長になり9月に辞任。その年11月、関連会社から巨額の借り入れをした特別背任の疑いで東京地検特捜部に逮捕される。懲役4年の実刑が確定し、16年12月まで3年2カ月間服役。著書に「熔ける」「熔ける　再び」など。
 
-Taong 1964, isinilang bilang ikatlong henerasyon sa bahay ng Tagapagtaguyod ng Malaking Hari ng Gawaan ng Papel. Pumasok sa samahan ng taong 1987, naging Pinuno ng Samahan sa taong 2007 ng ika-6 na buwan, naging Sagisag nito sa taong 2011 ng ika-6 na buwan, at umayaw sa tungkulin ng ika-9 na buwan. Sa ika-11 ng taong iyon, mahuhuli ng Unit ng Tagapagsiyasat sa Pook ng TOKYO, dahil sa hinala na may bukod-tanging pag-aako sa hiniram na malaking halaga mula sa mga kaugnay na samahan. Tiyak na pinagpasiyahan ang 4 na taong may kayod na pagkakulong, kung saan hanggang taong 2016 ng ika-12 buwan, naglingkod sa loob ng 3 taon at 2 buwan. Sabi sa tagapagsulat, "tinunaw", "tinunaw ulit", atbp. 
+Taong 1964, isinilang bilang ikatlong henerasyon sa bahay ng Tagapagtaguyod ng Malaking Hari ng Gawaan ng Papel. Pumasok sa samahan ng taong 1987, naging Pinuno ng Samahan sa taong 2007 sa ika-6 na buwan, naging Sagisag nito sa taong 2011 sa ika-6 na buwan, at umayaw sa tungkulin ng ika-9 na buwan. Sa ika-11 ng taong iyon, mahuhuli ng Unit ng Tagapagsiyasat sa Pook ng TOKYO, dahil sa hinala na may bukod-tanging pag-aako sa hiniram na malaking halaga mula sa mga kaugnay na samahan. Tiyak na pinagpasiyahan ang 4 na taong may kayod na pagkakulong, kung saan hanggang taong 2016 sa ika-12 buwan, naglingkod sa loob ng 3 taon at 2 buwan. Sabi sa tagapagsulat, "tinunaw", "tinunaw ulit", atbp. 
 
 ### --
 
