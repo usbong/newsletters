@@ -2,8 +2,7 @@
 
 ## Ex-Nabcor execs get up to 40 yeras over PDAF (20220906)
 
-> MARCELO, ELIZABETH
-> 2022-09-06
+> MARCELO, ELIZABETH; 2022-09-06
 
 NABCOR = National Agribusiness Corp, defunct state firm<br/>
 misuse of 4.85 million PHP from Priority Development Assistance Fund (PDAF);<br/>
