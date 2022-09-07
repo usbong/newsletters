@@ -13,6 +13,70 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
 
+## [カジノで熔けた106億円　会長の座を追われて知る「痛み」](https://www.asahi.com/articles/ASQ92368SQ85UPQJ00J.html?iref=comtop_Opinion_02); last accessed: 20220906
+
+> カジノで熔けた106億円　会長の座を追われて知る「痛み」
+
+Tinunaw na 10.6 Bilyong YEN sa SUGALAN; Ang Alam na "Sakit" ng Pinunong Hinahabol sa Kaniyang Kinatatayuan
+
+> 有料記事
+
+May bayad na sulatin
+
+> 聞き手・岸善樹2022年9月5日 14時00分
+
+Tagapakinig, KISHI, YOSHIKI; 2022-09-05T14:00
+
+> かつてカジノで106億円余りを失い、東証1部上場企業の会長の座を追われた人物がいる。
+
+May taong hinahabol sa kaniyang kinatatayuan bilang Pinuno ng Mangangalakal sa Pamilihan ng Bahagi (STOCK) sa Silangan.
+
+> 大王製紙の創業家3代目で、社長・会長を務めた井川意高さん（58）は、ギャンブルで熔（と）けた金の穴埋めのため関係会社から巨額借り入れを行い、特別背任罪で懲役4年の実刑が確定した。
+
+Si IKAWA, MOTOTAKA (58) ang Ikatlong Henerasyon ng Tagapagtaguyod ng Malaking Hari ng Gawaan ng Papel; Nanungkulan siya bilang Pinuno nito, at isinakatuparan ang tiyak na pinagpasiyahang 5 taong may kayod na pagkakulong upang maglingkod sa bukod-tanging kasalanan ng pag-aako ng pagsasagawa ng paghiram ng malaking halaga mula sa kaugnay na samahan, at tinunaw ang salapi sa nakabaong butas sa SUGAL. 
+
+> 2017年10月の刑期満了から、間もなく5年。大損の「痛み」は癒えたのか。
+
+5 taon ang lilipas nang pinuno niya ang kulungan ng kanyang panahon ng taong 2017 ng ika-10 buwan. Paghihilom ba ito ng "Sakit" ng malaking pagkalugi?
+
+### --
+
+> いかわ・もとたか
+
+IKAWA, MOTOTAKA
+
+> 1964年、大王製紙創業家の3代目として生まれる。87年に大王製紙入社、2007年6月に社長、11年6月に会長になり9月に辞任。その年11月、関連会社から巨額の借り入れをした特別背任の疑いで東京地検特捜部に逮捕される。懲役4年の実刑が確定し、16年12月まで3年2カ月間服役。著書に「熔ける」「熔ける　再び」など。
+
+Taong 1964, isinilang bilang ikatlong henerasyon sa bahay ng Tagapagtaguyod ng Malaking Hari ng Gawaan ng Papel. Pumasok sa samahan ng taong 1987, naging Pinuno ng Samahan sa taong 2007 ng ika-6 na buwan, naging Sagisag nito sa taong 2011 ng ika-6 na buwan, at umayaw sa tungkulin ng ika-9 na buwan. Sa ika-11 ng taong iyon, mahuhuli ng Unit ng Tagapagsiyasat sa Pook ng TOKYO, dahil sa hinala na may bukod-tanging pag-aako sa hiniram na malaking halaga mula sa mga kaugnay na samahan. Tiyak na pinagpasiyahan ang 4 na taong may kayod na pagkakulong, kung saan hanggang taong 2016 ng ika-12 buwan, naglingkod sa loob ng 3 taon at 2 buwan. Sabi sa tagapagsulat, "tinunaw", "tinunaw ulit", atbp. 
+
+### --
+
+　――特別背任罪で3年2カ月服役したのに、また韓国のカジノに行ったと聞きました。なかなか抜けられないものなのでしょうか。
+
+Nabalitaang bagama't 3 taon at 2 buwan nang naglingkod dahil sa bukod-tanging kasalanan ng pag-aako, muli siyang pumunta sa SUGALAN ng Kaharian ng Korea. Hindi ba makaalis-alis?
+ 
+
+>　「刑期満了から1年もたたない2018年6月、ソウルのカジノで、3千万円の元手を9億円に増やしました。これも後日、結局はゼロになってしまうのですが……。106億8千万円を熔（と）かして特別背任罪に問われたことといい、依存症的体質のある私はバクチとは相性が良すぎてしまったのかもしれません」
+
+"Bagama't hindi pa 1 taon ang nakalilipas nang tinapos ko ang pagpuno sa kulungan ng aking panahon, nagtungo ako sa SUGALAN ng SEOUL, at pinarami ang dating kong hawak na 30 Milyong YEN sa 900 Milyong YEN. Sa pagkatapos na araw, kinalaunan naging ZERO rin... Sa pagtunaw ng 10.68 Bilyong YEN, maiging matanong ang bukod-tanging kasalanan ng pag-aako. Maaaring may nananatiling sakit sa kaibuturan ng aking sarili kung saan labis na maigi ang pagpusta."
+
+　――服役中もギャンブルに行きたいと思っていたのですか。
+
+Kahit ba sa paglilingkod, inisip mong nais mong tumungo sa SUGALAN?
+
+>　「それはありません。欲望自…
+
+"Wala naman po ang iyon. Sariling pagnanasa...
+
+この記事は有料記事です。残り2332文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin po ito. Maaari niyo pong mabasa ang natitirang 2332 na titik, kapag nagiging nagbabayad na kasapi na po kayo.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [2年後導入のデジ教科書、授業どう変わる　文科省作業部会トップ語る](https://www.asahi.com/articles/ASQ923TYZQ8LULZU004.html?iref=comtop_Topnews2_03); last accessed: 20220905; from 20220904
 
 > 2年後導入のデジ教科書、授業どう変わる　文科省作業部会トップ語る
