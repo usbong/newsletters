@@ -12,6 +12,48 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [政府サイトで障害　ロシアのハッカー集団「キルネット」との関連調査](https://www.asahi.com/articles/ASQ9671JPQ96ULFA02L.html?iref=comtop_Tech_science_01); last accessed: 20220908; from 20220907
+
+> 政府サイトで障害　ロシアのハッカー集団「キルネット」との関連調査
+
+Pagsisiyasat kaugnay ng "KILLNET", pangkat ng HACKER mula RUSSIA; Kapansanan sa SITE ng Pamahalaan
+
+> 2022年9月6日 21時32分
+
+2022-09-06T21:32
+
+> デジタル庁は6日夕、政府の法令や行政手続きを調べられる総合サイト「e―Gov（イーガブ）」でシステム障害が起きていると明らかにした。
+
+Inilinaw ng DIGITAL Unit na sa gabi ng ika-6 na araw, may naganap na kapansanan sa SISTEMA na e-GOV", isang pinagsamang SITE kung saan masisiyasat ang mga kautusan ng pamahalaan at ang mga hakbang  sa pagkilos doon.
+
+> ロシアのハッカー集団「キルネット」が関連するとされるSNSでは、イーガブを攻撃したという投稿があった。
+
+May mga sulatin ukol sa pagsalakay sa e-GOV sa mga SNS (Social Networking Service), kung saan nauugnay ang pangkat ng mga HACKER mula RUSSIA na "KILLNET".
+
+> デジ庁は障害の原因や投稿との関連を調べている。
+
+Sinisiyasat na ng DIGITAL Unit ang mga ito: ang mga kaugnay na sulatin, dahilan ng kapansan, atbp.
+
+>　デジ庁によると、イーガブは6日午後4時半ごろからつながりにくくなった。
+
+Ayon sa DIGITAL Unit, naging mahirap makakonekta (makaugnay) sa e-GOV ng ika-6 na araw, 30 minuto makalipas ang ika-4 ng hapon.
+
+> 午後7時の時点では復旧していなかったという。
+
+Sinasabing hindi pa ito naibabalik sa dati pagsapit ng ika-7 ng gabi.
+
+>　キルネット関連とされるSNSでは、日本のSNS大手「ミクシィ」を攻撃したという投稿もあった。ミクシィによると6日午後7時ごろから一時的に障害が起きた。「大量のアクセスが発生し、サーバーの負荷が高まったことが原因」（広報担当者）としている。
+
+Sa mga SNS na kaugnay sa KILLNET, mayroon ding sulatin na sinasabing sinalakay  ang malaking SNS ng Hapon na "MIXI". Ayon sa MIXI, naganap ang pansamantalang kapansanan mula ng ika-6 na araw sa ika-7 ng gabi. Tagapangasiwa ng Pagpapahayag ng Balita: "Ito'y dahil sa naganap na malaking bilang ng ACCESS, at tumaas ang inaako (LOAD) ng SERVER." 
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE<br/>
+--> https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/asahiDotCom.md; last accessed: 20220908<br/>
+--> Ginamit upang maalala ang salita mula Wikang Hapon na katumbas sa Wikang Filipino.<br/>
+--> Halimbawa: 担当者 : Tagangasiwa; Tagapangasiwa
+
+
 
 ## [カジノで熔けた106億円　会長の座を追われて知る「痛み」](https://www.asahi.com/articles/ASQ92368SQ85UPQJ00J.html?iref=comtop_Opinion_02); last accessed: 20220906
 
