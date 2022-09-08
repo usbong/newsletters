@@ -51,9 +51,8 @@ Sa mga SNS na kaugnay sa KILLNET, mayroon ding sulatin na sinasabing sinalakay  
 GOOGLE SEARCH ENGINE; TRANSLATE<br/>
 --> https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/asahiDotCom.md; last accessed: 20220908<br/>
 --> Ginamit upang maalala ang salita mula Wikang Hapon na katumbas sa Wikang Filipino.<br/>
---> Halimbawa: 担当者 : Tagangasiwa; Tagapangasiwa
-
-
+--> Halimbawa: 担当者 : Tagapangasiwa, Mananagot, Nag-aako・Nagdadala<br/>
+--> Inayos gamit ito: Almario, V. (2009). UP diksiyonaryong Filipino (Binagong Edisyon). Pasig City: ANVIL Publishing, Inc.
 
 ## [カジノで熔けた106億円　会長の座を追われて知る「痛み」](https://www.asahi.com/articles/ASQ92368SQ85UPQJ00J.html?iref=comtop_Opinion_02); last accessed: 20220906
 
@@ -2664,7 +2663,7 @@ BENTA, nang ipinalabas na Gawang TAIWAN ang TUNA ng TSINA
 
 > 農林水産省
 
-Tagangasiwa ng Gawaan sa Taniman, Kahuyan, at Palaisdaan
+Tagapangasiwa ng Gawaan sa Taniman, Kahuyan, at Palaisdaan
 
 > 15日、東京・豊洲市場の水産物卸売会社「築地魚市場」（東京都江東区）
 
@@ -2697,9 +2696,8 @@ sa Pamilihan ng TOYOSU.<br/>
 
 > 同社の大竹利夫取締役常務執行役員は朝日新聞の取材に「制度の理解が不十分で、担当者がよく確認せずに表示していた」と説明した。
 
-Ipinaliwanag ni OHTAKE, TOSHIO (Punong Tagangasiwa ng Tagapagpatupad ng Karaniwaang Tungkulin) ng nabanggit na Samahan
-sa ASAHI SHIMBUN (DYARYO) bilang makukuhang gamit (sa balita) ito:
-"Hindi lubusang nauunawaan ng Tagangasiwa ang patakaran (Nibel ng Higpit), at walang maiging pagtitiyak sa paglalabas (ng pangalan kung saan Gawa)"
+Ipinaliwanag ni OHTAKE, TOSHIO (Punong Tagapangasiwa ng Tagapagpatupad ng Karaniwaang Tungkulin) ng nabanggit na Samahan sa ASAHI SHIMBUN (DYARYO) bilang makukuhang gamit (sa balita) ito:
+"Hindi lubusang nauunawaan ng Tagapangasiwa・Nag-aako ang patakaran (Nibel ng Higpit), at walang maiging pagtitiyak sa paglalabas (ng pangalan kung saan Gawa)"
 
 >　大竹氏によると、昨年4月からの農水省検査の過程で、不適切な表示が昨年10月になって発覚し、同11月からは表示を改めたという。同社は農水相に8月にも、是正結果や再発防止策などを報告する。（前川浩之）
 
