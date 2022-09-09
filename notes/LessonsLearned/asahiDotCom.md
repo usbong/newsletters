@@ -12,6 +12,71 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [インスタに制裁金570億円　アイルランドで子どもの情報管理に違反](https://www.asahi.com/articles/ASQ97546XQ97ULFA005.html?iref=comtop_Tech_science_04);
+last accessed: 20220908
+
+> インスタに制裁金570億円　アイルランドで子どもの情報管理に違反
+
+Sa INSTAGRAM, 24 Bilyong Piso Hatol na Salapi;
+Naiba sa Pangangasiwa ng Balita ng mga Bata sa IRELAND
+
+> ロンドン=和気真也2022年9月7日 16時17分
+
+LONDON=WAKE, SHINYA; 2022-09-07T16:17
+
+### Pinaikling Pagbubuod
+
+
+> 米メタ傘下の写真投稿アプリ「インスタグラム」に約4億ユーロ（約570億円）の制裁金を科すことを決めた。
+
+Pinagpasiyang magbukod ang "INSTAGRAM" App, isang Puhunan ng mga Larawang saklaw ng META ng Amerika, ng hinatulang salaping may halaga na mga 400 Milyong EURO (mga 24 Bilyong Piso (@1 EURO : 60 PHP)). 
+
+## Dagdag (20220909)
+
+> 1 Euro equals 57.33 Philippine peso
+
+> 1 United States Dollar equals 57.03 Philippine peso
+
+#### Sanggunian: Google Search Engine
+
+### Keyphrase:
+
+> 子どもの個人情報管理
+
+Pangangasiwa ng Pansariling Balita ng mga Bata
+
+> 連絡用の電話番号や電子メールのアドレスが広く公開される設定になっていた。
+
+Lumaganap bilang pampublikong setting ang Bilang ng Teleponong gamit sa pakikipag-ugnayan, EMAIL ADDRESS, atbp.
+
+### Tugon ng INSTAGRAM ukol sa Hatol
+
+>「1年以上前に修正した古い設定を問題視したもので、我々はその後、10代の利用者の安全と個人情報を保護する多くの仕組みを導入している」
+
+"Higit isang taon na ang nakararaan nang nakita namin ang suliranin ng inayos namin sa lumang SETTING, kung kaya't pagkatapos niyon, ipinakilala namin ang marami pang mekanismo upang ipagtanggol ang Pansariling Balita at Kaligtasan ng mga gumagamit na nasa 10's ng kanilang taong gulang."
+
+> 同じメタ傘下のメッセージアプリ「ワッツアップ」
+
+MESSAGING APP na "WHATSAPP", na katulad ding saklaw ng META
+
+> 欧州連合（EU）の「一般データ保護規則（GDPR）」に違反した
+
+Naiba sa "Patakaran ng Pagtatanggol sa Karaniwang Datos (GDPR)" ng Samahan ng mga taga-Europa (EU)
+
+> 制裁金2億2500万ユーロ（約320億円）を科された。
+
+Pinagbukod ng hinatulang salaping may halagang 225 Milyong EURO (13.5 Bilyong Piso (@1 EURO : 60 PHP)).
+
+### Dagdag
+
+違反 : Naiba, Isinalamin ang pagiging iba<br/>
+--> DRAGONQUEST VI?
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [政府サイトで障害　ロシアのハッカー集団「キルネット」との関連調査](https://www.asahi.com/articles/ASQ9671JPQ96ULFA02L.html?iref=comtop_Tech_science_01); last accessed: 20220908; from 20220907
 
 > 政府サイトで障害　ロシアのハッカー集団「キルネット」との関連調査
