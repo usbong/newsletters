@@ -12,6 +12,33 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（天声人語）いざよいの月](https://www.asahi.com/articles/DA3S15413322.html?iref=comtop_Opinion_05); last accessed: 20220911
+
+>（天声人語）いざよいの月
+
+Tinig ng Langit, Wika ng Tao; Ika-16 na Gabi ng Buwan
+
+> 有料記事
+
+May bayad na sulatin
+
+> 2022年9月11日 5時00分
+
+2022-09-11T05:00
+
+> 「今日は夏の空でしょうか、それとも秋晴れでしょうか」。ラジオのアナウンサーがきのう戸惑いながら語っていた。見上げると朝のうちは入道雲があったのに、昼ごろの空にあるのはひつじ雲のような、鰯（いわし）雲のような▼「秋暑し」という季語があり、歳時記によれば８月の残暑に使うことが多いようだ。しかし９月の半…
+
+“Langit ng Tag-init nga ba ngayong araw? O kaya naman, tagsibol ba ng Taglagas?” Nawawalang isinalaysay ng anawnser (announcer) ng radyo kahapon. Kapag tumangila, bagama’t may papasok na dumaraang ulap sa loob ng umaga, sa langit ng hapon, tila tupa na ulap, at sardinas na ulap ang mayroon▼May wika ng panahon kung saan sinasabi ang ”init ng Taglagas”, at ayon sa kasulatan ng mga panahon, tila marami ang paggamit nito sa natitirang init ng ika-8 buwan. Gayunman, sa kalahati ng ika-9 na buwan…
+
+> この記事は有料記事です。残り508文字有料会員になると続きをお読みいただけます。
+
+May bayad ang sulating ito. Maaari niyo pong mabasa ang kasunod na natitirang 508 titik kapag naging nagbabayad na kasapi na po kayo.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [インスタに制裁金570億円　アイルランドで子どもの情報管理に違反](https://www.asahi.com/articles/ASQ97546XQ97ULFA005.html?iref=comtop_Tech_science_04);
 last accessed: 20220908
 
