@@ -4,6 +4,68 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=h2EpwYFfrfY; last accessed: 20220911
+
+> 星のカービィ 夢の泉の物語<br/>
+> 191,523 views<br/>
+> Sep 9, 2022
+
+初心者と上級者でも遊べる<br/>
+バランス<br/>
+<br/>
+コピー能力<br/>
+observed:　プレイヤーにさまざまなゲームのことを思い出させること<br/>
+--> system integration;<br/>
+--> Castlevania　(キャセルヴァニア)　: Lord of Shadows (Year 2010)<br/>
+--> PS3; Konami; Mercury Steam Entertainment; Kojima Products<br/>
+--> Mario Story 64　（Ｇ’ＮＧ; ＢＧＭ（背景音楽）） (Year 2000)<br/>
+--> N64; Nintendo; Intelligent Systems<br/>
+<br/>
+企画書も書かれたと<br/>
+<br/>
+敵にあう　：　teknik　(発音）<br/>
+<br/>
+画面のドット数（wｘh）<br/>
+ゲームボーイ：１６０ｘ１４４<br/>
+ファミコン：　２５６ｘ２４０<br/>
+<br/>
+画面が広いと、飛行が強くなるという現象<br/>
+<br/>
+インフォボード；　役割 ：カード<br/>
+<br/>
+「スクロールロック」<br/>
+<br/>
+ワンボタンでできる<br/>
+サブゲーム<br/>
+<br/>
+入口　：　強制間が無い<br/>
+<br/>
+### --
+
+ゲームボーイ版　： 1992<br/>
+ファミコン版　： 1993<br/>
+<br/>
+債務（さいむ）超過<br/>
+ＤＥＢＴ<br/>
+倒産<br/>
+<br/>
+スーパーファミコン　１９９０年に出た<br/>
+<br/>
+ファミコン版も作ることとなった<br/>
+開発環境を整えるには、時間が掛かる<br/>
+<br/>
+すぐに作って、すぐに売る<br/>
+<br/>
+ファミコン版も作れて、うれしいと<br/>
+> 「ラッキーラッキーですよ」
+
+## --
+
+仕事が遊びじゃないが、開発者にとって楽しいことでもある
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [ギュッとしてパッと解消](https://www.youtube.com/watch?v=ItuZ_AZG49M); last accessed: 20220906
 
 > ギュッとしてパッと解消<br/>
