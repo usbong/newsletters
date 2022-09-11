@@ -424,7 +424,8 @@ May bayad na sulatin ito. Maaari niyo pong mabasa ang kasunod na 454 titik kapag
 
 1) STAR TREK (aklat)<br/>
 --> Maaalala ang panahong bumalik sina Kapitan Kirk at Spock sa nakaraan ng Amerika, kung saan may nagaganap na malaking pagbabago. Kinailangang bumuo ni Spock ng kompyuter gamit ang mga Kagamitan ng Kuryente mula sa panahong iyon.<br/>
---> <b>Sanggunian:</b> Blish, J., et al. (1991). "Star trek the classic episodes 1 1991 (the 25th anniversary editions)". USA: Bantam Books 
+--> <b>Sanggunian:</b> Blish, J., et al. (1991). "Star trek the classic episodes 1 1991 (the 25th anniversary editions)". USA: Bantam Books<br/> 
+--> "THE CITY ON THE EDGE OF FOREVER*"
 
 ## [【そもそも解説】1ドル=140円台、「平成不況」と違ういまの円安](https://www.asahi.com/articles/ASQ92037KQ91ULFA008.html?iref=comtop_7_02); last accessed: 20220902
 
