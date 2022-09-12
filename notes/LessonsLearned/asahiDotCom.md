@@ -12,6 +12,45 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [糖尿病治療、アルツハイマー病予防にも　二つの病気の関わりを解明](https://www.asahi.com/articles/ASQ9845Q2Q8JPLBJ008.html?iref=comtop_Tech_science_01); last accessed: 20220912
+
+> 糖尿病治療、アルツハイマー病予防にも　二つの病気の関わりを解明
+
+In Treating Diabetes, and also Preventing against Alzheimer's Disease,
+Makes Clear of Connection with Another two (2) Illnesses
+
+> 有料記事
+
+Paid news article
+
+> 瀬川茂子2022年9月12日 7時00分
+
+SEGAWA, SHIGEKO; 2022-09-12T07:00
+
+### Pinaikling Pagbubuod
+
+> 糖尿病になるとアルツハイマー病になるリスクが高くなるのはなぜか。たんぱく質の断片「アミロイドベータ（Aβ）」が二つの病気を結びつけるカギとなることを、大阪公立大の富山貴美教授らが明らかにした。<br/>
+> <br/>
+>　きっかけは10年以上前、学会で見たあるデータだった。マウスに糖やインスリンを与えると、血液中のAβ濃度が素早く上がることを示していた。Aβはアルツハイマー病患者の脳にたまることが知られていて、血液中のAβは主に脳から流れてきたものだと多くの研究者は考えていた。<br/>
+> <br/>
+>　しかし、富山さんは疑問をもった。インスリンといえば、血液中の糖の濃度に反応して分泌され、筋肉などに糖を取り込ませるホルモンだ。Aβはこの作用にかかわり、脳以外の臓器から分泌されているのではないか――。こんな仮説を立て、実験を始めた。しかし、富山さんの研究テーマはアルツハイマー病。本業が忙しく、脳以外の研究は後回しになりがちで、なかなか進まなかった。<br/>
+> <br/>
+>　中断していた時期もあったが…<br/>
+>
+> この記事は有料記事です。残り449文字有料会員になると続きをお読みいただけます。
+
+### Keyphrase
+
+Those who have become ill due to Diabetes (Sugar Urine Illness) have a high risk of Alzheimer's Disease; Professor, TOYAMA, KIMI of OSAKA Public University makes clear that the Protein Fragment, "AMYLOID BETA", has become a KEY tied to another two (2) illnesses.
+
+### Dagdag
+From Computer Programming (English) -> Human Language Translation
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [（天声人語）いざよいの月](https://www.asahi.com/articles/DA3S15413322.html?iref=comtop_Opinion_05); last accessed: 20220911
 
 >（天声人語）いざよいの月
