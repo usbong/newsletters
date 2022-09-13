@@ -8,6 +8,12 @@
 
 > "I know that every day is a fight to survive. That's all you have time for. But I've no use for a man who uses free soup as an excuse to give up fighting. To survive at all, you need more than soup. You need to know that your life is worth living, no matter what."
 
+Alam kong isang pakikipaglaban upang mabuhay ang bawat araw. Iyon lamang ang panahon na mayroon ka. Subalit wala akong gamit sa lalakeng tinuturi ang libreng sabaw bilang palusot upang tumigil sa pakikipaglaban. Upang mabuhay man lamang, higit sa sabaw ang kailangan mo. Kailangan mong alam na may saysay ang iyong buhay, anuman ang mangyari.
+
+### Paalala
+
+...your life is worth living : ...may saysay ang mabuhay sa iyong buhay
+
 #### Recommended Additional Readings
 
 路傍の石（山本有三）<br/>
