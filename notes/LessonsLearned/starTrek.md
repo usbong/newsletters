@@ -18,3 +18,9 @@
 ### MENTAL POWER
 
 > "...it's a trap. Like a narcotic. When dreams become more important than reality, you give up travel, building, creating, and even forget how to repair the machines left behind by your ancestors. You just sit living and reliving other lives in the thought records."
+
+"... Patibong ito. Tulad sa droga. Kapag naging higit na mahalaga ang panaginib kaysa sa katotohanan, titigilan mo na ang paglalakbay, pagbubuo, paggagawa, at makalilimutan mo rin ang pag-aayos ng mga makinang iniwan ng iyong mga ninuno. Nakaupo ka lang habang binubuhay nang paulit-ulit ang mga buhay ng iba sa mga talaan ng alaala."
+
+### Paalala
+
+important : mahalaga; as 重要, mabigat na pangangailangan
