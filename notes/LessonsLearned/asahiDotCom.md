@@ -13,6 +13,52 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
 
+## [接触確認アプリCOCOA停止へ　デジタル敗戦の象徴、政府も検証](https://www.asahi.com/articles/ASQ9F6TT1Q9FULFA01L.html?iref=comtop_Tech_science_01); last accessed: 20220914
+
+> 接触確認アプリCOCOA停止へ　デジタル敗戦の象徴、政府も検証
+
+Tungo sa pagtigil ng COCOA APP gamit sa pagtiyak ng ugnayan; Sagisag ng Pagkatalo ng DIGITAL sa Labanan; Siniyasat din ng Pamahalaan
+
+> 有料記事
+
+May bayad na sulatin
+
+> 女屋泰之、神宮司実玲、渡辺淳基2022年9月13日 21時30分
+
+ONAYA, YASUYUKI; JINGUJI, MIREI; WATANABE, JUNKI; 2022-09-13T21:30
+
+>　河野太郎デジタル相は13日、新型コロナウイルス対策の接触確認アプリ「COCOA（ココア）」について、機能を停止させる方針を明らかにした。
+
+Inilinaw ni KOUNO, TAROU, Pinuno ng Digital Unit, sa ika-13 araw ang POLISIYA sa pagpapatigil ng kakayanang makina ng "COCOA (KOKOWA)", ang APP sa pagtiyak ng ugnayan laban sa panibagong uri ng CORONA VIRUS.
+
+> 今月26日から政府が感染者の全数把握を簡略化するため、アプリの必要性が薄れたとしている。
+
+Mula ika-26 ng kasalukuyang buwan, upang gawing payak (simple) ang pagkalap ng kabuuang bilang ng mga taong nakaramdan ng paghawa, pinaninipis na ang pangangailangan sa APP.
+
+>　COCOAは医師が提出する陽性者の発生届をもとに、過去14日間に1メートル以内で15分以上接触した人に通知が届く仕組み。
+
+MEKANISMO ang COCOA upang dumating ang mga balita ng mga taong nakaugnay ng higit sa 15minuto sa loob ng 1metro, at sa loob ng nakalipas na 14 na araw, batay sa ipinararating na kaganapan ng mga POSITIBO mula sa Manggagamot.
+
+> 26日以降は発生届の提出は65歳以上の人や重症化リスクがある人など、これまでの2割ほどに絞られ、大半のケースで接触者に通知を届けることができなくなる。
+
+Pagkatapos ng ika-26 araw, hindi na maipadadala ang balita sa mga nakaugnay na tao sa karamihang kaso, sa pagpiga sa 20% na lamang ng hanggang ngayong bilang ng mga taong may RISK ng paglubha ng sakit, mga higit sa 65 taong gulang tao, atbp.
+
+>　河野氏はこの日の会見で「活用の前提が変わった」と理由を説明した。停止の時期は未定で、スケジュールが決まった段階で利用者にアプリの削除などのお知らせを出すという。
+
+Sa pagkikita ng araw na ito, ipinaliwanang ni G. KOUNO ang dahilang "Nagbago ang nakaraang hinuhua ng pagkilos". Hindi pa man daw tiyak ang sukat ng panahon ng pagtigil, ipinaalam na sa mga taong gumagamit ng APP ang ukol sa pagbura nito ayon pinagpasiyang yugto sa iskedyul.
+
+>　COCOAは2020年6月…
+
+Taong 2020, sa ika-6 buwan, COCOA...
+
+> この記事は有料記事です。残り701文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin ito. Maaari niyo pong mabasa ang kasunod na natitirang 701 na titik, kapag naging nagbabayad na kasapi na po kayo.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [糖尿病治療、アルツハイマー病予防にも　二つの病気の関わりを解明](https://www.asahi.com/articles/ASQ9845Q2Q8JPLBJ008.html?iref=comtop_Tech_science_01); last accessed: 20220912
 
 > 糖尿病治療、アルツハイマー病予防にも　二つの病気の関わりを解明
