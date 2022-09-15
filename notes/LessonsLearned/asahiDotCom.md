@@ -30,20 +30,42 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 ## ------------------
 
-##### HARASSMENT : hindi pagbabayad, atbp
+### HARASSMENT : hindi pagbabayad, atbp
 
-#### Halimbawa: [フリーランスのトラブル、新法でどうなる　なおも及ばない数々の保護](https://www.asahi.com/articles/ASQ9G733TQ9GULFA00R.html?iref=comtop_7_01); last accessed: 20220915
+#### keyphrase: 
+
+セクハラ = SEXUAL HARASSMENT<br/>
+<br/>
+パワハラ = POWER HARASSMENT<br/>
+<br/>
+マタハラ = MATERNITY HARASSMENT<br/>
+<br/>
+et cetera
+
+#### Sanggunian: [（社説）陸自セクハラ　根絶へウミを出し切れ](https://www.asahi.com/articles/DA3S15416458.html?iref=comtop_Opinion_04); last accessed: 20220915
+
+### Halimbawa ng "TROUBLE (GULO)": 
+
+[フリーランスのトラブル、新法でどうなる　なおも及ばない数々の保護](https://www.asahi.com/articles/ASQ9G733TQ9GULFA00R.html?iref=comtop_7_01); last accessed: 20220915
+
+> フリーランスのトラブル、新法でどうなる　なおも及ばない数々の保護
+
+FREELANCE TROUBLE, paano sa panibagong batas? Dagdag pa, pagtatanggol ng hindi maabot na bilang
 
 >　フリーランスのグラフィックデザイナー西村淳一さん（48）は5年ほど前、発注元の出版社とトラブルになった。過去につくって書籍に載せたデザインが、改訂版でも無断で加工されて使われていた。その分の報酬はもらっていなかった。
 
-5 taon ang nakararaan nang magkaroon ng TROUBLE si NISHIMURA, JUN'ICHI (48), FREELANCE GRAPHIC DESIGNER, at ang kanyang dating pinasukang Samahan ng Paglalathala. Kahit sa inayos na lathala, walang tigil na dinagdagan at  ginamit ang kanyang ginawa noong DESIGN na nasa kahon ng mga sulat.
+5 taon ang nakararaan nang magkaroon ng TROUBLE si NISHIMURA, JUN'ICHI (48), FREELANCE GRAPHIC DESIGNER, at ang dating kumailangan sa kanyang Samahan ng Paglalathala. Kahit sa inayos na lathala, walang tigil na dinagdagan at ginamit ang kanyang ginawa noong DESIGN na nasa kahon ng mga sulat. Hindi siya nakatanggap ng gantipala sa bahaging iyon.
 
 #### Dagdag
 
 > 口約束で書面を交わしていなかった
 
 Pangako sa bibig, hindi nagkapalitan ng nakasulat<br/>
-<br/>
+
+> 「契約書を交わさないのが当たり前だった。信頼関係があると思っていた」
+
+"Litaw na hindi na magpapalitan ng nakasulat na KONTRATA. Inisip kong may ugnayan ng pagtitiwala."
+
 --> Pinakamaraming kaso bilang TROUBLE
 
 ## ------------------
