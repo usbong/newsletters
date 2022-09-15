@@ -44,7 +44,7 @@ Kalidad ng TABA
 
 > 三大栄養素のバランスが崩れていないか、岡田先生に簡単なチェックリストを監修してもらいました。
 
-Ukolsa kung gumigiba ba ang BALANSE ng 3 Malalaking Sangkap ng NUTRISYON, nakatanggap ako ng pagbubuklod ng payak na CHECKLIST mula kay Gurong OKADA.
+Ukol sa kung gumigiba ba ang BALANSE ng 3 Malalaking Sangkap ng NUTRISYON, nakatanggap ako ng pagbubuklod ng payak na CHECKLIST mula kay Gurong OKADA.
 
 > 次のうち、1つでも当てはまったら、あなたの食事制限には問題があるのかもしれません。
 
