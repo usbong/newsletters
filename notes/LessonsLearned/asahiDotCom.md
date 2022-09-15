@@ -12,6 +12,55 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [朝日新聞デジタルフリーランスのトラブル、新法でどうなる　なおも及ばない数々の保護 写真・図版](https://www.asahi.com/articles/photo/AS20220914002830.html); last accessed: 20220915
+
+### Buto ng Panibagong Batas sa FREELANCE
+
+#### 1. Tungkulin ng mga Manggagawa sa hanap-buhay
+
+1.1) Malinaw na ipinakikita sa MAIL, nakasulat, atbp ang nilalaman ng gagawing tungkulin, at ang sa bilang na halaga ng darating na gantipala.
+
+1.2) Pagkatapos ng gawain, babayaran ang darating na gantipala sa loob ng 60 araw.
+
+1.3) Hindi pakauuntiin ang bilang ng gantipala nang walang dahilan, nakagugulat na bababaan, atbp.
+
+1.4) Maghanda ng sistema bilang panlaban sa HARASSMENT na pagkilos.
+
+1.5) Pagnilayan ang kailangan sa paghahanap ng pangkabuhayan upang makatayo ang mag-asawa, tulad ng panganganak, pag-aalaga ng bata, pagbabantay, atbp.
+
+## ------------------
+
+##### HARASSMENT : hindi pagbabayad, atbp
+
+#### Halimbawa: [フリーランスのトラブル、新法でどうなる　なおも及ばない数々の保護](https://www.asahi.com/articles/ASQ9G733TQ9GULFA00R.html?iref=comtop_7_01); last accessed: 20220915
+
+>　フリーランスのグラフィックデザイナー西村淳一さん（48）は5年ほど前、発注元の出版社とトラブルになった。過去につくって書籍に載せたデザインが、改訂版でも無断で加工されて使われていた。その分の報酬はもらっていなかった。
+
+5 taon ang nakararaan nang magkaroon ng TROUBLE si NISHIMURA, JUN'ICHI (48), FREELANCE GRAPHIC DESIGNER, at ang kanyang dating pinasukang Samahan ng Paglalathala. Kahit sa inayos na lathala, walang tigil na dinagdagan at  ginamit ang kanyang ginawa noong DESIGN na nasa kahon ng mga sulat.
+
+#### Dagdag
+
+> 口約束で書面を交わしていなかった
+
+Pangako sa bibig, hindi nagkapalitan ng nakasulat<br/>
+<br/>
+--> Pinakamaraming kaso bilang TROUBLE
+
+## ------------------
+
+#### 2. Tugon ng Manggagawa sa Pagkakaiba sa Batas
+
+2.1) Ipatupad ng Tapagpatupad ng Pamahalaan ang paggagabay, pagmumungkahi, pag-uutos, atbp.
+
+2.2) Maaaring magsalita ang FREELANCE sa gamit na ugnayan ng Tapagpatupad ng Pamahalaan ukol sa Pagkakaiba sa Batas.
+
+FREELANCE TROUBLE Bilang 110 (Pulis)
+
+May kinalaman sa pagbabayad ng gantipala ang pinakamaraming TROUBLE
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
 
 ## [接触確認アプリCOCOA停止へ　デジタル敗戦の象徴、政府も検証](https://www.asahi.com/articles/ASQ9F6TT1Q9FULFA01L.html?iref=comtop_Tech_science_01); last accessed: 20220914
 
