@@ -4,6 +4,8 @@
 
 ## https://www3.nhk.or.jp/sports/story/7955/; last accessed: 20220914
 
+### Pinaikling Pagbubuod
+
 > 倦怠感(けんたいかん；PHYSICAL　FATIGUE)
 
 Pakiramdam ng pagkapagod at katamaran
