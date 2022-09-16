@@ -12,6 +12,40 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [錦織も国枝も憧れた「史上最高の選手」　芝の王者フェデラー、引退へ](https://www.asahi.com/articles/ASQ9J011ZQ9HULZU00D.html?iref=comtop_Sports_04); last accessed: 20220916
+
+> 錦織も国枝も憧れた「史上最高の選手」　芝の王者フェデラー、引退へ
+
+Ang Tinitingala nina NISHIKORI at KUNIEDA rin; Ang Manlalarong nasa Pinakaitaas sa Kasaysayan; Ang Hari ng TENNIS, na si FEDERER, Tungo sa Pag-atras
+
+> 編集委員・稲垣康介2022年9月16日 0時23分
+
+Tauhan ng Tagapagbuklod: INAGAKI, KOUSUKE; 2022-09-16T00:23
+
+### Pinaikling Pagbubuod
+
+> 男子テニスで4大大会シングルス優勝20度を誇る元世界ランキング1位、ロジャー・フェデラー（41）=スイス=
+
+FEDERER, ROGER (41; SWISS): Dating nasa ika-1 RANKING ng daigdig; Sa panlalakeng TENNIS, at sa 4 ng malalaking paligsahan, 20 ang PANALO sa SINGLES
+
+>　フェデラーは声明で「多くの人が知っているように、この3年はけがと手術によるチャレンジに直面した」と告白。競技復帰をめざしたものの、41歳という年齢からくる肉体的な限界を踏まえ、「競技レベルでのキャリアを終わらせるときだ」と明かした。
+
+Malinaw na inamin ni FEDERER, "Tulad ng alam ng maraming tao, direkta kong hinarap ang pagsubok mula sa sugat at operasyon nitong 3 taon". Bagama't pinakay niyang magpagaling upang bumalik sa pakikipagtunggali, sa pagtapak sa hangganan ng laman ng katawan (pisikal) dulot ng 41 na taong gulang, nilinaw niyang "Panahon na upang wakasin ko ang aking karera sa nibel ng pakikipagtunggali."
+
+### Dagdag
+
+> ひざのけが
+
+Sugat sa tuhod
+
+### Keyphrase
+
+41 taong gulang; hangganan ng (laman ng) katawan sa pakikipagtunggali
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [朝日新聞デジタルフリーランスのトラブル、新法でどうなる　なおも及ばない数々の保護 写真・図版](https://www.asahi.com/articles/photo/AS20220914002830.html); last accessed: 20220915
 
 ### Buto ng Panibagong Batas sa FREELANCE
