@@ -4,6 +4,150 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html; last accessed: 20220916
+
+> ・昔から、ぼくは折にふれて「死」に関わることを、
+　ふだんの話に混ぜているような気がします。
+
+Mula noon, kapag nababanggit ang bale pakiramdam ko tila nahahalo sa karaniwang usapan ang tungkol sa "KAMATAYAN".
+
+>　そうすると「縁起でもない」と嫌がられるかというと、
+>　そういうものでもなかったようです。
+
+Kapag ginawa iyon, tila hindi namang inaayawan, at sinasabing "hindi napapanahon". 
+
+>　ぼくの周囲の人たちには、それほど単純な人はいない。
+
+Sa paligid ko, hindi namang ganoong kadalisay ang mga tao.
+
+> 　人は必ず生まれて死ぬのだから、死の話をすることも
+>　わりと自然なことだと思っているのでしょう。
+
+Iniisip nga ba kasing higit na likas na bagay ang pag-uusap ukol sa kamatayan, sapagkat tiyak na ipinanganganak at namamatay ang tao?
+
+>　もっと若いときのほうが、死の話はしやすかった。
+
+Higit na madaling pag-usapan ang kamatayan noong panahon ng ating kabataan.
+
+>　それは「やや他人事」のようなかたちで、
+>　少し観念的なくらいの感じで話せるからでした。
+
+Hango sa "bagay ng ibang tao", mapag-uusapan kasi sa ating pakiramdam, nakikita't napagninilayan.
+
+>　そして、ほんとうに死が近くなっていくときには
+>　どうなるだろうということも考えていました。
+
+Pagkatapos, sa panahon na talagang nalalapit na'ko sa kamatayan, pinagnilayan ko kung ano nga ba kaya ang mangyayari.
+
+>　で、いま、昔にくらべてずいぶんと死は近くなりました。
+
+Kung kaya't, sa kasalukuyan, kung ihahambing noon, labis na nalalapit na'ko sa kamatayan.
+
+>　できるだけ、これまでのように死を語りたいですが、<br/>
+>　これまでのように死そのものでなく、<br/>
+>　「死が来る」ことへの手続きのほうが、<br/>
+>　考えることがあると知りました。
+
+Bagama't sa abot ng aking magagawa, nais kong isalaysay ang kamatayan tulad ngayon, nalaman kong mapagninilayan ang hakbang tungo sa "darating na kamatayan", at tulad ngayon, hindi iyong bagay na kamatayan.
+
+>　それはつまり、旅をしている最中に、惜しげも<br/>
+>　いずれは家に帰るということを考えるのではなく、<br/>
+>　「帰り支度」があるということに気がつくみたいな。
+
+Ibig sabihin niyon, sa kalagitnaan ng paglalakbay, 
+may paghihinayang man, mukhang mapapansin ang tungkol sa "paghahanda sa pag-uwi", at hindi ang pagninilay sa kinalaunang pag-uwi ko sa bahay.
+
+>　よく、「あ、そっか」と思うことがあるのです。
+
+Madalas, may naiisip na "Ah, gano'n ba?"
+
+>　たとえば、ぼくは手元に、<br/>
+>　古いかたちのモンブランの万年筆を持っています。
+
+Halimbawa, sa aking palad, hawak ko ang lumang anyo ng pangmatagalang panulat (fountain pen) ng MONT BLANC. 
+
+>　吉本隆明さんの形見分けとしてもらった万年筆を<br/>
+>　修理して使えるようにしたものです。
+
+Inaayos itong panulat, bilang pamana ni G. YOSHIMOTO, TAKAAKI, upang muli kong magamit.
+
+>　もう吉本さんは亡くなってるから使えないわけで、<br/>
+>　だからぼくのところにやってきたのですが。
+
+Dumating ito sa aking kinaroroonan, dahil hindi na ito magamit sa pagkamatay ni G. YOSHIMOTO.
+
+>　たとえばこれ、ぼくが死んだ場合にはどうなるのか。
+
+Halimbawa, sa panahon kung kailan namatay na'ko, ano na ang mangyayari rito?
+
+>　気に入って持っているもの、いいなと思って買ったもの。
+
+Bagay na dala-dala kasi kinahiligan, bagay na binili kasi inisip na ayos ito.
+
+>　ティラノザウルスの歯だとか、イヤホンの数々とかもね。
+
+Ngipin ng TYRANOSAURUS, mga ilang bilang ng EARPHONE, atbp, hindi ba?
+
+>　ぼくが死んだ場合には、すべて「処分」されるわけです。
+
+Sa panahon kung kailan namatay na'ko, lahat ng ito itatapon. 
+
+>　ぜんぶがぜんぶ、だれかがほしいと言うはずはない。
+
+Ang lahat, lahat. Walang sinuman ang magsasabi na nais niya ang mga iyon.
+
+>　そういうものを、残して死ぬのはなんか残念ですよね。
+
+Parang sayang hindi ba, kapag namatay ako't iniwan  ang mga iyon?
+
+>　また、伝えれば伝えられるはずの「考え」とか
+>　「方法」とかも、伝えなきゃ死んで消えちゃいます。
+
+At, tuluyan nang mawawala kapag namatay ako ang mga "paraan", kapag hindi ipinarating, at ang mga "pagninilay" na kapag ipinarating, mapararating.
+
+>　死というのは、「死がある」のではなく、
+>　個人の総体が「消える」、そういう側面も持っています。
+
+Sa pagsasabi ko ng kamatayan, dala-dala ko rin ang bahagi kung saan "mawawala" ang kabuuan ng aking katawan, at hindi ang "mayroong kamatayan".
+
+>　こういうことは、若いときには考えてませんでした。
+
+Hindi ko napagnilayan ang mga bagay na ito noong panahon ng aking kabataan.
+
+>今日も、「ほぼ日」に来てくれてありがとうございます。
+
+Ngayong araw din, salamat po sa pagdating sa "HALOS ARAW".
+
+> 昔よりケチになって、同時に気前よくなってもいるようです。
+
+Naging higit na kuripot ako kaysa noon, at sa katulad na panahon, tila nagiging maayos ang hinaharap ng aking kaluluwa.
+
+> 昨日の「今日のダーリン」を読み逃した方はこちら。
+
+Sa mga pinalampas ang pagbabasa, narito po ang sa kahapon ng "Ngayong araw sa DARLING". 
+
+### Dagdag
+
+1)
+> 話せるからでした
+
+Pandiwa ng Kakayanan + kasi + Pangduktong na Pandiwa sa Nakaraan
+
+2)
+> 帰り支度
+
+かえりじたく
+
+3) Napansin kong natagalan ako sa pagsasalin ng pangungusap na mayroon nito:
+
+> ... ではなく、...
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## https://www.1101.com/home.html; last accessed: 20220816
 
 > ・8月15日が今年もやってきました。
