@@ -128,13 +128,11 @@ Sa mga pinalampas ang pagbabasa, narito po ang sa kahapon ng "Ngayong araw sa DA
 
 ### Dagdag
 
-1)
-> 話せるからでした
+1) > 話せるからでした
 
 Pandiwa ng Kakayanan + kasi + Pangduktong na Pandiwa sa Nakaraan
 
-2)
-> 帰り支度
+2) > 帰り支度
 
 かえりじたく
 
