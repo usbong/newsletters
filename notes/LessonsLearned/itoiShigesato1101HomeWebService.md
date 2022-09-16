@@ -41,7 +41,7 @@ Pagkatapos, sa panahon na talagang nalalapit na'ko sa kamatayan, pinagnilayan ko
 
 >　で、いま、昔にくらべてずいぶんと死は近くなりました。
 
-Kung kaya't, sa kasalukuyan, kung ihahambing noon, labis na nalalapit na'ko sa kamatayan.
+Kasi, sa kasalukuyan, kung ihahambing noon, labis na nalalapit na'ko sa kamatayan.
 
 >　できるだけ、これまでのように死を語りたいですが、<br/>
 >　これまでのように死そのものでなく、<br/>
