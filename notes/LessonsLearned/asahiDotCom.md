@@ -12,6 +12,41 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [NTT西日本の通信障害、総務相「重大な事故」との認識示す](https://www.asahi.com/articles/ASQ9J517BQ9JULFA011.html?iref=comtop_Tech_science_04); last accessed: 20220917
+
+> NTT西日本の通信障害、総務相「重大な事故」との認識示す
+
+NTT sa Kanlurang Hapon: Sakuna sa KOMUNIKASYON; Kinilala ng Nanunungkulang Pinuno ang "Malubhang Pangyayari"
+
+### Paalala: 
+
+<b>NTT</b> = Nippon Telegraph and Telephone<br/>
+<b>通信</b> : KOMUNIKASYON, Tiwala sa Dinaraanan
+
+> 鈴木康朗2022年9月16日 15時30分
+
+SUZUKI, YASUROU; 2022-09-16T15:30
+
+>　通信障害は8月25日に起きた。関西など12府県の最大63万回線で、光回線を使ったインターネット通信が約50分間、つながらなくなった。復旧後も通信速度が低下した状態が続き、サービスを提供する全30府県の最大211万回線でつながりにくくなった。
+
+Sa ika-25 araw ng ika-8 buwan, naganap ang sakuna sa KOMUNIKASYON. Hindi na maka-ugnay (konekta) sa INTERNET sa loob ng mga 50minuto gamit ang FIBER OPTIC LINE (Tali ng Umiikot na Liwanag) na may 630K linya (pinakamalaki) sa 12 pinamamahalaang pook, sa KANSAI, atbp. Naibalik man sa dati, nagpatuloy ang kabagalan, at hirap maka-ugnay sa 2.11 milyong linya (pinakamalaki) sa lahat ng 30 pinamamahalaang pook na pinaglilingkuran sa SERBISYO.
+
+> 総務省によると、通信障害の原因は機器の故障だった。他の通信事業者でも同じメーカーの製品が使われているという。寺田氏は、他社も含めて同様の事故を起こさぬように立ち入り検査をしたと説明。
+
+Ayon sa Nanunungkulang Unit, kapansanan sa gamit ang dahilan ng sakuna sa KOMUNIKASYON. Gumagamit din daw ang iba pang Manggagawa sa KOMUNIKASYON ng katulad na produkto mula sa iyon ding Pagawaan. Ipinaliwanag ni G. Terada, siniyasat na nila, kabilang ang iba ring mga samahan, ang pasukan ng kinaroroonan ng mga iyon, upang hindi na maganap ang katulad na pangyayari.
+
+>「バックアップシステムも機能不全に陥った。緊急に事実関係を確認する必要があった」と述べた。保守管理の体制や利用者への周知に問題がなかったかも調べている。
+
+Ayon sa kaniya, "Bagsak. Hindi buo ang kakayanan ng makina, at pati rin ang BACKUP SYSTEM. Kinailangang tiyakin ang katotohanan sa panahon ng mabilisang pangangailangan (EMERGENCY)". Sinisiyasat na kung mayroon ba o walang suliranin sa kaalaman ng mga Gumagamit, Higpit sa Pangangasiwa ng Pagtatanggol, atbp.
+
+>　「重大な事故」に該当する通信障害を巡っては、7月にKDDIが延べ3091万人以上に影響する過去最大規模の障害を起こした。今月4日には楽天モバイルで約130万回線に影響する障害があった。（鈴木康朗）
+	
+Sa sakuna sa KOMUNIKASYON, nagdulot ang KDDI ng "Malubhang Pangyayari", kung saan ito ang pinakamalaking sakuna sa kasaysayan; umabot ang nasalanta sa higit sa 30.91 Milyong katao ng ika-7 buwan. Ngayong buwan, sa ika-4 na araw, sa RAKUTEN MOBILE, mga 1.3 milyong linya ang nasalanta. (SUZUKI, YASUROU)
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [錦織も国枝も憧れた「史上最高の選手」　芝の王者フェデラー、引退へ](https://www.asahi.com/articles/ASQ9J011ZQ9HULZU00D.html?iref=comtop_Sports_04); last accessed: 20220916
 
 > 錦織も国枝も憧れた「史上最高の選手」　芝の王者フェデラー、引退へ
