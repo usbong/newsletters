@@ -6,10 +6,20 @@ TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
 ## https://www.1101.com/home.html; last accessed: 20220916
 
+### Paalala
+
+bali (pagbigkas: bale) = pagkaputol ng anumang matigas na bagay;<br/>
+--> bale (mula raw sa "vale" ng Wikang Espanyol) = "sistema ng utangan na nagpapahintulot sa isang tao na makatanggap ng bilihin, kalakal, o salapi sa bisa ng pagpirma sa kahilingan; suweldo bago ang takdang araw ng pagtanggap nito;"
+
+#### Sanggunian
+Almario, V. (2009). UP diksiyonaryong Filipino (Binagong Edisyon). Pasig City: ANVIL Publishing, Inc.
+
+### --
+
 > ・昔から、ぼくは折にふれて「死」に関わることを、
 　ふだんの話に混ぜているような気がします。
 
-Mula noon, kapag nababanggit ang bale pakiramdam ko tila nahahalo sa karaniwang usapan ang tungkol sa "KAMATAYAN".
+Mula noon, kapag nababanggit ang [bali] pakiramdam ko tila nahahalo sa karaniwang usapan ang tungkol sa "KAMATAYAN".
 
 >　そうすると「縁起でもない」と嫌がられるかというと、
 >　そういうものでもなかったようです。
