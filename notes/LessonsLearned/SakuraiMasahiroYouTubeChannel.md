@@ -4,6 +4,30 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=YbYdyyWgr6Y; last accessed: 20220919; from 20220918
+> ゲームに与える賞<br/>
+> 218,065 views; from 202,231 <br/>
+> Sep 15, 2022<br/>
+
+<br/>
+
+> 「良いゲームを作った人達と<br/>
+> そのファンを喜ばせるためのものだと言うことです。」
+
+### --
+
+> 「その人がよいと思ったモノがＮｏ．１！！」
+
+### 解説：
+
+多くの価値観　狙い<br/>
+方向性があるゲーム<br/>
+一等賞といことは、あまり賛成できませんと<br/>
+
+> ゲームって、さまざまな方向性がある<br/>
+> 順位やランクじゃない<br/>
+> レースじゃない
+
 ## https://www.youtube.com/watch?v=h2EpwYFfrfY; last accessed: 20220911
 
 > 星のカービィ 夢の泉の物語<br/>
