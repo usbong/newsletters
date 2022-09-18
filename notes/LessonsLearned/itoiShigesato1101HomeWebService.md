@@ -8,7 +8,7 @@ TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
 ### Paalala
 
-bali (pagbigkas: bale) = pagkaputol ng anumang matigas na bagay;<br/>
+bali (pagbigkas: bale) = "pagkaputol ng anumang matigas na bagay";<br/>
 --> bale (mula raw sa "vale" ng Wikang Espanyol) = "sistema ng utangan na nagpapahintulot sa isang tao na makatanggap ng bilihin, kalakal, o salapi sa bisa ng pagpirma sa kahilingan; suweldo bago ang takdang araw ng pagtanggap nito;"
 
 #### Sanggunian
