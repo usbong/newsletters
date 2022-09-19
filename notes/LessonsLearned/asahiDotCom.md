@@ -12,6 +12,44 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [携帯電話、中国・四国でも一部つながりにくく　台風14号の影響で](https://www.asahi.com/articles/ASQ9M312DQ9MULFA007.html?iref=comtop_National_02); last accessed: 20220919
+
+> 携帯電話、中国・四国でも一部つながりにくく　台風14号の影響で
+
+Dulot ng Bagyo Bilang 14, Hirap maka-ugnay ang Dala-dalang Telepono sa isang Bahagi ng kahit CHUGOKU at SHIKOKU
+
+> 杉山歩2022年9月19日 9時11分
+
+SUGIYAMA, AYUMI; 2022-09-19T09:11
+
+>　台風14号の影響で、九州や中国・四国の一部地域で携帯電話がつながりにくくなっている。伝送路の故障や停電などが原因だという。各社は復旧や確認作業を急ぐとともに、災害用伝言板の活用などを呼びかけている。
+
+Dulot ng Bagyo Bilang 14, hirap maka-ugnay ang Dala-dalang Telepono sa isang bahagi ng lupain ng KYUSHU, CHUGOKU at SHIKOKU, atbp. Dahilan daw ang Kapansanan sa Daanang gamit sa Padalahan, Paghinto ng Kuryente, atbp. Kasama ang minabibilis na pagbalik sa dati, pagtiyak ng mga gawain, atbp, sinimulan nang tumawag ang lahat ng mga samahan sa pagbuhay sa MESSAGE BOARD na gamit sa mga sakuna, atbp. 
+
+>　総務省のまとめによると、19日午前7時半現在で、NTTドコモは大分県や宮崎県、鹿児島県、岡山県、広島県、山口県、香川県、高知県、愛媛県の計15市町の一部エリアで携帯電話のサービスが利用できなかったり、利用しづらかったりしているという。
+
+Ika-19 araw, umaga ng 07:30; NTT DOCOMO, Nasalanta ang serbisyo ng dala-dalang telepono ng mga Pinamamahalaang Pook: OITA, MIYAZAKI, KAGOSHIMA, OKAYAMA, HIROSHIMA, YAMAGUCHI, KANAGAWA, KOUCHI, EHIME; 
+
+>　KDDIは佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県の計31市町村の一部エリアで影響が出ている。ソフトバンクも高知県、長崎県、熊本県、大分県、宮崎県、鹿児島県の計40市町村の一部で、利用しづらい状況が発生しているとしている。
+
+KDDI: SAGA, NAGASAKI, KUMAMOTO, OITA, MIYAZAKI, KAGOSHIMA; <br/>
+<br/>
+SOFTBANK: KOUCHI, NAGASAKI, KUMAMOTO, OITA, MIYAZAKI, KAGOSHIMA;
+
+>　楽天モバイルでは宮崎県、鹿児島県の計5市町の一部で影響が出ているという。（杉山歩）
+
+RAKUTEN MOBILE: MIYAZAKI, KAGOSHIMA;
+
+### PAALALA
+
+大分県 = Pinamamahalaang Pook ng OITA; <br/>
+大分 = Malaking Bahagi
+
+### SANGGUNIAN
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [NTT西日本の通信障害、総務相「重大な事故」との認識示す](https://www.asahi.com/articles/ASQ9J517BQ9JULFA011.html?iref=comtop_Tech_science_04); last accessed: 20220917
 
 > NTT西日本の通信障害、総務相「重大な事故」との認識示す
