@@ -9,24 +9,42 @@ TO-DO: -update: this
 > 218,065 views; from 202,231 <br/>
 > Sep 15, 2022<br/>
 
+Gantipala na iginagawad sa LARO
+
 <br/>
 
 > 「良いゲームを作った人達と<br/>
 > そのファンを喜ばせるためのものだと言うことです。」
 
+Bagay raw upang paligayahin ang mga gumawa ng maayos na LARO, at ang mga FAN nito.
+
+
 ### --
 
 > 「その人がよいと思ったモノがＮｏ．１！！」
 
+"Bilang 1 ang naisip ng taong ayos!"
+
 ### 解説：
 
+Sinabing Paliwanag:<br/>
+<br/>
 多くの価値観　狙い<br/>
 方向性があるゲーム<br/>
 一等賞といことは、あまり賛成できませんと<br/>
 
+Pakay ang magkaroon ng maraming halaga sa panginin ng tao<br/>
+May (isang) patutunguhan ang LARO<br/>
+Hindi ako gaanong maka-sang-ayon sa ganitong gantipala
+
 > ゲームって、さまざまな方向性がある<br/>
 > 順位やランクじゃない<br/>
 > レースじゃない
+
+May samu't saring patutunguhan ang LARO<br/>
+Hindi ito RANKING<br/>
+Hindi to paunahan
+
 
 ## https://www.youtube.com/watch?v=h2EpwYFfrfY; last accessed: 20220911
 
