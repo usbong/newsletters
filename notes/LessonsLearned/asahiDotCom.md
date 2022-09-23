@@ -12,6 +12,74 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [マイナンバー危ない？使える？　天才プログラマー登大遊さんに聞く](https://www.asahi.com/articles/ASQ1H5VCRPDNOIPE002.html?iref=comtop_ThemeRightS_01); last accessed: 20220922
+
+> マイナンバー危ない？使える？　天才プログラマー登大遊さんに聞く
+
+MY NUMBER dangerous? Can be used? We ask GENIUS Programmer, Mr. NOBORI, DAIYU
+
+> 有料記事
+
+Paid news article
+
+> 聞き手・浦島千佳2022年1月17日 12時00分
+
+Listener: URASHIMA, CHIKA; 2022-01-17T12:00
+
+### SUMMARY
+
+>　国が全国民への普及をめざすマイナンバーカード。普及率は4割を超えましたが、情報漏洩（ろうえい）への懸念は根強いようです。筑波大学で産学連携教授を務め、独立行政法人・情報処理推進機構（IPA）にも所属する登（のぼり）大遊さん（37）は、天才プログラマーと称されます。ハッキング技術にも詳しい登さんに聞きました。マイナンバーの情報は狙われやすい？
+
+
+MR. NOBORI, DAIYU (37); TSUKUBA UNIVERSITY, PROFESSOR on RELATED PRODUCTION; INDEPENDENT GOVERNMENT ADMINISTRATOR; STRUCTURAL ADVANCEMENT OF INFORMATION PROCESSING; GENIUS PROGRAMMER
+
+> IPAとNTT東日本で「シン・テレワークシステム」
+
+IPA and NTT EAST JAPAN; |NEW TELEWORKS SYSTEM"
+
+>　――コロナ下の在宅勤務を支援するため、自宅から会社のパソコンにリモートアクセスできるシステムですね。認証は誰のアイデアでしょう。
+
+System that enables remote access from own home to company's personal computer;
+
+keyphrase: CORONA, to support WORK @HOME
+
+Additional Keyphrase: Verification, Identification
+
+> ...認証にカードリーダーがいるのが、不便だったのだと思います。
+
+Mr. NOBORI thinks CARD READER for identity verification is NOT convenient.
+
+> ハッカーに情報漏洩されるリスクは？
+
+RISK of INFORMATION LEAKS by HACKER?
+
+>　――マイナンバーの利活用で、情報漏洩のリスクが高まるという懸念もあるようです。そもそもハッカーは、マイナンバーの情報を狙うでしょうか。
+
+In using MY NUMBER, it appears that there has been consideration regarding the rise of such RISK in INFORMATION LEAKS. From the start, the HACKER targets INFORMATION from MY NUMBER, isn't it?
+
+> ハッカーには4種類あると思います。
+
+I think that there are 4 variations of HACKERS.
+
+> 一つ目は、技術的・学術的な好奇心からしている人たち。不正アクセス禁止法がなかった時代の話なのでお許しいただきたいのですが、我々もこの部類でした。今の日本の情報セキュリティーを支えているのもそういった人たちです。
+
+1) CURIOUS of TECHNOLOGY;<br/>
+--> Time when INCORRECT ACCESS was NOT PROHIBITED IN LAW;<br/>
+--> People who support JAPAN's INFORMATION SECURITY;
+
+> 二つ目は愉快犯、三つ目は金…
+
+2) QUICK CRIME<br/>
+3) MONEY...<br/>
+4) ...<br/>
+<br/>
+...<br/>
+
+### Reference:
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [携帯電話、中国・四国でも一部つながりにくく　台風14号の影響で](https://www.asahi.com/articles/ASQ9M312DQ9MULFA007.html?iref=comtop_National_02); last accessed: 20220919
 
 > 携帯電話、中国・四国でも一部つながりにくく　台風14号の影響で
