@@ -17,4 +17,4 @@ Enterprise Revenue : 1.97Billion (UP by 26%) in Year Half#1<br/>
 <br/>
 New Data Center in Cebu in Q3 of 2024;<br/>
 300 racks;<br/>
-to comliment its existing PASIG and CLARK DATA CENTERS;<br/>
+to compliment its existing PASIG and CLARK DATA CENTERS;<br/>
