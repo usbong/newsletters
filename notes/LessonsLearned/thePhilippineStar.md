@@ -1,5 +1,30 @@
 # Lessons-learned: The Philippine STAR
 
+
+## "More listed companies tapping the bond market" (20220924)
+
+### author:
+
+GONZALES, IRIS
+
+### keyphrase:
+
+Cebu Landmasters Inc. (CLI)<br/>
+--> property developer in the Visayas and Mindanao regions;<br/>
+--> fixed rate bond offer @PHP5Billion<br/>
+<br/>
+--> 3.5-year bonds @6.4222%<br/>
+--> 5.5-year bonds @6.9884%<br/>
+--> 7.0-year bonds @7.5649%
+<br/>
+--> public offer schedule: 2022-09-26~2022-09-30
+
+### Dagdag
+
+San Miguel Corp (SMC)<br/>
+--> fixed-rate bond offer @PHP60Billion;<br/> 
+--> oversubscription option @PHP20Billion
+
 ## "Landbank warns of phishing scam via Google Ads search" (20220924)
 
 ### author: 
