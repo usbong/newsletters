@@ -11,7 +11,7 @@ GONZALES, IRIS
 
 Cebu Landmasters Inc. (CLI)<br/>
 --> property developer in the Visayas and Mindanao regions;<br/>
---> fixed rate bond offer @PHP5Billion<br/>
+--> fixed-rate bond offer @PHP5Billion<br/>
 <br/>
 --> 3.5-year bonds @6.4222%<br/>
 --> 5.5-year bonds @6.9884%<br/>
