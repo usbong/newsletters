@@ -1,6 +1,20 @@
 # Lessons-learned: The Philippine STAR
 
-## Ex-Nabcor execs get up to 40 yeras over PDAF (20220906)
+## "Landbank warns of phishing scam via Google Ads search" (20220924)
+
+### author: 
+
+Simeon, Louise Maureen
+
+### keyphrase: Google Ads misused for phishing;
+--> where: phishing : criminal action by misleading target to a fake website, scam<br/>
+--> adds: Google tech 
+
+### USBONG Recommended Action: 
+file: incident reports;<br/>
+--> assists: computer in executing automatic identification and classification
+
+## "Ex-Nabcor execs get up to 40 yeras over PDAF" (20220906)
 
 > MARCELO, ELIZABETH; 2022-09-06
 
