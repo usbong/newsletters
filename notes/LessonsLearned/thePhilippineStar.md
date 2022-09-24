@@ -1,6 +1,23 @@
 # Lessons-learned: The Philippine STAR
 
 
+## "Gokongweis rebrand Ministop as Uncle John's" (20220924)
+
+### author:
+
+GONZALES, IRIS
+
+### keyphrase:
+Gokongwei group<br/>
+--> Robinsons Retail Holdings Inc (RRHI)<br/>
+----> Robinsons Supermarket Corp.<br/>
+<br/>
+60% -> 100%<br/>
+paid: PHP200Million to buy remaining 40% from Japanese Partner, Ministop Japan;<br/>
+<br/>
+RRHI President and CEO: Robina Gokongwei-Pe;<br/>
+--> eldest daughter of late tycoon, Mr. John Gokongwei Jr.
+
 ## "More listed companies tapping the bond market" (20220924)
 
 ### author:
