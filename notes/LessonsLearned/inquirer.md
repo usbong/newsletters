@@ -12,9 +12,9 @@ Converge ICT Solutions Inc. (Internet Service Provider);<br/>
 <br/>
 1.8Million Residential Subscribers;<br/>
 <br/>
-Residential Revenue : PHP14.08Billion (UP by 38%) in Year Half#1;<br/>
-Enterprise Revenue : PHP1.97Billion (UP by 26%) in Year Half#1<br/>
+Residential Revenue : PHP14.08Billion (UP by 38%) in H1 of Year 2022;<br/>
+Enterprise Revenue : PHP1.97Billion (UP by 26%) in H1 of Year 2022<br/>
 <br/>
-New Data Center in Cebu in Q3 of 2024;<br/>
+NEW DATA CENTER in CEBU in Q3 of 2024;<br/>
 300 racks;<br/>
 to compliment its existing PASIG and CLARK DATA CENTERS;<br/>
