@@ -12,6 +12,32 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [刑法学者が一石を投じる死刑存廃論議　「刑罰とは何か」を問い直す時](https://www.asahi.com/articles/ASQ9N34BJQ9BUPQJ005.html?iref=comtop_Opinion_02); last accessed: 20220924
+
+> 有料記事
+
+May bayad na sulatin
+
+> 聞き手 編集委員・豊秀一2022年9月23日 5時00分
+
+Tagapakinig, Tagapagbuklod: YUTAKA, SHUUICHI; 2022-09-23T05:00
+
+### Pinaikling Pagbubuod
+
+>　「大量の無差別殺人事件のケースを考えてみましょう。伝統的な応報刑の考え方に立つと、死刑以外を選択することは困難です。とりわけ、被害者の失われた生命のかけがえなさに思いを致すとき、死刑はなくてはならない刑罰となるはずです。しかし、刑罰とはそういうものではないはずです」
+
+Pagnilayan natin ang malaking bilang ng mga kaso ng pumatay ng tao nang walang pagbubukod. Kapag tumayo tayo sa paraan ng pagninilay ng iginawad na parusa mula pa noon, mahirap pumili ng parusa maliban sa kamatayan. Sa madaling salita, kapag tuluyan nating inisip na nawalan ang nasalanta ng hindi mapapalitan sa buhay, kailangang kamatayan ang parusa. Subalit, hindi kailangang ganoon ang parusa."
+
+>　「刑罰とは、犯罪に対し、誤った行動であると公的非難を加えることでルールの効力を回復することに意義があります。ルールが人々の行動を縛る力が失われれば、犯罪は増加し、社会の秩序は維持されません。社会的ルールの効力という公益の保護のために刑罰制度は存在しています」
+
+"Tungo sa paggawa ng krimen, may kahulugan ang paggawad ng parusa sa pagbabalik sa lakas ng kakayanan ng PATAKARAN, upang hindi hirap ang lahat kapag may maling pagkilos. Kapag nawala sa PATAKARAN ang pinigang lakas ng pagkilos ng mga tao, darami ang krimen, at hindi mapananatili ang ayos (order) ng lipunan. Umiiral ang higpit sa parusa upang maipagtanggol ang pangkalahatang kapakanan sa sinasabing panlipunang PATAKARAN."
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [マイナンバー危ない？使える？　天才プログラマー登大遊さんに聞く](https://www.asahi.com/articles/ASQ1H5VCRPDNOIPE002.html?iref=comtop_ThemeRightS_01); last accessed: 20220922
 
 > マイナンバー危ない？使える？　天才プログラマー登大遊さんに聞く
