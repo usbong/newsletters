@@ -1,5 +1,18 @@
 # Lessons-learned: The Philippine STAR
 
+## “Longest fiber cable network connects to Mindanao” (20220923)
+
+### Author:
+ROSALES, ELIJAH FELICE
+
+### Keyphrase:
+Globe Telecom Inc.<br/>
+—> Philippine Domestic Submarine Cable Network (PDSCN)<br/>
+—> longest submarine fiber cable network in the Philippines;<br/>
+—> 2,500km from Luzon to Mindanao;<br/>
+—> VESSEL: Cable Infinity (by Kokusai Cable Ship Co. Ltd.) to lay the undersea fiber cable <br/>
+—> with Globe, Eastern Communications, and InfiniVAN
+
 ## “Telcos, ISPs join forces vs network infra theft” (20220901)
 
 ### Author:
