@@ -1,5 +1,28 @@
 # Lessons-learned: The Philippine STAR
 
+## “Telcos, ISPs join forces vs network infra theft” (20220901)
+
+### Author:
+ROSALES, ELIJAH FELICE
+
+### Keyphrase:
+Philippine Long Distance Telephone (PLDT) <br/>
+—> organized: the National Telecommunications Security Council (NTSC);<br/>
+—> includes: <br/>
+—> PLDT as Leader<br/>
+—> Globe Telecom Inc.<br/>
+—> Dito Telecommunity Corp.<br/>
+—> Converge ICT Solutions Inc.<br/>
+—> Sky Cable Corp.<br/>
+<br/>
+<b>Objective:</b> protect network infrastructure from criminal activities, particularly theft;<br/>
+<br/>
+### Republic Act (RA) 10515: Anti-Cable Television and Cable Internet Tapping Act of 2013;<br/>
+—> emphasized: against cable cutting<br/>
+—> guilty of crime: up to 5 years of jail term;<br/>
+—> and/or PHP 100K<br/>
+
+
 ## "SYNERGY GRID sets P1.37 B dividend payout for Q3" (20220923)
 
 ### Author:
