@@ -1,5 +1,27 @@
 # Lessons-learned: The Philippine STAR
 
+## "SYNERGY GRID sets P1.37 B dividend payout for Q3" (20220923)
+
+### Author:
+
+MERCURIO, RICHMOND
+
+### Keyphrase:
+
+SGP = Synergey Grid and Development Philippines Inc.<br/>
+ <br/>
+Dividend amount to all stockholders: P0.26 per outstanding common share;<br/>
+--> similar to that paid in Q2 of 2022;<br/>
+<br/>
+SGP supports ongoing transmission projects by National Grid Corp. of the Philippines (NGCP)<br/>
+--> <b>Examples:</b> transmission network, power generators, electricity distribution utilities<br/>
+--> completed: in August 2022, 307Million upgrade of over-50-year-old<br/> 
+--> San Jose-Angat line (LUZON Grid)<br/>
+--> SGP controls 60% of NGCP via outstanding common shares; <br/>
+--> SGP owns 203.2Million of NGCP via non-voting preferred shares;<br/>
+<br/>
+<b>SGP chariman:</b> Henry Sy Jr<br/>
+<b>SGP vice chariman:</b> Robert Coyiuto Jr
 
 ## "Gokongweis rebrand Ministop as Uncle John's" (20220924)
 
