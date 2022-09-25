@@ -1,5 +1,28 @@
 # Lessons-learned: The Philippine STAR
 
+## “Substantial compliance” (20220923)
+
+### “A LAW EACH DAY [Keeps Trouble Away]” 
+
+### Author:
+SISON, JOSE C
+
+### Keyphrase:
+SANTOS, ARTEMIO owned land with area of 32 hectares;<br/>
+—> donated: to Republic of the Philippines, Department of Health;<br/>
+—> Transfer Certificate of Title (TCT)<br/>
+—> objective: build Mental Hospital (“Don Artemio Memorial Mental Hospital”)<br/>
+<br/>
+—> complaint:  by estate of Artemio, 40 years after execution of DEED<br/>
+—> cause: 5 hectares used for Mental Hospital, 27 hectares used for residences or business places of the informal settlers;<br/>
+
+### Output#1:  Regional Trial Court (RTC) revoked and cancelled Deed of Donation
+
+### Output#2: Court of Appeals (CA) reversed ruling;
+—> due to no clear intention of donor to restrict use of land area only for mental hospital<br/>
+—> Supreme Court (SC) ruled that CA is CORRECT;
+
+
 ## “Longest fiber cable network connects to Mindanao” (20220923)
 
 ### Author:
