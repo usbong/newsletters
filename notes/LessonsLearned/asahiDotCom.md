@@ -12,6 +12,53 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [睡眠研究で賞金4.3億円　筑波大・柳沢教授に「ブレークスルー賞」](https://www.asahi.com/articles/ASQ9Q7JTJQ9QUJHB009.html?iref=comtop_Tech_science_05); last accessed: 20220926
+
+> 谷口哲雄2022年9月23日 13時46分
+
+TANIGUCHI, TETSUO; 2022-09-23T13:46
+
+### Pinaikling Pagbubuod
+
+### Keyphrase:
+
+> 柳沢正史 (62) ・筑波大教授
+
+YANAGISAWA, MASAFUMI (62); Mangangaral sa Pamantasan ng TSUKUBA
+
+> グーグルの創業者らが出資する財団が優れた研究者に贈る「ブレークスルー賞」の生命科学分野で
+
+"BREAKTHROUGH AWARD" sa larangan ng Pag-aaral ng Pagbubukod sa Buhay (LIFE SCIENCE)<br/>
+--> Iginagawad ng mga Tagapagtatag ng GOOGLE
+
+>「これまで睡眠分野の研究で本当に大きな賞は出ていなかったのでうれしい」と喜びを語った。
+
+Isinalaysay ni G. YANAGISAWA: "Maligaya ako sapagkat hanggang ngayon wala pa talagang lumalabas na malaking gantipala sa pananaliksik sa larangan ng pagtulog"
+
+> 睡眠と覚醒の制御に関与するたんぱく質の「オレキシン」を1998年に発見。過眠症や不眠症の新しい治療薬の開発に貢献
+
+Taong 1998 nang natuklasan nila ang "OREXIN", protina na nagbibigay ng higpit (CONTROL) sa pagtulog at paggising. Makapaglilingkod ito sa pag-unlad ng panibagong gamot panglunas sa sakit na labis na pagtulog at hindi pagtulog.
+
+> 2012年から筑波大国際統合睡眠医科学研究機構の機構長を務めている。
+
+Mula taong 2012, nanungkulan bilang Pinuno sa Pamantasan ng TSUKUBA, sa Pinagkaisang Daigdig, Sistema ng Pananaliksik sa Pag-aaral ng Maparaang Pagbubukod sa Paggagamot ng Pagtulog.
+
+> 目標については「私たちがなぜ眠くなるのかは謎だらけ。その仕組みを解明したい」
+
+Ukol sa pakay, "Panay palaisipan kung bakit tayo natutulog. Nais kong mailinaw ang MEKANISMO niyon."
+
+> 賞金は300万ドル（約4億3千万円）で、共同受賞者と折半する。
+
+Salapi sa Gantipala: 3Milyong USD, na hahatiin sa mga kasamahang nakatanggap din ng gantipala.
+
+> 「若手研究者を支援する基金づくりなどに充てたい」
+
+"Nais kong ibukod ito bilang pangunahing salapi sa pagtulong sa mga kabataang mananaliksik"
+
+### SANGGUNIAN
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 
 ## [刑法学者が一石を投じる死刑存廃論議　「刑罰とは何か」を問い直す時](https://www.asahi.com/articles/ASQ9N34BJQ9BUPQJ005.html?iref=comtop_Opinion_02); last accessed: 20220924
 
