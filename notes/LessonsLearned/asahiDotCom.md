@@ -27,6 +27,10 @@ May bayad na sulatin; Bugsok sa UKRAINE
 
 2022-09-27T06:20
 
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [睡眠研究で賞金4.3億円　筑波大・柳沢教授に「ブレークスルー賞」](https://www.asahi.com/articles/ASQ9Q7JTJQ9QUJHB009.html?iref=comtop_Tech_science_05); last accessed: 20220926
 
 > 谷口哲雄2022年9月23日 13時46分
