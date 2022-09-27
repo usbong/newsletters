@@ -12,6 +12,21 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [ロシアとジョージアの国境に3500台の車　動員逃れか](https://www.asahi.com/articles/ASQ9S00CFQ9RUHBI02R.html?iref=comtop_Topnews2_04); last accessed: 20220927
+
+> ロシアとジョージアの国境に3500台の車　動員逃れか
+
+3,500 sasakyan sa RUSSIA at sa Sukdulan ng Kaharian ng GEORGIA; Palilisanin ang mga kumikilos na tao?
+
+> 有料記事ウクライナ情勢
+
+May bayad na sulatin; Bugsok sa UKRAINE
+
+> 2022年9月27日 6時20分
+
+2022-09-27T06:20
+
 ## [睡眠研究で賞金4.3億円　筑波大・柳沢教授に「ブレークスルー賞」](https://www.asahi.com/articles/ASQ9Q7JTJQ9QUJHB009.html?iref=comtop_Tech_science_05); last accessed: 20220926
 
 > 谷口哲雄2022年9月23日 13時46分
