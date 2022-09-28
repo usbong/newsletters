@@ -12,6 +12,35 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（取材考記）障害者の大会にヒント　安全な柔道、ルールが鍵　塩谷耕吾](https://www.asahi.com/articles/DA3S15429191.html?iref=comtop_Opinion_02); last accessed: 2022098
+
+>（取材考記）障害者の大会にヒント　安全な柔道、ルールが鍵　塩谷耕吾
+
+Pagninilay na Sulatin ukol sa mga Nakalap na Balita: HINT Sa Malaking Paligsahan ng mga Taong may Kapansanan; LIGTAS na JUDO, SUSI ang PATAKARAN; SHIOTANI, KOGO
+
+### Dagdag
+鍵 = SUSI<br/>
+腱 = TENDON (アキレス腱; ACHILLES Heel)<br/>
+
+--> Sa unang basa ko, 腱 (TENDON), bagama't sa muling pagsusuri, nakita ko ang sulat ng 金 (SALAPI), kay 鍵 (SUSI);
+
+
+> 2022年9月27日 16時30分
+
+2022-09-27T16:30
+
+> 全日本ＩＤ（知的障がい者）柔道大会
+
+ID = Taong May Kapansanan sa Kaalaman<br/>
+<br/>
+Paligsahan ng JUDO ng mga ID sa Lahat ng Pinanggagalingan ng Araw<br/>
+<br/>
+日本 = Pinanggagalingan ng Araw; Bansang Hapon
+
+### Sanggunian:
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 
 ## [ロシアとジョージアの国境に3500台の車　動員逃れか](https://www.asahi.com/articles/ASQ9S00CFQ9RUHBI02R.html?iref=comtop_Topnews2_04); last accessed: 20220927
 
