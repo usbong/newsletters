@@ -29,6 +29,8 @@ anti-inflammatory : upang hindi maramdaman ito<br/>
 
 ### paalala
 
-ukol sa atay (liver), bawasan o iwasan ang pagkain ng sardinas, taba ng tuna, atbp;
+ukol sa atay (liver), bawasan o iwasan ang pagkain ng sardinas, taba ng tuna, atbp;<br/>
+--> (1989). NHK 肝臓病の食事 (NHK: Pagkain ng mga May-sakit sa Atay). 日本放送出版協会;<br/>
+--> <b>ISBN:</b> 4-14-033069-4 C2377
 
 
