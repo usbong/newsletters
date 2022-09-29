@@ -25,7 +25,7 @@ Sky Cable Corporation<br/>
 Manila Electric Co. (Meralco)<br/>
 National Grid Corporation of the Philippines (NGCP)<br/>
 <br/>
-Republic ACt No. 10515: Anti-Cable Television and Cable Internet Tapping Act of 2013<br/>
+Republic Act No. 10515: Anti-Cable Television and Cable Internet Tapping Act of 2013<br/>
 --> theft, malicious mischief<br/>
 
 ### Dagdag
