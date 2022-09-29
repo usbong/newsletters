@@ -12,6 +12,35 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（天声人語）死刑囚の肉声](https://www.asahi.com/articles/DA3S15430458.html?iref=comtop_Opinion_05); last accessed: 20220929
+
+>（天声人語）死刑囚の肉声
+
+Tinig ng Langit, Salaysay ng Tao:<br/>
+Hilaw na Tinig mula sa Bilanggo sa Parusang Kamatayan
+
+### Paalala
+
+肉声 : Hilaw na Tinig (ng Laman)
+
+> 有料記事
+
+May bayad na sulatin
+
+> 2022年9月29日 5時00分
+
+2022-09-29T05:00
+
+> １９世紀フランスの作家ビクトル・ユゴーに、『死刑囚最後の日』という作品がある。読むと自分が死刑を待つ身であるかのような気持ちになる。最後の望みは幼い娘からもういちど「パパ」と呼んでもらうことだったが、果たせずに終わる▼国家が人の命を奪うことへの疑問が伝わってくる。『レ・ミゼラブル』には「ギロチンを…
+
+Sa ika-19 na siglo, may sulatin ang Manunulat na si VIKTOR HUGO ng Pransiya: "Ang Huling Araw ng Bilanggo sa Parusang Kamatayan". Kapag binasa, mararamdaman kung paano kaya kung ako ang sariling naghihintay sa parusang kamatayan. Bagama't ang tawagin siya ng kanyang batang anak na babae ng "PAPA", ang kaniyang huling nais, matatapos ang sulatin nang hindi niya ito nakakamit. Ipinaaalam ng Kaharian ang tanong bilang pagduda ukol sa pagnakaw ng buhay ng tao. Sa "Les Misérables", "GUILLOTINE"...
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [（取材考記）障害者の大会にヒント　安全な柔道、ルールが鍵　塩谷耕吾](https://www.asahi.com/articles/DA3S15429191.html?iref=comtop_Opinion_02); last accessed: 2022098
 
 >（取材考記）障害者の大会にヒント　安全な柔道、ルールが鍵　塩谷耕吾
