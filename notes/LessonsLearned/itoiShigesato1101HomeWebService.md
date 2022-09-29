@@ -4,6 +4,28 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html; last accessed: 20220929
+
+> ・「やりかけ」だけが人生だ。
+
+### keyphrase:
+
+"Simulang gawin"<br/>
+<br/>
+Parating may sinisimulang gawin ang buhay.<br/>
+<br/>
+Batay sa hanap-buhay, maaaring ilang taon din bago matapos.<br/>
+<br/>
+Tulad sa sanggol, 2~3 din ang kakailanganin upang makapaglakad.<br/>
+<br/>
+Mayroon naman, kapag galingan natin, at buong gabing pagpupuyatang tapusin, maagang matatapos.<br/>
+<br/>
+Mayroon din naman, basta simulang gawin, at habang ginagawa, sa hindi namamalayang panahon,<br/> 
+tapos na pala.<br/>
+<br/>
+Sa simulang paggawa ng mga ito, maiging idagdag din ang "pahinga".<br/>
+
+
 ## https://www.1101.com/home.html; last accessed: 20220916
 
 ### Paalala
