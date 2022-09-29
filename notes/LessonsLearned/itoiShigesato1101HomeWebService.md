@@ -10,13 +10,13 @@ TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
 ### keyphrase:
 
-"Simulang gawin"<br/>
+"Simulang Gawin"<br/>
 <br/>
 Parating may sinisimulang gawin ang buhay.<br/>
 <br/>
 Batay sa hanap-buhay, maaaring ilang taon din bago matapos.<br/>
 <br/>
-Tulad sa sanggol, 2~3 din ang kakailanganin upang makapaglakad.<br/>
+Tulad sa sanggol, 2~3 taon din ang kakailanganin upang makapaglakad.<br/>
 <br/>
 Mayroon naman, kapag galingan natin, at buong gabing pagpupuyatang tapusin, maagang matatapos.<br/>
 <br/>
