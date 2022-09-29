@@ -12,7 +12,7 @@ ABADILLA, EMMIE V
 CRIMINAL ACTION robs steady internet and cable TV service<br/>
 
 ### Signatories:
-PLDT,<br/>
+PLDT<br/>
 Smart Communications Inc.<br/>
 Globe Telecom, Inc.<br/>
 Metroworks ICT Construction, Inc.<br/>
