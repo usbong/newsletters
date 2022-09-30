@@ -1,5 +1,26 @@
 # Lessons-learned: The Philippine STAR
 
+## "Chip shortage to affect LEO satellites" (20220930)
+
+### Author:
+
+ROSALES, ELIJAH FELICE
+
+### Keyphrase:
+
+LEO = Low Earth Orbit satellites<br/>
+<br/>
+Internet from Space<br/>
+--> Scheduled to be in market by December 2022<br/>
+--> download speed: 200Mbps; <br/>
+--> latency: 20ms<br/>
+<br/>
+Challenge: DELAY in CHIPS DELIVERY<br/>
+--> PLDT Inc. Vice-president and head of network design studio: SIENA, ARVIN<br/>
+<br/>
+CHIP DELAY due to pandemic;<br/>
+--> Manufacturing Hub: CHINA<br/>
+
 ## “Substantial compliance” (20220923)
 
 ### “A LAW EACH DAY [Keeps Trouble Away]” 
