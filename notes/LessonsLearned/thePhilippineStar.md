@@ -1,5 +1,29 @@
 # Lessons-learned: The Philippine STAR
 
+## "Globe raises P91 B from sale of towers" (20220930)
+
+### Author:
+
+ROSALES, ELIJAH FELICE
+
+### Keyphrase:
+
+Globe Telecom Inc.<br/>
+--> sold: telco towers valued @PHP 91 Billion<br/>
+--> 1,350units @valued PHP 20 Billion<br/>
+--> to: PhilTower Consortium Inc.<br/>
+<br/>
+--> 5,709units @valued PHP 71 Billion<br/>
+--> to: Manila Electric Co.'s subsidiary: Miescor Infrastructure Corp (MIDC)<br/>
+--> to: Frontier Tower Associates Philippines, Inc. (Infrastructure Operator)<br/>
+<br/>
+--> adds: towers mostly set in Visayas and Mindanao<br/>
+<br/>
+technique: sold then leased back to GLOBE for an initial period of 15years<br/>
+--> however, keeps 5,000units (approx) to operate and expand;<br/>
+<br/>
+--> adds: in April 2022, PLDT Inc. agreed to sell nearly 6,000 passive infrastructure to two (2) foreign tower operators for PHP 77 Billion
+
 ## "Chip shortage to affect LEO satellites" (20220930)
 
 ### Author:
