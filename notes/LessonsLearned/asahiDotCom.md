@@ -12,6 +12,37 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「欠席届、連絡帳が望ましい」謎ルール　なぜ電話やメールはダメなの](https://www.asahi.com/articles/ASQ8M5RWKQ83PTIL00Z.html?iref=comtop_ThemeLeftS_02); last accessed: 20220930
+
+> 「欠席届、連絡帳が望ましい」謎ルール　なぜ電話やメールはダメなの
+
+Pala-isipang PATAKARAN: "Upang dalhin tungo sa lumiban, nais ko ang Aklat sa Pakikipag-ugnayan"; Bakit? BAWAL ba ang Telepono at MAIL?
+
+> 有料記事
+
+May bayad na sulatin
+
+> 小若理恵2022年8月20日 11時00分
+
+KOWAKA, RIE; 2022-08-20T11:00
+
+### Pinaikling Pagbubuod
+
+> 電話での連絡が禁止されているわけではないが、「連絡帳が望ましい」という「謎ルール」があるためだ。
+
+Hindi naman ipinagbabawal ang pakikipag-ugnayan gamit ang telepono; Mayroon kasing "Pala-isipang PATAKARAN", kung saan nagsasabi ng "Nais ko ang Aklat sa Pakikipag-ugnayan".
+
+>　放課後は、同じクラスの友だちが連絡帳と宿題を自宅まで持ってきてくれる。
+
+Pagkatapos ng aralin, dadalhin ng kaibigan sa katulad na KLASE tungo sa bahay (ng lumiban) ang Aklat sa Pakikipag-ugnayan at ang Takdang-aralin.
+
+> 学校には保護者にとって負担になるルールが多くある。不合理な慣習なのに長く続いていたり、時代遅れだったり。こうしたルールを変えるのは難しいのだろうか。親たちの声を取材した。
+
+Sa Paaralan, maraming mga PATAKARAN ang inaako ng mga Tagapagtanggol. Wala na ngang dahilan ang kinagawian, matagal itong nagpapatuloy, huli man sa panahon, atbp. Mahirap ba kayang baguhin ang ganitong PATAKARAN? Kinalap ang tinig ng mga Magulang.
+
+### Sanggunian
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [（天声人語）死刑囚の肉声](https://www.asahi.com/articles/DA3S15430458.html?iref=comtop_Opinion_05); last accessed: 20220929
 
 >（天声人語）死刑囚の肉声
