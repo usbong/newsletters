@@ -12,6 +12,32 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+
+## [（天声人語）今日から「中の人」](https://www.asahi.com/articles/DA3S15432695.html?iref=comtop_Opinion_05); last accessed: 20221001
+
+>（天声人語）今日から「中の人」
+
+Tinig ng Langit, Salaysay ng Tao: Mula ngayong araw, "Tao sa Loob"
+
+> 有料記事
+
+May bayad na sulatin
+
+> 2022年10月1日 5時00分
+
+2022-10-01T05:00
+
+>　天声人語は「おじさん」が書くものだと思っていた。イラストレーターの益田ミリさんが以前、本紙のエッセーで「天声人語の人」を空想していた。朝日新聞社屋の最上階の秘密部屋でハンモックに揺られる麻シャツを着た人――も、おじさんだったのでは▼実際、戦後１５人いた歴代筆者は全員が男性だったのだ。ジェンダー平等…
+
+Inisip kong "Tito" ang nagsusulat ng Tinig ng Langit, Salaysay ng Tao. Pinaginipan ko ang tungkol sa ILLUSTRATOR na si Gng. MASUDA, MIRI na noon, dito sa ESSAY, Tao ng "Tinig ng Langit, Salaysay ng Tao". Sa Lihim na Silid sa Pinakaitaas na palapag ng Samahan ng Pahayagan ng ASAHI, may tao ring nakasuot ng damit abaka at dinuduyan ng HAMMOCK... Si Tito▼Ang sa katunayan, sa kasaysayan pagkatapos ng digmaan, lahat ng 15 Manunulat, lalake. Patas ang Kasarian...
+
+### Paalala: 空想 : Pinagnilayan sa kawalan, pinaginipan
+
+> この記事は有料記事です。残り458文字有料会員になると続きをお読みいただけます。
+
+May bayad na sulatin po ito. Maaari niyo pong mabasa ang kasunod na 458 na titik kapag naging nagbabayad na kasapi na po kayo.
+
 ## [「欠席届、連絡帳が望ましい」謎ルール　なぜ電話やメールはダメなの](https://www.asahi.com/articles/ASQ8M5RWKQ83PTIL00Z.html?iref=comtop_ThemeLeftS_02); last accessed: 20220930
 
 > 「欠席届、連絡帳が望ましい」謎ルール　なぜ電話やメールはダメなの
