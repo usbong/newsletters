@@ -1,5 +1,38 @@
 # Lessons-learned: The Philippine STAR
 
+
+## “Oral vs written” (20220907; FRIDAY)
+
+### “A LAW EACH DAY [Keeps Trouble Away]” 
+
+### Author:
+
+SISON, JOSE C
+
+### Keyphrase:
+
+genuine<br/>
+<br/>
+"toka" : oral <br/>
+-> where: 1/2 partition of a parcel of land given to son, Romy,<br/> 
+--> and the other 1/2 given to daughter, Fely;<br/>
+--> Total: 2,696 square meters property located in Laguna<br/>
+
+—> complaint: by Romy's wife, Betty, that Deed of Absolute Sale<br/> 
+--> to Technology Resource Center (TRC) by Fely to have non-genuine signatures;
+
+### Output#1:  Regional Trial Court (RTC) dismissed complaint; 
+--> due to "toka" is VOID;
+
+### Output#2: Court of Appeals (CA) reversed ruling;
+
+—> due to clear via keyphrase genuine<br/>
+—> Supreme Court (SC) ruled that CA is CORRECT;
+
+###
+General Register (G.R.) No. 214419<br/>
+2022-08-03
+
 ## "Globe raises P91 B from sale of towers" (20220930)
 
 ### Author:
