@@ -1,5 +1,19 @@
 # Lessons-learned: The Philippine STAR
 
+## "Better than optimism" (20221002; SUNDAY)
+
+### Business Matters: Beyond the Bottom Line
+
+### Author:
+
+KONG, FRANCIS K
+
+### keyphrase: 
+
+faith over optimism; 
+
+### USBONG Recommended Action: 
+--> IF system has error, file incident report
 
 ## “Oral vs written” (20220907; FRIDAY)
 
