@@ -1,5 +1,40 @@
 # Lessons-learned: The Philippine STAR
 
+## "P2.25-B tax evasion cases filed in 8 months" (20221001; SATURDAY)
+
+### Author:
+
+SIMEON, LOUISE MAUREEN
+
+### Keyphrase:
+
+Bureau of Internal Revenue (BIR)<br/>
+--> Philippines' biggest revenue generating agency<br/>
+--> filed: 78 cases of tax evasion valued @PHP2.25 Billion as of end-2022-08<br/>
+--> 78 cases : 78 CRIMINAL complaints identified and classified from 2022-01~2022-08<br/>
+<br/>
+--> Run After Tax Evaders (RATE); started by Department of Finance in Year 2005<br/>
+--> 11 revenue regions include among others:<br/> 
+--> Makati City, Coloocan, Manila, Quezon City; South and East Metro Manila, Cebu City, Calasiao, Pampanga<br/>
+<br/>
+--> emphasis: CRIMINAL nature of tax evasion
+
+### Dagdag
+
+#### Oplan Kandado
+
+https://www.bir.gov.ph/images/bir_files/old_files/pdf/oplan_kandado_web_program.pdf; last accessed: 20221003
+
+Select Parts:<br/>
+
+
+> BIR implements nationwide “Oplan Kandado” ON JANUARY 23,  2009,  the  BIR  issued  Revenue  Memorandum  Order  (RMO)  No. 3-2009 to implement a nationwide “Oplan Kandado” Program. Under  the  program,  businessoperations  of  non-compliant  taxpayers  will  be suspended  and  their  establishments  will  be  temporarily  closed  if  they  will  be  found to have violated certain tax laws.
+
+
+> Pursuant  to  the provisions  of  the  said  RMO,  business  operations  can  be suspended  or  temporarily  closed  forthe  followinggrounds:  failure  to  issue receipts or invoices by a VAT-registered  or  registrable  taxpayer; failure to file a VAT return;  understatement  of  taxable  sales  or  receipts  by  30%  or  more  of  the  correct  amount  thereof  in  the  case  of  a  VAT-registered or  registrable  taxpayer; or failure to  register.  The  closure  of  a  business  establishment  shall  last  for a period  of  not  less  than  five  (5)  days,  and  shall  be  in  force  until  the  violation  is  rectified by the concerned taxpayer. 
+
+
+
 ## "Better than optimism" (20221002; SUNDAY)
 
 ### Business Matters: Beyond the Bottom Line
