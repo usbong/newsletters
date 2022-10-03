@@ -12,6 +12,47 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [コロナ禍の1年半で国際情報五輪メダル獲得　渋幕生が語る魅力と進路](https://www.asahi.com/articles/ASQB1577XQ9PULZU00N.html?iref=comtop_Tech_science_02); last accessed: 20221003
+
+> コロナ禍の1年半で国際情報五輪メダル獲得　渋幕生が語る魅力と進路
+
+Sa isa't kalahating taon ng CORONA VIRUS, naka-ani ng OLYMPIC na MEDALYA sa Pandaigdigang Balita; Mag-aaral ng MAKUHARI, SHIBUYA, Nagsalaysay ukol sa Naka-aakit at ang Pagsulong na Daan
+
+> 有料記事変わる進学
+
+May bayad na sulatin; Nagbabagong Pagsulong sa Pag-aaral
+
+> 聞き手・編集委員 宮坂麻子2022年10月3日 7時30分
+
+Tagapakinig/Tagpagbuklod: MIYASAKA, ASAKO; 2022-10-03T07:30
+
+### Pinaikling Pagbubuod
+
+> 国際大会で、昨年は銀メダル、今年は金メダルを獲得し、日本の「世界１位」に貢献した、渋谷教育学園幕張高校3年の渡辺雄斗さん（17）に聞いた。
+
+Sa Pandaigdigang Paligsahan, sa nakaraan taon, naka-ani ng PILAK na MEDALYA, sa kasalukuyang taon, GINTONG MEDALYA, naglingkod bilang "Bilang 1 ng Daigdig" mula sa Bansang Hapon. Tanungin natin si G. WATANABE, YUTO (17), ika-tatlong taon sa Mataas na Paaralan ng Makuhari sa SHIBUYA.
+
+### Paalala
+
+教育学園 : Paaralan ng Pagtuturo't Pag-aalaga
+
+>　一番の魅力は、ゲーム感覚で楽しめることですね。アルゴリズムを考えるのも、僕のように、論理パズルなどが好きな人には向いていると思います。
+
+Ito ang pinakanaka-aakit: ang pagiging maligaya dahil sa pakiramdam na LARO. Sa pagninilay din ukol sa ALGORITHM, sa aking isipan, umaayon ito sa taong mahilig ng LOHIKAL na PUZZLE tulad ko po.
+
+>　プログラミングをしたことの…
+
+COMPUTER PROGRAMMING...
+
+### Dagdag
+
+> The International Olympiad in Informatics (IOI)
+
+https://ioinformatics.org/; last accessed: 20221003
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
 
 
 ## [（天声人語）今日から「中の人」](https://www.asahi.com/articles/DA3S15432695.html?iref=comtop_Opinion_05); last accessed: 20221001
