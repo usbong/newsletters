@@ -28,11 +28,10 @@ https://www.bir.gov.ph/images/bir_files/old_files/pdf/oplan_kandado_web_program.
 Select Parts:<br/>
 
 
-> BIR implements nationwide “Oplan Kandado” ON JANUARY 23,  2009,  the  BIR  issued  Revenue  Memorandum  Order  (RMO)  No. 3-2009 to implement a nationwide “Oplan Kandado” Program. Under  the  program,  businessoperations  of  non-compliant  taxpayers  will  be suspended  and  their  establishments  will  be  temporarily  closed  if  they  will  be  found to have violated certain tax laws.
+> BIR implements nationwide “Oplan Kandado” ON JANUARY 23,  2009,  the  BIR  issued  Revenue  Memorandum  Order  (RMO)  No. 3-2009 to implement a nationwide “Oplan Kandado” Program. Under  the  program,  business operations  of  non-compliant  taxpayers  will  be suspended  and  their  establishments  will  be  temporarily  closed  if  they  will  be  found to have violated certain tax laws.
 
 
-> Pursuant  to  the provisions  of  the  said  RMO,  business  operations  can  be suspended  or  temporarily  closed  forthe  followinggrounds:  failure  to  issue receipts or invoices by a VAT-registered  or  registrable  taxpayer; failure to file a VAT return;  understatement  of  taxable  sales  or  receipts  by  30%  or  more  of  the  correct  amount  thereof  in  the  case  of  a  VAT-registered or  registrable  taxpayer; or failure to  register.  The  closure  of  a  business  establishment  shall  last  for a period  of  not  less  than  five  (5)  days,  and  shall  be  in  force  until  the  violation  is  rectified by the concerned taxpayer. 
-
+> Pursuant  to  the provisions  of  the  said  RMO,  business  operations  can  be suspended  or  temporarily  closed  for the  following grounds:  failure  to  issue receipts or invoices by a VAT-registered  or  registrable  taxpayer; failure to file a VAT return;  understatement  of  taxable  sales  or  receipts  by  30%  or  more  of  the  correct  amount  thereof  in  the  case  of  a  VAT-registered or  registrable  taxpayer; or failure to  register.  The  closure  of  a  business  establishment  shall  last  for a period  of  not  less  than  five  (5)  days,  and  shall  be  in  force  until  the  violation  is  rectified by the concerned taxpayer. 
 
 
 ## "Better than optimism" (20221002; SUNDAY)
