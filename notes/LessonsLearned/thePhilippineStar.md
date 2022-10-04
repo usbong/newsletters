@@ -1,5 +1,73 @@
 # Lessons-learned: The Philippine STAR
 
+## "AMLC freezes assets worth P8 B" (20221004; TUESDAY)
+
+### Author
+
+AGCAOILI, LAWRENCE
+
+### Keyphrase
+
+illegal drugs, terrorism<br/>
+--> adds: Teroristang Komunista/BUDOL-BUDOL/<br/>
+--> CARNAPPER/SMUGGLER/CYBERCRIMINAL/MANLOLOKO group
+
+#### Anti-Money Laundering Council (ALMC)
+
+froze: assets valued @P8 Billion<br/>
+--> P3 Billion, forfeited over 20 years
+
+#### Republic Act 9160: Anti-Money Laundering Act of 2001 (AMLA)
+
+#### Financial Intelligence Unit
+
+investigates: suspicious transactions<br/>
+--> where: suspicious : hinala;<br/>
+--> due to: money laundering, terrorist financing
+
+#### AMLA and RA 10168: Terrorism Financing Prevention and Suppression Act
+
+#### ACTION
+
+January ~ June 2022<br/>
+--> filed: five petitions to execute freeze order with value @PHP 458.08 million<br/>
+--> bank accounts valued @PHP 401.97 million<br/>
+--> 11 real estate properties valued @PHP 36.21 million<br/>
+--> 7 motor vehicles valued @PHP 7.63 million
+
+#### Example Offenses
+
+##### Offense#1: Illegal drugs
+--> bank accounts valued @PHP 401.97 million <br/>
+--> real estate properties valued @PHP 36.21 million<br/>
+--> motor vehicles valued @PHP 7.73 million<br/>
+--> other monetary assets valued @PHP 8.07 million
+
+###### Civil Forfeiture linked to Illegal Drugs
+
+--> PHP 65.4 million<br/>
+--> real estate properties: PHP 5.56 million and USD 4,752<br/>
+--> motor vehicles: PHP 1.43 million
+
+##### Offense#2: Terrorism Financing
+
+--> freeze order: PHP 2.15 million<br/>
+--> civil forfeiture: PHP 585,518; USD 3,571 and EURO 5,062
+
+#### Offense#3: Corruption
+
+--> civil forfeiture: PHP 138,836
+
+#### Offense#4: Fraud
+
+--> PHP 330,702
+
+### Global Dirty Money Watchdog List
+
+To be removed in list, Financial Action Task Force (FATF)<br/>
+--> executes: increase in strength against anti-money laundering <br/>
+--> fights: financing of terrorism measures
+
 ## "Passport power" (20221004; TUESDAY)
 
 ### Author
