@@ -4,6 +4,59 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html; last accessed: 20221004
+
+Sa paglaki ng tao, tiyak may panahon
+kung kailan nagiging "palaban".<br/>
+<br/>
+Mukhang karaniwang nangyayari ito sa tao, lumalakas man o humihina mula rito.<br/>
+<br/>
+Sa aking sariling anak, hindi ko na maalala ang ika-unang panahon ng kaniyang pagiging palaban, bagama't naaalala ko pa ang ika-dalawa nito.<br/>
+<br/>
+Sa kasaysayan ng tao, nitong mga taon lamang marahil natuklasan itong "palaban na panahon". <br/>
+<br/>
+Sa panahon kung kailan wala pa ang ganitong salita, naunawaan na rin kaya nila ang "Huwag kang labis na taliwas!"? 
+
+## Palaban : "Pasaway", Sumpungin
+--> adds: "Pasaway" : Pinoy Big Brother
+
+<br/>
+Kailangan nga ba talaga itong palaban na panahon? Tulad sa pagkatuto ng paglalakad at paglalangoy?<br/>
+<br/>
+Malamang, oo.<br/>
+<br/>
+Pagsasanay ang panahong ito, lalo na kapag maaari pang mapatawad.<br/>
+<br/>
+
+> じぶんの身の回りに起こるさまざまな出来事に対して、<br/>
+>　すべてを受け入れていたら、危険にあうことだってある。<br/>
+>　急に「それはちがう」と思ったとしても、<br/>
+>　イヤイヤの練習を経てなかったら<br/>
+>　どうすることもできずに固まっているだけかもしれない。<br/>
+ 
+Sa samu't saring mga bagay na nagaganap sa ating paligid, mapanganib kapag lahat tinanggap natin.<br/>
+<br/>
+Kahit bigla nating isiping, "Mali iyan", kapag hindi tayo dumaan sa pagsasanay ng pagiging palaban, hindi natin magagawa kung ano ang gagawin, at baka manigas lamang tayo.<br/>
+
+### --
+
+Madalas, isinasalaysay bilang pandaigdigang kaalaman ang 'laking hirap ng pagbabago, kapag hindi nakapaglaro noong panahon ng kabataan, at tumandang labis na malalalim ang mga pinagtutuunan.<br/>
+<br/>
+Ganoon din kung wala ang "palaban na panahon".<br/>
+<br/>
+Maiging kilalanin din natin ang paggawa ng mga pagpapanggap, porma, pagkukunwari, atbp.<br/>
+<br/>
+"Habang nasa kabataan, damihan mo ang pagkakamali!"<br/>
+<br/>
+Higit ngang maiging magaan ang ating pagninilay sa mga kabataan.<br/>
+<br/>
+Hindi ba, kapag tayo ang sariling gumagawa ng "pagiging palaban", sinasabi nating "pakikipagsapalaran" kasi iyon?
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## https://www.1101.com/home.html; last accessed: 20220929
 
 > ・「やりかけ」だけが人生だ。
