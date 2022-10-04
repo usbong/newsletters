@@ -40,6 +40,11 @@ Japan opens after 2 and 1/2 years;<br/>
 --> TOURISM : boosts goverment and local business to be at par with U.S.A.<br/>
 --> adds: via U.S.A. Dollars
 
+### Note Technique
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/thePhilippineStar20221004-PassportPowerKatigbagTonyFSelectPartsNoteTechnique.jpeg" width="60%">
+
+
 
 ## "P2.25-B tax evasion cases filed in 8 months" (20221001; SATURDAY)
 
