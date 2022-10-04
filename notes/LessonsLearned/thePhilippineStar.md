@@ -1,5 +1,46 @@
 # Lessons-learned: The Philippine STAR
 
+## "Passport power" (20221004; TUESDAY)
+
+### Author
+
+KATIGBAK, TONY F
+
+### Keyphrase
+
+PHILIPPINE PASSPORT, VISA
+
+#### VISA Application Requirements
+Employment Certifications, Income-Tax Returns (ITRs), 
+Bank Statements
+
+### PHILIPPINE PASSPORT RANK
+
+Henley and Partners Global Passport Index: 80 of 199
+
+--> 80 : 67 countries, without need of VISA;<br/>
+--> "POWERFUL PASSPORTS": Japan (193), Singaore and South Korea (192), Germany (190)
+
+### PASSPORT RANK OUTPUT
+
+Travel Mobility and Agility
+
+### PASSPORT RANK INPUT
+
+INCOME via Gross Domestic Product (GDP) per capita<br/>
+<br/>
+DOMESTIC "FRAGILITY/SECURITY";<br/>
+where: SECURITY : STABLE<br/>
+where: PEACEFUL, i.e. less violence and organized crime<br/>
+--> U.S.A. PASSPORT RANK?
+
+### Dagdag
+
+Japan opens after 2 and 1/2 years;<br/>
+--> TOURISM : boosts goverment and local business to be at par with U.S.A.<br/>
+--> adds: via U.S.A. Dollars
+
+
 ## "P2.25-B tax evasion cases filed in 8 months" (20221001; SATURDAY)
 
 ### Author:
