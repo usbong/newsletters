@@ -4,6 +4,117 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html; last accessed: 20221006; from 20221005
+
+Samu't saring bagay ang ating ginagawa nang hindi umaayaw.
+
+Ang sa katunayan, sa simula't simula pa, 
+talagang mukhang madalas akong umayaw.
+
+Sapagkat alam kong umaayaw ako sa mga karaniwang bagay,
+pinagnilayan ko kung ano ang aking gagawin upang hindi umayaw.
+
+Kaya naman, kinalaunan, nagawa kong gumawa ng mga bagay-bagay nang hindi umaayaw.
+
+Sa aking isipan, ganoon din naman kasi ang mga ibang tao.
+
+(Sabihin ko kaya pagkatapos sadyang gumawa ng panibagong pahalang?)
+
+
+・いろんなことを、飽きもせずにやっている。
+　ぼくは、実は、もともととても飽きっぽい。
+　たいていのことは飽きるのがわかっているし、
+　飽きないためにはどうしようかばかり考えている。
+　だから、やっと飽きないでやれている。
+　他の人だって、たぶんそうなんだと思う。
+　（わざわざ改行して、言ってやろうかな）
+
+
+　人生は飽きとの戦いだ。
+
+Pakikipaglaban sa pag-ayaw ang buhay tao.
+
+　飽きているのにやり続けることはつらい。
+
+Mahirap magpatuloy ng gawain kapag umaayaw.
+
+　しかし、飽きはじめてからこそ身につくこともあ
+る。
+
+Gayunman, dahil kapag nagsimula nang umayaw, mayroon ding bagay na natututunan.
+
+　まったく変化がないことに、人は耐えられないだろう。
+
+Ito kaya ang pagiging hindi matiisin sa tao na hindi na nagbabago?
+
+　だから飽きているところで、変化を見つけたりもする。
+
+Kung kaya't, kapag umaayaw na, nahahanap din ang pagbabago, atbp.
+
+　飽きそうになったとき、新しい問題を探し出す。
+
+Sa panahong umayaw na, maghahanap ng panibagong suliranin.
+
+　いままでよりも、難しいことをやってみたくなる。
+
+Nanaising subukang gumawa pa ng higit kaysa sa kasalukuyang mahirap na bagay.
+
+　難しさに対面することで、飽きから解放してもらえる。
+
+Sa pagharap upang labanan ang kahirapan, nakatatanggap ng paglaya mula sa pag-ayaw.
+
+　やったことのない難しい問題は、つらいことも多いけど、
+
+Marami mang hirap ang mga suliraning hindi pa nalulutas,
+
+　飽きからは救われたりする。
+
+naliligtas tayo ng pag-aayaw, atbp.
+
+　人生はつらさとの戦いよりも、
+　どうやらやっぱり飽きとの戦いだ、と思う。
+
+Higit pa sa pakikipaglaban sa kahirapan ang buhay; Sa aking isipan, mukhang ang sa katunayan, pakikipaglaban ito sa pag-aayaw.
+
+　人は小さな子どものころから、ずうっと、
+
+Mula pakabata, tuluy-tuloy tayong sinasamahan ng "Nais kong magawa ito, nais kong malaman dahil hindi ko alam".
+
+　「できるようになりたい、わからないから知りたい」
+　ということと付き合ってきている。
+
+　それはもう子どもにとっての遊びそのものだ。
+
+Laro na ang mga bagay na iyon ayon sa mga bata.
+
+　だけど、これって大人になっても同じじゃないか。
+
+Gayunman, hindi pa katulad din ito kahit sa mga tumanda na?
+
+　飽きかけているときには、
+　「できるようになりたい、わからないから知りたい」が、
+　どこかに蒸発しかけているような気がする。
+
+Sa panahon kung kailan nagsimulang umayaw, pakiramdam kong magsisimula mula sa kung saan, lumabas ang init ng "Nais kong magawa ito, nais kong malaman kasi hindi ko alam".
+
+　子どもたちが遊んでいるように、大人たちだって、
+　毎日の遊びや生活のなかに、仕事や計画のなかに、
+　「できるようになりたい、わからないから知りたい」
+　があるものなんだと思うよ
+　（それが、てっとり早く手に入れられるのが、
+　おそらくよくできたゲームってものなんだろうな）。
+
+　じぶん自身が、飽きとの戦いをずっとやってきて思う。
+　すべてに飽きたら、死んじゃうってことだもんねー。
+
+Kapag inayawan na natin ang lahat, 
+
+今日も、「ほぼ日」に来てくれ
+
+### Dagdag
+
+1) Unawain
+
 ## https://www.1101.com/home.html; last accessed: 20221004
 
 Sa paglaki ng tao, tiyak may panahon
