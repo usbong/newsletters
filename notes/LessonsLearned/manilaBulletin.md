@@ -1,5 +1,42 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Toyota PH enhances used vehicle program" (20221006)
+
+### Author
+
+CAHILES-MAGKILAT, BERNIE
+
+### Keyphrase
+
+Toyota Motor Philippines (TMP)<br/>
+<br/>
+--> used vehicle program<br/>
+--> since 10 years ago<br/>
+<br/>
+--> renamed: from Toyota Certified Used Program (TCUV), <br/>
+--> to "Toyota Quality Pre-owned Cars (T-Sure)"
+
+#### Worry-free Car Purchase Options:
+--> quality, value, safety, excellent service
+
+#### TMP Senior Vice President for Marketing
+
+TOIYA, MASATOSHI<br/>
+<br/>
+"T" : TOYOTA<br/>
+"Sure" : trustworthiness<br/>
+
+#### ACTION
+
+expand via increase in T-Sure dealer outlets<br/>
+--> to offer: trade-in and sale of pre-owned cars
+<br/>
+--> T-Sure Retail: 29 outlets (as of 2022-09)<br/>
+--> objective#1: increase to 33<br/>
+--> objective#2: affordable T-Sure vehicles<br/> 
+--> via longer payment terms AND expanded coverage (up to 9-year old vehicles)
+
+
 ## "Telcos battle illegal cable cutting" (20220927)
 
 ### Author:
