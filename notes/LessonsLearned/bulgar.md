@@ -1,5 +1,28 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "6 YRS. KULONG, P1M MULTA SA FAKE KIDNAPPING" (20221006)
+
+### Author
+
+BRT
+
+### Keyphrase
+
+hoax, fake kidnapping
+
+#### Lone District Rep. (Santa Rosa City) FERNANDEZ, DAN: 
+
+##### Pagbubuod
+
+> Ang biktima ang siyang nagpaplano ng pagdukot sa kanya para tubusin ito ng kanyang pamilya kapalit ang malaking halaga ng ransom na siya rin mismo ang makikinabang.
+
+#### House Bill No. 539 against fake kidnapping
+--> where: parusa sa sangkot : 6 mos ~ 6 years prison sentence AND penalty fee of PHP 100K~ 1 Million
+
+#### PNP Anti-Kidnapping Group (PNP-AKG): 
+25\~kaso ng hoax kidnapping sa Pinas ang naitala 2017~2019  
+
+
 ## “GAMITIN ANG ANTI-INFLAMMATORY DIET PARA MAIWASAN ANG MGA SAKIT” (20220913)
 
 ### author:
