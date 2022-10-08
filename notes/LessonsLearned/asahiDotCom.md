@@ -12,6 +12,35 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [グーグルCEO、日本に「1千億円投資」　データセンター23年稼働](https://www.asahi.com/articles/ASQB766ZCQB7ULFA03Y.html?iref=comtop_Business_04); last accessed: 20221008
+
+> グーグルCEO、日本に「1千億円投資」　データセンター23年稼働
+
+GOOGLE CEO, sa Bansang Hapon "Naglaan ng 100 Bilyong YEN"; <br/>
+DATA CENTER, Maghahanap-buhay sa Taong 2023
+
+### Paalala
+CEO = Chief Executive Officer; EXECUTE;<br/>
+稼働 : Paghahanap-buhay nang nag-iipon;
+
+> 女屋泰之、渡辺淳基2022年10月7日 20時00分
+
+ONAYA, YASUYUKI; WATANABE, JUNKI; 2022-10-07T20:00
+
+> 米グーグルは7日、千葉県印西市に建設中の日本で同社初となるデータセンターについて、2023年に稼働を始めると発表した。同時に建設中の海底ケーブルなどと合わせ、24年までに総額1千億円を投じる計画だという。日本の消費者向けのインターネットサービスの高速化と安定化を高める狙いがある。
+
+>　グーグルと親会社の米アルファベットでCEO（最高経営責任者）を務めるスンダー・ピチャイ氏がホームページ上で明らかにした。
+
+>　データセンターのほか、グーグルが主導している日本とカナダ西海岸を結ぶ海底ケーブルの建設や、日本国内での人材育成への投資も予定している。海底ケーブルは23年に開通する見通しという。
+
+>　ピチャイ氏は「日本とグローバルなデジタルエコノミーとの架け橋としての役割をさらに強化していく」と説明。来日中のピチャイ氏はこの日、首相官邸を訪ね、岸田文雄首相とも面会した。
+
+>　面会に先立ち、ピチャイ氏は東京・渋谷で開かれたグーグルの新製品発表会に登壇した。報道陣に対し、「日本は今までも世界の先進的な技術の最先端にいる。グーグルが引き続き日本の未来に関わることをうれしく思う」と語った。（女屋泰之、渡辺淳基）
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [コロナ禍の1年半で国際情報五輪メダル獲得　渋幕生が語る魅力と進路](https://www.asahi.com/articles/ASQB1577XQ9PULZU00N.html?iref=comtop_Tech_science_02); last accessed: 20221003
 
 > コロナ禍の1年半で国際情報五輪メダル獲得　渋幕生が語る魅力と進路
