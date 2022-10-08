@@ -4,6 +4,58 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=V40sMUAE5ek; last accessed: 20221008
+
+開発チーム：　必殺技上<br/>
+remembers: ＨＵＮＧＡＲＩＡＮ　ＮＯＴＡＴＩＯＮ (Microsoft C technique)<br/>
+<br/>
+remembers: from ラベル, FINAL FANTASY ADVENTURE<br/>
+--> https://www.jp.square-enix.com/seiken/en/ (MOBILE)<br/>
+--> 岡本吉起氏のアーケード話<br/>
+
+### ラベル名
+ＡＴＴＡＣＫ<br/>
+必殺技：　ＳＰＥＣＩＡＬ<br/>
+<br/>
+弱攻撃：　ＡＴＴＡＣＫ１<br/>
+スマッシュ：　ＡＴＴＡＣＫ４<br/>
+
+#### コンビ
+ＡＴＴＡＣＫ１１<br/>
+ＡＴＴＡＣＫ１２<br/>
+ＡＴＴＡＣＫ１３<br/>
+
+#### ファイル名
+AttackAirHi<br/>
+AttackAirLw<br/>
+AttackAirN<br/>
+AttackAirS<br/>
+
+<br/>
+が、ゲームプレイヤーだと<br/>
+HiAttackAir <br/>
+LwAttackAir<br/>
+
+### 合理的な理由
+開発チームに対して、<br/>
+名前を整理すると<br/>
+ばらばらになってしまうからだ<br/>
+<br/>
+で、プレイヤーに対して、操作で、<br/>
+方向から入る、だと<br/>
+<br/>
+
+notes: 海外にいる僕らが、日本開発チームと働くと、注意することなど
+
+### --
+
+海外の人と開発するので、<br/>
+なるべくローマ字でなく、<br/>
+英語でファイル名を使って良いと<br/>
+<br/>
+ＹＵＭＩ　Ｘ<br/>
+ＢＯＷ　Ｏ<br/>
+
 ## https://www.youtube.com/watch?v=YbYdyyWgr6Y; last accessed: 20220919; from 20220918
 > ゲームに与える賞<br/>
 > 218,065 views; from 202,231 <br/>
