@@ -7,10 +7,10 @@ TO-DO: -update: this
 ## https://www.youtube.com/watch?v=V40sMUAE5ek; last accessed: 20221008
 
 開発チーム：　必殺技上<br/>
-remembers: ＨＵＮＧＡＲＩＡＮ　ＮＯＴＡＴＩＯＮ (Microsoft C technique)<br/>
+remembers: Hungarian Notation (Microsoft C technique)<br/>
 <br/>
 remembers: from ラベル, FINAL FANTASY ADVENTURE<br/>
---> https://www.jp.square-enix.com/seiken/en/ (MOBILE)<br/>
+--> https://www.jp.square-enix.com/seiken/en/ (MOBILE); last accessed: 20221008<br/>
 --> 岡本吉起氏のアーケード話<br/>
 
 ### ラベル名
