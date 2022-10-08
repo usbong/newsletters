@@ -2,6 +2,28 @@
 
 TO-DO: -verify: English to Filipino language translation
 
+## https://www.gamedeveloper.com/business/valves-latest-steam-deck-trailer-briefly-plugs-a-nintendo-switch-emulator; last accessed: 20221008
+
+> Chris Kerr<br/>
+> News Editor<br/>
+> October 07, 2022
+
+Valve Steam Deck<br/>
+--> plugs: Nintendo Switch emulator Yuzu
+
+> For those unfamiliar with the name, Yuzu is billed as an experimental open-source emulator for Nintendo Switch that was, according to its creators, written in C++ with portability in mind.
+
+NINTEDO: against illegal ROM software<br/>
+EXAMPLE ROM websites:<br/>
+<br/>
+RomUniverse<br/>
+--> $2.1 million in damages<br/>
+-->  "permanently destroy" pirated Nintendo software<br/>
+<br/>
+LoveROMS, LoveRetro<br/>
+--> $12.23 million judgement
+
+
 ## https://www.gamedeveloper.com/business/-i-frostpunk-i-developer-11-bit-to-end-giving-steam-keys-to-curators; last accessed: 20220903
 
 >    Justin Carter
