@@ -13,7 +13,7 @@ Valve Steam Deck<br/>
 
 > For those unfamiliar with the name, Yuzu is billed as an experimental open-source emulator for Nintendo Switch that was, according to its creators, written in C++ with portability in mind.
 
-NINTEDO: against illegal ROM software<br/>
+NINTENDO: against illegal ROM software<br/>
 EXAMPLE ROM websites:<br/>
 <br/>
 RomUniverse<br/>
@@ -23,6 +23,26 @@ RomUniverse<br/>
 LoveROMS, LoveRetro<br/>
 --> $12.23 million judgement
 
+### Additional Reference
+
+#### Piracy Overseas (in Year 1993)
+
+Nintendo of America, et al: against the following:<br/>
+
+> Taiwan, Korea, Venezuela, Mexico, Brazil, Argentina, Ecuador, Uruguay, Singapore, and China
+
+--> loses: 2 Billion USD annually due to software piracy<br/>
+
+#### Additional Notes
+--> notes: software copying executed @such countries,<br/> 
+--> to be exported to countries, e.g. Philippines<br/>
+--> where: sharing of technology and know-how DELAYED;<br/>
+--> adds: when know-how has increased to cause increase in DEVELOPERS,<br/> 
+--> software piracy decreases;
+
+#### Reference
+
+McDermot, l., et al. (1993). "GamePro (May 1993)". USA: GamePro Publishing Inc.
 
 ## https://www.gamedeveloper.com/business/-i-frostpunk-i-developer-11-bit-to-end-giving-steam-keys-to-curators; last accessed: 20220903
 
