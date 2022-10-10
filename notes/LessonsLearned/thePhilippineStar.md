@@ -1,5 +1,58 @@
 # Lessons-learned: The Philippine STAR
 
+## “Wrong remedy” (20221007; FRIDAY)
+
+### “A LAW EACH DAY [Keeps Trouble Away]”
+
+### Author
+
+SISON, JOSE C
+
+### Keyphrase
+
+Lot No. 527; Original Certificate of Title (OCT) No. 28907<br/>
+--> lost due to error in "reconstitution"<br/>
+--> where: reconstitution : register
+
+### Ownership History
+
+Protacio<br/>
+5 children: Dante, Victor, Alice, Celia, Lina<br/>
+--> Ernesto (Son of Dante)
+
+
+### BATTLE
+
+Hiers of Ernesto v.s. Siblings of Ernesto
+<br/>
+--> Ernesto claimed ownership via Petition for Reconstitution<br/> 
+--> before the Court of First Instance (CFI) and Transfer Certificate of Title (TCT) No. 2345<br/>
+--> received: approval by CFI<br/>
+<br/>
+--> filed: by Siblings, ACTION for "Quieting of Title"<br/> 
+--> before the Regional Trial Court (RTC) to classify TCT No. 2345 to be "null and void"<br/>
+<br/>
+--> filed: by Heirs, APPEAL before the Court of Appeals (CA)
+
+### Output
+
+CA: TCT should NOT have been issued to Ernesto<br/>
+<br/>
+--> adds: however, "null and void" INCORRECT, due to for annulment of judgement before the CA;<br/>
+--> IF before the RTC, action for "reconveyance";<br/>
+--> where: reconveyance : transfer
+
+#### Objective
+
+> "what is sought... is the transfer of the property which has been wrongfully or erroneously registered in another person's name, to its rightful and legal owner, or to the one with a better right."
+
+#### --
+
+Heirs of Procopio Borras etc. vs. Heirs of Eustaqio Borras etc.<br/>
+General Register (G.R.) No. 213888<br/>
+2022-04-25
+
+
 ## "Aboitiz, Ayala conglomerates bet big on data centers" (20221007; FRIDAY)
 
 ### Author
