@@ -1,8 +1,62 @@
 # Lessons-learned: The Philippine STAR
 
-## "AMLC freezes assets worth P8 B" (20221004; TUESDAY)
+## "Aboitiz, Ayala conglomerates bet big on data centers" (20221007; FRIDAY)
 
 ### Author
+
+GONZALES, IRIS
+
+### Keyphrase
+
+#### Aboitiz InfraCapital Inc. (AIC)
+--> Infrastructure Arm of Aboitiz Group<br/>
+--> partners: with US-based EdgeConneX (ECX)<br/>
+--> objective: DEVELOPMENT of DATA CENTER PLATFORM (IT equipment, et cetera)<br/>
+--> for: Cloud Service Providers<br/>
+--> target: Philippine market<br/>
+--> location: <br/>
+National Capital Region (NCR)<br/>
+Greater Manila Area
+
+#### AyalaLand Logistics Holdings Corp. (ALLHC)
+--> Ayala Group<br/>
+--> partners: with FLOW Digital Infrastructure<br/>
+--> where: FLOW launched in 2021 by PAG (investment firm focused in Asia Pacific)<br/>
+--> with: 50Billion USD assets, where 2Billion in data centers<br/>
+--> IT Capacity of 36 megawatts (MW) to be expanded;<br/>
+--> initial 6 MW ready by 2024<br/>
+--> location: 6+ growth areas
+
+#### Examples:
+
+##### Industrial Park (Technopark)
+
+--> Laguna Technopark<br/>
+--> Pampanga Technopark<br/>
+--> Cavite Technopark<br/>
+--> Laguindingan Technopark in Misamis Oriental
+
+##### Factory
+
+--> Biñan and Calamba, Laguna<br/>
+--> Naic in Cavite<br/>
+--> Porac, Pampanga<br/>
+--> Sto. Tomas, Batangas<br/>
+--> Manila
+
+##### Cold Storage
+
+--> Biñan, Laguna
+
+##### Commercial Leasing
+
+--> Tutuban Center, Manila<br/>
+--> South Park Center, Muntinlupa City
+
+
+## "AMLC freezes assets worth P8 B" (20221004; TUESDAY)
+
+##n# Author
 
 AGCAOILI, LAWRENCE
 
