@@ -12,6 +12,81 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [これでは忍べぬ？　忍者の住所・氏名・リストラ、古文書で赤裸々に](https://www.asahi.com/articles/ASQB56JM5Q9JPISC006.html?iref=comtop_7_05); last accessed: 20221011
+
+> 乗京真知2022年10月11日 6時30分
+
+NORIKYOU, MASATOMO; 2022-10-11T06:30
+
+### Keyphrase
+
+Banal na Lupa ng mga NINJA: IGA (MIE-KEN)<br/>
+<br/>
+NINJA : 忍者, Taong Nagtitiis<br/>
+
+#### Paalala: tourism, movie
+
+#### Mula sa Lumang Aklat Panitikan
+
+> 古文書のある福井県文書館
+
+Aklatan sa FUKUI-KEN ng mga Lumang Panitikan
+
+> 県文書館の主任司書、長野栄俊（えいしゅん）さん（50）
+
+Pangunahing Nanunungkulan sa Aklatan: G. EISHUN
+
+> 江戸時代
+
+Sa Panahon ng EDO
+
+> 武器の種類や、給料の削減、リストラの様子
+
+<b>
+Uri ng mga Sandata, <br/>
+Paggasta ng Sahod,<br/>
+Pagbago ng Anyo ng ISTRAKTURA (Lungsod)
+</b>
+
+### Paggasta ng Sahod
+
+>「忍之者　十人一組」
+
+Matiising Tao: 10 Tao sa 1 Samahan 
+
+>「給帳」には「忍者十人　下役十人」
+
+Sa Sulatin ng Sahod, sa 10 Matiising Tao, may 10 ring may tungkulin sa kanyang ibaba
+
+### Uri ng mga Sandata
+
+#### https://www.asahi.com/articles/photo/AS20221005002374.html?iref=pc_photo_gallery_next_arrow; last accessed: 20221011
+
+>「軍帳」
+> 短い弓「半弓」
+
+Maliit na Pana (BOW) "Kalahating Pana"
+
+#### https://www.asahi.com/articles/photo/AS20221005002376.html?iref=pc_photo_gallery_prev_arrow; last accessed: 20221011
+
+Aklat ng mga Paraan ng Pagtitiis:<br/>
+"Dagat ng 10,000 Pinagsamang Ilog"<br/>
+Panahon ng EDO
+
+> 打鈎（うちかぎ）
+
+Tumatamang Kawit (HOOK)<br/>
+--> tulad sa panghuhuli ng malalaking isda
+
+> 打鍵（うちかぎ）
+
+Tumatang Susi; kahawig ang hugis sa 打鈎
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [グーグルCEO、日本に「1千億円投資」　データセンター23年稼働](https://www.asahi.com/articles/ASQB766ZCQB7ULFA03Y.html?iref=comtop_Business_04); last accessed: 20221008
 
 > グーグルCEO、日本に「1千億円投資」　データセンター23年稼働
