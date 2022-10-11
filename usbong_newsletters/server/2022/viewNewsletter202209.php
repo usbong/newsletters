@@ -522,7 +522,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> This is as with select stores in <b>GERMANY</b>;<br/>
 --> received: notification to simply <b>continue adding</b><br/>
 --> <b>objective:</b> <b>REDUCE</b> non-medicine item <b>PRICES</b> for patients<br/>
---> remembers: <b>PROBLEM</b> to also have existed with medicine item<br/> 
+--> remembers: <b>PROBLEM</b> to also have existed with <b>medicine items</b><br/> 
 --> to cause noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items;<br/>
 --> however, <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">KMS</a> has assisted in <b>SOLVING</b> this problem<br/>
 --> adds: <b>VARIATIONS</b> in medicine items do NOT increase as with that of non-medicine<br/>
