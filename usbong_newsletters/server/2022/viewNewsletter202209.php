@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221010; from 20220901
+  @date updated: 20221011; from 20221010	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -515,16 +515,18 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 
 --> where: <b>non-medicine item quantity</b> is already @<b>zero</b><br/>
 --> adds: previously, such items were <b>still displayed</b> to be <b>selectable</b> for purchase;<br/>
---> admits: non-medicine items noticeably have <b>incorrect counts</b>;<br/>
---> observed: <b>OUTPUT</b> caused by increasing counts of new items<br/> 
+--> admits: <b>non-medicine items</b> noticeably have <b>incorrect counts</b>;<br/>
+--> observed: <b>OUTPUT</b> caused by <b>increasing counts of new items</b><br/> 
 --> with <b>varying names</b> and <b>prices</b><br/>
---> recommended: to partner, MOSC, to maintain variation count to only 500;<br/>
---> This is as with select stores in GERMANY;<br/>
---> received: notification to simply continue adding<br/>
---> objective: reduce non-medicine item PRICES for patients<br/>
---> remembers: problem to also exist with medicine item to cause noticeable UNSOLD and EXPIRED items;<br/>
---> however, KMS has assisted in solving this problem<br/>
---> adds: variations in medicine items do NOT increase as with that of non-medicine<br/>
+--> <b>recommended:</b> to partner, MOSC, to maintain <b>variation count</b> to only <b>500</b> (MAX);<br/>
+--> This is as with select stores in <b>GERMANY</b>;<br/>
+--> received: notification to simply <b>continue adding</b><br/>
+--> <b>objective:</b> <b>REDUCE</b> non-medicine item <b>PRICES</b> for patients<br/>
+--> remembers: <b>PROBLEM</b> to also have existed with medicine item<br/> 
+--> to cause noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items;<br/>
+--> however, <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">KMS</a> has assisted in <b>SOLVING</b> this problem<br/>
+--> adds: <b>VARIATIONS</b> in medicine items do NOT increase as with that of non-medicine<br/>
+--> adds: with medicine items, <b>NAMES</b> and <b>PRICES</b> as labels <b>CLEARER</b>;
 <br/>
 <br/>
 <br/>
