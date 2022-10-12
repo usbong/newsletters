@@ -92,7 +92,9 @@ Maliit na Patalim
 
 ### Dagdag
 
-maaalala: ang gabay mula sa Pinanggagalingan ng Araw, upang mapuksa ang suliranin sa mga MANLOLOKO, na nagkakalat ng mga tsismis, panlolokong ingay, gamit ang mga nakaw/smuggled na wireless broadcasting technology, atbp na may pakay manggulo;
+maaalala: ang gabay mula sa Pinanggagalingan ng Araw, upang mapuksa ang suliranin sa mga MANLOLOKO;<br/>
+--> where: MANLOLOKO : budol/budol/carnapper/smuggler/cybercriminal/Teroristang Komunista<br/>
+--> adds: nagkakalat ng mga tsismis, panlolokong ingay, gamit ang mga nakaw/smuggled na wireless broadcasting technology, atbp na may pakay manggulo;<br/>
 --> lunas: DIREKTANG PAGSALAKAY sa salarin;<br/>
 --> keyphrase: MALINAW vs. MALABO<br/>
 --> Ito'y sa halip na manatili kung saan patuloy na tinitira ng mga MANLOLOKO mula sa malayuan. 
