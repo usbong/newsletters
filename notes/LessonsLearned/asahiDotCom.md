@@ -56,7 +56,8 @@ Matiising Tao: 10 Tao sa 1 Samahan
 
 >「給帳」には「忍者十人　下役十人」
 
-Sa Sulatin ng Sahod, sa 10 Matiising Tao, may 10 ring may tungkulin sa kanyang ibaba
+Sa Sulatin ng Sahod, sa 10 Matiising Tao, mayroon ding 10 na may tungkulin sa kanyang ibaba;<br/>
+Kabuuan: 20 Tao
 
 ### Uri ng mga Sandata
 
@@ -81,6 +82,20 @@ Tumatamang Kawit (HOOK)<br/>
 > 打鍵（うちかぎ）
 
 Tumatang Susi; kahawig ang hugis sa 打鈎
+
+#### https://www.asahi.com/articles/photo/AS20221005002373.html?iref=pc_photo_gallery_7; last accessed: 20221012; from 20221012
+
+> 短刀
+
+Maliit na Patalim
+
+
+### Dagdag
+
+maaalala: ang gabay mula sa Pinanggagalingan ng Araw, upang mapuksa ang suliranin sa mga MANLOLOKO, na nagkakalat ng mga tsismis, panlolokong ingay, gamit ang mga nakaw/smuggled na wireless broadcasting technology, atbp na may pakay manggulo;
+--> lunas: DIREKTANG PAGSALAKAY sa salarin;<br/>
+--> keyphrase: MALINAW vs. MALABO<br/>
+--> Ito'y sa halip na manatili kung saan patuloy na tinitira ng mga MANLOLOKO mula sa malayuan. 
 
 ### Sanggunian
 
