@@ -4,6 +4,37 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=rA_FN6BTGms; last accessed: 20221012
+
+> 目の前に吊られたごほうび<br/>
+> 161,257 views<br/>
+> Oct 10, 2022
+
+### Paalala: 吊られる （つるされる）
+
+報酬やご褒美（ほうび）は<br/>
+動機につながるものだと<br/>
+
+#### 例：経験値
+
+目的意識を手の届く位置に置き<br/>
+達成した時の喜ぶを<br/>
+ダイレクトに伝えることだと<br/>
+
+#### 例＃１：
+PCエンジン：イース　<br/>
+<br/>
+処理負荷を稼ぐために<br/>
+画面を小さくしたと
+
+#### 例＃２：
+日本ファルコム：ファザナドゥ<br/>
+アイテムを少なく、高め；<br/>
+が、購入できたら、パーワーアップされると
+
+
+
+
 ## https://www.youtube.com/watch?v=V40sMUAE5ek; last accessed: 20221008
 
 開発チーム：　必殺技上<br/>
