@@ -81,7 +81,7 @@ Tumatamang Kawit (HOOK)<br/>
 
 > 打鍵（うちかぎ）
 
-Tumatang Susi; kahawig ang hugis sa 打鈎
+Tumatamang Susi; kahawig ang hugis sa 打鈎
 
 #### https://www.asahi.com/articles/photo/AS20221005002373.html?iref=pc_photo_gallery_7; last accessed: 20221012; from 20221012
 
