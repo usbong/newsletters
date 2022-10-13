@@ -1,5 +1,55 @@
 # Lessons-learned from: Manila Bulletin
 
+## "BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)
+
+### Author
+
+CHIPONGIAN, LEE C
+
+### Keyphrase
+
+Bangko Sentral ng Pilipinas (BSP)<br/>
+Memorandum No. M-2022-043<br/>
+--> signed: by BSP Deputy Governor: FONACIER, CHUCHI G in 2022-10-07<br/>
+<br/>
+Cybercrime Prevention Act of 2012<br/>
+
+#### EMAIL
+--> used: as main verification and authentication<br/>
+--> linked: with banks, financial, e-payments
+
+#### Business Email Compromise (BEC)
+
+--> identified: as most prevalent and costly cyberattack<br/>
+
+> "...utilizes seemingly legitimate email accounts from another organization to fraudulently trick employees of another business into giving their credentials, money, personal information, financial details or other sensitive data"
+
+--> FALSE IDENTITY to MISLEAD PEOPLE<br/>
+--> Example: spoofing of individual's identity via email address
+
+
+### BSP's Recommended Actions
+
+1) verify: email system used<br/>
+
+2) verify: email header information<br/> 
+--> sender, receiver
+
+3) verify: email content<br/>
+--> Phishing, links, file attachments,<br/> 
+--> unsolicited requests for personal information, sense of urgency, act quickly
+
+4) contact: sender via another trusted channel, e.g. in-person meeting, to verify validity of email
+
+### Dagdag
+
+1) file: incident reports, et cetera with email system, Police/Law Enforcement
+
+2) observed: CRIMINAL members near target,<br/>
+--> e.g. kamag-anak, kaklase, kunwaring kaibigan, nakahanap-buhay<br/>
+--> keyphrase: NEED for QUICK MONEY
+
+
 ## "Toyota PH enhances used vehicle program" (20221006)
 
 ### Author
