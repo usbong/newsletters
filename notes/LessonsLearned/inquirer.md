@@ -1,5 +1,29 @@
 # Lessons-learned: Inquirer
 
+## "Razon's infra arm delays P28-B IPO" (20221012; WEDNESDAY)
+
+### author: 
+
+CAMUS, MIGUEL R
+
+### keyphrase: 
+
+Billionaire Enrique Razon Jr<br/>
+Prime Infrastructure (solar, hydro, gas power projects)<br/>
+--> Manila Water Co. Inc<br/>
+--> Malampaya Gas Project
+
+
+#### Benchmark
+
+Philippine Stock Exchange Index (PSEI)<br/>
+--> lost nearly 18% since start of 2022;<br/>
+--> officially "bear" market since later part of 2022-09
+
+##### Dagdag
+
+PESO-BOND: 7.67% GROWTH
+
 ## "CONVERGE BUYING BACK PHP 1.5-B SHARES TO BOLSTER STOCK VALUE" (20220924)
 
 ### author: 
