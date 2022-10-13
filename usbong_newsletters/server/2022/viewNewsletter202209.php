@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221011; from 20221010	
+  @date updated: 20221013; from 20221011	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -530,9 +530,49 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <br/>
 <br/>
 <br/>
+medical school; 1 Million PHP total tuition @private school;
+--> after 5 years, residency training @public hospital; income @30K PHP >=;
+--> however, after training, to set new private practice;
+--> income may be < 30K PHP;
+--> NOT QUICK MONEY; total approx: 10years;
 
+--> self; since 19 years old, worked to receive payment as computer programmer; part-time student;
+--> learns: business (: ease people); accounting; income > expenses;
+--> pay 10K, monthly; receives 20K income?
+--> paid-up capital: @40K PHP; 
+--> 4 months; no income; add another 40K PHP to continue;
+--> IF has investment, with 4% interest as income;
+--> opts: for that investment, instead of start new business with < 4% income; LOGIC;
+--> examples: 
+--> investment: peso-bond @6.74% net income;
+--> PAG-IBIG MP2 @6% (minimum) net income;
+--> NOT QUICK MONEY;
+--> total approx: 10 years;
+--> by 30 years old (approx) be self-sufficient to build NEW FAMILY UNIT;
+--> investment to be part of EDUCATION of children (count: 2);s
+--> send: to JAPAN for at least 10 months to study;
+--> does: not require UTANG-NA-LOOB (loan for tuition) from children;
 
+--> history, attacks to senior citizens;
+--> exist: in Japan, Philippines;
+--> to steal money; QUICK MONEY;
+--> defense: children, grand children in same house compound;
+--> however, spouse of married children causes speed-up of DEATH;
+--> due to NEED for QUICK MONEY
 
+--> prefers: increase in use of MACHINES/ROBOTS to assist, instead of increase in people;
+--> due to people have emotion, 
+--> which: causes NEED for QUICK; problems;
+--> adds: to cause intentionally cause harm;
+--> adds: MACHINE/ROBOTS do NOT intentionally cause us harm
+--> example: electric fan;
+
+tiyakin sa Medical Doctor ang mga hindi tiyak
+
+<br/>
+<br/>
+<br/>
+<br/>
 to share know-how on computers・Information Technology (IT) tools</h4>
 <h5>1.1.1) shared: with Public, <b>VALUE</b> of <b>SYSTEM EFFICIENCY</b><br/>
 <br/>
