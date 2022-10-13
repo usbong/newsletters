@@ -22,7 +22,7 @@ Philippine Stock Exchange Index (PSEI)<br/>
 
 ##### Dagdag
 
-PESO-BOND: 7.67% GROWTH
+PESO-BOND: 6.74% (net) GROWTH 
 
 ## "CONVERGE BUYING BACK PHP 1.5-B SHARES TO BOLSTER STOCK VALUE" (20220924)
 
