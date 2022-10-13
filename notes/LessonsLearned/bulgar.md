@@ -1,5 +1,28 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "MAGSASAKA TEPOK SA HIT-AND-RUN ISABELA" (20221013)
+
+### BALITANG PROBINSIYA
+
+### Author
+
+HERNANDEZ, PABS III
+
+### Keyphrase
+
+Brgy. Pangal Norte, Echage,<br/>
+Isabela, Cagayan Valley (Region II)<br/>
+<br/>
+dead-on-arrival, magsasaka (50 taong gulang)<br/>
+<br/>
+hit-and-run<br/>
+<br/>
+man-hunt operasyon, pulisiya<br/>
+<br/>
+reckless imprudence resulting to homicide<br/>
+obstruction of justice
+
+
 # "6 YRS. KULONG, P1M MULTA SA FAKE KIDNAPPING" (20221006)
 
 ### Author
