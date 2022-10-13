@@ -109,7 +109,10 @@ Sa panahon kung kailan nagsimulang umayaw, pakiramdam kong magsisimula mula sa k
 
 Kapag inayawan na natin ang lahat, 
 
-今日も、「ほぼ日」に来てくれ
+今日も、「ほぼ日」に来てくれてありがとうございます。
+小さなモデルケースのなかに、やっぱり原型があるんですね。　
+
+昨日の「今日のダーリン」を読み逃した方はこちら。
 
 ### Dagdag
 
