@@ -50,6 +50,8 @@ May bayad ang sulating ito. Kapag naging nagbabayad na kasapi na po kayo, maaari
 <br/>
 明治 : MEIJI, Lunas dulot ng Malinaw<br/>
 <br/>
+日本 : Bansang Hapon, Pinanggagalingan ng Araw<br/>
+<br/>
 観光地 : namamasdang lupain, lupang niliwanagan upang mamasdan
 
 ### Sanggunian
