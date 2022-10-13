@@ -42,7 +42,7 @@ Sa kalahati ng MEIJI nang malayang nakapaglakbay sa Bansang Hapon ang mga karani
 May bayad ang sulating ito. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang natitirang 456 na titik.
 
 
-### Dagdag
+### Paalala
 
 １里 : 1 sukat ng layo, layo upang marakating sa sunod na bayan<br/>
 <br/>
@@ -51,6 +51,10 @@ May bayad ang sulating ito. Kapag naging nagbabayad na kasapi na po kayo, maaari
 明治 : MEIJI, Lunas dulot ng Malinaw<br/>
 <br/>
 観光地 : namamasdang lupain, lupang niliwanagan upang mamasdan
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE: TRANSLATE
 
 
 ## [これでは忍べぬ？　忍者の住所・氏名・リストラ、古文書で赤裸々に](https://www.asahi.com/articles/ASQB56JM5Q9JPISC006.html?iref=comtop_7_05); last accessed: 20221011
