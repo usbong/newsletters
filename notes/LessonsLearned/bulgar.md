@@ -1,5 +1,33 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "17 RIDERS, NATIKETAN SA MAINGAY NA TAMBUTSO" (20221013)
+
+### Author
+
+ALFONSO, MYLENE
+
+### Keyphrase
+
+maingay na muffler o exhaust pipe ng motorsiklo<br/>
+<br/>
+Manila Police District-Police Station<br/>
+Manila Traffic and Parking Bureau (MTPB),<br/>
+Tondo, Manila<br/>
+<br/>
+City Ordinance no. 8772: <br/>
+"Regulating the use of Modified Muffler/Exhaust Pipe"<br/>
+<br/>
+PLt. Col. Ibay, Rosalino:<br/>
+
+> ...maingay na tambutso sa hatinggabi kung kailan nasa kahimbingan na ng tulog ang mga tao
+
+<br/>
+tungo sa impounding, kapag nagpatuloy;
+
+### Dagdag
+
+RADIO, WIRELESS BROADCASTING, NOISE POLLUTION (GAWA-GAWANG TUNOG), MOBILE TELEPHONE
+
 # "MAGSASAKA TEPOK SA HIT-AND-RUN ISABELA" (20221013)
 
 ### BALITANG PROBINSIYA
