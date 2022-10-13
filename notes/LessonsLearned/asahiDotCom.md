@@ -12,6 +12,47 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（れ天声人語）旅行ガイドあこれ](https://www.asahi.com/articles/DA3S15443538.html?iref=comtop_Opinion_05); last accessed: 20221013
+
+>（れ天声人語）旅行ガイドあこれ
+
+Tinig ng Langit, Salaysay ng Tao;
+
+Iyon at ito, Gabay ng Paglalakbay
+
+> 有料記事
+
+May bayad na sulatin
+
+> 2022年10月13日 5時00分
+
+2022-10-13T05:00
+
+
+>　外国人による初の本格的な日本の旅行ガイドは約１４０年前に刊行された。英国外交官アーネスト・サトウの『明治日本旅行案内』に、東京の人力車代が載っている。１里につき８銭、夜間料金は倍額。観光地の歴史も解説され、重宝されただろう▼一般の外国人が日本を自由に旅行できるようになったのは明治の半ばだ。諸外国と…
+
+Mga 140 Taon ang nakararaan nang isagawa ang paglathala ng una't tunay (PRO) na Gabay ng Paglalakbay sa Bansang Hapon, ayon sa Dayuhan. Nakalagay sa "Gabay ng Paglalakbay sa Bansang Hapon ng MEIJI" ni SATOW, EARNEST, Pinuno ng Palitan sa Labas ng Inglatera, ang Panahon ng Sasakyan mula sa Lakas ng Tao sa TOKYO. 8 salapi ang 1 sukat ng layo. Sa gabi, darami ng dalawa ang bayad. Pinaliliwanag din ang kasaysayan ng mga namamasdang lupain, marahil upang bigyang bigat ang yaman nito.
+
+> ▼一般の外国人が日本を自由に旅行できるようになったのは明治の半ばだ。諸外国と…
+
+Sa kalahati ng MEIJI nang malayang nakapaglakbay sa Bansang Hapon ang mga karaniwang Dayuhan. Maraming mga kaharian sa labas...
+
+> この記事は有料記事です。残り456文字有料会員になると続きをお読みいただけます。
+
+May bayad ang sulating ito. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang natitirang 456 na titik.
+
+
+### Dagdag
+
+１里 : 1 sukat ng layo, layo upang marakating sa sunod na bayan<br/>
+<br/>
+外国人 : dayuhan, tao sa labas ng kaharian<br/>
+<br/>
+明治 : MEIJI, Lunas dulot ng Malinaw<br/>
+<br/>
+観光地 : namamasdang lupain, lupang niliwanagan upang mamasdan
+
+
 ## [これでは忍べぬ？　忍者の住所・氏名・リストラ、古文書で赤裸々に](https://www.asahi.com/articles/ASQB56JM5Q9JPISC006.html?iref=comtop_7_05); last accessed: 20221011
 
 > 乗京真知2022年10月11日 6時30分
