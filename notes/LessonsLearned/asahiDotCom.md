@@ -35,7 +35,7 @@ Tagapakinig: MATSUMOTO, MAYA; HOSOZAWA, REIKI; 2022-10-14T08:00
 
 > 鉄道が日本で開業して14日で150年を迎えた。
 
-Sa ika-15 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon ng pagbubukas ng kalakaran nito.
+Sa ika-14 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon ng pagbubukas ng kalakaran nito.
 
 ### Sanggunian
 
