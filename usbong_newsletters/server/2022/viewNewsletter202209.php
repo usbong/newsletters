@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221013; from 20221011	
+  @date updated: 20221014; from 20221013	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -530,7 +530,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <br/>
 <br/>
 <br/>
-medical school; 1 Million PHP total tuition @private school;
+medical school; >= 1 Million PHP total tuition @private school;
 --> after 5 years, residency training @public hospital; income @30K PHP >=;
 --> however, after training, to set new private practice;
 --> income may be < 30K PHP;
@@ -549,7 +549,7 @@ medical school; 1 Million PHP total tuition @private school;
 --> NOT QUICK MONEY;
 --> total approx: 10 years;
 --> by 30 years old (approx) be self-sufficient to build NEW FAMILY UNIT;
---> investment to be part of EDUCATION of children (count: 2);s
+--> investment to be part of EDUCATION of children (count: 2);
 --> send: to JAPAN for at least 10 months to study;
 --> does: not require UTANG-NA-LOOB (loan for tuition) from children;
 
@@ -560,6 +560,8 @@ medical school; 1 Million PHP total tuition @private school;
 --> however, spouse of married children causes speed-up of DEATH;
 --> due to NEED for QUICK MONEY
 
+remembers: doraemon
+
 --> prefers: increase in use of MACHINES/ROBOTS to assist, instead of increase in people;
 --> due to people have emotion, 
 --> which: causes NEED for QUICK; problems;
@@ -567,7 +569,55 @@ medical school; 1 Million PHP total tuition @private school;
 --> adds: MACHINE/ROBOTS do NOT intentionally cause us harm
 --> example: electric fan;
 
+
 tiyakin sa Medical Doctor ang mga hindi tiyak
+
+
+Lessons-learned from: Manila Bulletin
+"BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)
+Author
+
+CHIPONGIAN, LEE C
+Keyphrase
+
+Bangko Sentral ng Pilipinas (BSP)
+Memorandum No. M-2022-043
+--> signed: by BSP Deputy Governor: FONACIER, CHUCHI G in 2022-10-07
+
+Cybercrime Prevention Act of 2012
+EMAIL
+
+--> used: as main verification and authentication
+--> linked: with banks, financial, e-payments
+Business Email Compromise (BEC)
+
+--> identified: as most prevalent and costly cyberattack
+
+    "...utilizes seemingly legitimate email accounts from another organization to fraudulently trick employees of another business into giving their credentials, money, personal information, financial details or other sensitive data"
+
+--> FALSE IDENTITY to MISLEAD PEOPLE
+--> Example: spoofing of individual's identity via email address
+BSP's Recommended Actions
+
+    verify: email system used
+
+    verify: email header information
+    --> sender, receiver
+
+    verify: email content
+    --> Phishing, links, file attachments,
+    --> unsolicited requests for personal information, sense of urgency, act quickly
+
+    contact: sender via another trusted channel, e.g. in-person meeting, to verify validity of email
+
+Dagdag
+
+    file: incident reports, et cetera with email system, Police/Law Enforcement
+
+    observed: CRIMINAL members near target,
+    --> e.g. kamag-anak, kaklase, kunwaring kaibigan, nakahanap-buhay
+    --> keyphrase: NEED for QUICK MONEY
+
 
 <br/>
 <br/>
