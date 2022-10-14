@@ -12,6 +12,36 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「トイレをきれいにすることから始めた」　JR東社長が語る150年](https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07); last accessed: 20221014
+
+>「トイレをきれいにすることから始めた」　JR東社長が語る150年
+
+"Mula nang linisin ang TOILET" Salaysay ng Pinuno ng Samahan ng JR sa 150 Taon nito
+
+
+> 聞き手・松本真弥、細沢礼輝2022年10月14日 8時00分
+
+Tagapakinig: MATSUMOTO, MAYA; HOSOZAWA, REIKI; 2022-10-14T08:00 
+
+### Keyphrase
+
+>「国鉄民営化から35年。国鉄時代はトイレが汚く、駅員が乗客に切符を投げつけていた。JR東はトイレをきれいにすることから始めた。まずは駅に来てもらえるように。次のステップは駅周辺や駅ナカの開発で、いかに駅を便利にしていくかだった」
+
+"35 Taon mula nang Baguhin bilang Kalakaran ng Tao ang Bakal ng Kaharian. Noong mga panahon iyon, madumi ang TOILET, at ibinabato ng mga Tauhan ng Istasyon ang TICKET sa mga Sumasakay. Sinimulan ng JR-Kanluran ang paglilinis ng TOILET. Ito'y upang sa simula man lang, may dumating sa Istasyon. Ito naman ang sunod na hakbang:  kung paano sa pamamagitan ng pagpapa-unlad ng paligid at looban nito, mapagiginhawa ang Istasyon."
+
+>「明治政府が誕生し、その翌年に鉄道の建設を決めた。走り始めたのは明治5年（1872年）。軍備優先の議論もあったなかで、そのスピード感に改めて気概を感じる」
+
+"Isinilang ang Pamahalaan ng MEIJI, at pinagpasiyahan sa sunod na taon, na itayo ang Bakal na Daan. Taong 5 ng MEIJI (Taon 1872) nang nagsimulang tumakbo ito. Sa loob ng talakayan ukol sa pangunguna sa mga paghahanda ng Militar, mararamdaman ang sagisag ng panibagong kaluluwa sa bilis niyon."
+
+> 鉄道が日本で開業して14日で150年を迎えた。
+
+Sa ika-15 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon ng pagbubukas ng kalakaran nito.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [（れ天声人語）旅行ガイドあこれ](https://www.asahi.com/articles/DA3S15443538.html?iref=comtop_Opinion_05); last accessed: 20221013
 
 >（れ天声人語）旅行ガイドあこれ
