@@ -1,5 +1,58 @@
 # Lessons-learned: Inquirer
 
+## "PH FIRMS WARNED VS OPPORTUNISTIC RANSOMWARE ATTACKS" (20221014; FRIDAY)
+
+### author: 
+
+PIAD, TYRONE JASPER C
+
+### keyphrase: 
+
+ransomware attacks<br/>
+cyberhackers<br/>
+
+#### KASPERSKY
+
+--> Russian cybersecurity firm<br/>
+--> Managing Director (Asia-Pacific and Vice President for Global Sales Network): CONNEL, CHRIS
+
+> Ransomware is a form of cyberattack that holds an entity's data or system hostage until a ransom is paid
+
+### Observation
+
+2/3 businesses in Southeast Asia attacked<br/>
+<br/>
+Attackers paid by targets;
+
+### CAUSE
+
+> If the public gets wind of the attack, he said it might turn away the companies' existing customers.
+
+> Just want to get it over with so they shell out a huge amount to settle the ransom
+
+### Recommended ACTION
+
+1) > "Our policy is to recommend to them: do not pay the ransom. Once you pay, there could be a next time"
+
+2) Proactive rather than defensive approach<br/>
+--> where: companies address potential gaps in their cybersecurity<br/>
+--> continues: to update information regarding attacks from hackers
+
+### Dagdag
+
+1) shares: increase of download and use of illegal software, e.g. pirated software, causes decrease in defense system against cyber attacks;<br/>
+--> adds: with such ACTION, observed using Microsoft Essentials Security Settings causes decrease in NEED for KASPERSKY ANTI-VIRUS TOOL;<br/>
+--> adds: however, even when computers in system have updated security settings, USB Memory Storage devices that have been infected can cause computer errors.<br/>
+--> adds: excess WEB PAGE TABS open in Web Browser can cause computer to CRASH;<br/>
+--> where: loaded WEB PAGE TABS with files, e.g. images, videos, that are excessively large in file size<br/>
+--> recommends: combination of operating systems, e.g. Windows, Linux, in network causes increase in security against attacks;<br/>
+--> due to: there exists variation in compiled executable file based on operating system;<br/>
+--> where: executable file : auto-executes COMMANDS, e.g. delete, copy;
+
+2) notes: news report shares know-how even IF not a registered participant in conference/workshop
+
+
+
 ## "RAPPLER CHIEF GOES TO HIGH COURT AFTER CA JUNKS APPEAL" (20221012; WEDNESDAY)
 
 ### author: 
