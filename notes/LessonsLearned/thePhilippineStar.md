@@ -1,5 +1,36 @@
 # Lessons-learned: The Philippine STAR
 
+## "Singapore jails OnlyFans creator in first such conviction" (2022-10-14; FRIDAY)
+
+--> 3 weeks jail time for defying Police Order not to access account during investigation;<br/>
+
+--> uploaded photos and video for paying subscribers on adults-only "OnlyFans" platform; <br/>
+
+--> income USD 240K after taxes;<br/>
+
+--> transmitting obscene material electronically in Singapore can be jailed for up to 3 months, fined, or both;<br/>
+
+--> Titus Low (22), fined USD 2,087; 
+
+### Paalala
+
+1) PORNOGRAPHY (PORNO) classified to be VIOLENCE;
+
+2) PHYSICAL STIMULATION due to VIOLENCE (HARASSMENT/EXTORTION) : PERVERTED MIND of MANLOLOKO GROUP;
+
+### Dagdag
+
+Kahit Nanay-nanayan ko, isinasama sa mga PAMBABASTOS ng MANLOLOKO GROUP;<br/>
+--> keyphrase: ILLEGAL DRUGS, TERORISTANG KOMUNISTA
+
+MANLOLOKO/TERORISTANG KOMUNISTA : BUDOL-BUDOL/CARNAPPER/SMUGGLER/CYBERCRIMINAL
+
+### SELF-DEFENSE
+
+PAGPUKSA sa MANLOLOKO GROUP<br/>
+--> paalala: WALANG PAGKASABIK (NO EXCITEMENT) 
+
+
 ## “Wrong remedy” (20221007; FRIDAY)
 
 ### “A LAW EACH DAY [Keeps Trouble Away]”
