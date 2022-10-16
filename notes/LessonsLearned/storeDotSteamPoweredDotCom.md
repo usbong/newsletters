@@ -1,5 +1,15 @@
 # [STORE.STEAMPOWERED.COM](https://store.steampowered.com)
 
+
+## https://partner.steamgames.com/doc/sdk/uploading; last accessed: 20221016
+
+### QUESTION: need to regularly update uploaded app due to OS upgrade?
+--> remembers: required with GOOGLE PLAY on Android OS<br/>
+--> <b>Example:</b> Minimum System Requirement has to be regularly updated with higher specs? <br/>
+<br/>
+TO-DO: -verify: answer
+
+
 [Command & Conquer™ Remastered Collection](https://store.steampowered.com/news/app/1213210/view/2255687723361166342)
 
 > 25年前RTSをジャンルとして定着させた「Command & Conquer」と「Red Alert」の両作が、Petroglyph GamesのWestwood Studios元メンバー達の手により4Kフルリマスターで蘇る。3つすべての拡張パック、再構築されたマルチプレイヤー、最新UI、マップエディター、未公開FMVのボーナス映像集、Frank Klepackiによる伝説のBGMの7時間を超えるリマスターも収録。おかえりなさい、コマンダー。
