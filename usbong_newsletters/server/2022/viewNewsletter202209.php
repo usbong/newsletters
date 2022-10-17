@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221014; from 20221013	
+  @date updated: 20221017; from 20221014	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -529,13 +529,28 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> adds: with medicine items, <b>NAMES</b> and <b>PRICES</b> as labels <b>CLEARER</b>;
 <br/>
 <br/>
-<br/>
-medical school; >= 1 Million PHP total tuition @private school;
---> after 5 years, residency training @public hospital; income @30K PHP >=;
---> however, after training, to set new private practice;
---> income may be < 30K PHP;
---> NOT QUICK MONEY; total approx: 10years;
-
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			<b>FALSE BELIEF</b>#1) <b>NEW Medical Doctor (MD)</b> : <b>"QUICK MONEY"</b><br/>
+			observed: classification due to own family members, e.g. <b>Senior Citizens (SC)</b>, who begin to have noticeable <b>NEED for MD</b>;<br/>
+			--> where: <b>COST</b> for <b>MD service</b> becomes <b>noticeable</b>;<br/>
+			<br/>						
+			<b>Medical School COST</b> >= <b>1 Million PHP</b>;<br/>
+			--> <b>TOTAL tuition</b> @private school;<br/>
+			--> After 5 years, <b>Residency Training</b> @public hospital:<br/> 
+			--> <b>INCOME</b> @ >= <b>30K PHP</b>;<br/>
+			--> however, after training, to set new <b>Private Practice</b>;<br/>
+			--> <b>INCOME</b> may be < <b>30K PHP</b>;<br/>
+			--> <b>NOT QUICK MONEY</b>; <br/>
+			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
+			<br/>
+			<br/>
+	
 --> self; since 19 years old, worked to receive payment as computer programmer; part-time student;
 --> learns: business (: ease people); accounting; income > expenses;
 --> pay 10K, monthly; receives 20K income?
@@ -568,6 +583,15 @@ remembers: doraemon
 --> adds: to cause intentionally cause harm;
 --> adds: MACHINE/ROBOTS do NOT intentionally cause us harm
 --> example: electric fan;
+
+			
+		</td>
+	</tr>
+</table>
+
+
+<br/>
+<br/>
 
 
 tiyakin sa Medical Doctor ang mga hindi tiyak
