@@ -1,5 +1,30 @@
 # Lessons-learned: The Philippine STAR
 
+## “DTI appeals to bakers: Temper price increases” (20221014; FRIDAY)
+
+### Author
+
+TALAVERA, CATHERINE
+
+### Keyphrase
+
+DTI = "Department of Trade and Industry"
+<br/>
+Philippine Baking Industry Group (PhilBaking)<br/>
+--> PhilBaking President: KOA, JOHNLU<br/>
+--> requested: increase by PHP 4 the price of Pinoy Tasty and Pinoy Pandesal;<br/>
+--> example: PHP38.50 -> PHP42.50
+
+### Current Status
+
+No price increase yet;<br/>
+--> adds: observable decrease in size;<br/>
+--> adds: in the next days, size continuously decreases<br/>
+--> observed: GARDENIA version of Pinoy Tasty previously did NOT decrease in size;<br/>
+--> adds: noticeable orange color in urine after digestion;<br/>
+--> adds: NOT yet clarified IF due to added Vitamin C;
+
+
 ## "Singapore jails OnlyFans creator in first such conviction" (2022-10-14; FRIDAY)
 
 --> 3 weeks jail time for defying Police Order not to access account during investigation;<br/>
