@@ -12,6 +12,109 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## https://globe.asahi.com/article/14741046?iref=comtop_Globe_01; last accessed: 20221018
+
+### World Now
+
+> 2022.10.17
+
+### Keyphrase
+
+AXIE INFINITY, NFT, GAME, from VIETNAM
+
+
+### Pinaikling Pagbubuod: 
+
+> 急速に市場が広がる「NFT」で、世界をリードするIT企業がベトナムにある。ホーチミンを拠点にする「スカイメイビス」だ。
+
+Sa VIETNAM, Mangangalakal sa IT, namumuno sa Daigdig, sa mabilis na pagpapalaganap ng "NFT" sa Pamilihan
+
+> スカイメイビスが開発したゲームの名前は「Axie Infinity（アクシーインフィニティ）」。ゲームの中でペットを育てることができ、そのキャラクターがNFTになっている。
+
+"AXIE INFINITY", ang pangalan ng nilikhang LARO ng SKY MAVIS. Sa loob ng LARO, maaaring magpalaki ng PET, at nagiging NFT ang karakter na iyon. 
+
+
+### NFT
+
+> NFT（非代替性トークン）は、「唯一無二で改ざんやコピーができない」と証明された電子データのこと。
+
+NFT : Hindi mapapalitang TOKEN; ELEKTRONIK DATA na pinapatunayang "Hindi maaaring kopyahin; isa lamang, walang dalawa".
+
+> 画像や音楽といったデジタルアートの分野で成長してきた。そのため、育てた一つ一つのキャラが希少になり、ゲーム内でキャラの売り買いが生じる。取引で稼いだ分を現実でも換金できるため、「稼げるゲーム」として評判を呼び、世界に広がった。
+
+Pinalago nito ang larangan ng LARAWAN, TUGTUGIN, atbp bilang DIGITAL ART. Pinakaunti nito at ginawang bihira ang bawat isang pinalalagong KARAKTER; Mula rito, isinilang ang bentahan at bilihin ng KARAKTER sa loob ng LARO. Sapagkat maaaring ipalit sa tunay na pera ang mga naipong KARAKTER, tinawag itong "Nakapag-iipon sa LARO", at lumaganap sa Daigdig.
+
+
+### --
+
+開発したのは、ベトナム人のグエン・タイン・チュンさんだ。
+
+Ang Taga-VIETNAM na si G. Nguyễn Thành Trung (GWEN TAIN CHUN) ang naglikha.
+
+> ベトナムメディアによると、チュンはハノイ出身で、飛び抜けた才能を持つ「ギフテッド」だけが通う高校を経てベトナムの大学に進学し、コンピューターサイエンスを学んだ。
+
+Ayon sa VIETNAM MEDIA, isinilang sa HANOI si Trung, dumaan sa Mataas na Paaralan kung saan pumapasok lamang ang mga "GIFTED", ang mga may angking nakapag-iiwang Talino't Kakayahang. Tumuloy ng pag-aaral sa Malaking Paaralan sa VIETNAM, at nag-aral ng COMPUTER SCIENCE
+
+> 20歳だった2012年に食べ物にまつわるブログを共有できるサイトを作って会社を設立。その会社を去った2018年、スカイメイビスを創設した。
+
+Nagtayo ng Samahang bumuo ng SITE kung saan maaaring magbahagi ng BLOG ukol sa mga pagkain sa Taong 2012, kung kailang ika-20 taong gulang siya. Umalis mula sa Samahang iyon ng Taong 2018, at itinatag ang SKY MAVIS.
+
+>「Axie Infinity」は、最初は仲間内で遊ぶために作ったゲームだったが、一般公開したら大ヒットした。
+
+Sa pinakasimula, binuo ang "AXIE INFINITY" na LARO upang laurin ng mga magkakaibigan. Nang buksan ito sa karaniwang pangkalahatan, naging MALAKING HIT.
+
+> 利用者同士のゲーム内のキャラクターの取引は100万ドル（約1億4700万円）を超えるものもある。今年2月までにはキャラクター全体の価値が24億ドル（約3500億円）ともいわれるほどになった。
+
+May lumampas din sa 1 Milyong USD ang pinagpalitang KARAKTER ng mga Gumagamit ng LARO sa loob nito. Ngayong taon, hanggang sa ika-2 buwan, sinasabing umabot sa 2.4 Bilyong USD ang kabuuang halaga ng lahat ng mga KARAKTER.
+
+### SULIRANIN sa mabilis na paglago
+
+> 米財務省などによると、北朝鮮と結びつきがあるとみられるハッカー集団にゲームのネットワークに侵入され、総額6億2千万ドル（約910億円）を盗み出されたのだ。
+
+Walang pahintulot na pinasok ang GAME NETWORK ng HACKER GROUP na tali sa Hilagang KOREA, at ninakaw palabas ang kabuang salaping 6.2 Milyong USD.
+
+> 利用者は減ったともいわれるが、ハッキング被害を補償する方針を打ち出し、システムを復旧。9月にセキュリティー向上のために米グーグルの関連会社との提携を決め、次の展開を目指している。
+
+Bagama't sinasabing bumaba ang bilang ng mga Gumagamit nito, ibinalik sa dati ang SISTEMA, pagkatapos maglabas ng POLISIYA (PATAKARAN) upang ayusin ang pinsalang dulot ng HACKING. Sa ika-9 na buwan, upang pataasin ang SECURITY, nagpasiyang sumapi sa Magka-ugnay na Samahan ng GOOGLE ng AMERIKA. Tinututukan ang sunod nitong pag-unlad. 
+
+### Pangarap ni G. Trung: 
+
+>「ゲームを作る側が利益を得る既存のしくみとは違う、利用者にとっての経済的な自由を創造すること」。ゲームをする側が遊ぶだけでなく利益を得る。チュンさんがベトナムメディアに語った夢は、新しい発想で今までにないシステムをつくる野望を感じさせる。
+
+#### Sa banda ng mga gumagawa ng LARO:
+
+Iba sa umiiral na MEKANISMO ng pagkuha ng KITA; bagkus, pagbuo ng EKONOMIKAL na KALAYAAN bilang Gumagamit nito.
+
+#### Sa banda ng mga Gumagamit ng LARO:
+
+Hindi lamang paglalaro; bagkus, pagkuha ng KITA.
+
+
+> 宋光祐 朝日新聞記者
+
+SOU, KOUSUKE; Mamahayag ng Pahayagang ASAHI
+
+
+> 1977年、大阪生まれ。関西の出版社での雑誌編集者を経て、2004年から朝日新聞記者に。GLOBE編集部を経て20年1月にハノイ支局へ。22年9月からパリ支局長。フランスでの生活は会社を休職して家族と1年間の給料ゼロ円暮らしに挑戦した15年以来7年ぶり。当時よりもアジア文化の存在感が増していることを感じる日々。 
+
+### Dagdag
+
+verified: after observing select Filipinos at visited electronics/computer stores to be PLAYING the AXIE INFINITY game.<br/>
+--> learns: membership to be @100K PHP to be QUICKLY returned in 1 Month; Rest of PLAY TIME becomes PROFIT.<br/>
+--> observed: supposed 1 Month Return of Investment extends to 3 Months, 6 Months, 1 Year;<br/>
+--> CAUSE to be due to increase in MEMBERS;<br/>
+--> learns: select members received membership as GRATIS due to students;<br/>
+--> adds: as OUTPUT noticeable PLAYING on MOBILE TELEPHONES;<br/>
+--> opts: for self to NOT be MEMBER after observed OUTPUT.<br/>
+--> adds: self to prefer E-BOOK READERS (AMAZON KINDLE) and select COMPUTER INTERACTIVE Games that increase know-how as DEVELOPER, NOT as CONSUMER;<br/>
+--> adds: for LATTER, computer training as GUIDE becomes NECESSARY<br/>
+--> adds: however, select people due to computer training or none of it, opt to be only CONSUMER
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [「トイレをきれいにすることから始めた」　JR東社長が語る150年](https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07); last accessed: 20221014
 
 >「トイレをきれいにすることから始めた」　JR東社長が語る150年
