@@ -46,6 +46,7 @@ where: URL = Universal Resource Locator; computer's Internet Protocol (IP) addre
 ### Dagdag
 
 observed: POST-paid SIM card to cause without permit the Mobile Telephone using it to be as MANLOLOKO's Transmitter and Receiver of DATA via among others: Voice-over IP (VoIP); <br/>
+--> where: MANLOLOKO : BUDOL-BUDOL/CARNAPPER/SMUGGLER/CYBERCRIMINAL/TERORISTANG KOMUNISTA GROUP<br/>
 --> where: DATA : NOISE POLLUTION<br/>
 --> reminder: Ear, Nose, and Throat (ENT)<br/>
 --> Example: "HINGA!"<br/>
