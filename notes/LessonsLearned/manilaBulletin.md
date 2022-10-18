@@ -1,5 +1,58 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Globe bats for multi-stakeholder initiative vs mobile phone scams" (20221008; SATURDAY)
+
+### Author
+
+ABADILLA, EMMIE V
+
+### Keyphrase
+
+Telecommunication Standardization Sector of the International Telecommunication Union (ITU-T)
+
+#### Short Messaging Service (SMS) phishing
+
+> "the attempt to acquire sensitive information such as usernames, passwords, and credit card details for malicious reasons, by masquerading as a trustworthy entity in an electronic communication."
+
+where: entity : individual person, corporation
+
+#### ACTIONS
+
+##### USER
+
+1) report: spam and spam messanges to GLOBE's Stop Spam web portal
+
+2) > "...never open or click on links from unknown numbers or engage with these messages by replying with personal information"
+
+##### GLOBE (Telecom)
+
+1) maintain: cybersecurity operations center that works 24/7<br/>
+--> monitors: breaches<br/>
+--> sets: necessary filters to block suspicious sources<br/>
+--> Examples: erring numbers, SIMs, domains
+
+#### OUTPUT
+
+##### GLOBE 
+
+spent: 20 Million USD (1.1 Billion PHP (approx))<br/>
+--> blocked: 784 million scam and spam messages from 2022-01 \~ 2022-07<br/>
+--> deactivated: 14,058 scam-linked SIMs<br/>
+--> blacklisted: 8,973 scam-linked SIMs<br/>
+--> blocked: 610 domains or URLs<br/>
+where: URL = Universal Resource Locator; computer's Internet Protocol (IP) address<br/>
+--> shares: know-how via GlobeBridgecom's Digital Thumbprint Program
+
+### Dagdag
+
+observed: POST-paid SIM card to cause without permit the Mobile Telephone using it to be as MANLOLOKO's Transmitter and Receiver of DATA via among others: Voice-over IP (VoIP); <br/>
+--> where: DATA : NOISE POLLUTION<br/>
+--> reminder: Ear, Nose, and Throat (ENT)<br/>
+--> Example: "HINGA!"<br/>
+--> keyphrase: TIMING with ATTACK<br/>
+--> Local (Philippines) and International, e.g. Japan (Year 2016), Switzerland (Year 2014)<br/>
+--> adds: SIM card continuously connected to the INTERNET
+
 ## "BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)
 
 ### Author
