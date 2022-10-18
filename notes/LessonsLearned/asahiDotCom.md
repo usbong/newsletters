@@ -53,7 +53,7 @@ Ang Taga-VIETNAM na si G. Nguyễn Thành Trung (GWEN TAIN CHUN) ang naglikha.
 
 > ベトナムメディアによると、チュンはハノイ出身で、飛び抜けた才能を持つ「ギフテッド」だけが通う高校を経てベトナムの大学に進学し、コンピューターサイエンスを学んだ。
 
-Ayon sa VIETNAM MEDIA, isinilang sa HANOI si Trung, dumaan sa Mataas na Paaralan kung saan pumapasok lamang ang mga "GIFTED", ang mga may angking nakapag-iiwang Talino't Kakayahang. Tumuloy ng pag-aaral sa Malaking Paaralan sa VIETNAM, at nag-aral ng COMPUTER SCIENCE
+Ayon sa VIETNAM MEDIA, isinilang sa HANOI si Trung, dumaan sa Mataas na Paaralan kung saan pumapasok lamang ang mga "GIFTED", ang mga may angking nakapag-iiwang Talino't Kakayahan. Tumuloy ng pag-aaral sa Malaking Paaralan sa VIETNAM, at nag-aral ng COMPUTER SCIENCE
 
 > 20歳だった2012年に食べ物にまつわるブログを共有できるサイトを作って会社を設立。その会社を去った2018年、スカイメイビスを創設した。
 
@@ -100,7 +100,7 @@ SOU, KOUSUKE; Mamahayag ng Pahayagang ASAHI
 ### Dagdag
 
 verified: after observing select Filipinos at visited electronics/computer stores to be PLAYING the AXIE INFINITY game.<br/>
---> learns: membership to be @100K PHP to be QUICKLY returned in 1 Month; Rest of PLAY TIME becomes PROFIT.<br/>
+--> learns: membership fee to be @100K PHP to be QUICKLY returned in 1 Month; Rest of PLAY TIME becomes PROFIT.<br/>
 --> observed: supposed 1 Month Return of Investment extends to 3 Months, 6 Months, 1 Year;<br/>
 --> CAUSE to be due to increase in MEMBERS;<br/>
 --> learns: select members received membership as GRATIS due to students;<br/>
