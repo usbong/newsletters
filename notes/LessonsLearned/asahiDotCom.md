@@ -12,6 +12,28 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ヤフコメ投稿、電話番号登録が必須に　不適切投稿への対策を強化](https://www.asahi.com/articles/ASQBL75HHQBLULFA00S.html?iref=comtop_Tech_science_01); last accessed: 20221019
+
+> ヤフコメ投稿、電話番号登録が必須に　不適切投稿への対策を強化
+
+YAHOO COMMENTS POSTING, Kailangan ang Rehistrasyon ng Bilang sa Telepono, upang Palakasin ang POLISIYA laban sa mga HINDI AKMANG POSTING;
+
+> 渡辺淳基2022年10月19日 0時28分
+
+WATANABE, JUNKI; 2022-10-19T00:28
+
+> 11月中旬に設定を変える。
+
+Babaguhin ang SETTING sa kalagitnaan ng ika-11 buwan.
+
+> 誹謗（ひぼう）中傷や差別的な投稿への対策が不十分だとの批判があり、対応を迫られていた。
+
+Diniin ang tugon ukol sa puna sa pagiging hindi sapat ng POLISIYA laban sa mga POSTING na nagdudulot ng sugat mula sa PANLOLOKO (LIBEL), MALING PAGBUBUKOD (DISKRIMINASYON).
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## https://globe.asahi.com/article/14741046?iref=comtop_Globe_01; last accessed: 20221018
 
 ### World Now
