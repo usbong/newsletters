@@ -22,13 +22,11 @@ Jorge and Lisa<br/>
 --> have: 3 children: Danny, Tessie, Fely<br/>
 --> received: by Danny via signed receipt of marriage donation (propter nuptias; Inventario Matrimonio)
 
-
 ### BATTLE
 
 Children of Danny (group#1) v.s. Children of Siblings of Danny (group#2) <br/>
 --> group#2 claimed ownership via Deed of Succession and Adjudication <br/>
 --> group#1 filed: Complaint for Quieting of Title Declaration of Nullity of Document and surrender of Title<br/>
-<br/>
 
 ### Output
 
