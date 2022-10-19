@@ -39,7 +39,7 @@ Children of Danny has Ownership of LAND;<br/>
 --> adds: peace of society : equal and fair<br/>
 --> notes: INACTION of CHILDREN of Siblings of Danny for 50 years<br/>
 
-> Silence, delay or neglect in asserting and enforcing one's right for an unexplained long period of time gives rise to a presumption that there is no merit at all in one's claim
+> Silence, delay or neglect in asserting and enforcing one's right for an unexplained long period of time gives rise to a presumption that there is no merit at all in one's claim.
 
 #### Additional Notes
 
@@ -62,7 +62,7 @@ Regional Trial Court (RTC): group#2 failed to assail the validity of donation<br
 
 ###### Acquisitive Prescription 
 
---> RIGHT of Acquisition in the lapse of TIME
+--> RIGHT of Acquisition in the prescribed period of TIME
 
 ###### Extinctive Prescription
 
