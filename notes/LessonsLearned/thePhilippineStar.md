@@ -50,19 +50,19 @@ Regional Trial Court (RTC): group#2 failed to assail the validity of donation<br
 
 #### Paalala
 
-##### Laches
+##### Laches (Failure)
 
 > "Laches is the failure or neglect for an unreasonable or unexplained length of time to do that which could or should have been done earlier by exercising due diligence."
 
 --> failure or neglect causes presumption that he has abandoned his right or declined to assert it.
 
-##### Prescription
+##### Prescription (Failure)
 
 --> failure or delay to assert a claim within the period prescribed by law
 
 ###### Acquisitive Prescription 
 
---> RIGHT of Acquisition in the prescribed period of TIME
+--> RIGHT of Acquisition lost due to lapse of TIME
 
 ###### Extinctive Prescription
 
