@@ -1,5 +1,80 @@
 # Lessons-learned: The Philippine STAR
 
+## “Stale claim” (20221014; FRIDAY)
+
+### “A LAW EACH DAY [Keeps Trouble Away]”
+
+### Author
+
+SISON, JOSE C
+
+### Keyphrase
+
+LAND: 7,275 square meters (sqm)<br/>
+--> location: CENTRAL LUZON<br/>
+<br/>
+Original Certificate of Title (OCT) No. 8705<br/>
+--> ownership lost due to "lapse of time"<br/>
+
+### Ownership History
+
+Jorge and Lisa<br/>
+--> have: 3 children: Danny, Tessie, Fely<br/>
+--> received: by Danny via signed receipt of marriage donation (propter nuptias; Inventario Matrimonio)
+
+
+### BATTLE
+
+Children of Danny (group#1) v.s. Children of Siblings of Danny (group#2) <br/>
+--> group#2 claimed ownership via Deed of Succession and Adjudication <br/>
+--> group#1 filed: Complaint for Quieting of Title Declaration of Nullity of Document and surrender of Title<br/>
+<br/>
+
+### Output
+
+Children of Danny has Ownership of LAND;<br/>
+--> NOT due to Acquisitive Prescription,<br/>
+--> due to Latches ("Stale Demand")<br/>
+--> where: based on public policy that discourages stale claims for peace of society<br/>
+--> adds: peace of society : equal and fair<br/>
+--> notes: INACTION of CHILDREN of Siblings of Danny for 50 years<br/>
+
+> Silence, delay or neglect in asserting and enforcing one's right for an unexplained long period of time gives rise to a presumption that there is no merit at all in one's claim
+
+#### Additional Notes
+
+Regional Trial Court (RTC): group#2 failed to assail the validity of donation<br/>
+--> group#2 failed to assert their successional rights
+<br/>
+--> affirmed: by Court of Appeals (CA) and the Supreme Court (SC)
+
+#### Paalala
+
+##### Laches
+
+> "Laches is the failure or neglect for an unreasonable or unexplained length of time to do that which could or should have been done earlier by exercising due diligence."
+
+--> failure or neglect causes presumption that he has abandoned his right or declined to assert it.
+
+##### Prescription
+
+--> failure or delay to assert a claim within the period prescribed by law
+
+###### Acquisitive Prescription 
+
+--> RIGHT of Acquisition in the lapse of TIME
+
+###### Extinctive Prescription
+
+--> RIGHT of ACTION lost due to lapse of TIME
+
+#### --
+
+Heirs of Lorenzo et al vs. Heirs of Eustaqio etc.<br/>
+General Register (G.R.) No. 209435<br/>
+2022-08-10
+
+
 ## “DTI appeals to bakers: Temper price increases” (20221014; FRIDAY)
 
 ### Author
