@@ -1,5 +1,22 @@
 # Lessons-learned: Inquirer
 
+## "Man nabbed for molesting ninth grader" (20221008; SATURDAY)
+
+### author: 
+
+CABALZA, DEXTER
+
+### keyphrase: 
+
+Police Anti-cybercrime Enforcers<br/>
+--> QUEZON CITY UNIT Chief: Lt. BERNARDO, MICHAEL<br/>
+--> arrested: 33-year old MAN via STING OPERATION;<br/>
+--> adds: MAN brought 14-year old GIRL to QUEZON CITY MOTEL @16:30 (THURSDAY);<br/>
+--> MAN as friend (in 1 month) via CHAT ROOM of Mobile Legends (MOBILE GAME); <br/>
+--> suspect name: GIBAGA, ESTELITO JR ("Steel Gibaga") seduced GIRL<br/>
+--> adds: caught by MOTHER during late night CHATS<br/>
+--> keyphrase: "obscene things", child abuse, child pornography, cybercrime
+
 ## "PH FIRMS WARNED VS OPPORTUNISTIC RANSOMWARE ATTACKS" (20221014; FRIDAY)
 
 ### author: 
