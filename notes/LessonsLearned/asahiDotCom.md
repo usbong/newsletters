@@ -12,6 +12,54 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「まるで課金ゲーム」大手塾の補習で別の塾へ　中学受験に募る疑問](https://www.asahi.com/articles/ASQBH635RQ7ZUTIL016.html?iref=comtop_7_05); last accessed: 20221020
+
+
+> 高浜行人2022年10月20日 7時00分
+
+TAKAHAMA, YUKITO; 2022-10-20T07:00
+
+### Pinaikling Pagbubuod
+
+> まるでゲームへの課金のようだ。
+
+Tulad sa paglalaan ng pera sa laro.
+
+### LARO
+
+> 人より多く資金をかけて学力を身につけようとする様が、ゲームに「課金」し、キャラクターに強いアイテムを装備させることに似ている。
+
+Tulad sa paglalagay ng pera sa LARO, ang pagsusuot ng malakas na ITEM sa KARAKTER, ang paglalagay ng maraming pera, higit pa kaysa kaninuman, ang maging bihasa sa aralin.
+
+### OUTPUT
+
+> ゲームと違うのは、課金しても思うように力が上向かないことだ。
+
+Iba nga lang sa LARO, mamuhunan man ng pera, hindi tumataas ang kakayanang lakas tulad sa inaasahan.
+
+>　中学受験に向けて、子どもを複数の塾に通わせる家庭は少なくありません。これが、受験関係の費用がかさむ一因になっています。
+
+Sa pagkuha ng pagsusulit upang pumasok sa gitnang paaralan, hindi kaunti ang mga tahanan kung saan nagpapadala ng mga anak sa maraming REVIEW SCHOOL (dagdag na paaralan). Nagiging isang dahilan ito ng gastos na may kinalaman sa pagsusulit.
+
+### Halimbawa
+
+> 中学受験のため、大手進学塾に小4から通っている
+
+Bilang paghahanda sa pagsusulit tungo sa gitnang paaralan, pumapasok na sa Malaking REVIEW SCHOOL simula pa nang ika-4 na taon sa mababang paaralan.
+
+> これに加えて、小5から補習のために週2回、地元の別の塾に通っている。
+
+Dagdag pa rito, mula ika-5 taon, bilang dagdag na pag-aaral, pumpasok din sa iba pang REVIEW SCHOOL, dalawang ulit sa isang linggo.
+
+>　進学塾には年百数十万、補習塾には年50万円ほどかかる。
+
+Sa isang taon, 1.1 milyong YEN (mga 550K PHP) ang kailangang gastusin sa REVIEW SCHOOL; Umaabot din sa 500K YEN (mga 250K PHP) ang sa dagdag naman na paaralan.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [ヤフコメ投稿、電話番号登録が必須に　不適切投稿への対策を強化](https://www.asahi.com/articles/ASQBL75HHQBLULFA00S.html?iref=comtop_Tech_science_01); last accessed: 20221019
 
 > ヤフコメ投稿、電話番号登録が必須に　不適切投稿への対策を強化
