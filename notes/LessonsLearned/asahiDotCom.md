@@ -29,7 +29,7 @@ Tulad sa paglalaan ng pera sa laro.
 
 > 人より多く資金をかけて学力を身につけようとする様が、ゲームに「課金」し、キャラクターに強いアイテムを装備させることに似ている。
 
-Tulad sa paglalagay ng pera sa LARO, ang pagsusuot ng malakas na ITEM sa KARAKTER, ang paglalagay ng maraming pera, higit pa kaysa kaninuman, ang maging bihasa sa aralin.
+Tulad sa paglalagay ng pera sa LARO, at ang pagsusuot ng malakas na ITEM sa KARAKTER, ang paglalaan ng maraming pera, higit pa kaysa kaninuman, upang maging bihasa sa aralin.
 
 ### OUTPUT
 
