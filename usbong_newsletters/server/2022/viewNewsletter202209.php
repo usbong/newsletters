@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221017; from 20221014	
+  @date updated: 20221020; from 20221017	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -536,21 +536,36 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-			<b>FALSE BELIEF</b>#1) <b>NEW Medical Doctor (MD)</b> : <b>"QUICK MONEY"</b><br/>
+			<b>FALSE BELIEFS</b><br/>
+			<br/>
+			#1) <b>NEW Medical Doctor (MD)</b> : <b>"QUICK MONEY"</b><br/>
 			observed: classification due to own family members, e.g. <b>Senior Citizens (SC)</b>, who begin to have noticeable <b>NEED for MD</b>;<br/>
 			--> where: <b>COST</b> for <b>MD service</b> becomes <b>noticeable</b>;<br/>
 			<br/>						
 			<b>Medical School COST</b> >= <b>1 Million PHP</b>;<br/>
-			--> <b>TOTAL tuition</b> @private school;<br/>
-			--> After 5 years, <b>Residency Training</b> @public hospital:<br/> 
-			--> <b>INCOME</b> @ >= <b>30K PHP</b>;<br/>
+			--> <b>TOTAL tuition</b> @<b>Private School</b>;<br/>
+			--> After 5 years, <b>Residency Training</b> @<b>Public Hospital</b>:<br/> 
+			--> <b>INCOME</b>  >= <b>30K PHP</b>;<br/>
 			--> however, after training, to set new <b>Private Practice</b>;<br/>
 			--> <b>INCOME</b> may be < <b>30K PHP</b>;<br/>
 			--> <b>NOT QUICK MONEY</b>; <br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
 			<br/>
 			<br/>
-	
+			#2) <b>Information Technology (IT)</b> : <b>"QUICK MONEY"</b><br/>
+			observed: classification due to news reports from the U.S.A.;<br/>
+			--> example: Forbes Asia's List of Wealthiest Americans,<br/>
+			--> where: TOP 10 in List classified to be in I.T.;<br/>
+			--> observed: in the 90's, increase of I.T. students and Nurses,<br/>
+			--> with objective to go to U.S.A.;<br/>
+			<br/>
+			<b>Reminder:</b> Former President RAMOS, Fidel V (RIP) recommended the increase of Overseas Filipino Workers (OFW) to increase money in Philippines via U.S. Dollar remittance;<br/>
+			--> added: as warning, that such ACTION, shall cause BRAIN DRAIN if continued in excess;<br/>
+			--> where: BRAIN DRAIN: know-how is shared abroad, NOT shared in Philippines;<br/>
+			--> observed: with Nurses, MONEY still NOT sufficient due to they send their children to study in Philippines, instead of in U.S.A.<br/>
+			<br/>
+			<br/>
+			
 --> self; since 19 years old, worked to receive payment as computer programmer; part-time student;
 --> learns: business (: ease people); accounting; income > expenses;
 --> pay 10K, monthly; receives 20K income?
@@ -595,6 +610,32 @@ remembers: doraemon
 
 
 tiyakin sa Medical Doctor ang mga hindi tiyak
+
+<br/>
+<br/>
+
+QUESTION: STOCK MARKET as GAMBLING system; QUICK MONEY?
+
+ANSWER: 
+
+Understanding of STOCK MARKET causes classification of system to be NOT GAMBLING, NOT QUICK MONEY;
+
+Example: invest: in STOCK of CORPORATION whose product/service is VITAL;
+--> keyphrase: MOBILITY, e.g. via ROADS, inexpensive FUEL;
+--> put: MONEY for over 10 years so CORPORATION continues with product/service;
+--> adds: NOT as HIGH-FREQUENCY TRADERS, who buys and sells multiple stocks in a MONTH;
+--> adds: SYSTEM earns via each buy and sell, NOT the HIGH-FREQUENCY TRADER;
+--> adds: CAN withdraw MONEY from CORPORATION after over 10 years;
+--> Example: to receive stored MONEY to pay for self's MEDICAL TREATMENT;
+--> observed: however, due to select CRISIS, e.g. CORONA VIRUS, select value of stocks decreased to cause noticeable low MONEY for investor;
+--> OUTPUT: select investors began to NEED QUICK MONEY;
+--> Recommended Action: invest in multiple investments, e.g. ADMINISTRATION (PAMAHALAAN), NOT only via Philippine Stock Exchange Index (PSEI)
+
+
+
+<br/>
+<br/>
+
 
 
 Lessons-learned from: Manila Bulletin
