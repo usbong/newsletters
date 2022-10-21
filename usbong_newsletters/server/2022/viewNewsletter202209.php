@@ -562,7 +562,6 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> <b>NOT QUICK MONEY</b>; <br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
 			<br/>
-			<br/>
 			#2) <b>NEW Information Technology (IT) Worker</b> : <b>"QUICK MONEY"</b><br/>
 			observed: <b>classification</b> due to <b>news reports</b> from the <b>U.S.A.</b>;<br/>
 			--> example: <b>Forbes Asia</b>'s <b>List of Wealthiest Americans</b>,<br/>
@@ -578,11 +577,21 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> <b>objective:</b> <b>BUILD COMPANY</b> in <b>PHILIPPINES</b>;<br/>			
 			--> FROM: <b>INCOME</b> < <b>30K PHP</b> per MONTH<br/>
 			--> TO: <b>INCOME</b> > <b>30K PHP</b> per MONTH as <b>Overseas Filipino Worker (OFW)</b><br/>
+			--> where: <b>OFW</b> : <b>Training @Headquarters</b><br/>
 			--> <b>TOTAL ELAPSED TIME</b>: <= <b>5years</b>;<br/>
 			--> however, <b>"OFW"</b> keyphrase becomes <b>noticeable</b> by <b>MANLOLOKO group</b><br/>
 			--> to cause <b>ATTACKS</b>, e.g. <b>NOISE POLLUTION, THEFT</b><br/>
 			--> <b>NOT QUICK MONEY</b>; <br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
+
+		</td>
+	</tr>
+</table>
+
+
+<br/>
+<br/>
+
 <br/>			
 <br/>
 TO-DO: -update: this<br/>
@@ -674,14 +683,11 @@ remembers: doraemon
 --> adds: MACHINE/ROBOTS do NOT intentionally cause us harm
 --> example: electric fan;
 
+<br/>			
+<br/>			
+<br/>			
+<br/>			
 			
-		</td>
-	</tr>
-</table>
-
-
-<br/>
-<br/>
 
 
 tiyakin sa Medical Doctor ang mga hindi tiyak
