@@ -635,10 +635,10 @@ TO-DO: -update: this<br/>
 			<br/>
 			<b>INCREASE</b> of <b>Overseas Filipino Workers (OFW)</b> to <b>INCREASE MONEY</b> in Philippines via <b>U.S. Dollar remittances</b>;<br/>
 			<br/>
-			--> added: as <b>WARNING</b>, that such <b>ACTION</b>, shall cause <b>BRAIN DRAIN</b> if <b>CONTINUED</b> in <b>EXCESS</b>;<br/>
+			--> added: as <b>WARNING</b>, <b>ACTION</b>, causes <b>BRAIN DRAIN</b> if <b>CONTINUED</b> in <b>EXCESS</b>;<br/>
 			--> where: <b>BRAIN DRAIN</b>: <b>know-how</b> <b>shared abroad</b>, NOT in Philippines;<br/>
 			<br/>
-			--> adds: <b>observation</b> that select BANKS, e.g. <b>BDO</b>, to have noticeable <b>LESS SERVICE FEE</b> for received <b>U.S. Dollar remittances</b> classified as <b>SUPPORT</b> for the <b>ACTION</b>;<br/>
+			--> adds: <b>observation</b> that select BANKS, e.g. <b>BDO</b>, to have noticeable <b>LOW SERVICE FEE</b> for received <b>U.S. Dollar remittances</b> classified as <b>SUPPORT</b> for the <b>ACTION</b>;<br/>
 			</td></tr>
 			</table>
 			<br/>
