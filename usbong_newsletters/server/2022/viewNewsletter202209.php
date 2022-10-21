@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221020; from 20221017	
+  @date updated: 20221021; from 20221020	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -170,7 +170,11 @@
 							/* text-indent: 5%;*/
 
 						}
-						
+												
+						table.reminderTable
+						{
+							border: 1px solid #ab9c7d;
+						}
 						
 						table.imageTable
 						{
@@ -520,6 +524,13 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> with <b>varying names</b> and <b>prices</b><br/>
 --> <b>recommended:</b> to partner, MOSC, to maintain <b>variation count</b> to only <b>500</b> (MAX);<br/>
 --> This is as with select stores in <b>GERMANY</b>;<br/>
+<br/>
+--> <b>Example#1</b>: <b>ALDI</b> Discount Super Store : <b>600</b> items (household regularly buys)<br/>
+--> <b>Example#2</b>: <b>Spar</b> Discount Super Store : <b>200</b> items (household regularly buys)<br/>
+<br/>
+--> <b>Reference:</b><br/> 
+Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/>
+<br/>
 --> received: notification to simply <b>continue adding</b><br/>
 --> <b>objective:</b> <b>REDUCE</b> non-medicine item <b>PRICES</b> for patients<br/>
 --> remembers: <b>PROBLEM</b> to also have existed with <b>medicine items</b><br/> 
@@ -539,30 +550,94 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<b>FALSE BELIEFS</b><br/>
 			<br/>
 			#1) <b>NEW Medical Doctor (MD)</b> : <b>"QUICK MONEY"</b><br/>
-			observed: classification due to own family members, e.g. <b>Senior Citizens (SC)</b>, who begin to have noticeable <b>NEED for MD</b>;<br/>
+			observed: <b>classification</b> due to own family members, e.g. <b>Senior Citizens (SC)</b>, who begin to have noticeable <b>NEED for MD</b>;<br/>
 			--> where: <b>COST</b> for <b>MD service</b> becomes <b>noticeable</b>;<br/>
 			<br/>						
 			<b>Medical School COST</b> >= <b>1 Million PHP</b>;<br/>
 			--> <b>TOTAL tuition</b> @<b>Private School</b>;<br/>
 			--> After 5 years, <b>Residency Training</b> @<b>Public Hospital</b>:<br/> 
-			--> <b>INCOME</b>  >= <b>30K PHP</b>;<br/>
+			--> <b>INCOME</b>  >= <b>30K PHP</b> per MONTH;<br/>
 			--> however, after training, to set new <b>Private Practice</b>;<br/>
-			--> <b>INCOME</b> may be < <b>30K PHP</b>;<br/>
+			--> <b>INCOME</b> may be < <b>30K PHP</b> per MONTH;<br/>
 			--> <b>NOT QUICK MONEY</b>; <br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
 			<br/>
 			<br/>
-			#2) <b>Information Technology (IT)</b> : <b>"QUICK MONEY"</b><br/>
-			observed: classification due to news reports from the U.S.A.;<br/>
-			--> example: Forbes Asia's List of Wealthiest Americans,<br/>
-			--> where: TOP 10 in List classified to be in I.T.;<br/>
-			--> observed: in the 90's, increase of I.T. students and Nurses,<br/>
-			--> with objective to go to U.S.A.;<br/>
+			#2) <b>NEW Information Technology (IT) Worker</b> : <b>"QUICK MONEY"</b><br/>
+			observed: <b>classification</b> due to <b>news reports</b> from the <b>U.S.A.</b>;<br/>
+			--> example: <b>Forbes Asia</b>'s <b>List of Wealthiest Americans</b>,<br/>
+			--> where: <b>TOP 10</b> in List classified to be in <b>I.T.</b>;<br/>
+			--> observed: in the <b>90's</b>, increase of <b>I.T.</b> (and <b>Nursing</b>) <b>students</b>,<br/>
+			--> whose <b>objective:</b> to go to <b>U.S.A.</b>;<br/>
 			<br/>
-			<b>Reminder:</b> Former President RAMOS, Fidel V (RIP) recommended the increase of Overseas Filipino Workers (OFW) to increase money in Philippines via U.S. Dollar remittance;<br/>
-			--> added: as warning, that such ACTION, shall cause BRAIN DRAIN if continued in excess;<br/>
-			--> where: BRAIN DRAIN: know-how is shared abroad, NOT shared in Philippines;<br/>
-			--> observed: with Nurses, MONEY still NOT sufficient due to they send their children to study in Philippines, instead of in U.S.A.<br/>
+			<b>I.T. Computer Programmer Training</b> = <b>1 YEAR (approx)</b><br/>
+			--> notes: self by <b>19 years old</b>, already <b>worked to receive payment</b>, <br/>
+			--> while as <b>part-time student</b>;<br/>
+			--> learns: <b>BUSINESS (: ease people)</b>;<br/>
+			--> adds: <b>ACCOUNTING</b> : <b>INCOME</b> > <b>EXPENSES</b>;<br/>	
+			--> <b>objective:</b> <b>BUILD COMPANY</b> in <b>PHILIPPINES</b>;<br/>			
+			--> FROM: <b>INCOME</b> < <b>30K PHP</b> per MONTH<br/>
+			--> TO: <b>INCOME</b> > <b>30K PHP</b> per MONTH as <b>Overseas Filipino Worker (OFW)</b><br/>
+			--> <b>TOTAL ELAPSED TIME</b>: <= <b>5years</b>;<br/>
+			--> however, <b>"OFW"</b> keyphrase becomes <b>noticeable</b> by <b>MANLOLOKO group</b><br/>
+			--> to cause <b>ATTACKS</b>, e.g. <b>NOISE POLLUTION, THEFT</b><br/>
+			--> <b>NOT QUICK MONEY</b>; <br/>
+			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
+<br/>			
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+<br/>
+
+			--> observed: <b>MANLOLOKO</b> to be <b>INGGIT (ENVIOUS)</b><br/>
+			--> due to <b>OFW INCOME</b> appears > <b>ILLEGAL ACTION INCOME</b><br/>
+			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
+			<br/>
+			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
+			--> where: <b>Vehicle COST</b> >= <b>500K PHP</b> in <b>one (1) MONTH</b><br/>
+			--> adds: <b>Vehicle MOTORCYCLE COST</b> @ <b>100K PHP (APPROX)</b><br/>
+<br/>
+<br/>
+<br/>
+<br/>			
+--> learns: business (: ease people); accounting; income > expenses;
+--> pay 10K, monthly; receives 20K income?
+--> paid-up capital: @40K PHP; 
+--> 4 months; no income; add another 40K PHP to continue;
+--> IF has investment, with 4% interest as income;
+--> opts: for that investment, instead of start new business with < 4% income; LOGIC;
+--> examples: 
+--> investment: peso-bond @6.74% net income;
+--> PAG-IBIG MP2 @6% (minimum) net income;
+--> NOT QUICK MONEY;
+--> total approx: 10 years;
+
+			
+			
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<table class="reminderTable">
+			<tr><td>
+			<b>REMINDER:</b><br/> 
+			<b>Former President RAMOS, Fidel V (RIP)</b>'s <b>RECOMMENDATION:</b><br/>
+			<br/>
+			<b>INCREASE</b> of <b>Overseas Filipino Workers (OFW)</b> to <b>INCREASE MONEY</b> in Philippines via <b>U.S. Dollar remittances</b>;<br/>
+			<br/>
+			--> added: as <b>WARNING</b>, that such <b>ACTION</b>, shall cause <b>BRAIN DRAIN</b> if <b>CONTINUED</b> in <b>EXCESS</b>;<br/>
+			--> where: <b>BRAIN DRAIN</b>: <b>know-how</b> <b>shared abroad</b>, NOT in Philippines;<br/>
+			<br/>
+			--> adds: <b>observation</b> that select BANKS, e.g. <b>BDO</b>, to have noticeable <b>LESS SERVICE FEE</b> for received <b>U.S. Dollar remittances</b> classified as <b>SUPPORT</b> for the <b>ACTION</b>;<br/>
+			</td></tr>
+			</table>
+			<br/>
+			<b>OUTPUT</b><br/>
+			--> from <b>HISTORY</b>, <b>I.T. workers and Nurses</b><br/>
+			--> <b>CHANGE CITIZENSHIP</b> to be that of the U.S.A.;<br/> 
+			--> however, <b>ZERO</b> noticeable <b>FILIPINO I.T. workers</b> in <b>WEALTHIEST LIST</b><br/>			
+			--> adds: with <b>FILIPINO Nurses</b>, <b>MONEY still NOT sufficient</b> due to they send their children to study in Philippines, instead of in U.S.A.<br/>
 			<br/>
 			<br/>
 			
