@@ -12,6 +12,52 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [なぜ中学受験の塾代は「高すぎる」のか　大手塾講師が明かす業界事情](https://www.asahi.com/articles/ASQBH63B2Q81UTIL039.html?iref=comtop_7_02); last accessed: 20221022
+
+> なぜ中学受験の塾代は「高すぎる」のか　大手塾講師が明かす業界事情
+
+Bakit "labis na mataas" ang bayarin sa REVIEW SCHOOL upang pumasok sa Gitnang Paaralan? Lilinawin ng Mangangaral sa Malaking REVIEW SCHOOL ang Kalagayan ng Industriya 
+
+> 高浜行人2022年10月22日 7時00分
+
+TAKAMATSU, YUKITO; 2022-10-22T07:00
+
+### Pinaikling Pagbubuod
+
+> 保護者の負担感、わかっているが…
+
+Pakiramdam ng inaako ng Tagapagbantay...
+
+>　男性が別の塾で講師になったころは、1教室に50人を入れて講師1人で授業することもざらだった。
+
+Nang naging Mangangaral sa ibang REVIEW SCHOOL ang Lalake, karaniwan na rin ang 1 Mangangaral sa 1 Silid Aralan na may 50 taong tuturuan. 
+
+> 東京都内の大手学習塾で中学受験生を教える40代男性は、アルバイト時代を含めると講師歴が20年以上になる。
+
+Kabilang ang panahon kung kailan siya part-time, may mahigit 20 taon nang kasaysayan bilang Mangangaral ang 40's na lalakeng nagtuturo sa mga Mag-aaral tungo sa Gitnang Paaralan sa Malaking REVIEW SCHOOL sa loob ng Lungsod ng TOKYO.
+
+>　小学生の息子2人を自社の塾に通わせている。この塾に小4から3年間通うと、通常は300万円程度はかかるという。
+
+2 ang kaniyang anak na lalakeng Mag-aaral sa Mababang Paaralan na pinapupunta niya sa sarili rin niyang pinapasukang REVIEW SCHOOL. Dito, sa loob ng 3 Taon, mula ika-4 sa Mababang Paaralan, sinasabing karaniwang gagasta ng 3 Milyong YEN (mga 1.5 Milyong Piso).
+
+>　子どもを私立中に通わせる場合、塾代に加えて合格後の学費なども考えると、世帯年収が1千万円を超えないと厳しいのでは――。男性はそう感じている。
+
+Sa kaso ng mga batang pumapasok sa PRIBADONG (Nagsariling) Gitnang Paaralan, Pakiramdan ng Lalakeng gipit kapag hindi makalampas sa 10 Milyong YEN (mga 5 Milyong PISO) ang Taunang KITA, kapag pinagnilayang idagdag sa panahon sa REVIEW SCHOOL, ang gastos sa pag-aaral pagkatapos pumasa.
+
+>　自身の年収は800万円台。2人の子の塾代は社内割引で通常より安くすんでいるとはいえ、負担感は非常に大きい。食費も切り詰め、節約する日々だ。
+
+8 Milyong YEN (mga 400 Milyong PISO), ang kaniyang sariling Taunang KITA. Masabi mang dahil sa DISCOUNT (BAWAS) sa mga tauhan ng REVIEW SCHOOL, higit na mura ito kaysa sa karaniwang bayarin ng kanyang dalawang anak, hindi naman karaniwan ang laki ng kaniyang inaako bilang Mangangaral. Araw-araw din ang pagtitipid, at pagbabawas ng gastos sa pagkain.
+
+>　「自分も外部の保護者だったら、塾が『取りすぎ』だと疑うだろう」
+
+"Marahil maghihinala rin akong 'labis ang kinukuha' ng REVIEW SCHOOL, kapag sa taga-labas ako."
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [「まるで課金ゲーム」大手塾の補習で別の塾へ　中学受験に募る疑問](https://www.asahi.com/articles/ASQBH635RQ7ZUTIL016.html?iref=comtop_7_05); last accessed: 20221020
 
 
