@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221021; from 20221020	
+  @date updated: 20221022; from 20221021	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -525,8 +525,10 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> <b>recommended:</b> to partner, MOSC, to maintain <b>variation count</b> to only <b>500</b> (MAX);<br/>
 --> This is as with select stores in <b>GERMANY</b>;<br/>
 <br/>
---> <b>Example#1</b>: <b>ALDI</b> Discount Super Store : <b>600</b> items (household regularly buys)<br/>
---> <b>Example#2</b>: <b>Spar</b> Discount Super Store : <b>200</b> items (household regularly buys)<br/>
+--> <b>Example#1</b>: <b>ALDI</b> Discount Super Store : <b>600</b> items<br/>
+--> <b>Example#2</b>: <b>Spar</b> Discount Super Store : <b>200</b> items<br/>
+<br/>
+where: items = bought regularly by households;<br/>
 <br/>
 --> <b>Reference:</b><br/> 
 Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/>
@@ -587,46 +589,6 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 		</td>
 	</tr>
 </table>
-
-
-<br/>
-<br/>
-
-<br/>			
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-
-			--> observed: <b>MANLOLOKO</b> to be <b>INGGIT (ENVIOUS)</b><br/>
-			--> due to <b>OFW INCOME</b> appears > <b>ILLEGAL ACTION INCOME</b><br/>
-			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
-			<br/>
-			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
-			--> where: <b>Vehicle COST</b> >= <b>500K PHP</b> in <b>one (1) MONTH</b><br/>
-			--> adds: <b>Vehicle MOTORCYCLE COST</b> @ <b>100K PHP (APPROX)</b><br/>
-<br/>
-<br/>
-<br/>
-<br/>			
---> learns: business (: ease people); accounting; income > expenses;
---> pay 10K, monthly; receives 20K income?
---> paid-up capital: @40K PHP; 
---> 4 months; no income; add another 40K PHP to continue;
---> IF has investment, with 4% interest as income;
---> opts: for that investment, instead of start new business with < 4% income; LOGIC;
---> examples: 
---> investment: peso-bond @6.74% net income;
---> PAG-IBIG MP2 @6% (minimum) net income;
---> NOT QUICK MONEY;
---> total approx: 10 years;
-
-			
-			
-			<br/>
-			<br/>
-			<br/>
-			<br/>
 			<br/>
 			<table class="reminderTable">
 			<tr><td>
@@ -642,13 +604,61 @@ TO-DO: -update: this<br/>
 			</td></tr>
 			</table>
 			<br/>
-			<b>OUTPUT</b><br/>
-			--> from <b>HISTORY</b>, <b>I.T. workers and Nurses</b><br/>
-			--> <b>CHANGE CITIZENSHIP</b> to be that of the U.S.A.;<br/> 
-			--> however, <b>ZERO</b> noticeable <b>FILIPINO I.T. workers</b> in <b>WEALTHIEST LIST</b><br/>			
-			--> adds: with <b>FILIPINO Nurses</b>, <b>MONEY still NOT sufficient</b> due to they send their children to study in Philippines, instead of in U.S.A.<br/>
+			<b>OUTPUT#1: ABROAD</b><br/>
+			--> from <b>HISTORY</b>, <b>I.T. workers and Nurses (OFW)</b><br/>
+			--> <b>CHANGE CITIZENSHIP</b> to be that of the <b>U.S.A.</b>;<br/> 
+			--> however, <b>ZERO</b> noticeable such <b>I.T. workers</b> in <b>WEALTHIEST LIST</b><br/>			
+			--> adds: with <b>Nurses</b>, <b>MONEY still NOT sufficient</b><br/>
+			--> due to they send their children to study in Philippines, instead of in <b>U.S.A</b>.<br/>
+			<br/>
+			<b>OUTPUT#2: PHILIPPINES</b><br/>
+			--> observed: <b>MANLOLOKO</b> to be <b>INGGIT (ENVIOUS)</b><br/>
+			--> due to <b>OFW INCOME</b> appears > <b>ILLEGAL ACTION INCOME</b><br/>
+			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
+			<br/>
+			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
+			--> where: <b>Vehicle COST</b> >= <b>500K PHP</b> in <b>one (1) MONTH</b><br/>
+			--> adds: <b>Vehicle MOTORCYCLE COST</b> @ <b>100K PHP (APPROX)</b><br/>			
+<br/>
+<br/>			
+<table class="reminderTable">
+			<tr><td>
+			<b>RECOMMENDED ACTION:</b><br/> 
+			LEARN BUSINESS (: ease people);<br/> 
+			--> where: <b>ACCOUNTING</b>: <b>INCOME</b> > <b>EXPENSES</b>;<br/>
+			<br/> 
+			--> <b>EXAMPLE as NEW BUSINESS:</b><br/> 
+			--> PAY <b>10K PHP</b>, monthly; receives <b>20K PHP</b> in <b>INCOME</b>?<br/>
+			--> <b>PAID-UP CAPITAL</b>: @<b>40K PHP</b>;<br/> 
+			--> <b>IF</b> after 4 months, <b>NO INCOME</b>;<br/>  
+			--> add: another <b>40K PHP</b> to continue;<br/>
+			--> <b>PROBLEM:</b> <b>INCOME</b> < <b>EXPENSES</b>;<br/> 
+			<br/> 
+			--> <b>IF</b> has <b>INVESTMENT</b>, with <b>4% INTEREST INCOME</b>;<br/> 
+			--> opts: for <b>INVESTMENT</b>, instead of <b>START NEW BUSINESS</b><br/>
+			--> where: <b>INCOME</b> : <b>< 4% </b>; <br/>
+			--> keyphrase: <b>LOGIC</b>;<br/>
 			<br/>
 			<br/>
+			--> examples: 
+			--> investment: peso-bond @6.74% net income;
+			--> PAG-IBIG MP2 @6% (minimum) net income;
+			--> NOT QUICK MONEY;
+			--> total approx: 10 years;
+			
+
+			</td></tr>
+			</table>
+			
+			
+
+
+
+			
+			
+			<br/>
+			<br/>
+			
 			
 --> self; since 19 years old, worked to receive payment as computer programmer; part-time student;
 --> learns: business (: ease people); accounting; income > expenses;
