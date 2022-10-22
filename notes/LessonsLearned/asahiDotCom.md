@@ -38,7 +38,7 @@ Kabilang ang panahon kung kailan siya part-time, may mahigit 20 taon nang kasays
 
 >　小学生の息子2人を自社の塾に通わせている。この塾に小4から3年間通うと、通常は300万円程度はかかるという。
 
-2 ang kaniyang anak na lalakeng Mag-aaral sa Mababang Paaralan na pinapupunta niya sa sarili rin niyang pinapasukang REVIEW SCHOOL. Dito, sa loob ng 3 Taon, mula ika-4 sa Mababang Paaralan, sinasabing karaniwang gagasta ng 3 Milyong YEN (mga 1.5 Milyong Piso).
+2 ang kaniyang anak na lalakeng Mag-aaral sa Mababang Paaralan na pinapupunta niya sa sarili rin niyang pinapasukang REVIEW SCHOOL. Dito, sa loob ng 3 Taon, mula ika-4 sa Mababang Paaralan, sinasabing karaniwang gumagasta ng 3 Milyong YEN (mga 1.5 Milyong Piso).
 
 >　子どもを私立中に通わせる場合、塾代に加えて合格後の学費なども考えると、世帯年収が1千万円を超えないと厳しいのでは――。男性はそう感じている。
 
@@ -46,7 +46,7 @@ Sa kaso ng mga batang pumapasok sa PRIBADONG (Nagsariling) Gitnang Paaralan, Pak
 
 >　自身の年収は800万円台。2人の子の塾代は社内割引で通常より安くすんでいるとはいえ、負担感は非常に大きい。食費も切り詰め、節約する日々だ。
 
-8 Milyong YEN (mga 400 Milyong PISO), ang kaniyang sariling Taunang KITA. Masabi mang dahil sa DISCOUNT (BAWAS) sa mga tauhan ng REVIEW SCHOOL, higit na mura ito kaysa sa karaniwang bayarin ng kanyang dalawang anak, hindi naman karaniwan ang laki ng kaniyang inaako bilang Mangangaral. Araw-araw din ang pagtitipid, at pagbabawas ng gastos sa pagkain.
+8 Milyong YEN (mga 4 Milyong PISO), ang kaniyang sariling Taunang KITA. Masabi mang dahil sa DISCOUNT (BAWAS) sa mga tauhan ng REVIEW SCHOOL, higit na mura ito kaysa sa karaniwang bayarin ng kanyang dalawang anak, hindi naman karaniwan ang laki ng kaniyang inaako bilang Mangangaral. Araw-araw din ang pagtitipid, at pagbabawas ng gastos sa pagkain.
 
 >　「自分も外部の保護者だったら、塾が『取りすぎ』だと疑うだろう」
 
