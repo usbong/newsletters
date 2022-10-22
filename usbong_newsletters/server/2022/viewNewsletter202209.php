@@ -617,15 +617,32 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
 			<br/>
 			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
-			--> where: <b>Vehicle COST</b> >= <b>500K PHP</b> in <b>one (1) MONTH</b><br/>
-			--> adds: <b>Vehicle MOTORCYCLE COST</b> @ <b>100K PHP (APPROX)</b><br/>			
+			--> where: <b>Vehicle COST (MOTORCYCLE)</b> @ <b>100K PHP (APPROX)</b> in <b>one (1) MONTH</b><br/>
+			--> adds: <b>STOLEN Vehicle COST</b> CAN be >= <b>500K PHP</b><br/>
+			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY)</b>;<br/>
+			--> where: <b>BANAWE (QUEZON CITY)</b> : <b>PHILIPPINE ORTHOPEDIC CENTER (POC)</b><br/>
+			--> adds: There exists <b>BANAWE (RICE TERRACES, ISABELA CITY; REGION 2)</b><br/>
+			--> keyphrase: <b>MANLOLOKO group</b>;<br/>
+			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>
 <br/>
-<br/>			
+<br/>
+MANLOLOKO group LOST > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
+<br/>
+Paalala) verified: Bureau of Customs (BOC) NEWS<br/>
+--> 1) @https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/;<br/>
+last accessed: 20221022<br/>
+<br/>
+<br/>
+TO-DO: -update: this
+<br/>
+<br/>
+
 <table class="reminderTable">
 			<tr><td>
 			<b>RECOMMENDED ACTION:</b><br/> 
 			LEARN BUSINESS (: ease people);<br/> 
 			--> where: <b>ACCOUNTING</b>: <b>INCOME</b> > <b>EXPENSES</b>;<br/>
+			--> reminder: <b>CARNAPPER/SMUGGLER</b> : NOT ease people<br/>
 			<br/> 
 			--> <b>EXAMPLE as NEW BUSINESS:</b><br/> 
 			--> PAY <b>10K PHP</b>, monthly; receives <b>20K PHP</b> in <b>INCOME</b>?<br/>
@@ -639,23 +656,14 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> where: <b>INCOME</b> : <b>< 4% </b>; <br/>
 			--> keyphrase: <b>LOGIC</b>;<br/>
 			<br/>
-			<br/>
-			--> examples: 
-			--> investment: peso-bond @6.74% net income;
-			--> PAG-IBIG MP2 @6% (minimum) net income;
-			--> NOT QUICK MONEY;
-			--> total approx: 10 years;
-			
-
+			--> <b>EXAMPLE INVESTMENTS into ADMIN (PAMAHALAAN):</b><br/> 
+			--> 1) <b>PESO-BOND</b> @<b>6.74% NET INCOME</b>;<br/>
+			--> 2) <b>PAG-IBIG MP2</b> @<b>6% (minimum) NET INCOME</b>;<br/>
+			--> <b>NOT QUICK MONEY</b>;<br/>
+			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10 years</b>;<br/>
 			</td></tr>
 			</table>
-			
-			
-
-
-
-			
-			
+<br/>			
 			<br/>
 			<br/>
 			
