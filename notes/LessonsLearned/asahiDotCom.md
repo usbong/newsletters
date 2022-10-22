@@ -42,7 +42,7 @@ Kabilang ang panahon kung kailan siya part-time, may mahigit 20 taon nang kasays
 
 >　子どもを私立中に通わせる場合、塾代に加えて合格後の学費なども考えると、世帯年収が1千万円を超えないと厳しいのでは――。男性はそう感じている。
 
-Sa kaso ng mga batang pumapasok sa PRIBADONG (Nagsariling) Gitnang Paaralan, Pakiramdan ng Lalakeng gipit kapag hindi makalampas sa 10 Milyong YEN (mga 5 Milyong PISO) ang Taunang KITA, kapag pinagnilayang idagdag sa panahon sa REVIEW SCHOOL, ang gastos sa pag-aaral pagkatapos pumasa.
+Sa kaso ng mga batang pumapasok sa PRIBADONG (Nagsariling) Gitnang Paaralan, pakiramdam ng Lalakeng gipit kapag hindi makalampas sa 10 Milyong YEN (mga 5 Milyong PISO) ang Taunang KITA, kapag pinagnilayang idagdag sa panahon sa REVIEW SCHOOL, ang gastos sa pag-aaral pagkatapos pumasa.
 
 >　自身の年収は800万円台。2人の子の塾代は社内割引で通常より安くすんでいるとはいえ、負担感は非常に大きい。食費も切り詰め、節約する日々だ。
 
