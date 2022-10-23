@@ -1,5 +1,53 @@
 # Lessons-learned from: Manila Bulletin
 
+
+## "Poor pension system to keep PF from being rich - Salceda" (20221023; SUNDAY)
+
+### Author
+
+QUISMORIO, ELLSON A
+
+### Keyphrase
+
+> "...breadwinners will continue to be the retirement plans of their parents. Instead of saving for homes or for their children's educations, they will be supporting the living and medical expenses of their elders. And that will keep us from being a rich country"
+
+--> keyphrase: young generation, build wealth, hampered by needs of dependent parents, CURSE (sumpa; 呪い（のろい）)
+
+### Dagdag
+
+--> adds: NOISE POLLUTION from MANLOLOKO group causes INCREASE in MEDICAL EXPENSES;<br/>
+--> where: <b>MANLOLOKO</b> : <b>budol-budol</b>/<b>carnapper</b>/<b>smuggler</b>/<b>cybercriminal</b><br/>
+--> adds: <b>Teroristang Komunista</b><br/>
+--> keyphrase: NOISE POLLUTION <br/>
+--> where: NOISE POLLUTION is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL DRUGS</b><br/>
+--> adds: QUICK MONEY, EXCESS MONEY, ILLEGAL DRUGS<br/>
+
+#### Example NOISE POLLUTION: 
+
+"TANGA", "'TANGINA", "BOBONG INA", "BOBONG PULIS", "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
+<br/>
+--> adds: MANLOLOKO group misuses WIRELESS BROADCASTING TECHNOLOGY<br/>
+--> to cause the EFFECT equal with ILLEGAL DRUGS<br/>
+<br/>
+--> Example WIRELESS BROADCASTING TECHNOLOGY:<br/> 
+--> RADIO FREQUENCY, WIRELESS BROADCASTING TOWER<br/>
+--> Example ILLEGAL DRUGS:  marijuana, 大麻 (taima);<br/>
+--> Example EFFECT : excitement, dizziness, illusion<br/>
+--> via ATTACKING CENTRAL NERVE (BRAIN)<br/>
+--> keyphrase: NOISE POLLUTION, ENT, INSUFFICIENT OXYGEN<br/>
+--> where: ENT = Ear, Nose, Throat
+
+> Philippine Statistics Authority: ONLY 20% of Senior Citizens covered by Social Security System (SSS) or GOvernment Service Insurance System (GSIS)
+
+--> due to concentration in METRO MANILA?<br/>
+<br/>
+--> observed: already noticeable increase of SSS contribution payment<br/> 
+--> @3280 PHP (MAX) per month;<br/>
+--> observed: Senior Citizens in MARIKINA CITY to receive PENSION;<br/>
+--> observed: to cause noticeable DELAY @SSS MAIN BRANCH due to increased people waiting;<br/>
+--> Example (REGISTRATION): 05:30~12:30; ELAPED TIME: 7HRS<br/>
+--> adds: OUTPUT despite use of DAY based on SSS Number's LAST DIGIT technique
+
 ## "Globe bats for multi-stakeholder initiative vs mobile phone scams" (20221008; SATURDAY)
 
 ### Author
