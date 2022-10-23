@@ -34,9 +34,12 @@ QUISMORIO, ELLSON A
 <br/>
 --> Example WIRELESS BROADCASTING TECHNOLOGY:<br/> 
 --> RADIO FREQUENCY, WIRELESS BROADCASTING TOWER<br/>
+<br/>
 --> Example ILLEGAL DRUGS:  marijuana, 大麻 (taima);<br/>
+<br/>
 --> Example EFFECT : excitement, dizziness, illusion<br/>
 --> via ATTACKING CENTRAL NERVE (BRAIN)<br/>
+<br/>
 --> keyphrase: NOISE POLLUTION, ENT, INSUFFICIENT OXYGEN<br/>
 --> where: ENT = Ear, Nose, Throat
 
