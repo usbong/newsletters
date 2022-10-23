@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221022; from 20221021	
+  @date updated: 20221023; from 20221022	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -619,20 +619,62 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
 			--> where: <b>Vehicle COST (MOTORCYCLE)</b> @ <b>100K PHP (APPROX)</b> in <b>one (1) MONTH</b><br/>
 			--> adds: <b>STOLEN Vehicle COST</b> CAN be >= <b>500K PHP</b><br/>
-			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY)</b>;<br/>
-			--> where: <b>BANAWE (QUEZON CITY)</b> : <b>PHILIPPINE ORTHOPEDIC CENTER (POC)</b><br/>
+			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY (QC))</b>;<br/>
+			--> where: <b>BANAWE (QC)</b> : <b>Vehicle Service Shops</b>, <b>POC</b><br/>
+			--> <b>POC</b> = <b>PHILIPPINE ORTHOPEDIC CENTER</b><br/>
 			--> adds: There exists <b>BANAWE (RICE TERRACES, ISABELA CITY; REGION 2)</b><br/>
-			--> keyphrase: <b>MANLOLOKO group</b>;<br/>
+			--> keyphrase: <b>MANLOLOKO group</b> connected to <b>BANAWE (QC & REGION 2)</b>;<br/>
 			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>
 <br/>
+<b>ADDITIONAL REMINDERS</b><br/>
+<h5>
+<b>MANLOLOKO group</b> <b>LOST</b> > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
 <br/>
-MANLOLOKO group LOST > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
+verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
+--> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
+last accessed: 20221023; from 20220322<br/>
 <br/>
-Paalala) verified: Bureau of Customs (BOC) NEWS<br/>
---> 1) @https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/;<br/>
-last accessed: 20221022<br/>
+<b>
+    | BOC Destroys 21 Smuggled Vehicles<br/>
+    | Posted on June 18, 2021<br/>
+</b>
 <br/>
+--<br/>
 <br/>
+<b>
+    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+--> 2) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/">https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/</a>; last accessed: 20221023; from 20220322<br/>
+<b><br/>
+| MICP Seizes php 9M Worth of Smuggled Agricultural Products<br/>
+| Posted on October 15, 2021<br/> 
+</b>
+<br/>
+--<br/>
+<br/>
+<b>
+BOC-IG recorded a total estimated value of 545.06 million worth of seized smuggled agricultural products. In terms of value, the following are the top three commodities: (1) rice amounting to 206.80 million (2) onions amounting to 190.48 million, and (3) garlic amounting to Php 55 million.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+keyphrase: > <b>58.55Million PHP</b> used for <b>YABANG</b><br/> 
+--> adds: <b>QUICK MONEY</b>, <b>EXCESS MONEY</b>, <b>ILLEGAL DRUGS</b><br/>
+--> where: due to <b>LOST MONEY</b>, <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
+<br/>
+reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>ILLEGAL DRUGS</b><br/>
+--> adds: <b>MANLOLOKO</b> group misuses <b>WIRELESS BROADCASTING TECHNOLOGY</b> to cause the <b>EFFECT</b> equal with <b>ILLEGAL DRUGS</b>,<br/> 
+--> <b>Example ILLEGAL DRUGS</b>:  marijuana, 大麻 (taima);<br/>
+--> <b>Example EFFECT</b> : excitement, dizziness, illusion</b><br/>
+--> via <b>ATTACKING CENTRAL NERVE</b><br/>
+--> keyphrase: <b>NOISE POLLUTION</b>,<br/> 
+--> <b>Ear, Nose, Throat (ENT)</b>, <b>INSUFFICIENT OXYGEN</b><br/>
+<br/>
+<br/> 
+<br/> 
 TO-DO: -update: this
 <br/>
 <br/>
