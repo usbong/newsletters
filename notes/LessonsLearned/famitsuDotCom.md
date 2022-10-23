@@ -42,7 +42,7 @@ PC : Steam版
 
 ### MEMO
 
-> クラス（職業）
+1) > クラス（職業）
 
 CLASSIFICATION (CLASS); JOB CLASS
 
@@ -53,11 +53,11 @@ CLASSIFICATION (CLASS); JOB CLASS
 <br/>
 observed: "JOB" to be opted for use;
 
-> フルボイス化されていたこと
+2) > フルボイス化されていたこと
 
 added: FULL VOICE-OVER
 
-> ルートによって内容が大きく異なるマルチストーリー＆マルチエンディング方式を採用している本作
+3) > ルートによって内容が大きく異なるマルチストーリー＆マルチエンディング方式を採用している本作
 
 Based on ROUTE, has big CHANGE in CONTENT:<br/>
 MULTI-STORY & MULTI-ENDING SYSTEM
@@ -71,7 +71,7 @@ CHOICE OPTIONS
 MOVEMENT in IMPRESSION towards the Protagonists of the 3 TRIBES (POWER);<br/>
 There appears to exist 2 variations;
 
-> 本作ではBGMも、新たに生演奏による再レコーディングがすべての楽曲において行われている
+4) > 本作ではBGMも、新たに生演奏による再レコーディングがすべての楽曲において行われている
 
 includes: BGM of all the Musical Pieces from the NEWLY recorded LIVE PERFORMANCE
 
