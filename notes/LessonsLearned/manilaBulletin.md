@@ -11,7 +11,10 @@ QUISMORIO, ELLSON A
 
 > "...breadwinners will continue to be the retirement plans of their parents. Instead of saving for homes or for their children's educations, they will be supporting the living and medical expenses of their elders. And that will keep us from being a rich country"
 
+--> from: SALCEDA, JOEY (ALBAY 2nd District Congressman)<br/>
+<br/>
 --> keyphrase: young generation, build wealth, hampered by needs of dependent parents, CURSE (sumpa; 呪い（のろい）)
+
 
 ### Dagdag
 
