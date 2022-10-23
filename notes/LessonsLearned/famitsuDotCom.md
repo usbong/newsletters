@@ -15,7 +15,7 @@
 
 1) > オリジナル版: 1995年10月6日; スーパーファミコン
 
-ORIGINAL version: 1995-10-06; 
+ORIGINAL version: 1995-10-06; <br/>
 SUPER FAMILY COMPUTER
 
 2) > リメイク版 (『タクティクスオウガ 運命の輪』): 2010年10月11日; プレイステーション･ポータブル
@@ -68,7 +68,8 @@ CHOICE OPTIONS
 
 > 3つの民族（勢力）の主人公に対する印象を左右するもの、2種類あるようだ。
 
-MOVEMENT in IMPRESSION towards the Protagonists of the 3 TRIBES (POWER)
+MOVEMENT in IMPRESSION towards the Protagonists of the 3 TRIBES (POWER);<br/>
+There appears to exist 2 variations;
 
 > 本作ではBGMも、新たに生演奏による再レコーディングがすべての楽曲において行われている
 
