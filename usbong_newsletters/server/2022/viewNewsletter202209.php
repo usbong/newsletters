@@ -617,7 +617,7 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
 			<br/>
 			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
-			--> where: <b>Vehicle COST (MOTORCYCLE)</b> @ <b>100K PHP (APPROX)</b> in <b>one (1) MONTH</b><br/>
+			--> where: <b>Vehicle COST (MOTORCYCLE)</b> @<b>100K PHP (approx)</b> in <b>1 MONTH</b><br/>
 			--> adds: <b>STOLEN Vehicle COST</b> CAN be >= <b>500K PHP</b><br/>
 			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY (QC))</b>;<br/>
 			--> where: <b>BANAWE (QC)</b> : <b>Vehicle Service Shops</b>, <b>POC</b><br/>
@@ -628,10 +628,10 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 <br/>
 <b>ADDITIONAL REMINDERS</b><br/>
 <h5>
-<b>MANLOLOKO group</b> <b>LOST</b> > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
+<b>MANLOLOKO group</b> <b>LOST</b> > <b>50 Million PHP</b> of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
 <br/>
 verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
---> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
+1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
 last accessed: 20221023; from 20220322<br/>
 <br/>
 <b>
@@ -647,7 +647,7 @@ last accessed: 20221023; from 20220322<br/>
 <br/>
 --<br/>
 <br/>
---> 2) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/">https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/</a>; last accessed: 20221023; from 20220322<br/>
+2) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/">https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/</a>; last accessed: 20221023; from 20220322<br/>
 <b><br/>
 | MICP Seizes php 9M Worth of Smuggled Agricultural Products<br/>
 | Posted on October 15, 2021<br/> 
@@ -666,19 +666,33 @@ keyphrase: > <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 --> where: due to <b>LOST MONEY</b>, <b>MANLOLOKO</b> <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
 <br/>
 reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL DRUGS</b><br/>
---> adds: <b>MANLOLOKO</b> group misuses <b>WIRELESS BROADCASTING TECHNOLOGY</b> to cause the <b>EFFECT</b> equal with <b>ILLEGAL DRUGS</b>,<br/> 
+<br/>
+<b>Example NOISE POLLUTION:</b> "TANGA", "'TANGINA", "BOBONG INA",<br/>
+"BOBONG PULIS", "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
+<br/>
+--> adds: <b>MANLOLOKO</b> group misuses <b>WIRELESS BROADCASTING TECHNOLOGY</b> to cause the <b>EFFECT</b> equal with <b>ILLEGAL DRUGS</b>;<br/> 
+<table width="90%">
+<tr>
+ <td>
+    <br/>
+	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+	Approx size: 6x6cm
+ </td>
+ <td>
+	NOTE: <b>RADIO FREQUENCY</b> set to <b>STATIC</b>;<br/>
+	<br/>
+	<b>WIRELESS BROADCASTING TOWER</b> misused to <b>TRANSMIT SIGNAL</b> to <b>FREQUENCY</b> set to <b>STATIC</b>
+ </td>
+</tr>			
+</table>
+<br/>
 --> <b>Example ILLEGAL DRUGS</b>:  marijuana, 大麻 (taima);<br/>
 --> <b>Example EFFECT</b> : excitement, dizziness, illusion</b><br/>
---> via <b>ATTACKING CENTRAL NERVE</b><br/>
+--> via <b>ATTACKING CENTRAL NERVE (BRAIN)</b><br/>
 --> keyphrase: <b>NOISE POLLUTION</b>, <b>ENT</b>, <b>INSUFFICIENT OXYGEN</b><br/> 
 --> where: <b>ENT</b> = <b>Ear, Nose, Throat</b><br/>
 <br/>
 <br/> 
-<br/> 
-TO-DO: -update: this
-<br/>
-<br/>
-
 <table class="reminderTable">
 			<tr><td>
 			<b>RECOMMENDED ACTION:</b><br/> 
