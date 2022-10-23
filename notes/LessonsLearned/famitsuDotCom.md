@@ -12,27 +12,67 @@
 
 > オリジナル版は1995年10月6日にスーパーファミコンにて、2010年10月11日にはリメイク版である『タクティクスオウガ 運命の輪』がプレイステーション･ポータブルにて発売されている。そして本作はプレイステーション･ポータブル版
 
-オリジナル版: 1995年10月6日; スーパーファミコン<br/>
+
+1) > オリジナル版: 1995年10月6日; スーパーファミコン
+
+ORIGINAL version: 1995-10-06; 
+SUPER FAMILY COMPUTER
+
+2) > リメイク版 (『タクティクスオウガ 運命の輪』): 2010年10月11日; プレイステーション･ポータブル
+
+REMAKE version (TACTICS ORGRE: WHEEL of FATE): 2010-10-11;<br/>
+PlayStation Portable
+
+### Dagdag
+
+"FATE" to sound as "FAITH";<br/>
+"FATE", "DESTINY";<br/>
 <br/>
-リメイク版 (『タクティクスオウガ 運命の輪』): 2010年10月11日; プレイステーション･ポータブル<br/>
-<br/>
-リメイク版 (『タクティクスオウガ リボーン』): 2022年11月11日に; Nintendo Switch、プレイステーション5、プレイステーション4、PC<br/>
-<br/>
+observed: "FATE" to be opted for use;
+
+3) > リメイク版 (『タクティクスオウガ リボーン』): 2022年11月11日に; Nintendo Switch、プレイステーション5、プレイステーション4、PC<br/>
+
+REMAKE version (TACTICS OGRE: REBORN): 2022-11-11;<br/>
+Nintendo Switch,<br/>
+PlayStation5,<br/>
+PlayStation4,<br/>
+Personal Computer (PC)<br/>
+
 PC : Steam版
 
 ### MEMO
 
-クラス（職業）<br/>
+> クラス（職業）
+
+CLASSIFICATION (CLASS); JOB CLASS
+
+### Dagdag
+
+"WORK" to sound as "WORKING CLASS";<br/>
+"WORK", "JOB";<br/>
 <br/>
-フルボイス化されていたこと<br/>
+observed: "JOB" to be opted for use;
+
+> フルボイス化されていたこと
+
+added: FULL VOICE-OVER
 
 > ルートによって内容が大きく異なるマルチストーリー＆マルチエンディング方式を採用している本作
 
-選択肢<br/>
+Based on ROUTE, has big CHANGE in CONTENT:<br/>
+MULTI-STORY & MULTI-ENDING SYSTEM
+
+> 選択肢
+
+CHOICE OPTIONS
 
 > 3つの民族（勢力）の主人公に対する印象を左右するもの、2種類あるようだ。
 
+MOVEMENT in IMPRESSION towards the Protagonists of the 3 TRIBES (POWER)
+
 > 本作ではBGMも、新たに生演奏による再レコーディングがすべての楽曲において行われている
+
+includes: BGM of all the Musical Pieces from the NEWLY recorded LIVE PERFORMANCE
 
 ### --
 
