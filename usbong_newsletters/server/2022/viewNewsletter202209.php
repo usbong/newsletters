@@ -507,7 +507,7 @@
 	</div>
 	<br>	
 	<div class="newsletterDate">
-	September 2022
+	September & October 2022
 	</div>
 	<br>
 	<br>			
@@ -663,15 +663,15 @@ BOC-IG recorded a total estimated value of 545.06 million worth of seized smuggl
 <br/>
 keyphrase: > <b>58.55Million PHP</b> used for <b>YABANG</b><br/> 
 --> adds: <b>QUICK MONEY</b>, <b>EXCESS MONEY</b>, <b>ILLEGAL DRUGS</b><br/>
---> where: due to <b>LOST MONEY</b>, <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
+--> where: due to <b>LOST MONEY</b>, <b>MANLOLOKO</b> <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
 <br/>
-reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>ILLEGAL DRUGS</b><br/>
+reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL DRUGS</b><br/>
 --> adds: <b>MANLOLOKO</b> group misuses <b>WIRELESS BROADCASTING TECHNOLOGY</b> to cause the <b>EFFECT</b> equal with <b>ILLEGAL DRUGS</b>,<br/> 
 --> <b>Example ILLEGAL DRUGS</b>:  marijuana, 大麻 (taima);<br/>
 --> <b>Example EFFECT</b> : excitement, dizziness, illusion</b><br/>
 --> via <b>ATTACKING CENTRAL NERVE</b><br/>
---> keyphrase: <b>NOISE POLLUTION</b>,<br/> 
---> <b>Ear, Nose, Throat (ENT)</b>, <b>INSUFFICIENT OXYGEN</b><br/>
+--> keyphrase: <b>NOISE POLLUTION</b>, <b>ENT</b>, <b>INSUFFICIENT OXYGEN</b><br/> 
+--> where: <b>ENT</b> = <b>Ear, Nose, Throat</b><br/>
 <br/>
 <br/> 
 <br/> 
