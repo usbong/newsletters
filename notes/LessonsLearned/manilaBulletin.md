@@ -1,7 +1,78 @@
 # Lessons-learned from: Manila Bulletin
 
+## "China plans to import more PH fruits, seeks cooperation in infra, agri, energy" (20221023; SUNDAY)
 
-## "Poor pension system to keep PF from being rich - Salceda" (20221023; SUNDAY)
+### Author
+
+MAGKILAT-CAHILES, BERNIE
+
+### Keyphrase
+
+CHINA and PHILIPPINES (PH), cooperation<br/>
+
+--> PH's largest trading partner for 6 consecutive years<br/>
+--> 82 Billion USD
+
+#### 4 KEY AREAS
+
+1) Agriculture
+
+<b>To Chinese Market:</b> durian, mangosteen, and frozen coconut meat <br/>
+
+<b>To Philippine Market:</b> agriculture science, technology, equipment
+
+2) Infrastructure 
+
+<b>"Belt and Road Initiative and Build Better More"</b><br/>
+
+roads, bridges, railway, and water facilities
+
+##### Digital
+
+5G networks, optical fiber network<br/>
+Big Data Cloud computing, AI, Internet of Things
+
+3) Energy
+
+Electric Vehicle Industry Development Act
+
+4) People to People Exchange
+
+### Dagdag
+
+remembers: WORKING ITALIAN people to prefer CHINA<br/>
+--> keyphrase: CHINA, equipment, FAR-RIGHT, Police<br/>
+--> reminder: Police against Teroristang Komunista group<br/>
+--> where: Teroristang Komunista group : budol-budol/carnapper/smuggler/cybercriminal<br/>
+--> adds: Teroristang Komunista group increases people classified as PWD,<br/>
+--> where: PWD = Persons-with-Disabilities;<br/>
+--> "Kahit hindi ka na maghanap-buhay, may tutulong,"<br/> 
+--> i.e. ADMIN (PAMAHALAAN), NOT Teroristang Komunista group<br/>
+
+#### Paalala#1: with CHINA, PAMAHALAAN = GOD
+
+--> adds: PAMAHALAAN NOT ROMAN CATHOLIC;<br/>
+--> adds: VATICAN : NOT ITALIA;<br/>
+--> adds: VATICAN : WALANG pag-aari, hiram;<br/>
+
+#### Paalala#2: PWD decreases ADMIN (PAMAHALAAN) MONEY
+--> carnapped, smuggled ITEMS: NO TAX<br/>
+--> reminder: Teroristang Komunista group as MAFIA has GAWA-GAWANG RULES<br/>
+--> keyphrase: QUICK MONEY;<br/>
+--> adds: IF does NOT obey, shall kill children first, then parents...;<br/>
+#### Recommended Action: 
+QUICK EXECUTION of such ACTION as LAW ENFORCEMENT against MANLOLOKO group;
+
+--> adds: even with MANLOLOKO children classified already as non-minors;<br/>
+
+#### Paalala#3: noticeable DEBT in ITALIA, NOT as GERMANY
+--> due to ITALIA had been opting for U.S.A. economic system?<br/>
+--> keyphrase: organized crime<br/>
+--> notes: expected such OUTPUT with PH using U.S.A. economic system;<br/>
+--> adds: U.S.A. economic system exists to be NOT CHANGED;<br/>
+--> adds: however, NO NEED to use such system with OWN COUNTRY
+
+## "Poor pension system to keep PH from being rich - Salceda" (20221023; SUNDAY)
 
 ### Author
 
