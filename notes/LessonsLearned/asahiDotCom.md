@@ -12,6 +12,39 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [子どもの人生、「塾歴」で決まる？少子化でも過熱する受験競争の実体](https://www.asahi.com/articles/ASQ10410FQ1MUPQJ00P.html?iref=comtop_ThemeRightS_01); last accessed: 20221024
+
+> 子どもの人生、「塾歴」で決まる？少子化でも過熱する受験競争の実体
+
+Napagpapasiyahan ba ang buhay ng bata sa kaniyang "Kasaysayan sa REVIEW SCHOOL"? Sa pagkaunti man ng mga bata, pagdanas ng labis na mainit na pakikipagtunggalian sa pagsusulit upang pumasok sa sunod na paaralan
+
+> 聞き手・高久潤 聞き手・藤田さつき 聞き手・真鍋弘樹2022年2月1日 5時00分
+
+Tagapakinig: TAKAHISA, JUN; <br/>
+Tagapakinig: FUJITA, SATSUKI; <br/>
+Tagapakinig: MANABE, HIROKI;<br/>
+2022-02-01T05:00 
+　
+### Pinaikling Pagbubuod
+
+> 大人も解けないような難問を、子どもが解けるようにすべく進学塾に通わせて、膨大な時間をかけさせる――。日本では1970年代からこんな光景が何世代にもわたり繰り返されてきました。
+
+Malawak na panahon ang ipinagugugol sa pagpapapunta sa mga bata sa REVIEW SCHOOL upang malutas nila ang mga mahihirap na tanong na kahit ang mga matatanda hindi malutas... Sa Bansang Hapon, ilang ulit na rin ang ganitong kalagayan mula pa nang mga taong 1970.
+
+> 学校の授業だけでは満足に対応できないうえ、1回の入試結果で合否が決まってしまう。このため、かつては学校の先生たちが「入試対策」を自ら買って出て対応していました。この「対策」を民間が担うようになったのが、塾産業の始まりです。
+
+Hindi man sapat ang aralin sa paaralan, pinagpapasiyahan ang bunga nito sa isang pampasok na pagsusulit. Dahil dito, sariling bumibili ang Tagapagturo ng "Paraan sa Pampasok na Pagsusulit (Sulatin)", at inaakma rito ang kaniyang itinuturo. Simula ng Industriya ng mga REVIEW SCHOOL ang pag-aako ng mamamayan dito sa "Paraan".
+
+### Paalala: 産業 : Industriya, Gawaan, Kalakaran
+
+### Dagdag
+
+remembers: SINGAPORE education system of sieving students based on performance from Elementary School to University<br/>
+--> notes: self based on performance to appear to NOT PASS University via such system<br/>
+--> where: those who do NOT execute well in Elementary school, even if there exists improvement in Middle School, shall NOT enter University<br/>
+--> keyphrase: Middle School
+
+
 ## [なぜ中学受験の塾代は「高すぎる」のか　大手塾講師が明かす業界事情](https://www.asahi.com/articles/ASQBH63B2Q81UTIL039.html?iref=comtop_7_02); last accessed: 20221022
 
 > なぜ中学受験の塾代は「高すぎる」のか　大手塾講師が明かす業界事情
