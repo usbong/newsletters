@@ -1,5 +1,73 @@
 # Lessons-learned: The Philippine STAR
 
+## “Best interest of the child” (20221021; FRIDAY)
+
+### “A LAW EACH DAY [Keeps Trouble Away]”
+
+### Author
+
+SISON, JOSE C
+
+### Keyphrase
+
+CASE: BATTLE for custody of children<br/>
+--> objective: best interest of children<br/>
+--> where: best interest : physical, educational, social and moral welfare of children<br/>
+--> adds: NOT of spouse<br/>
+<br/>
+Parents: Eddie and Lisa<br/>
+Children: three boys (the first two, twins)
+
+### ACTION:
+
+#### Lisa
+Lisa and the three children left Eddie<br/>
+--> due to: according to Lisa, Eddie's drug dependence worsened;<br/> 
+--> became difficult to live with;<br/>
+--> Example: always irritable and violent, inflicting physical harm on her
+
+#### Eddie
+
+filed: petition for habeas corpus seeking custody of their children
+
+#### Initial Hearing
+
+Both parties (Lisa and Eddie) agreed to undergo: 
+
+> psychiatric and psychological examination by a psychiatrist of their common choice
+> 
+--> where: results of examination shall become sole basis of court to decide on custody
+
+### Output (Lower Court)
+
+Court awarded the custody of the three children to Lisa<br/>
+--> due to Eddie not yet completely cured of drug addiction<br/>
+--> questioned: by Eddie before the Supreme Court
+
+### Output (Supreme Court)
+
+> ...lower court should have conducted a trial, notwithstanding the agreement of the parties to submit the case for resolution on the basis of the psychiatric report of the psychiatrist chosen by both, which is insufficient to justify the decision
+
+--> returned to lower court for Trial
+
+#### Cause
+
+Although Eddie has history of drug dependence, no record/evidence that shows he is unfit;<br/>
+--> where: unfit : inadequate in his moral, financial, and social well-being<br/>
+--> to provide for the children<br/>
+--> adds: court did not ascertain the choice of the children to which parent they want to live with;
+
+#### Reminder
+
+child of over 7 years of age, may choose which parent he/she prefers to live with<br/>
+--> where: chosen parent is fit
+
+#### --
+
+Laxamana vs. Laxamana<br/>
+General Register (G.R.) No. 144763<br/>
+2022-09-03
+
 ## “Stale claim” (20221014; FRIDAY)
 
 ### “A LAW EACH DAY [Keeps Trouble Away]”
