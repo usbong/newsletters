@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221023; from 20221022	
+  @date updated: 20221025; from 20221023	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -695,10 +695,60 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 <br/> 
 <table class="reminderTable">
 			<tr><td>
-			<b>RECOMMENDED ACTION:</b><br/> 
-			LEARN BUSINESS (: ease people);<br/> 
+			<b>EXECUTED ACTIONS as RECOMMENDED ACTIONS:</b><br/> 
+			1) continue: to <b>file incident reports</b> with <b>Law Enforcement</b>;<br/>
+			Example#1) <b>Philippine National Police (PNP)</b><br/>
+			<br/>
+			1.1) <b>Anti-cybercrime Group (ACG): Women and Children Cybercrime Protection Unit</b><br/>
+			--> <a class="webServiceLink" target="_blank" href="mailto:pnp.acg.wccpu@gmail.com">pnp.acg.wccpu@gmail.com</a><br/>
+			<br/>
+			1.2) <b>CRIMINAL INVESTIGATION AND DETECTION GROUP (CIDG)</b><br/>
+			--> <a class="webServiceLink" target="_blank" href="mailto:cidgnhqcrmc@gmail.com">cidgnhqcrmc@gmail.com</a><br/>
+			<br/>
+			Example#2) <b>Office of Public Safety and Security (OPSS: Marikina City) Team</b><br/>
+			--> <a class="webServiceLink" target="_blank" href="mailto:opss@marikina.gov.ph">opss@marikina.gov.ph</a><br/>
+			<br/>
+			reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
+			<br/>
+			<b>Additional Notes:</b><br/>
+			--> <b>Report ACTION</b> classified as <b>start of EXECUTION</b> of <b>LAW ENFORCEMENT</b><br/>
+			--> adds: noticeable <b>DELAY</b> to <b>finish EXECUTION</b>;<br/>
+			--> where: <b>finish</b> : <b>MANLOLOKO</b> with <b>NOISE POLLUTION DESTROYED</b><br/>
+			--> keyphrase: <b>already as expected</b>;<br/>
+			<br/>
+			--> adds: <b>CURRENT OUTPUT</b> is due to <b>CURRENT SYSTEM</b>;<br/>
+			--> where: <b>CURRENT SYSTEM</b> : <b>U.S.A. economic system</b><br/>
+			--> adds: <b>economic system</b> based on <b>MONEY</b> as <b>VOTE</b> to make <b>DECISION</b>,<br/>
+			--> with few <b>ADMIN (PAMAHALAAN)</b> intervention via <b>ENFORCED REGULATION</b><br/>
+			<br/>
+			<b>OUTPUT#1:</b><br/> 
+			<b>PRODUCT/SERVICE</b> continues IF <b>PROFITABLE</b> via <b>VOTED</b> using <b>MONEY</b><br/>
+			<br/>
+			<b>OUTPUT#2:</b><br/> 
+			criminal organization, smuggling/carnapping, <b>QUICK MONEY</b>, extortion/harassment<br/>
+			<br/>
+			--> adds: <b>POLICE REPORTS</b> are part of <b>"DUE PROCESS"</b> and <b>"DEFENSE"</b>;<br/>
+			--> adds: execute <b>WORK TASKS</b> to <b>speed-up system</b>;<br/>
+			<br/>
+			<b>EXAMPLE#1:</b> <b>share know-how</b> of <b>I.T. security defense</b><br/> 
+			--> against <b>PANLOLOKO</b> by <b>MANLOLOKO group</b>;<br/>
+			<br/>
+			<b>EXAMPLE#2:</b> <b>verify</b> to be updated on <b>existing systems</b><br/> 
+			--> <b>ADMIN INTERVENTION</b> in Singapore</b><br/>
+			--> from: printed newspaper, <b>The Philippine Star (2022-10-14; FRIDAY)</b><br/>
+			--> notes: <b>"Singapore jails OnlyFans creator in first such conviction"</b><br/>
+			--> <b>3 weeks jail</b> for defying Police Order not to access account during investigation;<br/>
+			--> <b>uploaded photos and video</b> for paying subscribers on <b>adults-only platform</b>; <br/>
+			--> income USD 240K after taxes;<br/>
+			--> <b>transmitting obscene material electronically</b> in Singapore can be jailed for up to 3 months, fined, or both;<br/>
+			--> Titus Low (22), <b>fined USD 2,087</b>; <br/>
+			--> reminder: <b>CRIMINAL RECORD HISTORY</b> exists to be <b>NOT REPEATED</b><br/>
+			<br/>
+			<br/>
+			2) LEARN BUSINESS (: ease people);<br/> 
 			--> where: <b>ACCOUNTING</b>: <b>INCOME</b> > <b>EXPENSES</b>;<br/>
-			--> reminder: <b>CARNAPPER/SMUGGLER</b> : NOT ease people<br/>
+			--> reminder#1: <b>CARNAPPER/SMUGGLER</b> : NOT ease people<br/>
+			--> reminder#2: <b>PORNOGRAPHY</b> : VIOLENCE<br/>
 			<br/> 
 			--> <b>EXAMPLE as NEW BUSINESS:</b><br/> 
 			--> PAY <b>10K PHP</b>, monthly; receives <b>20K PHP</b> in <b>INCOME</b>?<br/>
