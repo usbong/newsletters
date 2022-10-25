@@ -622,9 +622,13 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY (QC))</b>;<br/>
 			--> where: <b>BANAWE (QC)</b> : <b>Vehicle Service Shops</b>, <b>POC</b><br/>
 			--> <b>POC</b> = <b>PHILIPPINE ORTHOPEDIC CENTER</b><br/>
-			--> adds: There exists <b>BANAWE (RICE TERRACES, ISABELA CITY; REGION 2)</b><br/>
+			--> adds: There also exists <b>BANAWE (RICE TERRACES, ISABELA CITY; REGION 2)</b><br/>
 			--> keyphrase: <b>MANLOLOKO group</b> connected to <b>BANAWE (QC & REGION 2)</b>;<br/>
 			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>
+			--> <b>Agriculture product:</b> "BIGAS" (RICE)<br/>
+			--> <b>Carnapped/stolen product/parts:</b><br/> 
+			--> <b>ISUZU</b> Crosswind, <b>TOYOTA</b> Innova, 
+			<b>MITSUBISHI</b> Montero, <b>HONDA</b> City<br/>
 <br/>
 <b>ADDITIONAL REMINDERS</b><br/>
 <h5>
