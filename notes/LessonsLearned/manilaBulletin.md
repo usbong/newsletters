@@ -1,5 +1,50 @@
 # Lessons-learned from: Manila Bulletin
 
+## "PLDT builds P4.4-billion PH link of Asia Direct Cable" (20221025; TUESDAY)
+
+### Author
+
+ABADILLA, EMMIE V
+
+### Keyphrase
+
+PLDT, Inc.<br/>
+International Cable Network<br/>
+75 Million USD (4.4 Billion PHP (approx))
+
+#### Asia Direct Cable (ADC): Global Consortium (Communications and Technology)
+PLDT, <br/>
+China Telecom, <br/>
+China Unicom, <br/>
+National Telecom, <br/>
+Singtel, <br/>
+SoftBankCorp., <br/>
+Tata Communications, <br/>
+Viettel Group<br/>
+
+#### Cable Landing Points (Southeast and East Asia)
+
+Batangas, Philippines<br/>
+Tuas, Singapore<br/>
+Chung Hom Kok, Hong Kong<br/>
+Maruyama, Japan<br/>
+Quy Nhon, Vietnam<br/>
+Racha, Thailand<br/>
+Shantou, China<br/>
+
+#### Counts
+
+9,400km subsea fiber optic cable<br/>
+<br/>
+PLDT's international submarine cable systems current count: 19<br/>
+<br/>
+International network current capacity: 130 Terabyte per second (Tbps); from 60 Tbps
+
+### PLDT President & Chief Executive Officer (CEO): 
+
+PANLILIO, Al S
+
+
 ## "China plans to import more PH fruits, seeks cooperation in infra, agri, energy" (20221023; SUNDAY)
 
 ### Author
