@@ -615,20 +615,74 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> observed: <b>MANLOLOKO</b> to be <b>INGGIT (ENVIOUS)</b><br/>
 			--> due to <b>OFW INCOME</b> appears > <b>ILLEGAL ACTION INCOME</b><br/>
 			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
-			<br/>
-			--> <b>REMINDER: QUICK MONEY</b> : <b>Vehicle COST</b></br>  
+
+			<h3>
+				REMINDER: QUICK MONEY : <b>Vehicle COST</b>
+			</h3>
 			--> where: <b>Vehicle COST (MOTORCYCLE)</b> @<b>100K PHP (approx)</b> in <b>1 MONTH</b><br/>
-			--> adds: <b>STOLEN Vehicle COST</b> CAN be >= <b>500K PHP</b><br/>
+			--> adds: <b>STOLEN Vehicle COST</b> CAN be >= <b>500K PHP</b> ("HALF MILYON")<br/>
 			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY (QC))</b>;<br/>
 			--> where: <b>BANAWE (QC)</b> : <b>Vehicle Service Shops</b>, <b>POC</b><br/>
 			--> <b>POC</b> = <b>PHILIPPINE ORTHOPEDIC CENTER</b><br/>
+			<br/>
 			--> adds: There also exists <b>BANAWE (RICE TERRACES, ISABELA CITY; REGION 2)</b><br/>
 			--> keyphrase: <b>MANLOLOKO group</b> connected to <b>BANAWE (QC & REGION 2)</b>;<br/>
 			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>
-			--> <b>Agriculture product:</b> "BIGAS" (RICE)<br/>
-			--> <b>Carnapped/stolen product/parts:</b><br/> 
-			--> <b>ISUZU</b> Crosswind, <b>TOYOTA</b> Innova, 
-			<b>MITSUBISHI</b> Montero, <b>HONDA</b> City<br/>
+			
+			<h3>
+			<b>Agriculture product:</b> "BIGAS" (RICE)
+			</h3>
+			
+			<h3>
+			<b>Carnapped vehicle:</b> <b>ISUZU</b> Crosswind <b>(AT)</b><br/> 
+			</h3>
+
+			--> where: <b>AT</b> = <b>A</b>utomatic <b>T</b>ransmission<br/>
+			--> where: <b>MT</b> = <b>M</b>anual <b>T</b>ransmission<br/>
+
+			<h3>
+			--> <b>Stolen/copied/modified/destroyed vehicle parts:</b>
+			</h3>
+<b>			
+			--> Part#1) Vehicle Key (SUSI)<br/>
+</b>
+<br/>
+			<b>ISUZU</b> Crosswind <b>(AT)</b>, <b>TOYOTA</b> Innova <b>(AT)</b>, <b>HONDA</b> City <b>(AT)</b>,<br/> 
+			<b>MITSUBISHI</b> Montero <b>(AT)</b>, <b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>
+			<br/>
+<b>			
+			--> Part#2) SHIFT-GEAR (KAMBYO)<br/>
+</b>			
+<br/>
+			<b>TOYOTA</b> Innova <b>(AT)</b>, <b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>
+			<br/>
+<b>
+			--> Part#3) AIR-CONDITIONING UNIT<br/>
+</b>			
+<br/>
+
+			<b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>
+			<br/>
+<b>
+			--> Part#4) Excess RADIO TRANSMITTER/RECEIVER<br/>
+</b>			
+<br/>
+			<b>TOYOTA</b> Innova <b>(AT)</b>, <b>MITSUBISHI</b> Montero <b>(AT)</b>, <b>HONDA</b> City <b>(AT)</b>,<br/> 
+			<b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>	
+<br/>
+<br/>
+identified: <b>MANLOLKO group members</b> to include among others:<br/>
+			<b>keyphrase:</b> <b>ATTACKERS</b> and <b>PROMULGATORS</b> of <b>"QUICK MONEY"</b><br/>
+			--> adds: <b>WIRELESS BROADCASTING TECHNOLOGY</b><br/>
+			<br/>
+			1) <b>Ramon Syson</b>, younger brother of father, Dr. Pedro Syson<br/>
+			2) <b>Ryan Syson</b>, eldest son of Ramon Syson<br/>
+			3) <b>Joan Syson</b>, sister of Ryan Syson<br/>			
+			4) <b>Tyrone Tang</b>, basketball player;<br/>
+			5) <b>Keith Haw</b>, friend and classmate of Tyrone Tang<br/>
+			<br/>
+			Both <b>Tyrone Tang</b> and <b>Keith Haw</b> are classmates of SYSON, MICHAEL B. @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;<br/> 
+			<br/>
 <br/>
 <b>ADDITIONAL REMINDERS</b><br/>
 <h5>
@@ -700,7 +754,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 <table class="reminderTable">
 			<tr><td>
 			<b>EXECUTED ACTIONS as RECOMMENDED ACTIONS:</b><br/> 
-			1) continue: to <b>file incident reports</b> with <b>Law Enforcement</b>;<br/>
+			<b>ACTION#1</b>) continue: to <b>file incident reports</b> with <b>Law Enforcement</b>;<br/>
 			Example#1) <b>Philippine National Police (PNP)</b><br/>
 			<br/>
 			1.1) <b>Anti-cybercrime Group (ACG): Women and Children Cybercrime Protection Unit</b><br/>
@@ -749,7 +803,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			--> reminder: <b>CRIMINAL RECORD HISTORY</b> exists to be <b>NOT REPEATED</b><br/>
 			<br/>
 			<br/>
-			2) LEARN BUSINESS (: ease people);<br/> 
+			<b>ACTION#2</b>) LEARN BUSINESS (: ease people);<br/> 
 			--> where: <b>ACCOUNTING</b>: <b>INCOME</b> > <b>EXPENSES</b>;<br/>
 			--> reminder#1: <b>CARNAPPER/SMUGGLER</b> : NOT ease people<br/>
 			--> reminder#2: <b>PORNOGRAPHY</b> : VIOLENCE<br/>
@@ -769,6 +823,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			--> <b>EXAMPLE INVESTMENTS into ADMIN (PAMAHALAAN):</b><br/> 
 			--> 1) <b>PESO-BOND</b> @<b>6.74% NET INCOME</b>;<br/>
 			--> 2) <b>PAG-IBIG MP2</b> @<b>6% (minimum) NET INCOME</b>;<br/>
+			--> where: <b>MP2</b> = MODIFIED PAG-IBIG 2<br/>
 			--> <b>NOT QUICK MONEY</b>;<br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10 years</b>;<br/>
 			</td></tr>
@@ -777,19 +832,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			<br/>
 			<br/>
 			
-			
---> self; since 19 years old, worked to receive payment as computer programmer; part-time student;
---> learns: business (: ease people); accounting; income > expenses;
---> pay 10K, monthly; receives 20K income?
---> paid-up capital: @40K PHP; 
---> 4 months; no income; add another 40K PHP to continue;
---> IF has investment, with 4% interest as income;
---> opts: for that investment, instead of start new business with < 4% income; LOGIC;
---> examples: 
---> investment: peso-bond @6.74% net income;
---> PAG-IBIG MP2 @6% (minimum) net income;
---> NOT QUICK MONEY;
---> total approx: 10 years;
+		
 --> by 30 years old (approx) be self-sufficient to build NEW FAMILY UNIT;
 --> investment to be part of EDUCATION of children (count: 2);
 --> send: to JAPAN for at least 10 months to study;
@@ -896,261 +939,6 @@ Dagdag
 <br/>
 <br/>
 <br/>
-<br/>
-to share know-how on computers・Information Technology (IT) tools</h4>
-<h5>1.1.1) shared: with Public, <b>VALUE</b> of <b>SYSTEM EFFICIENCY</b><br/>
-<br/>
---> observed: using <b>GAINED TIME</b>, <b>INFORMATION</b> CAN already be added<br/>
---> from the <b>Index Card</b> to the <b>Computer Database</b><br/>
---> <b>Example INFORMATION:</b> barangay, Senior Citizen Card Number<br/>
-<br/>
---> This <b>ACTION</b> assists with the printing of the <b>Acknowledgment Form</b>;<br/>
---> where: <b>PAID SERVICES</b> and <b>ITEMS</b> are auto-written by the <b>COMPUTER</b> in a <b>LIST</b><br/>
---> <b>Example SERVICES:</b> X-RAY, LABORATORY<br/>
---> <b>Example ITEMS:</b> ARM SLING, KNEE IMMOBILIZER<br/>
---> adds: the <b>Acknowledgment Form</b> is given with the <b>Official Receipt (OR)</b><br/>
---> where: <b>OR</b> is <a class="webServiceLink" target="_blank" href="https://www.bir.gov.ph">Bureau of Internal Revenue (BIR)</a>-approved<br/>
---> This is due to <b>handwritten text</b> using the <b>OR</b> appears <b>UNCLEAR</b><br/>
-
-<br/>
-<img width="80%" src="assets/images/newsletter/202208/exampleAcknowledgmentFormV20220831.jpeg">
-
-<h3> Gained TIME from System Efficiency is REUSED<br/> 
-to FURTHER increase Gained TIME via System Efficiency</h3>
-
-<b>Output:</b> GINHAWA<br/>
-
---> observed: people who are <b>NOT GINHAWA</b> cause another to be also so;<br/>
---> where: <b>CAUSE</b> due to <u>insufficent</u> <b>TIME</b>;<br/> 
---> where: <b>TIME</b> can be classified as <b>MONEY</b><br/>
-<br/>
---> <b>Example:</b><br/> 
-Request to NOT verify <b>Medical Prescription</b> to QUICKLY receive <b>Medicine Item</b><br/>
-<br/>
-<b>reminder#1:</b> <b>Medical Prescription</b> contains <b>INFORMATION</b><br/> 
---> <b>Examples:</b> patient name, last visit, prescribed medicine tablet count/grams;<br/>
-<br/>
-observed: select patients request <b>family member</b> to buy medicine item for them;<br/>
---> where: <b>family member</b>'s LIST of TASK has increased to be <b>NOT GINHAWA</b><br/>
-<br/>
-<b>reminder#2:</b> <b>SPEED-UP</b> of patient's <b>DEATH</b> caused by increasing <b>COST</b><br/>
---> where: <b>COST</b> classified with <b>TIME</b> and <b>MONEY</b><br/>
-<br/>
-verified: <b>NOISE POLLUTION</b> with <b>PHYSICAL INJURY</b> from <b>MANLOLOKO group</b><br/>
---> <b>OUTPUT:</b> speed-up of <b>DEATH</b> and increase in <b>COST</b><br/> 
---> where: <b>MANLOLOKO group</b> includes among others:<br/>
---> <b>budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista</b>
-<br/>
-<br/>
-observed: continuous wireless broadcasting of <b>NOISE POLLUTION</b>;<br/>
-
-<table width="90%">
-<tr>
- <td>
-    <br/>
-	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
-	Approx size: 6x6cm
- </td>
- <td>
-	NOTE: <b>RADIO FREQUENCY</b> set to <b>STATIC</b>;<br/>
-	<br/>
-	<b>WIRELESS BROADCASTING TOWER</b> misused to <b>TRANSMIT SIGNAL</b> to <b>FREQUENCY</b> set to <b>STATIC</b>
- </td>
-</tr>			
-</table>		
-<br/>	 
-<b>Examples:</b> "TANGA", "TATANGA-TANGA", "'TANGINA", "BOBONG PULIS",<br/> 
-"PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
-<br/>
---> adds: <b>UNSOLICITED</b> <u>breathing interference</u> causes <b>PHYSICAL STIMULATION</b><br/>
---> due to among others: <b>INSUFFICIENT OXYGEN IN BRAIN</b> via blood stream<br/>
---> where: <u>breathing interference</u> caused by among others:<br/> 
---> <b>"HINGA"</b> classified: as <b>NOISE POLLUTION</b><br/>
---> keyphrase: <b>UNSOLICITED</b><br/>
-<br/>
-<b>EXECUTED ACTIONS:</b> filed: incident reports with <b>Law Enforcement</b>;<br/>
-<b>Examples:</b><br/>
-1) <b>Philippine National Police (PNP)</b><br/>
-<br/>
-1.1) <b>Anti-cybercrime Group (ACG): Women and Children Cybercrime Protection Unit</b><br/>
---> <a class="webServiceLink" target="_blank" href="mailto:pnp.acg.wccpu@gmail.com">pnp.acg.wccpu@gmail.com</a><br/>
-<br/>
-1.2) <b>CRIMINAL INVESTIGATION AND DETECTION GROUP (CIDG)</b><br/>
---> <a class="webServiceLink" target="_blank" href="mailto:cidgnhqcrmc@gmail.com">cidgnhqcrmc@gmail.com</a><br/>
-<br/>
-2) <b>Office of Public Safety and Security (OPSS: Marikina City) Team</b><br/>
---> <a class="webServiceLink" target="_blank" href="mailto:opss@marikina.gov.ph">opss@marikina.gov.ph</a><br/>
-<br/>
-reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
-<br/>
-TO-DO: -add: Cainta, Rizal
-<br/>
-<br/>
-TO-DO: -add: COST of STROKE; based on PhilHealth coverage;<br/>
---> remembers: COST higher than coverage for CANCER;
-<br/>
-<br/>
-</h5>
-
-<h3>2) Continued with HEALTH・Security Defense Force</h3>
-<h4>2.1) shared: KNOW-HOW and Lessons-learned from <b>WORK</b></h4>
-<h5>
-<b>MANLOLOKO group</b> <b>LOST</b> > 50 Million PHP of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
-<br/>
-<b>Paalala</b>) verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
---> 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
-last accessed: 20220322<br/>
-<br/>
-<b>
-    | BOC Destroys 21 Smuggled Vehicles<br/>
-    | Posted on June 18, 2021<br/>
-</b>
-<br/>
---<br/>
-<br/>
-<b>
-    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
-</b>
-<br/>
---<br/>
-<br/>
-keyphrase: <b>58.55Million PHP</b> used for <b>YABANG</b><br/> 
-<br/>
---> <b>ADDITIONAL OUTPUT#1:</b> increase in <b>NOISE POLLUTION</b> <br/>
---> identified: to be caused by growing <b>MANLOLOKO group</b> <br/>
---> where: <b>MANLOLOKO members</b> are <b>TAMAD</b>, i.e. DO NOT VALUE HONEST WORK;<br/>
---> keyphrase: <b>QUICK MONEY</b><br/>
-<br/>
---> <b>MANLOLOKO group</b> now <b>TARGETS</b> people with <b>"PROMISES"</b>;<br/> 
-<br/>
-<b>Example of "PROMISE":</b> Give you <b>QUICK MONEY</b> via <b>INFORMATION</b><br/>
---> when: a <b>HOUSEHOLD</b> shall <b>NOT be @HOME</b> AND<br/> 
---> where: <b>MONEY</b> is located<br/> 
-<br/>
---> <b>TARGET</b>'s received <b>VALUE</b> of item is <b>LESS THAN</b> that of the <b>EXCHANGE</b>;<br/>
-<br/>
-<b>Example of EXCHANGE:</b> <b>QUICK MONEY</b> for <b>REPEAT CRIMINAL ACTIONS</b><br/> 
-<b>where:</b> <b>TARGET</b> shall be continuously <b>USED</b> by <b>MANLOLOKO group</b><br/>
-<br/>
-<b>CAUSE:</b> <b>SHALL NOT REPORT</b> to <b>POLICE</b> due to <b>FEAR</b><br/>
---> reminder: shall <b>NEED</b> to <b>REVEAL</b> <b>CRIMINAL HISTORY of ACTIONS</b><br/>
-<br/>
---> keyphrase: <b>MANLOLOKO group</b>, <b>INGGIT</b><br/>
---> where: <b>SHALL NOT ACCEPT</b> receiving <b>EXCHANGED ITEM/SERVICE</b><br/>
---> whose: <b>VALUE</b> is <b>LOWER THAN</b> their <b>"PROMISE"</b><br/>
-<br/>
---> <b>ADDITIONAL OUTPUT#2:</b><br/>
---> <b>Example#1:</b> MOSC PT Unit Member <b>DIED</b>; keyphrase: <b>Ear, Nose, Throat (ENT)</b>;<br/>
---> <b>Example#2:</b> MOSC Orthopedic Surgeon Member suffered <b>STROKE</b><br/> 
---> to be <b>NON-PRACTICING</b> (previously trained @<b>UP INTARMED</b>)<br/>
---> where: <b>UP</b> = University of the Philippines<br/>
---> where: <b>INTARMED (INTegrated Liberal–ARts MEDicine)</b><br/>
---> where: <b>INTARMED</b>: intense yet quick Medical Doctor training<br/>
---> where: <b>Orthopedic</b>: dagdag na pagsasanay na may kinalaman sa mga ito:<br/>
---> <b>BUTO</b>, <b>MASEL</b>, at sa mga <b>NAGDIDIKIT</b> sa mga iyon, e.g. <b>JOINT</b><br/>
---> where: <b>SURGEON</b> : <b>KNIFE</b>, <b>外科</b><br/> 
---> where: <b>外科</b> = <b>げか</b> (geka); <b>Maparaang Pagbubukod ng LABAS (ng Kaharian)</b><br/>
-
-<h3>PAALALA: NO JOKE</h3>
-
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">
-			observed: <b>LIFE DELAYS</b> caused by this <b>MANLOLOKO group</b>;<br/> 
-			<br/>
-			<b>Example#1:</b> <b>WORK</b> as OFW in I.T. COMPANY in JAPAN, <b>STOPPED</b>,<br/> 
-			where: OFW = Overseas Filipino Worker<br/>
-			<br/>			
-			<b>Example#2:</b> <b>WORK</b> as Teacher @UNIVERSITY, <b>STOPPED</b><br/>
-			<br/>
-			--> adds: <b>INCOME HIGH</b> or <b>LOW</b> causes <b>INGGIT</b>;<br/>			
-			<br/>
-			observed: <b>MANLOLOKO group</b> shall continue with the <b>NOISE POLLUTION</b>;<br/> 
-			<br/>			
-			This is despite <b>TARGET</b> obeys by <b>NOT</b> filing reports with <b>POLICE</b>;<br/>
-			<br/>
-			<b>GAWA-GAWANG RULE:</b> Keep CRIMINAL ACTIONS <b>"secret"</b><br/>
-			where: <b>"secret"</b> : <b>KNOW-HOW</b> of their <b>CRIMINAL techniques</b>;<br/> 
-			where: <b>"secret"</b> : <b>NOT to be filed</b> as report with <b>POLICE</b><br/>
-			where: <b>"secret"</b> : <b>NOT to be shared</b> with <b>WORK</b> & <b>Family Units</b></b><br/>
-			<br/>
-			<b>Example KNOW-HOW:</b> unauthorized access to CCTV, misuse of wireless broadcasting<br/>
-			<br/>
-			<b>Example OUTPUT:</b> "Anong NOISE POLLUTION?", "Wala akong naririnig.", "Wala kaming naririnig.", "Ikaw lang ang nag-iisip niyan.",<br/>
-			<br/>
-			observed: <b>MANLOLOKO group</b> has been <b>attempting</b> to classify the continuous <b>NOISE POLLUTION</b> as <b>RECOMMENDED</b> by <b>Law Enforcement</b> to <b>catch</b> NOT yet identified <b>MANLOLOKO members</b><br/>
-			<br/>
-			adds: I have <b>NOT received</b> such <b>RECOMMENDATION</b>,<br/>
-			from <b>ALL</b> the <b>LAW ENFORCEMENT UNITS</b> that I contacted<br/> 
-			where: <b>RECOMMENDATION</b> = to execute <b>NOISE POLLUTION</b><br/> 
-			<br/>
-			observed: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b><br/>
-			--> AND <b>INCORRECT identification and classification</b><br/>
-			<b>keyphrase:</b> <u>consistent</u> and <u>continuous</u><br/> 
-			<br/>
-			
-			observed: <b>MANLOLOKO members</b> intentionally choose the <b>WORDS</b><br/> 
-			where: <b>WORDS</b> : to be part of their <b>NOISE POLLUTION</b><br/>
-			<br/>
-			<b>Example:</b> identification errors: <b>hand sign</b> as <b>"baril"</b>;<br/>
-			--> Even after 5 years (approx) of <b>JOAN SYSON</b>'s <b>"may baril siya"</b> incident,<br/> 
-			<b>MANLOLOKO members</b> have <b>NOT learned</b><br/>
-			--> keyphrase: <b>ILLEGAL DRUGS</b>, <b>WIRELESS BROADCASTING</b><br/>
-			--> where: <b>JOAN SYSON</b> : <b>MANLOLOKO member</b> and sister of <b>RYAN SYSON</b>,<br/>
-			--> assists <b>MANLOLOKO group</b> with <b>CRIMINAL ACTIONS</b><br/>
-			--> <b>QUESTION as REMINDER</b>: where is <b>JOAN SYSON</b>'s <b>POLICE REPORT</b>?<br/>
-			--> observed: within <b>MANLOLOKO GROUP</b>, <b>FIGHTING</b> exists;<br/>
-			--> due to has already <b>ADMITTED</b> to self, <b>CRIMINAL ACTIONS INCORRECT</b><br/> 
-			<br/>
-			--> added: in my reports, <b>JOAN SYSON</b> executes <b>UNAUTHORIZED ACCESS</b> to <b>web services</b> including among others: <b>ONLINE BANKING</b><br/>
-			--> observed: continuous verification of <b>ANOTHER person</b>'s <b>MONEY</b><br/>
-			--> <b>keyphrase:</b> <b>INGGIT</b><br/>
-			--> adds: <b>MANLOLOKO</b> does <b>NOT</b> understand <b>WHY<br/> 
-			--> MANLOLOKO</b> regularly has <b>INSUFFICIENT MONEY</b><br/>		
-			<br/>	
-			<b>Result as OUTPUT</b>:<br/> 						
-			<b>MANLOLOKO members</b> do <b>NOT learn</b> even after over 5 years; still continues with <b>NOISE POLLUTION</b><br/>  
-			<br/>						
-			<b>CAUSE</b>: <b>"secret"</b>, i.e. <b>KNOW-HOW that is NOT to be shared</b><br/>
-			<br/>
-			reminder: <u>consistent</u> and <u>continuous</u> <b>NOISE POLLUTION</b>,<br/>
-			<b>INCORRECT identification and classification</b>;<br/>
-			<br/>
-			<b>CAUSE keyphrase:</b> <b>ILLEGAL DRUGS</b> : <b>WHITE SALT (PUTING ASIN)</b><br/> 
-			--> where: <b>"SAL (from LATIN)"</b> = <b>"SALARY"</b>;<br/>
-			<br/>
-			<b>reminder:</b> <b>NO NEED TO AGREE</b> by classifying as <b>CORRECT</b>, item identifications from <b>MANLOLOKO group</b>
-			<br/>
-			<br/>			
-			adds: <b>EXCESS MONEY</b>, <b>SMUGGLING</b>, <b>ILLEGAL DRUGS</b>, <b>NO COMMUNICATION IN FAMILY UNIT</b><br/>
-			<br/>
-			identified: <b>MANLOLKO group members</b> to include among others:<br/>
-			<b>keyphrase:</b> <b>ATTACKERS</b> and <b>PROMULGATORS</b> of <b>"secret"</b><br/>
-			<br/>
-			1) <b>Ramon Syson</b>, younger brother of father, Dr. Pedro Syson<br/>
-			2) <b>Ryan Syson</b>, eldest son of Ramon Syson<br/>
-			3) <b>Joan Syson</b>, sister of Ryan Syson<br/>			
-			4) <b>Tyrone Tang</b>, basketball player;<br/>
-			5) <b>Keith Haw</b>, friend and classmate of Tyrone Tang<br/>
-			<br/>
-			Both <b>Tyrone Tang</b> and <b>Keith Haw</b> are classmates of SYSON, MICHAEL B. @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;<br/> 
-			<br/>
-			<b>Recommended ACTIONS</b>:<br/> 
-			1) <b>NO NEED</b> to even attempt to <b>COMMUNICATE</b> with <b>MANLOLOKO</b><br/>
-			--> reminder: <b>LECTURES</b> on <b>VALUES NOT</b> anymore <b>EFFECTIVE</b> after <b>K-12</b><br/>
-			--> where: <b>K-12</b> : High School<br/>
-			<br/>
-			2) <b>PREPARE</b> to <b>BE READY</b> to <b>DESTROY MANLOLOKO</b><br/> 
-			--> keyphrase as reminder: <b>COST</b>, <b>NO EXCITEMENT</b><br/>
-			--> where: <b>DESTROY</b> : <b>PUKSAIN</b><br/>
-			<h3>PAALALA: NO JOKE</h3>
-			</td>	
-	</tr>
-</table>
 
 <h3>3) shares: Lessons-learned from NEWSPAPERS</h3>
 <h4>3.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
