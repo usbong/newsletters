@@ -66,7 +66,7 @@ child of over 7 years of age, may choose which parent he/she prefers to live wit
 
 Laxamana vs. Laxamana<br/>
 General Register (G.R.) No. 144763<br/>
-2022-09-03
+2002-09-03
 
 ## “Stale claim” (20221014; FRIDAY)
 
