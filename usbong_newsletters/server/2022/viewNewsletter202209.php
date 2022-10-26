@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221025; from 20221023	
+  @date updated: 20221026; from 20221025	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -583,6 +583,8 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> <b>TOTAL ELAPSED TIME</b>: <= <b>5years</b>;<br/>
 			--> however, <b>"OFW"</b> keyphrase becomes <b>noticeable</b> by <b>MANLOLOKO group</b><br/>
 			--> to cause <b>ATTACKS</b>, e.g. <b>NOISE POLLUTION, THEFT</b><br/>
+			--> where: <b>MANLOLOKO group</b> : <b>budol-budol</b>/<b>CARNAPPER</b>/<br/>
+			--> <b>SMUGGLER</b>/<b>cybercriminal</b>/<b>Teroristang Komunista</b><br/>
 			--> <b>NOT QUICK MONEY</b>; <br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
 
@@ -601,9 +603,11 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> where: <b>BRAIN DRAIN</b>: <b>know-how</b> <b>shared abroad</b>, NOT in Philippines;<br/>
 			<br/>
 			--> adds: <b>observation</b> that select BANKS, e.g. <b>BDO</b>, to have noticeable <b>LOW SERVICE FEE</b> for received <b>U.S. Dollar remittances</b> classified as <b>SUPPORT</b> for the <b>ACTION</b>;<br/>
+			--> where: <b>BDO</b> = <b>B</b>ANCO <b>D</b>E <b>O</b>RO<br/>
 			</td></tr>
 			</table>
 			<br/>
+
 			<b>OUTPUT#1: ABROAD</b><br/>
 			--> from <b>HISTORY</b>, <b>I.T. workers and Nurses (OFW)</b><br/>
 			--> <b>CHANGE CITIZENSHIP</b> to be that of the <b>U.S.A.</b>;<br/> 
@@ -627,14 +631,21 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			<br/>
 			--> adds: There also exists <b>BANAWE (RICE TERRACES, ISABELA CITY; REGION 2)</b><br/>
 			--> keyphrase: <b>MANLOLOKO group</b> connected to <b>BANAWE (QC & REGION 2)</b>;<br/>
-			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>
-			
+			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>			
+<br/>
+<table class="reminderTable">
+<tr>
+<td>
+<h4>
+	EXAMPLES OF ITEMS AS QUICK MONEY
+</h4>
+
 			<h3>
-			<b>Agriculture product:</b> "BIGAS" (RICE)
+			<b>Smuggled Agriculture Product:</b> "BIGAS" (RICE)
 			</h3>
 			
 			<h3>
-			<b>Carnapped vehicle:</b> <b>ISUZU</b> Crosswind <b>(AT)</b><br/> 
+			<b>Carnapped Vehicle:</b> <b>ISUZU</b> Crosswind <b>(AT)</b><br/> 
 			</h3>
 
 			--> where: <b>AT</b> = <b>A</b>utomatic <b>T</b>ransmission<br/>
@@ -671,10 +682,20 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			<b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>	
 <br/>
 <br/>
+keyphrase: <b>FAKE ACCOUNTS</b>, <b>SELLER</b> of <b>STOLEN/SMUGGLED items</b>,<br/> <b>intentionally destroys VEHICLE PARTS</b>, <b>QUICK MONEY<b/>, <b>NO TAX</b><br/> 
+</td>
+</tr>
+</table>
+<br/>
+<br/>
+
+<table class="reminderTable">
+<tr>
+<td>	
+<h4>
+	IDENTIFICATION & CLASSIFICATION of MANLOLOKO GROUP MEMBERS
+</h4>
 identified: <b>MANLOLKO group members</b> to include among others:<br/>
-			<b>keyphrase:</b> <b>ATTACKERS</b> and <b>PROMULGATORS</b> of <b>"QUICK MONEY"</b><br/>
-			--> adds: <b>WIRELESS BROADCASTING TECHNOLOGY</b><br/>
-			<br/>
 			1) <b>Ramon Syson</b>, younger brother of father, Dr. Pedro Syson<br/>
 			2) <b>Ryan Syson</b>, eldest son of Ramon Syson<br/>
 			3) <b>Joan Syson</b>, sister of Ryan Syson<br/>			
@@ -683,10 +704,18 @@ identified: <b>MANLOLKO group members</b> to include among others:<br/>
 			<br/>
 			Both <b>Tyrone Tang</b> and <b>Keith Haw</b> are classmates of SYSON, MICHAEL B. @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;<br/> 
 			<br/>
+			<b>keyphrase:</b> <b>ATTACKERS</b> and <b>PROMULGATORS</b> of <b>"QUICK MONEY"</b><br/>
+			--> adds: <b>WIRELESS BROADCASTING TECHNOLOGY</b><br/>
+			<br/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 <b>ADDITIONAL REMINDERS</b><br/>
 <h5>
-<b>MANLOLOKO group</b> <b>LOST</b> > <b>50 Million PHP</b> of smuggled luxury/non-luxury vehicles, agriculture products, et cetera after being caught by Police<br/>
+<b>MANLOLOKO group</b> <b>LOST</b> > <b>50 Million PHP</b> of <b>smuggled</b> luxury/non-luxury <b>vehicles</b>, <b>agriculture</b> products, et cetera after being <b>caught by Police</b><br/>
 <br/>
 verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
 1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
@@ -753,7 +782,10 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 <br/> 
 <table class="reminderTable">
 			<tr><td>
-			<b>EXECUTED ACTIONS as RECOMMENDED ACTIONS:</b><br/> 
+<h4>
+			EXECUTED ACTIONS as RECOMMENDED ACTIONS:
+</h4>
+
 			<b>ACTION#1</b>) continue: to <b>file incident reports</b> with <b>Law Enforcement</b>;<br/>
 			Example#1) <b>Philippine National Police (PNP)</b><br/>
 			<br/>
