@@ -12,6 +12,36 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「ワッツアップ」で障害　世界最大級のメッセージアプリ　すでに復旧](https://www.asahi.com/articles/ASQBT64NLQBTULFA013.html?iref=comtop_Tech_science_03); last accessed: 20221026
+
+>「ワッツアップ」で障害　世界最大級のメッセージアプリ　すでに復旧
+
+Nagkaroon ng pinsala ang "WHAT'S UP", ang pinakamalaking MESSAGE APP sa Daigdig; Naibalik na sa dati
+
+> 渡辺淳基2022年10月25日 18時50分
+
+WATANABE, JUNKI; 2022-10-25T18:50
+
+
+> 世界最大級のメッセージアプリ「WhatsApp（ワッツアップ）」で25日、送受信などがしづらくなる障害が起きた。インターネットの障害などを分析するサイト「ダウンディテクター」によると、日本時間の午後4時ごろから、障害を報告する投稿が急増した。影響は世界中に広がったとみられる。
+
+
+Sa ika-25 araw, nagkaroon ng pinsala ang "WHAT'S UP", kung saan hirap nang makapagpadala at makatanggap ng sulat. Ayon sa "DOWN TIME", isang SITE na nagsisiyasat ng mga nagkaroon ng pinsala, atbp sa INTERNET, ng mga ika-4 ng hapon (Panahon ng Hapon), mabilis na dumami ang mga POST ng REPORT ukol sa pinsala. Nakikitang nagdulot ito ng paglaganap sa daigdig.
+
+
+>　ワッツアップは米メタ（旧フェイスブック）が運営するサービスで、メッセージや写真などを送受信できる。メタによると、利用者数は世界各国に20億人以上。重要な通信インフラとしての役割を担っている。
+
+SERBISYO ng META (dating FACEBOOK) ng AMERIKA ang WHAT'S UP, kung saan maaaring magpadala at tumanggap ng sulatin, larawan, atbp. Ayon sa META, higit sa 2 Bilyong tao mula sa lahat ng Kaharian ng Dagidig ang gumagamit nito. Inaako nito bilang tungkulin ang mahalagang INFRASTRAKTURA ng KOMUNIKASYON.
+
+>　メタは「一部利用者のメッセージ送信に問題が起きていることを把握している」としていたが、日本時間午後6時半までに「完全に復旧した」とする広報担当者のコメントを発表した。（渡辺淳基）
+
+Ayon sa may tungkulin sa pagpapahayag ng META, naibalik na raw sa dati hanggang 30 minuto makalipas ang ika-6 ng hapon (Oras sa Hapon).
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [子どもの人生、「塾歴」で決まる？少子化でも過熱する受験競争の実体](https://www.asahi.com/articles/ASQ10410FQ1MUPQJ00P.html?iref=comtop_ThemeRightS_01); last accessed: 20221024
 
 > 子どもの人生、「塾歴」で決まる？少子化でも過熱する受験競争の実体
