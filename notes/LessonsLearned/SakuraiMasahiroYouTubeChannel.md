@@ -23,7 +23,9 @@ TO-DO: -update: this
 <br/>
 --> remembers: previous youtube video on:<br/> 
 --> [大乱闘スマッシュブラザーズ 【企画コンセプト】](https://www.youtube.com/watch?v=uHJpaYpPTHg); last accessed: 20221022<br/>
+<br/>
 --> animation frame sequence total count 4;<br/>
+<br/>
 --> remembers: ZELDA 夢見る島 GAME&WATCH<br/>
 --> where: PAUSE OUTPUT has image sprite to appear as KIRBY
 
