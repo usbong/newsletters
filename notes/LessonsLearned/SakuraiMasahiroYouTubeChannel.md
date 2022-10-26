@@ -4,6 +4,30 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=IUK8_lZrb-I; last accessed: 20221025
+
+> やり過ぎてちょうどよい<br/>
+> 205,565 views<br/>
+> Oct 24, 2022
+
+> CGだから、要素がボロボロ落ちる。<br/>
+> 画面が引いているからダイナミズムが出ない。<br/>
+> 中割が生成されるから、メリハリに欠ける。<br/>
+> だから、表現はオーバーにしてちょうどなんですよ!!<br/>
+
+--> remembers: GAMEDEVELOPER, STREET FIGHTER Art Direction explanation<br/>
+--> https://www.gdcvault.com/play/1024558/Art-Direction-of-Street-Fighter;<br/>
+--> last accessed: 20221026; from 2021 (?)<br/>
+--> notes: self to have returned to PLAYING COMPUTER GAMES since only 2 years (approx) ago<br/>
+--> after 僧侶 LIFESTYLE -> 商人 ・・・<br/>
+<br/>
+--> remembers: previous youtube video on:<br/> 
+--> [大乱闘スマッシュブラザーズ 【企画コンセプト】](https://www.youtube.com/watch?v=uHJpaYpPTHg); last accessed: 20221022<br/>
+--> animation frame sequence total count 4;<br/>
+--> remembers: ZELDA 夢見る島 GAME&WATCH<br/>
+--> where: PAUSE OUTPUT has image sprite to appear as KIRBY
+
+
 ## https://www.youtube.com/watch?v=GvTHozPNZac; last accessed: 20221013
 
 > ゲームしながら運動のすすめ<br/>
