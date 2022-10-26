@@ -4,6 +4,14 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## [ヘルプデスク](https://www.1101.com/pl/seisakuchu/); last accessed: 20221026
+
+--> help desk staff member recruitment<br/>
+--> remembers: AMAZON.COM; CHAT stories app<br/>
+--> keyphrase: innovation, new way to do things, appears to be failure, technique/know-how reusable parts<br/>
+--> adds: CHAT service help desk for assistance<br/>
+--> keyphrase: Business Process Outsourcing (BPO), Philippines
+
 ## https://www.1101.com/home.html; last accessed: 20221006; from 20221005
 
 Samu't saring bagay ang ating ginagawa nang hindi umaayaw.
