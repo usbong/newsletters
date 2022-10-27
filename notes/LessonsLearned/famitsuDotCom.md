@@ -1,5 +1,24 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+## [『サガ』と佐賀県が、8年も続けてきた“ロマ佐賀”コラボの真髄とは。“ロマンシング佐賀2022”の見どころ紹介とともに、地方自治体とゲームの長き連携に思いを馳せる](https://www.famitsu.com/news/202210/26280307.html); last accessed: 20221027
+
+> 『サガ』と佐賀県が、8年も続けてきた“ロマ佐賀”コラボの真髄とは。“ロマンシング佐賀2022”の見どころ紹介とともに、地方自治体とゲームの長き連携に思いを馳せる<br/>
+> by ロマンシング★嵯峨 編集部<br/>
+> 2022.10.26 17:00
+
+<br/>
+
+> 『サガ』と佐賀のコラボが続くことで、佐賀の歴史や地理、文化についての理解がどんどん深まっていくのは、とても楽しいことだ。来年以降も、長い信頼関係があるからこその、深い連携に期待したい。
+
+### Notes
+
+--> continuous: advertisement/commercial (AD/CM) to cause curiosity;<br/>
+--> adds: town + game<br/>
+--> remembers: self, while in JAPAN (Year 2004), to have verified building JAPAN <br/>
+--> as with pocket monsters in virtual town to assist people via TOUR/GUIDE;<br/>
+--> where: people : learners of nihon and nihongo<br/>
+--> keyphrase: SEGA Shenmue, SHIGESATO ITOI & MOTHER
+
 
 ## [『タクティクスオウガ リボーン』プレビュー。とにかく遊びやすい現代風なアレンジ。戦略性の高さと骨太なバランスは健在！](https://www.famitsu.com/news/202210/21279473.html); last accessed: 20221023
 
