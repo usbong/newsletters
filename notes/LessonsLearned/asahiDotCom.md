@@ -12,6 +12,42 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [モンハンなど旧作ゲームが爆売れ　カプコンの業績見通し「過去最高」](https://www.asahi.com/articles/ASQBV6DZZQBVPLFA005.html?iref=comtop_Tech_science_03); last accessed: 20221027
+
+### TECH SCIENCE
+
+> モンハンなど旧作ゲームが爆売れ　カプコンの業績見通し「過去最高」
+
+Malakas ang Benta ng mga lumang gawang LARO, tulad ng MONSTER HUNTER, atbp; Sa pasadahang tingin ng natamo sa kalakaran ng CAPCOM, "Pinakamataas kaysa sa Nakaraan"
+
+> 中村建太2022年10月26日 19時36分
+
+NAKAMURA, KENTA; 2022-10-26T19:36
+
+### Pinaikling Pagbubuod
+
+> 旧作のゲームソフトのダウンロード販売が好調なためという。
+
+Sinasabing ayos ang benta ng mga DOWNLOAD ng lumang gawang GAME SOFTWARE ng CAPCOM. 
+
+> このうち新作は、前年に人気シリーズの続編「バイオハザード　ヴィレッジ」などが発売された反動から約22%減の525万本だった。
+
+Gayunman, mga 22% ang ibinaba tungo sa 5.25 Milyong Unit ang naibentang bagong gawang LARO ng mga itinuloy na seryeng naging patok; halimbawa nito ang "BIO HAZARD VILLAGE", atbp.
+
+> 一方、旧作は約22%増の1600万本と好調だった 過去5年間に発売された「モンスターハンター」などのシリーズ作品がよく売れているという。
+
+Sa isang banda, mayroon namang dating gawang LARO na naging ayos, at tumaas ng mga 22% tungo sa 16 Milyong Unit ang naibenta. Sinasabing maigi ang benta ng mga serye tulad ng mga ibinenta sa loob ng nakaraang 5 taon, halimbawa, "MONSTER HUNTER", atbp.
+
+### Keyphrase
+
+Bumaba ang benta ng mga bagong gawang LARO ng mga lumang serye; Gayunman, mayroon ding dating serye na benta, tulad ng iyong mga ibinenta sa nakaraang 5 taon.
+
+> カプコン本社=大阪市中央区
+
+CAPCOM HEADQUARTERS=OSAKA CITY, CHUO-KU
+
+
+
 ## [「ワッツアップ」で障害　世界最大級のメッセージアプリ　すでに復旧](https://www.asahi.com/articles/ASQBT64NLQBTULFA013.html?iref=comtop_Tech_science_03); last accessed: 20221026
 
 >「ワッツアップ」で障害　世界最大級のメッセージアプリ　すでに復旧
