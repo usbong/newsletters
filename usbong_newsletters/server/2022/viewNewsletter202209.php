@@ -496,8 +496,9 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>SURGEON</b> : <b>外科 (げか (geka))</b>, <b>KNIFE</b><br/>
-		Maparaang Pagbubukod ng LABAS (ng Kaharian)
+		<b>トイレをきれいにすること</b><br/>
+		<b>toire wo kire ni suru koto</b><br/>
+				Linisin ang TOILET
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -681,8 +682,8 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			<b>TOYOTA</b> Innova <b>(AT)</b>, <b>MITSUBISHI</b> Montero <b>(AT)</b>, <b>HONDA</b> City <b>(AT)</b>,<br/> 
 			<b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>	
 <br/>
-<br/>
 keyphrase: <b>FAKE ACCOUNTS</b>, <b>SELLER</b> of <b>STOLEN/SMUGGLED items</b>,<br/> <b>intentionally destroys VEHICLE PARTS</b>, <b>QUICK MONEY<b/>, <b>NO TAX</b><br/> 
+<br/>
 </td>
 </tr>
 </table>
@@ -855,7 +856,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			--> <b>EXAMPLE INVESTMENTS into ADMIN (PAMAHALAAN):</b><br/> 
 			--> 1) <b>PESO-BOND</b> @<b>6.74% NET INCOME</b>;<br/>
 			--> 2) <b>PAG-IBIG MP2</b> @<b>6% (minimum) NET INCOME</b>;<br/>
-			--> where: <b>MP2</b> = MODIFIED PAG-IBIG 2<br/>
+			--> where: <b>MP2</b> = <b>M</b>ODIFIED <b>P</b>AG-IBIG <b>2</b><br/>
 			--> <b>NOT QUICK MONEY</b>;<br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10 years</b>;<br/>
 			</td></tr>
@@ -897,34 +898,37 @@ tiyakin sa Medical Doctor ang mga hindi tiyak
 
 <br/>
 <br/>
-
-QUESTION: STOCK MARKET as GAMBLING system; QUICK MONEY?
-
-ANSWER: 
-
-Understanding of STOCK MARKET causes classification of system to be NOT GAMBLING, NOT QUICK MONEY;
-
-Example: invest: in STOCK of CORPORATION whose product/service is VITAL;
---> keyphrase: MOBILITY, e.g. via ROADS, inexpensive FUEL;
---> put: MONEY for over 10 years so CORPORATION continues with product/service;
---> adds: NOT as HIGH-FREQUENCY TRADERS, who buys and sells multiple stocks in a MONTH;
---> adds: SYSTEM earns via each buy and sell, NOT the HIGH-FREQUENCY TRADER;
---> adds: CAN withdraw MONEY from CORPORATION after over 10 years;
---> Example: to receive stored MONEY to pay for self's MEDICAL TREATMENT;
---> observed: however, due to select CRISIS, e.g. CORONA VIRUS, select value of stocks decreased to cause noticeable low MONEY for investor;
---> OUTPUT: select investors began to NEED QUICK MONEY;
---> Recommended Action: invest in multiple investments, e.g. ADMINISTRATION (PAMAHALAAN), NOT only via Philippine Stock Exchange Index (PSEI)
-
-
-
+<h3>3) shares: Tanong at Sagot</h3>
+<table class="reminderTable">
+<tr>
+<td>
+<br/>
+<b>QUESTION: STOCK MARKET as GAMBLING system; QUICK MONEY?</b>
 <br/>
 <br/>
 
-
-
-
+<b>ANSWER: 
+</b><br/>
+<br/>
+<b>Understanding of STOCK MARKET</b> causes <b>system classification</b> to be <b>NOT GAMBLING</b>, <b>NOT QUICK MONEY</b>;<br/>
+<br/>
+<b>Example:</b> invest: in STOCK of CORPORATION whose product/service is VITAL;<br/>
+--> <b>keyphrase:</b> MOBILITY, e.g. via ROADS, inexpensive FUEL;<br/>
+--> put: MONEY for over 10 years so CORPORATION continues with product/service;<br/>
+--> adds: <b>NOT</b> as <b>HIGH-FREQUENCY TRADERS</b>,<br/> 
+--> who: buy and sell multiple stocks in a MONTH;<br/>
+--> adds: <b>SYSTEM earns</b> via each buy and sell, <b>NOT</b> the <b>HIGH-FREQUENCY TRADER</b>;<br/>
+--> adds: <b>CAN withdraw MONEY</b> from <b>CORPORATION</b> after <b>over 10 years</b>;<br/>
+--> <b>Example:</b> to receive stored <b>MONEY</b> to pay for self's <b>MEDICAL TREATMENT</b>;<br/>
+--> observed: however, due to select <b>CRISES</b>, e.g. <b>CORONA VIRUS</b>, select <b>STOCK VALUE</b> <b>decreased</b> to cause noticeable <b>low MONEY</b> for <b>investor</b>;<br/>
+--> <b>OUTPUT:</b> select <b>investors</b> began to <b>NEED QUICK MONEY</b>;<br/>
+--> <b>Recommended Action:</b> invest in <b>multiple investments</b>, e.g. <b>ADMINISTRATION (PAMAHALAAN)</b>, <b>NOT ONLY</b> via <b>Philippine Stock Exchange index (PSEi)</b>
 <br/>
 <br/>
+</td>
+</tr>
+</table>
+
 <br/>
 
 <h3>3) shares: Lessons-learned from NEWSPAPERS</h3>
