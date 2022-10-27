@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221026; from 20221025	
+  @date updated: 20221027; from 20221026	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -801,8 +801,8 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
 			<br/>
 			<b>Additional Notes:</b><br/>
-			--> <b>Report ACTION</b> classified as <b>start of EXECUTION</b> of <b>LAW ENFORCEMENT</b><br/>
-			--> adds: noticeable <b>DELAY</b> to <b>finish EXECUTION</b>;<br/>
+			--> <b>Report ACTION</b> classified as <b>START of EXECUTION</b> of <b>LAW ENFORCEMENT</b><br/>
+			--> adds: noticeable <b>DELAY</b> to <b>FINISH EXECUTION</b>;<br/>
 			--> where: <b>finish</b> : <b>MANLOLOKO</b> with <b>NOISE POLLUTION DESTROYED</b><br/>
 			--> keyphrase: <b>already as expected</b>;<br/>
 			<br/>
@@ -922,51 +922,6 @@ Example: invest: in STOCK of CORPORATION whose product/service is VITAL;
 
 
 
-Lessons-learned from: Manila Bulletin
-"BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)
-Author
-
-CHIPONGIAN, LEE C
-Keyphrase
-
-Bangko Sentral ng Pilipinas (BSP)
-Memorandum No. M-2022-043
---> signed: by BSP Deputy Governor: FONACIER, CHUCHI G in 2022-10-07
-
-Cybercrime Prevention Act of 2012
-EMAIL
-
---> used: as main verification and authentication
---> linked: with banks, financial, e-payments
-Business Email Compromise (BEC)
-
---> identified: as most prevalent and costly cyberattack
-
-    "...utilizes seemingly legitimate email accounts from another organization to fraudulently trick employees of another business into giving their credentials, money, personal information, financial details or other sensitive data"
-
---> FALSE IDENTITY to MISLEAD PEOPLE
---> Example: spoofing of individual's identity via email address
-BSP's Recommended Actions
-
-    verify: email system used
-
-    verify: email header information
-    --> sender, receiver
-
-    verify: email content
-    --> Phishing, links, file attachments,
-    --> unsolicited requests for personal information, sense of urgency, act quickly
-
-    contact: sender via another trusted channel, e.g. in-person meeting, to verify validity of email
-
-Dagdag
-
-    file: incident reports, et cetera with email system, Police/Law Enforcement
-
-    observed: CRIMINAL members near target,
-    --> e.g. kamag-anak, kaklase, kunwaring kaibigan, nakahanap-buhay
-    --> keyphrase: NEED for QUICK MONEY
-
 
 <br/>
 <br/>
@@ -975,128 +930,119 @@ Dagdag
 <h3>3) shares: Lessons-learned from NEWSPAPERS</h3>
 <h4>3.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
-3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQ776T1ZQ76UTFL02M.html?iref=comtop_Tech_science_02">（社説）中韓国交３０年　日本含めた連携強化を</a>; last accessed: 20220825
+3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07">「トイレをきれいにすることから始めた」　JR東社長が語る150年</a>; last accessed: 20221027; from 20221014
 <br/><br/>
 <blockquote class="usbongBlockquote">
 <p>
-（社説）中韓国交３０年　日本含めた連携強化を    
+「トイレをきれいにすることから始めた」　JR東社長が語る150年
 </p>
 </blockquote>
 <br/>
-
-Usap-Lipunan: 30 Taong Palitan ng Kahariang Tsina at Korea<br/>
-Pagpapalakas ng Ugnayan kabilang ang Hapon<br/>
+"Mula nang linisin ang TOILET";<br/> 
+Salaysay ng Pinuno ng Samahan ng JR sa 150 Taon nito
+<br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    2022年8月25日 5時00分
+    聞き手・松本真弥、細沢礼輝2022年10月14日 8時00分
 </p>
 </blockquote>
 <br/>
-2022-08-25T05:00<br/>
-
-<h4>Dagdag#1</h4>
-
-Unawain ang paraan ng pagsusulat.<br/>
+Tagapakinig: MATSUMOTO, MAYA; HOSOZAWA, REIKI; 2022-10-14T08:00
 <br/>
-<b>keyphrase:</b> kasaysayan, labanan, pagkilos, opinion<br/>
+<h3>keyphrase</h3>
+
+<blockquote class="usbongBlockquote">
+<p>
+    「国鉄民営化から35年。国鉄時代はトイレが汚く、駅員が乗客に切符を投げつけていた。JR東はトイレをきれいにすることから始めた。まずは駅に来てもらえるように。次のステップは駅周辺や駅ナカの開発で、いかに駅を便利にしていくかだった」
+</p>
+</blockquote>
+<br/>
+
+"35 Taon mula nang Baguhin bilang Kalakaran ng Tao ang Bakal ng Kaharian. Noong mga panahon iyon, madumi ang TOILET, at ibinabato ng mga Tauhan ng Istasyon ang TICKET sa mga Sumasakay. Sinimulan ng JR-Kanluran ang paglilinis ng TOILET. Ito'y upang sa simula man lang, may dumating sa Istasyon. Ito naman ang sunod na hakbang: kung paano sa pamamagitan ng pagpapa-unlad ng paligid at looban nito, mapagiginhawa ang Istasyon."
+<br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    懸案の解決に向け、政治指導者は率先して汗をかくべきだ。常に風通しを良くし、対話できる環境を整えておくことこそ安全保障の第一歩である。
+    「明治政府が誕生し、その翌年に鉄道の建設を決めた。走り始めたのは明治5年（1872年）。軍備優先の議論もあったなかで、そのスピード感に改めて気概を感じる」
+</p>
+</blockquote>
+<br/>
+"Isinilang ang Pamahalaan ng MEIJI, at pinagpasiyahan sa sunod na taon, na itayo ang Bakal na Daan. Taong 5 ng MEIJI (Taon 1872) nang nagsimulang tumakbo ito. Sa loob ng talakayan ukol sa pangunguna sa mga paghahanda ng Militar, mararamdaman ang sagisag ng panibagong kaluluwa sa bilis niyon."
+<br/>
+<br/>
+<blockquote class="usbongBlockquote">
+<p>
+    鉄道が日本で開業して14日で150年を迎えた。
 </p>
 </blockquote>
 <br/>
 
-Tungo sa paglutas ng suliranin, kailangang nangunguna sa pagkilos ang mga Gumagabay sa PULITIKA. Unang hakbang sa kaligtasan at pagtatanggol mula sa pahamak ang pag-aayos bilang paghahanda ng kapaligiran kung saan maaaring makapag-usap, sa pamamagitan ng parating pagpapabuti ng daloy ng hangin sa paghinga.
+Sa ika-14 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon ng pagbubukas ng kalakaran nito.
+<br/>
 
-<h4>Dagdag#2</h4>
-
-Maaalala ang pagkilos sa ganitong pook sa mga sistema ng labanan tulad ng CHESS, I-GO, atbp<br/>
-<br/>
-<b>keyphrase:</b> turn-based, tactical, strategy, exchange, sanayan<br/>
-<br/>
-Naiiba ito sa pagkilos sa pook ng pakikipaglaban kung saan naroon ang sundalo.<br/>
-<br/>
-<b>keyphrase:</b> AKSYON, FIGHTING, impulse, bunsod, sanayan<br/>
-<br/>
-<b>Sanggunian:</b><br/>
+<h3>Sanggunian:</h3>	
     GOOGLE SEARCH ENGINE; TRANSLATE<br/>
 </h5>
 
+
+<h4>3.2) shares: Lessons-learned from MANILA BULLETIN (NEWSPAPER)</h4>
 <h5>
-3.1.2) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/photo/AS20220829002067.html">朝日新聞デジタル【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は 写真・図版</a>; last accessed: 20220830
-<br/><br/>
+3.2.1) <b>"BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)</b><br/>
+<br/>
 <blockquote class="usbongBlockquote">
 <p>
-朝日新聞デジタル【写真】旧日本兵、戦火の下の笑顔　隠れた胸の内は 写真・図版  
+	AUTHOR: CHIPONGIAN, LEE C
 </p>
 </blockquote>
 <br/>
 
-Pahayagan ng ASAHI Digital [LARAWAN] Dating Sundalo ng Hapon, Ngiti sa ilalim ng Sunog ng Labanan; Ang Nakatago sa Loob ng Dibdib; Larawan; Anyo<br/>
+<b>keyphrase:</b> Cybercrime Prevention Act of 2012, EMAIL Address<br/>
+<br/>
+Bangko Sentral ng Pilipinas (BSP)<br/>
+Memorandum No. M-2022-043<br/>
+--> signed: by BSP Deputy Governor: FONACIER, CHUCHI G in 2022-10-07<br/>
+<br/>
+Cybercrime Prevention Act of 2012<br/>
+<br/>
+EMAIL Address<br/>
+--> used: as main verification and authentication<br/>
+--> linked: with banks, financial, e-payments<br/>
+<br/>
+Business Email Compromise (BEC)<br/>
+--> identified: as most prevalent and costly cyberattack<br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    1945（昭和20）年 米軍が沖縄に上陸し、爆弾を積んだ戦闘機で敵艦に体当たりする「特攻」が拡大する中、8人の特攻隊員が出撃する約30分前に記念写真におさまった。
+    "...utilizes seemingly legitimate email accounts from another organization to fraudulently trick employees of another business into giving their credentials, money, personal information, financial details or other sensitive data"
 </p>
 </blockquote>
 <br/>
-Taong 1945 (SHOWA 20), lumapag sa OKINAWA ang Hukbo ng Amerika, sa loob ng panahon ng pagpapalaganap ng "TOKKOU (Natatanging Pagsalakay)", kung saan binabangga ang kalabang barko, sa pamamagitan ng Makina ng Pakikipaglaban, na puno ng Balang Pampasabog, isinaayos sa Larawan ng Alaala ang 8 tauhang tao ng Natatanging Pagsalakay, 30minuto bago ang pag-alis upang sumalakay.<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
- 知覧特攻基地（鹿児島県）で撮影した本社写真部員は、隊員（左から2人目）に「御両親様　昭和二十年五月十八日十九時二十分頃　沖縄島周辺にて戦死す。十四時三十分出発前書す」と紙切れに走り書きされた「遺書」を託されたという
-</p>
-</blockquote>
-<br/>
+--> FALSE IDENTITY to MISLEAD PEOPLE<br/>
+--> Example: spoofing of individual's identity via email address
 
-Sa Pangunahing Pook ng Natatanging Pagsalakay ng CHIRAN (Pook KAGOSHIMA), kung saan kinuha itong larawan ng mga Tauhan ng Unit, sinasabing tumatakbong isinulat sa hinating papel itong ipinagkatiwalang "Pamanang Sulat" ng Tauhan (ikalawang tao mula kaliwa), "Sa iginagalang na Magulang, SHOWA 20 (Taong 1945), ika-18 araw ng ika-5 buwan, 19:25; Sa paligid ng Isla ng OKINAWA, patay sa labanan. Isinulat bago lumuwas ng 14:30".
+<h4>BSP's Recommended Actions</h4>
 
-<h4>知覧 (CHIRAN): Kita ng Alam</h4>
+    1) verify: email system used<br/>
+<br/>
+    2) verify: email header information<br/>
+    --> sender, receiver<br/>
+<br/>
+    3) verify: email content<br/>
+    --> Phishing, links, file attachments,<br/>
+    --> unsolicited requests for personal information, sense of urgency, act quickly<br/>
+<br/>
+    4) contact: sender via another trusted channel<br/> 
+    --> Example: in-person meeting, to verify validity of email<br/>
+    
+<h4>Dagdag</h4>
 
-<b>Paalala:</b> Nasa <b>ASAHI Digital website</b> ang <b>LARAWAN</b>:<br/> 
-<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/photo/AS20220829002067.html">https://www.asahi.com/articles/photo/AS20220829002067.html
-</a>;<br/> 
-last accessed: 20220830<br/>
+    file: incident reports, et cetera with email system, Police/Law Enforcement<br/>
 <br/>
-<b>Sanggunian:</b><br/>
-GOOGLE SEARCH ENGINE; TRANSLATE<br/>
-
-<h4>3.2) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
-<h5>
-3.2.1) FROM: <b>Pag-IBIG nets P20.48B in H1 (2022-08-12)</b><br/>
+    observed: CRIMINAL members near target,<br/>
+    --> e.g. kamag-anak, kaklase, kunwaring kaibigan, nakahanap-buhay<br/>
+    --> keyphrase: NEED for QUICK MONEY
 <br/>
-<blockquote class="usbongBlockquote">
-<p>
-	Pag-IBIG Fund posted a net income of P20.48 billion in the first half of 2022, up 27 percent compared to the same period last year.
-</p>
-</blockquote>
-<br/>
-
-<b>keyphrase:</b> housing, short-tern loans (cash loans), and trading gains<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-The agency has so far released P51.96 billion in home loans to finance the acquisition of 47,184 homes for its members during the first half of the year.
-</p>
-</blockquote>
-
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-Savings from its members reached P38.83 billion, strongly driven by the agency's popular MP2 Savings where members have collectively saved P19.40 billion.</p>
-</blockquote>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-"Pag-IBIG Fund is wholly-owned by the Filipino workers. That is why it is our responsibility, as the administrators of the Fund, to manage their contributions responsibly and excellently. With our second half prospects in terms of loan releases and collections high, we are optimistic that we will achieve at least P30 billion in annual net income for the sixth consecutive year. This is our commitment to our members"
-</p>
-</blockquote>
-<br/>
-
-<b>keyphrase:</b> Pag-IBIG Fund CEO Moti, Acmad Rizaldy<br/>
-
 <br/>	
 </h5>
 	<div class="copyright">
