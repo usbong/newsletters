@@ -23,6 +23,14 @@ TO-DO: -update: this
 <br/>
 --> remembers: previous youtube video on:<br/> 
 --> [大乱闘スマッシュブラザーズ 【企画コンセプト】](https://www.youtube.com/watch?v=uHJpaYpPTHg); last accessed: 20221022<br/>
+--> keyphrase: [Satoru Iwata - Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU); last accessed: 20221026<br/>
+--> Game Developer Conference Keynote YouTube<br/>
+--> Computer Programmer, English Language, Chief Executive Officer<br/>
+--> remembers: KIRBY Robobot (2016; Nintendo 3DS) GAMEPLAY VIDEO<br/>
+--> remembers: Mario & Luigi: Bowser's Inside Story (Nintendo DS) to have REMAKE,<br/> 
+--> albeit due to INCOME < EXPENSE, have caused Game Developer,<br/> 
+--> AlphaDream, to SHUTDOWN;<br/>
+--> notes: however, reusable parts<br/>
 <br/>
 --> animation frame sequence total count 4;<br/>
 <br/>
