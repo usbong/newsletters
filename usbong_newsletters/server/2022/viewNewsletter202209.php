@@ -999,7 +999,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 </p>
 </blockquote>
 <br/>
-"Mula nang linisin ang TOILET";<br/> 
+"Sinimulan mula sa paglilinis ng TOILET";<br/> 
 Salaysay ng Pinuno ng Samahan ng JR sa 150 Taon nito
 <br/>
 <br/>
@@ -1020,7 +1020,7 @@ Tagapakinig: MATSUMOTO, MAYA; HOSOZAWA, REIKI; 2022-10-14T08:00
 </blockquote>
 <br/>
 
-"35 Taon mula nang Baguhin bilang Kalakaran ng Tao ang Bakal ng Kaharian. Noong mga panahon iyon, madumi ang TOILET, at ibinabato ng mga Tauhan ng Istasyon ang TICKET sa mga Sumasakay. Sinimulan ng JR-Kanluran ang paglilinis ng TOILET. Ito'y upang sa simula man lang, may dumating sa Istasyon. Ito naman ang sunod na hakbang: kung paano sa pamamagitan ng pagpapa-unlad ng paligid at looban nito, mapagiginhawa ang Istasyon."
+"35 Taon ang lumipas mula nang baguhin ang Bakal ng Kaharian bilang Kalakarang Pantao. Noong mga panahon iyon, madumi ang TOILET, at ang mga Tauhan ng Istasyon, ibinabato nila ang TICKET sa mga Sumasakay. Sinimulan ng JR-Kanluran ang paglilinis ng TOILET. Ito'y upang sa simula man lang, may dumating sa Istasyon. Ito naman ang sunod na hakbang: kung paano sa pamamagitan ng pagpapa-unlad ng paligid at looban nito, mapagiginhawa ang Istasyon."
 <br/>
 <br/>
 <blockquote class="usbongBlockquote">
@@ -1029,7 +1029,7 @@ Tagapakinig: MATSUMOTO, MAYA; HOSOZAWA, REIKI; 2022-10-14T08:00
 </p>
 </blockquote>
 <br/>
-"Isinilang ang Pamahalaan ng MEIJI, at pinagpasiyahan sa sunod na taon, na itayo ang Bakal na Daan. Taong 5 ng MEIJI (Taon 1872) nang nagsimulang tumakbo ito. Sa loob ng talakayan ukol sa pangunguna sa mga paghahanda ng Militar, mararamdaman ang sagisag ng panibagong kaluluwa sa bilis niyon."
+"Isinilang ang Pamahalaan ng MEIJI, at pinagpasiyahan na sa sumunod na taon, itatayo ang Bakal na Daan. Taong 5 ng MEIJI (Taon 1872) nang nagsimulang tumakbo ito. Sa loob ng talakayan ukol sa pag-una sa mga paghahanda ng Militar, mararamdaman ang sagisag ng panibagong kaluluwa sa bilis niyon."
 <br/>
 <br/>
 <blockquote class="usbongBlockquote">
@@ -1060,17 +1060,17 @@ Sa ika-14 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon n
 
 <b>keyphrase:</b> Cybercrime Prevention Act of 2012, EMAIL Address<br/>
 <br/>
-Bangko Sentral ng Pilipinas (BSP)<br/>
-Memorandum No. M-2022-043<br/>
+<b>Bangko Sentral ng Pilipinas (BSP)</b><br/>
+<b>Memorandum No. M-2022-043</b><br/>
 --> signed: by BSP Deputy Governor: FONACIER, CHUCHI G in 2022-10-07<br/>
 <br/>
-Cybercrime Prevention Act of 2012<br/>
+<b>Cybercrime Prevention Act of 2012</b><br/>
 <br/>
-EMAIL Address<br/>
+<b>EMAIL Address</b><br/>
 --> used: as main verification and authentication<br/>
 --> linked: with banks, financial, e-payments<br/>
 <br/>
-Business Email Compromise (BEC)<br/>
+<b>Business Email Compromise (BEC)</b><br/>
 --> identified: as most prevalent and costly cyberattack<br/>
 <br/>
 <blockquote class="usbongBlockquote">
@@ -1079,30 +1079,30 @@ Business Email Compromise (BEC)<br/>
 </p>
 </blockquote>
 <br/>
---> FALSE IDENTITY to MISLEAD PEOPLE<br/>
+--> <b>FALSE IDENTITY</b> to <b>MISLEAD PEOPLE</b><br/>
 --> Example: spoofing of individual's identity via email address
 
 <h4>BSP's Recommended Actions</h4>
 
-    1) verify: email system used<br/>
+<b>    1) verify: email system used</b><br/>
 <br/>
-    2) verify: email header information<br/>
+<b>    2) verify: email header information</b><br/>
     --> sender, receiver<br/>
 <br/>
-    3) verify: email content<br/>
+<b>    3) verify: email content</b><br/>
     --> Phishing, links, file attachments,<br/>
     --> unsolicited requests for personal information, sense of urgency, act quickly<br/>
 <br/>
-    4) contact: sender via another trusted channel<br/> 
+<b>    4) contact: sender via another trusted channel</b><br/> 
     --> Example: in-person meeting, to verify validity of email<br/>
     
 <h4>Dagdag</h4>
 
-    file: incident reports, et cetera with email system, Police/Law Enforcement<br/>
+    file: <b>incident reports</b>, et cetera with <b>email system</b>, <b>Police/Law Enforcement</b><br/>
 <br/>
-    observed: CRIMINAL members near target,<br/>
-    --> e.g. kamag-anak, kaklase, kunwaring kaibigan, nakahanap-buhay<br/>
-    --> keyphrase: NEED for QUICK MONEY
+    observed: <b>CRIMINAL members</b> near target,<br/>
+    --> e.g. <b>kamag-anak</b>, <b>kaklase</b>, <b>kunwaring kaibigan</b>, <b>nakahanap-buhay</b><br/>
+    --> keyphrase: <b>NEED for QUICK MONEY</b>
 <br/>
 <br/>	
 </h5>
