@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221027; from 20221026	
+  @date updated: 20221028; from 20221027	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -801,7 +801,7 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			<br/>
 			reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
 			<br/>
-			<b>Additional Notes:</b><br/>
+			<b>Additional Notes (ACTION#1):</b><br/>
 			--> <b>Report ACTION</b> classified as <b>START of EXECUTION</b> of <b>LAW ENFORCEMENT</b><br/>
 			--> adds: noticeable <b>DELAY</b> to <b>FINISH EXECUTION</b>;<br/>
 			--> where: <b>finish</b> : <b>MANLOLOKO</b> with <b>NOISE POLLUTION DESTROYED</b><br/>
@@ -859,45 +859,102 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 			--> where: <b>MP2</b> = <b>M</b>ODIFIED <b>P</b>AG-IBIG <b>2</b><br/>
 			--> <b>NOT QUICK MONEY</b>;<br/>
 			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10 years</b>;<br/>
+			
+			<br/>
+			<b>Additional Notes (ACTION#2):</b><br/>
+			--> shares: after <b>computation</b>, <b>CAN</b> by <b>30 years old (approx)</b><br/> 
+			--> be <b>self-sufficient</b> to <b>build NEW FAMILY UNIT</b>;<br/>
+			--> <b>recommends:</b> <b>investment</b> to be part of <b>EDUCATION</b> of <b>children (count: 2)</b>;<br/>
+			--> send: to <b>JAPAN</b> for <b>at least 10 months</b> to <b>study</b>;<br/>
+			--> does: <b>NOT</b> require <b>UTANG-NA-LOOB (loan for tuition)</b><br/> 
+			--> from <b>children</b> to <b>parents</b>, et cetera;	
 			</td></tr>
 			</table>
+
+<h3>3) shares: Security Defense Force and Health</h3>
+--> observed: from <b>history</b>, <b>ATTACKS</b> to <b>Senior Citizens</b>,<br/>
+--> to <b>exist</b> in <b>Japan</b> and <b>Philippines</b>;<br/>
+--> keyphrase: <b>to steal money</b>, <b>QUICK MONEY</b>;<br/>
+--> observed: as <b>DEFENSE</b>, <b>children</b>, <b>grandchildren</b> in put <b>same house compound</b>;<br/>
+--> adds: however, <b>spouse of married children</b> causes <b>speed-up</b> of <b>DEATH</b>;<br/>
+--> due to <b>NEED for QUICK MONEY</b><br/>
+<br/>
+
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">			
+		remembers:  MANGA/ANIME <b>ドラえもん</b> (doraemon) from FUJIO, FUJIKO,<br/>
+		--> where: <b>ドラえもん</b> as <b>ROBOT CAT</b> from <b>FUTURE</b><br/> 
+		--> assists <b>CHILD</b> in the <b>current TIME</b><br/>
+		--> due to: <b>without assistance</b>, shall <b>CAUSE PROBLEMS</b>,<br/>
+		--> keyphrase: <b>NEED for QUICK MONEY</b><br/>
+		<br/>
+		<b>Example</b> Story#1: <b>DARUMA DOLL</b> from <b>LOLA</b> needs have its <b>EYEBALLS drawn</b> by <b>CHILD</b>, <b>NOBITA</b>, to fulfill <b>FAMILY DREAM</b><br/>
+		--> keyphrase: <b>NEED of ACTION</b> to cause <b>FUTURE</b><br/>
+		--> adds: <b>FAMILY DREAM</b> : <b>NO NEED for QUICK MONEY</b><br/>
+		<br/>
+		<b>Example</b> Story#2: <b>BULLY</b> who <b>BEATS GUARD DOG</b><br/>
+		--> exchanges <b>POSITION</b> with the <b>GUARD DOG</b><br/>
+		--> where: <b>BULLY</b> : <b>CHILD</b> classified as <b>MINOR</b><br/>
+		--> adds: <b>GUARD DOG</b> as the <b>BULLY</b> opts <b>NOT to BEAT</b> the <b>BULLY</b><br/>
+		--> keyphrase: <b>GUARD DOG</b> understands <b>POSITION</b>,<br/> 
+		--> teaches <b>BULLY</b> of <b>CORRECT ACTION</b><br/>
+		<br/>				
+		--> reminder: <b>LECTURES</b> on <b>VALUES</b> <b>NOT</b> anymore <b>EFFECTIVE</b> <b>after K-12</b><br/>
+--> where: <b>K-12</b> : <b>High School (AGE of MINOR)</b><br/>
+--> adds: <b>EFFECTIVE ACTION</b> is via <b>PUNISHMENT</b>;<br/> 
+--> with: <b>CRIMINAL RECORD HISTORY</b> to be <b>NOT REPEATED</b> by <b>SOCIETY</b><br/>
+<br/>
+--> shares: self to prefer <b>increase in use</b> of <b>MACHINES/ROBOTS</b> to <b>assist</b>,<br/> 
+--> <b>instead of</b> increase in <b>people</b>, due to <b>people</b> have <b>EMOTION</b>,<br/>
+--> which: causes <b>problem</b>: <b>NEED for QUICK MONEY</b>;<br/> 
+--> adds: to <b>intentionally cause</b> <b>HARM</b>;<br/> 
+--> adds: <b>MACHINE/ROBOTS</b> do <b>NOT</b> <b>intentionally cause</b> us <b>HARM</b><br/> 
+--> <b>Example</b>: Electric Fan;<br/>
+--> keyphrase: <b>people</b> with <b>NEED for QUICK MONEY</b> cause <b>HARM</b>
+		</td>
+	</tr>
+</table>
+
 <br/>			
-			<br/>
-			<br/>
-			
-		
---> by 30 years old (approx) be self-sufficient to build NEW FAMILY UNIT;
---> investment to be part of EDUCATION of children (count: 2);
---> send: to JAPAN for at least 10 months to study;
---> does: not require UTANG-NA-LOOB (loan for tuition) from children;
-
---> history, attacks to senior citizens;
---> exist: in Japan, Philippines;
---> to steal money; QUICK MONEY;
---> defense: children, grand children in same house compound;
---> however, spouse of married children causes speed-up of DEATH;
---> due to NEED for QUICK MONEY
-
-remembers: doraemon
-
---> prefers: increase in use of MACHINES/ROBOTS to assist, instead of increase in people;
---> due to people have emotion, 
---> which: causes NEED for QUICK; problems;
---> adds: to cause intentionally cause harm;
---> adds: MACHINE/ROBOTS do NOT intentionally cause us harm
---> example: electric fan;
-
 <br/>			
-<br/>			
-<br/>			
-<br/>			
-			
-
-
-tiyakin sa Medical Doctor ang mga hindi tiyak
-
+--> observed: in <b>Health</b>, <b>patients</b> <b>CLARIFY</b> select <b>MEDICINE ITEMS</b> @<b>CASHIER UNIT</b><br/>
+--> <b>Example#1:</b> Tablet is for Morning and Evening? Not Afternoon and Evening?<br/>
+--> <b>Example#2:</b> Kailangan pagkatapos kumain?<br/>
+--> <b>Example#3:</b> two (2) tablets per Day?<br/>
+--> <b>Example#4:</b> Anong ginagawa nitong gamot?<br/>
+--> reminder: <b>VARIATION</b> in <b>MEDICINE ITEMS</b> to <b>EXIST</b><br/>
+<br/>
+<b>Recommended Actions:</b><br/>
+--> 1) bring: <b>NOTEBOOK and PEN</b><br/> 
+--> 2) execute: <b>Tiyakin</b> sa Medical Doctor ang mga <b>HINDI TIYAK</b><br/>
+--> adds: Pinakamaiging <b>TIYAK</b> kayo.<br/>
+<br/>
+--> observed: such <b>CERTAINTY problem</b> to <b>EXIST</b><br/>
+--> due to among others: <b>DOUBT</b>, <b>NOT CLARIFIED</b>, <b>PANLOLOKO</b><br/>
+<br/> 
+--> reminder: as <b>CAUTION</b>, <b>WALANG PAKI</b> causes <b>MANHID</b><br/>
+--> where: <b>MANHID</b> = <b>WALANG PAKIRAMDAM</b><br/>
+--> keyphrase: <b>WALANG PAKI</b>, <b>APATHY</b>, <b>APARTHEID</b><br/>
+<br/> 
+--> adds: <b>OUTPUT</b> of <b>HINDI TIYAK</b> : <b>SYSTEM INEFFICIENCY</b><br/>
+--> example: <b>DELAY</b> in <b>identification</b> of <b>MANLOLOKO members</b>,<br/>
+--> who use <b>FALSE IDENTITIES</b>, <b>recorded/manipulated voice-overs</b>;<br/>
+--> shares: <b>MANLOLOKO</b> : <b>NAGKAKAMALI</b>, <b>YABANG</b>, <b>LIFESTYLE</b> from <b>INCOME</b>
 <br/>
 <br/>
+--> adds: <b>NO NEED</b> to use available <b>remaining TIME</b> to identify <b>significance</b><br/> 
+--> of <b>objects/IDEAS</b> that are continuously <b>NOT CLARIFIED</b><br/>
+--> keyphrase: <b>OUTPUT</b> = <b>NEGATIVE EMOTION</b><br/>
+--> adds: as <b>recommendation</b>, <b>WORK</b> to <b>SPEED-UP SYSTEM</b><br/>
+--> where: <b>OUTPUT</b> = <b>QUICK</b> and <b>CORRECT</b>; <b>POSITIVE EMOTION</b>
+<br/>
+
+
 <h3>3) shares: Tanong at Sagot</h3>
 <table class="reminderTable">
 <tr>
@@ -931,8 +988,8 @@ tiyakin sa Medical Doctor ang mga hindi tiyak
 
 <br/>
 
-<h3>3) shares: Lessons-learned from NEWSPAPERS</h3>
-<h4>3.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
+<h3>4) shares: Lessons-learned from NEWSPAPERS</h3>
+<h4>4.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
 3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07">「トイレをきれいにすることから始めた」　JR東社長が語る150年</a>; last accessed: 20221027; from 20221014
 <br/><br/>
@@ -990,7 +1047,7 @@ Sa ika-14 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon n
 </h5>
 
 
-<h4>3.2) shares: Lessons-learned from MANILA BULLETIN (NEWSPAPER)</h4>
+<h4>4.2) shares: Lessons-learned from MANILA BULLETIN (NEWSPAPER)</h4>
 <h5>
 3.2.1) <b>"BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)</b><br/>
 <br/>
