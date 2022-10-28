@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20221028; from 20221027	
+  @date updated: 20221029; from 20221028	
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -633,7 +633,7 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			--> <b>POC</b> = <b>PHILIPPINE ORTHOPEDIC CENTER</b><br/>
 			<br/>
 			--> adds: There also exists <b>BANAWE (RICE TERRACES)</b>;<br/>
-			--> location: <b>ISABELA CITY; REGION 2)</b><br/>
+			--> location: <b>ISABELA CITY; REGION 2</b><br/>
 			--> keyphrase: <b>MANLOLOKO group</b> connected to <b>BANAWE (QC & REGION 2)</b>;<br/>
 			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>			
 <br/>
@@ -756,7 +756,7 @@ keyphrase: > <b>58.55Million PHP</b> used for <b>YABANG</b><br/>
 --> adds: <b>QUICK MONEY</b>, <b>EXCESS MONEY</b>, <b>ILLEGAL DRUGS</b><br/>
 --> where: due to <b>LOST MONEY</b>, <b>MANLOLOKO</b> <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
 <br/>
-reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL DRUGS</b><br/>
+reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><br/>
 <br/>
 <b>Example NOISE POLLUTION:</b> "TANGA", "'TANGINA", "BOBONG INA",<br/>
 "BOBONG PULIS", "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
