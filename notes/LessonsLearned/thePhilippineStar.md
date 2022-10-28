@@ -1,5 +1,39 @@
 # Lessons-learned: The Philippine STAR
 
+
+## “Murder, Inc.” (20221021; FRIDAY)
+
+### “Sketches”
+
+### Author
+
+PAMINTUAN, ANA MARIE
+
+### Keyphrase
+
+Murderer = Assassin<br/>
+<br/>
+Assassin Cost: 100K PHP<br/>
+Assassin's Lifetime of Silence: 5 Million PHP (approx) to Assassin's Family<br/>
+<br/>
+Promulgation CAUSED by:<br/>
+1) Ease of obtaining guns<br/>
+2) Profitable for Assassin<br/>
+--> adds: without punishment<br/>
+--> QUICK MONEY<br/>
+
+notes: majority of drive-by shootings use motorcycle <br/>
+--> adds: motorcycle COST = 100K PHP (approx)<br/>
+--> adds: helmets, jackets, pandemic masks cause DELAY in identification and classification <br/>
+--> adds: freedom from arrest via CONTRACT with influential public official<br/>
+--> who: controls pillars of criminal justice system
+
+### Sanggunian
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE;
+
+2) https://english.stackexchange.com/questions/273893/is-the-majority-of-singular-or-plural?newreg=dcd79475e8804e8a95c7d2c52ca7773f; last accessed: 20221028
+
 ## “Best interest of the child” (20221021; FRIDAY)
 
 ### “A LAW EACH DAY [Keeps Trouble Away]”
