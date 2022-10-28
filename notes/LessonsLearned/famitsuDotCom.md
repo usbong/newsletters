@@ -13,7 +13,7 @@ NHK (Japan Broadcasting Corporation) is currently broadcasting the "GAME GENOME"
 
 > ひとつの“文化”となっています。プレイ体験を通して受け取ってきた大切な価値観を“ゲームゲノム（遺伝子）”と呼び、その奥深さに迫る番組です。何が面白いのか、どうして語り継がれるのか…珠玉の作品を徹底分析し、ゲーム愛溢れる出演者たちが語り尽くします。
 
-It has become a CULTURE. "GAME GENOME" is broadcasted show that deeply penetrates what is called the "GAME GENOME", a view on the precious value obtained through the GAMEPLAY experience. The show's cast shall do their best to speak of games with their overflowing love of them, as they throughly analyze the precious product: what is interesting, why do we continue to speak of it?
+It has become a CULTURE. "GAME GENOME" is broadcasted show that deeply penetrates what is called the "GAME GENOME", a view on the precious value obtained through the GAMEPLAY experience. The show's cast do their best to speak of games with their overflowing love of them, as they thoroughly analyze the precious product: what is interesting, why do we continue to speak of it?
 
 > 今や映画や音楽、文学と同じように世界中で愛され、
 
@@ -39,6 +39,11 @@ performers -> show's cast
 > 珠玉の作品
 
 Jewel's created piece -> work of art (?) -> precious workpiece -> precious product
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 
 ## [『サガ』と佐賀県が、8年も続けてきた“ロマ佐賀”コラボの真髄とは。“ロマンシング佐賀2022”の見どころ紹介とともに、地方自治体とゲームの長き連携に思いを馳せる](https://www.famitsu.com/news/202210/26280307.html); last accessed: 20221027
 
