@@ -912,8 +912,10 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 --> shares: self to prefer <b>increase in use</b> of <b>MACHINES/ROBOTS</b> to <b>assist</b>,<br/> 
 --> <b>instead of</b> increase in <b>people</b>, due to <b>people</b> have <b>EMOTION</b>,<br/>
 --> which: causes <b>problem</b>: <b>NEED for QUICK MONEY</b>;<br/> 
---> adds: to <b>intentionally cause</b> <b>HARM</b>;<br/> 
---> adds: <b>MACHINE/ROBOTS</b> do <b>NOT</b> <b>intentionally cause</b> us <b>HARM</b><br/> 
+--> whose: <b>OUTPUT</b> = <b>intentionally cause</b> <b>HARM</b>;<br/> 
+--> keyphrase: <b>EMOTION</b> : <b>IMPULSE BUYING</b>, <b>Income</b> < <b>Expenses</b><br/>
+--> <b>NOT MAPARAANG PAGBIBILANG</b><br/>
+--> adds: however, <b>MACHINE/ROBOTS</b> do <b>NOT</b> <b>intentionally cause</b> us <b>HARM</b><br/> 
 --> <b>Example</b>: Electric Fan;<br/>
 --> keyphrase: <b>people</b> with <b>NEED for QUICK MONEY</b> cause <b>HARM</b>
 		</td>
@@ -969,9 +971,9 @@ reminder: <b>NOISE POLLUTION</b> is OUTPUT of <b>MANLOLOKO</b> with <b>ILLEGAL D
 <br/>
 <b>Understanding of STOCK MARKET</b> causes <b>system classification</b> to be <b>NOT GAMBLING</b>, <b>NOT QUICK MONEY</b>;<br/>
 <br/>
-<b>Example:</b> invest: in STOCK of CORPORATION whose product/service is VITAL;<br/>
+<b>Example:</b> invest: in <b>STOCK of CORPORATION</b> whose <b>product/service</b> is <b>VITAL</b>;<br/>
 --> <b>keyphrase:</b> MOBILITY, e.g. via ROADS, inexpensive FUEL;<br/>
---> put: MONEY for over 10 years so CORPORATION continues with product/service;<br/>
+--> put: <b>MONEY</b> for <b>over 10 years</b> so <b>CORPORATION continues</b> with product/service;<br/>
 --> adds: <b>NOT</b> as <b>HIGH-FREQUENCY TRADERS</b>,<br/> 
 --> who: buy and sell multiple stocks in a MONTH;<br/>
 --> adds: <b>SYSTEM earns</b> via each buy and sell, <b>NOT</b> the <b>HIGH-FREQUENCY TRADER</b>;<br/>
