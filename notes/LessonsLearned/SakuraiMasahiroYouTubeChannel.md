@@ -4,6 +4,40 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=e9zu3-L6Elc; last accessed: 20221028
+
+> 仕様を変えること 【仕事の姿勢】<br/>
+> 194,357 views<br/>
+> Oct 26, 2022<br/>
+
+仕様（しよう）
+
+### --
+
+下記のキーワードを使った文が<br/>
+わかるために　時間がかかりました。<br/>
+長すぎるというか・・・<br/>
+<br/>
+０：４４～０：４７　ＯＫですが。<br/>
+
+> 匹敵する<br/>
+> なりかねません
+
+<br/>
+
+> 【JLPT N2】文法・例文：〜かねない - 日本語NET
+
+--> かねない；　してしまうかもしれない<br/>
+--> 悪い結果になる<br/>
+
+### 参考：
+
+1) https://nihongokyoshi-net.com/2018/04/05/jlptn2-grammar-kanenai/; <br/>
+last accessed: 20221028
+
+2) GOOGLE SEARCH ENGINE
+
+
 ## https://www.youtube.com/watch?v=IUK8_lZrb-I; last accessed: 20221025
 
 > やり過ぎてちょうどよい<br/>
