@@ -4,7 +4,9 @@
 
 > ゲーム教養番組『ゲームゲノム』の後期のMCが三浦大知さんに決定！ 三浦「自分が大好きなゲームを熱く、深く語ることができる番組に参加させてもらえて本当にうれしい」<br/>
 > 2022.10.27 12:00
+
 <br/>
+
 > NHKは、現在放送中のゲーム教養番組『ゲームゲノム』
 
 NHK (Japan Broadcasting Corporation) is currently broadcasting the "GAME GENOME", a show to Nurture Games
