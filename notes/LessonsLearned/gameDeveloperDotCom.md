@@ -2,6 +2,19 @@
 
 TO-DO: -verify: English to Filipino language translation
 
+## https://www.gamedeveloper.com/gamasutra-status-update; last accessed: 20221026
+
+> Legacy Gamasutra URLs are experiencing issues<br/>
+> An update on blog submissions<br/>
+> <br/>
+> As of July 12, we're navigating some downtime on our legacy web pages, including both gamasutra.com and gamecareerguide.com. <br/>
+> <br/>
+> Updated 8/2/22
+
+### Keyphrase
+
+gamasutra
+
 ## https://www.gamedeveloper.com/business/valves-latest-steam-deck-trailer-briefly-plugs-a-nintendo-switch-emulator; last accessed: 20221008
 
 > Chris Kerr<br/>
