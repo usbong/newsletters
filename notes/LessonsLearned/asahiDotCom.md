@@ -12,6 +12,99 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [親に殴られ12歳から4度うつ病　東大卒の精神科医が患者に願うこと])https://www.asahi.com/articles/ASQB72VCXQB6PTIL009.html?iref=comtop_ThemeRightS_02); last accessed: 20221029
+
+> 親に殴られ12歳から4度うつ病　東大卒の精神科医が患者に願うこと
+
+Binubugbog ng Magulang, 4 na ulit na Nagkasakit sa Depresyon mula pa ng ika-12 taong gulang, 
+Ang Hiling sa May-sakit ng Manggagamot na Nagtapos sa Pamantasan ng TOKYO
+
+> 長富由希子2022年10月10日 16時00分
+
+NAGATOMI, YUKIKO; 2022-10-10T16:00
+
+### Paalala
+
+うつ病 : Sakit dahil sa Pagtama; Depresyon; Labis na pagkalungkot<br/>
+<br/>
+精神科医 : Manggamot ng May-pagbubukod ng Kaluluwa 
+
+> 10月10日は心の不調への理解を願う「世界メンタルヘルスデー」です。
+
+HILING: Sa ika-10 araw ng ika-10 buwan, pag-unawa sa mga hindi ayos ang isipan sa "Pandaigdigang Araw ng Mental Health".
+
+> 心を安定させ
+
+Gawing panatag ang isipan
+
+### --
+
+>　中学受験で難関校に合格し、高校の全国模試で総合1位を取り、東大に現役合格して医師になった。
+
+Ipinasa ang pampasok na pagsusulit sa mahirap na Gitnang Paaralan, nakuha ang bilang 1 sa Halimbawang Pagsusulit ng buong Kaharian sa Mataas na Paaralan, at naging Manggagamot (Mangangaral ng Panggagamot) nang ipasa ang Pamantasan ng TOKYO.
+
+>　こうした経歴の裏で、成績が悪ければ親に殴られ、12歳からうつ病を4度繰り返した。
+
+Sa likod ng ganitong kasaysayan, kapag masama ang marka, binubugbog ng Magulang, mula ika-12 taong gulang, 4 na ulit na nagkasakit sa pagkalungkot.
+
+>　「子どもの頃から両親の顔色をうかがって、常にびくびくしていました」
+
+"Mula pa noong aking kabataan, kapag inaalam ko ang kulay ng mukha ng aking mga Magulang, parati akong hindi mapakali"
+
+>　精神科医の岡本浩之さん（43）=東京都中野区=はそう話す。
+
+Iyon ang salaysay ni OKAMOTO, HIROYUKI (43), Manggagamot ng May-pagbubukod ng Kaluluwa=Lungsod ng TOKYO, NAKANO-KU.
+
+>　小学生の頃は成績が悪いと父親に罵倒され、たたかれた。
+
+Noong panahon niya bilang Mag-aaral sa Mababang Paaralan, kapag masama ang kanyang marka, pagagalitan siya ng kanyang Tatay, at hahatawin.
+
+>　母親は、悪い成績を見ると真っ青になってトイレで吐いて、寝込んだ。
+
+Ang kanyang ina naman, kapag nakitang masama ang kanyang marka, magiging bughaw ang kulay, susuka sa TOILET, at magkukubli sa pagtulog.
+
+>　自室はトイレの横にあり、吐く音が、よく聞こえた。
+
+Katabi ng TOILET, ang kanyang sariling silid, kaya dinig niya ang tunog ng pagsuka.
+
+>　「母親をこんな目にあわせるなんて、最低だ」
+
+"Napakababa kong tao, at hinayaan kong magkaganiyan ang aking Nanay"
+
+>　耳をふさいで泣いた。
+
+Tinatakpan niya ang kanyang tainga, at umiyak.
+
+>　ずっと人と関わることが苦手で、自信もなかった。
+
+Tuluy-tuloy siyang hirap sa pakikipagkapwa tao, at wala rin siyang tiwala sa sarili.
+
+> 精神科医になった岡本さんは、うつ病に苦しんできました。
+
+Dinanas ni G. OKAMOTO, ang ngayon na'y Manggamot, ang hirap ng sakit dulot ng labis na pagkalungkot. 
+
+>「絶対に失敗できない」　
+
+"Hindi ako maaaring matalo anuman ang mangyari"
+
+>　対照的なのが三つ上の兄。社交的で、勉強も運動もよくできた。
+
+Ang sinisinagan, ang kanyang tatlong taong nakatatandang kuya. Sapagkat maka-lipunan, magaling sa pag-aaral at sa palakasan din.
+
+>　周囲に、よく比べられた。
+
+Madalas siyang inihahambing sa kanyang nasa kapaligiran.
+
+>　「お前の兄ちゃんはすごいな…
+
+"Ang galing ng iyong kuya..."
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [米IT大手、「コロナ下」から減速鮮明　景気懸念で逆風　株価は急落](https://www.asahi.com/articles/ASQBX5G02QBXUHBI011.html?iref=comtop_Tech_science_05); last accessed: 20221029
 
 > 米IT大手、「コロナ下」から減速鮮明　景気懸念で逆風　株価は急落
