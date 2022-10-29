@@ -1,5 +1,31 @@
 # Lessons-learned: Inquirer
 
+## "INQUIRER.NET STILL TOPS PH NEWS SITES-SIMILARWEB" (20221024; MONDAY)
+
+### author: 
+
+LALU, GABRIEL PABICO
+
+### keyphrase: 
+
+SIMILARWEB: Web Traffic Analytics Provider<br/>
+--> Elapsed Period: 2022-01~2022-09<br/>
+--> Total Vists Count:<br/> 
+--> #1) Inquirer.net: 165.3 million<br/>
+--> #2) Rappler: 117.9 million <br/>
+--> #3) GMANetwork.com: 82.17 million<br/>
+--> #4) ABS-CBN.com: 68.23 million<br/>
+--> #5) Philstar.com: 62.12 million<br/>
+<br/>
+--> Inquirer.net's audience:<br/>
+--> 85% mobile phone, 15% desktop computer<br/>
+<br/>
+--> Inquirer Interactives Inc.<br/>
+--> Chairperson and President: PRIETO, PAOL R<br/>
+--> shall use: Similarweb, instead of Alexa Internet<br/>
+--> due to Alexa Internet stopped operation earlier of 2022
+
+
 ## "Man nabbed for molesting ninth grader" (20221008; SATURDAY)
 
 ### author: 
