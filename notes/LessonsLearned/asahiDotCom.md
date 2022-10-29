@@ -12,6 +12,32 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [米IT大手、「コロナ下」から減速鮮明　景気懸念で逆風　株価は急落](https://www.asahi.com/articles/ASQBX5G02QBXUHBI011.html?iref=comtop_Tech_science_05); last accessed: 20221029
+
+> 米IT大手、「コロナ下」から減速鮮明　景気懸念で逆風　株価は急落
+
+Ang Malaking Gawaan ng IT ng Amerika, mula sa ilalim ng "CORONA", malinaw ang mabilis na pagbaba; Sa pagninilay sa likod na kalagayan, baliktad ang hangin; Mabilis ang pagbagsak ng Halaga ng STOCK.
+
+> サンフランシスコ=五十嵐大介2022年10月28日 17時00分
+
+SAN FRANCISCO=IGARASHI, DAISUKE; 2022-10-28T17:00
+
+### Pinaikling Pagbubuod
+
+> アマゾンやメタなど米IT大手の7～9月期決算は、コロナ下の急成長からの減速が鮮明となった。物価高（インフレ）やドル高などの逆風が強まるなか、決算発表後、株価の急落が相次いだ。低金利やコロナ下で株価を押し上げてきた米IT大手が転機を迎えている。
+
+Sa pinagpasiyahang pagbibilang sa panahon ng ika-7~9 na buwan, naging malinaw ang mabilis na pagbaba mula sa mabilis na paglago sa ilalim ng CORONA, ang mga malalaking IT ng Amerika, tulad ng AMAZON at META. Sa loob ng paglakas ng baliktad na hangin ng Mataas na Halaga ng Bilihin (INFLATION), pagtaas ng DOLYAR, pagkatapos ng pagpapayag ng pinagpasiyahang bilang, tuluy-tuloy ang mabilis na pagbagsak ng Halaga ng STOCK. Sinasalubong ng mga Malalaking Gawaan ng IT ng Amerika ang pagbaliktad dulot ng pagtutulak sa mababang Kita ng Salapi, sa ilalim ng CORONA, atbp. 
+
+>　米アマゾンが27日発表した決算は、セールの影響で売り上げの伸びが加速したものの、コストがかさみ減益となった。売上高が前年同期比15%増の1271億ドル（約19兆円）、純利益は9%減の29億ドル（約4200億円）だった。
+
+Sa pinagpasiyahang pagbibilang na ipinahayag sa ika-27 araw ng AMAZON ng Amerika, bagama't mabilis ang idinagdag ng SALE sa pagpaparami ng naibebenta, sa pagsama sa COST, bumaba ang KITA. Kung ihahambing sa katulad na panahon ng nakaraang taon, tumaas ng 15% sa 127.1 Bilyong USD ang mga naibenta, bagama't bumaba ng 9% sa 2.9 Bilyong USD ang latak na KITA.
+
+### Dagdag
+
+1) Maaalala ang pag-antala sa pagbili dahil sa kapansing-pansing pagbaba ng halaga ng magagamit na STOCK upang pambayad;<br/>
+--> Halimbawa nito ang pagbili ni G. MUSK, ELON sa TWITTER.
+
+
 ## [モンハンなど旧作ゲームが爆売れ　カプコンの業績見通し「過去最高」](https://www.asahi.com/articles/ASQBV6DZZQBVPLFA005.html?iref=comtop_Tech_science_03); last accessed: 20221027
 
 ### TECH SCIENCE
