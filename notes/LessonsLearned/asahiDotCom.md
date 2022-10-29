@@ -12,6 +12,35 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [物価高対策「来年前半、家庭に総額4万5千円の支援」　岸田首相会見](https://www.asahi.com/articles/ASQBX535MQBXUQIP01L.html); last accessed: 20221029
+
+> 物価高対策「来年前半、家庭に総額4万5千円の支援」　岸田首相会見
+
+POLISIYA sa Pagtaas ng Halaga ng mga Bilihin: "Simula sa kalahati ng sumunod na taon, pagtulong na kabuuang salapi na 45K YEN (mga 22,250 PHP) sa mga Tahanan"; Pagtingin ng Punong Ministrong si KISHIDA
+
+
+> 2022年10月28日 18時56分
+
+2022-10-28T18:56
+
+> 首相は冒頭、「今回の対策は、物価高克服・経済再生実現のための総合経済対策だ」と述べた。
+
+
+Sinabi ng Punong Ministro bilang pangunguna, "Itong ating POLISIYA, POLISIYA ng Pinagsamang EKONOMIYA upang maisakatuparan ang pagsakop sa pagtaas ng halaga ng mga bilihin at ang pagbuhay muli ng EKONOMIYA."
+
+> 岸田文雄首相は28日、記者会見し、財政支出39・0兆円の総合経済対策を閣議決定したと発表した。柱となる物価高対策では、電気代の負担軽減策やガソリン補助金を来年以降も継続することなどをあげ「平均的な家庭で、来年前半に総額4万5千円の支援となる」と、モニターを使って説明した。
+
+
+Ipinahayag ng Punong Ministrong si KISHIDA, FUMIO sa ika-28 na araw, sa pagkikita ng mga Mamahayag, ang pinagpasiyahan ng kapulungan ukol sa POLISIYA ng Pinagsamang EKONOMIYA, kung saan maglalabas ng 39 Trilyong YEN ang Pamahalaan. Bilang haligi ng POLISIYA laban sa pagtaas ng halaga ng mga bilihin, itutuloy rin kahit sa sumunod na taon ang tulong na salapi sa GASOLINA, pagpapagaan ng pag-aako sa gastos sa KURYENTE; Gamit ang MONITOR, ipinaliwanag niya ang "Tulong ng kabuuang salapi na 45K YEN (mga 22,250 PHP) tungo sa karaniwang tahanan, sa simulang kalahati ng sumunod na taon."
+
+### Paalala
+
+平均 : karaniwan, average
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE
+
 ## [親に殴られ12歳から4度うつ病　東大卒の精神科医が患者に願うこと])https://www.asahi.com/articles/ASQB72VCXQB6PTIL009.html?iref=comtop_ThemeRightS_02); last accessed: 20221029
 
 > 親に殴られ12歳から4度うつ病　東大卒の精神科医が患者に願うこと
