@@ -1,5 +1,27 @@
 # Lessons-learned: Inquirer
 
+## "Expert: TB surpasses COVID as biggest killer" (20221024; MONDAY)
+
+### author: 
+
+AFP = Agence France-Presse 
+
+### keyphrase: 
+
+GENEVA, Switzerland<br/>
+--> French-speaking city<br/>
+<br/>
+Tuberculosis (TB)<br/>
+<br/>
+Nonprofit TB Alliance<br/>
+--> President: SPIGELMAN, MEL<br/>
+<br/>
+TB : "consumption", world's biggest infectious killer;<br/>
+--> TB kills 4,100 people a day<br/>
+--> TOP DONOR: Britain, providing NO FUNDING this year 2022<br/>
+--> "disease of the poor" -> lack of urgency for rich people to eradicate
+ 
+
 ## "INQUIRER.NET STILL TOPS PH NEWS SITES-SIMILARWEB" (20221024; MONDAY)
 
 ### author: 
