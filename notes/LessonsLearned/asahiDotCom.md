@@ -31,7 +31,7 @@ Sinabi ng Punong Ministro bilang pangunguna, "Itong ating POLISIYA, POLISIYA ng 
 > 岸田文雄首相は28日、記者会見し、財政支出39・0兆円の総合経済対策を閣議決定したと発表した。柱となる物価高対策では、電気代の負担軽減策やガソリン補助金を来年以降も継続することなどをあげ「平均的な家庭で、来年前半に総額4万5千円の支援となる」と、モニターを使って説明した。
 
 
-Ipinahayag ng Punong Ministrong si KISHIDA, FUMIO sa ika-28 na araw, sa pagkikita ng mga Mamahayag, ang pinagpasiyahan ng kapulungan ukol sa POLISIYA ng Pinagsamang EKONOMIYA, kung saan maglalabas ng 39 Trilyong YEN ang Pamahalaan. Bilang haligi ng POLISIYA laban sa pagtaas ng halaga ng mga bilihin, itutuloy rin kahit sa sumunod na taon ang tulong na salapi sa GASOLINA, pagpapagaan ng pag-aako sa gastos sa KURYENTE; Gamit ang MONITOR, ipinaliwanag niya ang "Tulong ng kabuuang salapi na 45K YEN (mga 22,250 PHP) tungo sa karaniwang tahanan, sa simulang kalahati ng sumunod na taon."
+Ipinahayag ng Punong Ministrong si KISHIDA, FUMIO sa ika-28 na araw, sa pagkikita ng mga Mamahayag, ang pinagpasiyahan ng kapulungan ukol sa POLISIYA ng Pinagsamang EKONOMIYA, kung saan maglalabas ng 39 Trilyong YEN (mga 17 Trilyong PHP) ang Pamahalaan. Bilang haligi ng POLISIYA laban sa pagtaas ng halaga ng mga bilihin, itutuloy din kahit sa sumunod na taon ang tulong na salapi sa GASOLINA, pagpapagaan ng pag-aako sa gastos sa KURYENTE; Gamit ang MONITOR, ipinaliwanag niya ang "Tulong ng kabuuang salapi na 45K YEN (mga 22,250 PHP) tungo sa karaniwang tahanan, sa simulang kalahati ng sumunod na taon."
 
 ### Paalala
 
