@@ -1,5 +1,19 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+## [『スターオーシャン6』が本日（10/27）発売。レビューやインタビュー、プレイに役立つ情報などをまとめて紹介](https://www.famitsu.com/news/202210/27280456.html); last accessed: 20221027
+
+> 『スターオーシャン6』が本日（10/27）発売。レビューやインタビュー、プレイに役立つ情報などをまとめて紹介<br/>
+
+> 2022.10.27 00:00
+
+--> action figures as with REMOTE CONTROL vehicles, e.g. Unmanned Aerial Vehicles (UAV)<br/>
+--> remembers: FFXII The Zodiac Age action movement + camera technique<br/>
+--> prefers: from gameplay videos, Star Ocean 2 PlayStation 1 (and Star Ocean Super Family Computer)<br/>
+--> remembers: from observed gameplay videos, stories of next Star Ocean games to be of existential questions;<br/>
+--> where: game characters ask: what am I?, what is human?...<br/>
+--> opts: self to NOT use available remaining TIME for such questions where quick answer is self is human, i.e. NOT robot, doll, computer program, et cetera;
+
+
 ## [ゲーム教養番組『ゲームゲノム』の後期のMCが三浦大知さんに決定！ 三浦「自分が大好きなゲームを熱く、深く語ることができる番組に参加させてもらえて本当にうれしい」](https://www.famitsu.com/news/202210/27280543.html); last accessed: 20221028
 
 > ゲーム教養番組『ゲームゲノム』の後期のMCが三浦大知さんに決定！ 三浦「自分が大好きなゲームを熱く、深く語ることができる番組に参加させてもらえて本当にうれしい」<br/>
