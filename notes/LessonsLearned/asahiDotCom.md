@@ -12,6 +12,41 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [65歳以上の高所得者、介護保険料引き上げへ　低所得者は減額を検討](https://www.asahi.com/articles/ASQB044F7QBXUTFL00N.html?iref=comtop_7_02); last accessed: 20221031
+
+> 65歳以上の高所得者、介護保険料引き上げへ　低所得者は減額を検討
+
+Ang mga higit sa 65 Taong Gulang na tumatanggap ng mataas na tulong (insurance) sa pag-aalaga, hihilahin pa ang bayad nito paitaas; Sisiyasatin naman ang pagbaba ng bayad doon sa mga mababa ang natatanggap
+
+> 石川友恵2022年10月31日 13時08分
+
+ISHIKAWA, TOMOE; 2022-10-31T13:08
+
+### Pinaikling Pagbubuod
+
+
+>　65歳以上が支払う介護保険料について、厚生労働省は高所得者の保険料を引き上げる一方、低所得者の保険料を下げる方向で見直す検討に入った。サービス利用者が増え、保険料は制度開始から2倍超に増加。今後も引き上げが避けられず、高所得者への負担を増やすことで制度の持続性を高める狙いがある。
+
+Ukol sa mga ibinabayad na tulong sa pag-aalaga sa mga higit sa 65 taong gulang, hihilahin paitaas ng Ministro ng Pagkayod at Kapakanan (Labor and Welfare) ang bayad sa inihahandang salapi sa mga matataas ang tinatanggap, habang sisiyasatin muli ang patungong paibaba nito sa mga mababa ang tinatanggap. Tumaas ang bilang ng mga taong gumagamit ng serbisyo, at mula nang sinimulan ang sistema, dumami pa sa higit sa dalawa ang bayad. Hindi na rin maiiwasan ang paghila pa paitaas nito, at sapagkat pararamihin ang inaako ng mga matataas ang tinatanggap, pakay palakasin ang kakayanang maipagpatuloy ang sistema.
+
+### --
+
+> 国が基準を定めている。国の基準では所得に応じて9段階に分け、最も高い人（合計所得金額が年320万円以上）は基準額の1・7倍、最も低い人（生活保護受給者など）は0・3倍を支払う。基準額は全国平均で月6014円（21～23年度）となっている。
+
+Pinagpasiyahan ang batayan ng Kaharian. Nahahati ito sa 9 na nibel ayon sa natatanggap, kung saan pinararami ang salapi sa 1.7 doon sa mga pinakamataas ang natatanggap (kabuuang salapi: higit sa 3.2 Milyong YEN (mga 1.6 Milyong PHP) bawat taon), at nagbabayad naman ng pinarami sa 0.3 ang mga pinakamamaba ang natatanggap (mga nabibigyan ng tulong sa pangkabuhayan, atbp). Ito ang batayang salapi sa karaniwan (average) ng buong Kaharian, 6014 YEN (mga 3007 PHP) sa isang buwan mula Taong 21~23.
+
+### Paalala
+
+持続性を高める : pataasin -> palakasin (ang kakayanang makapagpatuloy)<br/>
+
+制度 : nibel ng paghihigpit -> sistema
+
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [物価高対策「来年前半、家庭に総額4万5千円の支援」　岸田首相会見](https://www.asahi.com/articles/ASQBX535MQBXUQIP01L.html); last accessed: 20221029
 
 > 物価高対策「来年前半、家庭に総額4万5千円の支援」　岸田首相会見
