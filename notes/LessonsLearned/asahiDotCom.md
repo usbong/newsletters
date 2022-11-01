@@ -16,7 +16,7 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 > 大阪の医療センターにサイバー攻撃　手術延期、外来診療できない状態
 
-Sinalakay ng CYBERATTACK ang Pagamutan sa OSAKA; Kalagayan: Hindi makagawa ng matagal na panahon na SURGERY, at hindi makatanggap ng mga gagamutin mula sa labas
+Sinalakay ng CYBERATTACK ang Pagamutan sa OSAKA; Kalagayan: Pinatagal ang panahon upang gawin ang SURGICAL OPERATION, at hindi makatanggap ng mga magpapagamot mula sa labas
 
 > 菅原普、寺沢知海、田中章博2022年10月31日 22時04分
 
