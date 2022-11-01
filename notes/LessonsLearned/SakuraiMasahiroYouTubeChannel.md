@@ -87,7 +87,6 @@ TO-DO: -update: this
     約８００員
   </td>
  </tr>
-
 </table>
 
 ### 参考：https://www.top5.co.jp/pana-mci/hitosihon.html; last accessed: 20221101
@@ -97,6 +96,33 @@ TO-DO: -update: this
 ### おすすめ：
 １）盛田昭夫氏などの「MADE IN JAPAN」<br/>
 ２）SHEFF, D.氏の“Game Over: How Nintendo Zapped an American Industry, Captured Your Dollars, and Enslaved Your Children”
+
+### Dagdag
+
+コロナ禍のちょっと前の会社レポートからのデータですが、<br/>
+富士通さんだと、日本人口の０.１％ですね。<br/>
+当時の会社数が、だいぶ多いです。<br/>
+<br/>
+海外の人も含まれているかもしれません。
+
+<table>
+ <tr>
+  <td>
+    富士通 ：
+  </td>
+  <td>
+    約１１０，０００員
+  </td>
+ </tr>
+  <tr>
+  <td>
+    日本人口 ：
+  </td>
+  <td>
+    約１億１千人
+  </td>
+ </tr>
+</table>
 
 ## https://www.youtube.com/watch?v=e9zu3-L6Elc; last accessed: 20221028
 
