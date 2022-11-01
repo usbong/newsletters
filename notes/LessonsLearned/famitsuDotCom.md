@@ -1,5 +1,324 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+
+## [Toby Foxの秘密基地】連載コラム第2回 アメリカ製『聖剣伝説2』こと『Secret of Evermore』／「トビーさんが返事をくれる？ 読者投稿企画」も募集開始](https://www.famitsu.com/news/202210/31280711.html); last accessed: 20221101
+
+> by 藤川Q 編集部
+
+Mula kay FUJIKAWA-Q (Unit ng Tagapagbuklod)
+
+> 2022-10-31T18:30
+
+### Pinaikling Pagbubuod
+
+> たった一度だけ、Square Soft Inc.が独自にRPGを制作したことがあっ
+
+> たんです。彼らが受けた指令は、「『聖剣伝説2 』（ のちに海外でも『SECRET 
+
+> of MANA』としてリリース）をベースにしたゲームを制作すること」。そうして誕生し
+
+> たのが……。
+
+Sa isa lamang tanging pagkakataon, may <br/>
+<br/>
+sariling ginawang RPG ang Square Soft Inc. (sa Amerika)<br/>
+<br/>
+Ito ang kanilang tinanggap na utos: "Gumawa <br/>
+<br/>
+ng LARO gamit ang "SEIKEN DENSETSU#2 (agad na <br/>
+<br/>
+inilabas sa ibayong dagat bilang "SECRET of <br/>
+<br/>
+MANA")" bilang batayan. At pagkatapos, ang <br/>
+<br/>
+isinilang...
+
+>　『Secret of Evermore』でした。
+
+"Secret of Evermore".
+
+
+>　このゲーム、戦闘システムはほぼ『聖剣伝説2』そのまんまです。使える武器は
+
+>剣とヤリと斧で、技も似ています。武器はそれぞれレベルアップできて、何段階かチ
+
+>ャージして攻撃できました。リングコマンドを採用していて、オプションも大半が同じ
+
+>。でも、逆に言えば、似ているところはそれだけでした。
+
+
+Sa LARONG ito, ang Sistema ng LABANAN, halos <br/>
+<br/>
+ganoon din sa "SEIKEN DENSETSU#2 (Alamat ng <br/>
+<br/>
+Banal na Patalim)". Magkahango ang mga <br/>
+<br/>
+ginagamit na Sandata, Patalim, Sibat, at <br/>
+<br/>
+Palakol, at ang mga KAKAYANAN (TEKNIK) din. <br/>
+<br/>
+Sa mga Sandata, kayang gawan ng LEVEL-UP ang <br/>
+<br/>
+bawat isa, at maaaring sumalakay pagkatapos <br/>
+<br/>
+gawan ng ilang nibel ng Pag-iipon (CHARGE). <br/>
+<br/>
+Ginagamit ang RING COMMAND, at malaking <br/>
+<br/>
+bahagi ng OPTION, katulad din sa SEIKEN <br/>
+<br/>
+DENSETSU#2. Subalit, kapag binaliktad ko ang <br/>
+<br/>
+aking sinasabi, ang mga iyon lamang ang mga <br/>
+<br/>
+magkahangong bahagi.
+
+
+### --
+
+> まず、設定からしてもうぜんぜん違っていて、主人公はアメリカ人の生意気な少年
+
+> です。架空のB級映画のセリフを引用したキメゼリフを連発するキャラで、いつも相
+
+> 棒のイヌを連れていて、オレンジ色のジャケットにブルーのズボンをはいた姿は、ほ
+
+> ぼ映画『バック・トゥ・ザ・フューチャー』のマーティ・マクフライ（16ビット版）でした。
+
+Bilang simula, mula sa SETTING, ibang-iba, at <br/>
+<br/>
+ang pangunahing tauhan, mayabang na bata. <br/>
+<br/>
+Isa siyang tauhang tuluy-tuloy na naglalabas <br/>
+<br/>
+ng mga LINYA ng salita mula sa mga gawa-<br/>
+<br/>
+gawang pelikulang B lamang ang marka, at parati <br/>
+<br/>
+siyang sinusundan ng kanyang kaibigang aso,  <br/>
+<br/>
+nakasuot ng kulay ORANGE na jacket at bughaw <br/>
+<br/>
+na pantalon, halos hango kay MARTY MCFLY <br/>
+<br/>
+(16bit bersyon) ng "BACK TO THE FUTURE".
+
+
+>　ゲームの冒頭、お気に入りの低予算映画を見終えた少年は、自分のイヌを追
+
+> いかけているうちに、いまは無人になっている研究所に迷い込みます。
+
+Sa simula ng LARO, pagkatapos panoorin ang <br/>
+<br/>
+kinahiligan niyang PELIKULANG mababa ang <br/>
+<br/>
+inilaang pera (BUDGET), at habang hinahabol <br/>
+<br/>
+ng kanyang sariling aso, maliligaw siya sa <br/>
+<br/>
+loob ng kasalukuyang walang katau-taong Silid <br/>
+<br/>
+ng Pananaliksik. 
+
+
+>　そこでナゾの機械を見つけて、「Evermore（エバーモア）」という異世界に飛
+
+> ばされるんですが、そこは、いろんな時代が同時に存在する、もうひとつの地球な
+
+> のでした。恐竜たちが闊歩する前史時代の沼地を抜け、青銅器時代でミノタウロ
+
+> スと戦い、中世のお城に捕らわれ、とうとう宇宙にまで飛び出します。
+
+Doon, matatagpuan niya ang Palaisipang <br/>
+<br/>
+MAKINA, at lilipad siya paalis tungo sa ibang <br/>
+<br/>
+daigdig na may pangalang "Evermore <br/>
+<br/>
+(Kailanman)", isa iyong daigdig kung saan <br/>
+<br/>
+magkasabay umiiral ang samu't saring panahon. <br/>
+<br/>
+Makalalaya mula sa matubig na lupa sa <br/>
+<br/>
+nakaraang panahon ng kasaysayan kung kailan <br/>
+<br/>
+buhay na naglalakad ang mga HALIMAW <br/>
+<br/>
+(DINOSAUR; Nakatatakot na DRAGON), <br/>
+<br/>
+makikipaglaban sa MINOTAURUS sa panahon ng <br/>
+<br/>
+mga kagamitang kulay bughaw na tanso, <br/>
+<br/>
+mahuhuli sa kastilyo ng gitnang siglo, at <br/>
+<br/>
+hanggang sa wakas, lilipad paalis tungo sa <br/>
+<br/>
+kalawakan.
+
+
+>　そうやって訪れたいろんな時代で、エバーモアに足止めされているほかの人たちと
+
+> 出会い、彼らと力を合わせて、もとの世界にもどる方法を探る……というゲームでし
+
+> た。
+
+
+Sa ganoong paraan dadalawin niya ang samu't <br/>
+<br/>
+saring mga panahon, makatatagpo ng mga ibang <br/>
+<br/>
+tao na nananatili sa EVERMORE. <br/>
+<br/>
+Makikipagsamahan ng LAKAS kasama sila, at <br/>
+<br/>
+maghahanap ng paraan upang makabalik siya sa <br/>
+<br/>
+dating niyang daigdig... ito ang sinasabing <br/>
+<br/>
+LARO.
+
+### --
+
+>　そう、このゲーム、旅の唯一の仲間は、イヌなんですよ。
+
+Oo, sa LARONG ito, tanging ang aso ang <br/>
+<br/>
+kanyang kaibigan sa paglalakbay.
+
+
+>　このイヌは魔法も武器も使えないけどめちゃくちゃ強くて、訪れる時代が変わるた
+
+> びに姿が変化するんです。最初に訪れる前史時代のジャングルでは、怖そうなで
+
+> っかいオオカミ。つぎの時代に進むと、上品なグレイハウンドに変身します。
+
+Bagama't hindi makagagamit ng HIMALA (MAHIKA) <br/>
+<br/>
+at Sandata, labis-labis na malakas, at <br/>
+<br/>
+nagbabago ang anyo sa tuwing nagbabago ang <br/>
+<br/>
+panahong kanilang dinadalaw. Sa pinakaunang <br/>
+<br/>
+dadalawing panahon ng kasaysayan, sa GUBAT, <br/>
+<br/>
+nakatatakot na malaking LOBO (ang kanyang <br/>
+<br/>
+anyo). Kapag umusad sa sunod na panahon, <br/>
+<br/>
+magpapalit ng katawan bilang mamahaling <br/>
+<br/>
+GREYHOUND. 
+
+### --
+
+>　虫の羽音や鳥の奇声があちこちから聞こえてきて、本当に古代のジャングルで迷
+
+> 子になった気分を味わえるんです。
+
+Sapagkat maririnig ang mga kakaibang tinig ng <br/>
+<br/>
+mga ibon, ang tunog ng pakpak ng insekto, <br/>
+<br/>
+atbp, talagang malalasap ang pakiramdam ng <br/>
+<br/>
+nawawalang bata sa GUBAT ng lumang panahon.
+
+> そういう演出をすべて、オーディオで実現していました。
+
+Tunay na maisasapatupad ang lahat ng mga <br/>
+<br/>
+pagtatanghal na iyon sa AUDIO (TUNOG). 
+
+
+### --
+
+
+> とはいえ、残念な点もいくつかありました。このゲームの錬金術と武器には『聖剣伝
+
+> 説2』のレベルアップシステムが採用されていますが、レベルアップのペースが死ぬほ
+
+> ど遅いんです。
+
+Ngunit, sa pagsabi ko man ng mga ito, may <br/>
+<br/>
+ilang mga nakapaghihinayang bagay. Bagama't <br/>
+<br/>
+ginagamit ng LARONG ito ang sistema ng <br/>
+<br/>
+LEVEL-UP  ng "SEIKEN DENSETSU#2" sa mga <br/>
+<br/>
+Sandata at Kakayanan ng Ginto't Tanso, halos <br/>
+<br/>
+mamamatay ka sa bagal ng pag-usad ng LEVEL-<br/>
+<br/>
+UP.
+
+
+>　それに、錬金技の発動に素材の採取が必要なせいで、あまり技を使いたくなくな
+
+> るという難点もありました。バグもたくさんあったし、当たり判定も微妙で、ボス戦の
+
+> ゲームデザインも、難があるものが多かった。ステージも大半が迷路みたいでわかり
+
+> にくいし、そして何よりストーリーも、いまいち練られていない感がありました。
+
+
+Dagdag pa roon, gawa ng kailangang kumuha ng <br/>
+<br/>
+mga sangkap upang pakilusin ang Kakayanan ng <br/>
+<br/>
+Ginto't Tanso, mahirap tuloy naising gamitin <br/>
+<br/>
+ang mga KAKAYANAN. Marami ring mga BUG, <br/>
+<br/>
+pahirapan sa paghusga ng pagtama, ang DISENYO <br/>
+<br/>
+ng LARO sa pakikipaglaban sa BOSS, maraming <br/>
+<br/>
+mga pampahirap na bagay. Sa STAGE, mahirap <br/>
+<br/>
+ding maunawaan ang malaking bahagi nito dahil <br/>
+<br/>
+tulad ito sa Nakawawalang Daanan, at ang <br/>
+<br/>
+Salaysay din, may pakiramdam akong hindi <br/>
+<br/>
+maayos ang pagkapipiga.   
+
+### Dagdag
+
+1) Maayos ang pagkasulat sa WIKANG HAPON;<br/>
+--> Bilang simula, ninais kong matuklasan pa ang tungkol kay Nasir Gebelli at ang kaniyang kinahinatnan pagkatapos ng SEIKEN DENSETSU#2;<br/>
+--> Bagama't hindi ko pa nalalaro ang SECRET of EVERMORE, nakabili ang aking batang kapatid nito at nilaro Super Nintendo Entertainment System (SNES)/Super Family Computer (SFC).<br/>
+--> Bahagya kong alam ang salaysay dahil nabasa ko rin ang tungkol sa Secret of Evermore sa mga Magasin; <br/>
+--> Gayunpaman, naibigan ko ang pagkasulat ng paliwanag nito rito sa famitsu.com.<br/>
+--> Nagulat din ako pagkatapos siyasatin pa, salin pala ito sa isinulat ni Toby Fox (UNDERTALE) na nasa Wikang Ingles.
+
+日本語で書かれた記事が良いです。<br/>
+--> まず、Nasir Gebelliのこと、そして「『聖剣伝説2 』」後の彼の人生がどうなったかを知りたかったです。<br/>
+-- 『Secret of Evermore』を遊んだことがないが、弟がこのゲームを買えて、スーパー任天堂システム（ＳＮＥＳ）・スーパーファミリーコンピュータ（ＳＦＣ）で遊びました。<br/>
+--> ストーリーのほうですが、雑誌で『Secret of Evermore』を読めて、少しわかります。<br/>
+--> と言いますが、famitsu.comで書かれた記事を気に入れました。<br/>
+--> 調べた後、Toby Fox (UNDERTALE)の英語の記事から翻訳されたということにも驚きました。
+
+2) Sa pangungusap na ito ako nawalan ng ganang sariling subukan ang LARO.
+
+> バグもたくさんあったし、当たり判定も微妙で、ボス戦のゲームデザインも、難があるものが多かった。
+
+3) Nahirapan ako isalin sa Wikang Filipino ito:
+
+> 使いたくなくなるという難点もありました
+
+4) ＦＦＩＸのUEMATSU'S BEST SELECTIONを聞きながら、日本語からフィリピン語に翻訳してみました。
+
+### Sanggunian
+
+Google Search Engine; Translate
+
+
+
 ## [『スターオーシャン6』が本日（10/27）発売。レビューやインタビュー、プレイに役立つ情報などをまとめて紹介](https://www.famitsu.com/news/202210/27280456.html); last accessed: 20221027
 
 > 『スターオーシャン6』が本日（10/27）発売。レビューやインタビュー、プレイに役立つ情報などをまとめて紹介<br/>
