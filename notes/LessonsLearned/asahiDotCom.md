@@ -28,7 +28,7 @@ SUGAWARA, HIROSHI; TERASAWA, TOMOMI; TANAKA, AKIHIRO; 2022-10-31T22:04
 <br/>
 急性期・総合医療センター : ER (Agarang Panahon) at Pinagbuklod na Medical Treatment Center<br/>
 <br/>
-診療 : CONSULTATION/DIAGNOSIS Treatment, Gagamutin
+診療 : CONSULTATION/DIAGNOSIS Treatment, Panggagamot
 
 ### Dagdag
 
