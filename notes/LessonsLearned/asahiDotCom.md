@@ -18,6 +18,10 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 Sinalakay ng CYBERATTACK ang Pagamutan sa OSAKA; Kalagayan: Hindi makagawa ng matagal na panahon na SURGERY, at hindi makatanggap ng mga gagamutin mula sa labas
 
+> 菅原普、寺沢知海、田中章博2022年10月31日 22時04分
+
+SUGAWARA, HIROSHI; TERASAWA, TOMOMI; TANAKA, AKIHIRO; 2022-10-31T22:04
+
 ### Paalala
 
 医療センター : Medical Treatment Center, Pagamutan<br/>
@@ -30,9 +34,6 @@ Sinalakay ng CYBERATTACK ang Pagamutan sa OSAKA; Kalagayan: Hindi makagawa ng ma
 
 Higit na mabilis ang pagsasalin mula Wikang Hapon tungo sa Wikang Ingles, sapagkat Ingles ang aming ginamit sa mga Aklat (TEXTBOOK) upang malaman ang katumbas na mga salitang Hapon.
 
-> 菅原普、寺沢知海、田中章博2022年10月31日 22時04分
-
-SUGAWARA, HIROSHI; TERASAWA, TOMOMI; TANAKA, AKIHIRO; 2022-10-31T22:04
 
 ### Pinaikling Pagbubuod
 
