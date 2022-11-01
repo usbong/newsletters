@@ -39,7 +39,7 @@ Higit na mabilis ang pagsasalin mula Wikang Hapon tungo sa Wikang Ingles, sapagk
 
 >　大阪急性期・総合医療センター（大阪市住吉区）は31日、ランサムウェア（身代金ウイルス）によるサイバー攻撃を受けたと発表した。電子カルテのシステムで障害が起き、緊急以外の手術や外来診療など通常の診療ができない状態となっているという。同日夜の時点で復旧の見通しは立っていない。
 
-Ipinahayag sa ika-31 ng ika-10 buwan, RANSOMWARE (VIRUS na maaayos lamang kapalit ang pera), isang CYBER ATTACK, ang tumama sa Pagamutan sa bahagi ng SUMIYOSHI, sa Lungsod ng Osaka. Dahil sa naganap na kapansanan sa SISTEMA ng mga ELECTRONIC CHART, sinasabing maliban sa agarang gamutan, hindi na makagawa ng karaniwang panggagamot tulad ng SURGICAL OPERATION, pagtanggap ng mga May-sakit mula sa labas upang gawan ng DIAGNOSIS, atbp. Sa kinagabihan ng araw na iyon, hindi pa rin maibalik sa dati ang sistema.
+Ipinahayag sa ika-31 ng ika-10 buwan, RANSOMWARE (VIRUS na maaayos lamang kapalit ang pera), isang CYBERATTACK, ang tumama sa Pagamutan sa bahagi ng SUMIYOSHI, sa Lungsod ng Osaka. Dahil sa naganap na kapansanan sa SISTEMA ng mga ELECTRONIC CHART, sinasabing maliban sa agarang gamutan, hindi na makagawa ng karaniwang panggagamot tulad ng SURGICAL OPERATION, pagtanggap ng mga May-sakit mula sa labas upang gawan ng DIAGNOSIS, atbp. Sa kinagabihan ng araw na iyon, hindi pa rin maibalik sa dati ang sistema.
 
 
 >　同日夜に記者会見を開いた同センターの岩瀬和裕病院長らによると、31日午前6時40分ごろ、職員がサーバーの障害に気づいた。サーバー上の記録には英語で、「すべてのファイルは暗号化された」などと表示され、暗号資産のビットコインの支払いを求める文言が残されていたという。
