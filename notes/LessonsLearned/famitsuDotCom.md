@@ -296,9 +296,9 @@ maayos ang pagkapipiga.
 --> Gayunpaman, naibigan ko ang pagkasulat ng paliwanag nito rito sa famitsu.com.<br/>
 --> Nagulat din ako pagkatapos siyasatin pa, salin pala ito sa isinulat ni Toby Fox (UNDERTALE) na nasa Wikang Ingles.
 
-日本語で書かれた記事が良いです。<br/>
+1) 日本語で書かれた記事が良いです。<br/>
 --> まず、Nasir Gebelliのこと、そして「『聖剣伝説2 』」後の彼の人生がどうなったかを知りたかったです。<br/>
--- 『Secret of Evermore』を遊んだことがないが、弟がこのゲームを買えて、スーパー任天堂システム（ＳＮＥＳ）・スーパーファミリーコンピュータ（ＳＦＣ）で遊びました。<br/>
+-- 『Secret of Evermore』を遊んだことがないが、弟がこのゲームを買えて、スーパー任天堂エンターテインメントシステム（ＳＮＥＳ）・スーパーファミリーコンピュータ（ＳＦＣ）で遊びました。<br/>
 --> ストーリーのほうですが、雑誌で『Secret of Evermore』を読めて、少しわかります。<br/>
 --> と言いますが、famitsu.comで書かれた記事を気に入れました。<br/>
 --> 調べた後、Toby Fox (UNDERTALE)の英語の記事から翻訳されたということにも驚きました。
