@@ -12,6 +12,47 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [大阪の医療センターにサイバー攻撃　手術延期、外来診療できない状態](https://www.asahi.com/articles/ASQB075DWQB0OXIE022.html?iref=comtop_Tech_science_03); last accessed: 20221101
+
+> 大阪の医療センターにサイバー攻撃　手術延期、外来診療できない状態
+
+Sinalakay ng CYBERATTACK ang Pagamutan sa OSAKA; Kalagayan: Hindi makagawa ng matagal na panahon na SURGERY, at hindi makatanggap ng mga gagamutin mula sa labas
+
+### Paalala
+
+医療センター : Medical Treatment Center, Pagamutan<br/>
+<br/>
+急性期・総合医療センター : ER (Agarang Panahon) at Pinagbuklod na Medical Treatment Center<br/>
+<br/>
+診療 : CONSULTATION/DIAGNOSIS Treatment, Gagamutin
+
+### Dagdag
+
+Higit na mabilis ang pagsasalin mula Wikang Hapon tungo sa Wikang Ingles, sapagkat Ingles ang aming ginamit sa mga Aklat (TEXTBOOK) upang malaman ang katumbas na mga salitang Hapon.
+
+> 菅原普、寺沢知海、田中章博2022年10月31日 22時04分
+
+SUGAWARA, HIROSHI; TERASAWA, TOMOMI; TANAKA, AKIHIRO; 2022-10-31T22:04
+
+### Pinaikling Pagbubuod
+
+>　大阪急性期・総合医療センター（大阪市住吉区）は31日、ランサムウェア（身代金ウイルス）によるサイバー攻撃を受けたと発表した。電子カルテのシステムで障害が起き、緊急以外の手術や外来診療など通常の診療ができない状態となっているという。同日夜の時点で復旧の見通しは立っていない。
+
+Ipinahayag sa ika-31 ng ika-10 buwan, RANSOMWARE (VIRUS na maaayos lamang kapalit ang pera), isang CYBER ATTACK, ang tumama sa Pagamutan sa bahagi ng SUMIYOSHI, sa Lungsod ng Osaka. Dahil sa naganap na kapansanan sa SISTEMA ng mga ELECTRONIC CHART, sinasabing maliban sa agarang gamutan, hindi na makagawa ng karaniwang panggagamot tulad ng SURGICAL OPERATION, pagtanggap ng mga May-sakit mula sa labas upang gawan ng DIAGNOSIS, atbp. Sa kinagabihan ng araw na iyon, hindi pa rin maibalik sa dati ang sistema.
+
+
+>　同日夜に記者会見を開いた同センターの岩瀬和裕病院長らによると、31日午前6時40分ごろ、職員がサーバーの障害に気づいた。サーバー上の記録には英語で、「すべてのファイルは暗号化された」などと表示され、暗号資産のビットコインの支払いを求める文言が残されていたという。
+
+Sa kinagabihan, nagbukas ng pagpupulong kasama ang mga mamahayag, ang Pinuno ng Pagamutan, na si KAZUHIRO, IWASE, at ayon sa kaniya, sa umaga ng ika-31 araw, ng 06:40, napansin ng kanilang Manggagawa ang kapansanan sa SERVER. Sa nakasulat na alaala ng SERVER, sa Wikang Ingles, ipinakikita nito na "Nagkaroon na ng ENCRYPTION ang lahat ng mga file", atbp. Sinasabi ring nag-iwan ng sulat na naghahangad na magbayad sila ng BITCOIN ukol sa mga ASSET na may ENCRYPTION.
+
+>　この影響で、同日から患者の電子カルテが使えず、診療報酬の計算もできない状態になっている。センターでは緊急の手術などを除いて、手術を延期したり外来診療を停止したりした。この日だけで最大1千人の患者に影響が出たが、現時点では患者の健康状態に関わるようなトラブルは起こっていないという。
+
+Dahil dito, mula sa araw na iyon, hindi nila magamit ang ELECTRONIC CHART ng mga May-sakit, at hindi na rin nila magawan ng pagbibilang ang iginagawad na bayad sa panggagamot. Bukod sa agarang SURGICAL OPERATION sa Pagamutan, pinatagal ang mga SURGERY, itinigil ang pagtanggap ng mga magpapagamot, atbp. Sa araw lamang na iyon, 1K (pinakamalaki) na May-sakit ang nadamay; gayunpaman, wala namang naganap na sakunang may kinalaman sa kalagayan ng kalusugan ng mga May-sakit sa kasalukuyang panahon.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [65歳以上の高所得者、介護保険料引き上げへ　低所得者は減額を検討](https://www.asahi.com/articles/ASQB044F7QBXUTFL00N.html?iref=comtop_7_02); last accessed: 20221031
 
 > 65歳以上の高所得者、介護保険料引き上げへ　低所得者は減額を検討
