@@ -1,5 +1,62 @@
 # Lessons-learned: The Philippine STAR
 
+## “Gov't urged to spend more for digital infrastructure” (20221101; MONDAY)
+
+### Author
+
+ROSALES, ELIJAH FELICE
+
+### Keyphrase
+
+Public-Private Partnership
+
+#### Telco Industry (Digital Infrastructure)
+
+--> Private Sector Advisory Council to ADMIN (Pamahalaan): <br/>
+--> Aboitiz Group (Team Leader)<br/>
+--> Bank of the Philippine Islands (BPI)<br/>
+--> Converge<br/>
+--> PLDT<br/>
+--> Globe<br/>
+--> Union Bank of the Philippines
+
+> The telco industry has asked President Marcros to allocate a yearly budget not only for physical infrastructure, but also digital assets to achieve his push for universal connectivity
+
+--> shall use: annual budget to install fiber cables in far-flung locations where telcos struggle to expand
+
+### Existing System abroad: U.S.A., Australia, Singapore:
+
+COMMON infrastructure spent by government<br/>
+--> where: operator (telco) has low investment,<br/>
+--> causes#1: their Return of Investment (RoI) to be faster;<br/>
+--> causes#2: lower COST for CONSUMER
+
+### Paalala
+
+1) add: COST to ADMIN (PAMAHALAAN) intervention to execute ENFORCED REGULATION against MISUSE of INFRASTRUCTURE:<br/>
+--> <b>Examples:</b> unauthorized access, theft of equipment, noise pollution<br/>
+--> where: COST is lower for CONSUMER, but higher long-term for ADMIN<br/>
+
+### USBONG RECOMMENDED ACTION:
+
+1) telco to assist ADMIN (PAMAHALAAN) by sharing know-how of INFRASTRUCTURE<br/>
+--> objective: know-how to be COMMON KNOWLEDGE<br/>
+--> where: COMMON KNOWLEDGE : NOT SECRET<br/>
+--> keyphrase: proprietory know-how < NATIONAL SECURITY<br/>
+--> adds: EDUCATION -> ADMIN<br/>
+--> adds: EDUCATION -> PEOPLE<br/>
+--> Example as reminder: GERMAN propriety know-how transferred to CHINA;<br/> 
+--> YET, there exists NO FEAR that GERMANY shall LOSE MONEY;;<br/>
+--> CAUSE: know-how requires SYSTEM SOLUTION,;<br/>
+--> where: people with know-how WORK together;;<br/>
+--> with: count of people with know-how NOT minority;<br/>
+--> reminder: MANLOLOKO group promulgates know-how to be "SECRET",<br/>
+--> where: only MINORTY of people have know-how<br/>
+--> cause: QUICK MONEY<br/>
+--> example: wireless broadcasting technology misused to cause NOISE POLLUTION;<br/>
+--> keyphrase: budol-budol, carnapping, smuggling, illegal drugs, <br/>
+--> cyber attack, QUICK MONEY
+
 
 ## “Murder, Inc.” (20221021; FRIDAY)
 
