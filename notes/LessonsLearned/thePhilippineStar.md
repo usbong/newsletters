@@ -46,9 +46,9 @@ COMMON infrastructure spent by government<br/>
 --> adds: EDUCATION -> ADMIN<br/>
 --> adds: EDUCATION -> PEOPLE<br/>
 --> Example as reminder: GERMAN propriety know-how transferred to CHINA;<br/> 
---> YET, there exists NO FEAR that GERMANY shall LOSE MONEY;;<br/>
---> CAUSE: know-how requires SYSTEM SOLUTION,;<br/>
---> where: people with know-how WORK together;;<br/>
+--> YET, there exists NO FEAR that GERMANY shall LOSE MONEY;<br/>
+--> CAUSE: know-how requires SYSTEM SOLUTION,<br/>
+--> where: people with know-how WORK together;<br/>
 --> with: count of people with know-how NOT minority;<br/>
 --> reminder: MANLOLOKO group promulgates know-how to be "SECRET",<br/>
 --> where: only MINORTY of people have know-how<br/>
