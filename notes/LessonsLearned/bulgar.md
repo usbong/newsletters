@@ -1,5 +1,70 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "Alamin: Benepisyong PhilHealth para sa mga batang may kapansanan" (20221103)
+
+## ALAGANG PHILHEALTH
+
+### Author
+
+BULGAR
+
+### Keyphrase
+
+#### Philippine Statistics Authority:
+
+9 ng 100 katao<br/>
+edad >= 5 taong gulang
+
+#### Problema
+
+Paningin<br/>
+Pandinig<br/>
+Paglalakad<br/>
+Pag-alala<br/>
+Pag-aalaga sa sarili (paglalaba o pagbibihis)<br/>
+
+#### Benepisyo
+
+<table>
+	<tr>
+		<td>
+			Mobility impairment
+		</td>
+		<td>
+			PHP1,590~PHP163,540
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Kapansanan sa paningin
+		</td>
+		<td>
+			PHP1,000~PHP31,920
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Kapansanan sa pandinig
+		</td>
+		<td>
+			PHP22,100~PHP67,100
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Developmental disabilities
+		</td>
+		<td>
+			PHP3,626~PHP5,276
+		</td>
+	</tr>
+</table>
+
+### Sanggunian
+ACTION CENTER: https://www.philhealth.gov.ph/; last accessed: 20221103
+
+
+
 # "17 RIDERS, NATIKETAN SA MAINGAY NA TAMBUTSO" (20221013)
 
 ### Author
