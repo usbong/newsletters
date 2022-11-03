@@ -12,6 +12,70 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「映画への裏切り」に宮さん怒った　鈴木P語るナウシカ](https://www.asahi.com/articles/ASP2L00GGP2JUCVL010.html?iref=comtop_ThemeRightS_01); last accessed: 20221103
+
+>「映画への裏切り」に宮さん怒った　鈴木P語るナウシカ
+
+Galit si G. MIYA sa "Hiwa sa likod sa PELIKULA"; Isasalaysay ni G. SUZUKI ang NAUSICAA
+
+
+> 太田啓之2021年3月25日 16時55分
+
+OHTA, HIROYUKI; 2022-03-25T16:55
+
+### Pinaikling Pagbubuod
+
+Dagdag: Nakayos ito ayon sa halaga ng pinagtuunan kong bahagi habang binabasa ang sulatin.
+
+### --
+
+> 左が、徹底的に描き込まれた『1日1枚描けるかどうか』という絵。僕は『左のがいい』と即答して、連載の絵柄が決まりました」
+
+"Sa kaliwa, guhit na 'sa isang araw, 1 lang ba o wala nito (ang maguguhit)'. Agad kong sinabi na "Ayos ang sa kaliwa", at mula roon napagpasiyahan namin ang pattern ng magiging serye ng mga guhit."
+
+>「そうしたら、宮さんは『家族を養わなきゃいけない。1枚でいくらもらえるのか』と、露骨に聞いてくるんです。僕、しょうがないからその場で『1万円』って決めたんですよ。そしたら彼は『たった1万円か！』ってショックを受けてしまって……」
+
+"Sa pagkagawa niyon, dumating ang makapalang tanong ni G. MIYA: 'Kailangan kong alagaan ang aking pamilya. Magkano ang matatanggap ko sa isang pahina?'" Ako naman, dahil wala na rin naman akong magagawa, doon din, pinagpasiyahan kong sabihin: "10K YEN (mga 5K PHP)". Pagkatapos niyon, gulat niyang sinabi: "Isang LAPAD lang?!"
+
+
+### --
+
+>　「当時、新人の原稿料が1枚3千円で、ちょっと描けるようになってくると5千円。超大家になると7万～8万円というのが相場でした。漫画は連載1回分が24枚というのが基本だったので、1カ月分の原稿料が24万円。宮さんは『これで食べていけるかな』と心配していた。『途中から原稿料上げますよ』とは言ったんですけど、彼はぶつぶつ言いながら描き始めてくれました」
+
+"Noong panahong iyon, 3K YEN (mga 1500 PHP) ang bayad sa isang papel ng panibagong gawa (orihinal) ng baguhan, at kapag unti nang nakaguguhit, 5K YEN (mga 2500 PHP). Kapag naging SUPER Galing na Mangguguhit na, 70K~80K YEN (35K~40K PHP) ang bayaran. Sa MANGA (KOMIKS), karaniwang may 24 pahina ang isang bahagi ng serye, kaya naman 240K YEN (mga 120 PHP) ang bayad sa isang buwang gawa. Nangamba si G. MIYA, "Makakakain kaya kami sa ganito?" Bagama't sinabi ko namang "Sa kalagitnaan, tataasan ko ang kanyang bayad," pabulung-bulong siyang nagsimulang gumuhit.
+
+### --
+
+>「そのころ、彼が一番やりたかったのは絵本です。『鈴木さん、絵本の世界でメシが食えるかな？』と聞かれた。僕は出版社の人間で業界の事情を知っていましたから『申し訳ないけど宮さん、それは無理だ』と即答しました。彼は『そんなに大変か』と肩を落としていました」
+
+Sa panahong iyon, ang may guhit na aklat ang pinakanais niyang gawin. Tinanong niya ako: 'G. SUZUKI, makakakain kaya tayo sa daigdig ng mga may guhit na aklat?' Sapagkat nilalang ako ng Samahan ng Tapagpaglathala, alam ko ang kalagayan ng daigdig na iyon, at agad kong tinugon: "Paumanhin, G. MIYA, IMPOSIBLE iyon." Bumagsak ang kanyang balikat at sinabi: 'Ganoon ba kalupit?'"
+
+>　「ちょうどその頃、徳間書店グループ内では『映像企画が必要』という話になっていた。そこで、僕は宮さんに『本当は絵本よりもアニメーションの方がいいんじゃないですか』と話したら、彼が映画のために描きためてきた絵を全部見せてくれたんです。それを僕の方でまとめ上げて、映像企画会議に持ち込んだ」
+
+"Tamang-tama naman sa panahong iyon, sa loob ng Pangkat ng Aklatan ng TOKUMA, nagkaroon ng usapan ukol sa 'pangangailangan ng plano ng palabas'." Nang kinausap ko si G. MIYA ukol doon: 'Hindi ba talagang higit na ayos ang ANIMATION kaysa sa may guhit na aklat?' Pinakita niya sa akin ang lahat ng kaniyang inipong mga guhit. Pinagsama ko ang mga iyon, at dinala sa pagpupulong ng plano ng palabas."
+
+>　「ところが、映画畑の人たちからは『原作も何もなく、いきなりオリジナル企画で映画を作るなんてありえない』などと、ぼろくそに言われてしまった。それを宮さんに伝えたら、『わかりました。だったら原作の漫画、やっちゃいましょうよ』という話になったんです」
+
+"Gayunman, sinabihan ako ng mga tao sa palayan ng pelikula: 'Hindi maaaring bigla tayong bumuo ng palabas mula sa orihinal na plano, lalo na't hindi man tayo nakagawa pa ng anumang ganoon', atbp. Nang ibinahagi ko kay G. MIYA iyon, 'Naunawaan ko na. Kung gayon, gumawa na tayo ng panibagong MANGA!' ang naging usapan namin."
+
+### --
+
+>　――漫画「風の谷のナウシカ」の連載が徳間書店の雑誌「アニメージュ」で始まった1982年当時、スタジオジブリはまだ存在せず、鈴木さんはアニメージュ編集部に在籍されていましたね。
+
+Taong 1982 nagsimula ang serye ng MANGA na "NAUSICAA ng Lambak ng Hangin" sa "ANIMAGE", ang Magasin ng Aklatan ng TOKUMA. Sa panahon iyon, hindi pa umiiral ang STUDIO GHIBLI, at nasa Unit ng Tagapagbuklod ng ANIMAGE si G. SUZUKI. 
+
+#### --
+
+> スタジオジブリのプロデューサーで、『ナウシカ』の連載立ち上げにも関わった鈴木敏夫さん（72）にお話をうかがいに行きました。
+
+Nagtungo ako upang mapakinggan ang salaysay ni G. SUZUKI, TOSHIO (72), ang PRODUCER ng STUDIO GHIBLI, at may kinalaman sa pagbubuo ng seryeng "NAUSICAA".
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [大阪の医療センターにサイバー攻撃　手術延期、外来診療できない状態](https://www.asahi.com/articles/ASQB075DWQB0OXIE022.html?iref=comtop_Tech_science_03); last accessed: 20221101
 
 > 大阪の医療センターにサイバー攻撃　手術延期、外来診療できない状態
