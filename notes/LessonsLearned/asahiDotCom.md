@@ -28,7 +28,9 @@ Pampasok na Pagsusulit tungong Hanap-buhay, Harapang Pakikipag-usap kay G. MUSK
 
 Sa harapang pakikipag-usap bilang pampasok na pagsusulit sa sarili niyang samahan, may kinahiligang itanong si G. MUSK, ELON (51), ang ENTREPRENEUR na bumili ng TWITTER ng Amerika. "Sa kasalukuyan, nakatayo ka sa ibabaw ng daigdig. Kapag naglakad ka ng 1 milya tungong Timog, sunod 1 milya tungong Kanluran, at isang 1 milya pa tungong Hilaga, bumalik ka na sa pinakasimulang lupaing pook. Kung gayon, nasaan ka nga kaya? (BURNS, ASHLEY)...
 
-### 起業家 : ENTREPRENEUR, Tagagising ng Kalakal
+### Paalala
+
+起業家 : ENTREPRENEUR, Tagagising ng Kalakal
 
 ### SAGOT of SYSON, MICHAEL B.
 
