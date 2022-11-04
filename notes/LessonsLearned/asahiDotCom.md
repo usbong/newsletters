@@ -12,6 +12,37 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（天声人語）マスク氏の採用面接](https://www.asahi.com/articles/DA3S15464722.html?iref=comtop_Opinion_05); last accessed: 20221104
+
+>（天声人語）マスク氏の採用面接
+
+### Tinig ng Langit, Salaysay ng Tao
+
+Pampasok na Pagsusulit tungong Hanap-buhay, Harapang Pakikipag-usap kay G. MUSK
+
+> 2022年11月4日 5時00分
+
+2022-11-04T05:00
+
+>　米ツイッター社を買収した起業家のイーロン・マスク氏（５１）が、自社の採用面接で好んで尋ねた質問がある。「今、君は地球上に立っている。南に１マイル歩き、次に西に１マイル、さらに北に１マイル歩いたら最初の地点に戻っていた。さて君はどこにいるのだろうか」（アシュリー・バンス『イーロン・マスク』）▼エンジ…
+
+Sa harapang pakikipag-usap bilang pampasok na pagsusulit sa sarili niyang samahan, may kinahiligang itanong si G. MUSK, ELON (51), ang ENTREPRENEUR na bumili ng TWITTER ng Amerika. "Sa kasalukuyan, nakatayo ka sa ibabaw ng daigdig. Kapag naglakad ka ng 1 milya tungong Timog, sunod 1 milya tungong Kanluran, at isang 1 milya pa tungong Hilaga, bumalik ka na sa pinakasimulang lupaing pook. Kung gayon, nasaan ka nga kaya? (BURNS, ASHLEY)...
+
+### 起業家 : ENTREPRENEUR, Tagagising ng Kalakal
+
+### SAGOT of SYSON, MICHAEL B.
+
+Sa pinakasimulang lupaing pook
+
+### Dagdag
+
+--> remembers: MENSA questions;<br/>
+--> prefers: self to use available remaining TIME for another ACTION<br/>
+--> adds: self had verified first the ANSWER via pen & paper;<br/>
+--> classifies: ANSWER as with MENSA questions;<br/>
+--> where: MENSA : "High-IQ society"
+
+
 ## [「映画への裏切り」に宮さん怒った　鈴木P語るナウシカ](https://www.asahi.com/articles/ASP2L00GGP2JUCVL010.html?iref=comtop_ThemeRightS_01); last accessed: 20221103
 
 >「映画への裏切り」に宮さん怒った　鈴木P語るナウシカ
