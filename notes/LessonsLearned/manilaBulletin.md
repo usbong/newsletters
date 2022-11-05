@@ -1,5 +1,44 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Heirs of ex-CJ Corona vindicated over dismissal of P130.5-M forfeiture case" (20221105; SATURDAY)
+
+### Author
+
+KI, CZARINA NICOLE O
+
+### Keyphrase
+
+> Former Chief Justice Corona died of heart attack on April 26, 2016
+
+Sandigan Bayan<br/>
+--> 2022-11-03<br/>
+--> Associate Justice: MALABAGUIO, ARTHUR O<br/>
+<br/>
+ruled: the Corona family presented evidence to dispel accusations by Office of the Ombudsman (OMB) that they acquired wealth beyond their means<br/>
+<br/>
+--> where: Corona family : Corona and his heirs<br/>
+<br/>
+--> adds: OMB sought forfeiture  of Corona family's acquired properties obtained from their "manifestly out of proportion" income<br/>
+--> where: value  >= 130,587,012.75PHP
+
+#### Additional Keyphrase
+
+"undisclosed wealth" in CJ Corona's Statements of Assets Liabilities and Net Worth (SALNs)<br/>
+--> Corona Family proved that they had "other sources of funds"<br/>
+--> NOT "unexplained wealth"<br/>
+--> "carelessness" due to non-declaration/misdeclaration
+
+#### DECISION CONCURRED by:
+Second Division Chairperson:<br/>
+--> HERRERA, OSCAR C JR<br/>
+<br/>
+Associate Justice:<br/>
+--> MUSNGI, FREDERICK L
+
+### Paalala 
+
+technique used to receive dismissal in forfeiture case
+
 ## "Rules out on micro foreign businesses in PH" (20221105; SATURDAY)
 
 ### Author
