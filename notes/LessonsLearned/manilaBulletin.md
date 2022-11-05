@@ -1,5 +1,28 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Rules out on micro foreign businesses in PH" (20221105; SATURDAY)
+
+### Author
+
+TADIOS, JUN MARCOS
+
+### Keyphrase
+
+Department of Labor and Employment (DOLE)<br/>
+--> Securities and Exchange Commission (SEC) or Department of Trade and Industry (DTI)<br/>
+----> Regional Office (RO)
+
+#### Requirement
+
+Foreign enterprises required to secure certification from RO:<br/>
+--> where: paid-in capital 100K USD < 200K USD<br/>
+--> adds: should indicate majority of direct employees are Filipino citizens;<br/>
+--> with: employees count: NOT less than 15
+
+#### Reference: Republic Act
+
+Republic Act No. 11032 (Ease of Doing Business and Efficient Government Service Delivery Act of 2018)
+
 ## "PLDT builds P4.4-billion PH link of Asia Direct Cable" (20221025; TUESDAY)
 
 ### Author
