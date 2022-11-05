@@ -1,5 +1,36 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Metrobank grows earnings by 45% to P23.4 billion" (20221105; SATURDAY)
+
+### Author
+
+LOYOLA, JAMES
+
+### Keyphrase
+
+PROFITS due to continued expansion:<br/>
+--> lending portfolio<br/>
+--> better margins<br/>
+--> healthy fee income<br/>
+--> stable operating costs<br/>
+--> lower provisions
+
+#### Dagdag
+
+notes: Metrobank offers PESO-BOND @5.0% (fixed) per year;<br/>
+--> with: minimum investment @500K PHP<br/>
+<br/>
+--> where: @select banks, e.g. BPI, PESO-BOND @6.74% (approx NET) per year<br/>
+--> with: minimum investment @10K PHP<br/>
+--> where: BPI = Bank of the Philippine Islands<br/>
+<br/>
+--> adds: PAG-IBIG MP2 @6.0% (minimum NET) per year in 5 years<br/>
+--> with: minimum investment @500 PHP<br/>
+
+#### Paalala
+
+technique to increase COMPANY MONEY
+
 ## "Heirs of ex-CJ Corona vindicated over dismissal of P130.5-M forfeiture case" (20221105; SATURDAY)
 
 ### Author
