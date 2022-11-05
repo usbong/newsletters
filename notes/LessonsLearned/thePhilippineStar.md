@@ -1,5 +1,63 @@
 # Lessons-learned: The Philippine STAR
 
+## “Married but acting alone” (20221104; FRIDAY)
+
+### “A LAW EACH DAY [Keeps Trouble Away]”
+
+### Author
+
+SISON, JOSE C
+
+### Keyphrase
+
+### QUESTION
+
+Can either of the spouses alone file or defend a suit,<br/>
+--> whose target property is conjugal?<br/>
+
+### ANSWER
+
+YES. Whether target property is conjugal under the New Civil Code or the Family Code, the certificate signed by the spouse, e.g. the husband, constitutes sufficient compliance.
+
+#### Dagdag
+
+New Civil Code : husband is the sole administrator of the conjugal partnership<br/>
+--> adds: wife does NOT join him in this endeavor<br/>
+<br/>
+Family Code : husband and wife are both the administrators of the conjugal partnership<br/>
+--> adds: each spouse may validly exercise full power of management alone;<br/>
+--> where: intervention of the court exists in case of disagreement
+
+### Additional Notes
+
+1) petition for certiorari and prohibition<br/>
+--> signifies: filed petition before the Court of Appeals against the lower court and sheriff on demolition
+
+2) non-forum shopping<br/>
+--> signifies: there is no other action or proceeding involving the same issues before any other court
+
+### CASE BATTLE SCENARIO
+
+Ownership of target property of land is claimed by COUPLE (Manuel and Martha)<br/> 
+--> due to have occupied it since time immemorial;<br/>
+--> COUPLE sued by Conrado due to only his lessees of his property;
+
+### OUTPUT
+
+COURT ruled in favor of Conrado<br/>
+--> where: COUPLE has to vacate the property<br/> 
+--> except that portion which the couple reclaimed from the sea and formed part of the shore<br/>
+--> however, when the "final" decision and writ of demolition came<br/>
+--> stopped via petition for certiorari and prohibition
+
+#### --
+
+Docena vs. Lapesura<br/>
+355 SCRA 658
+
+### TO-DO
+1) reverify: that "SCRA" correctly signifies "Supreme Court Reports Annotated"
+
 ## “Gov't urged to spend more for digital infrastructure” (20221101; MONDAY)
 
 ### Author
