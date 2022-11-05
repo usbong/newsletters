@@ -48,7 +48,8 @@ COURT ruled in favor of Conrado<br/>
 --> where: COUPLE has to vacate the property<br/> 
 --> except that portion which the couple reclaimed from the sea and formed part of the shore<br/>
 --> however, when the "final" decision and writ of demolition came<br/>
---> stopped via petition for certiorari and prohibition
+--> stopped via petition for certiorari and prohibition<br/>
+--> due to: non-forum shopping
 
 #### --
 
