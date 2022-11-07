@@ -4,6 +4,24 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=5JRzM5vaRI0; last accessed: 20221107
+
+> 文字の大きさ 【UI】<br/>
+> 桜井政博のゲーム作るには 
+
+> 156,923 views Nov 4, 2022 
+
+> 今回のお話は､海外のかたには通じにくいかなあ… 妥当な文字の大きさは､言語によって異なります｡ 当然､作る側も考えなければならない｡
+
+### メモ
+
+ファミコン時代、８x８ドットで漢字を書かれていましたと<br/>
+<br/>
+字があまり大きすぎると、クールではない感じになっちゃいますと
+
+
+
+
 ## https://www.youtube.com/watch?v=9QBYT9Rdmuw; last accessed: 20221101
 
 > [ゲームソフトの価値 【雑談】 <br/>
