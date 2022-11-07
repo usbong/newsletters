@@ -12,6 +12,43 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ネット利用者情報の広告会社などへの送信、総務省がガイドライン案](https://www.asahi.com/articles/ASQC45675QC4ULFA013.html?iref=comtop_Tech_science_02); last accessed: 20221107
+
+> ネット利用者情報の広告会社などへの送信、総務省がガイドライン案
+
+GUIDELINE (GABAY) ng Pamahalaan: Tungo sa pagpapadala sa Samahan ng mga Tagapagpalaganap ng Pagpapayag ng Balita ng Gumagamit sa INTERNET
+
+> 鈴木康朗2022年11月4日 16時49分
+
+SUZUKI, YASUROU; 2022-11-04T16:49
+
+### Pinaikling Pagbubuod
+
+>　総務省は4日、インターネットの利用者の情報をサイト運営者が第三者に送る際のガイドライン案を示した。閲覧履歴が広告会社などに提供されることを利用者に認識してもらうため、一般の人の知識でわかる表現で通知するよう求める。年内にとりまとめる方針。
+
+Sa ika-4 na araw, ipinakita ng Pamahalaan ang GUIDELINE (GABAY) sa tuwing nagpapadala ang Tagangasiwa ng SITE sa ikatlong tauhan ng mga Balita ng mga Gumagamit nito sa INTERNET.
+
+Upang makatanggap ng pagkilala mula sa mga Gumagamit ng ibinibigay nila na Kasaysayan ng mga minamasdan sa Samahan ng mga Tagapagpalaganap ng Pagpapahayag, hinahangad nila ang pagpapaalam sa paraan ng pagpapahiwatig na mauunawaan batay sa kaalaman ng karaniwang tao.
+
+POLISIYA na ibinuklod sa loob ng taon.
+
+>　今年改正された電気通信事業法は、サイト運営者が第三者に利用者情報を送る場合「利用者への通知・公表」「同意の取得」「あとから送信を拒否できる設定（オプトアウト）」のいずれかを義務づけている。通知・公表について、省令案は「日本語を用い、専門用語を避け、平易な表現を用いること」などを求めるとし、具体例をガイドラインで説明することになっていた。
+
+Sa inayos ngayong taon na Batas ng Kalakaran ng Pagpapadala gamit ang Kuryente, sa kaso ng pagpapadala ng Nangangasiwa ng SITE sa ikatlong tauhan ng Balita ng Gumagamit nito, alinman sa mga ito ang binigyang diin bilang tungkulin: "Pagpapaalam/Pagsasapubliko sa Gumagamit", "Pagkuha ng Pagsang-ayon", "SETTING upang makahindi sa pagpapadala (OPT-OUT) pagkatapos". Ukol sa Pagpapaalam/Pagsasapubliko, naghahangad ang POLISIYA ng Pamahalaan sa "Paggamit ng nihongo (Wikang Hapon), pag-iwas sa mga Salitang may bukod-tanging paggamit, at gumamit ng karaniwang madaling maunawaan na pagpapahiwatig", atbp, at ipaliwanag ang nilalaman ng GABAY.
+
+
+>　この日の有識者会議で示されたガイドライン案は、通知・公表の記載について、「サイト内の広告配信の最適化を図るため、利用者向けに広告をカスタマイズするためのタグを利用して、A社に送信しています」などと例示した。タグは情報の収集にも使われるサイト側の仕組みだが、有識者からは「タグという言葉は一般の人には理解できない」という意見が出た。通知・公表が望ましい事項として、送信先がどの国の事業者かを加える提案もあった。
+
+TO-DO: -update: this
+
+>　規制の対象には、SNSや検…
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [（天声人語）マスク氏の採用面接](https://www.asahi.com/articles/DA3S15464722.html?iref=comtop_Opinion_05); last accessed: 20221104
 
 >（天声人語）マスク氏の採用面接
