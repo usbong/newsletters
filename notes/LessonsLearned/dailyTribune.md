@@ -1,6 +1,6 @@
 # Daily Tribune
 
-## "BI foils NAIA trafficking try"
+## "BI foils NAIA trafficking try" (20221102; WEDNESDAY)
 
 ### Author
 
