@@ -36,12 +36,17 @@ POLISIYA na ibinuklod sa loob ng taon.
 
 Sa inayos ngayong taon na Batas ng Kalakaran ng Pagpapadala gamit ang Kuryente, sa kaso ng pagpapadala ng Nangangasiwa ng SITE sa ikatlong tauhan ng Balita ng Gumagamit nito, alinman sa mga ito ang binigyang diin bilang tungkulin: "Pagpapaalam/Pagsasapubliko sa Gumagamit", "Pagkuha ng Pagsang-ayon", "SETTING upang makahindi sa pagpapadala (OPT-OUT) pagkatapos". Ukol sa Pagpapaalam/Pagsasapubliko, naghahangad ang POLISIYA ng Pamahalaan sa "Paggamit ng nihongo (Wikang Hapon), pag-iwas sa mga Salitang may bukod-tanging paggamit, at gumamit ng karaniwang madaling maunawaan na pagpapahiwatig", atbp, at ipaliwanag ang nilalaman ng GABAY.
 
-
 >　この日の有識者会議で示されたガイドライン案は、通知・公表の記載について、「サイト内の広告配信の最適化を図るため、利用者向けに広告をカスタマイズするためのタグを利用して、A社に送信しています」などと例示した。タグは情報の収集にも使われるサイト側の仕組みだが、有識者からは「タグという言葉は一般の人には理解できない」という意見が出た。通知・公表が望ましい事項として、送信先がどの国の事業者かを加える提案もあった。
 
-TO-DO: -update: this
+Sa Pagpupulong ng mga Nangangasiwa, ipinakita sa araw na iyon ang halimbawa ng Pagpapaalam at Pagsasapubliko ng GABAY: "Upang masukat ang pinakaakmang Pagbabahagi ng Pagpapalaganap ng Pagpapahayag sa loob ng SITE, gumagamit ng TAG upang magawan ng CUSTOMIZATION ang pagpapahayag ayon sa Gumagamit nito, at ipinadadala ang Balita sa Samahang A.", atbp. Bagama't MEKANISMO sa banda ng SITE ang ginagamit na TAG upang kumalap ng balita, may lumabas na pagtingin (opinyon) mula sa Nangangasiwa ukol sa "Hindi maunawaan ng karaniwang tao ang salitang TAG". Sapagkat hangad ang bagay na Pagpapaalam/Pagsasapubliko, mayroon ding mungkahing nagdadagdag sa kung aling kahariaan mula ang pinadadalahan ng balita.
 
 >　規制の対象には、SNSや検…
+
+SNS (Social Network Service), SEARCH, atbp ang pakay ng REGULASYON (Batas na Naghihigpit)...
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
 
 ### Sanggunian
 
