@@ -1,5 +1,50 @@
 # Daily Tribune
 
+# "Fired on account of marriage" (20221102; WEDNESDAY)
+
+## LEGAL FORUM: ATTY JOJI ALONSO & ASSOCIATES
+
+## Author
+
+DODSON, JOHN HENRY (ED)<br/>
+ATTY LARIOS, KATHY
+
+## Keyphrase
+
+#### CASE: BATTLE due to Company A's Policy/Agreement : NOT of Constitution
+--> where: Constitution : Magna Carta for Women, Labor Code<br/>
+<br/>
+1) Constitution<br/>
+--> State commits to protect workers and promote full employment and equality of employment opportunities for all<br/>
+--> security of tenure
+
+2) Magna Carta for Women<br/>
+--> where: "State commits to eliminate discrimination against women and ensures their right to freely choose a spouse."
+
+3) Labor Code<br/>
+--> prohibits discrimination, e.g. against women, via requiring condition to continue employment<br/>
+--> Example: women employee shall not get married, shall be deemed resigned after marriage, et cetera;
+
+### LEGAL FORUM's Recommended Solution
+
+#### CONDITION
+
+If there is no proof to support Company A's position regarding RISK to its business<br/>
+--> where: RISK : marriage between co-workers<br/>
+--> policy cannot justify dismissal<br/>
+<br/>
+adds: if request that either of the married co-workers be transferred to a different branch still cannot minimize or solve the RISK, the policy cannot justify the dismissal
+
+##### ACTION
+
+file: illegal dismissal complaint against Company A
+
+#### --
+
+Catherine Dela Cruz-Cagampan  vs. One Network Bank Inc., et al.<br/>
+General Register (G.R.) No. 217414<br/>
+20220825
+
 ## "BI foils NAIA trafficking try" (20221102; WEDNESDAY)
 
 ### Author
