@@ -1,5 +1,40 @@
 # Daily Tribune
 
+# "No suspension of Bar exams" (20221102; WEDNESDAY)
+
+## Author
+
+MURCIA, ALVIN<br/>
+@tribunephl_alvi
+
+## Keyphrase
+
+### Examination TIMES: 
+
+08:00\~12:00 AND 14:00\~17:00
+
+### Day 1 (2022-11-09; WEDNESDAY)
+
+Political Law<br/>
+International Law<br/>
+Labor Law
+
+### Day 2 (2022-11-13; SUNDAY)
+
+Criminal Law (and practical exercises)<br/>
+Commercial Law
+
+### Day 3 (2022-11-16; WEDNESDAY)
+
+Civil Law I<br/>
+Civil Law II<br/>
+Remedial Law I<br/>
+Remedial Law II (with basic tax remedies)
+
+#### Day 4 (2022-11-20; SUNDAY)
+
+Legal Ethics
+
 # "Fired on account of marriage" (20221102; WEDNESDAY)
 
 ## LEGAL FORUM: ATTY JOJI ALONSO & ASSOCIATES
