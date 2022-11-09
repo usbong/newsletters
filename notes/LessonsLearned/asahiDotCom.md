@@ -12,6 +12,35 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「ファイルを暗号化」「金を払え」　沼津市の医療機関にサイバー攻撃](https://www.asahi.com/articles/ASQC85S6QQC8UTPB00F.html?iref=comtop_Tech_science_04); last accessed: 20221109
+
+>「ファイルを暗号化」「金を払え」　沼津市の医療機関にサイバー攻撃
+
+"Nagkaroon ng ENCRYPTION ang mga FILE" "Magbayad ng PERA" CYBER ATTACK sa Pagamutan sa Lungsod ng NUMAZU
+
+
+> 南島信也2022年11月8日 17時45分
+
+MINAMIJIMA, SHINYA; 2022-11-08T17:45
+
+> 静岡県沼津市内にある医療機関が、ランサムウェア（身代金ウイルス）によるサイバー攻撃を受け、電子カルテのシステムに障害が起きていることを、ホームページ上で明らかにした。
+
+Sa Bahagi ng SHIZUOKA, sa loob ng lungsod ng NUMAZU, nakatamo ang kanilang Pagamutan ng CYBER ATTACK na RANSOMWARE (VIRUS na maaayos lamang kapalit ng pera). Inilinaw nila ito sa kanilang HOME PAGE ang pagkakaroon ng kapansanan sa kanilang ELECTRONIC CHART SYSTEM.
+
+>　医療機関によると、10月27日午前7時半ごろ、職員が電子カルテのシステムを起動したが立ち上がらず、約1時間後に英語のメッセージが表示された。「ファイルを暗号化した。解いてほしければ金銭を支払う必要がある。その意思があれば連絡を」との内容で、支払い方法は記されていなかったという。医療機関は攻撃元との交渉に応じる考えはなく、厚生労働省や県警などに被害を報告した。
+
+Ayon sa Pagamutan, sa ika-27 araw ng ika-10 buwan, tatlumpung minuto makalipas ang ika-7 ng umaga, hindi na mapatakbo ng kanilang tauhan ang ELECTRONIC CHART SYSTEM, at pagkatapos ng mga 1 oras, may ipinakitang MENSAHE sa Wikang Ingles. "Nilagyan namin ng ENCRYPTION ang mga file. Kung nais niyong malutas ito, kailangang ninyong magbayad ng pera. Kung nais niyo ito, makipag-ugnayan." Sa nilalamang ito, hindi naman daw nakasulat ang paraan ng pagbabayad. Hindi naman pinagnilayan ng Pagamutang makipag-usap sa gumawa ng CYBER ATTACK, at ibinalita ito sa Pulis, sa Nangangasiwa ng Kapakanan ng Manggagawa, atbp.
+
+>　電子カルテが使えなくなったため、外部のネットワークから切り離した新たな電子カルテを作成しているほか、残されていた紙のカルテで対応している。診察を受けるまでの待ち時間が多少長くなっている。電子カルテには少なくとも2千人分以上の患者のデータが保存されているが、8日現在で個人情報の流出は確認されていないという。（南島信也）
+
+Sapagkat hindi na magamit ang ELECTRONIC CHART, bukod sa pagbuo ng panibagong ELECTRONIC CHART, pinutol nila ang ugnayan mula sa labas ng unit na NETWORK, at ginamit ang natitirang CHART na papel. Humaba rin ng ilang panahon ang paghihintay upang makatanggap ng paggagamot. Sa ELECTRONIC CHART, bagama't may mga higit sa 2K tao ang umiiral na DATA ng may-sakit (pinakamababa), sa ika-8 araw, wala naman daw na Pansariling Balita ang dumaloy palabas. (MINAMIJIMA, SHINYA)
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [ネット利用者情報の広告会社などへの送信、総務省がガイドライン案](https://www.asahi.com/articles/ASQC45675QC4ULFA013.html?iref=comtop_Tech_science_02); last accessed: 20221107
 
 > ネット利用者情報の広告会社などへの送信、総務省がガイドライン案
