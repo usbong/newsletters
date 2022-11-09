@@ -12,6 +12,36 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [NTTドコモ、ウェブ3・0事業に最大6千億円投資へ　M＆Aも検討](https://www.asahi.com/articles/ASQC86S6KQC8ULFA024.html?iref=comtop_Tech_science_03); last accessed: 20221109
+
+### TECH SCIENCE
+
+> NTTドコモ、ウェブ3・0事業に最大6千億円投資へ　M＆Aも検討
+
+Tungo sa pamumuhunan ng 600 Bilyong YEN (pinakamalaki; mga 300 Bilyong PHP) sa NTT DOCOMO, WEB3.0; Siniyasat din ng M&A
+
+> 鈴木康朗2022年11月8日 21時34分
+
+SUZUKI, YASUROU; 2022-11-08T21:34
+
+>　NTTドコモは8日、「ウェブ3・0（スリー）」と呼ばれる次世代のインターネット関連事業に今後5～6年間で最大6千億円を投資すると発表した。来年度をめどに新会社を設立し、ウェブ3・0の様々な機能を使える基盤をつくるとともに、M＆A（合併・買収）も検討する方針だ。
+
+Ipinahayag ng NTT DOCOMO sa ika-8 araw, ang pamumuhunan ng 600 Bilyong YEN (pinakamalaki; mga 300 Bilyong PHP) sa sunod na henerasyon ng ugnayan sa INTERNET na may tinatawag na "Web3.0" sa loob ng 5~6 taon simula sa kasalukuyan. Bilang pakay sa sumunod na taon, nagtayo ng panibagong samahan, at sa paggawa ng PLATAPORMA (pangunahing tuntungan; INFRASTRUKTURA) na magagamit ang samu't saring mga kakayanang makina ng Web3.0, may POLISIYA din upang siyasatin ito ng M&A (Pagsasama at Pagbibili; Mergers & Acquisitions).
+
+>　ウェブ3・0は、グーグルなどの米IT大手が存在感を示す現在のインターネットを「2・0」と位置づけ、それに続く次世代のネットを表す概念だ。ブロックチェーン（分散型台帳）技術をもとに、特定の管理者を介さずに信頼性のある取引ができる。
+
+Isang may hulmang pagninilay (konsepto) ang pinakikita ng Web3.0 bilang pagtuloy sa sumunod na henerasyon ng NET, mula sa kasalukuyang INTERNET 2.0 na ipinakikita umiiral ng Malalaking Pagawaan ng IT ng Amerika tulad ng GOOGLE, atbp. Bilang pangunahing TEKNOLOHIYA (Maparaang Kakayanan) ang BLOCK CHAIN (Natutuntungang Lista ng anyo ng mga Hinati't kinalat), maaring makipagpalitan ng kalakaran na may pagtitiwala kahit hindi ipaalam sa natatanging Nangangasiwa. 
+
+>　ドコモは、ブロックチェーン技術や、ウォレット（電子財布）などの機能のサービスを提供し、ウェブ3・0の利用促進につなげる狙いだ。ブロックチェーンの開発を手がけるステイクテクノロジーズや、コンサルティング大手アクセンチュアと提携する。ドコモの井伊基之社長は「3社でイニシアチブ（主導権）をとりながら、多様な業界や企業、個人と連携していきたい」と話した。（鈴木康朗）
+
+TO-DO: -update: this
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [「ファイルを暗号化」「金を払え」　沼津市の医療機関にサイバー攻撃](https://www.asahi.com/articles/ASQC85S6QQC8UTPB00F.html?iref=comtop_Tech_science_04); last accessed: 20221109
 
 >「ファイルを暗号化」「金を払え」　沼津市の医療機関にサイバー攻撃
