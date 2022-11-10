@@ -1,5 +1,46 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "IT GRADS PASOK SA PNP" (20221110)
+
+### Author
+
+BRT
+
+### Keyphrase
+
+Philippine National Police (PNP)<br/>
+Information Technology (IT)<br/>
+<br/>
+recruitment ng IT graduates sa taong 2023<br/>
+--> objective: add 500 (at least) new members into Anti-Cybercrime Group (ACG)<br/>
+--> notes: NOT only Criminology graduates added into PNP
+<br/>
+new ACG building @Camp Crame<br/>
+--> action: cyber patrol<br/>
+--> adds: hindi lang ang sa online sex, child abuse, at exploitation
+
+### Dagdag
+
+1) notes: in GERMANY, foreign workers with IT know-how are accepted<br/>
+--> adds: IT know-how used to execute system speed-up;<br/>
+--> reminder: system speed-up : engineering<br/>
+--> notes: additional delays caused by identifying VALUE of DELAY in system execution <br/>
+--> adds: IT workers : "back-bone" of GERMAN ECONOMY;<br/>
+--> due to: MAJORITY are IT workers<br/>
+--> where: IT workers : has know-how<br/>
+--> OUTPUT: MAJORITY has know-how
+
+2) observed: IT worker <br/>
+--> shall: need to have business know-how to NOTICEABLY increase income<br/>
+--> reference: Microsoft Secrets<br/>
+--> adds: however, NOT QUICK MONEY<br/>
+--> adds: PULIS : EXECUTION, IT worker<br/>
+--> adds: however, from history, IT worker<br/> 
+--> WITHOUT NEED to NOTICEABLY increase income causes FAILURE;<br/>
+--> reminder as solution: NOT QUICK MONEY<br/>
+--> where: QUICK MONEY : >= 50K PHP WORK INCOME per month in less than 10 years<br/>
+--> keyphrase: TAX EVASION, verify WORK
+
 # "Alamin: Benepisyong PhilHealth para sa mga batang may kapansanan" (20221103)
 
 ## ALAGANG PHILHEALTH
