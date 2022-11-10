@@ -32,7 +32,7 @@ new ACG building @Camp Crame<br/>
 
 2) observed: IT worker <br/>
 --> shall: need to have business know-how to NOTICEABLY increase income<br/>
---> reference: Microsoft Secrets<br/>
+--> reference: Cusumano, Michael's [Microsoft Secrets](https://www.amazon.com/Microsoft-Secrets-Powerful-Software-Technology/dp/0684855313)<br/>
 --> adds: however, NOT QUICK MONEY<br/>
 --> adds: PULIS : EXECUTION, IT worker<br/>
 --> adds: however, from history, IT worker<br/> 
