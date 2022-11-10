@@ -13,7 +13,7 @@ Information Technology (IT)<br/>
 <br/>
 recruitment ng IT graduates sa taong 2023<br/>
 --> objective: add 500 (at least) new members into Anti-Cybercrime Group (ACG)<br/>
---> notes: NOT only Criminology graduates added into PNP
+--> notes: NOT only Criminology graduates added into PNP<br/>
 <br/>
 new ACG building @Camp Crame<br/>
 --> action: cyber patrol<br/>
