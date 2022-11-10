@@ -34,7 +34,8 @@ Isang may hulmang pagninilay (konsepto) ang pinakikita ng Web3.0 bilang pagtuloy
 
 >　ドコモは、ブロックチェーン技術や、ウォレット（電子財布）などの機能のサービスを提供し、ウェブ3・0の利用促進につなげる狙いだ。ブロックチェーンの開発を手がけるステイクテクノロジーズや、コンサルティング大手アクセンチュアと提携する。ドコモの井伊基之社長は「3社でイニシアチブ（主導権）をとりながら、多様な業界や企業、個人と連携していきたい」と話した。（鈴木康朗）
 
-TO-DO: -update: this
+Pakay ng DOCOMO ang pagsulong ng paggamit ng Web3.0, sa kanilang pagbibigay lingkod gamit ang mga kakayanang makina tulad ng BLOCKCHAIN TECH, WALLET (ELECTRONIC na Pitaka), atbp. Kaugnay nila ang ACCENTURE, ang Malaking Gawaan ng CONSULTING, ang STAKE TECHNOLOGIES na may hawak sa pagpapa-unlad ng BLOCKCHAIN, atbp. Sinabi ng Pinuno ng DOCOMO na si II, MOTOYUKI: "Sa pagkuha nating tatlong samahan ng INITIATIVE (Pagkilos bilang Pangunahing Taga-gabay), nais nating iugnay ang samu't saring daigdig ng kalakaran, ang mga Mangangalakal, at ang mga Nagsasarili (Pribado)." (SUZUKI, YASUROU)
+
 
 ### Sanggunian
 
