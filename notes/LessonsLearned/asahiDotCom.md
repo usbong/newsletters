@@ -12,6 +12,40 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [次世代半導体の国産化めざす新会社　トヨタ・ソニー・NTTなど出資](https://www.asahi.com/articles/ASQCB6W0SQCBULFA02K.html?iref=comtop_Tech_science_02); last accessed: 20221111
+
+> 次世代半導体の国産化めざす新会社　トヨタ・ソニー・NTTなど出資
+
+Panibagong Samahan, PAKAY: Paggawa ng Kaharian ng sumunod na henerasyon na TRANSISTOR; TOYOTA, SONY, NTT, atbp, naglaan ng salapi
+
+> 土居新平、若井琢水2022年11月10日 21時43分
+
+DOI, SHINPEI, WAKAI, TAKASUI;
+2022-11-10T21:43
+
+### Pinaikling Pagbubuod
+
+> 量子コンピューターや自動運転、人工知能（AI）などに使う先端半導体の量産技術を確立する狙い。
+
+Pakay ang pagtatayo ng TEKNOLOHIYA sa maramihang paggawa ng makabagong TRANSISTOR na gagamitin sa AI (Taong Pinabilis ang Kaalaman at Kakayanan), AUTOMOBILE (Sariling Pagkilos na Pagbubuhat), QUANTUM (Bilang ng Maliliit) KOMPYUTER.
+
+> 幅広い製品に使われる半導体は、経済安全保障上も重要度が増しており、政府も補助金を出して支える。
+
+Sa malawak na PRODUKTONG mapaggagamitan ng TRANSISTOR, at dahil sa nibel ng halaga nito sa kaligtasan at pagtatanggol mula sa sakuna ng EKONOMIYA, tumutulong ang Pamahalaan sa paglalaan ng salapi, upang paramihin ito.
+
+>　複数の関係者によると、新会社にはNEC、キオクシア（旧東芝メモリ）、ソフトバンク、デンソー、三菱UFJ銀行も出資。「Rapidus（ラピダス）」の社名
+
+Naglaan din ng salapi sa pagtatayo ng panibagong samahan na "Rapidus" ang NEC, KIOKUSHA (dating MEMORY ng TOSHIBA), SOFTBANK, DENSOU, at Bangko ng MITSUBISHI UFJ .
+
+>　社長には、米ウエスタンデジタルの日本法人トップを務めた小池淳義氏が就いた。半導体製造装置大手の東京エレクトロン前社長の東哲郎氏も役員に入る。
+
+Bilang Pinuno ng Samahan, gagampanan ito ni G. KOIKE, ATSUYOSHI, na nanungkulan bilang Hapon sa Itaas ng WESTERN DIGITAL ng Amerika. Pumasok din bilang Manunungkulan si G. HIGASHI, TETSUROU, ang dating Pinuno ng TOKYO ELECTRONC.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [NTTドコモ、ウェブ3・0事業に最大6千億円投資へ　M＆Aも検討](https://www.asahi.com/articles/ASQC86S6KQC8ULFA024.html?iref=comtop_Tech_science_03); last accessed: 20221109
 
 ### TECH SCIENCE
