@@ -4,6 +4,28 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/pl/060216kimagure/index.html;
+last accessed: 20221111
+
+> きのうとはちがうよ。<br/>
+> ほとんど同じみたいだけど、<br/>
+> 昨日とはちがうんですよ。<br/>
+> なにがって？<br/>
+> それはブイコにもわかりませんが。<br/>
+> <br/>
+> 2022/11/11 01:53<br/>
+> イトイ (darling)
+
+Naiba ito sa kahapon!<br/>
+Bagama't halos mukhang magkatulad,<br/>
+iba ito sa kahapon!<br/>
+Ang alin ba kamo?<br/>
+Hindi rin nga lang alam ni BUICO iyon.<br/>
+<br/>
+2022-11-11T01:53<br/>
+ITOI (darling)
+
+
 ## [ヘルプデスク](https://www.1101.com/pl/seisakuchu/); last accessed: 20221026
 
 --> help desk staff member recruitment<br/>
