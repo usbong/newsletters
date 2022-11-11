@@ -31,7 +31,7 @@ Pakay ang pagtatayo ng TEKNOLOHIYA sa maramihang paggawa ng makabagong TRANSISTO
 
 > 幅広い製品に使われる半導体は、経済安全保障上も重要度が増しており、政府も補助金を出して支える。
 
-Sa malawak na PRODUKTONG mapaggagamitan ng TRANSISTOR, at dahil sa nibel ng halaga nito sa kaligtasan at pagtatanggol mula sa sakuna ng EKONOMIYA, tumutulong ang Pamahalaan sa paglalaan ng salapi, upang paramihin ito.
+Sa malawak na PRODUKTONG mapaggagamitan ng TRANSISTOR, at dahil sa nibel ng halaga nito sa kaligtasan ng EKONOMIYA at sa pagtatanggol mula sa sakuna, tumutulong ang Pamahalaan sa paglalaan ng salapi, upang paramihin ito.
 
 >　複数の関係者によると、新会社にはNEC、キオクシア（旧東芝メモリ）、ソフトバンク、デンソー、三菱UFJ銀行も出資。「Rapidus（ラピダス）」の社名
 
