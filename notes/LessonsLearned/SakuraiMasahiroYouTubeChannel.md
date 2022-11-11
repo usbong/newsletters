@@ -4,6 +4,38 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=rsh4p55hGNE; last accessed: 20221111
+
+> ゲーム作りで食っていくには【企画・ゲーム設計】<br/>
+> 桜井政博のゲーム作るには <br/>
+> 467K subscribers<br/>
+> 189,998 views Nov 7, 2022 <br/>
+> <br/>
+> この番組を観て､ゲーム開発者を目指したいと思った人も少なくないとか｡ では､入ってみましょう! 手に職つけましょう!! それに不可欠なことを話しています｡
+
+### メモ
+
+よいゲームを作れる人材は<br/>
+メーカーも喉から手が出るほど欲しいと
+
+### Dagdag
+
+「喉から手が出るほど欲しい」の後、<br/>
+「オリジナリティ」のところで、まだ<br/>
+半分ぐらい残っているかと思ったら、<br/>
+「諦める・・・」と、動画が終わりました。
+<br/>
+驚くほど、残りの部分が速かったです。
+
+### Sanggunian
+
+1. GOOGLE SEARCH ENGINE
+このウェブサイトをクリックしなかったが、<br/>
+「喉から手・・・」の意味が、より理解できました。<br/>
+
+> ああ！欲しいぃ！「喉から手が出る」の意味や使い方・類義語 ...　https://study-z.net
+
+
 ## https://www.youtube.com/watch?v=5JRzM5vaRI0; last accessed: 20221107
 
 > 文字の大きさ 【UI】<br/>
