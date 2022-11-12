@@ -1,4 +1,66 @@
 # Daily Tribune
+# "Japan confers award on Tugade, Dominguez" (20221111; FRIDAY)
+
+## Author
+
+GARNER, JOM<br/>
+@tribunephl_jom
+
+## Keyphrase
+
+Year 2022 Autumn Conferment of Japanese Decorations
+
+### TUGADE, ARTHUR
+--> Former Transporation Secretary<br/>
+--> received: Order of the Rising Sun<br/>
+--> received: Gold and Silver Star<br/>
+--> cause: for promoting bilateral cooperation between Japan and the Philippines via transportation, e.g. railways, aviation, and maritime security<br/>
+--> example#1: Metro Manila Subway Project<br/>
+--> example#2: North-South Commuter Railway Project<br/>
+--> adds: supported by Japan's Official Development Assistance (ODA)<br/>
+--> example#3: memorandum of maritime security cooperation via among others: information exchange, joint training
+
+## DOMINQUEZ, CARLOS "SONNY" III
+--> Finance Secretary<br/>
+--> Philippine chair of the Japan-Philippines High-level Joint Committee on Infrastructure Development and Economic Cooperation from 2016~2022<br/>
+--> Co-chair of the National Government Bangsamoro Government Intergovernmental Relations Body<br/>
+--> received: Grand Cordon of the Order of the Rising Sun<br/>
+--> example#1: Development of the Subic Bay area<br/>
+--> regional security, gateway to South China Sea<br/>
+--> example#2: promoted steady progress of peace process in Mindanao
+
+
+## DEL ROSARIO, ALBERT
+--> former Foreign Affairs (2011~2016)<br/>
+--> received: Grand Cordon of the Order of the Rising Sun<br/>
+--> example#1: maritime security cooperation to ensure safety of ships navigation the waters around the Philippines<br/>
+--> example#2: promoted rules of law through the arbitration case regarding the South China Sea
+
+## CARTER, DAVID
+--> Sports Director and Active Member of Judo Union of Asia and International Judo Federation<br/>
+--> received: Order of the Rising Sun<br/>
+--> received: Gold and Silver Rays<br/>
+--> example#1: promoted and developed judo in the Philippines<br/>
+--> sports cooperation
+
+## ZUNIEGA, JOSUE SIM
+--> Attorney<br/>
+--> received: Order of the Rising Sun<br/>
+--> received: Silver Rays<br/>
+--> example#1: improved status of Nikkei-jin in the Philippines via Philippines Nikkei-jin Legal Support Center
+
+### Paalala
+
+> The Order of the Rising Sun is awarded by the Emperor of Japan to individuals both Japanese and foreign in recognition of long and/or especially meritorious service.
+
+--> established: 1875 by Emperor Meji<br/>
+--> created: 1875-04-10, as first national decoration of Japan
+
+### Dagdag
+
+年 : 成長<br/>
+AGE : GROWTH<br/>
+TAON : USBONG
 
 # "No suspension of Bar exams" (20221102; WEDNESDAY)
 
