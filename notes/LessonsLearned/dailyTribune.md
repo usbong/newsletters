@@ -62,6 +62,10 @@ Year 2022 Autumn Conferment of Japanese Decorations
 AGE : GROWTH<br/>
 TAON : USBONG
 
+## Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 # "No suspension of Bar exams" (20221102; WEDNESDAY)
 
 ## Author
