@@ -1,5 +1,43 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "PARUSA SA PAGBENTA AT PAGKOPYA NG MALASWANG VIDEO O LITRATO" (20221114; LUNES)
+
+### Author
+
+Chief Public Attorney: DR RUEDA-ACOSTA, PERSIDA V
+
+### Keyphrase
+
+Section 4 (c): Republic Act (R.A.) No. 9995<br/>
+--> Anti-photo and Video Voyeurism Act of 2009
+
+> "...capture an image of the private area of a person/s such as the naked or undergarment clad genitals, public area, buttocks or female breast without the consent of the person/s involved and under circumstances in which the person/s has/have a reasonable expectation of privacy;"
+
+### Paalala#1
+
+Video : multiple photograph images<br/>
+<br/>
+Prohibited Acts : distribution, cause to be sold,<br/>
+--> the original copy, its reproduction
+
+### Paalala#2
+
+Television Technology already over 100 years old;<br/>
+--> wireless broadcasting of images AND sound can already be received by human persons,<br/> 
+--> instead of only via television, radio devices, and computers;<br/>
+--> keyphrase: unsolicited, lahat na tayo may antena;<br/>
+--> CAUSE: ILLEGAL, QUICK MONEY, budol-budol/carnapper/smuggler<br/>
+--> adds: NOT profitable IF via LEGAL with permits, e.g. human person consent;<br/>
+--> observed: broadcasting technology misused by MANLOLOKO group to cause gawa-gawang panaginip<br/>
+--> output: speed-up of death of target via FALSE BELIEFS;<br/>
+--> example FALSE BELIEF: "Sinusundo ka na ng mga anghel/demonyo,<br/> 
+--> kaya iwan mo na ang hawak mong pera!"<br/>
+--> remembers: technique reused as in the "ANG PROBINSYANO (TV show)",<br/>
+--> where: fellow BUS RIDERS appear as WOLF/DOG ANIMALS;<br/>
+--> IF target still does NOT obey, shall execute wireless physical attacks, e.g. head pain, ear pain;<br/> 
+--> notes: MANLOLOKO members are near the target to steal among others:<br/>
+--> the unattended money, cellular telephone<br/>
+
 # "IT GRADS PASOK SA PNP" (20221110)
 
 ### Author
