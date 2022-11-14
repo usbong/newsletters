@@ -2,9 +2,12 @@
 
 # "PARUSA SA PAGBENTA AT PAGKOPYA NG MALASWANG VIDEO O LITRATO" (20221114; LUNES)
 
+### MAGTANONG KAY ATTORNEY
+
 ### Author
 
-Chief Public Attorney: DR RUEDA-ACOSTA, PERSIDA V
+Chief Public Attorney:<br/> 
+DR RUEDA-ACOSTA, PERSIDA V
 
 ### Keyphrase
 
