@@ -1,5 +1,45 @@
 # Lessons-learned: The Philippine STAR
 
+## “Petron proft soars 64% in 9 months” (20221111; FRIDAY)
+
+### Author
+
+RIVERA, DANESSA
+
+### Keyphrase
+
+net income 64% growth to 8.2 Billion PHP from 4.99 Billion of the same period
+
+#### CAUSE: 
+
+1) High fuel demand<br/>
+2) Elevated fuel prices<br/>
+
+#### Combined SALES from:
+Philippines<br/>
+Malaysia<br/>
+Singapore (trading subsidiary)
+
+#### GROWTH Regulated by:
+
+increase in USD VALUE against PHP<br/>
+increase interest rates
+
+### Petron
+--> Philippines' largest: oil company<br/>
+--> provides: nearly 40% of country<br/>
+--> operates: the only remaining refinery,<br/>
+--> where: 180K barrel-per-day in BATAAN<br/>
+--> adds: 30 terminals<br/>
+--> adds: 2K service stations<br/>
+--> nationwide<br/>
+--> received: approval from shareholders to operate coco-methyl ester plant<br/>
+--> adds: secure permits<br/>
+--> President and CEO: ANG, RAMON
+
+
+
+
 ## “Married but acting alone” (20221104; FRIDAY)
 
 ### “A LAW EACH DAY [Keeps Trouble Away]”
