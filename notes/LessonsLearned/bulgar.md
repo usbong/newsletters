@@ -1,5 +1,40 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "TAAS-SINGIL SA NETFLIX, SPOTIFY, ETC." (20221115; MARTES)
+
+### Author
+
+TUMBADO, JEFF
+
+### Keyphrase
+
+International/non-resident Digital Service Providers (DSP)<br/>
+--> House Bill 4122<br/>
+--> Sa Ikatlo at huling pagbasa sa Kongreso<br/>
+--> botohan: 253-4-1<br/>
+--> TO-ADD: 12% Valued-added Tax (VAT)
+--> example: Netflix subscription fee<br/>
+--> from: Movie and Television Regulatory and Classifications Board (MTRCB)
+
+#### Paalala#1
+
+VAT : GROSS SALES na lampas 3Milyong PHP ng nakaraang taon<br/>
+<br/>
+Example of subscription-based digital services:  <br/>
+--> online advertisement services<br/>
+--> hindi kasama ang educational services,<br/>
+--> e.g. online courses at webinars mula<br/>
+--> 1) private institutions<br/>
+--> 2) educational institutions<br/>
+--> kinikilala ng Department of Education (DepED), Commission on Higher Education (CHED), at state universites at colleges
+
+#### Paalala#2
+
+1) noticeable increase of SERVICE FEE shall assist in identifying those who are dependent of such service;
+--> example: increase of SERVICE FEE caused by decrease of VALUE of PHP via USD foreign exchange
+
+
+
 # "GRADE 9, GALIT SA TITSER, NAGBANTANG PASASABUGIN ANG ISKUL, HULI" (20221115; MARTES)
 
 ### Author
