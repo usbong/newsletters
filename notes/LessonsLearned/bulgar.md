@@ -12,7 +12,7 @@ International/non-resident Digital Service Providers (DSP)<br/>
 --> House Bill 4122<br/>
 --> Sa Ikatlo at huling pagbasa sa Kongreso<br/>
 --> botohan: 253-4-1<br/>
---> TO-ADD: 12% Valued-added Tax (VAT)
+--> TO-ADD: 12% Valued-added Tax (VAT)<br/>
 --> example: Netflix subscription fee<br/>
 --> from: Movie and Television Regulatory and Classifications Board (MTRCB)
 
@@ -26,7 +26,8 @@ Example of subscription-based digital services:  <br/>
 --> e.g. online courses at webinars mula<br/>
 --> 1) private institutions<br/>
 --> 2) educational institutions<br/>
---> kinikilala ng Department of Education (DepED), Commission on Higher Education (CHED), at state universites at colleges
+--> kinikilala ng Department of Education (DepED),<br/> 
+--> Commission on Higher Education (CHED), at state universites at colleges
 
 #### Paalala#2
 
