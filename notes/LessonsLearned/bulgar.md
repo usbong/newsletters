@@ -1,5 +1,32 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "GRADE 9, GALIT SA TITSER, NAGBANTANG PASASABUGIN ANG ISKUL, HULI" (20221115; MARTES)
+
+### Author
+
+PLEÑAGO, GINA
+
+### Keyphrase#1
+
+POSTED COMMENT sa Facebook (FB) live ng Taguig Public Information Office (PIO)<br/>
+--> where: COMMENT : magpapasabog, papatayin ang lahat ng estudyante<br/>
+--> when: 2022-11-07
+
+#### FB account "Sofia Smith"
+
+--> nagpanggap: na nagtatrabaho sa isang K-pop agency sa Seoul, South Korea<br/>
+--> mula: cellphone number, natukoy -> tirahan<br/>
+--> cybercrime search warrant mula sa korte<br/>
+--> napasa-kamay ang cellphone<br/>
+--> napansin: ilan pang indibidwal ang nag-login sa "Sofia Smith" at nagpadala ng bomb threat<br/>
+--> kabilang: ang ilang teacher at dating street sweeper<br/>
+
+### Keyphrase#2
+--> grave threat, bomb scare threat, act of terrorism<br/>
+
+#### Philippine National Police
+Anti-Cybercrime Group<br/>
+
 # "PARUSA SA PAGBENTA AT PAGKOPYA NG MALASWANG VIDEO O LITRATO" (20221114; LUNES)
 
 ### MAGTANONG KAY ATTORNEY
