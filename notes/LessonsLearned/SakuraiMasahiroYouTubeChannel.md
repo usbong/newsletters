@@ -4,6 +4,35 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+## https://www.youtube.com/watch?v=zxOBCjqP8-Y; last accessed: 20221116
+
+> ジャンプのしくみ 【仕様】 <br/>
+> 桜井政博のゲーム作るに<br/>
+> 181,777 views Nov 14, 2022 <br/>
+> いろんなアクションゲームには､ほとんどのものでジャンプがついています｡ <br/>
+> それだけ大事だということ｡ <br/>
+> <br/> 
+> 秘密の独自仕様も含め､掘り下げてみましょう!!
+
+### メモ
+
+@1:17, グラフ図、<br/>
+速度、着地、加速<br/>
+<br/>
+X軸<br/>
+Y軸<br/>
+<br/>
+ジャンプ<br/>
+メトロイド：ふわふわ
+
+カービィ：上がると落下加速度を極端に強くすると<br/>
+そして、キュッと減速後、落下加速を普通にすると。
+
+### Dagdag
+
+日本語での英語で使う言葉を習わせていただきます。
+
+
 ## https://www.youtube.com/watch?v=rsh4p55hGNE; last accessed: 20221111
 
 > ゲーム作りで食っていくには【企画・ゲーム設計】<br/>
