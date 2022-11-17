@@ -21,7 +21,11 @@ Google, largest privacy case with 40 US states
 
 1) negative output of large-scale automation
 
-2) observed: laptop cameras, e.g. MacBookPro, auto-turns on during ONLINE MEETINGS via GOOGLE system;<br/>
+2) observed: laptop cameras, e.g. from MacBookPro, auto-turns on during ONLINE MEETINGS via GOOGLE system;<br/>
+--> reminder: transferred data viewable via select computer network checkpoints<br/>
+--> example: @Taguig City, Metro Manila, where: PLDT Office (IP Address: 122.2.215.143) located;<br/> 
+--> adds: data to be transferred to, e.g. SINGAPORE<br/>
+--> keyphrase: computer network path<br/>
 --> notes: on 2022-11-16 (Wednesday), mic AND video request notification to turn-on has been added;<br/>
 --> shares: use of ELECTRICAL TAPE over CAMERA causes QUICK SOLUTION to STOP its auto-capturing of videos;<br/>
 --> reminder: select cellular telephones also include CAMERA<br/>
