@@ -14,7 +14,7 @@ MARRIAGE LICENSE @CITY HALL<br/>
 <br/>
 Jimmy and Jessica<br/>
 --> sweethearts for almost 5 years<br/>
---> @6th year of engagement<br/>
+--> @6th year of engagement, planned for wedding and honeymoon<br/>
 <br/>
 marriage documents<br/>
 --> 10-days posting requirement
