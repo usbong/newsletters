@@ -1,5 +1,36 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "IPON NG MGA MIYEMBRO NG PAG-IBIG FUND, UMABOT NA SA P66 BILYON" (20221117; HUWEBES)
+
+## BULGARIFIC
+
+### Author
+
+NG, FELY
+
+### Keyphrase
+
+Pag-IBIG Fund<br/> 
+Chief Executive Officer (CEO):<br/>
+ACOSTA, MERILENE C<br/>
+
+#### Modified Pag-IBIG 2 (MP2) Savings
+--> kapansin-pansing paglago mula ng Taong 2016<br/>
+--> when: collections reached 1 Billion PHP level<br/>
+-->  collectively saved: @33.72 Billion PHP from 2022-01~2022-10<br/>
+<br/>
+--> used: to finance programs, e.g. home loans with low interest rates;<br/>
+--> notes: however, "low interest rate" @10% approx per year;<br/>
+--> classifies: to still be large
+
+### Dagdag
+observed: registration for MP2 to be noticeably QUICK<br/>
+--> classifies: to be due to visiting PAG-IBIG member count NOT yet as large as that of SSS<br/>
+--> where: noticeably QUICK : 20mins (approx) @ PAG-IBIG MARIKINA BRANCH<br/>
+--> This is instead of 7hrs (approx) @ SSS MARIKINA BRANCH;<br/>
+--> classifies: increased visiting member count due to noticeable count of members who receive SSS pension
+
+
 # "PAGLABAG SA BATAS-TRAPIKO AT LIMITASYON NG TRAFFIC ENFORCER" (20221117; HUWEBES)
 
 ## MR. 1 RIDER: TULONG PARA SA MGA KAGULONG
