@@ -1,4 +1,42 @@
 # Daily Tribune
+
+# "Google pays $392-m privacy case settlement" (20221126; WEDNESDAY)
+
+## WORLD BRIEFS
+
+### Author
+
+AFP
+
+### Keyphrase
+
+Google, largest privacy case with 40 US states
+
+> over accusations that the search engine giant misled users into believing location tracking ontheir devices had been switched off
+
+--> recorded movements and used information for advertisers<br/>
+--> targetted customers
+
+### Dagdag
+
+1) negative output of large-scale automation
+
+2) observed: laptop cameras, e.g. MacBookPro, auto-turns on during ONLINE MEETINGS via GOOGLE system;<br/>
+--> notes: on 2022-11-16 (Wednesday), mic AND video request notification to turn-on has been added;<br/>
+--> shares: use of ELECTRICAL TAPE over CAMERA causes QUICK SOLUTION to STOP its auto-capturing of videos;<br/>
+--> reminder: select cellular telephones also include CAMERA<br/>
+--> adds: observation of SAMSUNG DUOS Android telephone<br/> 
+--> to now have "NABIGO ANG CAMERA" error notification (since approx 1 week ago);<br/>
+--> adds: continuous INTERNET CONNECTIVITY via POST-PAID SIM CARD plans<br/> 
+--> causes increase of CAMERA misuse by MANLOLOKO GROUP via installed applications<br/>
+--> reminder: select applications that auto-execute such ACTIONS have been removed from GOOGLE PLAY, FACEBOOK/FB (META);<br/>
+--> reminder: request for permit to use CAMERA function exists before download @GOOGLE PLAY; <br/>
+--> however, there exists less ADMIN regulation to verify uploaded APP;<br/>
+--> notes: to appear to be due to uploaded APPS to intentionally cause ILLEGAL ACTION are few;<br/>
+--> adds: email address and payment method, e.g. credit card details, exist for person identification <br/>
+--> however, MANLOLOKO group with know-how of ERROR in APP misuses it;<br/>
+--> adds: customer incident reports exist;
+
 # "Japan confers award on Tugade, Dominguez" (20221111; FRIDAY)
 
 ## Author
