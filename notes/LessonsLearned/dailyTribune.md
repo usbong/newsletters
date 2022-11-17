@@ -12,7 +12,7 @@ AFP
 
 Google, largest privacy case with 40 US states
 
-> over accusations that the search engine giant misled users into believing location tracking ontheir devices had been switched off
+> over accusations that the search engine giant misled users into believing location tracking on their devices had been switched off
 
 --> recorded movements and used information for advertisers<br/>
 --> targetted customers
