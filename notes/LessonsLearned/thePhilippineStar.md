@@ -1,5 +1,44 @@
 # Lessons-learned: The Philippine STAR
 
+## “Second honeymoon” (20221111; FRIDAY)
+
+### “A LAW EACH DAY [Keeps Trouble Away]”
+
+### Author
+
+SISON, JOSE C
+
+### Keyphrase
+
+MARRIAGE LICENSE @CITY HALL<br/>
+<br/>
+Jimmy and Jessica<br/>
+--> sweethearts for almost 5 years<br/>
+--> @6th year of engagement<br/>
+<br/>
+marriage documents<br/>
+--> 10-days posting requirement
+
+### PROBLEM: ERROR in marriage documents
+
+Example: date of license<br/>
+Dec. 14, 1986 X<br/>
+Dec. 13, 1986 O<br/>
+
+### OUTPUT
+
+null and void ab initio<br/>
+--> where: ab initio : from the beginning<br/>
+--> based: on Court ANSWER in People vs. Lara, 12583-R, Feb. 14, 1955
+
+### ACTION as SOLUTION
+
+marriage again (71 SCRA 505)<br/>
+--> with: CORRECT documents
+
+
+
+
 ## “Petron proft soars 64% in 9 months” (20221111; FRIDAY)
 
 ### Author
