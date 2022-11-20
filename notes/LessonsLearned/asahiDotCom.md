@@ -12,6 +12,57 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [がんの免疫療法「新たな抗加齢療法になる可能性」　老化細胞除減らす]( https://www.asahi.com/articles/ASQCL62DCQC7PLBJ00C.html?iref=comtop_Tech_science_04); last accessed: 20221120
+
+> がんの免疫療法「新たな抗加齢療法になる可能性」　老化細胞除減らす
+
+Paraan ng panggagamot ng IMMUNE SYSTEM sa CANCER; “May kakayanang maging paraan din ng panibagong panggagamot laban sa pagtanda”; Bawasan ang CELL ng Pagtanda
+
+> 瀬川茂子2022年11月19日 14時30分
+
+SEGAWA, SHIGEKO; 2022-11-19T14:30
+
+### Pinaikling Pagbubuod
+
+> 英科学誌ネイチャーに発表した。
+
+Ipinahayag sa NATURE, magasin ng pag-aaral ng maparaang pagbubukod (agham) sa Inglatera.
+
+> 加齢とともにさまざまな病気とかかわる「老化細胞」が増える。
+
+Sa pagtanda, dumarami ang CELL ng pagtanda na may ugnayan sa samu’t saring mga sakit. 
+
+> 東京大の中西真教授らのグループ
+
+Pangkat nina NAKANISHI, MAKOTO, mga Mangangaral sa Pamantasan ng TOKYO.
+
+> がんの免疫療法と同じ方法で、老化細胞が蓄積したマウスの肝臓からこの細胞を取り除き、肝機能を改善させることができた
+
+Sa magkatulad na paraan sa panggagamot ng IMMUNE SYSTEM sa CANCER, tinanggal namin ang CELL mula sa ATAY ng DAGA na nag-iipon ng mga CELL ng Pagtanda, at nagawa naming ayusin ang pagkilos ng ATAY.
+
+> 炎症を起こす物質を周辺にまき散らすため、蓄積すると、糖尿病やがん、動脈硬化などさまざまな病気の引き金になるとされる。そのため老化細胞を除く研究が進んでいる。
+
+Sapagkat ikinakalat sa nakapalibot na bahagi ang mga bagay na nagpapasiklab ng sakit (INFLAME), kapag naipon ito, nagdudulot ito ng samu’t saring mga sakit tulad ng DIABETES (sakit sa ihi ng asukal), CANCER, pagtigas ng pagtibok, atbp. Dahil dito, isinusulong ang pananliksik upang tanggalin ang mga CELL ng pagtanda.
+
+> 正常な免疫が働いていれば、老化細胞の目印のようなものが認識されて排除される。がん細胞が免疫で除かれるのと同じ仕組みだ。
+
+Kapag naghahanap-buhay nang wasto ang IMMUNE SYSTEM, nakikilala nito ang bagay na hango sa sagisag ng CELL ng pagtanda, at tinatanggal ito. Katulad ang MEKANISMO nito sa pagtanggal ng IMMUNE SYSTEM sa CELL ng CANCER. 
+
+> 論文はサイト（https://doi.org/10.1038/s41586-022-05388-4)
+
+SITE sa Sulat ng Talakayan (https://doi.org/10.1038/s41586-022-05388-4)
+
+### Dagdag
+
+SITE sa Sulat ng Talakayan: https://doi.org/10.1038/s41586-022-05388-4; last accessed: 20221120
+
+> “Blocking PD-L1–PD-1 improves senescence surveillance and ageing phenotypes”
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [次世代半導体の国産化めざす新会社　トヨタ・ソニー・NTTなど出資](https://www.asahi.com/articles/ASQCB6W0SQCBULFA02K.html?iref=comtop_Tech_science_02); last accessed: 20221111
 
 > 次世代半導体の国産化めざす新会社　トヨタ・ソニー・NTTなど出資
