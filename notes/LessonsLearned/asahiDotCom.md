@@ -12,6 +12,44 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [出世望まぬ公務員「勉強時間ない」「昇進よりも家庭」　自治体は苦悩](https://www.asahi.com/articles/ASQB040W1Q6XULEI006.html?iref=comtop_7_05); last accessed: 20221123
+
+> 出世望まぬ公務員「勉強時間ない」「昇進よりも家庭」　自治体は苦悩
+
+Hindi nais na umangat; Tagapaglingkod ng Pamahalaan, "Walang panahong mag-aral", "Tahanan bago ang pag-angat"; Alalahanin ng Pamahalaan
+
+> 山崎啓介2022年11月23日 8時00分
+
+YAMAZAKI, KEISUKE; 2022-11-23T08:00
+
+### Pinaikling Pagbubuod
+
+>　　課長や係長になるために公務員が受ける昇任試験の人気が低迷している。朝日新聞が、13の都府県と政令指定都市に聞いたところ、少なくとも8自治体で受験率が下がっていた。普段の仕事が多忙で「試験勉強をする時間がない」といった声のほか、昇進よりも家庭を優先する意識の高まりが背景にあるとみられる。
+
+Bumaba ang pagkasikat ng pagkuha ng pag-angat na pagsusulit ng mga Tagapaglingkod ng Pamahalaan upang maging Pinuno ng Sub-unit, atbp. Sa pagsiyasat ng Pahayagang ASAHI sa 13 Malalaking Bahagi ng Bansa at ang mga tukoy na Lungsod ng Pamahalaan, hindi bababa sa 8 Unit ng Pamahalaan ang bumaba ang pagkuha ng pagsusulit. Dahil sa pagdami ng gawain sa hanap-buhay, bukod sa sinasabing, "Walang panahong mag-aral sa pagsusulit," nakikita rin sa likod nito ang pagtaas ng kamalayang unahin ang Tahanan bago ang pag-angat.
+
+### Paalala: 
+政令指定都市 : Mga tukoy na Lungsod ng Pamahalaan;<br/>
+政令 : (mga may) UTOS mula Pamahalaan
+
+> 昇任試験は、優秀な職員を早く昇進させて組織を活性化させたり、若手職員のモチベーションを向上させたりするのが目的だ。
+
+Pakay ng pagsusulit ang pagpapa-aga ng pag-angat ng mga magagaling na Tauhan, pagbuhay ng sistema, at pagpapataas ng MOTIBASYON ng mga batang Tauhan.
+
+> しかし、30歳代前半で受験資格が得られても、優秀な人材ほど職場で中心的な存在になっていて、多忙な場合が多い。この年代は、結婚や出産、育児といった私生活のイベントも重なりやすい。
+
+Subalit, sa natitirang kalahating bahagi ng ika-30 taong gulang, makakuha man siya ng PASA sa pagsusulit, dahil magaling na tauhan, natututukan, at marami ang kasong nagiging higit na abala. Sa mga panahong ito, madaling magpatung-patong sa buhay ang mga gawain tulad ng pag-aasawa, panganganak, pag-aalaga ng anak, atbp.
+
+
+>　地方自治に詳しい神戸大大学院の松並潤教授は「昇任試験は公平で多様な人材登用ができ、続けていくべきだ。受験率のために試験を簡単にしてしまうと、優秀な幹部を登用するという本来の目的からずれてしまう。業務負荷の偏りなど、試験を受けられない理由をまずは解決するべきではないか」と話す。（山崎啓介）
+
+Ayon kay MATSUNAMI, JUN, Mangangaral sa Paaralan ng mga Nagtapos sa KOBE, at bihasa sa mga Pook ng Unit ng Pamahalaan, "Kailangang ituloy ang pag-angat na pagsusulit, upang patas na makatalaga ng maraming mga tauhan. Kapag dinalian ang pagsusulit upang paramihin ang kukuha nito, hindi aakma sa pakay ng Pamahalaan sa simula na magtalaga ng mga Magagaling na Tagapaglingkod. Kailangan muna raw lutasin ang dahilan ukol sa pagbigat ng inaakong tungkulin, kaya tuloy hindi makakuha ng pagsusulit." 
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [がんの免疫療法「新たな抗加齢療法になる可能性」　老化細胞除減らす]( https://www.asahi.com/articles/ASQCL62DCQC7PLBJ00C.html?iref=comtop_Tech_science_04); last accessed: 20221120
 
 > がんの免疫療法「新たな抗加齢療法になる可能性」　老化細胞除減らす
