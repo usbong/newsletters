@@ -1,5 +1,30 @@
 # Lessons-learned: The Philippine STAR
 
+## “Vietnam lawmakers' visit seen to enhance ties with Phl” (20221124; THURSDAY)
+
+### Author
+
+FELIP, CECILLE SUERTE
+
+### Keyphrase
+
+Vietnam Ambassador: Hoang Huy Chung<br/>
+Philippine Senate President: ZUBIRI, JUAN MIGUEL<br/>
+<br/>
+notes: Vietnam's VALUE of Filipino teachers in Vietnam<br/>
+--> who: teach English<br/>
+--> due to: improves Vietnamese people's knowledge and skills<br/> 
+--> in speaking and understanding the language<br/>
+<br/>
+adds: Agricultural partnership via Trade, Research & Development (R&D), Technology<br/>
+--> adds: rice farming techniques adapted from International Rice Research Institute (IRRI)<br/>
+--> @University of the Philippines Los Baños (UPLB)<br/>
+
+### Paalala
+
+Senate President ZUBIRI finished agribusiness @UPLB
+
+
 ## “Second honeymoon” (20221111; FRIDAY)
 
 ### “A LAW EACH DAY [Keeps Trouble Away]”
