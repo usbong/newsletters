@@ -3,6 +3,43 @@
 ### observed: as with select digital news sites, e.g. Manila Bulletin (Digtal), Rappler, increased size of photographs;
 --> where: photographs appear larger than text;<br/>
 --> <b>Recommended Action:</b> verify: 朝日新聞　(asahi shimbun (digital))
+## [CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera
+](https://balita.net.ph/2022/11/24/cp-ni-jaclyn-jose-na-hack-account-niya-ginagamit-sa-panloloko-paghuthot-ng-pera/); last accessed: 20221125
+
+> CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera
+
+## Balita, Showbiz atbp.
+
+### Author
+
+> Richard de Leon<br/>
+
+### Datestamp
+
+> November 24, 2022
+
+### Keyphrase#1
+
+> Nagbigay-babala sa publiko ang beteranang aktres na si Jaclyn Jose hinggil sa umano’y paggamit ng hindi pa nakikilalang scammer sa kaniyang social media account upang makapanloko at makapanghuthot ng pera sa kaniyang mga kaibigan o kakilala.
+
+> Ayon sa Instagram post ni Jaclyn noong Miyerkules, Nobyembre 23, na-hack umano ang kaniyang cellphone at may ibang taong gumagamit ng kaniyang social media account na nagpapadala ng mensahe sa kaniyang mga kakilala upang humiram kuno ng pera na nagkakahalagang ₱20K.
+
+> Nang subukin itong tawagan, hindi nagpaunlak ang scammer. Chat na lamang daw dahil nasa Zoom meeting umano siya.
+
+### Keyphrase#2
+
+hacked phone<br/>
+hacked account<br/>
+<br/>
+20K PHP ang hinihiram kuno na pera<br/>
+<br/>
+Instagram (IG) CHAT POST<br/>
+--> observed: to appear as SMS TEXT MESSAGES;<br/>
+--> adds: however, INTERNET CONNECTIVITY;<br/>
+--> via: among others, available private/public INTERNET ACCESS points,<br/> 
+--> POSTPAID SIM CARD, PREPAID SIM CARD<br/> 
+--> with continuous COST due to INTERNET ACCESS
+
 
 ## [Pinakamatandang giant panda na si An An, pumanaw na sa edad na 35](https://balita.net.ph/2022/07/21/pinakamatandang-giant-panda-na-si-an-an-pumanaw-na-sa-edad-na-35/);
 last accessed: 2022723
