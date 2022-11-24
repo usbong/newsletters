@@ -12,6 +12,40 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [日本で広がる金融教育、海外の状況は?　専門家に聞く](https://www.asahi.com/articles/ASQCP43PZQBFULFA00B.html?iref=comtop_Edu_03); last accessed: 20221124
+
+> 日本で広がる金融教育、海外の状況は?　専門家に聞く
+
+Ano ang kalagayan sa ibayong dagat ng lumalaganap sa Bansang Hapon na Pagtuturo ng Salapi (FINANCIAL EDUCATION); Tanungin natin ang Dalubhasa
+
+> 聞き手・山本恭介2022年11月23日 14時00分
+
+Tagapakinig: YAMAMOTO, KYOUSUKE; 2022-11-23T14:00
+
+### Pinaikling Pagbubuod
+
+### Keyphrase
+
+ファイナンシャルプランナー : Financial Planner <br/>
+金融教育 : Pagtuturo ng Salapi
+
+> 　――日本では、4月から高校での金融教育の内容が広がりました。現状をどう見ていますか。
+
+Mula ika-4 na buwan, lumaganap sa Mataas na Paaralan sa Bansang Hapon, ang nilalaman ng Pagtuturo ng Salapi. Paano niyo po nakikita ang kasalukuyang kalagayan nito?
+
+>　高校の家庭科では、これまでもお金の管理などは学んできましたが、4月からは投資なども学習内容に組み込まれました。ただ、家庭科の先生は手芸や料理にはたくさん経験があるものの、金融商品を買ったことがなかったり、教えてもらったりしたことがない人も多いです。なので、先生の不安を払拭（ふっしょく）していくことが大事です。
+
+Sa Maparaang Pagbubukod ng Tahanan, kahit hanggang sa kasalukuyan, naaral na natin ang pangangasiwa ng salapi, atbp; gayunman, mula ika-4 na buwan, inilagay na rito ang nilalaman ng pag-aaral ukol sa Pamumuhunan, atbp. Subalit, bagama't marami ang karanasan ng Guro sa Maparaang Pagbubukod ng Tahanan sa sinig ng kamay (handicrafts) at pagluluto, marami sa kanila ang hindi pa nakabibili ng FINANCIAL PRODUCT (Kalakal ng Salapi), ang hindi pa natuturuan ukol dito, atbp. Kung kaya't, malaking bagay ang mapawi natin ang pangamba ng mga Guro.
+
+>　全ての教科書を読みましたが、株式とはという用語の説明だけのものも多い。ただ暗記をさせるのではなく、先生が実感のこもった授業ができるかどうかが問われています。
+
+Bagama't nabasa ko na ang lahat ng ituturong mga aklat, sa ginagamit na wika lamang sa STOCK, marami ang paliwanag ukol dito. Gayunman, hindi lamang ito ipasasaulo, tinatanong din kung maitututuro ba ng Guro ang aralin nang may tunay na karanasan sa mga ito.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [出世望まぬ公務員「勉強時間ない」「昇進よりも家庭」　自治体は苦悩](https://www.asahi.com/articles/ASQB040W1Q6XULEI006.html?iref=comtop_7_05); last accessed: 20221123
 
 > 出世望まぬ公務員「勉強時間ない」「昇進よりも家庭」　自治体は苦悩
