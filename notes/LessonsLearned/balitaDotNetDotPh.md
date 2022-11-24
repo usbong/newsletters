@@ -3,8 +3,7 @@
 ### observed: as with select digital news sites, e.g. Manila Bulletin (Digtal), Rappler, increased size of photographs;
 --> where: photographs appear larger than text;<br/>
 --> <b>Recommended Action:</b> verify: 朝日新聞　(asahi shimbun (digital))
-## [CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera
-](https://balita.net.ph/2022/11/24/cp-ni-jaclyn-jose-na-hack-account-niya-ginagamit-sa-panloloko-paghuthot-ng-pera/); last accessed: 20221125
+## [CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera](https://balita.net.ph/2022/11/24/cp-ni-jaclyn-jose-na-hack-account-niya-ginagamit-sa-panloloko-paghuthot-ng-pera/); last accessed: 20221125
 
 > CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera
 
