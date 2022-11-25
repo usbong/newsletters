@@ -1,5 +1,29 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "PAGKUNSINTE NG EMPLOYER SA SEXUAL HARASSMENT SA KUMPANYA" (20221125; BIYERNES)
+
+## MAGTANONG KAY ATTORNEY
+
+### Author
+
+Chief Public Attorney:
+DR RUEDA-ACOSTA, PERSIDA V
+
+### Keyphrase
+
+notify employer of erring ACTIONS by managerial officer<br/>
+--> IF employer does NOT contest or question it, erring ACTIONS classified to be authorized<br/>
+<br/>
+adds: FAILURE to take immediate ACTION to cause hostile WORK environment<br/>
+--> adds: EXPLANATION of UNREASONABLE DELAY,<br/>
+--> e.g. 41 days after receving report of incident, to NOT exist
+
+#### --
+
+LBC Express-Vis vs. Monica C. Palco<br/>
+General Register (G.R.) No. 217101<br/>
+2022-02-12
+
 # "MGA NAGTITINDA, APEKTADO RIN NG MATAAS NA PRESYO NG SIBUYAS" (20221125; BIYERNES)
 
 ## BOSES
