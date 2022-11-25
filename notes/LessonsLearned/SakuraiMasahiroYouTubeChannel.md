@@ -53,6 +53,10 @@ last accessed: 20221124
 ＠04:18; スマブラforやスマブラSP <br/>
 —> ホンキ度のイラスト
 
+### Dagdag
+
+動画のイラスト、「火」のイメージ
+
 # https://www.youtube.com/watch?v=E_lTgIBgRCc;
 last accessed: 20221118
 
