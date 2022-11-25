@@ -1,5 +1,26 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "P33K MINIMUM NA SAHOD SA GOBYERNO" (20221125; BIYERNES)
+
+### Author
+
+MORATILLO, MADEL
+
+### Keyphrase
+
+Empleyado sa ADMIN<br/>
+--> Sahod ng nasa Pinakamababang RANGO: <br/>
+--> 12,517PHP bawat buwan<br/>
+--> adds: higit na mababa naman ang sa Local Government Unit (LGU)<br/>
+<br/>
+--> adds: contractual (non-regular) employee to also exist in ADMIN<br/>
+<br/>
+--> notes: request to increase minimum wage to 33K PHP<br/>
+--> adds: ADMIN employee wage to already include TAX;<br/>
+--> adds: recommendation from Ibon Foundation (Non-government Organization (NGO)),<br/>
+--> where: Family Unit (with 5 members) to receive 1,119PHP per day
+
+
 # "ADIK, HUWAG NANG IKULONG" (20221125; BIYERNES)
 
 ### Author
