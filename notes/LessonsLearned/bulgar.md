@@ -1,5 +1,29 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "MGA NAGTITINDA, APEKTADO RIN NG MATAAS NA PRESYO NG SIBUYAS" (20221125; BIYERNES)
+
+## BOSES
+
+### Author
+
+DAGUNO, JUSTINE R (Ed.)<br/>
+SISON, RYAN B
+
+### Keyphrase
+
+Palengke ng DIVISORIA<br/>
+--> mula: 180PHP bawat kilogramo ng SIBUYAS (na bilog)<br/>
+--> sa kasalukuyan: 250PHP<br/>
+--> 7PHP -> 13PHP bawat piraso
+
+### Dagdag
+
+observed: @MARIKINA PALENGKE<br/>
+--> >13PHP bawat piraso ng sibuyas (na BILOG)<br/>
+--> adds: higit na mura ang ONION LEEKS (SIBUYAS na PAHABA) @mga 10PHP ang isa<br/> 
+--> adds: higit na mabilis nga lang mabulok
+
+
 # "IPON NG MGA MIYEMBRO NG PAG-IBIG FUND, UMABOT NA SA P66 BILYON" (20221117; HUWEBES)
 
 ## BULGARIFIC
