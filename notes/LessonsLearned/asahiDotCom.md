@@ -12,6 +12,48 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [スプラトゥーンは遊ぶ前に見よ　大ヒットゲームの楽しみ方](https://www.asahi.com/articles/ASQB05GBNQBSUCVL04R.html?iref=comtop_ThemeRightS_03); last accessed: 20221125
+
+> スプラトゥーンは遊ぶ前に見よ　大ヒットゲームの楽しみ方
+
+Tingnan muna natin bago nating laruin ang SPLATOON; Paraan upang maligayahan sa BIG HIT na LARO;
+
+> 野波健祐2022年11月1日 16時00分
+
+NONAMI, KENSUKE; 2022-11-01T16:00
+
+### Pinaikling Pagbubuod
+
+>　人気家庭用ゲーム機ソフトの5年ぶりの新作「スプラトゥーン3」が好評だ。発売した任天堂は9月の販売直後、「3日間で345万本を突破」と発表、同社のゲーム機「スイッチ」向けソフトとしては国内販売数で「あつまれ　どうぶつの森」（2020年）を大きく上回る出だしとなった。魅力はどこにあるのだろう。
+
+Mabuti ang puna sa sikat na pang-tahanang GAME MACHINE SOFTWARE na "Splatoon 3", ang panibago nitong LARO na 5 taon din ang lumipas bago nailabas. Agad na pagkatapos isinimulang ibenta ng NINTENDO sa ika-9 na buwan, ipinahag nito na  "Naibenta nila sa loob ng 3 araw, ang 3.45 Milyong Unit ng LARO". Malaki ang panimulang pag-angat na ito kaysa sa "ANIMAL FOREST (Magtipon, Mga Hayop ng Kagubatan)" ng Taong 2022, batay sa bilang ng mga naibenta sa loob ng Kaharian, at SOFTWARE tungo sa kanilang GAME MACHINE na "SWITCH". Nasaan kaya ang naka-aakit dito?
+
+> 「スプラトゥーン」は人の姿に変身することのできるイカを操作するシューティング（射撃）ゲーム。様々な道具を使ってインクを放ち、敵と競いながら地面を塗り、面積の多い方が勝ちという「ナワバリバトル」を楽しむ。ネットを介した4人1組のチーム戦が主流の遊び方だ。
+
+SHOOTING GAME (NAGTITIRAHAN) ang "SPLATOON", kung saan pinakikilos ang PUSIT na kayang maging anyong tao. Maliligayahan ang Manlolaro sa paglalabas ng TINTA gamit ang samu't saring mga kagamitan, sa pagpintura ng sahig, habang nakikipagtunggali sa kalaban, at sa "LABANAN sa PAGSAKOP", kung saan panalo ang sinong may pinakamaraming pook. Labanan sa INTERNET, kung saan sa isang pangkat, may 4 na tauhan, ang paraan ng paglalaro na pangunahing sumikat.
+
+>　「欧米の人気ゲームはたいてい戦争ものが題材になっている。SFやホラー的な設定もありますが、多くは殺し合いに使われるような重火器で相手を攻撃して勝つタイプです」
+
+"Sa AMERIKA, karaniwang sikat na LARO ang mga may paksa na DIGMAAN." Bagama't may SETTING na SCIENCE FICTION, HORROR, atbp, karamihan ng uri nito, PANALO sa pagsalakay sa katunggali gamit ang mabibigat na sandatang pangsunog na ginagamit sa pagpatay sa isa't isa."
+
+> 第2次大戦の戦場を舞台にした「コール　オブ　デューティ」（03年）から、eスポーツに広く採用されている「ヴァロラント」（20年）に至る系譜に「スプラトゥーン」もある。
+
+Mula "CALL OF DUTY (Taong 2003)", kung saan ginawang tanghalan ang pook ng labanan sa Ika-dalawang Malaking Digmaan, kabilang din ang "SPLATOON" sa ugnayan ng mga LARO tulad ng "VALORANT (Taong 2020)", na malawak na ginagamit sa e-SPORTS.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+
+1) Benta sa Bansang Hapon: SPLATOON
+
+2) Benta sa Amerika: CALL OF DUTY
+
+3) NINTENDO : paraan sa pakikipaglaban, e.g. pagbuo ng pangkat na apatan;<br/> 
+--> na kayang laurin ng mga bata (lalake man o babae), upang agad na matutunan,<br/> 
+--> kahit wala nang dagdag na gabay mula sa mga nakatatanda;
+
 ## [日本で広がる金融教育、海外の状況は?　専門家に聞く](https://www.asahi.com/articles/ASQCP43PZQBFULFA00B.html?iref=comtop_Edu_03); last accessed: 20221124
 
 > 日本で広がる金融教育、海外の状況は?　専門家に聞く
