@@ -1,5 +1,49 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "ADIK, HUWAG NANG IKULONG" (20221125; BIYERNES)
+
+### Author
+
+ALFONSO, MYLENE
+
+### Keyphrase
+
+ILLEGAL DRUGS<br/>
+<br/>
+BILL (NOT yet ACT, i.e LAW)<br/>
+--> where: USER (ADIK) -> REHABILITATION CENTER<br/>
+--> cause: "Kulungan puno na"<br/>
+--> from: Senador DELA ROSA, RONALD "BATO"<br/>
+--> adds: Dating Hepe ng PNP;<br/>
+--> where: PNP = Philippine National Police (PNP);<br/>
+--> when: DRUG WAR sa panahon ng dating Pangulong DUTERTE, RODRIGO;<br/>
+<br/>
+--> adds: ADIK : suliraning pangkalusugan, sa halip na paglabag sa batas<br/>
+--> adds: however, pushing, manufacturing, trafficking NOT included;<br/>
+
+### Dagdag
+
+ILLEGAL DRUGS : QUICK MONEY, EXCESS MONEY, CRIMINAL ACTIONS<br/>
+--> Example CRIMINAL ACTIONS: SMUGGLING, TAX EVASION, NOISE POLLUTION<br/>
+<br/>
+--> OUTPUT: INDIRECT, UNCLEAR COMMUNICATION <br/>
+--> example#1: intentionally puts dirt on WORK TABLE near OFFICIAL RECEIPTS<br/>
+--> example#2: intentionally puts BAYGON SPRAY (FLAMMABLE) near ELECTRICAL OUTLET (SPARKS)<br/>
+<br/>
+--> remembers: HISTORY of EAST GERMANY;<br/> 
+--> keyphrase: INEFFICIENT SYSTEM<br/>
+--> where: UNIT Members assist in destroying OWN UNIT<br/>
+--> reminder: INDIRECT, UNCLEAR COMMUNICATION causes increase in USED TIME<br/>
+--> to identify significance of ACTIONS<br/>
+--> shares: QUICK ANSWER = NEED FOR QUICK MONEY
+
+### USBONG RECOMMENDATION
+
+share: know-how with MAJORITY;<br/>
+--> where: know-how : VALUE of WORK, i.e. NOT QUICK MONEY<br/>
+--> adds: COMPUTER SERVICES
+
+
 # "PAGKUNSINTE NG EMPLOYER SA SEXUAL HARASSMENT SA KUMPANYA" (20221125; BIYERNES)
 
 ## MAGTANONG KAY ATTORNEY
