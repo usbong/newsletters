@@ -1,5 +1,60 @@
 # Daily Tribune
 
+# "Phl life expectancy declines by 2 years" (20221124; Thursday)
+
+## Author
+
+PIATOS, TIZIANA CELINE<br/>
+@tribunephl_tiz
+
+## Keyphrase#1
+
+World Bank; average life expectancy<br/>
+<br/>
+Filipinos 71; from 73;<br/>
+--> female @76 (ave)<br/>
+--> male @67 (ave)<br/>
+<br/>
+Hong Kong, Singapore, Japan > 80<br/>
+--> adds: via GOOGLE SEARCH ENGINE, Germany > 80
+
+## keyphrase#2:
+LIFESTYLE<br/>
+--> enjoyment of life, <br/>
+--> absence of NEGATIVE EMOTION<br/>
+--> adds: free from ALZHEIMER's DISEASE<br/>
+<br/>
+--> adds: no life-threatening injury<br/>
+--> caused: by taking RISKS<br/>
+<br/>
+--> adds: control of cholesterol in blood <br/>
+--> prevents: heart disease
+
+### Dagdag
+
+observed: ALZHEIMER's DISEASE : contradiction within self, <br/>
+--> where: self cannot execute intention to FORGET<br/>
+--> due to: self cannot FORGET;<br/>
+--> keyphrase: PANLOLOKO<br/>
+--> notes: select people to have believed in IDEALOGY <br/>
+--> which: after 30+ years, admits to be INCORRECT,<br/>
+--> causes: speed-up of own DEATH;<br/>
+--> keyphrase: FAKE, LIFE lived as FAKE<br/>
+<br/>
+--> ACTION: continues: with DENIAL<br/> 
+--> to cause NEGATIVE INFECTION<br/>
+--> which: causes increase of MANLOLOKO,<br/>
+--> who: executes PANLOLOKO<br/>
+<br/>
+--> Example IDEALOGY: MANLOLOKO group with "ALL ARE MANLOLOKO", <br/> 
+--> i.e. IN-NEED of QUICK MONEY <br/>
+
+### USBONG RECOMMEND ACTION:
+1) learn: VALUE of WORK, i.e. NOT QUICK MONEY;<br/>
+--> which: increases STRENGTH to SAY "NO",<br/>
+--> when: MANLOLOKO cannot, due to NEED for QUICK MONEY
+
+
 # "Google pays $392-m privacy case settlement" (20221126; WEDNESDAY)
 
 ## WORLD BRIEFS
