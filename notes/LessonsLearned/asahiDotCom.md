@@ -51,7 +51,7 @@ TWITTER : "LOOK AT THIS"<br/>
 --> "Nakatutuwa ito!" "Mahalaga ito!"
 
 >　これは結構本質的で、何かが起こった時に「大変なことが起きている」と発信するのがツイッター。「自分が巻き込まれて大変だ」と伝えるのがフェイスブックやインスタグラムだということです。
-Kayamanang
+
 TWITTER : "May nagaganap na sakuna!"<br/>
 <br/>
 FACEBOOK, INSTAGRAM, atbp : "Nadamay ako sa gulo!"
