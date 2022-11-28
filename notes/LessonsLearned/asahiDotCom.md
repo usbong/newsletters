@@ -12,6 +12,102 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [なぜ日本はツイッターの「宝石」になったのか　日本法人元幹部が語る](https://www.asahi.com/articles/ASQCS3J4ZQCRUPQJ00G.html?iref=comtop_Tech_science_04); last accessed: 20221128
+
+> なぜ日本はツイッターの「宝石」になったのか　日本法人元幹部が語る
+
+Bakit naging "Yamang Bato" sa Bansang Hapon ang TWITTER? Salaysay ng Hapong dating nasa Pamunuan nito
+
+### Paalala: 
+
+幹部 Unit ng Paggawa<br/>
+--> remembers: 你幹嗎?! (Anong ginagawa mo?! (Pagalit)<br/> 
+--> sa Wikang Tsino (Timog na Bahagi, e.g. Taiwan))
+
+> マスク氏とツイッターの動向
+
+### Patutunguhan ni G. MUSK at ng TWITTER
+
+> 聞き手・池田伸壹2022年11月26日 17時00分
+
+Tagapakinig: IKEDA, SHINICHI; 2022-11-26T17:00
+
+### Keyphrase
+
+> 王子田克樹さん
+
+G. OUJIDEN, KATSUKI
+
+> かつて日本法人で上級執行役員を務めた王子田克樹さん
+おうしでん・かつき　1961年生まれ。三菱総研、グーグル日本法人の執行役員、ツイッター日本法人の上級執行役員などを経て、今年「nabe」を起業。
+
+G. OUJIDEN, KATSUKI, Hapong dating nanungkulan sa mataas na Pamunuan. Isinilang ng taong 1961. Nanungkulan halimbawa sa Pananaliksik ng MITSUBISHI, GOOGLE, TWITTER, atbp, at sa kasalukuyang taon, itinatatag ang "nabe".
+
+>　社内でもよく同僚と議論をしましたが、うまいことを言うなあと思った例え方がありました。インスタグラムやフェイスブックは「ルック・アット・ミー」（私を見て）だと。対してツイッターは「ルック・アット・ディス」。つまり「これが面白い」「これが大事だよ」というのです。
+
+INSTAGRAM, FACEBOOK, atbp : "LOOK AT ME"<br/>
+<br/>
+TWITTER : "LOOK AT THIS"<br/>
+--> "Nakatutuwa ito!" "Mahalaga ito!"
+
+>　これは結構本質的で、何かが起こった時に「大変なことが起きている」と発信するのがツイッター。「自分が巻き込まれて大変だ」と伝えるのがフェイスブックやインスタグラムだということです。
+Kayamanang
+TWITTER : "May nagaganap na sakuna!"<br/>
+<br/>
+FACEBOOK, INSTAGRAM, atbp : "Nadamay ako sa gulo!"
+
+>　それらを支えているのが広告です。実はツイッターでは、日本は「王冠の宝石」と呼ばれていました。
+
+Tinutulungan ito ng mga Patalastas (tagapagpalaganap ng pahayag). Ang sa katunayan, sa TWITTER, tinatawag na "Yamang Bato sa Korona ng Hari" ang Bansang Hapon.
+
+### Dagdag
+
+1) Sa Bansang Hapon : TWITTER<br/>
+--> observed: sa mga Balita sa Television sa Amerika, isinasama ang sa TWITTER;<br/>
+--> notes: investment via partnership with television broadcasting<br/>
+--> remembers: GOOGLE to have partnered with Internet Service Providers (ISP);<br/>
+--> notes: as objective, increase people who have access to the INTERNET,<br/>
+--> where: INTERNET has know-how,<br/>
+--> adds: albeit, without additional GUIDANCE, NOT EFFECTIVE<br/>
+--> due to: OUTPUT : CONSUMER, NOT PRODUCER<br/>
+--> remembers: as with Computer Games
+
+2) observed: mga Taong 2015, may ilang mga nasa Amerika,<br/> 
+--> e.g. San Francisco, California, ang nagsisialisan na sa paggamit ng FACEBOOK;<br/>
+--> adds: dito sa Pinas, napansin ko naman ang mga ilang patalastas<br/> 
+--> ng mga babaeng halos nakahubad na;<br/>
+--> adds: sa mga kasalukuyang panahon, makikita rin ito<br/> 
+--> sa lumalabas na video sa YOUTUBE via www.youtube.com;<br/>
+--> adds: bagama't mababawasan ito kapag ginamitan ng GOOGLE SEARCH ENGINE;<br/>
+--> keyphrase: COMBO<br/>
+
+####  IF SO, USER's OBJECTIVE?<br/>
+--> PHYSICAL STIMULATION<br/>
+<br/>
+--> reminder: continuous PHYSICAL STIMULATION of self causes...<br/>
+
+#### IF has partner/spouse, SEPARATION;
+--> due to: self appears STRONGER without partner/spouse;<br/>
+--> reminder: partners, e.g. Husband & Wife, are together<br/>
+--> to be STRONGER than as separate individuals;<br/>
+--> adds: each is already STRONG;<br/>
+
+#### IF has no partner/spouse/separated...
+--> adds: NEXT ACTION? <br/>
+--> IF can connect with MALE/FEMALE,<br/>
+--> shall attempt to INTERACT<br/>
+--> via: text, photographs, videos;<br/>
+--> adds: MEET IN-PERSON;<br/>
+<br/>
+--> shares: as GUIDE, execute INTERACTION only with those<br/> 
+--> whom you are willing to meet in-person;<br/>
+<br/>
+--> adds: IF NOT, NEXT ACTION with MEET IN-PERSON? <br/>
+--> keyphrase: QUICK MONEY, FALSE IDENTITY, FAKE ACCOUNT, TO MISLEAD PEOPLE<br/>
+--> reminder: MANLOLOKO : NEED of QUICK MONEY<br/>
+<br/>
+TO-DO: -share: this as Question and Answer
+
 # [スプラトゥーンは遊ぶ前に見よ　大ヒットゲームの楽しみ方](https://www.asahi.com/articles/ASQB05GBNQBSUCVL04R.html?iref=comtop_ThemeRightS_03); last accessed: 20221125
 
 > スプラトゥーンは遊ぶ前に見よ　大ヒットゲームの楽しみ方
