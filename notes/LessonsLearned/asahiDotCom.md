@@ -12,6 +12,55 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [うそ情報、拡散しやすく？　ツイッター、コロナ偽情報対応を撤回](https://www.asahi.com/articles/ASQCZ34Y9QCZUHBI00B.html?iref=comtop_Tech_science_04); last accessed: 20221201
+
+> うそ情報、拡散しやすく？　ツイッター、コロナ偽情報対応を撤回
+
+Sinungaling na Balita, madaling kumalat? TWITTER, tatanggalin ang panlaban sa Panlolokong Balita ukol sa CORONA
+
+> マスク氏とツイッターの動向
+
+Patutunguhan ng TWITTER at ni G. MUSK
+
+> サンフランシスコ=五十嵐大介2022年11月30日 10時12分
+
+SAN FRANCISCO; IGARASHI, DAISUKE; 2022-11-30T10:12
+
+### Keyphrase
+
+> 新型コロナウイルスに関する偽情報
+
+Panlolokong Balita ukol sa Panibagong Uri ng CORONA VIRUS
+
+> コロナの感染者数は以前より減っているが、冬場に増えるとの見通
+
+Bagama't nababawasan kaysa sa nakaraan ang bilang ng mga taong nahahawaan ng CORONA, nakikitang darami ito sa panahon ng Tag-lamig.
+
+> コロナ関連の偽情報を理由に10万件近い投稿を削除してきた。
+
+Malayang binura ang malapit sa 100K POST na Panlolokong Balita ukol sa CORONA.
+
+>「誤った情報や誤解を招く情報を共有することは禁止されています」と説明していた。
+
+Ipinaliwanag na "Ipinagbabawal ang pagbabahagi ng mga balitang nag-aanyaya ng mga maling balita, maling pag-aakala, atbp."
+
+> だが、マスク氏に買収された後のツイッターのサイトによると、コロナに関する偽情報対応を11月23日で終えたという。
+
+Gayunman, pagkatapos bilhin ni G. MUSK ang Twitter, ayon sa site nito, sinasabing wawakasan sa ika-23 araw ng ika-11 buwan ang paglaban sa Panlolokong Balita ukol sa CORONA.
+
+> メタの昨年3月の報告によると、コロナ関連で1200万件以上の投稿を削除していた。（サンフランシスコ=五十嵐大介）
+
+Ayon sa pahayag ng META nang ika-3 buwan ng nakaraan taon, binura ang higit sa 12 milyong POST ukol sa CORONA. (SAN FRANCISCO; IGARASHI, DAISUKE)
+
+### Paalala
+
+1) Panlaban sa Panlolokong Balita : Burahin<br/>
+--> Gayunman, ihihinto na ang ganitong paraan ng panlaban sa TWITTER;
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [なぜ日本はツイッターの「宝石」になったのか　日本法人元幹部が語る](https://www.asahi.com/articles/ASQCS3J4ZQCRUPQJ00G.html?iref=comtop_Tech_science_04); last accessed: 20221128
 
 > なぜ日本はツイッターの「宝石」になったのか　日本法人元幹部が語る
