@@ -12,6 +12,63 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [「戦術・三笘薫」可能にするドリブル　卒論監修の恩師が見抜いた才能](https://www.asahi.com/articles/ASQCR3JDKQCQUTQP00R.html?iref=comtop_ThemeRightS_02); last accessed: 20221202
+
+>「戦術・三笘薫」可能にするドリブル　卒論監修の恩師が見抜いた才能
+
+DRIBOL upang maaaring gawin ang "Paraan ng Pakikipaglaban na may MITOMA, KAORU"; Ang nakitang angking kakayanan ng kanyang Tagapaggabay na Guro sa kanyang TESIS
+
+### Paalala
+
+卒論 = TESIS, Talakayan ng Nagtapos
+
+> 辻隆徳2022年11月23日 19時00分
+
+TSUJI, TAKANORI; 2022-11-23T19:00
+
+>「戦術・三笘薫」
+
+"Paraan ng Pakikipaglaban na may MITOMA, KAORU"
+
+
+>　それは25歳の「個の力」が称賛され、得点の可能性を感じさせるからこそ出てくる言葉だろう。
+
+Ika-25 taong gulang siya nang binansagang, "Ang Lakas ng UNIT", salitang marahil lumabas, dahil nakapagpaparamdam siya ng magaling na kakayanan.
+
+>　彼の特長は試合を動かすドリブルだ。
+
+DRIBOL na nakapagpapakilos ng paligsahan, ang kaniyang angking kakayanang bukod-tangi. 
+
+>　3月24日のワールドカップ（W杯）カタール大会アジア最終予選・豪州戦。0―0の同点で迎えた後半39分に投入されると、視線を独り占めにした。
+
+Sa ika-24 araw ng ika-3 buwan ng WORLD CUP, sa Malaking Paligsahan ng Asya sa QATAR, sa huling pampasok na pilian, laban sa AUSTRALIA. 39 minuto pagkatapos ng kalahati ng labanan, habang magkatulad ang marka sa 0-0, isa lang ang sinakop ng paningin.
+
+>　ピッチに立ってから、わずか5分後。味方選手の折り返しに走り込んできた三笘が右足で先取点を挙げた。
+
+5 minuto pa lamang ang nakalilipas nang nagkagipitan. Bilang pagtugon sa kaniyang kakampi, tumakbo papasok si MITOMA at nakapagbigay ng unang markang (punto) nakuha sa kaniyang kanang pagsipa.
+
+> さらに、試合終了間際はもっとすごかった。左サイドから中央に切り込んでどんどん相手をかわしていくと、そのままゴールネットを揺らした。1人で戦況を変え、日本のW杯出場を決めた。
+
+Dagdag pa rito, higit na magaling ang sa pangwakas ng paligsahan. Mula sa kaliwang banda, pinasok ang gitna, at mabilis na nakipagpalitan sa mga katunggali, hanggang inalog ang GOAL NET sa ganiyong paraan. Mag-isa niyang binago ang kalagayan ng labanan, at pinagpasiyahan ang paglahok ng Bansang Hapon sa WORLD CUP. 
+
+>　卒業論文は、自身のドリブルをテーマにした。
+
+Bilang kaniyang Sulat ng Talakayan ng mga Nagtapos, ginawa niyang PAKSA ang kaniyang sariling DRIBOL.
+
+>　卒論を指導した筑波大サッカ…
+
+Talakayan ng mga Nagtapos na ginabayan ng SOCCER ng Pamantasan ng TSUKUBA... 
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+### Dagdag
+
+1) Pangkat (TEAM) : Pagtugon sa kakampi
+
+2) Pangkat (TEAM) : Pagkilos nang sarili
+
 # [イーロン・マスク氏「おめでとう、日本！」　勝利を祝うツイート投稿](https://www.asahi.com/articles/ASQD22H7QQD2UHBI00D.html?iref=comtop_Tech_science_02); last accessed: 20221202
 
 > イーロン・マスク氏「おめでとう、日本！」　勝利を祝うツイート投稿
