@@ -1,5 +1,30 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "KARNAPER NA WANTED SA ROBBERY, TIMBOG" (20221202; BIYERNES)
+
+### Author
+
+SANTOS, MAENG
+
+### Keyphrase
+
+#### Miyembro ng "Limos Carnapping Group"
+--> Catalan, Romeo (36), Brgy. Maybunga, Pasig City<br/>
+--> nasa TOP 10 most wanted sa Pasig City;<br/>
+--> robbery; <br/>
+--> Caloocan City
+
+#### District Special Operation Unit
+--> nakatanggap: ng balitang "naispatan ang presensiya ng akusado sa Bagong Silang, Caloocan City"<br/>
+--> joint manhunt operation,<br/>
+--> kabilang: ang NDIT RIU-NCR, RID-NCRPO, <br/>
+--> DID-NPD, HPG-NPD;
+ 
+#### Regional Trial Court (RTC) 
+--> Branch 268, Pasig City<br/>
+--> warrant of arrest due to ROBBERY
+
+
 # "P33K MINIMUM NA SAHOD SA GOBYERNO" (20221125; BIYERNES)
 
 ### Author
