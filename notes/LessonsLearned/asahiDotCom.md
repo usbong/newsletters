@@ -12,6 +12,27 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [イーロン・マスク氏「おめでとう、日本！」　勝利を祝うツイート投稿](https://www.asahi.com/articles/ASQD22H7QQD2UHBI00D.html?iref=comtop_Tech_science_02); last accessed: 20221202
+
+> イーロン・マスク氏「おめでとう、日本！」　勝利を祝うツイート投稿
+
+"Pagbati sa Bansang Hapon!" mula kay G. MUSK, ELON; Ang kaniyang TWEET POST bilang pagdiwang sa PANALO;
+
+> 2022年12月2日 7時49分
+
+2022-12-02T07:49
+
+>　起業家のイーロン・マスク氏は1日、サッカーワールドカップ予選で日本がスペインに勝ったことについて、「おめでとう、日本！」とツイートした。
+
+Sa ika-1 araw, ukol sa pagkapanalo ng Bansang Hapon sa ESPANYA, sa Panimulang Pilian sa WORLD CUP, ipinahayag ng Tagapagtaguyod na si G. MUSK, ELON gamit TWEET ang "Pagbati sa Bansang Hapon!"
+
+>　米メディアは先月、マスク氏がツイッターの社内会議で「ツイッターは米国中心に見えるかもしれないが、日本が中心だ」「日本の人口は米国の3分の1にもかかわらず、日本の1日あたり利用者は米国とほぼ同じだ」として、日本でのツイッター利用に注目する発言をしたと報じていた。
+
+Sa nakaraang buwan, sa Pagpupulong sa loob ng Samahan ng TWITTER, ipinahayag ni G. MUSK sa MEDIA ng Amerika: "Bagama't nakikitang nasa loob ng Amerika ang TWITTER, ang Bansang Hapon ang nasa loob nito", "Bagama't 1/3 lamang ang bilang ng mamamayan ng Hapon kaysa sa Amerika, sa isang araw, halos magkatulad ang bilang ng mga Hapong gumagamit nito sa Amerika". Pinagtuunan niya ng pansin sa kaniyang pahayag ang paggamit ng TWITTER sa Bansang Hapon.
+
+
+
+
 ## [うそ情報、拡散しやすく？　ツイッター、コロナ偽情報対応を撤回](https://www.asahi.com/articles/ASQCZ34Y9QCZUHBI00B.html?iref=comtop_Tech_science_04); last accessed: 20221201
 
 > うそ情報、拡散しやすく？　ツイッター、コロナ偽情報対応を撤回
