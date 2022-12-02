@@ -63,11 +63,21 @@ Talakayan ng mga Nagtapos na ginabayan ng SOCCER ng Pamantasan ng TSUKUBA...
 
 GOOGLE SEARCH ENGINE; TRANSLATE
 
-### Dagdag
+### Dagdag#1
 
 1) Pangkat (TEAM) : Pagtugon sa kakampi
 
 2) Pangkat (TEAM) : Pagkilos nang sarili
+
+
+### Dagdag#2
+
+1) Ihambing ang aking isinaling salaysay ng nangyari at ang sa DAZN Japan,<br/> 
+--> na gumamit ng mga video camera recorder;<br/>
+--> Hindi ko pa napanonood ang nangyari bago ko isinalin ito.<br/>
+--> [【日本代表、W杯出場決定！｜オーストラリア×日本｜ハイライト】最終盤に三笘薫が劇的ゴール！ ワールドカップ出場を決める｜AFCアジア予選 - Road to Qatar -｜2022
+](https://www.youtube.com/watch?v=sHjDAm_5dbQ&t=597s); last accessed: 20221202
+
 
 # [イーロン・マスク氏「おめでとう、日本！」　勝利を祝うツイート投稿](https://www.asahi.com/articles/ASQD22H7QQD2UHBI00D.html?iref=comtop_Tech_science_02); last accessed: 20221202
 
