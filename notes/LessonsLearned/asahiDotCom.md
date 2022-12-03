@@ -69,6 +69,12 @@ Kapag hindi maipakilos ang ELECTRONIC CHART, tigil ang CONSULT, pati ang KITA (i
 
 "Hindi makapaggamot. Patawad..."
 
+### Paalala
+
+既往歴 : kasaysayan na ng patutunguhan;<br/>
+--> kasaysayan ng sakit; <br/>
+--> 往 != 住
+
 ### Sanggunian
 
 GOOGLE SEARCH ENGINE; TRANSLATE
