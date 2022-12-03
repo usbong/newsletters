@@ -60,10 +60,13 @@ Bagama't maiisip na kaakit-akit ang magkaroon ng anak kapag tinitingnan ang sa k
 
 Kinathang-isip ang kaligayahan ng may apo...
 
-### Dagdag
+### Dagdag (Mula sa USBONG)
 
 iminumungkahi: magkaroon ng anak ang mga marunong ng Maparaang Pagbibilang;<br/>
---> dagdag: ito'y sa halip na dumami ang mga samahang (pamilyang) hindi marunong nito;
+--> dagdag: ito'y sa halip na dumami ang mga samahang (pamilyang) hindi marunong nito;<br/>
+<br/>
+recommends: those who have know-how of Math to have children;<br/> 
+--> adds: this is instead of increasing families who do not have this know-how;<br/> 
 
 ### Sanggunian
 
