@@ -12,6 +12,69 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [電子カルテ失われ、この患者「誰やねん」　「記憶喪失」に陥った病院](https://www.asahi.com/articles/ASQD176W4QD1ULZU00P.html?iref=comtop_Tech_science_03); last accessed: 20221203
+
+> 電子カルテ失われ、この患者「誰やねん」　「記憶喪失」に陥った病院
+
+
+Sa pagkawala ng ELECTRONIC CHART, Itong may-sakit, "Sino ito!"; Pagamutang bumagsak sa "Kawalan ng Alaala"
+
+> 編集委員・須藤龍也2022年12月2日 11時00分
+すべ
+
+Tauhan ng Tagapagbuklod: SUDOU, TATSUYA; 2022-12-02T11:00
+
+### Keyphrase:
+
+>　サイバー攻撃によって病院の機能が一部停止している大阪急性期・総合医療センター（大阪市住吉区）で1日、被害に直面した医師が報道陣の取材にこう語った。
+
+CYBERATTACK;<br/>
+OSAKA EMERGENCY and Medical Treatment CENTER; <br/>
+huminto ang isang bahagi ng Pagamutan;
+
+>　10月末に攻撃を受けてからこの日で1カ月。病院と患者をつなぐ「電子カルテ」がランサムウェア（身代金ウイルス）によって破壊され、目の前にいる患者が誰なのかさえもわからなくなった病院の状態を「記憶喪失」と表現した。
+絶たれた「生命線」
+
+Isang buwan na ang lumipas;<br/>
+"ELECTRONIC CHART", winasak ng RANSOMWARE
+
+>　865床の総合医療センターは地域医療の拠点病院で、災害時の医療活動を担う「基幹災害拠点病院」にも指定されている。
+
+865 na higaan (BED);<br/>
+Itinatalaga bilang aako ng panggagamot sa panahon ng sakuna;
+
+>　毎日、多くの患者が訪れるため、医師たちは顔は覚えていても名前や病状を完全に把握しているわけではない。頼りとなるのは電子カルテだ。
+
+Araw-araw, sapagkat maraming mga may-sakit ang dumadalaw, kahit naaalala ng mga Manggagamot ang mukha nila, hindi ibig sabihin nitong kuha rin nila nang buo ang kanilang pangalan at kalagayan ng sakit; Inaasahan ang ELECTRONIC CHART.
+
+>　電子カルテには名前や住所、生年月日といった基本的な個人情報や、病状や既往歴、診察の予約日や処方している薬など、患者に関するありとあらゆる情報が記録されている。
+
+ELECTRONIC CHART: pangalan, tirahan, kapanganakan; mga pangunahing pansariling mga balita, kalagayan ng sakit, kasaysayan ng tirahan, itinakdang araw ng CONSULT/DIAGNOSIS, iminungkahing gamot (prescription), at anupang mga balita ukol sa may-sakit; 
+
+> そこにCT、MRIの撮影機器や会計処理など、部門ごとにさまざまなシステムが接続される。
+
+Doon, naka-ugnay sa sistema ang samu't saring mga UNIT, tulad ng Makina ng mga Larawan ng MRI, Pagbibilang ng mga Transaction (ACCOUNTING Cashier), atbp.
+
+>　電子カルテが作動しなければ、診察はおろか収入も絶たれ、経営危機に発展する恐れがある。いわば、病院の生命線と言える。
+
+Kapag hindi maipakilos ang ELECTRONIC CHART, tigil ang CONSULT, pati ang KITA (income); may panganib ng KRISIS sa ADMIN (Pagdaloy sa Kalakaran), i.e. ang buhay ng Pagamutan.
+
+>　その電子カルテに障害が発生したのは10月31日未明のことだった。
+
+>　この日は月曜日で、朝から多くの外来患者の来院が予想されていた。だが、電子カルテが失われた病院に、なすすべはなかった。
+
+--> Walang magawa ang Pagamutang nawalan ng ELECTRONIC CHART; 
+
+>　「『診察できません。申し訳…
+
+"Hindi makapaggamot. Patawad..."
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # [「子ども、いなくてもいい」と言う28歳の娘　この葛藤をどうすれば](https://www.asahi.com/articles/ASQD25DVQQCKULEI00F.html?iref=comtop_Topnews2_02); last accessed: 20221203
 
 >「子ども、いなくてもいい」と言う28歳の娘　この葛藤をどうすれば
