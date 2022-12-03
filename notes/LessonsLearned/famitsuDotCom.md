@@ -1,5 +1,47 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+# [天野喜孝さんの作品世界に入れるVRプロジェクトが始動。『FF』シリーズの展示エリアはナンバリングごとに異なった幻想的な世界が展開](https://www.famitsu.com/news/202211/07281899.html); last accessed: 20221108
+
+> 天野喜孝さんの作品世界に入れるVRプロジェクトが始動。『FF』シリーズの展示エリアはナンバリングごとに異なった幻想的な世界が展開
+
+Nagsimula nang kumilos ang VR PROJECT, kung saan inilalagay sa daigdig nito ang mga gawa ni G. AMANO, YOSHITAKA; Binuksan sa EXHIBIT AREA ng SERYE ng FF ang bawat isa nitong kakaibang, Kathang-isip na Daigdig;
+
+> 2022.11.07 21:30
+
+2022-11-07T21:30
+
+> 天野喜孝プロフィール
+
+AMANO, YOSHITAKA PROFILE
+
+> 1967年に15歳でアニメーション制作会社「(株)竜の子プロダクション」(現「(株)タツノコプロ」)に入社し、『タイムボカンシリーズヤッターマン』『昆虫物語みなしごハッチ』『新造人間キャシャーン』など、多数のキャラクターデザインを手がける。
+
+Taong 1967, sa taong gulang na 15, pumasok sa "PRODUCTION ng Anak ng Dragon (CORP); (ang Kasalukuyang) TATSUNOKO PRODUCTION (CORP)", isang Samahan ng Pagawaan ng ANIMATION; "TIME BOKAN SERIES YATTERMAN", "Salaysay ng INSEKTO: Ang Ampong Bubuyog", "Ang Panibagong Gawang Tao na si CASSHAN", atbp; Maraming bilang na mga CHARACTER DESIGN ang kanyang nahawakan.
+
+> 1982年に独立後、1987年より「ファイナルファンタジー」シリーズのロゴ、イメージイラストを担当、天野喜孝の世界観が広く知れ渡る大きなきっかけに。
+
+Pagkatapos niyang magsarili sa Taong 1982, mula Taong 1987, nanungkulan bilang IMAGE ILLUSTRATOR ng LOGO sa serye ng "FINAL FANTASY", at nagdulot ito ng malaking pag-usad sa paglawak ng pagkilala ng tao sa pandaigdigang paningin ni AMANO, YOSHITAKA.
+
+> 2000年ヒューゴー賞にノミネート。同年、アイズナー賞を受賞。ニューヨーク、ロンドン、パリなどで評価されているファインアートシリーズをはじめ、数多くの個展を国内外で開催するなど国を超えて人々を惹きつけ、現在も幅広い分野で世界的に活躍を続けている。
+
+Taong 2000, ginawaran ng NOMINATION sa Gantimpala ng HUGO. Sa taong ding iyon, nakatamo ng Gantimpala ng EISNER. Sa NEW YORK, LONDON, PARIS, atbp napuna halimbawa, ang  kaniyang serye ng FINE ART; umakit ng mga mamamayang lampas pa sa kaharian, sa pamamagitan ng pagbukas sa loob at labas nito ng maraming bilang ng mga SOLO EXHIBIT; kahit sa kasalukuyan, itinutuloy niya ang kaniyang pandaigdigang kilusan sa malawak na larangan.
+
+### Dagdag#1
+
+https://yoshitaka-amano.com/#/; last accessed: 20221108
+
+### Dagdag#2
+
+naaalala: ang kaniyang larawan sa GAME MAGASIN ng Amerka,<br/> 
+--> kung saan kasama niya si G. GAIMAN, NEIL<br/>
+--> sa isa ni G. AMANO, YOSHITAKA na SOLO EXHIBIT sa NEW YORK;<br/>
+--> keyphrase: Panther, Final Fantasy VI
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [植松伸夫氏のアレンジアルバム『Modulation』発売記念イベントリポート。「いまの自分の感覚で作り直した」『FF』楽曲を植松氏みずから演奏](https://www.famitsu.com/news/202211/10282327.html); last accessed: 20221111
 
 > 植松伸夫氏のアレンジアルバム『Modulation』発売記念イベントリポート。「いまの自分の感覚で作り直した」『FF』楽曲を植松氏みずから演奏
