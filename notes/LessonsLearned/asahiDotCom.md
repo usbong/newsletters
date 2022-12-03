@@ -12,6 +12,65 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [「子ども、いなくてもいい」と言う28歳の娘　この葛藤をどうすれば](https://www.asahi.com/articles/ASQD25DVQQCKULEI00F.html?iref=comtop_Topnews2_02); last accessed: 20221203
+
+>「子ども、いなくてもいい」と言う28歳の娘　この葛藤をどうすれば
+
+"Ayos lang kahit walang anak", ang sabi ng aking 28 taong gulang na anak na babae; Ano ang magagawa sa ganitong away?
+
+> 2022年12月3日 5時00分
+
+2022-12-03T05:00
+
+### Pinaikling Pagbubuod
+
+> 現在28歳の娘は、8歳年上の男性と結婚して3年目。夫婦の仲はむつまじく、穏やかに生活している様子です。
+むつ
+
+Ika-tatlong taon nang magpakasal ang aking kasalukuyang 28 taong gulang na anak na babae sa lalakeng nakatatanda sa kaniya ng 8 taon. Matiwasay ang samahan ng mag-asawa, at mapayapang namumuhay.
+
+### Paalala
+
+1) むつまじく : matiwasay
+
+2) 葛藤 : away
+
+> 夫（55）は幼い頃から娘を溺愛（できあい）しており、娘が結婚した当初から「孫は相当可愛いんだろうなぁ」と
+
+Mula pa nang pagkabata, minahal ng aking  asawa (55), ang aming anak na babae, at sa simula pa nang magpakasal siya, sinabi niyang: "Magiging kaakit-akit ang ating apo."
+
+### が、
+
+Gayunman
+
+> そのことを娘夫婦に言ったりほのめかしたりするようなことはしません。
+
+Hindi iyon sinasabi o ipinahihiwatig ng mag-asawa sa kanilang anak at kaniyang asawa.
+
+### Paalala
+
+ほのめかし : ipinahihiwatig
+
+
+> 友達の子どもを見ているとかわいいなぁと思うそうですが、自分が産み育てるというのとは別問題だそう。
+
+Bagama't maiisip na kaakit-akit ang magkaroon ng anak kapag tinitingnan ang sa kaibigan, sinasabing ibang suliranin na kapag sariling manganak at mag-alaga.
+
+>　孫のいる幸せを想像して...
+
+Kinathang-isip ang kaligayahan ng may apo...
+
+### Dagdag
+
+iminumungkahi: magkaroon ng anak ang mga marunong ng Maparaang Pagbibilang;<br/>
+--> dagdag: ito'y sa halip na dumami ang mga samahang (pamilyang) hindi marunong nito;
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # [中学受験後、子どもへの影響は　公立との差を分析「思い込み捨てて」](https://www.asahi.com/articles/ASQD24S3XQC8ULEI00J.html?iref=comtop_7_07); last accessed: 20221203
 
 > 中学受験後、子どもへの影響は　公立との差を分析「思い込み捨てて」
