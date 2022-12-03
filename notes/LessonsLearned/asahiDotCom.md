@@ -79,6 +79,19 @@ Upang tunay na sukatin ang bunga, ating hinimay kung paano nagbago ang bawat isa
 Upang malaman ang kasunod, kailangang maging nagbabayad na kasapi.
 
 
+### Paalala ng Diin
+
+> 先行研究が示す通り、私立中に進学する生徒は、もともと学力や親の学歴、収入も高い傾向にあります。
+
+Ayon nga sa ipinakikitang mga nangungunang pananaliksik: <br/>
+<br/>
+May gawi sa pagsulong tungo sa Pribadong Gitnang Paaralan, kapag sa simula't simula pa:<br/>
+
+1) mayroon silang kakayanan sa pag-aaral, 
+2) may kasaysayan ng pag-aaral ang mga Magulang, 
+3) mataas ang kita ng mga Magulang,
+4) atbp
+
 ### Sanggunian
 
 GOOGLE SEARCH ENGINE; TRANSLATE
