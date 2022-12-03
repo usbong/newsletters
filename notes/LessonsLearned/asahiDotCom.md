@@ -49,7 +49,7 @@ Araw-araw, sapagkat maraming mga may-sakit ang dumadalaw, kahit naaalala ng mga 
 
 >　電子カルテには名前や住所、生年月日といった基本的な個人情報や、病状や既往歴、診察の予約日や処方している薬など、患者に関するありとあらゆる情報が記録されている。
 
-ELECTRONIC CHART: pangalan, tirahan, kapanganakan; mga pangunahing pansariling mga balita, kalagayan ng sakit, kasaysayan ng tirahan, itinakdang araw ng CONSULT/DIAGNOSIS, iminungkahing gamot (prescription), at anupang mga balita ukol sa may-sakit; 
+ELECTRONIC CHART: pangalan, tirahan, kapanganakan; mga pangunahing pansariling mga balita, kalagayan ng sakit, kasaysayan ng sakit, itinakdang araw ng CONSULT/DIAGNOSIS, iminungkahing gamot (prescription), at anupang mga balita ukol sa may-sakit; 
 
 > そこにCT、MRIの撮影機器や会計処理など、部門ごとにさまざまなシステムが接続される。
 
