@@ -12,6 +12,78 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [中学受験後、子どもへの影響は　公立との差を分析「思い込み捨てて」](https://www.asahi.com/articles/ASQD24S3XQC8ULEI00J.html?iref=comtop_7_07); last accessed: 20221203
+
+> 中学受験後、子どもへの影響は　公立との差を分析「思い込み捨てて」
+
+Ano ang dulot sa mga bata, pagkatapos ng Pagsusulit tungo sa Gitnang Paaralan? "Itapon ang mga akala"; Paghimay sa pagitan ng Pampubliko at Pampribado
+
+> 田渕紫織2022年12月3日 5時30分
+
+TABUCHI, SHIORI; 2022-12-03T05:30
+
+### Pinaikling Pabubuod
+
+>　中学受験をするか、しないか。悩む人も多いと思いますが、実際の進学後、子どもにどんな影響があるのでしょうか。
+
+Kukuha ka ba ng pagsusulit tungo sa Gitnang Paaralan, o hindi? Bagama't sa tingin ko maraming tao ang pinangangambahan ito, ano ba kayang uri ng dulot ang mayroon ito sa mga bata, pagkatapos ngang sumulong ng pag-aaral?
+
+>「不安」の正体は何？
+
+Ano ang tunay na anyo ng "pangamba"?
+
+> 周囲でも中学受験への関心を耳にすることが多いです。
+
+Kahit sa paligid, marami ang madirinig na pag-aalala ukol sa pagsusulit tungo sa Gitnang Paaralan.
+
+### Paalala
+
+> 不安感
+
+Pakiramdam ng pangamba
+
+### Pananaliksik
+
+> 見かけ上ではなく実際の効果は
+
+Gawing hindi batayan kung ano lamang ang simulang nakita; sa halip, gamitin ang sa tunay na bunga 
+
+>　――中学受験をするかどうかの選択には、親の個人的な経験や周囲の親子の影響も大きいように感じます。
+
+Pakiramdam ko, malaki ang dulot ng nakapaligid na Magulang at ang kanilang sariling karanasan sa pagpili ng sagot kung kukuha ba o hindi ng pagsusulit tungo sa Gitnang Paaralan.
+
+> どうしても教育分野は、客観的なデータよりも主観的な経験によって語られてしまう部分が多くあります。
+
+Sa larangan ng Pagtuturo't Pag-aalaga (EDUKASYON), anuman ang gawin, marami talagang bahagi nito ang naisasalaysay batay sa karanasan mula sa pagtingin ng pangunahing tauhan, kaysa sa DATOS mula sa pagtingin ng dumadalaw na tauhan. 
+
+> 実際に進学することが本人の学びや成長に及ぼす「影響」についても、学術的に明らかにする必要があると考えました。
+
+Ukol din sa tunay na "DULOT" ng pagsulong sa pag-aaral, sa pagkatuto, paglago, atbp ng tao, pinagnilayan kong kailangang linawin ito gamit ang may pag-aaral na paraan.
+
+### Diin
+
+>　先行研究が示す通り、私立中に進学する生徒は、もともと学力や親の学歴、収入も高い傾向にあります。
+
+Ayon nga sa ipinakikitang mga nangungunang pananaliksik, may gawi ang mga mag-aaral na sumulong tungo sa Pribadong Gitnang Paaralan, kapag sa simula't simula pa mayroon silang kakayanan sa pag-aaral, may kasaysayan ng pag-aaral ang mga Magulang, mataas ang kanilang kita, atbp.
+
+> 私立中などへの進学が生徒の知識やスキルを高めているとも言われる一方で、元々そうした生徒が集まりがちなために、見かけ上効果が出ている可能性もあるのです。
+
+Sa pagsabi na itinataas ng pagtungo sa Pribadong Gitnang Paaralan, ang kaalaman (know-how), skill (kakayanan), atbp ng mga mag-aaral, may nakikitang bunga ito, batay sa mga dating mag-aaral na ginawa rin ang ganoon.
+
+>　実際の効果を測るために、それぞれの生徒個人が進学によってどう変わったのかを分析しました。
+
+Upang tunay na sukatin ang bunga, ating hinimay kung paano nagbago ang bawat isang mga mag-aaral na nagtungo sa Gitnang Paaralan.
+
+### Paalala
+
+Upang malaman ang kasunod, kailangang maging nagbabayad na kasapi.
+
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 # [「戦術・三笘薫」可能にするドリブル　卒論監修の恩師が見抜いた才能](https://www.asahi.com/articles/ASQCR3JDKQCQUTQP00R.html?iref=comtop_ThemeRightS_02); last accessed: 20221202
 
 >「戦術・三笘薫」可能にするドリブル　卒論監修の恩師が見抜いた才能
