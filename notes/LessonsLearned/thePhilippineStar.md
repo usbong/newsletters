@@ -1,5 +1,50 @@
 # Lessons-learned: The Philippine STAR
 
+## “DO 'FREEDOM WALLS' SET US FREE?” (20221202; FRIDAY)
+
+### Author
+
+TUVIERA, MAYA
+
+### Keyphrase
+
+> What would we tell the world if no one held us responsible for it?
+
+> sexual harassment and violence
+
+> naming of people
+
+> The fundamental difference between freedom walls and real-life lies in anonymity and ease: when the two are combined, responsibility becomes optional and discourse can turn ugly.
+
+> FREEDOM WALL
+
+> University of the Philippines (UP)
+
+> Ateneo de Manila University (ADMU)
+
+> De La Salle University (DLSU)
+
+> Xavier-ICA
+
+> La Salle Greenhills (LSGH)
+
+
+reminder: OUTPUT = NEGATIVE EMOTION<br/>
+<br/>
+--> notes: select MANLOLOKO group members to misuse such technique<br/> 
+--> with wireless broadcasting technology to cause PANLOLOKO;<br/>
+--> keyphrase: unsolicited wireless broadcasting of IDEAS<br/>
+--> adds: QUICK MONEY, EXCESS MONEY, ILLEGAL DRUGS, NOISE POLLUTION, NO COMMUNICATION<br/>
+--> where: QUICK MONEY : from TAX EVATION, SMUGGLING, et cetera;
+
+### Recommended ACTION: 
+
+file: incident reports with web service system AND law enforcement;<br/>
+--> share: know-how with MAJORITY<br/>
+--> reminder: NO NEED to OBEY GAWA-GAWANG RULES by MANLOLOKO group;
+
+
+
 ## “Vietnam lawmakers' visit seen to enhance ties with Phl” (20221124; THURSDAY)
 
 ### Author
