@@ -4,6 +4,33 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+# https://www.youtube.com/watch?v=9U3QkIZyjWo;
+last accessed: 20221205
+
+> 昔は昔 いまはいま 【雑談】<br/>
+> 桜井政博のゲーム作るには<br/>
+> 474K subscribers
+
+> 151,337 views  Dec 2, 2022<br/>
+> 私はかなり長くゲームにつきあっており､昔のゲームもいまのゲームも知っています｡<br/>
+> 昔話ばかりしていてはもったいない｡<br/>
+> しかし過去の蓄積あってこそのいまです｡
+
+## Paalala
+
+> 昔は昔 いまはいま
+
+Ang NOON, NOON; Ang KASALUKUYAN, KASALUKUYAN;
+
+> 積極的にやりたいことを進めたり<br/>
+> 新しいものにチャレンジしてみたりするのが、<br/>
+> 良いではないかと
+
+Kusang isulong ang mga bagay na nais gawin,<br/>
+subukan bilang hamon ang mga panibagong bagay;<br/>
+Hindi ba raw ayos ito?
+
+
 # https://www.youtube.com/watch?v=u3phczQfi90; 
 last accessed: 20221201
 
