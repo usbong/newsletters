@@ -12,6 +12,64 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [川崎で、ドイツで、田中碧は考え抜いた　人生を切り開いた前向き志向](https://www.asahi.com/articles/ASQD44G0XQD3PTQP00H.html?iref=comtop_7_02); last accessed: 20221205
+
+> 川崎で、ドイツで、田中碧は考え抜いた　人生を切り開いた前向き志向
+
+Ang naisip ni TANAKA, AO, sa KAWASAKI (Lungsod), at sa ALEMNYA; Ang Hangaring nagbubukas ng Buhay tungo sa Hinaharap 
+
+> 堤之剛2022年12月5日 7時47分
+
+TSUTSUMI, TAKESHI; 2022-12-05T07;47
+
+### Pinaikling Pagbubuod
+
+>「自分はワールドカップ（W杯）で点を取ると言っていたので、必然といえば必然。偶然といえば偶然」
+
+"Sapagkat sinabi kong kukuha ako ng marka sa WORLD CUP, kapag sinabing kailangan, kailangan. Kapag sinabing tsamba, tsamba nga."
+
+>「今日だけは喜びたいなと思うけど、もっと自分がやらないといけないことが見えた」
+
+"Bagama't naisip ko mang magpakasarap kahit ngayong araw lang, nakikita kong may kailangan pa akong kailangang gawin."
+
+>　そもそも、プロになれるかどうか、当落線上だった。
+
+Dumating ako sa aking kasalukuyang kinaroroonan, kung saan kahit sa simula't simula pa, tinatanong ako kung magiging PRO ba ako o hindi? 
+
+>　突出した身体能力や高い技術があるわけではない。
+
+Hindi naman kasi ito biglang magkakaroon ako ng mamahaling TEKNOLOHIYA, kakayanang pangangatawan, atbp.
+
+>　だから、自分で自分を追い立てて、成長させてきた。
+
+Kung kaya't, sarili kong hinahabol ang aking sarili, upang palaguin ito.
+
+>	「自分はもっていると思っているので。そうやって、のし上がってきた部分もあるので」
+
+"Alam ko kasing mayroon ako nito. Sa paggawa nito, may mga (kulang na) bahagi rin kasi akong naiaangat."
+
+>　ネイマールらを擁するチームに0―1で敗れた。スコア以上の実力差だった。
+
+Talo ng 0-1 sa pangkat na hawak nila NEYMAR (ng BRAZIL). Higit pa sa SCORE, kulang ang bunga ng aming kakayanan.
+
+### Paalala
+
+実 = tunay, bunga
+
+>　でも、一夜明けると、田中は言った。
+
+Gayunman, nang lumiwanag ang isang gabi, sinabi ito ni TANAKA:
+
+>　「サッカーをやり続けていく…
+
+Itutuloy ko ang SOCCER...
+	
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # [電子カルテ失われ、この患者「誰やねん」　「記憶喪失」に陥った病院](https://www.asahi.com/articles/ASQD176W4QD1ULZU00P.html?iref=comtop_Tech_science_03); last accessed: 20221203
 
 > 電子カルテ失われ、この患者「誰やねん」　「記憶喪失」に陥った病院
