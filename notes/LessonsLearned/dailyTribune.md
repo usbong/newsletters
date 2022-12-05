@@ -1,5 +1,83 @@
 # Daily Tribune
 
+# "Presumptive death" (20221202; Friday)
+
+## LEGAL FORUM
+
+## Author
+
+ATTY. JOJI ALONSO & ASSOCIATES
+
+### Family Code of the Philippines
+
+> "Article 41. A marriage contracted by any person during the subsistence of a previous marriage shall be null and void, unless before the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead."
+
+--> where: subsistence : existence, i.e. NOT null and void<br/>
+<br/>
+--> requires: executing summary proceeding to declare presumptive death<br/>
+<br/>
+--> adds: "well-founded belief" : ACTIVE EFFORT to ascertain NOT only the absent spouse's location<br/>
+--> but more importantly, whether the latter is still alive or is already dead.<br/>
+<br/>
+--> adds: OUTPUT based on circumstances occurring before and after<br/> 
+--> the disappearance of the absent spouse to execute ACTION,<br/>
+--> where: ACTION : ACTIVE EFFORT via inquiries to search location of missing spouse<br/>
+--> reminder: inquiries have nature and extent <br/>
+<br/>
+--> adds: burden of proof rests on the present spouse
+
+### Paalala
+
+> He who alleges a fact has the burden of proving it and a mere allegation is not evidence.
+
+
+### Dagdag
+
+#### 1) FACT: 
+
+1.1) MANLOLOKO group misuses WIRELESS BROADCASTING TECHNOLOGY to get QUICK MONEY,<br/>
+--> where: QUICK MONEY via ILLEGAL ACTIONS, e.g. TAX EVASION, SMUGGLING, CARNAPPING;<br/>
+<br/>
+--> where: EXCESS MONEY's OUTPUT = NOISE POLLUTION,<br/>
+<br/>
+--> whose: content via keyphrase classifies group members to be with ILLEGAL DRUGS;<br/>
+<br/>
+--> adds: as reminder: NO COMMUNICATION via WIRELESS BROADCASTING TECHNOLOGY<br/> 
+--> of MANLOLOKO group with ILLEGAL DRUGS;<br/>
+<br/>
+--> reminder: there exists telephone with CLEAR sender and receiver;<br/>
+<br/>
+1.2) MANLOLOKO group members CAN be identified based on continuous NOISE POLLUTION
+
+#### 2) Proofs of FACT:
+
+2.1) POLICE REPORTS identifying MANLOLOKO members<br/>
+<br/>
+2.2) MANLOLOKO members do NOT file POLICE REPORTS;<br/>
+--> adds: as reminder, those who have filed<br/> 
+--> may still be verified based on LIFESTYLE;<br/>
+<br/>
+2.3) MANLOLOKO members' LIFESTYLE based on INCOME<br/>
+--> whose: VALUE classified to be QUICK MONEY,<br/>
+--> where: QUICK MONEY : noticeably in-excess from INCOME<br/>
+--> due to: TAX EVASION<br/>
+<br/>
+2.4) MANLOLOKO members' continuous NOISE POLLUTION;<br/>
+--> classified: as REPEAT of INCORRECT ACTIONS<br/>
+--> due to: NEED for QUICK MONEY<br/>
+
+#### 3) Reminders
+
+3.1) Police Units verify if person with incident report is CERTAIN;<br/>
+--> <b>Usbong Recommended Action:</b> include in report know-how of techniques<br/>
+--> keyphrase: TIYAK;
+
+3.2) Select people *pretend* to NOT hear the NOISE POLLUTION<br/>
+--> <b>Usbong Recommended Action:</b> surround self with people classified to be NOT MANLOLOKO,<br/>
+--> where: people have know-how as applied with WORK<br/>
+--> whose: OUTPUT is to have NO NEED for QUICK MONEY
+
+
 # "Drooling fools eye Inspector General post" (20221202; Friday)
 
 ## SOUTHERN OPTICS
