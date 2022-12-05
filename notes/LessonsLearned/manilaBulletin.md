@@ -1,5 +1,14 @@
 # Lessons-learned from: Manila Bulletin
 
+## "P/$ rate closes at P56.22/$1" (20221202; FRIDAY)
+
+### NEWS IN BRIEF
+
+### Keyphrase
+
+closing @P56 (approx) from previously, P59 (approx)<br/>
+--> adds: Month of DECEMBER
+
 ## "Metrobank grows earnings by 45% to P23.4 billion" (20221105; SATURDAY)
 
 ### Author
