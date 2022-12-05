@@ -1,5 +1,28 @@
 # Daily Tribune
 
+# "Drooling fools eye Inspector General post" (20221202; Friday)
+
+## SOUTHERN OPTICS
+
+## Author
+
+LEDESMA, JUN
+
+## Keyphrase
+
+President MARCOS, FERDINAND R JR<br/>
+--> personal motivation: "restore the dignity and honor of his late father"<br/>
+<br/>
+1) Armed Forces of the Philippines (AFP)<br/>
+2) Philippine National Police (PNP)<br/>
+--> have: both security of tenure; fixed terms;<br/>
+
+> Their promotions and conduct are governed by the rules and regulations, established career patterns, and criteria of the institutions. They are neither co-terminus, casual, or contractual. They retire at age 56.
+
+--> PNP: Internal Affairs Service Unit<br/>
+--> institutional watchdog of PNP<br/>
+--> objective: Unit who guards the Unit of the Guards
+
 # "Phl life expectancy declines by 2 years" (20221124; Thursday)
 
 ## Author
