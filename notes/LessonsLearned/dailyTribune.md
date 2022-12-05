@@ -53,7 +53,7 @@ ATTY. JOJI ALONSO & ASSOCIATES
 
 2.1) POLICE REPORTS identifying MANLOLOKO members<br/>
 <br/>
-2.2) MANLOLOKO members do NOT file POLICE REPORTS;<br/>
+2.2) MANLOLOKO members who do NOT file POLICE REPORTS;<br/>
 --> adds: as reminder, those who have filed<br/> 
 --> may still be verified based on LIFESTYLE;<br/>
 <br/>
