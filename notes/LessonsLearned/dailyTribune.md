@@ -1,5 +1,50 @@
 # Daily Tribune
 
+# "Drug war must continue, *ex proprio vigore!*" (20221202; Friday)
+
+## COUNTERPOINT
+
+## Author
+
+PANELO, SALVADOR S
+
+## Keyphrase
+
+> "Six months after the departure of the former President, there appears an incipient resurgence of the drug menace."
+
+WAR on DRUGS : heart and soul of the Duterte presidency<br/>
+--> adds: Drug Trade threatens an ENTIRE GENERATION<br/>
+
+### OUTPUTS:
+--> 1) millions of families dysfunctional;<br/>
+--> 2) corrupted government officials,<br/>
+--> even Police Generals of the Philippine National Police (PNP)<br/>
+--> adds: infected thousands of barangays<br/>
+--> CANCER that needed to be excised;<br/>
+
+> The drug war must continue, *ex propio vigore* (with full force and effect)!
+
+### Paalala#1
+
+> *ex propio vigore*
+
+--> *ex* = out<br/>
+--> *propio* = own<br/>
+--> *vigore* = vigor, energy<br/>
+<br/>	
+--> adds: ITALIANO language nearest of ROMANCE LANGUAGES to LATIN;<br/>
+--> where: ROMANCE LANGUAGES include: español, français; <br/>
+--> example: *propio* = proprio in español
+
+### Paalala#2
+
+QUICK MONEY, EXCESS MONEY, NOISE POLLUTION, ILLEGAL DRUGS, NO COMMUNICATION<br/>
+--> where: QUICK MONEY : TAX EVASION
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 # "Presumptive death" (20221202; Friday)
 
 ## LEGAL FORUM
