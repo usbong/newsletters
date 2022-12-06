@@ -1,5 +1,54 @@
 # Lessons-learned: The Philippine STAR
 
+## “Preventing crypto runs” (20221202; FRIDAY)
+
+### Author
+
+VILLANUEVA, LITO
+
+### Keyphrase
+
+cryptocurrency = digital currency<br/>
+--> "crypto" token can be exchanged for certain goods, services, and investments;<br/>
+--> adds: issued without regulation<br/>
+--> objective: "immune" to government regulations, taxation, inflation, and economic instability<br/>
+--> keyphrase: self-governed<br/>
+--> OUTPUT#1: money transfers cheaper and quicker;<br/>
+--> OUTPUT#2: peer-to-peer transactions are secure and private;
+
+### Problem
+
+NO Safety and Trust in SYSTEM causes FAILURE
+
+### Solution
+
+1) Regular Auditing
+2) Make PUBLIC the liquidity of exchanges
+
+### History as Example
+
+In Year 2022, FTX declined<br/>
+--> where: FTX : system with one of world's top larges crypto exchanges<br/>
+--> adds: founded by BANKMAN-FRIED, SAM in Year 2019;<br/>
+
+
+#### Technique used to increase 1) popularity and 2) fortune:
+
+--> marketing#1: higher yields, low trading fees;<br/>
+--> marketing#2: celebrity endorsement from BRADY, TOM; CURRY, STEPH; OSAKA, NAOMI; BÜNCHEN, GISEL;<br/>
+--> marketing#3: high-profile sports partnerships 
+
+#### Technique used to attempt to solve PROBLEM;
+
+--> transfer set funds @10USD Billion to another of BANKMAN-FRIED's crytpo-investing firm, Alameda Research<br/>
+--> adds: identified FTX's own version of digital tokens to be of rival's Binance;<br/>
+--> adds: Binance to withdraw from FTX;<br/>
+--> OUTPUT#1: token value based on price CRASHED;<br/>
+--> keyphrase; "crypto run"<br/>
+--> OUTPUT#2: PUBLIC FEAR as with massive pull-out of assets<br/> 
+--> from traditional banks to cause bank to be bankrupt;
+
+
 ## “DO 'FREEDOM WALLS' SET US FREE?” (20221202; FRIDAY)
 
 ### Author
