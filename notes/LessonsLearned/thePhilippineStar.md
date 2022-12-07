@@ -1,5 +1,41 @@
 # Lessons-learned: The Philippine STAR
 
+## “HSBC consolidates operations in Phl” (20221207; WEDNESDAY)
+
+### Author
+
+Agcaoili, Lawrence
+
+### Keyphrase
+
+HSBC Philippines<br/>
+--> where: HSBC = Hong-Kong and Shanghai Banking Corporation;<br/>
+--> British Bank<br/>
+--> 147th anniversary in 2022-11<br/>
+--> since: 1875<br/>
+--> president and CEO: UPPAL, SANDEEP<br/>
+--> services: in Manila, Cebu, and Davao<br/>
+--> adds: also @over 60 countries<br/>
+<br/>
+--> Global banking giants Citi and ING,<br/>
+--> exited the country's retail banking;
+
+#### ACTION
+
+combine: HSBC Philppines with HSBC Savings Bank;<br/>
+--> centralize: HSBC Wealth Inc. to be HSBC Investment and Insurance Brokerage Philippines Inc. (HIIB)<br/>
+<br/>
+--> branches: in MANILA: Greenhills, Rockwell, Alabang<br/>
+--> keyphrase: vehicles, fuel;<br/>
+
+### Paalala
+
+Savings BANK : higher income via savings than Commercial BANK;<br/>
+--> keyphrase: "Savings"<br/>
+--> adds: select BANKS, e.g. BPI, to have also combined commercial and saving as ONE;
+
+
+
 ## “Ex-STAR managing director Antonio Katigbak, 77” (20221207; WEDNESDAY)
 
 ### Author
