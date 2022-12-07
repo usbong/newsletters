@@ -1,5 +1,51 @@
 # Lessons-learned: The Philippine STAR
 
+## “Ex-STAR managing director Antonio Katigbak, 77” (20221207; WEDNESDAY)
+
+### Author
+
+The Philippine Star: NEWS
+
+### Keyphrase
+
+KATIGBAK, ANTONIO<br/>
+former managing and business editor of The STAR<br/>
+died on Monday (2022-12-05) <br/>
+@HOME in BF Homes, Parañaque;<br/>
+77 years old<br/>
+<br/>
+--> notes: to have served The STAR 1993~2012;<br/>
+--> cause of death: still unknown;<br/>
+--> adds: however, poor health since 2011-10 from STROKE<br/>
+<br/>
+--> notes: to have worked as sub-editor @The Fookien Times;<br/>
+--> where: was run by Go Puan Seng;<br/>
+--> adds: met there, Go's Eldest daugther, GO-BELMONTE, BETTY;<br/>
+--> who: founded The STAR with SOLIVEN, MAX;<br/>
+<br/>
+--> notes: to have joined San Miguel Corp.,<br/>
+--> adds: later, Philex Minig as PR executive<br/>
+--> adds: migrated to the U.S.A. in mid-1980s;<br/>
+--> adds: worked there for 5 years;<br/>
+--> adds: returned home in Philipines to work @Atlas Mining;<br/>
+--> adds: afterwards, joined the STAR<br/>
+<br/>
+--> notes: KATIGBAK family to be of journalists;<br/>
+--> adds: his father, PAUL, worked @Chicago Daily News for 6 years after graduating <br/>
+--> from Medill School of Journalism of the Northwestern University<br/>
+--> adds: had worked for several Manila newspapers <br/>
+--> adds: then joined the Department of Foreign Affairs;<br/>
+<br/>
+--> adds: his brother, Jose, was bureau chief and chief correspondent of *Reuters* for 40years;<br/>
+--> keyphrase: wars, social upheavals in the world;<br/>
+<br/>
+--> adds: his daughter, Michelle, to be contributing writer of the *Lifestyle* section @the STAR <br/>
+
+### Dagdag
+
+1) verified: LIFE's OUTPUT after select ACTIONS;
+
+
 ## “Preventing crypto runs” (20221202; FRIDAY)
 
 ### Author
