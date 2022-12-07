@@ -12,6 +12,65 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [「ヤクザはETC使うな」高速道で規制強化へ　組幹部は「徹底抗戦」](https://www.asahi.com/articles/ASQD16S7YQCXULFA00G.html?iref=comtop_7_01); last accessed: 20221207
+
+>「ヤクザはETC使うな」高速道で規制強化へ　組幹部は「徹底抗戦」
+
+"Huwag ipagamit ang ETC sa YAKUZA!" Tungo sa paghihigpit ng daanang pangmabilisan (highway); Paghahanda sa "Labanan hanggang dulo" ng Sindikato
+
+> 藤田知也2022年12月7日 7時00分
+
+TOMOYA, FUJITA; 2022-12-07T07:00
+
+### ETC?
+
+> 高速6社が規制を強めるのは、デポジット式のETCパーソナルカード（ETCパソカ）。上限額に応じた保証金を預かり、実際の利用料は銀行などの口座から引き落とす仕組みだ。クレジットカードを持たない人でもETCが使えるようにするサービスで、暴力団員にも広く利用されてきた。
+
+ETC = Deposit System using Personal Cards<br/>
+--> pakay: palakasin ang paghihigpit sa daanang pangmabilisan;<br/>
+--> paraan: mekanismo kung saan humuhugot mula sa account ng BANGKO, atbp sa bawat paggamit;<br/> 
+--> may itinatabing halaga bilang GARANTIYA (ng pagbayad) sa pinakamataas na gastos;<br/>
+--> dagdag: paglilingkod (serbisyo) ito kung saan makagagamit ang walang credit card, ng ETC;<br/> 
+--> Dahil dito, malawak na nagagamit ito ng mga kasapi ng Magugulong Samahan. 
+
+### --
+
+> 愛知県内の高速道を毎日のように走っているといい
+
+Sinasabing sa loob ng Bahagi ng AICHI, mukhang araw-araw na pumapasada ang Magugulong Samahan sa highway;
+
+>　高速道路会社6社が、暴力団の規制強化に動き出す。近い将来に「ETC専用化」を見据えるなか、暴力団員がETCを使える手段を封じ、現金での利用に制限する方針だ。
+
+Polisyang isinasara ang paraan upang makagamit ang mga kasapi ng Magugulong Samahan ng ETC, at sa halip, CASH lamang ang kanilang maaaring gamitin. 
+
+> 渋滞緩和やコスト削減にも役立つはずのETCを使わせない理由はなにか。暴力団側は徹底抗戦の構えだ。
+
+Ano ang dahilan kung bakit hindi ipinagagamit ang ETC, gayo'ng nakatutulong ito sa pagluwang ng TRAPIKO, pagbaba ng COST, atbp? Paghahanda kasi ito sa labanan hanggang dulo sa banda ng mga Magugulong Samahan.
+
+
+> ETCから暴力団を締め出すメリットや目的はなにか。膨らむコストはだれが負担するのか。公共サービスの暴力団排除はどうあるべきか。鉄道や携帯などの事例とともに考えます。
+
+Kabilang ito sa pinagnilayang mga bagay kung ano ang kailangan ng pampublikong paglilingkod (SERBISYO) upang tanggalin ang Magugulong Samahan. Kabilang din dito ang tren, hawak na telepono, atbp.
+
+>　規制強化のきっかけは、愛知県警が9月に暴力団員9人を逮捕したこと。
+
+Udyok ng paghihigpit ng mga patakaran ang paghuli ng Pulis ng AICHI nitong ika-9 na buwan sa 9 kasapi ng Magugulong Samahan.
+
+### --
+
+> 事前に弁護士と規約を読み込み、コールセンターに「暴力団組員が入会しても大丈夫か？」と尋ね、「大丈夫」と言われた者もいた。名古屋地検もそうした事情を把握し、不起訴にしたとみられる。
+
+Nang tinanong ang CALL CENTER kung ayos lang na idagdag ang kasapi ng kanilang Sindikato, ayos naman daw. At nakikitang wala namang reklamo sa pook ng NAGOYA.
+
+> 暴力団員であることを隠してETCパソカの交付を受けた詐欺の疑いだとされたが、いずれも不起訴処分となった。冒頭の組幹部もその一人だ。
+
+Bagama't may hinala ng panloloko nang nagbayad na sa ETC Personal Card ang nagpanggap na hindi kasapi ng Magugulong Samahan, nailakad ito nang walang anumang reklamo. Isa rin doon ang Pinuno ng Sindikato.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 # [川崎で、ドイツで、田中碧は考え抜いた　人生を切り開いた前向き志向](https://www.asahi.com/articles/ASQD44G0XQD3PTQP00H.html?iref=comtop_7_02); last accessed: 20221205
 
 > 川崎で、ドイツで、田中碧は考え抜いた　人生を切り開いた前向き志向
