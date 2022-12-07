@@ -28,9 +28,10 @@ TOMOYA, FUJITA; 2022-12-07T07:00
 
 ETC = Deposit System using Personal Cards<br/>
 --> pakay: palakasin ang paghihigpit sa daanang pangmabilisan;<br/>
---> paraan: mekanismo kung saan humuhugot mula sa account ng BANGKO, atbp sa bawat paggamit;<br/> 
---> may itinatabing halaga bilang GARANTIYA (ng pagbayad) sa pinakamataas na gastos;<br/>
---> dagdag: paglilingkod (serbisyo) ito kung saan makagagamit ang walang credit card, ng ETC;<br/> 
+--> paraan: mekanismo kung saan humuhugot mula sa account ng BANGKO, atbp <br/>
+--> at inihuhulog dito sa paggamit ng halaga (sa pagbayad);<br/> 
+--> dagdag#1: may itinatabing halaga bilang GARANTIYA (ng pagbayad) sa pinakamataas na magagastos;<br/>
+--> dagdag#2: paglilingkod (serbisyo) ito kung saan makagagamit ng ETC ang mga walang credit card;<br/> 
 --> Dahil dito, malawak na nagagamit ito ng mga kasapi ng Magugulong Samahan. 
 
 ### --
