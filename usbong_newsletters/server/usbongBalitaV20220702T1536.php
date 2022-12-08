@@ -6,9 +6,8 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20221208; from 20220702
+  @date updated: 20220702; from 20220701
   @website address: http://www.usbong.ph
-  
   Input:
   1) Lessons-learned HTML TEXT FILE
   Output:
@@ -48,8 +47,7 @@
 	
     <style type="text/css">
 	/**/
-	
- 						body
+	                    body
                         {
 							font-family: Arial;
 							
@@ -80,11 +78,7 @@
 							/*
 							width: 520px;
 							*/
-							
-							/* //edited by Mike, 20221208
 							width: 50%;
-							*/	
-							width: 100%;
 
 							padding-left: 5%;
 							
@@ -96,44 +90,6 @@
 							text-align: justify;
 							text-justify: inter-word;							
                         }
-                        	
-	                    div.mainTextDiv
-                        {
-							font-family: Arial;
-							
-							/*	//removed by Mike, 20220701
-							  font-size: 16pt;
-							*/
-
-							color: rgb(30,30,30); /*rgb(120,63,4);*/
-							font-weight: bold;
-
-							width: 100%;
-							
-							padding-left: 5%;
-														
-							text-align: justify;
-							text-justify: inter-word;							
-                        }
-                        
-						div.newsListAtRightPanelDiv
-                        {
-							font-family: Arial;
-							
-							/*	//removed by Mike, 20220701
-							  font-size: 16pt;
-							*/
-
-							color: rgb(30,30,30); /*rgb(120,63,4);*/
-							font-weight: bold;
-
-							width: 50%;
-
-							padding-left: 5%;
-														
-							text-align: justify;
-							text-justify: inter-word;							
-                        }                        
 									
 						/* TO-DO: -update: this to include body */
 						body.mobileBody {
@@ -151,7 +107,7 @@
 						{
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 32pt; /*12pt;*/
+							font-size: 12pt;
 							color: rgb(0,0,0); /* black */
 						}
 						
@@ -209,12 +165,7 @@
 							/*  //edited by Mike, 20220630
 								//TO-DO: -reverify: this
 							*/
-/*
-							max-width: 100%;
-*/
-							width: 50%; 
-
-							
+							max-width: 100%; /*60%;*/
 							height: auto;
 							float: left;
 							text-align: center;
@@ -267,22 +218,12 @@
 							font-size: 14pt;							
 						}
 						
+
 						
 						table.imageTable
 						{
-							width: 90%;
+							width: 100%;
 						}						
-
-						table.bodyTable
-						{
-							width: 90%;
-						}	
-						
-	                    td.mainTextTd
-                        {
-							width: 50%;
-                        }
-
 
 						td.imageTableColumn
 						{
@@ -609,7 +550,10 @@ window.onclick = function(event) {
 } 
 */
 	  </script>
-
+	  
+<!-- edited by Mike, 20220628	  
+  <body>
+-->
 <?php
 	//added by Mike, 20220628
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
@@ -709,6 +653,7 @@ window.onclick = function(event) {
 	$sWebAddressBasePath = "http://store.usbong.ph";
 ?>
 
+
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">			
@@ -721,7 +666,6 @@ window.onclick = function(event) {
 				<b>BALITA</b>
 			</div>		
 		</td>
-<!-- //removed by Mike, 20221208
 		<td class="menuColumn">
 			 <div class="menuIconDiv" onclick="myFunction(this)">
 			  <div class="bar1"></div>
@@ -729,7 +673,6 @@ window.onclick = function(event) {
 			  <div class="bar3"></div>
 			</div> 		
 		</td>
--->	
 	</table>
 	<br/>
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
@@ -766,15 +709,6 @@ window.onclick = function(event) {
 	</table>
 -->
 
-<?php
-	//added by Mike, 20221208
-	if (isMobile()) {		
-	}
-	else {
-		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
-		echo "<div class='mainTextDiv'>";
-	}
-?>
 
 <!-- Category Header -->
 <!-- TO-DO: -reverify: this -->
@@ -842,20 +776,6 @@ May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindaha
 Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
 	</div>
 
-	<!-- //added by Mike, 20221208 -->
-	
-	</div>
-	</td>
-	<!-- right column -->
-	<td>
-	<div class='newsListAtRightPanelDiv'>
-		1. Halimbawa <br/>
-		2. Halimbawa <br/>
-		3. Halimbawa <br/>
-	</div>
-	</td>
-	</tr></table>
-	
 	<br/>
 	<br/>
 	<div class="copyright">
@@ -865,6 +785,6 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 				Creative Commons Attribution License BY 4.0
 			</a>
 		</span>
-	</div>			 
+	</div>		 
   </body>
 </html>
