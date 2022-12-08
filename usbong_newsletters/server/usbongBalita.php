@@ -281,12 +281,21 @@
 	                    td.mainTextTd
                         {
 							width: 50%;
+							border: 1px solid #ab9c7d;	
+							padding-right: 2%;						
                         }
 
 
-						td.imageTableColumn
+						td.imageTableColumnTd
 						{
 							border: 1px solid #ab9c7d;
+						}
+						
+						td.newsListAtRightPanelColumnTd {
+							border: 1px solid #ab9c7d;
+							vertical-align: top;
+							padding: 5%;
+							padding-left: 0%;
 						}
 
 						table.noteTable
@@ -847,7 +856,7 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 	</div>
 	</td>
 	<!-- right column -->
-	<td>
+	<td class="newsListAtRightPanelColumnTd">
 	<div class='newsListAtRightPanelDiv'>
 		1. Halimbawa <br/>
 		2. Halimbawa <br/>
