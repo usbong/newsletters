@@ -1,5 +1,47 @@
 # Lessons-learned from: Manila Bulletin
 
+## "NBI to probe links of BI officials to human trafficking" (20221202; FRIDAY)
+
+### Author
+
+DAMICOG, JEFFREY G
+
+### Keyphrase
+
+National Bureau of Investigation (NBI)<br/>
+--> notes: human trafficking syndicates,<br/>
+--> who: use connections with Bureau of Immigration (BI) and airport terminal officials;<br/>
+--> objective: get Filipinos out of Philippines;
+
+### Example
+
+promise: telemarketing work in Mae Sot, Thailand;<br/>
+--> OUTPUT: crypto-scammer in Myanmar;
+
+### MODUS OPERANDI
+
+--> where: target's passport received stamp, <br/>
+--> without going through the immigration counter<br/>
+--> adds: binigyan siya ng pekeng ID ng WHSmith,<br/>
+--> where: WHSmith : tindahan sa NAIA Terminal 3<br/>
+--> objective: magpanggap bilang empleyado<br/>
+--> ACTION: sinabihan ng target sa recruiter na HINDI na siya tutuloy
+
+### Paalala#1
+
+Pastilla scheme<br/>
+--> where: immigration personnel received bribe money wrapped in white paper <br/>
+--> where: white paper to appear as popular Filipino candy delicacy<br/>
+--> objective: assist the entry of arriving foreigners, mostly Chinese
+
+### USBONG RECOMMENDED ACTION
+
+1) Palibutan ang sarili ng mga taong HINDI nangangailangan ng mabilisang pera (NEED of QUICK MONEY);<br/>
+--> Ang nanganganilangan ng mabilisang pera, ang siyang magnanakaw, anuman ang kaniyang dahilan, e.g. nanay ng nagugutom na mga anak;<br/>
+--> Paramihin ang mga tumutulong na makina/kompyuter sa tungkulin ng UNIT;<br/>
+--> Paramihin ang mga taong marunong ng Maparaang Pagbibilang;
+
+
 ## "P/$ rate closes at P56.22/$1" (20221202; FRIDAY)
 
 ### NEWS IN BRIEF
