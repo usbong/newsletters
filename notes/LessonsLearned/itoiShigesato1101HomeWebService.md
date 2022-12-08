@@ -4,6 +4,30 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html#home;
+last accessed: 20221208
+
+### Pinaikling Pagbubuod
+
+Parating na muli ang bagong taon;<br/>
+Isa sa isang taon lamang ito;<br/>
+Pagnilayan ang mga bagay-bagay.<br/>
+Ano ang itutuloy, ano ang ititigil,<br/>
+ano ang bagong gagawin?<br/>
+<br/>
+Mga tanong na bagama't kahit kailan naitatanong,<br/>
+mga bagay na pinagpapasiyahan.<br/>
+Gayunman, ang sa katunayan, mahirap gawin.<br/>
+Kailangan ng lakas, kailangan ng paghahanda.<br/>
+Kailangan ng pagpapasiya.<br/>
+<br/>
+Sa aking sarili sinasabi ang mga ito.<br/>
+Pagnilayan nang maigi, iayos sa salita, <br/>
+at isulat sa aking halos araw-araw na talaan.<br/>
+Hindi mo rin ba susubukan?<br/>
+<br/>
+ELAPSED TIME: 9MINS
+
 ## https://www.1101.com/pl/060216kimagure/index.html;
 last accessed: 20221111
 
