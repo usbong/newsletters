@@ -1,5 +1,42 @@
 # Daily Tribune
 
+# "Navarro spending Yule out of jail" (20221207; Wednesday)
+
+## Author
+
+MURCIA, ALVIN;<br/>
+@tribunephl_alvi
+
+## Keyphrase
+
+Rape, under Article 266-A;<br/>
+--> Revised Penal Code as amended by Republic Act 8353,<br/>
+--> i.e. An Act Expanding the Definition of the Crime of Rape;<br/>
+--> via: reclassifying as same as Crime against Persons;<br/>
+
+> "...the testimony of the victim alone is enough to convict a person of rape. However, this comes with the caveat that such testimony should be subjected to greater scrutiny to ferret out the truth"
+
+--> Taguig City Regional Trial Court<br/>
+<br/>
+--> notes: based on the three (3) complainant-affidavits, executed: <br/>
+--> 1) 2014-01-29,<br/> 
+--> 2) 2014-02-07,<br/>
+--> 3) 2015-10-16<br/>
+<br/>
+--> keyphrase: inconsistent OUTPUT,<br/> 
+--> due to: complainant's ACTION after RAPE,<br/>
+--> classified: as undergoing a painful order after an assault;<br/>
+
+### Example ACTION after RAPE
+
+> ...complainant also did not find anything wrong in preening at herself and giggling while inside an elevator after supposedly having been raped.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # "Drug war must continue, *ex proprio vigore!*" (20221202; Friday)
 
 ## COUNTERPOINT
