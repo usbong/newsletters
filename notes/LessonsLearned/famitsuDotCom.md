@@ -1,5 +1,27 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+# [【Toby Foxの秘密基地】連載コラム第3回 “Tobyが訊く”Vol.1「日本未発売ソフトの思い出を教えて」回答した読者へトビーさんが直接コメント！](https://www.famitsu.com/news/202212/08285376.html);
+last accessed: 20221209
+
+> 【Toby Foxの秘密基地】連載コラム第3回 “Tobyが訊く”Vol.1「日本未発売ソフトの思い出を教えて」回答した読者へトビーさんが直接コメント！
+
+> by 藤川Q 編集部
+
+> 2022.12.08 20:00
+
+> 最近では、糸奇はなさんと僕が共作した『Skies Forever Blue』という曲のミュージックビデオを作ってくれました。
+
+--> Video: OMOCAT<br/>
+--> Music: FOX, TOBY<br/>
+--> Vocals & Base Arrangement: ITOKI, HANA<br/>
+<br/>
+et cetera
+
+## QUICK LINK to Music VIDEO
+https://www.youtube.com/watch?v=njgcjGojRKk&t=198s;<br/> 
+last accessed: 20221209
+
+
 # [天野喜孝さんの作品世界に入れるVRプロジェクトが始動。『FF』シリーズの展示エリアはナンバリングごとに異なった幻想的な世界が展開](https://www.famitsu.com/news/202211/07281899.html); last accessed: 20221108
 
 > 天野喜孝さんの作品世界に入れるVRプロジェクトが始動。『FF』シリーズの展示エリアはナンバリングごとに異なった幻想的な世界が展開
