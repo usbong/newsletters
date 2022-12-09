@@ -31,7 +31,7 @@ Month of October
 --> @PHP 374.34 Million <br/>
 --> Ayala-led
 
-### TOP RANK based on STOCKS SOLD by FOREIGN INVESTORS
+#### TOP RANK based on STOCKS SOLD by FOREIGN INVESTORS
 
 1) ICT-SI<br/>
 --> @PHP 834.5 Million
@@ -48,7 +48,7 @@ Month of October
 5) Puregold<br/>
 --> @PHP 216.07 Million 
 
-#### Dagdag
+### Dagdag
 
 1) opted: NOT to buy Jollibee STOCKS;<br/>
 --> keyphrase: softdrinks to cause classification that eaten food is sufficient;<br/>
