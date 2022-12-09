@@ -12,6 +12,49 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [SNSで増幅「エコーチェンバー」犯罪も　コリア国際学園事件判決](https://www.asahi.com/articles/ASQD85QKYQD7PTIL00C.html?iref=comtop_Tech_science_05); last accessed: 20221209
+
+> SNSで増幅「エコーチェンバー」犯罪も　コリア国際学園事件判決
+
+Sa SNS, dumarami rin ang "ECHO CHAMBER" na krimen; Pasiya ukol sa pangyayari sa KOREA International School
+
+> 松浦祥子、森下裕介2022年12月8日 19時30分
+
+MATSUURA, SHOUKO; MORISHITA, YUUSUKE; 2022-12-08T19:30
+
+## Paalala 
+
+1) SNS = Social Networking Service
+
+2) "エコーチェンバー" = ECHO CHAMBER; silid kung saan maaaring pakilusin ang pag-alingaw-ngaw 
+
+> In discussions of news media, an echo chamber refers to situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system and insulated from rebuttal. 
+
+### Sanggunian
+https://en.wikipedia.org/wiki/Echo_chamber_(media); last accessed: 20221209
+
+
+## Pinaikling Pagbubuod
+
+### Pamamaraan
+
+> 段ボールに火を付けて床を焼損した上、5月には創価学会施設（大阪市）に侵入し、コンクリートブロックを投げて窓ガラスを割った。
+
+Sinunog ang kahon, at pinaliyab ang sahig; Sa ika-5 buwan, pinasok ang bahagi ng paaralan kung saan ginagawa ang pagpupulong ukol sa halaga ng pagtatatag (sa lungsod ng Osaka), at binatuhan ng CONCRETE BLOCK, na nagwasak sa salamin ng dungawan.
+
+### --
+
+> 梶川裁判官は、根拠のないSNSの情報などから敵意を抱き、嫌がらせの目的で犯行に及んだとし「民主主義社会では、他者が異なる意見を持つことは当然だ。暴力で対抗するのは許されない」と指摘した。
+
+Ayon sa Taga-Hukom, na si KAJIKAWA, mula sa walang batayang Balita ng SNS, atbp, gumawa ng krimen na may pakay na mang-inis; "Sa lipunang DEMOKRASIYA (paniniwala sa pangunahin ng mamamayan), likas ang magkaroon ng pagkakaiba ng pananaw ang ibang tao. Hindi pinapatawad ang pakikipaglaban gamit ang lakas ng PANGGUGULO." 
+
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # [「ヤクザはETC使うな」高速道で規制強化へ　組幹部は「徹底抗戦」](https://www.asahi.com/articles/ASQD16S7YQCXULFA00G.html?iref=comtop_7_01); last accessed: 20221207
 
 >「ヤクザはETC使うな」高速道で規制強化へ　組幹部は「徹底抗戦」
