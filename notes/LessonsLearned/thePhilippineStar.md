@@ -1,5 +1,77 @@
 # Lessons-learned: The Philippine STAR
 
+
+## “San Miguel, Jollibee emerge as stock favorites in Oct” (20221209; FRIDAY)
+
+### Author
+
+GONZALES, IRIS
+
+### Keyphrase
+
+Philippine Stock Exchange Index (PSEi)<br/>
+Month of October
+
+#### TOP RANK based on STOCKS BOUGHT by FOREIGN INVESTORS
+
+1) San Miguel Corp. (SMC)<br/>
+--> @PHP 706 Million
+
+2) Jollibee Foods Corp. (JFC)<br/>
+--> @PHP 640.7 Million 
+
+3) BDO Unibank<br/>
+--> @PHP 552.41 Million<br/>
+--> Sy-owned
+
+4) Ayala Land<br/>
+--> @PHP 481.02 Million 
+
+5) Globe Telecom<br/>
+--> @PHP 374.34 Million <br/>
+--> Ayala-led
+
+### TOP RANK based on STOCKS SOLD by FOREIGN INVESTORS
+
+1) ICT-SI<br/>
+--> @PHP 834.5 Million
+
+2) AYALA Corp.<br/>
+--> @PHP 462.21 Million 
+
+3) PLDT<br/>
+--> @PHP 436.47 Million 
+
+4) Semirara Mining & Power Corp.<br/>
+--> @PHP 269.88 Million 
+
+5) Puregold<br/>
+--> @PHP 216.07 Million 
+
+#### Dagdag
+
+1) opted: NOT to buy Jollibee STOCKS;<br/>
+--> keyphrase: softdrinks to cause classification that eaten food is sufficient;<br/>
+--> adds: however, noticeable physical dining structure;<br/>
+--> prefers: on FOOD, Tropical Hut;<br/>
+--> with: NO PORK, e.g. CLUB HOUSE SANDWICH;<br/>
+--> executes: currently, EDEN CHEESE (Singles) + toasted/fried GARDENIA wheat bread<br/> 
+--> + HEINZ Tomato Ketchup + cooked Palengke Lettuce in Olive Oil;<br/>
+--> adds: IF necessary, roasted chicken;<br/>
+--> keyphrase: SUBWAY
+
+2) observed: misuse by MANLOLOKO group of CCTV access @SUPER MARKETS,<br/> 
+--> e.g. Puregold, Savemore, Robinsons Supermarket;<br/>
+--> keyphrase: CARNAPPING, BUDOL-BUDOL, CYBERCRIMINAL;<br/>
+--> question: as reminder, incident reports from SUPER MARKET Security Unit to exist?<br/>
+--> shares: self to file reports also with SUPER MARKET Security Units;<br/>
+--> adds: as keyphrase: unauthorized access, NOISE POLLUTION,<br/> 
+--> ILLEGAL DRUGS, EXCESS MONEY, QUICK MONEY<br/>
+--> reminder: multiple POLICE REPORTS assist in identifying<br/> 
+--> MANLOLOKO group members and their repeating PANLOLOKO PATTERN;<br/>
+--> adds: LIFESTYLE
+
+
 ## “HSBC consolidates operations in Phl” (20221207; WEDNESDAY)
 
 ### Author
