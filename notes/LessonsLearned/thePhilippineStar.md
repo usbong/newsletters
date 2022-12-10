@@ -1,5 +1,30 @@
 # Lessons-learned: The Philippine STAR
 
+## “Australian pedophile sentenced to 129 years” (20221110; THURSDAY)
+
+### Author
+
+AFP
+
+### Keyphrase
+
+SCULLY, PETER;<br/>
+<br/>
+--> sentenced by Cagayan de Oro City Regional Court to 129 years in Philippine jail<br/>
+--> 60 offenses: trafficking, child pornography, child abuse, and rape;<br/>
+<br/>
+--> arrested in 2015 in Malaybay, Bukidnon<br/>
+--> after fleeing Australia in 2011<br/>
+--> came to Philippines to escape fraud charges in his home country,<br/>
+--> set up a cybersex business,<br/>
+
+> ...filming teenage girls from impoverished families, as he had sex with them or used sex toys
+
+--> videos allegedly sold to paying customers,<br/>
+--> in Germany, U.S.A., Brazil;<br/>
+<br/>
+--> Scully's girlfriend, MARGALLO, LOVELY sentenced to 126 years;
+
 
 ## “San Miguel, Jollibee emerge as stock favorites in Oct” (20221209; FRIDAY)
 
