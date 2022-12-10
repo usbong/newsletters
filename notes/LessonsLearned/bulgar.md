@@ -1,5 +1,40 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "HINDI KRIMEN ANG HINDI PAGSUSTENTO SA ASAWA" (20221109; MIYERKULES)
+
+## MAGTANONG KAY ATTORNEY
+
+### Author
+
+Chief Public Attorney: <br/>
+DR. RUEDA-ACOSTA, PERSIDA V
+
+### Keyphrase
+
+Republic Act (R.A.) No. 9262<br/>
+Anti-Violence Against Women and Their Children Act of 2004<br/>
+--> where: crime of violence : the following:<br/><br/>
+
+> (e) Attempting to restrict or restricting the woman's or her child's freedom of movement or conduct by force or threat of force, physical or other harm or threat of physical or other harm, or intimidation directed against the woman or child. 
+
+--> objective: upang pahirapan o para makontrol o mapigilan ang pagkilos ng anak<br/>
+--> kasong kriminal
+
+### Halimbawa
+
+> "Sige sabihin mo!", "Go!"
+
+--> where: object to say : on ILLEGAL ACTIONS, <br/>
+--> e.g. noise pollution, unauthorized access;<br/>
+--> where: unauthorized access of web services,<br/> 
+--> e.g. online banking;
+
+### Dagdag
+
+1) LOGIC: Kung alam mo na maliit lamang ang laman ng PERA ng TARGET, doon ka na sa may higit na MALAKI.<br/>
+--> CAUSE: NEED of QUICK MONEY<br/>
+--> paalala: Ang may pangangailangan ng mabilisang pera, anuman ang dahilan, siya ang MAGNANAKAW/MANLOLOKO;
+
 # "KARNAPER NA WANTED SA ROBBERY, TIMBOG" (20221202; BIYERNES)
 
 ### Author
