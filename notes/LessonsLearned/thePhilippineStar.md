@@ -1,5 +1,41 @@
 # Lessons-learned: The Philippine STAR
 
+## “Norway princess quits duties to work with shaman fiance” (20221110; THURSDAY)
+
+### Author
+
+AFP
+
+### Keyphrase
+
+Norway's Princess: LOUISE, MARTHA;<br/>
+--> 51 years old; <br/>
+--> opts: for alternative medicine business,<br/>
+--> instead of royal duties;<br/>
+--> with: her fiance self-proclaimed shaman,<br/>
+--> VERRET, DUREK, whose book "Spirit Hacking",<br/>
+--> sold noticeably in Norway;<br/>
+--> keyphrase: cancer is a choice<br/>
+--> adds: sells "Spirit Optimizer" medallion @222USD which assists in overcoming COVID-19;<br/>
+--> notes: princess to use Instagram;<br/>
+--> adds: in Year 2002, lost her honorific "Her Royal Highness" title,<br/> 
+--> after choosing to work as clairvoyant,<br/>
+--> who: can "speak with angels";<br/>
+
+## Dagdag
+
+1) observed: such cases to noticeably exist in NORWAY; keyphrase: speaking, disability;<br/>
+--> adds: as with Philippines, Family Unit to assist in causing such OUTPUT;<br/>
+--> where: NOISE POLLUTION from wireless broadcasting technology is NOT heard;<br/>
+--> adds: select Unit members pretend to NOT hear;<br/>
+--> <b>USBONG RECOMMENDED ACTION:</b><br/>
+--> surround self with people who are NOT IN-NEED of QUICK MONEY,<br/> 
+--> due to: have know-how
+
+2) adds: cancer cell = MANLOLOKO,<br/> 
+--> cancer = PANLOLOKO;
+
+
 ## “Australian pedophile sentenced to 129 years” (20221110; THURSDAY)
 
 ### Author
