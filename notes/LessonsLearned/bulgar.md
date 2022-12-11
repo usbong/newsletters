@@ -1,5 +1,28 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# “ARI-ARIAN NI QUIBOLOY, NAKA-BLOCK NA” (2022-12-11; SUNDAY)
+
+## Author
+
+MORATILLO, MADEL
+
+## Keyphrase
+
+Department of Treasury (U.S.A.)<br/>
+Office of Foreign Assets Control (OFAC)<br/>
+—> to: PASTOR QUIBOLOY, APOLLO  (Founder, Kingdom of Jesus Christ (KOJC))<br/>
+—> due to: “sex trafficking ng mga batang babae sa KOJC na napiling magtrabaho sa kanya”;<br/>
+—> adds: “pagpapalabas dito bilang isang sakripisyo”
+
+## Parusa
+
+BLOCKED 
+
+> Lahat din ng mamamayan ng bansa at entities ay hindi maaaring makipag-ugnayan o magsagawa ng transaksyon sa kanya. 
+
+> Maliban na lamang kung may pahintulot mula sa isang heneral o may lisensya na inisyu ng OFAC
+
+
 # "HINDI KRIMEN ANG HINDI PAGSUSTENTO SA ASAWA" (20221109; MIYERKULES)
 
 ## MAGTANONG KAY ATTORNEY
