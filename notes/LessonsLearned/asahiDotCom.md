@@ -12,6 +12,48 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [不登校支援にメタバースを使う理由　「カタリバ」今村久美さんに聞く](https://www.asahi.com/articles/ASQD954WJQBWULZU00P.html?iref=comtop_Topnews2_01); last accessed: 20221212
+
+> 不登校支援にメタバースを使う理由　「カタリバ」今村久美さんに聞く
+
+Dahilan kung bakit ginagamit ang METAVERSE bilang tulong sa hindi pumapasok sa paaralan; Itanong kay Gng. IMAMURA, KUMI ng "KATARIBA"
+
+> 聞き手・編集委員 宮坂麻子2022年12月12日 7時00分
+
+Tagapakinig/Tauhan ng Tagapagbuklod: MIYASAKA, ASAKO; 2022-12-12T07:00
+
+> コロナ禍を機に、不登校の子たちにオンライン会議ツールを用いた支援を始めました。
+
+Dahil sa CORONA VIRUS, sinimulan ang pagtulong (suporta) sa paggamit ng kasangkapang kailangan sa ONLINE na mga pagpupulong, bilang tugon sa mga hindi pumapasok na mga bata.
+
+> どこからもつながれる一方、その時間だけ学んだら退出してしまう。
+
+Bagama't kahit saan maaaring makipag-ugnayan (konekta), umaalis din sa paaralan kapag nag-aaral lamang sa panahon na iyon.
+
+### Gayunman
+
+> 休み時間などにふと声をかけあう余白の時間も、学校の価値だと思うんです。
+
+Sa aking palagay, may halaga sa paaralan ang panahon na maaaring makausap nang bigla ng mag-aaral ang tagapagturo kahit nagpapahinga, atbp.
+
+> オンラインでもそういう場が作れないかと、カタリバの若いスタッフの発案でメタバースの導入を決めました。
+
+Nang inalok akong bumuo ng pook tulad ng ganoon sa ONLINE, pinagpasiyahan kong ipakilala ang METAVERSE sa mga batang STAFF ng KATARIBA.
+
+### Dagdag
+
+1) alamin: bakit may mga opisina na HINDI pinagagamit ang METAVERSE sa panahon ng hanap-buhay;<br/>
+--> kung gayon, bakit maaari naman sa paaralan?<br/>
+--> namasdan: sa opisina, nakapagdadagdag ang METAVERSE sa panahon upang matapos ang mga bagay-bagay;<br/>
+--> sanhi: dagdag na panahon upang malaman ang kahulugan sa mga POST;<br/>
+--> namasdan: sa paaralan, may mapapansing panahon ang mga mag-aaral, at hindi kailangang malaman agad ang kahulugan;<br/>
+--> sanhi: iilan lang ang may hanap-buhay (part-time work), kabilang sa pangkat ng sports, atbp na nagdudulot ng pangangailangan ng may pagtutok na pagsasanay;
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 # [SNSで増幅「エコーチェンバー」犯罪も　コリア国際学園事件判決](https://www.asahi.com/articles/ASQD85QKYQD7PTIL00C.html?iref=comtop_Tech_science_05); last accessed: 20221209
 
 > SNSで増幅「エコーチェンバー」犯罪も　コリア国際学園事件判決
