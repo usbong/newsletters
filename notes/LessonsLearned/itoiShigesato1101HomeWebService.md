@@ -4,6 +4,156 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+## https://www.1101.com/home.html;
+last accessed: 20221209
+
+> ・「これが、いまのじぶん（たち）の実力で、
+
+>　まだまだ足りなかったのだと思います」と、
+
+>　そういうことはいくらでもある。
+
+>　だれもが、いつでも勝つ人間であるはずがないし、
+
+>　だれもが世界でいちばん強いものであることはない。
+
+"Sa tingin ko, kulang pa itong ating kasalukuyang lakas."<br/>
+<br/>
+May kung ilan na ang nagsabi ng ganoon. <br/>
+<br/>
+Hindi naman kasi kahit sino, kahit kailan,
+taong nananalo.<br/>
+<br/>
+Hindi naman kahit sino, siya ang pinakamalakas sa daigdig.
+
+
+>　敗れたときに、「これがいまの実力だったのか」と気づき、
+
+>　これより強いものの世界を見たいと思うのは、
+
+>　とても健康で素直な考えだ。
+
+Kapag natalo, talagang makakalusagan ang payak na pagninilay ng nais kong makita ang dagidig ng taong may lakas na higit pa rito sa napansin niyang "kaniyang kasalukuyang lakas".
+
+>　これは、世界一を決めるような試合でも、
+
+>　小学校のドッジボ神田錦町ール大会でも、
+
+>　基本的には同じことだ。
+
+Magkatulad ang pangunahing laman nito<br/>
+sa paligsahan kung saan pinagpapasiyahan<br/>
+ang bilang isa ng daigdig,<br/>
+at gayo'n din ito kahit sa malaking<br/> paligsahan ng DODGEBALL sa Mababang Paaralan.
+
+>　はじまる前には「勝つ」つもりでのぞむ。
+
+Bago magsimula, naisiin bilang pakay ang "MANALO".
+
+>　敵の強さとじぶんたちの実力については、
+
+>　おおよその見当は付いているかもしれないが、
+
+>　だからといって、負けるつもりで戦うわけではない。
+
+Ukol sa lakas ng kalaban at ang sariling taglay na lakas, <br/>
+bagama't maaaring mahulaan ang mga ito kahit papaano,<br/>
+hindi ito nangangahulugang <br/>
+makipaglaban nang may pakay na MATALO.
+
+>　相手のいる試合では「勝つ」ためのことをする。
+
+>　勝つことを放棄しては試合は成立しない。
+
+Sa paligsahan kung saan naroon ang katunggali,<br/>
+ang "MANALO" ang pakay nito.<br/>
+Hindi makatatayo ng paligsahan kung itatapon ang bagay na "MANALO";
+
+>　結果的に、勝ったときにも、敗れたときにも、
+
+>　「じぶん（たち）の実力があらわれた」と思う。
+
+Sa kinahinatnan, MANALO man, o MATALO,<br/>
+sa tingin ko, "Lumitaw ang ating taglay na lakas."
+
+>　運の要素ももちろんあるし、相手の自滅もある。
+
+Tiyak mayroon ding bahagi ang pagpapala,<br/>
+mayroon din ang pagwasak sa sarili ng katunggali.
+
+>　わかっていたのにできなかったこともある。
+
+Mayroon ding bahagi ang hindi nagawa, bagama't alam naman niya.
+
+>　後で「ああしていればこうしていれば」を
+
+>　どれだけ想像できたとしても、
+
+>　事実、ああもこうもできていなかったのである。
+
+Pagkatapos, kung alin man ang magawang pag-isipan bilang kathang-isip, "Kung gawin ang ganoon, kung gawin ang ganito", ang sa katunayan nito, hindi niya nagawa iyon.
+
+>　だから、そういう一切合財を含めて「実力」というのだ。
+
+>　「まだ足りなかった」と実感できることは、
+
+>　そういう経験ができたということで、すごいことだ。
+
+Kung kaya't, "taglay na lakas (bungang lakas)" ang paglagay niyon bilang isang bahagi sa kabuuan.<br/>
+Magaling na bagay ang makaranas ng ganoong matuklasan ang pakiramdam na "Kulang pa rin."
+　　
+>　昔、吉本隆明さんが、ちょっと冗談めかして言った。
+
+>　「ぼくは、世界バンタム級８位くらいのものです。
+
+>　ただ、世界チャンピオンとやっても、いい試合はする。
+
+Noon, may bahagyang pabirong sinabi si G. YOSHIMOTO, TAKAAKI: "Mga bilang 8 ako ng BANTAM sa Daigdig. Gayunman, kahit KAMPIYON na ako sa Daigdig, gumagawa ako ng ayos na paligsahan.
+
+>　勝ち負けはともかく、いい試合はすると思う」
+
+Bukod pa sa manalo at matalo, sa tingin ko, gumagawa ako ng ayos na paligsahan."
+
+>　雑談の場面で、妙にたのしそうで、心に残っている。
+
+Sa pook ng usap-usapan, kakaibang ligaya ito, natitira sa puso.
+
+>　世界バンタム級８位って、なんか遠慮してるのかなぁと、
+
+>　単なる野次馬のぼくは感じたものだったけれど、
+
+>　いまにして思えば、いい詩のようにさえ思えている。
+
+Ang bilang 8 ng BANTAM sa Daigdig, <br/>
+may ikinahihiya pa siya?<br/>
+Bagama't pakiramdam lamang ito ng hamak na manonood,<br/>
+kung aking kasalukuyang pag-isipan,<br/>
+maiisip na tulad ito sa isang ayos na tula;
+ 
+>　ぼくらも、どこの何位でもいいのだけれど、
+
+>　「いい試合はする」と言えるようになりたいなぁ。
+
+Kami rin, bagama't ayos lang kung alin man ang bilang,<br/>
+nais na masabing "Gumagawa ng ayos na paligsahan".
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+
+> 神田錦町のつな引き大会で優勝したのは、「ほぼ日」だぜ！
+
+"HOBO NICHI (HALOS ARAW)" ang nanalo sa malaking paligsahan ng hilahan sa KANDA NISHIKICHOU (Bayan)
+
+> 昨日の「今日のダーリン」を読み逃した方はこちら。
+
+Narito ang "DARLING ngayong araw" sa mga taong pinalampas ang pagbabasa.
+
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## https://www.1101.com/home.html#home;
 last accessed: 20221208
 
