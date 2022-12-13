@@ -1,5 +1,41 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Striking UK nurses say walkouts over pay 'last resort'" (20221213; TUESDAY)
+
+### Author:
+
+AFP
+
+### Keyphrase:
+
+London, United Kingdom<br/>
+--> up to 100K members  of Royal College of Nursing (RCN)<br/>
+--> location#1: England, Wales <br/>
+--> location#2: Northern Ireland<br/>
+<br/>
+--> ACTION: one-day stoppage
+
+#### CAUSE:
+
+> "Workloads are horrendous. Nurses are burnt out, can't provide safe service to patients. We are seeing harm to patients and patients put at risk every day"
+
+--> adds: cost of living crisis:<br/>
+--> increased: price of housing, food, and energy<br/>
+
+#### OUTPUT:
+
+noticeable count of members leaving
+
+#### RCN's Request as SOLUTION
+
+increase payment to be noticeably above inflation level;<br/>
+--> adds: @41-year high of 11.1%
+
+#### Government Reponse: 
+
+NOT AFFORDABLE
+
+
 ## "NBI to probe links of BI officials to human trafficking" (20221202; FRIDAY)
 
 ### Author
