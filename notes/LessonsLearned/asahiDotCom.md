@@ -12,6 +12,53 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [ネット依存やネットいじめどう防ぐ　広がる安全な使い方教育](https://www.asahi.com/articles/ASQDD61RNQCYULFA02X.html?iref=comtop_Tech_science_02); last accessed: 20221213
+
+> ネット依存やネットいじめどう防ぐ　広がる安全な使い方教育
+
+Paano masasangga ang INTERNET BULLYING, pananatili sa INTERNET, atbp; Paglaganap ng Pagtuturo sa Ligtas na Paggamit
+
+
+> 中島嘉克2022年12月12日 21時30分
+
+NAKAJIMA, YOSHIKATSU; 2022-12-12T21:30
+
+
+>　小学校高学年の多くが自分専用のスマホを持つようになった。だれもがインターネットにつながるいま、「危ないから使わない」ではなく「正しく使う」が重要になっている。ICTリテラシー（情報通信技術を使いこなす能力）教育の現場を訪ねた。
+
+Marami nang mga mag-aaral sa itaas na antas ng Mababang Paaralan ang may dala nang sariling magagamit na SMARTPHONE. Sa kasalukuyang panahon kung kailan kahit sino na ang maaaring maka-ugnay sa INTERNET, nagiging mabigat na pangangailangan ang "Wastong Paggamit", sa halip na ang "Hindi paggamit, dahil mapanganib". Dumalaw ako sa pook ng pagtuturo ukol sa ICT LITERACY (kakayanan upang lubusang magamit ang TEKNOLOHIYA sa may tiwalang daloy ng BALITA)
+
+### Paalala
+
+教育 : Pagtuturo't Pag-aalaga, EDUKASYON
+
+>　スマホゲームにハマった小学生の男の子。母親にスマホを隠されても、こっそり見つけ出し、自転車に乗りながらゲームに没頭。すると、道を歩いていたおばあさんにぶつかり、大けがを負わせてしまう――。
+
+Kinagigiliwan ng batang lalake sa Mababang Paaralan ang SMARTPHONE GAME. Kahit na itago ng Nanay ang smartphone, tahimik niya hinahanap at natatagpuan ito, habang nakasakay sa bisikleta, ang GAME ang laman ng kaniyang ulo. Sa paggawa nito, nakabunggo niya ang naglalakad na Lola sa daan, at nakatamo ng malaking sugat...
+
+>　東京都板橋区の板橋第五小学校で11月中旬、3～4年生の児童がこんなアニメに見入っていた。オンラインで開かれた「インターネットの安心安全講座」。講師を務めたNECグループ社員は「便利で楽しいインターネットも、使い方を一歩間違えると大変なことになってしまう」と話した。
+
+> 3～4年生の児童がこんなアニメに見入っていた
+
+Anime na pinanuod ng mga bata sa ika-3~4 Taon sa Mababang Paaralan
+
+> 「インターネットの安心安全講座」
+
+"Aralin sa panatag at ligtas na INTERNET"
+
+> NECグループ
+
+NEC GROUP
+
+>「便利で楽しいインターネットも、使い方を一歩間違えると大変なことになってしまう」
+
+Sa ginhawa at maligayang INTERNET din, kapag magkamali ng isang hakbang sa paraan ng paggamit, nagiging malaking suliranin ito"
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 # [不登校支援にメタバースを使う理由　「カタリバ」今村久美さんに聞く](https://www.asahi.com/articles/ASQD954WJQBWULZU00P.html?iref=comtop_Topnews2_01); last accessed: 20221212
 
 > 不登校支援にメタバースを使う理由　「カタリバ」今村久美さんに聞く
