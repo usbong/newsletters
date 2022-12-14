@@ -41,7 +41,7 @@ MEKANISMO ito kung saan malawak ang mapaggagamitan ng PUNTOS, kapag nalampasan n
 
 ### Paalala
 
-1) Kikita lamang ang ilang mga uri ng e-COMMERCE na sinubukang magbenta sa PINAS kung hinayaan ng ADMIN ng PINAS na manatiling walang know-how (kaalaman) ang karamihan ng mga Pilipino;<br/>
+1) Kikita lamang ang ilang mga uri ng e-COMMERCE na sinubukang magbenta sa PINAS kung hinayaan ng Pamahalaan (ADMIN) ng PINAS na manatiling walang know-how (kaalaman) ang karamihan ng mga Pilipino;<br/>
 --> namasdan: isinusulong ng MANLOLOKO group na walang know-how ang karamihan ng mga Pilipino;<br/>
 --> pakay: upang madaling maloko, mabentahan, at parating nangangailangan ng (mabilisang) pera;<br/>
 --> dagdag: bilang paalala, ang karamihan ng mga mamamayan sa SINGAPORE, may lahing TSINO, bagama't hindi lahat sa kanila marunong ng Wikang Tsino (CHINESE MANDARIN);<br/>
