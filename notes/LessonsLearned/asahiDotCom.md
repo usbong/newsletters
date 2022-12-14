@@ -12,6 +12,45 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ヤフーとペイペイ、LINEが提携　店頭とオンライン、つないで販促](https://www.asahi.com/articles/ASQDF6VSYQDFULFA01Z.html?iref=comtop_Business_02); last accessed: 20221214
+
+> ヤフーとペイペイ、LINEが提携　店頭とオンライン、つないで販促
+
+YAHOO at PAYPAY, inuugnay ng LINE; Isinusulong ang Bentahan sa pag-uugnay ng mga Namumuno (ulo) ng Tindahan sa ONLINE
+
+> 渡辺淳基2022年12月13日 21時30分
+
+WATANABE, JUNKI; 20221213T21:30
+
+>　Zホールディングス（HD）傘下のヤフーとLINE、PayPay（ペイペイ）の3社は13日、店舗とオンラインの購買データをまとめて販促につなげる新サービス「LINE・ヤフー・ペイペイマイレージ」を来年3月に始めると発表した。
+
+Ipinahayag nitong ika-13 araw, ng Z HOLDINGS (HD), na saklaw ang 3 samahang, YAHOO, LINE, PAYPAY, na sa ika-3 buwan ng sumunod na taon, sisimulan na ang "LINE・YAHOO・PAYPAY Mileage", ang panibagong paglilingkod na inuugnay ang pagsulong ng bentahan sa pamamagitan ng pagbubuklod ng mga DATOS ng ONLINE na bentahan at bilihan sa mga tindahan.
+
+> メーカーや小売店と提携して、利用者が特定の商品を一定額以上購入した場合にポイントを付与する仕組みをつくる。
+
+
+Bumubuo ang samahan ng MEKANISMO (paraan) kung saan ipinag-uugnay nila ang mga Malalaking Pagawaan at ang mga maliliit na tindahan, at nagbibigay sa mga Manggagamit nito ng PUNTOS (marka), kapag bumili ng kanilang mga binukod-tanging produkto na may halaga na higit pa sa kanilang itinakdang salapi.
+
+>　小売店はドラッグストアチェーンなど数社、メーカーではアサヒ飲料が、現段階で参加を公表している。たとえば利用者がアサヒ飲料の特定の商品をヤフーショッピングで購入したり、小売店や飲食店で注文してペイペイで支払ったりするとマイルがたまる。
+
+Ipinahayag na may mga ilang samahan tulad ng DRUGSTORE CHAIN ang kabilang sa mga maliliit na tindahan, at sa mga lumalahok na mga Malalaking Pagawaan naman, sa kasalukuyang hakbang, kabilang ang inumin ng ASAHI. Kapag halimbawa, bumili ang Manggagamit ng binukod-tanging produktong mula sa inumin ng ASAHI, gamit ang YAHOO SHOPPING, makaiipon ng MILE kung nagbayad gamit ang PAYPAY.
+
+>　期間内にマイルが一定額を超えると、幅広く使えるポイントが付与される仕組み。利用者にはLINEで通知する。メーカーが利用料やポイントの原資を負担する。主に生鮮以外の食品や日用品の販促を想定している。
+
+MEKANISMO ito kung saan malawak ang mapaggagamitan ng PUNTOS, kapag nalampasan ng (naipong) MILE ang itinakdang salapi sa loob ng pinagpasiyahang panahon. Ipinaalam ito gamit ang LINE sa Manggagamit. Inaako naman ng Malalaking Pagawaan ang bayad ng paggamit, ang bayad sa mga PUNTOS. Pinagpasiyahan ang pagsusulong nito ng pagbebenta ng mga pangunahing mga pagkain, bukod doon sa mga sariwa, mga magagamit na produktong pang-araw-araw, atbp.
+
+### Paalala
+
+1) Kikita lamang ang ilang mga uri ng e-COMMERCE na sinubukang magbenta sa PINAS kung hinayaan ng ADMIN ng PINAS na manatiling walang know-how (kaalaman) ang karamihan ng mga Pilipino;<br/>
+--> namasdan: isinusulong ng MANLOLOKO group na walang know-how ang karamihan ng mga Pilipino;<br/>
+--> pakay: upang madaling maloko, mabentahan, at parating nangangailangan ng (mabilisang) pera;<br/>
+--> dagdag: bilang paalala, ang karamihan ng mga mamamayan sa SINGAPORE, may lahing TSINO, bagama't hindi lahat sa kanila marunong ng Wikang Tsino (CHINESE MANDARIN);<br/>
+--> mapapansin: upang umangat ang antas sa kanilang bansa, maiging marunong ng INGLES at Wikang Tsino.<br/>
+--> dagdag: ang mga lahing MALAY, ang karaniwang mapapansing nasa mababang antas sa SINGAPORE, ipinahahayag na matiwasay namang nagsasama ang tatlong pangunahing mga lahi roon;<br/>
+--> dagdag: ipinaaalam din sa kanilang mga Tanyag na Pamantasan, na nagaganap naman ang inter-marriage ng mga 1~2 sa 5 ng kanilang mga mamamayan.<br/>
+--> paalala: karamihan ng lahing MALAY, nasa MALAYSIA;
+
+
 # [ネット依存やネットいじめどう防ぐ　広がる安全な使い方教育](https://www.asahi.com/articles/ASQDD61RNQCYULFA02X.html?iref=comtop_Tech_science_02); last accessed: 20221213
 
 > ネット依存やネットいじめどう防ぐ　広がる安全な使い方教育
