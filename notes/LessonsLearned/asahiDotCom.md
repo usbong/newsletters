@@ -48,7 +48,7 @@ MEKANISMO ito kung saan malawak ang mapaggagamitan ng PUNTOS, kapag nalampasan n
 --> mapapansin: upang umangat ang antas sa kanilang bansa, maiging marunong ng INGLES at Wikang Tsino.<br/>
 --> dagdag: ang mga lahing MALAY, ang karaniwang mapapansing nasa mababang antas sa SINGAPORE, ipinahahayag na matiwasay namang nagsasama ang tatlong pangunahing mga lahi roon;<br/>
 --> dagdag: ipinaaalam din sa kanilang mga Tanyag na Pamantasan, na nagaganap naman ang inter-marriage ng mga 1~2 sa 5 ng kanilang mga mamamayan.<br/>
---> paalala: karamihan ng lahing MALAY, nasa MALAYSIA;
+--> paalala: karamihan ng lahing MALAY, nasa MALAYSIA, sa halip na sa SINGAPORE;
 
 
 # [ネット依存やネットいじめどう防ぐ　広がる安全な使い方教育](https://www.asahi.com/articles/ASQDD61RNQCYULFA02X.html?iref=comtop_Tech_science_02); last accessed: 20221213
