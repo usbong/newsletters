@@ -46,7 +46,8 @@ MEKANISMO ito kung saan malawak ang mapaggagamitan ng PUNTOS, kapag nalampasan n
 --> pakay: upang madaling maloko, mabentahan, at parating nangangailangan ng (mabilisang) pera;<br/>
 --> dagdag: bilang paalala, ang karamihan ng mga mamamayan sa SINGAPORE, may lahing TSINO, bagama't hindi lahat sa kanila marunong ng Wikang Tsino (CHINESE MANDARIN);<br/>
 --> mapapansin: upang umangat ang antas sa kanilang bansa, maiging marunong ng INGLES at Wikang Tsino.<br/>
---> dagdag: ang mga lahing MALAY, ang karaniwang mapapansing nasa mababang antas sa SINGAPORE, ipinahahayag na matiwasay namang nagsasama ang tatlong pangunahing mga lahi roon;<br/>
+--> dagdag: ang mga lahing MALAY, ang karaniwang mapapansing nasa mababang antas sa SINGAPORE;<br/>
+--> gayunman, ipinahahayag na matiwasay namang nagsasama ang tatlong pangunahing mga lahi roon;<br/>
 --> dagdag: ipinaaalam din sa kanilang mga Tanyag na Pamantasan, na nagaganap naman ang inter-marriage ng mga 1~2 sa 5 ng kanilang mga mamamayan.<br/>
 --> paalala: karamihan ng lahing MALAY, nasa MALAYSIA, sa halip na sa SINGAPORE;
 
