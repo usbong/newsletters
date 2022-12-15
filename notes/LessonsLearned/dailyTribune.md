@@ -1,5 +1,59 @@
 # Daily Tribune
 
+# "Beware of online predators" (20221215; THURSDAY)
+
+## Author
+
+ARCILLA, GIGIE (Ed.)<br/>
+
+## Keyphrase
+
+Cybercrime : misuse of computer, electronic devices to execute identify theft, online fraud, online harassment<br/>
+
+### Example OUTPUT (NEGATIVE): 
+Lost over PHP1 Million in bank account, which Manloloko misused to execute online banking;<br/>
+--> adds: Target had ignored One-time Passwords (OTP) notifications;
+
+### Example OUTPUT (POSITIVE):
+
+Electronic Commerce Act of 2000<br/>
+Data Privacy Act of 2012<br/>
+Cybercrime Prevention Act of 2012
+
+#### Paalala
+
+Mga paglilinaw ito kapag MALABO pa ang patakaran
+
+### Criminal techniques to gain access to personal information
+
+1) Bogus website whose address is to be clicked by target
+
+2) Cyberstalking, where Manloloko appears to harmlessly interact with target 
+
+3) Identify theft, where Manloloko executes unauthorized acquisition, use, abuse, transfer, possess, change or deletion of target's identifying information<br/>
+--> adds: "Doxing attacks"
+
+> Doxing attacks can range from the relatively trivial, such as fake email sign-ups or pizza deliveries, to the far more dangerous ones, like harassing a person's family or employer, identity theft, threats, or other forms of cyberbullying, or even in-person harassment.
+
+Reference: https://www.kaspersky.com/resource-center/definitions/what-is-doxing; last accessed: 20221215
+
+recommends: Internet Service Providers to assist Philippine National Police: Anti-Cybercrime group
+
+### Dagdag
+
+1) remembers: receiving recommendations of ACTIONS executed in U.S.A. to solve cybercriminal attacks;<br/>
+--> 1.1) "DuckDuckGo" SEARCH ENGINE, instead of GOOGLE SEARCH ENGINE for search history to be NOT recorded;<br/>
+--> 1.2) EMAIL web service that does NOT store INBOX on the CLOUD; local inbox only;<br/>
+--> shares: however, sent EMAILS still stored by those who use CLOUD-based systems;<br/>
+
+--> observed: MANLOLOKO group executes unauthorized access even with web service addresses that already use HTTPS (Secure Socket Layer (SSL));<br/>
+--> reminder: SSL key shall first NEED to be obtained to be able to read the INFORMATION;<br/>
+--> adds: however, SSL key may be stored outside the PHILIPPINES<br/>
+--> Example Web Services: EMAIL, online banking, e-commerce;<br/>
+--> adds: MANLOLOKO group shall need to have access to the Internet Service Provider, e.g. GLOBE Telecom, PLDT, to filter data that are requested OUTSIDE to go INSIDE the PHILIPPINES;<br/>
+--> observed: target CAN be identified via the use of IP address to view select websites, e.g. "gamasutra";<br/>
+--> adds: with web services that are used by multiple TARGETS, obtaining one (1) SSL key access shall cause multiple ATTACKS to be executable
+
 # "Navarro spending Yule out of jail" (20221207; Wednesday)
 
 ## Author
