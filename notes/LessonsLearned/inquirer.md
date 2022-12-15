@@ -1,7 +1,7 @@
 # Lessons-learned: Inquirer
 
 
-## "He champions Generation 'Komiks'" (20220924)
+## "He champions Generation 'Komiks'" (20221204)
 
 ### Author: 
 
