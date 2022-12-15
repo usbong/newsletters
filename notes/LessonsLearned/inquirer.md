@@ -1,5 +1,61 @@
 # Lessons-learned: Inquirer
 
+
+## "He champions Generation 'Komiks'" (20220924)
+
+### Author: 
+
+DE VERA, RUEL S
+
+### Keyphrase: 
+
+HERRAS, PAOLO
+
+--> day job#1: freelance creative consultate for advertising<br/>
+--> day job#2: freelance director for TV commercials
+
+#### KOMIKET
+--> president and co-founder: HERRAS, PAOLO<br/>
+--> Non-profit;<br/>
+--> objective: grow Filipino comics and community;<br/>
+--> via: hosting comics art markets<br/>
+--> via: bookstore (in Makati)<br/>
+--> via: publisher, literary agent, animation producer (next year);
+
+
+##### EVENTS
+--> Year 2023; March, November, October @Centris QC<br/>
+--> Year 2023; Janunary @Market Market BGC<br/>
+--> Year 2023; June @Ayala Malls The 30th<br/>
+--> Year 2023; April or May @UP Town Center<br/>
+--> Year 2023; July @Komiket Iloilo<br/>
+--> Yearly, Cebulitfest
+
+### Output from Komiket
+
+1) "Tarantadong Kalbo Vol.1"<br/>
+--> RAYMUNDO, KEVIN ERIC<br/>
+--> National Book Award for Graphic Literature
+
+2) "Twinkle Twinkle"<br/>
+--> TADIAR, TORI
+
+3) "Kilig"<br/>
+--> #romanceclass
+
+#### Philippine International Comics Festival (Picof)
+--> leader: HERRAS, PAOLO<br/>
+--> supported: by Film Development Council of the Philippines (FDCP)<br/>
+--> adds: National Book Development Board<br/>
+--> provides: grant money to produce and publish submitted entries<br/>
+--> adds: shall represent Philipines in Frankfurt Book Fair and London Book Fair<br/>
+
+### Dagdag
+
+1) comics + electronics・computers + music
+
+
+
 ## "Expert: TB surpasses COVID as biggest killer" (20221024; MONDAY)
 
 ### author: 
