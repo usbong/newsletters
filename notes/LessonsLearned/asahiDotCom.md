@@ -12,6 +12,71 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [俺って役に立っていない」　東京から逃げ出そう、55歳の決断](https://www.asahi.com/articles/ASQD83GMKQCQUTFL01J.html?iref=comtop_list_02); last accessed: 20221215
+
+>「俺って役に立っていない」　東京から逃げ出そう、55歳の決断
+
+"Ako, wala akong pakinabang"; Ang pinagpasiyahan ng 55 taong gulang na lumisan mula sa TOKYO
+
+> 浜田陽太郎2022年12月12日 11時00分
+
+HAMADA, YOUTAROU; 2022-12-12T11:00
+
+### Pinaikling Pagbubuod
+
+> ここ数年、配属されていたのは、社会保障とはあまり関係ない部署だった。必死になって新たな分野を取材して、自分の居場所を見つけようとした。
+
+Nitong mga ilang bilang na taon, napunta ako sa UNIT na wala gaanong kinalaman sa Pagtatanggol ng Lipunan mula sa Kapansanan. Sinubukan kong humanap ng sariling maiiralang pook, sa panibagong larangan kung saan naging puspusan ako (tiyak na mamamatay) sa pagkuha ng balita. 
+
+>　だが、自らに「有用感」を持てない状態が続き、少しずつ心に疲れがたまっていった。
+
+Gayunman, naipon unti-unti ang aking pagkapagod, sa pagtuluy-tuloy ng kalagayan sa sariling nagsasabing wala akong "pakiramdam na may pakinabang".
+
+> 新型コロナを引き金に、メンタルがだんだんとまずいことになったのだ。
+
+Sa udyok ng panibagong uri ng CORONA, dahan-dahang naging masama ang aking MENTAL (HEALTH).
+
+### --
+
+私は現在56歳。アラ還の一記者だ。
+
+56 taong gulang ako sa kasalukuyan. Isa akong Mamahayag na papalapit na ng kaniyang ika-60 taon.
+
+>　20年以上、医療や介護、年金など社会保障の取材を続けてきたので、専門記者といわれることもある。
+
+Higit 20 taong tuluy-tuloy ang aking pagkalap ng balita ukol sa Pagtatanggol ng Lipunan mula sa Kapansanan; halimbawa nito ang panggagamot, pag-aalaga, taunang salapi, atbp. Natawag na rin akong Dalubhasang Mamahayag. 
+
+>　一方で管理職のポジションとはほぼ縁が無く、出世とはほど遠い生活を送ってきた。
+
+Tuluy-tuloy na umusad ang aking buhay na malayo sa pagiging kilala sa pagkita ng malaking pera, dahil halos walang pagkakataong magkaroon ako ng PUWESTO (pook ng antas) sa Pangangasiwa (management).
+
+>　そんな私が2021年春から朝日新聞社を休職し、大分県にある社会医療法人で1年間、無給の「研修生」として過ごした。
+
+Kung kaya't, ipinahinga ko ang aking sarili mula sa tungkulin sa samahan ng Pahayagan ng ASAHI, at mula taong 2021 ng Tag-sibol, ipinalipas ko ang isang taon, bilang walang bayad na mag-aaral ng pananaliksik, sa bahagi ng OITA, sa Panggagamot ng Lipunan, kung saan tauhan akong may mataas na panunungkulan. 
+
+>　なぜ、そんなことをしたのか。
+
+Bakit ginawa ko ang ganoon?
+
+>　「医療・介護の現場での体験を通して、より専門性を深めるため」。こんな、世間体のいい語りもできる。
+
+"Sa pagdanas sa pook ng Panggagamot at Pag-aalaga, higit kasing mapalalalim ko ang aking pagkadalubhasa." Magagawa ko rin ang maayos na salaysay tulad nito mula sa taong may alam dulot ng pagdanas.
+
+
+### Paalala
+
+Palalimin ang kaalaman dulot ng pagdanas
+
+### Dagdag
+
+1) maaalala: ang ukol sa Wikang Hapon, kung saan minumungkahi ng ASAHI DIGITAL sa mga mag-aaral na mamamayahag na ilapit ang PANDIWA sa bagay na gingamit sa pagkilos;<br/>
+--> dagdag: maaalala rin ang mungkahi sa pag-aaral sa Wikang Ingles na ilapit ang "who", "where", atbp sa tao, pook, atbp na tinutukoy nito;
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [ヤフーとペイペイ、LINEが提携　店頭とオンライン、つないで販促](https://www.asahi.com/articles/ASQDF6VSYQDFULFA01Z.html?iref=comtop_Business_02); last accessed: 20221214
 
 > ヤフーとペイペイ、LINEが提携　店頭とオンライン、つないで販促
