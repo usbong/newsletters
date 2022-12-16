@@ -12,6 +12,71 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [サンタも悩む？　ゲーム機は何歳で買っていい？　専門家の見方は](https://www.asahi.com/articles/ASQDG5WC9QDFPTIL01H.html?iref=comtop_Tech_science_04); last accessed: 20221216
+
+> サンタも悩む？　ゲーム機は何歳で買っていい？　専門家の見方は
+
+Nangangamba rin ba si SANTA? Ilang taon gulang ayos na bumili ng LARUANG MAKINA (Game Console)? Ang paraan ng pagtingin ng Dalubhasa
+
+> 三浦淳2022年12月15日 12時00分
+
+MIURA, JUN; 2022-12-15T12:00
+
+> ゲーム機「ニンテンドースイッチ」で遊ぶ男児
+
+Naglalaro ang batang lalake ng LAURANG MAKINANG "NINTENDO SWITCH".
+
+### Pinaikling Pagbubuod
+
+>　東京・新宿の家電量販店のおもちゃコーナー。都内の会社員男性（39）は11月、のどまで出かかった「買ったる」という言葉をぐっとこらえた。ゲーム機を前に、小学1年の長男（7）から何度も「欲しいなー」「欲しいなー」とねだられていた。
+
+Panganay na lalake (7) sa ika-1 taon ng Mababang Paaralan
+
+>　長男が「ニンテンドースイッチ」を欲しいと言い出したのは、6月ごろだった。
+
+>　9月の誕生日までの約3カ月間、90日連続で、二つの約束事を守ることができたら買うことに決めた。
+
+Hanggang sa kaniyang kaarawan sa ika-9 buwan, kapag 90 araw na tuluy-tuloy na napanatili ng kaniyang anak itong dalawang pangako, pinagpasiyahang niyang bibilihan niya siya ng NINTENDO SWITCH.
+
+>　学校から帰宅したら、まず、宿題と公文の問題をやること。それから、夕食後の自由時間に「iPad」で遊ぶのを2時間以内でやめること。
+
+Pag-uwi mula sa paaralan, una, gawin ang takdang-aralin at ang mga tanong sa pampublikong mga sulatin. Pagkatapos, pagkatapos ng hapunan, at mababa sa 2 oras lamang ang paglalaro ng iPAD.
+
+### Paalala bilang halimbawa
+
+19:30 ang tapos ng hapunan;<br/>
+19:30~21:00; may 1 oras at 30 minuto<br/>
+
+>　約束が守れない日があれば、また1日目から「やり直し」になることとした。
+
+Kapag hindi napanatili ang pangako, balik ulit sa ika-unang araw.
+
+>　長男は我慢はしたものの、宿題をやらずにゲームで遊んだり、隠れて「ユーチューブ」を見たりして、約束を守れない日もあった。
+
+May araw na hindi napanatili ng panganay na anak na lalake ang pangako. Bagama't nagtiis, hindi niya ginawa ang takdang-aralin, at naglaro ng GAME, patagong nanood ng YOUTUBE, atbp.
+
+>　誕生日にスイッチは買ってあげなかった。
+
+Hindi binilhan ng tatay ang kaniyang anak ng SWITCH sa kaarawan.
+
+>　10月末、約束事を守る期間を90日連続から30日連続に短縮した。視野に入れたのは、クリスマスプレゼントだ。
+
+Sa katapusan ng ika-10 buwan, pinaikli niya sa 30 araw mula 90 araw ang pagpapanatili sa pangako. Pakay ito bilang CHRISTMAS PRESENT.
+
+### Dagdag
+
+1) Tuwing tag-init lamang kami nakapaglalaro ng mga LARUANG MAKINA nang nasa Mababang Paaralan ako.<br/>
+--> Mga larong hindi ginagamitan ng MAKINA ang nilalaro namin, kasama ang mga pinsan at anak ng mga tauhan ng Lolo't Lola.<br/>
+--> Halimbawa (sa bahay): Agawan Base<br/>
+--> Dagdag pa, sa paaralan naman ito:<br/>
+--> Cops and Robbers
+
+2) ibinabahagi: makapaglalaan ako ng 10K piso (mga 20K YEN) sa pagbili ng LARUANG MAKINA;<br/>
+--> Gayunman, kapag higit na rito ang singil, maiging PERSONAL COMPUTER (PC) na ang bilhin;<br/>
+--> Sanhi: Matutong maging PRODUCER/DEVELOPER, sa halip na CONSUMER lamang;
+
+
+
 # [俺って役に立っていない」　東京から逃げ出そう、55歳の決断](https://www.asahi.com/articles/ASQD83GMKQCQUTFL01J.html?iref=comtop_list_02); last accessed: 20221215
 
 >「俺って役に立っていない」　東京から逃げ出そう、55歳の決断
