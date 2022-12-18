@@ -34,8 +34,9 @@ Wolverine(ウルヴァリン)も、永遠のエアコンボで人気あるが、
 
 ## 連携動画：
 
-### [【ストⅡ】爆売れでお祭り騒ぎ？”ストリートファイター２”発売直後のカプコン社内の様子](https://www.youtube.com/watch?v=utMt8EFHkXQ); last accessed: 20221217
+### 1) [【ストⅡ】爆売れでお祭り騒ぎ？”ストリートファイター２”発売直後のカプコン社内の様子](https://www.youtube.com/watch?v=utMt8EFHkXQ); last accessed: 20221217; from 20221211
 
+### 2) [Justin Wong @JWonggg](https://twitter.com/JWonggg); last accessed: 20221218; from 20221217
 
 # [【Toby Foxの秘密基地】連載コラム第3回 “Tobyが訊く”Vol.1「日本未発売ソフトの思い出を教えて」回答した読者へトビーさんが直接コメント！](https://www.famitsu.com/news/202212/08285376.html);
 last accessed: 20221209
