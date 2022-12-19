@@ -7,6 +7,67 @@ TO-DO: -update: this<br/>
 
 > ハーバード大学最新研究で分かった”最短でお金持ちになる方法”｜岡本吉起塾Ch
 
+> メモ：
+
+NOTES:
+
+> そばにいる人の影響がでかいと
+
+"A person at our side has a huge influence."
+
+> それで、友達を変えて、<br/>
+> 金持ちの人に、より頻繁に会ったり、<br/>
+> 話したりすることにすると
+
+"So, I decided to change my friends,<br/>
+and more frequently met and spoke<br/>
+with people who have a lot of money."
+
+### 例、学校
+### Example, SCHOOL
+
+> 成績の悪い人たちに<br/>
+> まわられることさせなく、<br/>
+> より良い成績を目指す人たちと<br/>
+> 一緒にすることにしたと
+
+I decided to not let people <br/>
+with bad grades surround me,<br/> 
+and went together with those<br/>
+who aimed for a better grade.
+
+### --
+
+仕組みがあると<br/>
+作られていると<br/>
+周りの人たちで<br/>
+
+"There is a mechanism,<br/>
+that is built<br/>
+by the people around us,"<br/>
+he says.
+
+> 貧乏じゃなく<br/>
+> 金持ちマインド
+
+It is the MIND of those with money,<br/>
+and not of poverty<br/>
+
+> ハーバード大学最新研究
+
+Harvard University's newest research
+
+> より上を目指そうとしていて、<br/>
+> 今の良かろう状態じゃ、<br/>
+> 自分に満足させないと、<br/>
+> わかります。
+
+We learn of striving to aim higher,<br/>
+by not letting the self be satisfied<br/>
+of the current, seemingly<br/> 
+good situation.
+
+
 ### メモ：
 
 そばにいる人の影響がでかいと<br/>
