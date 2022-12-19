@@ -17,6 +17,77 @@ last accessed: 20221215
 
 > 対戦ゲームにおけるチートなどはもちろん論外ですが… 制作側が､少し寛容に考えるべき話をします｡ ゲーム作りはルール作りですが､厳密にし過ぎないことで面白くなる場合もあります｡
 
+> メモ
+
+NOTES:
+
+> チート、ズル
+
+CHEATS, CHEAP/DECEIT
+
+> 一方的に得
+
+continuous one-sided GAIN
+
+> 敵がぽろぽろ自滅し<br/>
+> ソウルが儲かる現象
+
+The PHENOMENON where the SOUL profits,<br/>
+as the ENEMY destroys itself in trickling drops
+
+> が、ズルを許すと
+
+"Yet, the deceit is permitted", he says.
+
+> 理由：
+
+REASON:
+
+> デバッグで潰すが、<br/>
+> 残ると、逆に面白いだろうと
+
+"While it is usually squashed when debugging, <br/>
+it may on the contrary be interesting if kept."
+
+> 必死でズルをする<br/>
+> プレイヤーがいるからと
+
+"There are after all players <br/>
+who cheat, certain of death."
+
+> ある程度のズルを許容したほうが良く<br/>
+> 完全な平坦な道を進むよりだと
+
+"It is better to permit a degree of deceit,<br/>
+than to advance on a perfectly flat road."
+
+> 攻略、遊び方
+
+Attack Technique, the Way of Playing
+
+> 損と得
+
+LOSS and GAIN
+
+> 損をせず、<br/>
+> 得をすると
+
+"Without LOSS, <br/>
+GAINS are made," <br/>
+he says.
+
+> 損を大きくすると<br/>
+> 得をもっと大きくすると
+
+"When the LOSS is made LARGE,<br/>
+the GAIN is made even LARGER."
+
+## Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+## --
+
 ## メモ
 
 ### チート、ズル
