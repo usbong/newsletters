@@ -51,7 +51,7 @@ he says.
 > 金持ちマインド
 
 It is the MIND of those with money,<br/>
-and not of poverty<br/>
+and not of poverty.<br/>
 
 > ハーバード大学最新研究
 
@@ -67,6 +67,7 @@ by not letting the self be satisfied<br/>
 of the current, seemingly<br/> 
 good situation.
 
+## --
 
 ### メモ：
 
