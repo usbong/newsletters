@@ -49,7 +49,7 @@ It was that version of SF III where I challenged and lost to this really older p
 
 ### --
 
-ちなみに、もう一回、チャレンジしてみましたね。自分のキャラで負けるという作戦で、こっちもケンを選んで、戦ってみたが、やはり、負けです。
+> ちなみに、もう一回、チャレンジしてみましたね。自分のキャラで負けるという作戦で、こっちもケンを選んで、戦ってみたが、やはり、負けです。
 
 Oh, and I did challenge him again. Came up with the strategy of losing from his own character, I too chose KEN, fought, and obviously lost.
 
