@@ -12,6 +12,43 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯](https://www.asahi.com/articles/ASQDH6J06QDHUTQP00L.html?iref=comtop_ThemeRightS_02); last accessed: 20221219
+
+> 攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯
+
+Aralin ang pagsalakay (atake) mula sa loob ng kaharian, ang pagsangga (depensa) mula naman sa ibayong dagat; Ang nakita ni Chairman NONOMURA sa W-CUP
+
+> 構成・勝見壮史2022年12月17日 17時00分
+
+Istraktura: KATSUMI, TAKESHI; 2022-12-17T17:00
+
+>「2050年までのW杯優勝」を実現するために、Jリーグも各クラブも、努力を続けていかなければいけない。
+
+Upang maisakatuparan ang "PANALO sa W-CUP sa loob ng hanggang Taong 2050", kailangang ipagpatuloy ang pagsisikap ng J-LEAGUE, at ang lahat ng mga CLUB din.
+
+>　Jリーグが始まった約30年前や自分がプレーしていた頃には、ドイツやスペインに勝つなんて考えられなかった。日本サッカーの成長を素直に感じた。
+
+Mga 30 taon ang nakararaan nang magsimula ang J-LEAGUE, at sa pahanon nang naglaro ako, hindi ko maiisip na mananalo ang HAPON sa ALEMANYA, ESPANYA, atbp. Naramdaman ko ang paglago ng SOCCER ng HAPON.
+
+### Paalala#1 (ukol sa pagsalin)
+
+素直に感じた : 感じた (sa wikang Filipino sa kasong ito)
+
+### --
+
+> いかに「強者のサッカー」を学ぶかだ。前に攻めにいけるけど、今は自重する。ボールを保持できるけど、あえて相手に持たせて逆襲を狙う。試合展開に応じた「駆け引き」の中で、堅守速攻を選ぶようなレベルになれるのが理想だ。
+
+Paano ba mag-aaral upang maging "Pinakamalakas na nilalang ng SOCCER"? Bagama't makasasalakay sa harapan, kasalukuyang ginagawang pabigat ang sarili (hal. labis na pag-iingat). Bagama't naipagtatanggol ang paghawak sa bola, ipinapalit ito upang ipahawak sa katunggali, at ipinapakay ang biglang pagbabalik-salakay. Sa loob ng ganitong "takbuhan", bilang tugon sa pagbubukas ng paligsahan, IDEYAL ang antas kung saan pinipili ang matatag na pagsangga at mabilis na pagsalakay.
+
+### Paalala#2
+
+堅守速攻 (理想) : matatag na pagsangga at mabilis na pagsalakay (IDEYAL)
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [サンタも悩む？　ゲーム機は何歳で買っていい？　専門家の見方は](https://www.asahi.com/articles/ASQDG5WC9QDFPTIL01H.html?iref=comtop_Tech_science_04); last accessed: 20221216
 
 > サンタも悩む？　ゲーム機は何歳で買っていい？　専門家の見方は
