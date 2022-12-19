@@ -1,5 +1,35 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "P100K MULTA, 2 YRS. KULONG SA PASAWAY SA SIM REGISTRATION" (20221218; SUNDAY)
+
+## BOSES
+
+## Author
+
+SISON, RYAN B
+
+## Keyphrase
+
+SIM Registration<br/>
+Pamemeke ng dokumento, atbp
+
+### PARUSA
+
+100PHP multa o 6 na buwan~2 taon pagkakakulong
+
+### Paalala
+
+Online Registration<br/>
+<br/>
+National Telecommunications Commission (NTC)<br/>
+--> magparehistro 180 araw mula Disyembre 27 ng Taong 2022
+
+### PAKAY
+
+pagsugpo sa mga text scam
+
+
+
 # “ARI-ARIAN NI QUIBOLOY, NAKA-BLOCK NA” (2022-12-11; SUNDAY)
 
 ## Author
