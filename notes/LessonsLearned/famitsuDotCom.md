@@ -10,6 +10,59 @@
 
 ## [【スマブラ3DS・WiiU】 ロックマン参戦!](https://www.youtube.com/watch?time_continue=89&v=Y2kREutnkvE&embeds_euri=https%3A%2F%2Fwww.famitsu.com%2F&source_ve_path=MzY4NDIsMjM4NTE&feature=emb_title); last accessed: 20221217
 
+> メモ：
+
+NOTES:
+
+> この動画から、Marvel vs. Capcom#1（アーケード版）を思い出しますね。確かに、ロックマンで戦ってみたかったが、チャレンジして、相手に、すぐ負けた。
+
+I remember Marvel vs. Capcom#1 (Arcade) from this video. I certainly wanted to fight as Megaman (Rockman), albeit quickly lost after challenging another player.
+
+> パートナーとして、スパイダーマンだったと思いますが、なぜかというと、Marvel Super Heroes#1（アーケード版）で戦ったことがありますから。
+
+As for my partner, I think it was SPIDERMAN. This was because I've previously fought as SPIDERMAN in Marvel Super Heroes#1 (Arcade).
+
+> Wolverine(ウルヴァリン)も、永遠のエアコンボで人気あるが、X-MEN CHILDREN OF THE ATOM（アーケード版）あまりやらなかったですね。多分、また誰かが用事で出かけないといけない状態で、おごりとなって、ICE-MANでやらせたぐらいだけです。
+
+Wolverine, too, was popular for his eternal air combo, albeit I didn't play much X-MEN CHILDREN OF THE ATOM. It was maybe only when someone again had to go out and leave because of an urgent matter that I got to play as ICE-MAN as a treat.
+
+> そういえば、店員さんも、ある日、タダで、アーケードをやらせてくれました。格闘ゲームだと、SFゼロ＃１ぐらいしかなかった日だったと思います。何かあったのかなぁ・・・
+
+Speaking of which, one day, the store person let me play the ARCADE for free. I think it was the day when only SF ZERO#1 was available as the FIGHTING GAME. I wondered what could have happened...
+
+> アーケードをよく見る僕ですが、遊ぶのが、そんなに少なかったのかなと。
+
+I thought, I, who often looked at the Arcades, somehow appeared to not play that much. 
+
+> が、もう少しで、SFゼロ＃２と＃３（アーケード版）も出ると思いますね。そして、大きな画面で、SFゼロ＃３の代わりに、SFIII（アーケード版）。
+
+However, in a short while more, I think SF ZERO#2 and #3 (Arcade) too were coming out. And then, on the big screen, instead of SF ZERO #3, it was to be SFIII (Arcade).
+
+> 悪魔（ごうき）のような格好でケンにチャレンジして、だいぶ年上の相手に負けた、あのSFIII版です。
+
+It was that version of SF III where I challenged and lost to this really older player, who played as KEN with an outfit like AKUMA (GOUKI). 
+
+### Dagdag
+
+悪魔（ごうき）のような格好 : HAWAII;<br/>
+--> remembers: KAWASAKI, GUY; keyphrase: APPLE
+
+### --
+
+ちなみに、もう一回、チャレンジしてみましたね。自分のキャラで負けるという作戦で、こっちもケンを選んで、戦ってみたが、やはり、負けです。
+
+Oh, and I did challenge him again. Came up with the strategy of losing from his own character, I too chose KEN, fought, and obviously lost.
+
+> また、そのゲームセンターには、SF EXがなかったですが、TEKKEN TAGがありました。ほかの場だと、SF EXもよく見かけましたが、ZANGIEF, D.DARK, C.JACKというキャラのゲームプレイを思い出します。当時、PS１版が出たところですね。
+
+At that GAME CENTER, there also wasn't SF EX, but there was TEKKEN TAG. In another place, I often caught sight of SF EX, and remember seeing the character gameplay of ZANGIEF, D.DARK, C.JACK. It was at the time that the PS1 was coming out.
+
+> そして、ゲームセンター（「アーケード」という言葉も使いますが）で、人が盗まれた事件もよく起こるようになりました。あと、１〜２年ぐらいで、当時のゲームセンターがなくなるというか、変わっていく、という歴史の流れとなっています。
+
+And then, at the GAME CENTER (we also use the word the "ARCADE"), incidents of theft began to often occur. After about 1~2 years, the GAME CENTER at the time was going to disappear, or maybe I should say, going to change. All this was to become a part in the flow of history.
+
+## --
+
 ## メモ：
 
 この動画から、Marvel vs. Capcom#1（アーケード版）を思い出しますね。確かに、ロックマンで戦ってみたかったが、チャレンジして、相手に、すぐ負けた。
