@@ -2,6 +2,26 @@
 
 TO-DO: -verify: English to Filipino language translation
 
+## https://www.gamedeveloper.com/business/john-carmack-departs-meta-and-bids-farewell-to-vr-development; last accessed: 20221220
+
+> John Carmack departs Meta and bids farewell to VR development<br/>
+> The veteran programmer said Meta is "grossly inefficient" and constantly squanders resources through self-sabotage.<br/>
+> <br/>
+> Chris Kerr<br/>
+> News Editor<br/>
+> December 19, 2022
+
+### Pinaikling Pagbubuod
+
+> John Carmack has resigned as Meta's executive consultant for VR and left the company after almost a decade. 
+
+> "The issue is our efficiency. Some will ask why I care how the progress is happening, as long as it is happening? If I am trying to sway others, I would say that an org that has only known inefficiency is ill prepared for the inevitable competition and/or belt tightening, but really, it is the more personal pain of seeing a 5 percent GPU utilization number in production. I am offended by it."
+
+> "A good fraction of the things I complain about eventually turn my way after a year or two passes and evidence piles up, but I have never been able to kill stupid things before they cause damage, or set a direction and have a team actually stick to it. I think my influence at the margins has been positive, but it has never been a prime mover."
+
+adds: "...explained he'll now be focused on building artificial general intelligence at his startup Keen Technologies." 
+
+
 ## https://www.gamedeveloper.com/gamasutra-status-update; last accessed: 20221026
 
 > Legacy Gamasutra URLs are experiencing issues<br/>
