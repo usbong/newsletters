@@ -1,7 +1,32 @@
 # Lessons-learned from [JWONG (Justin Wong)](https://twitter.com/JWonggg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-## https://www.youtube.com/watch?v=cLiWARXIQXQ;
-last accessed: 20221221
+## https://www.youtube.com/watch?v=cLiWARXIQXQ; last accessed: 20221221 (Philippine Time)
+
+> JAPANESE CVS2 PLAYERS ARE TOO STRONG!
+
+日本のCVS2プレイヤーたちが、強すぎッ！
+
+> On my trip to Japan, I joined a Capcom vs SNK 2 tournament... and I gotta say... not only did I get WASHED, but I was able to commentate the entire CVS2 tournament. The Japan CVS2 community is incredibly strong and I loved to see their passion for the game in real time!
+
+日本へ旅に行った時、Capcom vs SNK 2の試合に参加した・・・　そして、言いたいのは、スゴイ感動した上で、CVS2の全試合で、ナレーターの役割をやらせてもらった。日本のCVS2のコミュニティが、とっても強くて、ゲームに夢中になるのを、実際に観れてよかった。
+
+## Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+## Notes
+
+keyphrase in context
+
+> and I gotta say
+
+そして、言いたいのは
+
+> not only did I get WASHED
+
+スゴイ感動した
+
+##
 
 > JAPANESE CVS2 PLAYERS ARE TOO STRONG!
 
