@@ -4,6 +4,39 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+# https://www.youtube.com/watch?v=rq4MIBvQIeE; 
+last accessed: 20221221
+
+> ワンボタンでできること【企画・ゲーム設計】 
+
+> 桜井政博のゲーム作るに
+
+機能だけでなく、感触も考えるべきだと<br/>
+<br/>
+「合図などと共に、ボタンをなるべく早く押す」<br/>
+<br/>
+刹那の見切り（せつなのみきり）<br/>
+刹那：一瞬<br/>
+<br/>
+タイミング
+
+### ーー
+
+ワンボタンゲーム<br/>
+４種類<br/>
+
+１）連射
+
+２）タイミング
+
+３）早押し
+
+４）切り替え
+
+## Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 # https://www.youtube.com/watch?v=ODmMrl_STi0;
 last accessed: 20221215
 
