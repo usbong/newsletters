@@ -29,7 +29,7 @@ NAKANO, RYUUZOU; 2022-12-20T21:00
 ### Keyphrase
 
 DASSAULT SYSTEMES SOLIDWORKS (AMERIKA)<br/>
-SOFTARE sa paggawa ng mga CHART
+SOFTWARE sa paggawa ng mga CHART
 
 ## --
 
