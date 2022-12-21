@@ -1,5 +1,78 @@
 # Lessons-learned from: Manila Bulletin
 
+## "How to look extra"
+
+### SKIN INVESTING
+
+### Author:
+DR REYES, KAYCEE
+
+### Keyphrase:
+
+lasers<br/>
+ultrasound therapies<br/>
+body contour treatments<br/>
+subcision<br/>
+
+## --
+
+radiofrequency therapy<br/>
+targeted pressure therapy
+
+### BTL Aesthetics
+
+Whole Body Program<br/>
+--> dagdag: UK
+
+#### EMTONE
+
+US FDA-approved device<br/>
+
+1) radiofrequency therapy<br/>
+--> thermal energy
+
+2) targeted pressure therapy<br/>
+--> mechanical energies
+
+targets: fat and tissue<br/>
+--> affects: cellulite appearance<br/>
+--> increases: blood circulation
+
+#### EMSCULPT NEO
+
+1) radiofrequency therapy<br/>
+--> fat loss
+
+2) High-Intesity Focused Electromagnetic (HIFEM) Technology <br/>
+--> muscle toning
+
+targets: several areas in the body<br/>
+--> examples: buttocks, arms, thighs, calves, and abs
+
+#### EMFACE
+
+--> radio frequency with electromagnetic stimulation (high intensity facial electrical stimulation)<br/>
+--> contracts: muscle to strengthen it<br/>
+--> OUTPUT: can lift and sculpt the face without needles
+
+### PAALALA
+
+budol-budol/carnapper/smuggler/cybercriminal/Teroristang Komunista/MANLOLOKO group<br/>
+--> misuses: health techniques via wireless broadcasting equipment<br/> 
+--> to cause UNSOLICITED physical stimulation to target people<br/>
+--> <b>keyphrase:</b> harassment, extortion, cyberbullying,<br/> 
+--> adds: promulgation of NEED of QUICK MONEY<br/>
+<br/>
+--> <b>Recommended Action:</b><br/> 
+--> 1) file: incident reports with POLICE LAW ENFORCEMENT,<br/>
+--> with identification of members and know-how of techniques used by MANLOLOKO group
+
+--> 2) WORK, i.e. NOT QUICK MONEY;<br/>
+--> observed: targets who shall become members of MANLOLOKO group,<br/>
+--> are: those who shall execute CRIMINAL ACTIONS, e.g. theft,<br/>
+--> when current JOB is LOST<br/>
+--> adds: as OUTPUT, targets shall opt NOT to execute CORRECT ACTIONS, e.g. file: POLICE REPORTS
+
 ## "Striking UK nurses say walkouts over pay 'last resort'" (20221213; TUESDAY)
 
 ### Author:
