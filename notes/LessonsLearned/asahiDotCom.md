@@ -45,8 +45,36 @@ Ayon sa Unit ng Pananaliksik, mula taong 2018, kinuha (downloaded) ng kanilang t
 
 GOOGLE SEARCH ENGINE; TRANSLATE
 
-
 ## [攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯](https://www.asahi.com/articles/ASQDH6J06QDHUTQP00L.html?iref=comtop_ThemeRightS_02); last accessed: 20221219
+
+
+> 攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯
+
+Study inside the Kingdom, ATTACKS; Overseas, DEFENSE. The W-CUP that Chairman NONOMURA saw 
+
+> 構成・勝見壮史2022年12月17日 17時00分
+
+Structure: KATSUMI, TAKESHI; 2022-12-17T17:00
+
+> 「2050年までのW杯優勝」を実現するために、Jリーグも各クラブも、努力を続けていかなければいけない。
+
+To realize the dream of becoming "W-CUP Champion by the Year 2050", the J-LEAGUE and all the CLUBS too must continue with their efforts.
+
+> Jリーグが始まった約30年前や自分がプレーしていた頃には、ドイツやスペインに勝つなんて考えられなかった。日本サッカーの成長を素直に感じた。
+
+I could not have thought that the J-LEAGUE that began about 30 years ago, and even from the time when I, myself, played, would WIN against GERMANY, SPAIN, and so on. I directly felt the growth of Japanese SOCCER.
+
+### --
+
+> いかに「強者のサッカー」を学ぶかだ。前に攻めにいけるけど、今は自重する。ボールを保持できるけど、あえて相手に持たせて逆襲を狙う。試合展開に応じた「駆け引き」の中で、堅守速攻を選ぶようなレベルになれるのが理想だ。
+
+How do we study to become "The Strongest in SOCCER"? Previously, we could attack; now, we become self-conscious. We can protect the ball, but we instead let it be held by our opponent, so we can plan a counter-attack. In a match of "back and forth running", it is ideal to be at the level where we can choose solid defense and quick attack.
+
+### Reminder
+
+堅守速攻 (理想) : solid defense and quick attack (IDEAL)
+
+### --
 
 > 攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯
 
@@ -72,7 +100,7 @@ Mga 30 taon ang nakararaan nang magsimula ang J-LEAGUE, at sa pahanon nang nagla
 
 > いかに「強者のサッカー」を学ぶかだ。前に攻めにいけるけど、今は自重する。ボールを保持できるけど、あえて相手に持たせて逆襲を狙う。試合展開に応じた「駆け引き」の中で、堅守速攻を選ぶようなレベルになれるのが理想だ。
 
-Paano ba mag-aaral upang maging "Pinakamalakas na nilalang ng SOCCER"? Bagama't makasasalakay sa harapan, kasalukuyang ginagawang pabigat ang sarili (hal. labis na pag-iingat). Bagama't naipagtatanggol ang paghawak sa bola, ipinapalit ito upang ipahawak sa katunggali, at ipinapakay ang biglang pagbabalik-salakay. Sa loob ng ganitong "takbuhan", bilang tugon sa pagbubukas ng paligsahan, IDEYAL ang antas kung saan pinipili ang matatag na pagsangga at mabilis na pagsalakay.
+Paano ba mag-aaral upang maging "Pinakamalakas na nilalang sa SOCCER"? Bagama't makasasalakay noon, sa kasalukuyan,  ginagawang pabigat ang sarili (hal. labis na pag-iingat). Bagama't naipagtatanggol ang paghawak sa bola, ipinapalit ito upang ipahawak sa katunggali, at ipinapakay ang biglang pagbabalik-salakay. Sa loob ng ganitong paligsahan ng "takbuhan", IDEYAL ang antas kung saan pinipili ang matatag na pagsangga at mabilis na pagsalakay.
 
 ### Paalala#2
 
