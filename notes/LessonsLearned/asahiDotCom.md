@@ -12,6 +12,40 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [職員が海賊版ソフト使用、賠償金8300万円　北海道立総合研究機構](https://www.asahi.com/articles/ASQDN6SRQQDNIIPE00H.html?iref=comtop_Tech_science_03); last accessed: 20221221
+
+> 職員が海賊版ソフト使用、賠償金8300万円　北海道立総合研究機構
+
+Tauhan, gumamit ng PIRATED SOFTWARE, Ipinagbayad ng 83 Milyong YEN (mga 41.5 Milyong PHP); Sa Unit ng Pananaliksik sa HOKKAIDO
+
+### Paalala 
+
+北海道立総合研究機構 : Sa Bahagi ng Pinagbuklod na Pananaliksik ng Pagtatayo sa HOKKAIDO
+
+> 中野龍三2022年12月20日 21時00分
+
+NAKANO, RYUUZOU; 2022-12-20T21:00
+
+### Keyphrase
+
+DASSAULT SYSTEMES SOLIDWORKS (AMERIKA)<br/>
+SOFTARE sa paggawa ng mga CHART
+
+## --
+
+>　道総研と同社は今月15日に和解が成立。職員は「海賊版は数千円程度の手数料だけで利用でき便利だった」と認めているという。（中野龍三）
+
+Sa ika-15 araw nitong buwan, nagka-ayusan na ang DASSAULT SYSTEMES SOLIDWORKS (AMERIKA) at ang Unit ng Pananaliksik sa Hokkaido. Ito raw ang inamin ng tauhan sa Unit: "Ginhawa dahil mabilis na magagamit ang PIRATED SOFTWARE. Magbabayad lamang ng ilang libong YEN sa paglilingkod."
+
+> 道総研によると、職員は2018年から、ダッソー・システムズ・ソリッドワークス社（米国）の図面設計ソフトの海賊版をインターネットからダウンロードし、職場や私有の複数パソコンに無断でインストールし利用していた。今年8月にダッソー社からの通知で発覚した。
+
+Ayon sa Unit ng Pananaliksik, mula taong 2018, kinuha (downloaded) ng kanilang tauhan mula sa INTERNET ang PIRATED SOFTWARE, ginawan nang walang tigil na installation sa maraming bilang ng mga Personal Computer (PC), at saka ginamit sa hanap-buhay at sa pansariling mga gawain. Ipinamulat ito ng DASSAULT sa kanilang pahayag nitong ika-8 buwan ng kasalukuyang taon.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯](https://www.asahi.com/articles/ASQDH6J06QDHUTQP00L.html?iref=comtop_ThemeRightS_02); last accessed: 20221219
 
 > 攻撃は国内で、守備は海外で学べる　野々村チェアマンが見たW杯
