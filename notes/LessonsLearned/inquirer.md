@@ -1,5 +1,35 @@
 # Lessons-learned: Inquirer
 
+## "MUSK WARNS OF TWITTER BANKRUPTCY AS MORE SENIOR EXECUTIVES QUIT" (20221112; SATURDAY)
+
+### Author: 
+
+REUTERS, AFP
+
+### keyphrase: 
+
+Billionaire Elon Musk<br/> 
+--> new owner of Twitter Inc.<br/>
+--> bought: Twitter Inc. @44 Billion USD in 2022-10-27<br/>
+<br/>
+Head of Trust & Safety resigned;<br/>
+--> task: combat hate speech, misinformation, span on the service;<br/>
+<br/>
+Chief Information Security Officer resigned;<br/>
+Chief Privacy Officer resigned;<br/>
+Chief Compliance Officer resigned;<br/>
+<br/>
+Top Ad Sales Executive did NOT resign;
+
+### OUTPUT
+
+--> notes: company has been losing over 4 Million USD per day<br/>
+--> due to: noticeable count of advertisers started fleeing 
+
+### ACTION
+
+boost subscription revenue
+
 
 ## "He champions Generation 'Komiks'" (20221204)
 
