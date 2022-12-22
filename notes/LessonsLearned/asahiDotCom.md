@@ -12,6 +12,60 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [クリスマス、高校生は何がほしい？　贈り物もケーキも物価高を反映](https://www.asahi.com/articles/ASQDM6SMRQDMULEI00N.html?iref=comtop_7_04); last accessed: 20221222
+
+> クリスマス、高校生は何がほしい？　贈り物もケーキも物価高を反映
+
+Sa PASKO, ano ang nais ng mga Mag-aaral sa Mataas na Paaralan (Hayskul)? Isinasalamin ang pagtaas ng bilihin mula sa mga REGALO, at CAKE din
+
+> 田渕紫織、松本千聖2022年12月22日 7時00分
+
+TABUCHI, SHIORI; MATSUMOTO, CHISATO;  2022-12-22T07:00
+
+> 高校生がクリスマスプレゼントに望むものは、現金――。
+
+Ito ang hangad na REGALO sa PASKO ng mga Mag-aaral sa Mataas na Paaralan: PERA (CASH)
+
+> リクルートが高校生779人に尋ねたところ、そんな結果が出た。昨年もらったプレゼントの平均金額は「8543円」で、もらったものの1位も現金だったという。
+
+Tinanong ng RECRUIT (Samahan) ang 779 NA Mag-aaral sa Mataas na Paaralan, at iyon ang lumabas na bunga. "8543 YEN" ang karaniwang halaga ng natanggap na REGALO ng nakaraan taon, at #1 ang PERA sa mga natanggap na bagay.
+
+>　調査からは、物価高の影響も見えた。高校生の子どもがいる保護者310人のうち30%が「最近の物価高や為替などの経済状況がクリスマスプレゼントに影響している」と答えた。
+
+Ayon sa pagsisiyasat, nakikitang dulot din ito ng mataas na bilihin. Sabi ng 30% ng 310 na sumagot na mga tagapag-alaga sa mga batang Mag-aaral ng Mataas na Paaralan, "Nakapagdudulot ang kalagayan sa EKONOMIYA, tulad ng mataas na bilihin, palitan ng salapi, sa nais na REGALO sa PASKO."
+
+>　理由としては、52%が「物価上昇が家計を圧迫していて節約が必要」と回答。「収入が減少」が18%で続いた。
+
+Sagot ng 52%, bilang dahilan, "Kailangang magtipid sa gastusin ng Pamilya bunsod ng pagtaas ng halaga ng mga bagay-bagay". "Kumaunti ang KITA (INCOME)" ang sumunod naman na 18%.
+
+### Paalala
+
+> 物価上昇が家計を圧迫して
+
+...bunsod ng pagtaas ng halaga ng mga bagay-bagay<br/>
+<br/>
+Families are pressured by the rising price of commodities
+
+
+### --
+
+>　クリスマスケーキも値上がりしている。
+
+Tumataas din ang halaga ng CHRISTMAS CAKE.
+
+>　帝国データバンクが百貨店や洋菓子店など100社に調査したところ、5号サイズ（直径約15センチ）のイチゴのショートケーキが、今年は昨年から平均209円アップし、4040円となっていた。同社は、背景に原材料費の高騰があると分析する。
+
+Sa pagsisiyasat ng DATABANK ng Emperiyo (Kaharian), ayon sa 100 samahan, tulad ng DEPARTMENT STORE, Tindahan ng mga Matatamis, atbp, ang #5 SIZE (mga 15cm ang diameter) na STRAWBERRY SHORTCAKE, 4040YEN, tumaas ng 209YEN ang karaniwang halaga nito sa kasalukuyang taon mula ng nakaraang taon. Sa pagsusuri ng nabanggit na samahan, ang pagtaas ng singil sa mga sangkap ang nasa likod nito.
+
+>　総務省の統計と店頭価格のデータをもとに同社が推計したところ、ケーキに使う小麦粉（強力粉）の価格が前年から5割上昇していた。このほか、イチゴなどのフルーツや砂糖、牛乳、鶏卵など原材料のほとんどが値上がりしていた。
+
+Batay sa pagbibilang ng PAMAHALAAN at ng DATOS mula sa mga singil ng mga tindahan, tumaas ng 50% mula ng nakaraang taon ang halaga ng ginagamit sa CAKE na HARINA (Malagkit). Bukod pa rito, tumaas din ang halos lahat ng mga sangkap tulad ng mga prutas gaya ng STRAWBERRY, at pati rin ang asukal, gatas, itlog ng manok, atbp.
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [職員が海賊版ソフト使用、賠償金8300万円　北海道立総合研究機構](https://www.asahi.com/articles/ASQDN6SRQQDNIIPE00H.html?iref=comtop_Tech_science_03); last accessed: 20221221
 
 > 職員が海賊版ソフト使用、賠償金8300万円　北海道立総合研究機構
