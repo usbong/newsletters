@@ -1,5 +1,31 @@
 # Lessons-learned: The Philippine STAR
 
+# BOC stops bid to smuggle P20-M onions in Misamis
+
+## Author
+
+RAMIREZ, ROBERTZON
+
+### Keyphrase
+
+Bureau of Customs (BOC)
+
+> "The more empowered these people feel about smuggling these products, the more our economy will suffer"
+
+--> seized: by BOC, agriculture products valued @1.205 Billion PHP;<br/>
+--> count: 105 seizures;<br/>
+--> notes: as technique, smugglers misdeclared shipment<br/>
+<br/>
+--> Example: shipment as bread and pastries from China; arrived in Cagayan de Oro on 2022-12-06; <br/>
+<br/>
+--> objective: flood the market with imported goods without paying the required tax and import duties; 
+
+#### VALUE of REPORT
+
+--> received: by BOC, report of smuggled items <br/>
+--> accompanied: by Department of Agriculture <br/>
+--> adds: Philippine Drug Enforcement Agency
+
 ## “Norway princess quits duties to work with shaman fiance” (20221110; THURSDAY)
 
 ### Author
