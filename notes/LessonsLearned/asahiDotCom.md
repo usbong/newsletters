@@ -12,6 +12,42 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [病院へのサイバー攻撃、リモート操作許し被害拡大か　3病院にも影響](https://www.asahi.com/articles/ASQDR67BWQDQULZU00J.html?iref=comtop_Tech_science_01); last accessed: 20221224
+
+> 病院へのサイバー攻撃、リモート操作許し被害拡大か　3病院にも影響
+
+CYBER ATTACK sa Pagamutan, Lumawak ang pinsala sa pagpayag sa REMOTE CONTROL; 3 Pagamutan din ang tinamaan
+
+> 華野優気、編集委員・須藤龍也2022年12月23日 22時00分
+
+HANANO, YUUKI; Tauhan ng Tagapagbuklod: TATSUYA, SUDOU; 2022-12-23T22:00
+
+### Pinaikling Pagbubuod
+
+>　大阪急性期・総合医療センターを含む4病院は生長会が運営する給食提供サービス「ベルキッチン」を利用しており、患者の病院食を発注するシステムを病院内に置いている。10月31日以降、このシステムがランサムウェア（身代金ウイルス）によるサイバー攻撃を受けて停止している。
+
+Gumagamit ang 4 na Pagamutang kabilang sa CENTER ng Pinagsamang Panggamot at ng sa Mabilisang Panahon sa OSAKA nito: “BELL KITCHEN”, isang paglilingkod (serbisyo) ng Pagbibigay ng Pagkain. Nasa loob ng Pagamutan ang sistema ng paghihiling ng Pagkain ng May-sakit. Pagkatapos ng ika-31 araw ng ika-10 buwan,  itinigil ang sistemang ito dahil sa pagtamo ng CYBER ATTACK, na RANSOMWARE (VIRUS na magagamot lamang kapalit ng pera ).
+
+> 3病院は大阪警察病院と湯川胃腸病院（いずれも大阪市天王寺区）、堺市立総合医療センター（堺市西区）。いずれも取材に認め、診療に影響は出ていないという。
+
+Nasa lungsod ang alinman sa 3 Pagamutan sa Lungsod ng Osaka. Sa pagkalap ng balita, hindi naman daw nagkaroon ng dulot ito sa Panggagamot.
+
+### --
+
+https://www.asahi.com/articles/photo/AS20221223003297.html;
+last accessed: 20221224
+
+> サイバー攻撃を受けて停止した大阪急性期・総合医療センターのサーバー=大阪市住吉区、同センター提供
+
+SERVER sa Pagamutan
+
+### Dagdag
+
+maaalala: ang mga SERVER sa DATA CENTER<br/>
+—> Pagamutan bilang DATA CENTER
+
+
+
 # [クリスマス、高校生は何がほしい？　贈り物もケーキも物価高を反映](https://www.asahi.com/articles/ASQDM6SMRQDMULEI00N.html?iref=comtop_7_04); last accessed: 20221222
 
 > クリスマス、高校生は何がほしい？　贈り物もケーキも物価高を反映
