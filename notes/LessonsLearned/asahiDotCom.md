@@ -21,6 +21,12 @@ Heaven's Voice, Human Language: The Sound of ATOM's Feet
 
 > ロボットが歩くと、どんな音がするか。まず浮かぶのは、ガシャとかカチャといった金属音ではないだろうか。でも、そのロボットが人間の心を持っているとしたら――。「音の神様」と呼ばれ、９２歳で亡くなった音響デザイナーの大野松雄さんは６０年前、新しい音でこの問いに答えた▼手塚治虫の漫画が原作の国産初の連続テ…
 
+### version 2
+
+When a ROBOT walks, what kind of sound does it make? Aren't metallic sounds such as "GASSSHHHH" and "KACCCHHHH", the first things that come to mind? But, if that ROBOT were to carry the heart of a human being... 60 years ago, OHNO, MATSUO, the SOUND VIBRATION DESIGNER, who passed away at 92 years old, answered this question with a new sound, called the "Sound of God"▼The first nationally produced television series of TEZUKA, OSAMU's original MANGA...
+
+### version 1
+
 When a ROBOT walks, what kind of sound does it make? Aren't sounds such as "GASSSHHHH", and "KACCCHHHH", those of GOLD METAL what first come to mind? But, if that ROBOT carries the heart of a human being... 60 years ago, this question was answered by a new sound from OHNO, MATSUO, the SOUND VIBRATION DESIGNER, who passed away at 92 years old, and was called the "Sound of God"▼In the Television series of the first national production of TEZUKA, OSAMU's original MANGA... 
 
 ### Notes:
@@ -31,7 +37,7 @@ When a ROBOT walks, what kind of sound does it make? Aren't sounds such as "GASS
 --> adds: PHP + CodeIgniter (version 2.0);<br/>
 --> where: @START, building a new WEB SERVICE causes noticeable use of self's MIND<br/> 
 --> to create in the MIND the STRUCTURE, while connecting the parts;<br/>
---> keyphrase: connecting the parts using the MVC: Model-View-Controller technique<br/> 
+--> keyphrase: connecting the parts using the Model-View-Controller (MVC) technique<br/> 
 --> OUTPUT: the FORM in the MIND; Computer "VIRTUAL" (?)
 
 
