@@ -15,6 +15,29 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 # [（天声人語）アトムの足音](https://www.asahi.com/articles/DA3S15512149.html?iref=comtop_Opinion_05);
 last accessed: 20221226
 
+> （天声人語）アトムの足音
+
+Heaven's Voice, Human Language: The Sound of ATOM's Feet 
+
+> ロボットが歩くと、どんな音がするか。まず浮かぶのは、ガシャとかカチャといった金属音ではないだろうか。でも、そのロボットが人間の心を持っているとしたら――。「音の神様」と呼ばれ、９２歳で亡くなった音響デザイナーの大野松雄さんは６０年前、新しい音でこの問いに答えた▼手塚治虫の漫画が原作の国産初の連続テ…
+
+When a ROBOT walks, what kind of sound does it make? Aren't sounds such as "GASSSHHHH", and "KACCCHHHH", those of GOLD METAL what first come to mind? But, if that ROBOT carries the heart of a human being... 60 years ago, this question was answered by a new sound from OHNO, MATSUO, the SOUND VIBRATION DESIGNER, who passed away at 92 years old, and was called the "Sound of God"▼In the Television series of the first national production of TEZUKA, OSAMU's original MANGA... 
+
+### Notes:
+
+1) observed: noticeable TIME used to also identify the CORRECT sequence of the words in English,<br/> 
+--> as with the Filipino language<br/>
+--> remembers: GAME OFF 2022 ENTRY (PUZZLE): http://store.usbong.ph/gameoff<br/>
+--> adds: PHP + CodeIgniter (version 2.0);<br/>
+--> where: @START, building a new WEB SERVICE causes noticeable use of self's MIND<br/> 
+--> to create in the MIND the STRUCTURE, while connecting the parts;<br/>
+--> keyphrase: connecting the parts using the MVC: Model-View-Controller technique<br/> 
+--> OUTPUT: the FORM in the MIND; Computer "VIRTUAL" (?)
+
+
+### --
+
+
 >（天声人語）アトムの足音
 
 Tinig ng Langit, Salaysay ng Tao: Tunog ng Paa ni ATOM
