@@ -12,6 +12,45 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [（天声人語）アトムの足音](https://www.asahi.com/articles/DA3S15512149.html?iref=comtop_Opinion_05);
+last accessed: 20221226
+
+>（天声人語）アトムの足音
+
+Tinig ng Langit, Salaysay ng Tao: Tunog ng Paa ni ATOM
+
+> 2022年12月26日 5時00分
+
+2022-12-26T05:00
+
+> ロボットが歩くと、どんな音がするか。まず浮かぶのは、ガシャとかカチャといった金属音ではないだろうか。でも、そのロボットが人間の心を持っているとしたら――。「音の神様」と呼ばれ、９２歳で亡くなった音響デザイナーの大野松雄さんは６０年前、新しい音でこの問いに答えた▼手塚治虫の漫画が原作の国産初の連続テ…
+
+Kapag naglalakad ang ROBOT, anong uri ba ng tunog ang naririnig mula roon? Hindi nga ba ang unang nangingibabaw sa ating isipan, "gyassshhhha", "kyaccchhhha", mga tunog ng sa BAKAL na GINTO? Gayunman, kapag may puso ng taong nilalang ang ROBOT na iyon... 60 taon ang nakararaan, sinagot ng pumanaw sa 92 taong gulang na si OHNO, MATSUO, isang DESIGNER, ang tanong na ito gamit ang makabagong tunog. Tinatawag ang umaalingawngaw na tunog na ito: "Tunog ni Panginoon".▼Sa panibagong gawang serye (sa television) ng MANGA ni TEZUKA, OSAMU...
+
+### Dagdag
+
+1) mapapansin: ang kinailangan kong panahon upang isaayos ang mga salitang aking sinalin sa Wikang Filipino;<br/>
+--> susing parirala: Tunog ni Panginoon, pumanaw, 60 taon ang nakararaan<br/>
+
+2) mapapansin: hindi ko na itinuloy pa ang pagbabasa ng mga MANGA ni G. TEZUKA, OSAMU,<br/>
+--> susing parirala: pagkatapos basahin ang sa KIMBA,<br/>
+--> mula sa aking natagpuang aklat sa tindahan ng mga lumang gamit mula sa bansang Hapon<br/>
+--> dagdag: KALIKASAN, MALUPIT;<br/>
+--> kung saan: OUTPUT : NEGATIVE<br/>
+--> maaalala: ang mga huling panayam kay ASIMOV, ISAAC;<br/>
+--> na: mapapansin ang hinaharap bilang MASAMA (NEGATIVE)<br/>
+--> Gayunman, mayroon din na mga panayam sa mga HAPON bago yumao na may pasasalamat, <br/>
+--> e.g. 報われる, pinagpapala ang gumagawa ng mabuti<br/>
+--> dagdag: anuman, nananatili sa akin ang payak na kaibuturan ng mga salaysay ni G. TEZUKA;<br/>
+--> halimbawa: sa BLACKJACK, ano ang kailangan upang gumaling?<br/> 
+--> Sagot: Hindi pera. Mga tunay na kaibigan;
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # [病院へのサイバー攻撃、リモート操作許し被害拡大か　3病院にも影響](https://www.asahi.com/articles/ASQDR67BWQDQULZU00J.html?iref=comtop_Tech_science_01); last accessed: 20221224
 
 > 病院へのサイバー攻撃、リモート操作許し被害拡大か　3病院にも影響
