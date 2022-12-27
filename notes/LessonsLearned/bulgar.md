@@ -1,5 +1,26 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "KASONG KRIMINAL SA PAGBILI NG NAKAW NA GAMIT (20221227; TUESDAY)"
+
+## MAGTANONG KAY ATTORNEY
+
+### Author
+
+DR RUEDA-ACOSTA, PERSIDA V
+
+### Keyphrase
+
+Presidential Decree (P.D.) No. 1612: Anti-Fencing Law of 1979
+
+#### Ang KRIMEN na "Fencing"
+
+> pagbili, pagbenta, pagtanggap o paghawak ng anumang gamit na galing sa krimen na theft o robbery
+
+--> Lalala pa raw ang KASALANAN kapag alam ng bumili na galing sa nakaw, kahit hindi direktang nasabi sa kanya.
+
+
+
+
 # "P100K MULTA, 2 YRS. KULONG SA PASAWAY SA SIM REGISTRATION" (20221218; SUNDAY)
 
 ## BOSES
