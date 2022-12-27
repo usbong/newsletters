@@ -12,6 +12,24 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [「いいね」のために生きてきた　ウソまみれの投稿、手放して得た自由](https://www.asahi.com/articles/ASQDR5QFFQDGPTIL010.html?iref=comtop_7_01); last accessed: 20221226
+
+>「いいね」のために生きてきた　ウソまみれの投稿、手放して得た自由
+
+Nabuhay dahil sa "Ayos ah! (LIKE)"; Kalayaang natamo pagkatapos humiwalay sa mga POST na panay KASINUNGALINGAN;
+
+## --
+
+>「いいね」のために生きてきた　ウソまみれの投稿、手放して得た自由
+
+Came to live for the sake of "LIKES"; The FREEDOM obtained by leaving the POSTS of LIES 
+
+## --
+
+> 矢島大輔2022年12月27日 8時01分
+
+YAJIMA, DAISUKE; 2022-12-27T08:01
+
 # [（天声人語）アトムの足音](https://www.asahi.com/articles/DA3S15512149.html?iref=comtop_Opinion_05);
 last accessed: 20221226
 
