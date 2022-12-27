@@ -51,7 +51,7 @@ When a ROBOT walks, what kind of sound does it make? Aren't sounds such as "GASS
 
 1) observed: noticeable TIME used to also identify the CORRECT sequence of the words in English,<br/> 
 --> as with the Filipino language<br/>
---> remembers: GAME OFF 2022 ENTRY (PUZZLE): http://store.usbong.ph/gameoff<br/>
+--> remembers: GAME OFF 2022 ENTRY (PUZZLE): https://itch.io/jam/game-off-2022/rate/1813781<br/>
 --> adds: PHP + CodeIgniter (version 2.0);<br/>
 --> where: @START, building a new WEB SERVICE causes noticeable use of self's MIND<br/> 
 --> to create in the MIND the STRUCTURE, while connecting the parts;<br/>
