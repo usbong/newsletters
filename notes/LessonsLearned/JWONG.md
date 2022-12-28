@@ -41,7 +41,7 @@ notes: VIDEO ELAPSED TIME: 1hr47min48sec<br/>
 
 > Man.... Street Fighter the movie have been quite fun on the channel but I never fought against the AI on the hardest setting.  What a mistake...
 
-ったく・・・・ストリートファイター・ザ・ムービーは、チャネルでかなり楽しかったが、AI（人工能力）の最強難易度のと、全然　戦ったことはない！やられた・・・
+ったく・・・・ストリートファイター・ザ・ムービーは、チャネルでかなり楽しかったが、AI（人工知能）の最強難易度のと、全然　戦ったことはない！やられた・・・
 
 > Check it out: https://youtu.be/fg8YQFApgeQ
 
