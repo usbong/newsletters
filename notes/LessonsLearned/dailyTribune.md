@@ -8,7 +8,7 @@ PANELO, SALVADOR S
 
 ## Keyphrase
 
-Major Surgical Procedue : Revolution from Within
+Major Surgical Procedure : Revolution from Within
 
 ### Objective:
 
