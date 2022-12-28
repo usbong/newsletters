@@ -71,7 +71,7 @@ Mga paglilinaw ito kapag MALABO pa ang patakaran
 
 2) Cyberstalking, where Manloloko appears to harmlessly interact with target 
 
-3) Identify theft, where Manloloko executes unauthorized acquisition, use, abuse, transfer, possess, change or deletion of target's identifying information<br/>
+3) Identity theft, where Manloloko executes unauthorized acquisition, use, abuse, transfer, possess, change or deletion of target's identifying information<br/>
 --> adds: "Doxing attacks"
 
 > Doxing attacks can range from the relatively trivial, such as fake email sign-ups or pizza deliveries, to the far more dangerous ones, like harassing a person's family or employer, identity theft, threats, or other forms of cyberbullying, or even in-person harassment.
