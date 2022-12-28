@@ -95,6 +95,11 @@ recommends: Internet Service Providers to assist Philippine National Police: Ant
 --> observed: target CAN be identified via the use of IP address to view select websites, e.g. "gamasutra";<br/>
 --> adds: with web services that are used by multiple TARGETS, obtaining one (1) SSL key access shall cause multiple ATTACKS to be executable
 
+### Paalala
+
+"gamustra" : with the letter "g"; now renamed to: www.gamedeveloper.com; last accessed: 20221228<br/>
+--> keyphrase: web service with INFORMATION on Game Development
+
 # "Navarro spending Yule out of jail" (20221207; Wednesday)
 
 ## Author
