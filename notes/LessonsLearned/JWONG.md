@@ -1,5 +1,16 @@
 # Lessons-learned from [JWONG (Justin Wong)](https://twitter.com/JWonggg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
+JWONG as the AD/COMMERCIAL HUB;<br/>
+--> notes: WORK via among others: GAMEPLAY VIDEOS with NARRATION;
+
+### DATETIME STAMP: 2022-12-28T12:30 (Philippine Time)
+
+> Joined March 2009<br/>
+> 565 Following<br/>
+> 176.9K Followers
+
+
+
 ## https://www.youtube.com/watch?v=fg8YQFApgeQ; last accessed: 20221228 (Philippine Time)
 
 > 7,876 views  Dec 28, 2022  
