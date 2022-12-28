@@ -80,7 +80,8 @@ Kapag naglalakad ang ROBOT, anong uri ba ng tunog ang naririnig mula roon? Hindi
 --> susing parirala: Tunog ni Panginoon, pumanaw, 60 taon ang nakararaan<br/>
 
 2) mapapansin: hindi ko na itinuloy pa ang pagbabasa ng mga MANGA ni G. TEZUKA, OSAMU,<br/>
---> susing parirala: pagkatapos basahin ang sa KIMBA,<br/>
+--> susing parirala: pagkatapos basahin ang sa [ロロの旅路](https://tezukaosamu.net/jp/manga/577.html) <br/>
+--> (sa halip na KIMBA, ang aking ibig sabihin),<br/>
 --> mula sa aking natagpuang aklat sa tindahan ng mga lumang gamit mula sa bansang Hapon<br/>
 --> dagdag: KALIKASAN, MALUPIT;<br/>
 --> kung saan: OUTPUT : NEGATIVE<br/>
