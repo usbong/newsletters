@@ -1,5 +1,46 @@
 # Lessons-learned from [JWONG (Justin Wong)](https://twitter.com/JWonggg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
+## https://www.youtube.com/watch?v=fg8YQFApgeQ; last accessed: 20221228 (Philippine Time)
+
+> 7,876 views  Dec 28, 2022  
+
+> #StreetFighterThemovie #StreetFighter #justinwong
+
+> Yes, I am once again playing Street Fighter the Movie The Game... but this time I'm playing the arcade mode on the HARDEST DIFFICULTY. Akuma and Cammy are giving me the hands. I can't believe how sweaty this mode is!
+
+そう、おれは、また　ストリートファイター・ザ・ムービー、「ザ・ゲーム」をやってる・・・　だが、今回、アーケードモードで、最強難易度のをやってる。アクマとキャミィで、自分の手がビショビショ！！この設定じゃ、汗かくほど　知らんかった！！
+
+### --
+
+## https://twitter.com/JWonggg; last accessed: 20221228 (Philippine Time)
+
+> NEW YOUTUBE VIDEO
+
+> Man.... Street Fighter the movie have been quite fun on the channel but I never fought against the AI on the hardest setting.  What a mistake...
+
+ったく・・・・ストリートファイター・ザ・ムービーは、チャネルでかなり楽しかったが、AI（人口能力）の最強難易度のと、全然　戦ったことはない！やられた・・・
+
+> Check it out: https://youtu.be/fg8YQFApgeQ
+
+こちらをどうぞ！https://youtu.be/fg8YQFApgeQ
+
+### Notes
+
+keyphrase in context
+
+>　What a mistake...
+
+やられた・・・<br/>
+<br/>
+大間違いだった・・・<br/>
+<br/>
+しまった・・・<br/>
+
+### Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## https://www.youtube.com/watch?v=cLiWARXIQXQ; last accessed: 20221221 (Philippine Time)
 
 > JAPANESE CVS2 PLAYERS ARE TOO STRONG!
