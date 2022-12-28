@@ -9,7 +9,19 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://www.twitch.tv/videos/1690385680; last accessed: 20221228 (Philippine Time)
 
+DATETIME STAMP: 2022-12-28T19:29
+
+> 14 hours ago<br/>
+> CONSISTENT STREAMER is committing to be chained to echoes<br/>
+> Chained Echoes<br/>
+> ·<br/>
+> 2,225 views
+
+notes: VIDEO ELAPSED TIME: 1hr47min48sec<br/>
+—> observed: GAME PLAYED first, then added VIDEO of NARRATION;<br/>
+—> TOTAL >= 1hr47min48sec * 2
 
 ## https://www.youtube.com/watch?v=fg8YQFApgeQ; last accessed: 20221228 (Philippine Time)
 
