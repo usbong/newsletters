@@ -1,5 +1,46 @@
 # Daily Tribune
 
+# "To serve and protect the people" (20221228; WEDNESDAY)
+
+## Author
+
+PANELO, SALVADOR S
+
+## Keyphrase
+
+Major Surgical Procedue : Revolution from Within
+
+### Objective:
+
+> ...demolish the oligarchic rule of the political and economic power holders
+
+--> oligarchy : minority count of population
+
+### ACTION
+
+interpretation of constitution<br/>
+--> where: prime duty = TO SERVE and PROTECT<br/>
+--> via: "ex propio vigore (with full force and effect)"<br/>
+
+> ...can do no wrong if he performs any act geared toward serving and protecting the Filipino people.
+
+# "One year ago" (20221228; WEDNESDAY)
+
+## LIFE LINES
+
+## Author
+
+VENTURA, DINAH
+
+## Keyphrase
+
+mudita : Sanskrit word, "feeling of genuine joy for others' good fortune"<br/>
+<br/>
+schadenfreude : German word, joy for others' bad fortune<br/>
+<br/>
+Science = identify and classify
+
+
 # "Beware of online predators" (20221215; THURSDAY)
 
 ## Author
