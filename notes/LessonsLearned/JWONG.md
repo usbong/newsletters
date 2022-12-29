@@ -9,6 +9,25 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20221230 (Philippine Time)
+
+> NEW YOUTUBE VIDEO
+
+> Had an amazing opportunity for the first time ever to fight against RX the Godfather of Urien!!!  It was thrilling and very hard not to make a mistake
+
+はじめてRX、いわゆるURIENのゴッドファーザーと戦って、凄くよかった！！！わくわくする、間違えのない体験は、とっても辛くて、楽しい
+
+> Check it out: https://youtu.be/OR_h6E309Zo
+
+こちらをどうぞ！https://youtu.be/OR_h6E309Zo
+
+> 8,479 views  29 Dec 2022  #StreetFighter #StreetFighterThirdStrike #3S
+
+> Do you ever wonder where certain combos and movements come from in a character? Well, I'm here to tell you guys that everything you know about Urien comes from him.. The legendary RX from Japan aka the GODFATHER of Urien. I got the privilege to play a set against him in Japan. Enjoy me analyzing our set!
+
+キャラの特定のコンボと行動が、どこから来るか、考えたことある？まぁ、言っとくが、世間の知っているURIENのこと、全ては、日本の伝説のRX、いわゆる「URIENのゴッドファーザー」から来るぜ！日本で、彼と戦わせてもらって、自分で分析する動画を楽しんで！
+
+
 ## https://www.twitch.tv/videos/1690385680; last accessed: 20221228 (Philippine Time)
 
 DATETIME STAMP: 2022-12-28T19:29
