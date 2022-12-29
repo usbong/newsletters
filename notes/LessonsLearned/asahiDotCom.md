@@ -12,6 +12,33 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+https://www.asahi.com/articles/DA3S15515355.html?iref=comtop_Opinion_05;
+last accessed: 20221229
+
+>（天声人語）私たちは何も知らない
+
+Tinig ng Langit, Salaysay ng Tao:<br/>
+Wala tayong alam<br/>
+
+>（天声人語）私たちは何も知らない
+
+Heaven's Voice, Human Language<br/>
+We did not know anything
+
+> 2022年12月29日 5時00分
+
+2022-12-29T05:00
+
+> いったい何を話したのか。どれほど重要な秘密だったのか。何でも知りたいのは記者の常だが、この場合、特定秘密保護法が漏洩（ろうえい）を厳しく禁じている。海上自衛隊の１等海佐が機密情報を漏らしたとして書類送検された事件だ▼「どの部分が特定秘密に当たるのかは分からなかった」。機密を教えられた元海将は警務隊…
+
+Ano ba ang sinabi mo? Gaano ba kabigat ang lihim? Bagama't karaniwan sa Mamayahag ang malaman ang anuman, sa kasong ito, mahigpit na ipinagbabawal ang pagsisiwalat (LEAKAGE) ng mga bukod-tanging lihim batay sa batas ng pagtatanggol. Isa itong pangyayari (insidente) ukol sa pagsisiyasat ng mga papeles kung saan isinawalat ng isang Pinuno sa Hukbong Pandagat ang mga lihim na balita ng kanilang makinang sasakyan.▼"Hindi ko alam kung aling bahagi ang lihim." ... <br/>
+
+> いったい何を話したのか。どれほど重要な秘密だったのか。何でも知りたいのは記者の常だが、この場合、特定秘密保護法が漏洩（ろうえい）を厳しく禁じている。海上自衛隊の１等海佐が機密情報を漏らしたとして書類送検された事件だ▼「どの部分が特定秘密に当たるのかは分からなかった」。機密を教えられた元海将は警務隊…
+
+What did you say? What was the secret's severity? While it is usual for a journalist to want to know everything, in this case, the LAW on DEFENSE strictly prohibits leakage of secret information. This is an incident of documents sent for investigation due to leakage by a Captain of the Self-Defense Unit of the SEA on secret information about their NAVAL SHIP.▼"I did not know which parts were classified as secret." ...
+
+ 
+
 # [「いいね」のために生きてきた　ウソまみれの投稿、手放して得た自由](https://www.asahi.com/articles/ASQDR5QFFQDGPTIL010.html?iref=comtop_7_01); last accessed: 20221226
 
 >「いいね」のために生きてきた　ウソまみれの投稿、手放して得た自由
