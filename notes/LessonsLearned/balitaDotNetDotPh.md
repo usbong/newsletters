@@ -3,6 +3,34 @@
 ### observed: as with select digital news sites, e.g. Manila Bulletin (Digtal), Rappler, increased size of photographs;
 --> where: photographs appear larger than text;<br/>
 --> <b>Recommended Action:</b> verify: 朝日新聞　(asahi shimbun (digital))
+
+
+# [Higit P800K halaga ng mga ilegal na droga, nasamsam sa Caloocan, QC](https://balita.net.ph/2022/12/28/higit-p800k-halaga-ng-mga-ilegal-na-droga-nasamsam-sa-caloocan-qc/); last accessed: 20221229
+
+> Higit P800K halaga ng mga ilegal na droga, nasamsam sa Caloocan, QC
+
+### Author
+
+Dioquino, Aaron Homer
+
+### Datestamp
+
+2022-12-28
+
+### Pinaikling Pagbubuod
+
+> Sasampahan ng kasong paglabag sa Republic Act 9165 o Comprehensive Dangerous Drugs Act of 2002 ang lahat ng mga suspek.
+
+> Kakasuhan din si Tanjuan ng paglabag sa Article 151 (Resistance and Disobedience to a Person in Authority or his Agents) ng Revised Penal Code, sabi ng CCPS.
+
+> Nakorner ng mga tauhan ng CCPS na namamahala sa isang checkpoint sa Samson Road sa Brgy. ng 167 Llano sa lungsod ang motorsiklo ng suspek para sa inspeksyon.
+
+> Ayon sa pulisya, ipinaalam ng mga operatiba sa suspek ang nagpapatuloy na operasyon at hiningi ang kanyang driver’s license, mga dokumento sa motorsiklo at laman ng plastic na nakasabit sa hook ng kanyang sasakyan.
+
+> Mabilis na tumakas si Tanjuan ngunit hinabol ito at nakorner ng mga pulis. Nakumpiska sa kanya ang isang brick ng 975 gramo ng umano’y pinatuyong dahon ng marijuana.
+
+
+
 ## [CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera](https://balita.net.ph/2022/11/24/cp-ni-jaclyn-jose-na-hack-account-niya-ginagamit-sa-panloloko-paghuthot-ng-pera/); last accessed: 20221125
 
 > CP ni Jaclyn Jose, na-hack; account niya, ginagamit sa panloloko, paghuthot ng pera
