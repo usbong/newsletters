@@ -12,8 +12,7 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
-https://www.asahi.com/articles/DA3S15515355.html?iref=comtop_Opinion_05;
-last accessed: 20221229
+# [（天声人語）私たちは何も知らない](https://www.asahi.com/articles/DA3S15515355.html?iref=comtop_Opinion_05); last accessed: 20221229
 
 >（天声人語）私たちは何も知らない
 
@@ -22,7 +21,7 @@ Wala tayong alam<br/>
 
 >（天声人語）私たちは何も知らない
 
-Heaven's Voice, Human Language<br/>
+Heaven's Voice, Human Language:<br/>
 We did not know anything
 
 > 2022年12月29日 5時00分
@@ -37,7 +36,9 @@ Ano ba ang sinabi mo? Gaano ba kabigat ang lihim? Bagama't karaniwan sa Mamayaha
 
 What did you say? What was the secret's severity? While it is usual for a journalist to want to know everything, in this case, the LAW on DEFENSE strictly prohibits leakage of secret information. This is an incident of documents sent for investigation due to leakage by a Captain of the Self-Defense Unit of the SEA on secret information about their NAVAL SHIP.▼"I did not know which parts were classified as secret." ...
 
- 
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE/TRANSLATE
 
 # [「いいね」のために生きてきた　ウソまみれの投稿、手放して得た自由](https://www.asahi.com/articles/ASQDR5QFFQDGPTIL010.html?iref=comtop_7_01); last accessed: 20221226
 
