@@ -4,6 +4,69 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+# https://www.1101.com/home.html;
+last accessed: 20221229
+
+## Pinaikling Pagbubuod
+
+>　回る回るよ時代は回るというけれど、<br/>
+>　ぼくが、時代が変わっていちばんよかったと思うのは、<br/>
+>　こういうふうなことなのだ。
+
+Umiikot-ikot ang panahon.<br/>
+Ito man ang paulit-ulit na sinasabi,<br/>
+pinaka-pinasasalamatan ko ang pagbabago
+ng panahon nang ganito.
+
+#### --
+
+The wheel of TIME turns, repeating.<br/>
+Indeed, I am most grateful that TIME changes so.<br/>
+<br/>
+
+>　世間様に恥ずかしくないようにだとか、<br/>
+>　立派ないいこになるようにとかじゃなくて、<br/>
+>　いっしょにたのしいことをやろう、という大人たち。
+
+Sabi raw ng mga nakatatanda, <br/>
+magkasama nating gawin nang maligaya
+ang mga bagay-bagay,<br/>
+nang hindi nihihiya sa mata ng mga tao,<br/>
+at nang hindi nagiging kilala <br/>
+bilang mabuting bata, atbp.
+
+#### --
+
+Older people tell us to go do things that we enjoy, <br/>
+without shame from the eyes of the world,<br/>
+without having to be known for being a good child, and so on.<br/>
+<br/>
+
+>　そして、安心してそういう大人と遊んでいる子どもたち。<br/>
+>　これが混じり合って動いていくのが、いちばんいい。<br/>
+>　「自己肯定感」とか、自然のひとつの状態だと思うもの。
+
+Pagkatapos, pinakamabuting magkahalubilong naglalaro nang matiwasay ang mga bata sa ganoong nakatatanda.<br/>
+Isang kailangan kasi sa kalikasan ang "maayos na pakiramdam", atbp.
+
+### --
+
+And then, it is best that children mix and play with those older people without fear.<br/>
+It is after all a requirement that the environment has a "feeling of positivity", et cetera;<br/>
+<br/>
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。<br/>
+> 子どもが子どもと遊びたがるのも、遊びが本気だからだよね。
+
+Ngayong araw din po, salamat sa pagdalaw sa "HALOS ARAW NA".<br/> 
+Tunay din kasi hindi ba, ang paglalaro ng mga batang nais makalaro ang mga kapwa bata?
+
+#### --
+
+This day, too, thank you for visiting "IT'S ALMOST DAY".<br/>
+Isn't it also because children who want to play with other children, play true?<br/>
+<br/>
+
 ## https://www.1101.com/home.html;
 last accessed: 20221209
 
@@ -33,7 +96,7 @@ Hindi naman kahit sino, siya ang pinakamalakas sa daigdig.
 
 >　とても健康で素直な考えだ。
 
-Kapag natalo, talagang makakalusagan ang payak na pagninilay ng nais kong makita ang dagidig ng taong may lakas na higit pa rito sa napansin niyang "kaniyang kasalukuyang lakas".
+Kapag natalo, may payak at maka-kalusugan ding pagninilay ang naising makita sa daigdig ang higit pa rito sa kaniyang napansing "kasalukuyan niyang lakas".
 
 >　これは、世界一を決めるような試合でも、
 
