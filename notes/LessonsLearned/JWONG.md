@@ -9,7 +9,23 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
-## https://twitter.com/JWonggg; last accessed: 20221230 (Philippine Time)
+## https://www.youtube.com/watch?v=D6UB2ce0ny0; last accessed: 20221230; from 20221229 (Philippine Time)
+
+> 10,524 views Dec 30, 2022 
+
+> I can't believe how many sick fighting games are hosted at [@big-one2ndchannel128](https://www.youtube.com/channel/UCGSCPrKg-pp2SqgJaEQI1jA), including Super Dragon Ball Z, aka my favorite DBZ fighting game out there! (Sorry, DBFZ players) During my trip to Japan, I got to hang out at Public Bigone arcade and commentate high level sets in this game! Shoutout to Japan's very own [@big-one2ndchannel128](https://www.youtube.com/channel/UCGSCPrKg-pp2SqgJaEQI1jA) for keeping fighting games alive: https://www.youtube.com/@big-one2ndch... https://twitter.com/public_bigone 
+
+こんなに沢山優れてる格闘ゲームが、[@big-one2ndchannel128](https://www.youtube.com/channel/UCGSCPrKg-pp2SqgJaEQI1jA)でホストされていて、信じられなかった！Super Dragon Ball Z、すなわち　おれの一番気に入ったDBZ格闘ゲームも含まれている！DBFZプレイヤーたち、ごめんッ！日本へ旅に行った時、Public Bigoneゲームセンターにいて、ナレーターとして、高級試合のコメントをやっていた。日本の[@big-one2ndchannel128](https://www.youtube.com/channel/UCGSCPrKg-pp2SqgJaEQI1jA)が、格闘ゲームを活かしてくれてありがとう〜！
+
+
+### --
+
+[BIG-ONE2ndCHANNEL1](https://www.youtube.com/channel/UCGSCPrKg-pp2SqgJaEQI1jA); last accessed: 20221230 
+
+> @big-one2ndchannel128<br/>
+> 7.76K subscribers
+
+## https://twitter.com/JWonggg; last accessed: 20221230; from 20221229 (Philippine Time)
 
 > NEW YOUTUBE VIDEO
 
