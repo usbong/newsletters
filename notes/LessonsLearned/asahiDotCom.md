@@ -26,7 +26,7 @@ Qualification, Secondary Job… things that caused a non-harmonious feeling; At 
 
 SUZUKI, YU; 2022-12-31T09:00
 
-## Pinaikling Pagbubuod
+## Pinaikling Pagbubuod・Short Summary
 
 >「女は専業主婦」という価値観を持っている周囲とのギャップに悩んだ。「仕事で上を目指す女性は、家庭をあきらめなければならない。家庭を優先するならキャリアを断念する。何かをするには、何かをあきらめなければ幸せになれないという考え方に違和感が募った」と話す。
 
@@ -53,7 +53,7 @@ Her primary work at the company, her secondary job, household chores… She coul
 “I am already at my limit.” At 29 years old… 
 
 
-### 得たがるもの Ang Nais niyang Matamong Bagay; The object she wanted to obtain
+### 得たがるもの・Ang Nais niyang Matamong Bagay・The object she wanted to obtain
 
 >「社会とつながりを持てる仕事がしたい」
 
