@@ -9,6 +9,65 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## Justin Wong Retweeted [Streamlabs](https://twitter.com/streamlabs)
+
+> Remember as you're planning things out for next year, set yourself SMART goals! <br/>
+> <br/>
+> Specific <br/>
+> Measurable <br/>
+> Achievable <br/>
+> Relevant <br/>
+> Time-bound <br/>
+> <br/>
+> By making sure your streaming goals are SMART, you're more likely to find success in the new year!
+
+
+### --
+
+来年向けの企画を立てる時に、「インテリジェント ゴール」を忘れないように！<br/>
+<br/>
+具体的にすること<br/>
+測れること<br/>
+達成できること<br/>
+当てはまること<br/>
+時間内であること<br/>
+<br/>
+こうやって、ストリーミング ゴールをインテリジェント化にして、来年に成功できるに違いない！
+
+### --
+
+> Remember as you're planning things out for next year, set yourself SMART goals! 
+
+来年向けの企画を立てる時に、「インテリジェント ゴール」を忘れないように！
+
+> Specific 
+
+具体的にすること
+
+> Measurable 
+
+測れること
+
+> Achievable 
+
+達成できること
+
+> Relevant 
+
+当てはまること
+
+> Time-bound 
+
+時間内であること
+
+> By making sure your streaming goals are SMART, you're more likely to find success in the new year!
+
+こうやって、ストリーミング ゴールをインテリジェント化にして、来年に成功できるに違いない！
+
+### Reference
+
+GOOGLE SEARCH ENGINE
+
 ## https://www.youtube.com/watch?v=D6UB2ce0ny0; last accessed: 20221230; from 20221229 (Philippine Time)
 
 > 10,524 views Dec 30, 2022 
