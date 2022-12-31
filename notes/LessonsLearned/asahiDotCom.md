@@ -12,6 +12,70 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [資格、副業…募る違和感　29歳で「人生リセット」遠回りで得たもの](https://www.asahi.com/articles/ASQDX3SJ4QDWOIPE00C.html?iref=comtop_7_07); last accessed: 20221231
+
+> 資格、副業…募る違和感　29歳で「人生リセット」遠回りで得たもの
+
+Kakayanan (qualification), ikalawang hanap-buhay… mga nagdulot ng hindi ayos na pakiramdam; 29 taong gulang, “RESET LIFE”; ang natamong bagay sa mahabang pag-iikot; 
+
+> 資格、副業…募る違和感　29歳で「人生リセット」遠回りで得たもの
+
+Qualification, Secondary Job… things that caused a non-harmonious feeling; At 29 years old, “LIFE RESET”; what was obtained from a long, and winding path
+
+> 鈴木裕2022年12月31日 9時00分
+
+SUZUKI, YU; 2022-12-31T09:00
+
+## Pinaikling Pagbubuod
+
+>「女は専業主婦」という価値観を持っている周囲とのギャップに悩んだ。「仕事で上を目指す女性は、家庭をあきらめなければならない。家庭を優先するならキャリアを断念する。何かをするには、何かをあきらめなければ幸せになれないという考え方に違和感が募った」と話す。
+
+Ibinahagi niya ang pangamba dulot ng  kawalan ng halaga mula sa mga malapit sa kaniya ukol sa “Babaeng may-asawa’t nagpapaka-dalubhasa sa hanap-buhay”. “Ang babaeng pinapakay ang umangat sa hanap-buhay, kailangang itakwil ang tahanan. Kung gagawin niyang pangunahin ang tahanan, kailangang itigil na niya ang pagninilay sa KARERA (career). Nag-anyaya ng hindi ayos na pakiramdam ang pagninilay ng kung ano ang aking gagawin, at kung ano ang aking kailangan itigil upang lumigaya.”
+
+>「女は専業主婦」という価値観を持っている周囲とのギャップに悩んだ。「仕事で上を目指す女性は、家庭をあきらめなければならない。家庭を優先するならキャリアを断念する。何かをするには、何かをあきらめなければ幸せになれないという考え方に違和感が募った」と話す。
+
+She worried about the lack in the perceived value by her surroundings of a “Woman who is both wife and worker.” “A female who aims high at the workplace shall need to give-up her home. If she prioritizes her home, she shall need to stop thinking of her CAREER. Thinking of what she should do, and what she must give-up to be happy caused a non-harmonious feeling,” she said.  
+
+> 会社の仕事、副業、家事……。一人では抱えきれなくなっていた。
+
+Ang kaniyang pangunahing hanap-buhay, ang kaniyang ikalawang hanap-buhay, ang mga gawaing bahay… Hindi na niya nakayanang gampanan ang lahat nang mag-isa.
+
+> 会社の仕事、副業、家事……。一人では抱えきれなくなっていた。
+
+Her primary work at the company, her secondary job, household chores… She could not carry them all by herself.
+
+>　「もう限界」。29歳のとき…
+
+“Nasa sukdulan na ako.” 29 na taong gulang siya…
+
+>　「もう限界」。29歳のとき…
+
+“I am already at my limit.” At 29 years old… 
+
+
+### 得たがるもの Ang Nais niyang Matamong Bagay; The object she wanted to obtain
+
+>「社会とつながりを持てる仕事がしたい」
+
+“Nais kong gawin ang hanap-buhay na may ugnayan sa lipunan.”
+
+>「社会とつながりを持てる仕事がしたい」
+
+“I want to do work that has connection with society.”
+
+> 自分の仕事にやりがいを感じて…
+
+Maramdaman ang saysay ng sariling ginagawang hanap-buhay…
+
+> 自分の仕事にやりがいを感じて…
+
+To feel the VALUE of my own work…
+
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 # [（天声人語）私たちは何も知らない](https://www.asahi.com/articles/DA3S15515355.html?iref=comtop_Opinion_05); last accessed: 20221229
 
 >（天声人語）私たちは何も知らない
