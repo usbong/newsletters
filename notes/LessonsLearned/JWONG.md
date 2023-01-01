@@ -9,6 +9,31 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230101; from 20221231 (Philippine Time)
+
+> I am finally free from being chained!!!!
+
+鎖からの引っかかりは、ようやく解放!!!!
+
+> 37 of 37 (100%) achievements earned:
+
+37/37 (100%)　実績をアンロック！
+
+### NOTES・メモ:
+
+observed: JWONG to have finished CHAINED ECHOES in < 7days (?),<br/>
+観測: JWONGが、＜7日(?)に、Chained Echoesを完成<br/>
+<br/>
+where: appeared via TWITCH to be questionably “HARD”;<br/>
+場所: TWITCHで、問うほど、余計に「難しい」みたい<br/>
+<br/>
+due to: GAME from GERMANY?<br/>
+原因：ドイツからのゲーム？<br/>
+<br/>
+observed: STORY to be of BETRAYAL; LOVE, MARRIED LIFE;<br/>
+観測:　愛情、結婚生活にある裏切りである物語；
+
+
 ## Justin Wong Retweeted [Streamlabs](https://twitter.com/streamlabs)
 
 > Remember as you're planning things out for next year, set yourself SMART goals! <br/>
