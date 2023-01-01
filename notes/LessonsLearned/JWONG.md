@@ -9,6 +9,21 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230101 (Philippine Time)
+
+> FINAL YOUTUBE VIDEO OF 2022 
+
+2022年の最後のYOUTUBE動画
+
+> Well why not make a whole big ass compilation of how many times I GOT FREAKING PARRIED AND ALMOST PARRIED.... 
+
+そうであれば、何回も、PARRY（ブロッキング）されたり、されそうになったりしたことを見れるデッカい編集動画を作ろうと。
+
+> Check it out: https://youtu.be/r_Np1Hvl0bg 
+
+こちらをどうぞ！ https://youtu.be/r_Np1Hvl0bg 
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230101; from 20221231 (Philippine Time)
 
 > I am finally free from being chained!!!!
