@@ -4,6 +4,39 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+# [いまどきの親切設計 【UI】 ](https://www.youtube.com/watch?v=7iLDVKItxjk); last accessed: 20230101
+
+> いまどきの親切設計 【UI】 
+
+> 桜井政博のゲーム作る
+
+> 24,084 views Dec 30, 2022 
+
+> 今回はゲーム実況風の収録で､とあるゲームを操作しながら解説します｡ アクセシビリティなどにおいて､すごーく作り込んでいる作品があるのですよ｡
+
+
+「ユーザー好みに設定を変える事は必要な事です」と<br/>
+<br/>
+『The Last of Us Part 1』の対応は素晴らしいですと<br/>
+<br/>
+必要な部分を探るだけでも、有効だとい
+
+
+### メモ：
+
+PS５<br/>
+<br/>
+いまどきの親切設計<br/>
+<br/>
+アクセシビリティ<br/>
+<br/>
+すでに開発できたゲームの<br/>
+オプションだけでも、<br/>
+プレゼンができるとわかります。<br/>
+<br/>
+ノウハウ
+
+
 # [有限会社ソラ 【雑談】 ](https://www.youtube.com/watch?v=S2nmLVRcWKA); last accessed: 20221230
 
 > 有限会社ソラ 【雑談】 
