@@ -37,7 +37,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 ### NOTES・メモ:
 
 observed: JWONG to have finished CHAINED ECHOES in < 7days (?),<br/>
-観測: JWONGが、＜7日(?)に、Chained Echoesを完成<br/>
+観測: JWONGが、＜7日間(?)に、Chained Echoesを完成<br/>
 <br/>
 where: appeared via TWITCH to be questionably “HARD”;<br/>
 場所: TWITCHで、問うほど、余計に「難しい」みたい<br/>
