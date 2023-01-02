@@ -20,7 +20,9 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > - Collab with more content creators<br/>
 > - Play and get better at more fighting games<br/>
 > - Teach Harper how to do special moveS<br/>
-> - ETC
+> - ETC<br/>
+> <br/>
+> What about U?
 
 ### --
 
@@ -74,10 +76,10 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 例：TimeThief（アクション・パズル）
 
 ２）javascriptで　モバイルやデスクトップで　ウェブアプリ・システム開発を続けたい<br/>
-例：GameOff2022 -> TimeOff（パズル）
+例：[GameOff2022](https://itch.io/jam/game-off-2022/rate/1813781) -> TimeOff（パズル）
 
 ３）格闘ゲームの製作ノウハウが上がるために、研究を続けたい<br/>
-注：１）と２）には関係がある
+注：１）と ２）には関係がある
 
 ４）コンピュータ情報の価値をより広げるために、ノウハウを分け合える仕事を続けたい<br/>
 例：GITHUB、Newsletters、KMS（ヘルス業界）<br/>
@@ -94,8 +96,8 @@ INCREASE people's awareness of "FROM PHILIPPINES"
 1) UPLOAD a GAME on SteamPowered to learn its process <br/>
 Example: TimeThief (ACTION・PUZZLE)
 
-2) CONTINUE development using javascript of WEB APP・SYSTEM that executes on among others: MOBILE, DESKTOP;<br/>
-Example: GameOff2022 -> TimeOff (PUZZLE) 
+2) CONTINUE development using javascript of WEB APP・SYSTEM that executes on: MOBILE, DESKTOP;<br/>
+Example: [GameOff2022](https://itch.io/jam/game-off-2022/rate/1813781) -> TimeOff (PUZZLE) 
 
 3) CONTINUE with RESEARCH to increase KNOW-HOW to make FIGHTING GAME<br/>
 Emphasis: This has connection with 1) & 2) 
