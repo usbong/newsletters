@@ -1,5 +1,5 @@
 <!--
-  Copyright 2021~2022 SYSON, MICHAEL B.
+  Copyright 2021~2023 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20220619; from 20220305
+  @date updated: 20230103; from 20220810
   @website address: http://www.usbong.ph
 
   Input:
@@ -457,8 +457,11 @@
 	while ($iYearCount<=$iCurrentYear) {
 		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
 
-		$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
-		
+		//edited by Mike, 20230103
+		if (file_exists($sYearDirectoryPartTwo)) {
+			$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));			
+		}
+
 		$iYearCount++;
 	}
 
