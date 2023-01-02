@@ -64,7 +64,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 そっちは？
 
-## ---
+## --
 
 ### SYSON, MICHAEL B.:
 
@@ -87,8 +87,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 あけましておめでとう！
 
+### TRANSLATION from nihongo to ENGLISH
+
+INCREASE people's awareness of "FROM PHILIPPINES"
+
+1) UPLOAD a GAME on SteamPowered to learn its process <br/>
+Example: TimeThief (ACTION・PUZZLE)
+
+2) CONTINUE development using javascript of WEB APP・SYSTEM that executes on among others: MOBILE, DESKTOP;<br/>
+Example: GameOff2022 -> TimeOff (PUZZLE) 
+
+3) CONTINUE with RESEARCH to increase KNOW-HOW to make FIGHTING GAME<br/>
+Emphasis: This has connection with 1) & 2) 
+
+4) CONTINUE with WORK to share KNOW-HOW to increase awareness of VALUE of COMPUTER SERVICES;<br/>
+Example: GITHUB, Newsletters, KMS (Health Industry)<br/>
+Emphasis: This has connection with SECURITY・DEFENSE
+
+5) Et cetera
+
+HAPPY NEW YEAR!
+
 ### NOTE
 1) observed: text formatting to cause noticeable increase in used TIME
+
 
 
 ## https://twitter.com/JWonggg; last accessed: 20230101 (Philippine Time)
