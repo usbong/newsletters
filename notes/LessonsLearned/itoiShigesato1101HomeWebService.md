@@ -4,8 +4,45 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
-# https://www.1101.com/home.html;
-last accessed: 20221229
+# https://www.1101.com/pl/060216kimagure/index.html;
+last accessed: 20230102; from 20230101
+
+> がんたん。<br/>
+> いわゆるご近所の名所も、<br/>
+> 訪れる人もなく、<br/>
+> 如何なる音も流れることもなく、<br/>
+> 格別の一日を過ごすのでした。<br/>
+> <br/>
+> 2023/01/01 19:42 
+
+Unang araw ng Bagong Taong.<br/>
+Iyang kilalang pook sa inyong barangay din,<br/>
+Walang taong dumalaw,<br/>
+Wala anumang tunog ang narinig,<br/>
+Isang bukod-tanging araw.<br/>
+<br/>
+2023-01-01T19:42
+
+
+### --
+
+First day of the New Year.<br/>
+That famous place of your neighborhood, too,<br/>
+No person visited,<br/>
+No sound whatsover was heard,<br/>
+On that one exceptional day.<br/>
+<br/>
+2023-01-01T19:42
+
+### Reminder・Paalala
+
+何処<br/>
+何故<br/> 
+如何に
+
+
+ # https://www.1101.com/home.html;
+ last accessed: 20221229
 
 ## Pinaikling Pagbubuod
 
