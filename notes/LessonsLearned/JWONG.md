@@ -9,6 +9,88 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230102 (Philippine Time)
+
+> HAPPY NEW YEAR<br/>
+> <br/>
+> What do I wanna do in 2023?<br/>
+> - Grow the JWong brand across all platforms<br/>
+> - Make more content<br/>
+> - Work with more amazing brands<br/>
+> - Collab with more content creators<br/>
+> - Play and get better at more fighting games<br/>
+> - Teach Harper how to do special moveS<br/>
+> - ETC
+
+### --
+
+> HAPPY NEW YEAR
+
+あけましておめでとう！
+
+> What do I wanna do in 2023?
+
+2023年に、なにをしたい？
+
+> - Grow the JWong brand across all platforms
+
+-　全SNSプラットフォームでJWongブランドをより広げたい
+
+> - Make more content
+
+コンテンツをより多く作りたい
+
+> - Work with more amazing brands
+
+より多い素晴らしいブランドと働きたい
+
+> - Collab with more content creators
+
+より多いコンテンツクリエーターと仕事したい
+
+> - Play and get better at more fighting games
+
+格闘ゲームを遊んで、より強くなりたい
+
+> - Teach Harper how to do special moveS
+
+ハーパーにスペシャル（特技）を教えたい
+
+> - ETC
+
+などなど
+
+> What about U?
+
+そっちは？
+
+## ---
+
+### SYSON, MICHAEL B.:
+
+世間からよく知られているように「フロムフィリピン（FROM PHILIPPINES）」をより広げたい<br/>
+
+１）SteamPoweredの手続きがわかるために、ゲームをアップロードしたい<br/>
+例：TimeThief（アクション・パズル）
+
+２）javascriptで　モバイルやデスクトップで　ウェブアプリ・システム開発を続けたい<br/>
+例：GameOff2022 -> TimeOff（パズル）
+
+３）格闘ゲームの製作ノウハウが上がるために、研究を続けたい<br/>
+注：１）と２）には関係がある
+
+４）コンピュータ情報の価値をより広げるために、ノウハウを分け合える仕事を続けたい<br/>
+例：GITHUB、Newsletters、KMS（ヘルス業界）<br/>
+注：防衛には関係がある
+
+５）などなど
+
+あけましておめでとう！
+
+### NOTE
+1) observed: text formatting to cause noticeable increase in used TIME
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230101 (Philippine Time)
 
 > FINAL YOUTUBE VIDEO OF 2022 
