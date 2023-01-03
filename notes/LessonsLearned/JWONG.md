@@ -9,6 +9,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230103 (Philippine Time)
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> I never fought an Oro in 2nd impact but this player might be the best Oro in the world.  I love when people get crazy nice with a character they like
+
+SFIII:2nd ImpactでOROと一度も戦ったことはなかったが、このプレイヤーは、世界一のOROかもしれない。人は、好きなキャラで　狂うほど　メチャクチャになるのを気に入ってる！
+
+> Check it out: https://youtu.be/X1I5JCi5Jfk
+
+こちらをどうぞ！https://youtu.be/X1I5JCi5Jfk
+
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+OROのようなタメキャラで、こっちもよく戦わせてもらう。だが、動画で見れるように、彼の投げ技でミスしちゃったら、攻撃されやすくなるね。それで、そういう技使わない。強キックで良かろう。
+
+また、YANGとしてあまり戦わない。と言っても、見た通り、速ッ！しかも、手が届く、近い距離で、攻撃が当たったら、スペシャル攻撃につなげれる。
+
+JWONGさんのダルシムＴシャッツを見かけたが、相手が、どこへ行くかを推測できるというキャラ作戦もあるね。たいていは、より離れて、手が届かない距離で戦うね。MK11のゲームプレイ動画で、こういう戦い方を見たことある。
+
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230102 (Philippine Time)
 
 > HAPPY NEW YEAR<br/>
