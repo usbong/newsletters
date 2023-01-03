@@ -31,6 +31,20 @@ OROのようなタメキャラで、こっちもよく戦わせてもらう。�
 
 JWONGさんのダルシムＴシャッツを見かけたが、相手が、どこへ行くかを推測できるというキャラ作戦もあるね。たいていは、より離れて、手が届かない距離で戦うね。MK11のゲームプレイ動画で、こういう戦い方を見たことある。
 
+### --
+
+> OROのようなタメキャラで、こっちもよく戦わせてもらう。だが、動画で見れるように、彼の投げ技でミスしちゃったら、攻撃されやすくなるね。それで、そういう技使わない。強キックで良かろう。
+
+I also often fought as those CHARGE CHARACTERS like ORO. But, as we can see on the video, it becomes easier to be attacked, when he misses his THROW technique. So, I don't use that technique. STRONG/FIERCE KICK would probably be OK.
+
+> また、YANGとしてあまり戦わない。と言っても、見た通り、速ッ！しかも、手が届く、近い距離で、攻撃が当たったら、スペシャル攻撃につなげれる。
+
+Also, I don't FIGHT as YANG that much. But as we saw, he is quick! And, at a close distance, where his hand can reach, he can connect a special attack after a hit.
+
+> JWONGさんのダルシムＴシャッツを見かけたが、相手が、どこへ行くかを推測できるというキャラ作戦もあるね。たいていは、より離れて、手が届かない距離で戦うね。MK11のゲームプレイ動画で、こういう戦い方を見たことある。
+
+I saw your DHALSIM T-SHIRT. There is indeed a character fighting strategy such that the player can predict where the opponent shall go. Usually, it is by fighting at a farther distance, where the (opponent's) hand does not reach. I have seen that kind of fighting style on MK11 GAMEPLAY videos.
+
 
 
 ## https://twitter.com/JWonggg; last accessed: 20230102 (Philippine Time)
