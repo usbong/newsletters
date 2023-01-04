@@ -9,6 +9,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230104 (Philippine Time)
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Neo Geo Battle Coliseum is so UNDERRATED!! I was able to commentate some of the best players in Japan playing this game! What madness will we see?
+
+Neo Geo Battle Coliseumは、めっちゃ見下げられている！日本で戦っている幾つかの最高プレイヤーたちの試合で、ナレーターとして、コメントをさせてもらった！どんな戦いが見られるんだろう？
+
+> Check it out: https://youtu.be/KJhhboPtLKU
+
+こちらをどうぞ！https://youtu.be/KJhhboPtLKU
+
 ## https://twitter.com/JWonggg; last accessed: 20230103 (Philippine Time)
 
 > NEW YOUTUBE VIDEO
