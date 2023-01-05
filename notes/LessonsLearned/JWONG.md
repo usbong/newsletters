@@ -9,6 +9,34 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://metafy.gg/@jwong/sessions; last accessed: 20230105; from 20230103
+
+> JWong<br/>
+> Professional Fighting Game Player
+
+> About<br/>
+> I love fighting games, its a huge passion of mine. I always try to keep up to date with every character and every meta in many fighting games. If its RETRO to MODERN, I am always about it and love to pass my knowledge and help other people get better so they can understand the joy of fighting games at the highest level.
+
+### SELECT ACHIEVEMENTS 
+
+> MVC2; 1st place; Year 2001~2004
+
+> SFIII:3rd strike; 1st place; Year 2009; 2nd place; Year 2008, 2005
+
+TO-DO: -update: this
+
+### SESSION QUANTITY
+
+> 1 @100USD/HOUR
+
+> 4+ @25$ off @75USD/HOUR
+
+> Watching Reply videos @70USD/HOUR
+
+> Replay Review (BETA) @20USD/match
+
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230104 (Philippine Time)
 
 > NEW YOUTUBE VIDEO
