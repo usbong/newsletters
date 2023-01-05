@@ -1,5 +1,24 @@
 # Daily Tribune
 
+# "Case Law" (20221228; WEDNESDAY)
+
+## Author
+
+AVECILLA, VICTOR C
+
+## Keyphrase
+
+> Hermoso v. People of the Philippines
+
+> G.R. No. 232944, September 28, 2022 (Resolution)/First Division (Notice)
+
+G.R. = General Register
+
+> Criminal Law.--in order for an accused to be convicted, the prosecution has the twin burden of proving the commission of the crime, and the positive identification with moral certainty of the accused as the perpetrator thereof. 
+
+> (VOLUME 5, NUMBER 360)
+
+
 # "To serve and protect the people" (20221228; WEDNESDAY)
 
 ## Author
