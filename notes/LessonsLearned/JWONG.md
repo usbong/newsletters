@@ -14,6 +14,8 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 > I just registered for Texas Showdown 2023 https://start.gg/TXS23 #txs23 via @startgg
 
+2023年のTexas Showdownに今 登録した！ https://start.gg/TXS23 #txs23 via @startgg
+
 ### --
 
 > Texas Showdown is one of the oldest and largest fighting game events in the United States. We will host over 1000+ fans in a comfortable, inclusive Fighting Game venue and will broadcast live to tens of thousands of viewers on April 21-23, 2023 in Houston, Texas. Come join us and get your fighting game fix in the 4th largest city in the United States!
