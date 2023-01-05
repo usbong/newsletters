@@ -12,6 +12,27 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 ## https://twitter.com/JWonggg; last accessed: 20230105 (Philippine Time)
 
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Fatal Fury Special is a special game and going through the game was kind of a struggle to fight SUPER RYO...
+
+餓狼伝説スペシャルとは、特別なゲームで、スーパーリョウまで戦うために、旅にある道で頑張らなくてはならない！
+
+＞ Check it out: https://youtu.be/qyHSjS1nvcY
+
+こちらをどうぞ！https://youtu.be/qyHSjS1nvcY
+
+### References
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE;
+
+2) http://nihongo.monash.edu/cgi-bin/wwwjdic?1F;
+last accessed: 20230105
+
+## --
+
 > I just registered for Texas Showdown 2023 https://start.gg/TXS23 #txs23 via @startgg
 
 2023年のTexas Showdownに今 登録した！ https://start.gg/TXS23 #txs23 via @startgg
