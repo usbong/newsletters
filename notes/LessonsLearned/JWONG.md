@@ -9,6 +9,61 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+
+## https://twitter.com/JWonggg; last accessed: 20230105 (Philippine Time)
+
+> I just registered for Texas Showdown 2023 https://start.gg/TXS23 #txs23 via @startgg
+
+### --
+
+> Texas Showdown is one of the oldest and largest fighting game events in the United States. We will host over 1000+ fans in a comfortable, inclusive Fighting Game venue and will broadcast live to tens of thousands of viewers on April 21-23, 2023 in Houston, Texas. Come join us and get your fighting game fix in the 4th largest city in the United States!
+COMPETITOR REGISTRATION:
+
+> Normal Registration: $80 until February 14th, 2023.
+
+> Late Registration $90 until April 2nd, 2023.<br/>
+> SPECTATOR REGISTRATION:
+
+> Normal Registration: $50 until February 14th, 2023.
+
+> Late Registration $65 until April 2nd, 2023.
+
+> Specators may purchase a pass at the door.
+
+> Sunday-only passes will also be sold at the door.<br/>
+> OTHER DETAILS:
+
+>    Tournaments may begin as early as 10 am on Friday, April 21, 2023. Please plan accordingly!<br/>
+>    We will try to the best of our ability to sanitize common areas.<br/>
+>    During the event, please use common sense and courtesy when in the vicinity of others. If you are sick, DO NOT ATTEND.
+
+> FEATURED GAMES
+
+> Each game is $15 to enter:
+
+>    BlazBlue: Central Fiction<br/>
+>    Capcom vs. SNK 2<br/>
+>    DNF Duel<br/>
+>    Dragon Ball FighterZ<br/>
+>    Guilty Gear Strive<br/>
+>    Guilty Gear Xrd Rev2<br/>
+>    Marvel vs. Capcom 2<br/>
+>    Mortal Kombat 11<br/>
+>    Street Fighter Alpha 2<br/>
+>    Street Fighter III: Third Strike<br/>
+>    Street Fighter V<br/>
+>    Super Smash Bros. Ultimate<br/>
+>    Super Smash Bros. Ultimate Doubles<br/>
+>    Super Street Fighter II Turbo<br/>
+>    Tekken 7<br/>
+>    The King of Fighters 15<br/>
+>    Ultimate Marvel vs. Capcom 3<br/>
+>    Vampire Savior
+
+> Game platform for each game will be determined soon.
+
+
+
 ## https://metafy.gg/@jwong/sessions; last accessed: 20230105; from 20230103
 
 > JWong
