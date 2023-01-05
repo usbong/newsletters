@@ -1,5 +1,5 @@
 <!--
-  Copyright 2021~2022 SYSON, MICHAEL B.
+  Copyright 2021~2023 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220102
-  @date updated: 20220503; from 20220103
+  @date updated: 20230105; from 20220615
   @website address: http://www.usbong.ph
     
   Input:
@@ -474,7 +474,7 @@
 
 	<br>	
 	<div>
-		<b>Example Work Output:</b> <a class="webServiceLink" href="https://www.usbong.ph/excel" target="_blank">Usbong Computer Software Automation</a><br/>
+		<b>Example R&D Work Output:</b> <a class="webServiceLink" href="https://www.usbong.ph/Training" target="_blank">Usbong Computer Interactive</a><br/>
 <!--
 		<video width="320" height="240" controls>
 		  <source src="assets/images/newsletter/202108/usbongPagongExecSpeedSDLPlusImage32BitOSWin7IntelSoloCPU1Dot2GHz1GBRAMV20210819T1734.mp4" type="video/mp4">
@@ -485,13 +485,37 @@
 		<video width="480" height="360" controls>
 -->
 		<video width="416" height="312" controls>
+		  <source src="assets/images/videos/optedToReturnToTimePointBeforeDeathToIncreaseLevelSuikoden1PS120220615T1930.mp4" type="video/mp4">
+		  Your browser does not support the video tag.
+		</video><br/>	
+		<br/>
+		<b>Reference:</b><br/>
+		幻想水滸伝＃１（プレイステーション）<br/>
+		<br/>
+		<video width="416" height="312" controls>
+		  <source src="assets/images/videos/usbongRetroVer20211110ReminderXBOX360ControllerNoteExecSpeedShockTroopers,BloodstainedCurseOfTheMoonSteamPowered-20230101T195208.mp4" type="video/mp4">
+		  Your browser does not support the video tag.
+		</video><br/>	
+		<br/>
+		<b>References:</b><br/>
+		1) <a class="webServiceLink" href="https://store.steampowered.com/app/366270/SHOCK_TROOPERS/" target="_blank">SHOCK TROOPERS (Arcade,PC,SteamPowered)</a><br/>
+		2) <a class="webServiceLink" href="https://store.steampowered.com/app/838310/Bloodstained_Curse_of_the_Moon/" target="_blank">Bloodstained: Curse of the Moon (PC,SteamPowered)</a><br/>
+		<br/>
+		<br/>
+		<br/>
+		<b>Example Work Output:</b> <a class="webServiceLink" href="https://www.usbong.ph/excel" target="_blank">Usbong Computer Software Automation</a><br/>
+
+		<video width="416" height="312" controls>
 		  <source src="assets/images/videos/exampleAnnualReportWithBarChartsUsingMSExcelMacroEtCeteraFinishIn11Secs20220101T1049.mp4" type="video/mp4">
 		  Your browser does not support the video tag.
 		</video><br/>	
-
+		<br/>
+		<br/>
+		<a class="webServiceLink" href="http://store.usbong.ph/server/videos/viewKMS.php" target="_blank">MORE EXAMPLE VIDEOS</a> on Knowledge Management System (KMS)
 	</div>
 	<br>	
-	
+		<br/>
+		<br/>	
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
