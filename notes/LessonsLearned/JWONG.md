@@ -11,11 +11,36 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 ## https://metafy.gg/@jwong/sessions; last accessed: 20230105; from 20230103
 
-> JWong<br/>
+> JWong
+
+JWong
+
 > Professional Fighting Game Player
 
-> About<br/>
+プロ格闘ゲーマー
+
+> About
+
+内容
+
 > I love fighting games, its a huge passion of mine. I always try to keep up to date with every character and every meta in many fighting games. If its RETRO to MODERN, I am always about it and love to pass my knowledge and help other people get better so they can understand the joy of fighting games at the highest level.
+
+おれは格闘ゲームが大好き。実はパッションを持っている。なるべく、積極的に格闘ゲームのデータ且つキャラクターの新情報をよく調べたりする。レトロでも、モダンでも、格闘ゲームの高級での楽しさは、人がより理解してくれるように、いつもそのことを話たり、知識を分け合ったりする人生を送っている。
+
+<table>
+
+ 
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+「[STREET FIGHTER ETERNAL CHALLENGE―永遠の挑戦者たち](https://www.amazon.co.jp/STREET-FIGHTER-ETERNAL-CHALLENGE%E2%80%95%E6%B0%B8%E9%81%A0%E3%81%AE%E6%8C%91%E6%88%A6%E8%80%85%E3%81%9F%E3%81%A1-%E4%B8%8D%E7%9F%A5%E7%81%AB%E3%83%97%E3%83%AD/dp/4575163856)」から読んだリュウのキャラプロフィルを思い出す。
+空手だけでなく、世界様々な国からの格闘技も、身につけ、最強を目指す人生を送っている。
+
+I remember RYU's character profile that I read from "[STREET FIGHTER ETERNAL CHALLENGE](https://www.amazon.co.jp/STREET-FIGHTER-ETERNAL-CHALLENGE%E2%80%95%E6%B0%B8%E9%81%A0%E3%81%AE%E6%8C%91%E6%88%A6%E8%80%85%E3%81%9F%E3%81%A1-%E4%B8%8D%E7%9F%A5%E7%81%AB%E3%83%97%E3%83%AD/dp/4575163856)". He leads LIFE that aims to be the STRONGEST, by mastering not only KARATE, but also the FIGHTING TECHNIQUES from varying nations of the world.
+
+</td></tr>
+</table>
 
 ### SELECT ACHIEVEMENTS 
 
