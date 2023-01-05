@@ -4,6 +4,69 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+# https://www.youtube.com/watch?v=IoSFAezVeE8; last accessed: 20230103
+
+> 閃光､爆発､残煙【エフェクト】 
+
+> 井政博のゲーム作る
+
+> 70,571 views Jan 2, 2023 
+
+> 爆発エフェクトの話です｡ 単にオレンジの爆炎が広がるだけではいまひとつ｡ しかるべき段階を経て表現しているのですよ｡
+
+### メモ：
+
+1984年作『スターフォース』<br/>
+<br/>
+テクモ<br/>
+テーカン<br/>
+<br/>
+爆発パターン<br/>
+フレーム数：５<br/>
+<br/>
+
+あれど<br/>
+あるけれど<br/>
+<br/>
+閃光（せんこう）<br/>
+白いと黒いの混ぜて<br/>
+<br/>
+ショックウェーブやフレア<br/>
+<br/>
+爆発<br/>
+爆炎が起こる<br/>
+中央から飛び出すように<br/>
+火の粉<br/>
+<br/>
+
+残煙<br/>
+黒い煙の支配を高めていくと<br/>
+火炎は残響感がある<br/>
+<br/>
+終息<br/>
+早くハケてくれた方良いだろうが、<br/>
+爆発が短いと手応え感がないと<br/>
+<br/>
+
+大事：爆発があったとの知らせ<br/>
+<br/>
+役目を全（まっと）うして行こうと<br/>
+<br/>
+フラッシュ<br/>
+画面振動<br/>
+<br/>
+地上：ショックウェーブが出てる<br/>
+空中<br/>
+<br/>
+種類あると<br/>
+長く続く爆発など<br/>
+<br/>
+手応え: FEEDBACK, response, reaction
+
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE
+
 # [いまどきの親切設計 【UI】 ](https://www.youtube.com/watch?v=7iLDVKItxjk); last accessed: 20230101
 
 > いまどきの親切設計 【UI】 
