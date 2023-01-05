@@ -1,5 +1,33 @@
 # Daily Tribune
 
+# "Taiwan restores year-long military service" (20221228; WEDNESDAY)
+
+## Author
+
+AFP
+
+## Keyphrase
+
+Taiwan's President Tsai Ing-wen<br/>
+--> extend: mandatory military service from 4 months to 1 year,<br/>
+--> objective : prepare island against CHINA<br/>
+--> start: from Year 2024<br/>
+<br/>
+--> adds: previous government ADMIN reduced military service from 1 year to 4 months,<br/>
+--> whose: objective : create mainly volunteer force<br/>
+
+### ACTION
+ 
+--> increased: reservist training<br/>
+--> increase: purchases of warplanes and anti-ship missiles <br/>
+--> objective: DEFENSE
+
+### Dagdag
+
+1) Maparaang Pagbibilang,<br/>
+--> e.g. use of triangles<br/>
+--> naaalala: [GAME OFF 2022 Entry: Tanks on a Plain](https://itch.io/jam/game-off-2022/rate/1805119)
+
 # "Case Law" (20221228; WEDNESDAY)
 
 ## Author
