@@ -12,6 +12,47 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [「絶対に押すなよ」AIは理解できる？　言語学的にみた人間のすごさ](https://www.asahi.com/articles/ASQDY3TNJQDNTLZU002.html?iref=comtop_Tech_science_02); last accessed: 20230106
+
+>「絶対に押すなよ」AIは理解できる？　言語学的にみた人間のすごさ
+
+> 黒田健朗 近藤康太郎2023年1月5日 16時00分
+
+KURODA, KENROU; KONDOU, KOUTAROU; 2023-01-05T16:00
+
+> ＡＩのコミュニケーションは
+
+Ano ang AI COMMUNICATION?
+
+>　いろんなことで人間を凌駕（りょうが）するようになったAIですが、実は言語学的にみると、思うほどにコミュニケーションがとれないんです。賢い答えを言ったかと思うと、やりとりがかみ合わないことも多々ある。
+
+Sa samu't saring mga bagay, nakagugulat na nahihigitan na ng AI ang tao. Gayunman, ang sa katunuyan, kapag tiningnan natin ito batay sa pag-aaral ng wika, hindi naman nakagagawa ang AI ng COMMUNICATION tulad ng ating iniisip. Maisip man nating may sinabing matalinong sagot ang AI, maraming pagkakataong hindi makaakma ito sa palitan ng usapan.
+
+## --
+
+> ＡＩのコミュニケーションは
+
+What is AI COMMUNICATION?
+
+>　いろんなことで人間を凌駕（りょうが）するようになったAIですが、実は言語学的にみると、思うほどにコミュニケーションがとれないんです。賢い答えを言ったかと思うと、やりとりがかみ合わないことも多々ある。
+
+While on varying things, AI has surpisingly exceeded human beings, in actuality, looking at it linguistically, AI has not yet been able to achieve COMMUNICATION as we may think. When we think that it has said an intelligent answer, there are many cases where it does not aptly do so during conversation. 
+
+###
+
+TO-DO: -add: this
+
+> 人が効率の面からAIに頼りたくなる気持ちも分かります。ただ私は、AIが自分を分かってくれるような振る舞いをするのに、気持ち悪さを感じます。
+
+>　私が言語学を研究するようになったきっかけは、大学時代、研究室を決めるオリエンテーションでした。「『お天気下り坂』という言葉がありますが、『お天気上り坂』と言わないのはなぜですか？」と質問したところ、先生から『君はセンスがある』と言われた。疑問を持ち、分析して、探るのが好きなんです。今も研究については、自分の頭で考え、自分で答えを見つけたい。
+
+### Sanggunian・Reference
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+2) https://english.stackexchange.com/questions/21413/in-cases-when-vs-in-cases-where;
+last accessed: 20230106
+
 # [資格、副業…募る違和感　29歳で「人生リセット」遠回りで得たもの](https://www.asahi.com/articles/ASQDX3SJ4QDWOIPE00C.html?iref=comtop_7_07); last accessed: 20221231
 
 > 資格、副業…募る違和感　29歳で「人生リセット」遠回りで得たもの
