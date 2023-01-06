@@ -24,6 +24,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 こちらをどうぞ！https://youtu.be/dYvpAYbfDpE
 
 
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+> 相手のヘルスゲージを３０割りまでに減らして、勝てると思ったら、前にあった自分のヘルスが、ほぼ満点だったのに、すぐに負けるという結果じゃ、KOF’98で、最強難易度のLUGALとの戦いを思い出す。
+
+To think that I shall win after decreasing the opponent's health gauge to 30%, and then quickly losing as a result, despite my own health being previously almost at full, reminds me of the battle with LUGAL at strongest difficulty level.
+
+> だが、何回もその戦いだけを集中して、結局、AI（人工知能）の仕組みがわかるようになり、攻撃と防御の維持をしながら、ロックマン２のラストステージのBUBBLEMANとの戦いのように、勝てるよね。
+
+But by concentrating on only that battle multiple times, eventually, we understand the mechanism of the AI (Artificial Intelligence), and by maintaining OFFENSE and DEFENSE, as with fighting with BUBBLEMAN in the last stage of ROCKMAN2, we can win.
+
+> セーブステートがなかったら、自分がわからないと思うね。
+
+Without the SAVE STATE, I think I myself won't understand this.
+
+> というと、だから前から、GB版以外、ロックマン完成できないため、あまりやってなかった。また、考えたら、開発者も、KAGAMIやLUGALなどのAIを科学的に理解できるまで、ゲームをやっていたよね。
+
+Saying this, since before, except for the GB version, because I could not finish ROCKMAN, I didn't play it that much. And, when we think about it, DEVELOPERS, too, played the game until they can understand scientifically the AI of KAGAMI, LUGAL, and so on.
+
+</td></tr>
+</table>
+
 ## https://twitter.com/JWonggg; last accessed: 20230105 (Philippine Time)
 
 > NEW YOUTUBE VIDEO
