@@ -29,7 +29,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-> 相手のヘルスゲージを３０割りまでに減らして、勝てると思ったら、前にあった自分のヘルスが、ほぼ満点だったのに、すぐに負けるという結果じゃ、KOF’98で、最強難易度のLUGALとの戦いを思い出す。
+> 相手のヘルスゲージを３割りまでに減らして、勝てると思ったら、前にあった自分のヘルスが、ほぼ満点だったのに、すぐに負けるという結果じゃ、KOF’98で、最強難易度のLUGALとの戦いを思い出す。
 
 To think that I shall win after decreasing the opponent's health gauge to 30%, and then quickly losing as a result, despite my own health being previously almost at full, reminds me of the battle with LUGAL at strongest difficulty level.
 
