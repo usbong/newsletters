@@ -9,6 +9,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230106 (Philippine Time)
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Everyone always talks about Last Blade 2 and so do I but what about Last Blade 1? I want to check more about this game and what makes it tick. Also screw the last boss in this game
+
+みんな、いつもLast Blade 2のこと話してるが、Last Blade １は？このゲームと中身にある仕組みも、もっと調べたい。もう一つ、このゲームのラストボスは、強すぎて、キタネ～！
+
+> Check it out: https://youtu.be/dYvpAYbfDpE
+
+こちらをどうぞ！https://youtu.be/dYvpAYbfDpE
+
 
 ## https://twitter.com/JWonggg; last accessed: 20230105 (Philippine Time)
 
