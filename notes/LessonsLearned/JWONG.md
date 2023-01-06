@@ -41,7 +41,7 @@ But by concentrating on only that battle multiple times, eventually, we understa
 
 Without the SAVE STATE, I think I myself won't understand this.
 
-> というと、だから前から、GB版以外、ロックマン完成できないため、あまりやってなかった。また、考えたら、開発者も、KAGAMIやLUGALなどのAIを科学的に理解できるまで、ゲームをやっていたよね。
+> というと、だから前から、[ロックマンIIGB版](https://www.youtube.com/watch?v=YziB-46VblA&t=2354s)以外、ロックマン完成できないため、あまりやってなかった。また、考えたら、開発者も、KAGAMIやLUGALなどのAIを科学的に理解できるまで、ゲームをやっていたよね。
 
 Saying this, since before, except for the GB version, because I could not finish ROCKMAN, I didn't play it that much. And, when we think about it, DEVELOPERS, too, played the game until they can understand scientifically the AI of KAGAMI, LUGAL, and so on.
 
