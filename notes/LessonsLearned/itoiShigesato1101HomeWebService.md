@@ -4,6 +4,131 @@ https://www.1101.com/home.html<br/>
 
 TO-DO: -reverify: faster NOTES writing, searching, et cetera
 
+https://www.1101.com/home.html;
+last accessed: 20230107; from 20230106
+
+> ・「なにをしたらいいのか」がわかっていたら、<br/>
+>　いろんなことが、ものすごくやれるようになるんだよね。<br/>
+>　でも、「なにをしたらいいのか」が、わからないんだよ。
+
+If we understand, "What should we do?", 
+we can begin to do a great many, and various things. But, we don't really understand "What should we do?".
+
+>　特に若いときには、わからないんじゃないかな。<br/>
+
+In particular, in our youth, didn't we NOT know what to do?
+
+>　すごい子もたまにいて「宇宙へ行きたい」とか言ってさ、<br/>
+>　宇宙に関する本とか読みまくってたりする。
+
+At times, there is a great child who says something like "I want to go to outer space," and reads books and books on outer space.
+
+>　「なにをしたらいいのか」わかった子はたのしそうだ。
+
+A child who understands "what to do?" appears happy.
+
+>　そういう興味の対象が見つかってない子は、<br/>
+>　親や先生が「勉強しなさい」と言うものだから、<br/>
+>　勉強をすればいいのかなぁと思って勉強したりする。
+
+A child who has not yet found that kind of interest as an objective, studies, thinking that parents and teacher say, "Study!", so he should probably do so.
+
+>　勉強をするにしても、どんな勉強をどうやるのか、<br/>
+>　わかってる子は勉強をはじめられるんだけど、<br/>
+>　勉強って「なにをしたらいいのか」わからない子は、<br/>
+>　そのまま「なにをしたらいいのか」わからないままになる。
+
+With regard to studying, a child who understands can begin, while a child who does not, asks what kind of study shall he do, and remains asking, without understanding.
+
+>　でも、「なにをしたらいいのか」わからないのは、<br/>
+>　けっこう「ふつうのこと」なんだと思うんだよ。
+
+But I think it's really quite an "ordinary thing" to not understand what to do.
+
+>　義務として、仕方なくやることとして<br/>
+>　「なにをしたらいいのか」を知っている人ならいる。
+
+As a duty, as a task without a way out, a person such as one who knows "what to do?" does exist.
+
+>　「やらなきゃいけないこと」だけをしていると、<br/>
+>　だんだん「なにをしたらいいのか」がわからなくなる。
+
+When we do only "something that we have to do", we gradually begin to not understand "what we should do."
+
+>　そういう逆説的なことも「ふつう」によくある。
+
+That kind of opposite talk, also often occurs to be "ordinary."
+
+>　これは、子どものときや若いときばかりじゃなくて、<br/>
+>　大人でも老人になっても同じなんだと思うよ。
+
+This is something that is not only when we were children and young; I think it is the same even for adults and old people.
+
+>　「なにをしたらいいのか」わかるだけで、<br/>
+>　人はじぶんの可能性がたっぷりあることを知る。
+
+To understand even only "what to do?", a person knows that there is plenty of potential within.
+
+>　でも、なかなかそれが見つからない。
+
+But, that is quite hard to find.
+
+>　受験だとか恋愛だとか蓄財だとか、目的を決めると、<br/>
+>　ほんとの「なにをしたらいいのか」を考えなくもなる。
+
+When we decide an objective, as with taking an entrance examination, love, wealth accumulation, and so on, we begin to not think of the true "what to do?".
+
+>　で、この話に「こうだ」っていう答えはない。
+
+So, in this talk, there is no answer saying "Do this."
+
+>　ただ、最近ぼくは「なにをしたらいいか」を、<br/>
+>　今日一日という単位で考えるようにしている。
+
+Only, recently, I have begun to think of "what to do", as simply a day today.
+
+>　たった一日「なにをしたらいいのか」がわからないじゃ、<br/>
+>　どうにもならないから、一日分くらいは考えよう。
+
+Because we won't understand "what to do" with only one day, and yet we also can't do much about it, let's think in one day terms. 
+
+>　で、それをちゃんとやると、明日やることが見えてくる。
+
+And, when we properly do that, we shall be able to see what we shall do for tomorrow.
+
+>　おそらく、昔から人はそうやってきたように思うんだ。
+
+Most likely, since the olden times, I think people have come to do such things.
+
+>　今日、ぼくがやることはもう決めてあります。
+
+Today, it has been decided what I shall do.
+
+> 今日も、「ほぼ日」に来てくれてありがとうございます。
+
+Today, too, thank you for coming to "Almost Day."
+
+> 一日を単位にしようという考えを、毎日続けております。
+
+Thinking of doing one, each day, I have continued every day.
+
+> 昨日の「今日のダーリン」を読み逃した方はこちら。
+
+This way please for those who have missed reading yesterday's "Today's DARLING." 
+
+### NOTE
+
+1) observed: long translation writing from nihongo to English; > 20mins
+
+2) remembers: Carrol, Lewis' book, "Alice's Adventures in Wonderland"
+
+>　でも、「なにをしたらいいのか」わからないのは、<br/>
+>　けっこう「ふつうのこと」なんだと思うんだよ。
+
+But I think it's really quite an "ordinary thing" to not understand what to do.
+
+
+
 # https://www.1101.com/pl/060216kimagure/index.html;
 last accessed: 20230102; from 20230101
 
