@@ -34,7 +34,7 @@ Nauunawaan ko ang pakiramdam ng pagsalalay ng tao sa AI mula sa panig ng kahusay
 
 >　私が言語学を研究するようになったきっかけは、大学時代、研究室を決めるオリエンテーションでした。「『お天気下り坂』という言葉がありますが、『お天気上り坂』と言わないのはなぜですか？」と質問したところ、先生から『君はセンスがある』と言われた。疑問を持ち、分析して、探るのが好きなんです。今も研究については、自分の頭で考え、自分で答えを見つけたい。
 
-Sa ORIENTATION kung saan pipili ng silid ng pananaliksik, noong panahon ko sa pamantasan, ang aking naging simula sa pananaliksik ng pag-aaral ng wika. Nang tinanong ko ang Guro, "Bagama't may pariralang 'Pababa ng bundok ang panahon', bakit hindi sinasabi ang 'Paakyat ng bundok ang panahon'?", sinabihan niya ako: "May SENSE (pag-umawa) ka." Mahilig ako sa paghahagilap, at paghihimay ng mga suliranin. Kahit sa kasalukuyan, ukol sa pananaliksik, nais kong sariling matagpuan ang sagot, habang nag-iisip gamit ang aking sariling utak.
+Sa ORIENTATION kung saan pipili ng silid ng pananaliksik, noong panahon ko sa pamantasan, ang aking naging simula sa pananaliksik ng pag-aaral ng wika. Nang tinanong ko ang Guro, "Bagama't may pariralang 'Pababa ng bundok ang panahon', bakit hindi sinasabi ang 'Paakyat ng bundok ang panahon'?", sinabihan niya ako: "May SENSE (pag-unawa) ka." Mahilig ako sa paghahagilap, at paghihimay ng mga suliranin. Kahit sa kasalukuyan, ukol sa pananaliksik, nais kong sariling matagpuan ang sagot, habang nag-iisip gamit ang aking sariling utak.
 
 
 ### Dagdag
