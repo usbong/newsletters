@@ -30,7 +30,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-> MKTRILOGY（SNES版）もコンボあったが、当時の雑誌では、評判があまり良くなかったね。
+> MK3 & Ultimate MK3（SNES版）もコンボあったが、当時の雑誌では、評判があまり良くなかったね。
 
 There was also COMBO in MKTRILOGY (SNES), albeit it did not receive much positive reviews from magazines at the time.
 
@@ -49,7 +49,6 @@ and while there were people who did those at the start, they became fewer.
 > デジタル版やウェブサービスも出てきたが、<br/>
 > 結局、儲かるために、<br/>
 > なにをしなければならないのかね。
-
 
 GAME MAGAZINES surely do have influence,<br/>
 albeit magazines printed in America<br/> 
