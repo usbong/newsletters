@@ -69,7 +69,7 @@ of low salary when saying that work is fun.
 > こっちのほうは、給料をより高くしようとして、<br/>
 > あと　家で　働いても、依頼したものを出してくれれば、<br/>
 > かまわなかったが、結局、金のほか、<br/>
-> 人との関係など、男性と女性、が欲しくなって、<br/>
+> 人との関係など、男性と女性、が欲しがって、<br/>
 > 辞めた人も少なくなかった。
 
 In our case, I did what I could to give higher salaries,<br/>
