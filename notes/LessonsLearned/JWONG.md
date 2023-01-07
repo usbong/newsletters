@@ -36,7 +36,7 @@ There was also COMBO in MKTRILOGY (SNES), albeit it did not receive much positiv
 
 > 現在だと、そういう仕組みを入れておいた格闘ゲームが多くなったよね。
 
-Now, FIGHTING GAMES with such mechanism has increased.
+Now, FIGHTING GAMES with such mechanism have increased.
 
 > また、TEKKEN２（PS1)にも覚えとく長いコンボあったし、<br/>
 > 最初やる人がいたけど、少なくなったようだな。
