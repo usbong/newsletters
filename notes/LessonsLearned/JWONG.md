@@ -72,9 +72,9 @@ of low salary when saying that work is fun.
 > 人との関係など、男性と女性、が欲しくなって、<br/>
 > 辞めた人も少なくなかった。
 
-In our case, I did what I can to give higher salaries,<br/>
+In our case, I did what I could to give higher salaries,<br/>
 and it did not matter if the people worked at home <br/>
-so long as they can send the requested items; however, <br/>
+so long as they could send the requested items; however, <br/>
 eventually, other than money, there were not a few <br/>
 who quit, because they wanted human relationship, <br/>
 such as that of male and female;
@@ -86,7 +86,7 @@ It may be because I had promulgated<br/>
 FAMILY BUSINESS, FAMILY TIME, and so on.
 
 ### Note
-1) observed: time to add without automation "<br/>" to signify new lines for text written in multiple lines
+1) observed: time to add without automation "\<br/\>" to signify new lines for text written in multiple lines
 
 
 </td></tr>
