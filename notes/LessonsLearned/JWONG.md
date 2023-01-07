@@ -9,6 +9,88 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+
+## https://twitter.com/JWonggg; last accessed: 20230107 (Philippine Time); from 20230106
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+>　I hate y’all and here you go. arakune trials 
+
+いやだよ、おめぇら！はい、どうぞ！アラクネ トライアル
+
+> Check it out: https://youtu.be/wUWpZzgsMvM
+
+こちらをどうぞ！　https://youtu.be/wUWpZzgsMvM
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+> MKTRILOGY（SNES版）もコンボあったが、当時の雑誌では、評判があまり良くなかったね。
+
+There was also COMBO in MKTRILOGY (SNES), albeit it did not receive much positive reviews from magazines at the time.
+
+> 現在だと、そういう仕組みを入れておいた格闘ゲームが多くなったよね。
+
+Now, FIGHTING GAMES with such mechanism has increased.
+
+> また、TEKKEN２（PS1)にも覚えとく長いコンボあったし、<br/>
+> 最初やる人がいたけど、少なくなったようだな。
+
+Also, even TEKKEN2 (PS1) had long COMBOS to memorize,<br/>
+and while there were people who did those at the start, they became fewer. 
+
+> ゲーム雑誌の影響あるに違いないが、<br/>
+> 米国やフィリピンで印刷されたものが、無くなったね。<br/>
+> デジタル版やウェブサービスも出てきたが、<br/>
+> 結局、儲かるために、<br/>
+> なにをしなければならないのかね。
+
+
+GAME MAGAZINES surely do have influence,<br/>
+albeit magazines printed in Amerika<br/> 
+and the Philippines have disappeared.<br/>
+Digital and web services have come out,<br/>
+but eventually, to make a PROFIT,<br/>
+the question is what must be done?<br/>
+
+> 例えば、仕事を楽しんでるからと言って、<br/>
+> 給料が少ないという強制を促されるとかね。
+
+An example of this is promulgating the enforcement<br/> 
+of low salary when saying that work is fun.
+
+### ーー
+
+> こっちのほうは、給料をより高くしようとして、<br/>
+> あと　家で　働いても、依頼したものを出してくれれば、<br/>
+> かまわなかったが、結局、金のほか、<br/>
+> 人との関係など、男性と女性、が欲しくなって、<br/>
+> 辞めた人も少なくなかった。
+
+In our case, I did what I can to give higher salaries,<br/>
+and it did not matter if the people worked at home <br/>
+so long as they can send the requested items; however, <br/>
+eventually, other than money, there were not a few <br/>
+who wanted human relationship, such as that of male and female;
+
+> こっちのファミリービジネスやファミリータイムを<br/>
+> 促そうとしているせいかもしれないな。
+
+It may be because I had promulgated<br/>
+FAMILY BUSINESS, FAMILY TIME, and so on.
+
+### Note
+1) observed: time to add without automation "<br/>" to signify new lines for text written in multiple lines
+
+
+</td></tr>
+</table>
+
 ## https://twitter.com/JWonggg; last accessed: 20230106 (Philippine Time)
 
 > NEW YOUTUBE VIDEO
