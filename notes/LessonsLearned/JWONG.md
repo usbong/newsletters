@@ -32,7 +32,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
   
 > MK3 & Ultimate MK3（SNES版）もコンボあったが、当時の雑誌では、評判があまり良くなかったね。
 
-There was also COMBO in MK3 & Ultimate MK3 (SNES), albeit it did not receive much positive reviews from magazines at the time.
+There was also COMBO in MK3 & Ultimate MK3 (SNES), albeit they did not receive much positive reviews from magazines at the time.
 
 > 現在だと、そういう仕組みを入れておいた格闘ゲームが多くなったよね。
 
