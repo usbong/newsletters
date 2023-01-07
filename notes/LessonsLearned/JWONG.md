@@ -52,7 +52,7 @@ and while there were people who did those at the start, they became fewer.
 
 
 GAME MAGAZINES surely do have influence,<br/>
-albeit magazines printed in Amerika<br/> 
+albeit magazines printed in America<br/> 
 and the Philippines have disappeared.<br/>
 Digital and web services have come out,<br/>
 but eventually, to make a PROFIT,<br/>
@@ -76,7 +76,8 @@ In our case, I did what I can to give higher salaries,<br/>
 and it did not matter if the people worked at home <br/>
 so long as they can send the requested items; however, <br/>
 eventually, other than money, there were not a few <br/>
-who wanted human relationship, such as that of male and female;
+who quit, because they wanted human relationship, <br/>
+such as that of male and female;
 
 > こっちのファミリービジネスやファミリータイムを<br/>
 > 促そうとしているせいかもしれないな。
