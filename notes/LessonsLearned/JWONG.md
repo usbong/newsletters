@@ -28,7 +28,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 > It's no contest at this point. The amount of times I've fought Akuma in Street Fighter III: 2nd Impact had me come to the conclusion that he is the most broken fighting character of all time. Especially after fighting Pikachuakuma... No one can tell me otherwise! 
 
-ここまで来て、すでに明らかだ。Street Fighter III: 2nd Impactで悪魔と戦う時間量から、この結論がわかった。彼は時の最も狂ってる格闘ファイターだ！特に、Pikachuakumaと戦ってから・・・誰にもその逆を言われられない。
+ここまで来て、すでに明らかだ。Street Fighter III: 2nd Impactで悪魔と戦う時間量から、この結論がわかった。彼は時の最も狂ってる格闘ファイターだ！特に、Pikachuakumaと戦ってから・・・誰にもその逆を言われない！
 
 
 
