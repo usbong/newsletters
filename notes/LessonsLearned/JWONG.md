@@ -31,6 +31,19 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 ここまで来て、すでに明らかだ。Street Fighter III: 2nd Impactで悪魔と戦う時間量から、この結論がわかった。彼は時の最も狂ってる格闘ファイターだ！特に、Pikachuakumaと戦ってから・・・誰にもその逆を言われない！
 
 
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+1) verifying: updating text to appear to be NOT as JOKE
+  
+> どっちのゲームでも、悪魔（ごうき）と戦うのが、問題になるようだが、2nd impactの悪魔は、時の最も狂ってる悪魔だ！
+
+どっちの「場」でも、悪魔（「あくま」）と戦うのが、問題になるようだが、2nd impactの悪魔は、時の最も「強い」悪魔だ！
+
+</td></tr>
+</table>
 
 ## https://twitter.com/JWonggg; last accessed: 20230107 (Philippine Time); from 20230106
 
