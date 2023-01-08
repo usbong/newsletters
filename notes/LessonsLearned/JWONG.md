@@ -9,6 +9,28 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230108 (Philippine Time); from 20230107
+
+> NEW YOUTUBE VIDEO 
+
+新しいYOUTUBE動画
+
+> Fighting Akuma is any game seems like a problem but 2nd impact Akuma has to be the most broken akuma of all time 
+
+どっちのゲームでも、悪魔（ごうき）と戦うのが、問題になるようだが、2nd impactの悪魔は、時の最も狂ってる悪魔だ！
+
+> Check it out: https://youtu.be/d0dyHPvJsXg 
+
+こちらをどうぞ！https://youtu.be/d0dyHPvJsXg
+
+
+> 16,315 views Jan 8, 2023 #streetfighter #streetfighter2ndimpact #2ndimpact 
+
+> It's no contest at this point. The amount of times I've fought Akuma in Street Fighter III: 2nd Impact had me come to the conclusion that he is the most broken fighting character of all time. Especially after fighting Pikachuakuma... No one can tell me otherwise! 
+
+ここまで来て、すでに明らかだ。Street Fighter III: 2nd Impactで悪魔と戦う時間量から、この結論がわかった。彼は時の最も狂ってる格闘ファイターだ！特に、Pikachuakumaと戦ってから・・・誰にもその逆を言われられない。
+
+
 
 ## https://twitter.com/JWonggg; last accessed: 20230107 (Philippine Time); from 20230106
 
@@ -18,7 +40,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 >　I hate y’all and here you go. arakune trials 
 
-いやだよ、おめぇら！はい、どうぞ！アラクネ トライアル
+いやだよ、おめぇら！はい、どうぞ！アラクネ トライアルズ
 
 > Check it out: https://youtu.be/wUWpZzgsMvM
 
