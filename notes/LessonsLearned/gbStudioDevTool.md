@@ -24,7 +24,7 @@ learned: of gbstudiodev from the following:
 --> remembers: NINJA game on Family Computer;<br/>
 --> notes: adding 7 squares after each SOUND<br/>
 --> shall cause the OUTPUT to be ALMOST<br/> 
---> as that of Super Castlevania IV (SuperFamilyComputer)
+--> as that of Super Castlevania IV (SuperNES)
 
 ## Additional Notes#2:
 
