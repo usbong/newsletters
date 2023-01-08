@@ -4,7 +4,7 @@ Official Website: https://www.gbstudio.dev/
 
 DOWNLOAD: https://chrismaltby.itch.io/gb-studio
 
-## Additional Notes:
+## Additional Notes#1:
 
 learned: of gbstudiodev from the following:
 
@@ -22,6 +22,17 @@ learned: of gbstudiodev from the following:
 <img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/usbongGBStudioDevNotesMusicV20230108T1519.jpg" width="80%">
 
 --> remembers: NINJA game on Family Computer;<br/>
---> notes: adding 8 squares after each SOUND<br/>
+--> notes: adding 7 squares after each SOUND<br/>
 --> shall cause the OUTPUT to be ALMOST<br/> 
 --> as that of Super Castlevania IV (SuperFamilyComputer)
+
+## Additional Notes#2:
+
+remembers: GAME MAKER (downloadable tool; gratis) in Year 2007;<br/>
+--> read: from history, GAME MAKER has had money problems;<br/>
+--> observed: attempted to receive income via payments for tool;<br/>
+--> notes: IF cause due to CHANGE of owner: where: original developer/maker/founder left;<br/>
+--> adds: however, such tool shall NOT be left behind by developer if has VALUE;<br/>
+--> adds: IF not with same company, may be @another's;<br/>
+--> remembers: SKULLGIRLS story as history;
+
