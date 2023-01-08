@@ -40,8 +40,13 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
   
 > どっちのゲームでも、悪魔（ごうき）と戦うのが、問題になるようだが、2nd impactの悪魔は、時の最も狂ってる悪魔だ！
 
-どっちの「場」でも、悪魔（「あくま」）と戦うのが、問題になるようだが、2nd impactの悪魔は、時の最も「強い」悪魔だ！
+どっちの「場」でも、悪魔（「あくま」）と戦うのが、問題になるようだが、2nd impactの悪魔は、時の最も「強い」悪魔だ！<br/>
 
+[AUDIO FILE: .mp3 format](https://github.com/usbong/sound/blob/main/halimbawa/JWONGNotes/20230108/usbongJWONGNotes2ndImpactAKUMA%20-%2008:01:2023%2C%201.41%20PM.mp3)  
+
+  --> notes: background NOISE;<br/>
+  --> adds: WORK-IN-PROGRESS to cause quick audio listening; system efficiency
+  
 </td></tr>
 </table>
 
