@@ -17,7 +17,7 @@ learned: of gbstudiodev from the following:
 3) [twitter.com/invertedhat](https://twitter.com/invertedhat);<br/> 
 --> last accessed: 2023-01-08; from 2023-01-07
 
-## Example Output after Quick Verification 
+## Example Output after Quick Verification#1 (macOS)
 
 <img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/usbongGBStudioDevNotesMusicV20230108T1519.jpg" width="80%">
 
@@ -29,10 +29,20 @@ learned: of gbstudiodev from the following:
 ## Additional Notes#2:
 
 remembers: GAME MAKER (downloadable tool; gratis) in Year 2007;<br/>
---> read: from history, GAME MAKER has had money problems;<br/>
+--> read: from history (of over 10 years), GAME MAKER has had money problems;<br/>
 --> observed: attempted to receive income via payments for tool;<br/>
 --> notes: IF cause due to CHANGE of owner: where: original developer/maker/founder left;<br/>
 --> adds: however, such tool shall NOT be left behind by developer if has VALUE;<br/>
 --> adds: IF not with same company, may be @another's;<br/>
 --> remembers: SKULLGIRLS story as history;
+
+
+## Example Output after Quick Verification#2 (LUBUNTU (LTS 20.04))
+
+--> Enter the following COMMAND in Terminal Window to execute installed application:<br/>
+<br/>
+<b>gb-studio</b><br/>
+<br/>
+
+<img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/usbongGBStudioDevToolOnLUBUNTU(20Dot04)V20230109T1426.jpg" width="80%">
 
