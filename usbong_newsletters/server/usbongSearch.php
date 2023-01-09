@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230103; from 20220810
+  @date updated: 20230110; from 20230103
   @website address: http://www.usbong.ph
 
   Input:
@@ -428,7 +428,9 @@
 */
 
 //	$result = array();
+	//edited by Mike, 20230110
 	$sYearDirectory="/server/2021/";
+//	$sYearDirectory="/server/2022/";
 	
 	//edited by Mike, 20211020
 //    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
@@ -452,13 +454,22 @@
 */
 	//echo idate("Y");
 	//edited by Mike, 20220619
-	$iYearCount=2022; //2021;
+	$iYearCount=2022; //2021;	
 	$iCurrentYear = idate("Y");
+
 	while ($iYearCount<=$iCurrentYear) {
+		//edited by Mike, 20230110
 		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
 
 		//edited by Mike, 20230103
+/*		
 		if (file_exists($sYearDirectoryPartTwo)) {
+			$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));			
+			
+			echo "dito";
+		}
+*/
+		if (file_exists(dirname(__DIR__).$sYearDirectoryPartTwo)) {
 			$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));			
 		}
 
@@ -824,10 +835,35 @@
 					//edited by Mike, 20211014
 //					$cellValue = strip_tags(utf8_encode($data));
 					$cellValue = strip_tags($data);
-										
+					
+					//added by Mike, 20230110
+					//note: list of additional rules to remove select displayed search outputs via updating searched value for use as input
+//-----					
+//PART 1
+					$cellValue = str_replace("by Mike, ".$sKeyphrase, "", $cellValue);
+
+					$cellValue = str_replace("server\\".$sKeyphrase, "", $cellValue);
+
+					$cellValue = str_replace("var/www/html/", "", $cellValue);
+
+//-----					
+//PART 2
+					
 					//added by Mike, 20220305
 //					$cellValue = "website address: ".getUpdatedWebAddress($completeFilename, $sWebAddressBasePath).";".$cellValue;
+
+					//edited by Mike, 20230110
+					//TO-DO: -update: this; 
+					//downloaded newsletters, 
+					//EXCEL 2021-07 pages @www.usbong.ph;
+/*					
 					$cellValue = "website address: ".$completeFilename.";".$cellValue;
+*/					
+/*
+					$cellValue = "website address: ".str_replace("\\".$sKeyphrase, "", $completeFilename).";".$cellValue;
+*/
+					$cellValue = "website address: ".str_replace("var/www/html/", "", $completeFilename).";".$cellValue;
+//-----					
 										
 					
 /*					//added by Mike, 20211022
