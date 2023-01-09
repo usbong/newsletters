@@ -1,5 +1,35 @@
 # Lessons-learned from: Manila Bulletin
 
+## "Salceda suggests 'hardline approach' to stop smuggling in Subic"
+
+### Author:
+
+QUISMORIO, ELLSON A
+
+### Keyphrase:
+
+Subic Port<br/>
+--> major conduit and hub; frequent channel of smuggling;<br/>
+--> where: smuggling : agriculture, tax evasion on imported products
+
+#### Examples
+
+1) Example#1: confisctated agriculture products in 2022-12;
+
+2) Example#2: 7,000 metric tons of smuggled sugar in 2022-08;<br/>
+<br/>
+--> notes: conspirators inside the ports
+
+#### FROM Albay 2nd district Rep: SALCEDA, JOEY
+
+--> not just management change; <br/>
+--> even @top shall have difficulty due to corruption;<br/>
+<br/>
+keyphrase: NEED of QUICK MONEY;<br/>
+--> whose: OUTPUT among other ACTIONS:<br/>
+--> shall NOT file incident reports due to FEAR of LOSING JOB, et cetera;
+
+
 ## "How to look extra"
 
 ### SKIN INVESTING
