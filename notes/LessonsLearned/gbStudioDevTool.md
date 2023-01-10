@@ -34,8 +34,9 @@ remembers: GAME MAKER (downloadable tool; gratis) in Year 2007;<br/>
 --> notes: IF cause due to CHANGE of owner: where: original developer/maker/founder left;<br/>
 --> adds: however, such tool shall NOT be left behind by developer if has VALUE;<br/>
 --> adds: IF not with same company, may be @another's;<br/>
---> remembers: SKULLGIRLS story as history;
-
+--> remembers: SKULLGIRLS story as history;<br/>
+--> notes: [GAME MAKER (current version)](https://gamemaker.io/en);<br/> 
+--> https://twitter.com/GameMakerEngine; last accessed: 20230110
 
 ## Example Output after Quick Verification#2 (LUBUNTU (LTS 20.04))
 
@@ -46,3 +47,12 @@ remembers: GAME MAKER (downloadable tool; gratis) in Year 2007;<br/>
 
 <img src="https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/res/usbongGBStudioDevToolOnLUBUNTU(20Dot04)V20230109T1426.jpg" width="80%">
 
+## Additional Notes#3:
+
+observed: to appear to have max pixel dimensions; GameBoy<br/>
+--> adds: GIMP appears faster for animation verification<br/>
+<br/>
+observed: MUSIC part appears to be faster than MuseScore;<br/>
+--> adds: MIDI files from [vgmusic.com](https://vgmusic.com/) to be imported to MuseScore;<br/>
+--> however, reusing such files may cause the sound<br/> 
+--> to appear as equal with the original; caution
