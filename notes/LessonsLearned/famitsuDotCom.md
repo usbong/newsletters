@@ -1,5 +1,22 @@
 # Lessons-learned: ファミ通.com　(famitsu.com)
 
+# [PS2版『ことばのパズル もじぴったん』が発売20周年。言葉作りが楽しい新機軸のパズルゲーム。対応ワードのバリエーションがとにかく豊富【今日は何の日？】](https://www.famitsu.com/news/202301/09288759.html); last accessed: 20230109
+
+> by ウワーマン ライター
+
+verified: on PS2, select words appear to auto-form to be classified as correct; <br/>
+--> keyphrase: system
+
+### [SteamPowered version](https://store.steampowered.com/app/1366960/_/);
+
+> Oops, sorry!
+
+> unavailable in region
+
+### [Google Play App version](https://play.google.com/store/apps/details?id=com.bandainamcoent.mojipittan)
+
+notes: development causes increase in know-how of its developers;
+
 # [『ロックマン』35周年。『X』や『DASH』や『エグゼ』などつぎつぎにシリーズ展開し、幅広い層に愛されるようになったカプコンの看板タイトル【今日は何の日？】](https://www.famitsu.com/news/202212/17286490.html); last accessed: 20221217
 
 >『ロックマン』35周年。『X』や『DASH』や『エグゼ』などつぎつぎにシリーズ展開し、幅広い層に愛されるようになったカプコンの看板タイトル【今日は何の日？】
