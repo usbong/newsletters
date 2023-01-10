@@ -1,5 +1,44 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "SALAMAT SA PAALAM, PAPA BENEDICTO (20230108; SUNDAY)"
+
+## KaPaaYaPaaN
+
+### Author
+
+FR REYES, ROBERT P
+
+### Keyphrase
+
+Papa Benedicto XVI<br/>
+--> yumao: 2022-12-31, ang huling araw ng taon;
+
+> ...matagal na niyang nakikita ang pagliit ng Simbahang Katolika sa Europa
+
+--> itunulak: ang pananaw na "Catholic Creative Minority"<br/>
+<br/>
+--> nagbitiw: bilang unang papang gumawa nito, pagkaraan ng 600 taon;<br/>
+<br/>
+--> Mga huling salita:
+
+> "Jesus, Ick liebe Dich." <br/>
+> "Hesus, mahal kita."
+
+### Mula sa may-akda:
+
+> "Gusto ba ninyong makita ang mukha ng inyong asawa?"
+
+> "mukha ni HesuKristo, ang mukha ng Diyos."
+
+### Dagdag bilang Halimbawa ni SYSON, MICHAEL B.
+
+pagkalipas ng > 30 taon?<br/>
+--> pagkalipas ng 5 taon?<br/>
+--> pagkalipas ng 10 taon?<br/>
+--> pagkalipas ng 20 taon?<br/>
+--> pagkalipas ng 30 taon?<br/>
+
+
 # "KASONG KRIMINAL SA PAGBILI NG NAKAW NA GAMIT (20221227; TUESDAY)"
 
 ## MAGTANONG KAY ATTORNEY
