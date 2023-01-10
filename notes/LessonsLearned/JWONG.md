@@ -44,13 +44,19 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
-天狗だね。確かに京都の山で、像までも作られたり、しかも、「鞍馬の火」という祭りも開催されたりするね。<br/>
-<br/>
-京都といえば、「お」をつけて、「お祭り」と言うんだけど、やはり、悪口や噂（うわさ）からの待遇から、丁寧に話してくれると、気分が良くなるよね。義務が、忘れちゃったら、アカンやけどな。<br/>
+> 天狗だね。確かに京都の山で、像までも作られたり、しかも、「鞍馬の火」という祭りも開催されたりするね。
+
+Tengu (Heavenly Dog). In fact, on a mountain in KYOTO, a statue of it has been made. And there even exists a festival called, "KURAMA's Fire"! 
+
+> 京都といえば、「お」をつけて、「お祭り」と言うんだけど、やはり、悪口や噂（うわさ）からの待遇から、丁寧に話してくれると、気分が良くなるよね。義務が、忘れちゃったら、アカンやけどな。
+
+Speaking of KYOTO, we add "Oh", and say "Oh-Matsuri", because it is indeed a good feeling to be politely spoken with, after being treated with rumors and bad-mouthing. It is, however, a shame if we end up forgetting our duty. 
 
 #### ーー
 
-おっ、こんなOROの戦いは、初めて見たな！飛蹴技が、あんなに速くて、再攻撃に繋げれるコンボができるんやん！
+> おっ、こんなOROの戦いは、初めて見たな！飛蹴技が、あんなに速くて、再攻撃に繋げれるコンボができるんやん！
+
+Oh! This is my first time to see this kind of fighting from ORO! So it is after all possible to do a combo that connects to another attack, after his flying kick technique, due to its speed!
   
 </td></tr>
 </table>
