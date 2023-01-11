@@ -45,6 +45,23 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 #breakers #breakersrevenge #FGC
 
 
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+> 最初、ワールドヒーローズ（アーケード版）のような物真似ゲームだと思ったが、STEAMPOWEREDまでも行って調べたし、結局、ウィッシュリストに追加しなかった。<br/>
+
+At first, I thought it was a copycat game that was like WORLD HEROES (ARCADE). I even went to STEAMPOWERED and verified the GAME, albeit eventually did NOT add it in my WISHLIST.
+
+> そして、またJWONGからの広告が来て、もう一度、調べてみたら、なんと「SNK」や「NEO GEO」の開発されたゲームだというので、手応えとして、STEAMPOWEREDで、すでにウィッシュリストに追加した。
+  
+And then, another advertisement from JWONG came, and I again looked at investigating it. Learning that it was a game developed by "SNK", "NEO GEO", I already added it in my WISHLIST on STEAMPOWERED as my response.
+  
+</td></tr>
+</table>
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230110 (Philippine Time); from 20230109
 
 > NEW YOUTUBE VIDEO 
@@ -67,12 +84,11 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 > It's time for more Street Fighter III: 3rd Strike and Exodus returns for another rematch against my Chun-Li. But this time around he picks up Oro!? Let's see how I can handle the best 3S player's Oro!? Let me know what you think of our set in the comments below!
 
-またStreet Fighter III: 3rd Strikeの時間だ！そして、Exodusが、おれの春麗と再戦しにきた。だが、今回、Oroを選んだ！？どうすれば、３SのベストプレイヤーのOROと戦えば良いかを見てみよう！以下のコメント欄に、お考えなどをどうぞ！
+またStreet Fighter III: 3rd Strikeの時間だ！そして、Exodusが、おれの春麗と再戦しにきた。だが、今回、OROを選んだ！？どうすれば、３SのベストプレイヤーのOROと戦えば良いかを見てみよう！以下のコメント欄に、お考えなどをどうぞ！
 
 > We worked really hard and we’re just striving to push the best fighting game content that we could possibly put out
 
 本当に、最高格闘ゲームコンテンツを促すために、がんばって、動画を出そうと！
-
 
 <table>
  <tr><td>
