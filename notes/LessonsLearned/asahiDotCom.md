@@ -12,6 +12,62 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [初デートから20年目の「ごめん！」　実はお弁当…夫は笑ってくれた](https://www.asahi.com/articles/ASQDW53F0QDGPISC00R.html?iref=comtop_7_01); last accessed: 20230111
+
+> 初デートから20年目の「ごめん！」　実はお弁当…夫は笑ってくれた
+
+Sa ika-20 taon mula ng una silang lumabas, "Patawad!"; Ang sa katunayan, sa baon... ako nginitian ng aking asawa
+
+> 初デートから20年目の「ごめん！」　実はお弁当…夫は笑ってくれた
+
+"Sorry!" on the 20th year since their first date; In fact, it was due to the lunchbox... that my husband smiled at me 
+
+> 乗京真知2023年1月11日 9時00分
+
+NORIKYO, MASATOMO; 2023-01-11T09:00
+
+### Pinaikling Pagbubuod・Short Summary
+
+>　きっかけは1996年の春、初デートのころにさかのぼる。優美子さんが仕事場から歩いて帰っていたとき、聞き覚えのある声で「久しぶりだね」と呼び止められた。落ち着いたトーンの穏やかな声。たまたま車で通りかかった元同僚の「原田さん」だった。
+
+Sa tag-sibol ng taong 1996 ang naging simula, at umusbong pagsapit ng kanilang unang date. Pauwing naglalakad si Bb. YUMIKO mula sa hanap-buhay, nang napatigil siya dahil sa tawag ng taong nakikilala niya ang tinig: "Ang tagal na nating hindi nagkita, ah." Tinig na mapayapa at mahinahon ang tono. Iyon si "G. HARADA", ang dati niyang kahanap-buhay, at nagkataong dumaraan doon lulan ng kanyang sasakyan.
+
+>　きっかけは1996年の春、初デートのころにさかのぼる。優美子さんが仕事場から歩いて帰っていたとき、聞き覚えのある声で「久しぶりだね」と呼び止められた。落ち着いたトーンの穏やかな声。たまたま車で通りかかった元同僚の「原田さん」だった。
+
+It began in the spring of the year 1996, and blossomed by the time of their first date. Ms. YUMIKO was walking home from her workplace, when she heard a familiar voice that called and stopped her: "It's been a long time." It was a voice that was at peace and had a calm tone. It was "Mr. HARADA", who was her former colleague and who happened to be passing by on a vehicle.
+
+### --
+
+>　せっかくだからと喫茶店に寄った。仕事の様子や体調の変化など話は尽きず、「次は晴れた日に、外で話しましょう」と約束した。アウトドア好きの原田さんの提案で、富山県南砺市の高原でピクニックをすることになった。
+
+Dahil matagal na nga silang hindi nagkikita, sinadya nilang tumungo sa café. Hindi matapos ang kanilang usapan ukol sa kanilang hanap-buhay, mga nagbago sa kanilang buhay, atbp, kaya ipinangako nila sa isa't isa ito: "Mag-usap ulit tayo sa labas, sa susunod na umaraw." Mahilig sa kalikasan (OUTDOOR) si G. Harada, at sa kaniyang mungkahi, nagtungo sila upang magpiknik sa Bundok ng FUJI, doon sa TAKAHARA, sa Lungsod ng NANTO.
+
+>　せっかくだからと喫茶店に寄った。仕事の様子や体調の変化など話は尽きず、「次は晴れた日に、外で話しましょう」と約束した。アウトドア好きの原田さんの提案で、富山県南砺市の高原でピクニックをすることになった。
+
+Because it was such a long time since they last met, they stopped by a café. Talk of their life at work, and how things have changed, would not end, such that they promised each other this: "Let's go out and talk again on a sunny day." As suggested by Mr HARADA, who was fond of the OUTDOORS, they went to Mt. FUJI for a picnic at TAKAHARA, in NANTO City.
+
+### --
+
+>「いとしい者には、おいしい物を」
+
+"Sa iniibig na tao, masarap na pagkain."
+
+>「いとしい者には、おいしい物を」
+
+"Delicious meals to my darling."
+
+### --
+
+Inilagay ko ito sa hulihan mula sa harapan.
+
+
+> 親子の笑顔を詰め込んだアルバムは、お弁当やおせち、手作りケーキをほおばるシーンでいっぱいだ。結婚して26年になる石川県の原田優美子さん夫婦は、家族で「おいしい」を分かち合うことをモットーにしてきた。夫婦の体調や子どもの成長の土台は、日々の食事にあると考えるからだ。
+
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 # [「絶対に押すなよ」AIは理解できる？　言語学的にみた人間のすごさ](https://www.asahi.com/articles/ASQDY3TNJQDNTLZU002.html?iref=comtop_Tech_science_02); last accessed: 20230107; from 20230106
 
 >「絶対に押すなよ」AIは理解できる？　言語学的にみた人間のすごさ
