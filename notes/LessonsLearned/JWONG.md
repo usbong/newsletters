@@ -54,9 +54,9 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 At first, I thought it was a copycat game that was like WORLD HEROES (ARCADE). I even went to STEAMPOWERED and verified the GAME, albeit eventually did NOT add it in my WISHLIST.
 
-> そして、またJWONGからの広告が来て、もう一度、調べてみたら、なんと「SNK」や「NEO GEO」の開発されたゲームだというので、手応えとして、STEAMPOWEREDで、すでにウィッシュリストに追加した。
+> そして、またJWONGからの広告が来て、もう一度、調べてみたら、なんと「SNK」や「NEO GEO」が、前に開発されたゲームだというので、手応えとして、STEAMPOWEREDで、すでにウィッシュリストに追加した。
   
-And then, another advertisement from JWONG came, and I again looked at investigating it. Learning that it was a game developed by "SNK", "NEO GEO", I already added it in my WISHLIST on STEAMPOWERED as my response.
+And then, another advertisement from JWONG came, and I again looked at investigating it. Learning that it was a game previously developed by "SNK", "NEO GEO", I already added it in my WISHLIST on STEAMPOWERED as my response.
   
 </td></tr>
 </table>
