@@ -2,6 +2,8 @@
 
 ## "PESO-DOLLAR RATE" (20230111; WEDNESDAY)
 
+### BUSINESS
+
 ### Author: 
 
 ARCEO-DUMLAO, TINA (Ed.)<br/>
@@ -11,6 +13,34 @@ LUCAS, DAXIM L (Business News Ed.)
 
 1USD : 54.87PHP<br/>
 datestamp: 2023-01-10
+
+### Related News
+
+### "PESO HITS STRONGEST LEVEL IN SIX MONTHS"  (20230111; WEDNESDAY)
+
+#### Author: 
+
+DOMINGO, RONNEL W
+
+### keyphrase: 
+
+#### previous (202210): 1USD : 59PHP
+
+#### current (202301): 1USD : 54.87PHP
+
+#### FLURRY OF POSITIVE FACTORS
+
+1) lower interest rates by US Federal Reserve
+
+2) increase in consumer demand due to reset of CHINA's COVID-19 POLICIES
+
+3) lower crude oil prices
+
+4) lower commodity prices due to milder Northern Hemisphere winter
+
+### Expected OUTPUT
+
+increase in consumption
 
 
 ## "MUSK WARNS OF TWITTER BANKRUPTCY AS MORE SENIOR EXECUTIVES QUIT" (20221112; SATURDAY)
