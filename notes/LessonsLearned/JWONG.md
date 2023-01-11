@@ -10,6 +10,41 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://twitter.com/JWonggg; last accessed: 20230111 (Philippine Time); from 20230110
+
+> Breakers Collection<br/>
+> <br/>
+> [@BreakersQUByte](https://twitter.com/BreakersQUByte)<br/>
+> ·<br/>
+> Jan 10<br/>
+> <br/>
+> [#BreakersCollection](https://twitter.com/BreakersQUByte) launches this week (January 12) with a lot of exclusive features you can't find anywhere else! <br/>
+><br/>
+>  Crossplay between consoles and PC <br/>
+ > Rollback netcode <br/>
+ > Lobbies <br/>
+ > Training mode<br/> 
+ > Team Battle mode <br/>
+ > Gallery <br/>
+ > And more! <br/>
+ > <br/>
+ > #breakers #breakersrevenge #FGC
+
+### —
+
+[#BreakersCollection](https://twitter.com/BreakersQUByte)は、どこでも見つからない多数の機能が含まれており、今週（1/12）リリースさせて頂きます！ <br/>
+ <br/>
+ゲーム機とPCのクロスプレイ対応 <br/>
+ロールバックネットコード <br/>
+ロビー <br/>
+トレーニングモード <br/>
+チームバトルモード <br/>
+ギャラリー <br/>
+などなど！ <br/>
+ <br/>
+#breakers #breakersrevenge #FGC
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230110 (Philippine Time); from 20230109
 
 > NEW YOUTUBE VIDEO 
