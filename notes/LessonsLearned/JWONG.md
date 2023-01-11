@@ -12,6 +12,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 ## https://twitter.com/JWonggg; last accessed: 20230111 (Philippine Time); from 20230110
 
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Man... Fist of the North Star is so broken but seeing it live and commentating it was actually more ham.  
+
+ったく、「北斗の拳」は、こんなに壊れてるかと思ったら、実際に日本で観ながら、ナレーター役として、コメントすると、正直に言うと、よかった。
+
+> Check it out: https://youtu.be/CKXNcCCAE08
+
+こちらをどうぞ！https://youtu.be/CKXNcCCAE08
+
+### --
+
 > Breakers Collection<br/>
 > <br/>
 > [@BreakersQUByte](https://twitter.com/BreakersQUByte)<br/>
