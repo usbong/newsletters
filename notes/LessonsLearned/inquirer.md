@@ -1,5 +1,18 @@
 # Lessons-learned: Inquirer
 
+## "PESO-DOLLAR RATE" (20230111; WEDNESDAY)
+
+### Author: 
+
+ARCEO-DUMLAO, TINA (Ed.)<br/>
+LUCAS, DAXIM L (Business News Ed.)
+
+### keyphrase: 
+
+1USD : 54.87PHP<br/>
+datestamp: 2023-01-10
+
+
 ## "MUSK WARNS OF TWITTER BANKRUPTCY AS MORE SENIOR EXECUTIVES QUIT" (20221112; SATURDAY)
 
 ### Author: 
