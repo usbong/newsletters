@@ -30,38 +30,77 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-「北斗の拳」と言えば、<br/>
-ゲームセンターで観れた、<br/>
-パンチをする大きなボタンのような<br/>
-アーケード機のほうを思い出す。<br/>
-<br/>
-だが、この動画の「北斗の拳」は、<br/>
-そうではないアーケード機だと、<br/>
-見れば、すぐ わかる。<br/>
-<br/>
-エア・コンボが、押し間違えをせず、<br/>
-無限のように、やりつづけたりすると。<br/>
-<br/>
-そして、動画のあるところで、<br/>
-何回もパンチをやりつづけて、<br/>
-ドラゴンボールみたいと<br/>
-思ったりした。<br/>
-<br/>
-攻撃を受ける者が、<br/>
-同じボタンを押すと、<br/>
-やられてるコンボから<br/>
-抜けられないかなぁと。<br/>
-<br/>
-また、サムライスピリッツIVのように、<br/>
-強いダメージで斬られたら、<br/>
-もう一回斬られると、先ほど生きていた<br/>
-人生がそこまでだというので、<br/>
-より慎重になるかなぁとか。<br/>
-<br/>
-SNSで情報がいっぱいある人生<br/>
-となってしまったが、<br/>
-この動画や知らせ等々を<br/>
-よく分かち合ってくれてありがとう。
+>「北斗の拳」と言えば、<br/>
+> ゲームセンターで観れた、<br/>
+> パンチをする大きなボタンのような<br/>
+> アーケード機のほうを思い出す。
+
+Speaking of "FIST of the NORTH STAR",<br/>
+I remember seeing at the Arcades,<br/>
+the Arcade machine,<br/>
+that sort of has a big button,<br/>
+which the person punches.
+  
+> だが、この動画の「北斗の拳」は、<br/>
+> そうではないアーケード機だと、<br/>
+> 見れば、すぐ わかる。
+
+But by viewing this video, <br/>
+we immediately learn<br/>
+that this "FIST of the NORTH STAR" video<br/>
+is not that Arcade Machine.
+  
+> エア・コンボが、押し間違えをせず、<br/>
+> 無限のように、やりつづけたりすると。
+
+We learn that AIR COMBOS<br/>
+can be continuously done,<br/>
+unlimitedly, with no <br/>
+button pressing mistakes.
+  
+> そして、動画のあるところで、<br/>
+> 何回もパンチをやりつづけて、<br/>
+> ドラゴンボールみたいと<br/>
+> 思ったりした。
+
+And then, at parts of the video,<br/>
+where the PUNCHING is continuously<br/> 
+done multiple times, <br/>
+I thought that it was like DRAGONBALL.
+
+> 攻撃を受ける者が、<br/>
+> 同じボタンを押すと、<br/>
+> やられてるコンボから<br/>
+> 抜けられないかなぁと。
+
+I wondered if the person <br/>
+receiving the attacks<br/>
+can press the same button <br/>
+to escape from the combo attack.
+  
+> また、サムライスピリッツIVのように、<br/>
+> 強いダメージで斬られたら、<br/>
+> もう一回斬られると、先ほど生きていた<br/>
+> 人生がそこまでだというので、<br/>
+> より慎重になるかなぁとか。<br/>
+
+Also, as with SAMURAI SPIRITS IV,<br/>
+I wondered if the person<br/>
+shall be more careful,<br/>
+if the LIFE that was, ENDS <br/>
+after being cut strongly,<br/>
+and again with another.
+  
+> SNSで情報がいっぱいある人生<br/>
+> となってしまったが、<br/>
+> この動画や知らせ等々を<br/>
+> よく分かち合ってくれてありがとう。
+
+While LIFE has become full<br/>
+of INFORMATION from Social Networking,<br/>
+thank you for often sharing<br/>
+your videos, notifications, and such.  
+  
 </td></tr>
 </table>
 
