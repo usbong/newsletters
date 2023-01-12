@@ -47,7 +47,7 @@ which the person punches.
 
 But by viewing this video, <br/>
 we immediately learn<br/>
-that this "FIST of the NORTH STAR" video<br/>
+that this video's "FIST of the NORTH STAR"<br/>
 is not that Arcade Machine.
   
 > エア・コンボが、押し間違えをせず、<br/>
