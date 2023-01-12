@@ -36,10 +36,14 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
-「crazy」と「BROKEN」の言葉から、Toy Story3で、いきなり、スペイン語を喋ってるBUZZ LIGHTYEARのことを思い出す。ストリートファイターのキャラたちはロボットのように、動かせるってことだが、驚くほど、こっちはそう見えなかった。
+> 「crazy」と「BROKEN」の言葉から、Toy Story3で、いきなり、スペイン語を喋ってるBUZZ LIGHTYEARのことを思い出す。ストリートファイターのキャラたちはロボットのように、動かせるってことだが、驚くほど、こっちはそう見えなかった。
 
-また、「crazy」から、FORBES ASIAから読んだ記事を思い出す。孫正義（そん まさよし）氏が、投資してあげる前に、「crazy」か「smart」の中で、どっちが勝つかという質問を訊かれる時に、やはり、「つよい」のが、ベストアンサーなんじゃないかなぁと。
+I remember from the words, "crazy" and "BROKEN", BUZZ LIGHTYEAR in TOY STORY 3, where he suddenly spoke in SPANISH. Street Fighter characters are supposed to be as robots who are moved, albeit I did not see it as such.
   
+> また、「crazy」から、FORBES ASIAから読んだ記事を思い出す。孫正義（そん まさよし）氏が、投資してあげる前に、「crazy」か「smart」の中で、どっちが勝つかという質問を訊かれる時に、やはり、「つよい」のが、ベストアンサーなんじゃないかなぁと。
+
+And, from "crazy", I remember a written article that I read from FORBES ASIA. Mr SON, MASAYOSHI asked this question, before giving investment money: "crazy" or "smart" which shall win? As it turns out, I think "TSUYOI (STRONG BOTH)" may have just been the BEST ANSWER.
+ 
 </td></tr>
 </table>
 
