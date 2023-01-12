@@ -3,36 +3,43 @@ https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q/videos<br/>
 <br/>
 TO-DO: -update: this<br/>
 
-## https://www.youtube.com/watch?v=ev3XV89Oun0;
-last accessed: 20230112
+## [シブサワ・コウ作品コーエー『三國志』にみるシミュレーションゲームの魅力を徹底深堀します！](https://www.youtube.com/watch?v=ev3XV89Oun0); last accessed: 20230112
 
 > シブサワ・コウ作品コーエー『三國志』にみるシミュレーションゲームの魅力を徹底深堀します！
 
-一年間、毎日ほどやっていて、
-１００回くらい中国を統一できたので、
-「最も中国を統一した回数の多い男」だ
-と言えるかもしれないと
-
-「強い武将、有名な武将を集めて、
+一年間、毎日ほどやっていて、<br/>
+１００回くらい中国を統一できたので、<br/>
+「最も中国を統一した回数の多い男」だ<br/>
+と言えるかもしれないと<br/>
+<br/>
+忠誠度を上げても、裏切られる可能性あると<br/>
+一般の武将だと、いけると<br/>
+<br/>
+「強い武将、有名な武将を集めて、<br/>
 夢の軍団を作って中国を統一する」と
-
-忠誠度を上げても、裏切られる可能性あると
-一般の武将だと、いけると
 
 <table>
  <tr><td>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
-「信長の野望【革新】」(PS2 版)を思い出しますが、中古品が出てきて、買って、調べたら、最初に思ったのが、統一ができるために、忠誠度が高い、つまり信頼できる人を、遠いところまで行かせなくればならないことです。
+> 「信長の野望【革新】」(PS2 版)を思い出しますが、中古品が出てきて、買って、調べたら、最初に思ったのが、統一ができるために、忠誠度が高い、つまり信頼できる人を、遠いところまで行かせなくればならないことです。
 
-裏切りに怖がると、そうさせないから、国を統一はできなくなると思っていました。
+I remember "NOBUNAGA's AMBITION (REVOLUTION)" (PS2). I bought a used game that came out, and investigated it. The first thing that I thought was that if I did not send people of high loyalty, that is people I can trust and depend on, to far places, unification shall not be achieved. 
+  
+> 裏切りに怖がると、そうさせないから、国を統一はできなくなると思っていました。
 
-これで、自分の周りにいる者の忠誠度を上げないといけない強制となりますね。というと、FF6から教われたように、自分が強くならなく、死んじゃったら、お終いですね。
+I thought that we shall not be able to unify the kingdom if we do not do so, due to fear of betrayal.
+  
+> これで、自分の周りにいる者の忠誠度を上げないといけない強制となりますね。というと、FF6から教われたように、自分が強くならなく、死んじゃったら、お終いですね。
 
-   TO-DO: -add: ITCH.IO GAME OFF 2022
-A Little Bird Told Me; End of the FIRST ACT
-
+So, it becomes a strong rule for myself to raise the loyalty of the people that surround me. Saying this, as what FF6 has taught, it shall be THE END, if I myself do not become strong and die.  
+  
+### --  
+  
+NOTES: ITCH.IO GAME OFF 2022<br/>
+A Little Bird Told Me; End of the FIRST ACT<br/>
+<br/>
    4. verified: GAMEPLAY to be of reading and writing letters to be sent by messenger birds to select contact persons; notes: STORY TEXT to cause understanding of VALUE of such ACTION, e.g. security of Kingdom; security of Queen with Husband, the King; security of messenger birds over self; notes: female assistant to also exist; remembers: incoming and outgoing electronic data that pass through Internet Service Providers of nation, where cybercriminals misuse know-how to filter data to identify sent passwords that encrypt messages via among others: SSL Certificates, HTTPS (Secure); adds: technique causes unauthorized access to web services, e.g. email, online banking, of multiple people; QUICK MONEY via among others: misuse of information, extortion, harassment of target; OUTPUT: security of money count has lost its VALUE to cause decrease of security of nation AND increase of criminals in-need of QUICK MONEY
 
 </td></tr>
