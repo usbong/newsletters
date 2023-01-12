@@ -43,7 +43,22 @@ I remember from the words, "crazy" and "BROKEN", BUZZ LIGHTYEAR in TOY STORY 3, 
 > また、「crazy」から、FORBES ASIAから読んだ記事を思い出す。孫正義（そん まさよし）氏が、投資してあげる前に、「crazy」か「smart」の中で、どっちが勝つかという質問を訊かれる時に、やはり、「つよい」のが、ベストアンサーなんじゃないかなぁと。
 
 And, from "crazy", I remember a written article that I read from FORBES ASIA. Mr SON, MASAYOSHI asked this question, before giving investment money: "crazy" or "smart" which shall win? As it turns out, I think "TSUYOI (STRONG BOTH)" may have just been the BEST ANSWER.
- 
+
+#### --
+  
+> I remember from the words, "crazy" and "BROKEN", BUZZ LIGHTYEAR in TOY STORY 3, where he suddenly spoke in SPANISH. Street Fighter characters are supposed to be as robots who are moved, albeit I did not see it as such.
+
+Desde las palabras, "crazy" y "BROKEN, me recuerdo BUZZ LIGHTYEAR desde TOY STORY 3, donde  de pronto, él hablé en español. Se supone que los caracteres de Street Fighter son como los robotos que movamos, aunque yo no lo consideré así.
+
+#### Additional Note:
+1) I shall need to install the SPANISH language in the computer to quickly write letters with accents.
+  
+#### Reference:
+1) https://www.spanishdict.com;
+last accessed: 20230112
+
+2) GOOGLE SEARCH ENGINE
+  
 </td></tr>
 </table>
 
