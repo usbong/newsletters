@@ -7,16 +7,33 @@ TO-DO: -update: this<br/>
 
 > シブサワ・コウ作品コーエー『三國志』にみるシミュレーションゲームの魅力を徹底深堀します！
 
-一年間、毎日ほどやっていて、<br/>
-１００回くらい中国を統一できたので、<br/>
-「最も中国を統一した回数の多い男」だ<br/>
-と言えるかもしれないと<br/>
+> 一年間、毎日ほどやっていて、<br/>
+> １００回くらい中国を統一できたので、<br/>
+> 「最も中国を統一した回数の多い男」だ<br/>
+> と言えるかもしれないと
+
+In a span of 1 year, I played this game as much as every day,<br/> 
+and I was able to unify CHINA about 100 times.<br/>
 <br/>
-忠誠度を上げても、裏切られる可能性あると<br/>
-一般の武将だと、いけると<br/>
-<br/>
+I think I can be called, "The MAN who unified CHINA, the most number of times."
+
+> 忠誠度を上げても、裏切られる可能性あると<br/>
+
+He adds that there exists the possibility <br/>
+that even after raising loyalty,<br/>
+we shall be betrayed.
+
+> 一般の武将だと、いけると
+
+He says that in general, Military Leaders are capable of doing so.
+
 「強い武将、有名な武将を集めて、<br/>
 夢の軍団を作って中国を統一する」と
+
+"We unify CHINA by building our DREAM MILITARY GROUP,<br/>
+by gathering strong Military Leaders,<br/> 
+famous Military Leaders,"<br/>
+he says.
 
 <table>
  <tr><td>
