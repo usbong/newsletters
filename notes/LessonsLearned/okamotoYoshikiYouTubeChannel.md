@@ -3,6 +3,42 @@ https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q/videos<br/>
 <br/>
 TO-DO: -update: this<br/>
 
+## https://www.youtube.com/watch?v=ev3XV89Oun0;
+last accessed: 20230112
+
+> シブサワ・コウ作品コーエー『三國志』にみるシミュレーションゲームの魅力を徹底深堀します！
+
+一年間、毎日ほどやっていて、
+１００回くらい中国を統一できたので、
+「最も中国を統一した回数の多い男」だ
+と言えるかもしれないと
+
+「強い武将、有名な武将を集めて、
+夢の軍団を作って中国を統一する」と
+
+忠誠度を上げても、裏切られる可能性あると
+一般の武将だと、いけると
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+「信長の野望【革新】」(PS2 版)を思い出しますが、中古品が出てきて、買って、調べたら、最初に思ったのが、統一ができるために、忠誠度が高い、つまり信頼できる人を、遠いところまで行かせなくればならないことです。
+
+裏切りに怖がると、そうさせないから、国を統一はできなくなると思っていました。
+
+これで、自分の周りにいる者の忠誠度を上げないといけない強制となりますね。というと、FF6から教われたように、自分が強くならなく、死んじゃったら、お終いですね。
+
+   TO-DO: -add: ITCH.IO GAME OFF 2022
+A Little Bird Told Me; End of the FIRST ACT
+
+   4. verified: GAMEPLAY to be of reading and writing letters to be sent by messenger birds to select contact persons; notes: STORY TEXT to cause understanding of VALUE of such ACTION, e.g. security of Kingdom; security of Queen with Husband, the King; security of messenger birds over self; notes: female assistant to also exist; remembers: incoming and outgoing electronic data that pass through Internet Service Providers of nation, where cybercriminals misuse know-how to filter data to identify sent passwords that encrypt messages via among others: SSL Certificates, HTTPS (Secure); adds: technique causes unauthorized access to web services, e.g. email, online banking, of multiple people; QUICK MONEY via among others: misuse of information, extortion, harassment of target; OUTPUT: security of money count has lost its VALUE to cause decrease of security of nation AND increase of criminals in-need of QUICK MONEY
+
+</td></tr>
+</table>
+
+
 https://www.youtube.com/watch?v=6FoDz4Jv-uM；
 last accessed: 20230107; from 20230106
 
