@@ -10,6 +10,39 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+
+## https://twitter.com/JWonggg; last accessed: 20230112 (Philippine Time); from 20230111
+
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Man this set right here was crazy... Chun li is top tier but so is Yun and jeez I was fighting with my life on the line.
+
+ったく、この戦い・・・春麗は、高段者だが、陰（ユン）もそうだから、人生にかかっている勝負しかなかった。
+
+> Check it out: https://youtu.be/p-6Lbw9TtEA
+
+こちろをどうぞ！https://youtu.be/p-6Lbw9TtEA
+
+> I've said this before and I'll say it again! Yun is absolutely BROKEN in Street Fighter III: 3rd Strike. I swear this was one of the sweatiest sets I've ever played in 3S against a YUN! I was blown away by how good this player was!!
+
+前にも言ったけど、もう一回言うと、陰（ユン）は、ストリートファイターIII: 3rd Strikeでは、絶対に壊れてる！これがユンとの、汗かかれるほどの試合で、相手プレイヤーは、こんなに優れてると、驚いた。
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+「crazy」と「BROKEN」の言葉から、Toy Story3で、いきなり、スペイン語を喋ってるBUZZ LIGHTYEARのことを思い出す。ストリートファイターのキャラたちはロボットのように、動かせるってことだが、驚くほど、こっちはそう見えなかった。
+
+また、「crazy」から、FORBES ASIAから読んだ記事を思い出す。孫正義（そん まさよし）氏が、投資してあげる前に、「crazy」か「smart」の中で、どっちが勝つかという質問を訊かれる時に、やはり、「つよい」のが、ベストアンサーなんじゃないかなぁと。
+  
+</td></tr>
+</table>
+
 ## https://twitter.com/JWonggg; last accessed: 20230111 (Philippine Time); from 20230110
 
 > NEW YOUTUBE VIDEO
