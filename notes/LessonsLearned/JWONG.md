@@ -29,6 +29,66 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  <tr><td>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+
+verifying: text layout
+
+>「北斗の拳」と言えば、<br/>
+> ゲームセンターで観れた、<br/>
+> パンチをする大きなボタンのような<br/>
+> アーケード機のほうを思い出す。
+
+Speaking of "FIST of the NORTH STAR", I remember seeing at the Arcades, <br/>
+the Arcade machine, that sort of has a big button, which the person punches.
+  
+> だが、この動画の「北斗の拳」は、<br/>
+> そうではないアーケード機だと、<br/>
+> 見れば、すぐ わかる。
+
+But by viewing this video, we immediately learn that this video's <br/>
+"FIST of the NORTH STAR" is not that Arcade Machine.
+  
+> エア・コンボが、押し間違えをせず、<br/>
+> 無限のように、やりつづけたりすると。
+
+We learn that AIR COMBOS can be continuously done,<br/> 
+unlimitedly, with no button pressing mistakes.
+  
+> そして、動画のあるところで、<br/>
+> 何回もパンチをやりつづけて、<br/>
+> ドラゴンボールみたいと<br/>
+> 思ったりした。
+
+And then, at parts of the video, where the PUNCHING<br/> 
+is continuously done multiple times,<br/> 
+I thought that it was like DRAGONBALL.
+
+> 攻撃を受ける者が、<br/>
+> 同じボタンを押すと、<br/>
+> やられてるコンボから<br/>
+> 抜けられないかなぁと。
+
+I wondered if the person receiving the attacks<br/> 
+can press the same button to escape from the combo attack.
+  
+> また、サムライスピリッツIVのように、<br/>
+> 強いダメージで斬られたら、<br/>
+> もう一回斬られると、先ほど生きていた<br/>
+> 人生がそこまでだというので、<br/>
+> より慎重になるかなぁとか。<br/>
+
+Also, as with SAMURAI SPIRITS IV, I wondered if the person shall be more careful, <br/>
+if the LIFE that was, ENDS after being cut strongly, and again with another.
+  
+> SNSで情報がいっぱいある人生<br/>
+> となってしまったが、<br/>
+> この動画や知らせ等々を<br/>
+> よく分かち合ってくれてありがとう。
+
+While LIFE has become full of INFORMATION from Social Networking, <br/>
+thank you for often sharing your videos, notifications, and such.   
+  
+#### --  
   
 >「北斗の拳」と言えば、<br/>
 > ゲームセンターで観れた、<br/>
