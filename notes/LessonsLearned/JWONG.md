@@ -44,15 +44,19 @@ At the ending scene, there is the written text, "ABAYO", and I remember SHADOW a
 
 > 2年前ぐらい、中古品の店で、買ってきた、手塚治虫さんの漫画で、「ロロの旅路」っていう話から、その「あばよ」っていう言葉も読みかけたよな。
 
-I also read that "ABAYO" word from Mr. TEZUKA, OSAMU's manga comic story of "RORO no TABIJI", which I bought at a used items shop about 2 years ago.
+I also read that "ABAYO" word from Mr. TEZUKA, OSAMU's manga comic story of "RORO's TRAVELED ROAD," which I bought at a used items shop about 2 years ago.
 
 > 愛情のことを優先するという意味なんじゃないのかな。というと、なぜかわかんないけど、人間関係、この男性と女性を、遊びより選択するものだと、日本からの例が、よく出てくる。
-  
-  TO-DO: -update: this
+
+I wonder if it signifies prioritizing EMOTIONAL LOVE. Saying this, even if I don't understand why, there often appear examples from JAPAN, where HUMAN RELATIONSHIP, such as with MALE and FEMALE, is chosen over game playing.
 
 > そう言えば、日本にいた時、同大学にいたブラジルからの男性のことなんだけど、確かに「バイバイ」って、日本人の友達との会話を見かけたね。こっちは、フィリピン語で、「ババイ」って、言っちゃうので、その言葉と場面が、今でも思い出せる。
 
-> 結局、数年後、大阪にある日本橋で、ミスチルのアルバムを買っちゃって、「バイバイ」っていう言葉が、出てきて、「WORLD's　END」って思っちゃうが、やはり「僕らの音」という曲でね。  
+Speaking of this, when I was in Japan, I caught sight of a conversation between a fellow university MALE, who was from BRAZIL, and was saying "BYE BYE" to a Japanese friend. In my case, I would have messed it up by saying "BAH-BYE", so even now I can still remember that word and that scene. 
+
+> 結局、数年後、大阪にある日本橋で、ミスチルのアルバムを買っちゃって、「バイバイ」っていう言葉が、出てきて、「WORLD's　END」って思っちゃうが、やはり「僕らの音」という曲でね。
+
+Eventually, after several years, I finally bought the MR.CHILDREN ALBUM at NIPPONBASHI in OSAKA. The word, "BYE BYE", comes out, and I'd think its from "WORLD's END", but it turns out to be a tune from "OUR SOUND".
   
 </td></tr>
 </table>
