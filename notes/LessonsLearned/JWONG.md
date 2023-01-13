@@ -56,7 +56,7 @@ Speaking of this, when I was in Japan, I caught sight of a conversation between 
 
 > 結局、数年後、大阪にある日本橋で、ミスチルのアルバムを買っちゃって、「バイバイ」っていう言葉が、出てきて、「WORLD's　END」って思っちゃうが、やはり「僕らの音」という曲でね。
 
-Eventually, after several years, I finally bought the MR.CHILDREN ALBUM at NIPPONBASHI in OSAKA. The word, "BYE BYE", comes out, and I'd think its from "WORLD's END", but it turns out to be a tune from "OUR SOUND".
+Eventually, after several years, I finally bought the MR.CHILDREN ALBUM at NIPPONBASHI in OSAKA. The word, "BYE BYE", comes out, and I'd think it's from "WORLD's END", but it turns out to be a tune from "OUR SOUND".
   
 </td></tr>
 </table>
