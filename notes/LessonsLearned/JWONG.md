@@ -29,20 +29,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  <tr><td>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+> 「水滸演舞 風雲再起」から「水滸」って書いてあるから、「幻想水滸伝」を思い出すね。で、「風雲」から、青山剛昌さんの「YAIBA」のこと。
+
+I remember "GENSOU SUIKODEN" due to the written "SUIKO" from "SUIKO ENBU FUUUN SAIKI". And then, from "FUU UN", Mr. AOYAMA GOUSHOU's "YAIBA".
+
+> 動画を見てみると、「SOUTHEAST　ASIA」って聞こえて、フィリピンのキャラが、どっちにあるのかなぁと。水が、飼ってる動物のように、キャラについていて、動いているかなぁと、思ったんだけど。どうだろうね。
+
+When I viewed the video, and heard "SOUTHEAST ASIA", I wondered which the Filipino character is. I thought it could be the character who is followed by moving water that was like a pet animal. What do you think?
+
+> 最後の場面で、「あばよ」って書いてあって、ＦＦ６のシャドウとインターセプターのことを思い出す。金で雇ってくれるが、任務が終わったら、「バイバイ」ってことだね。
+
+At the ending scene, there is the written text, "ABAYO", and I remember SHADOW and INTERCEPTER of FF6. While they can work for money, it's "BYE BYE", after the mission has ended.
+
+> 2年前ぐらい、中古品の店で、買ってきた、手塚治虫さんの漫画で、「ロロの旅路」っていう話から、その「あばよ」っていう言葉も読みかけたよな。
+
+I also read that "ABAYO" word from Mr. TEZUKA, OSAMU's manga comic story of "RORO no TABIJI", which I bought at a used items shop about 2 years ago.
+
+> 愛情のことを優先するという意味なんじゃないのかな。というと、なぜかわかんないけど、人間関係、この男性と女性を、遊びより選択するものだと、日本からの例が、よく出てくる。
   
-「水滸演舞 風雲再起」から「水滸」って書いてあるから、「幻想水滸伝」を思い出すね。で、「風雲」から、青山剛昌さんの「YAIBA」のこと。
+  TO-DO: -update: this
 
-動画を見てみると、「SOUTHEAST　ASIA」って聞こえて、フィリピンのキャラが、どっちにあるのかなぁと。水が、飼ってる動物のように、キャラについていて、動いているかなぁと、思ったんだけど。どうだろうね。
+> そう言えば、日本にいた時、同大学にいたブラジルからの男性のことなんだけど、確かに「バイバイ」って、日本人の友達との会話を見かけたね。こっちは、フィリピン語で、「ババイ」って、言っちゃうので、その言葉と場面が、今でも思い出せる。
 
-最後の場面で、「あばよ」って書いてあって、ＦＦ６のシャドウとインターセプターのことを思い出す。金で雇ってくれるが、任務が終わったら、「バイバイ」ってことだね。
-
-2年前ぐらい、中古品の店で、買ってきた、手塚治虫さんの漫画で、「ロロの旅路」っていう話から、その「あばよ」っていう言葉も読みかけたよな。
-
-愛情のことを優先するという意味なんじゃないのかな。というと、なぜかわかんないけど、人間関係、この男性と女性を、遊びより選択するものだと、日本からの例が、よく出てくる。
-
-そう言えば、日本にいた時、同大学にいたブラジルからの男性のことなんだけど、確かに「バイバイ」って、日本人の友達との会話を見かけたね。こっちは、フィリピン語で、「ババイ」って、言っちゃうので、その言葉と場面が、今でも思い出せる。
-
-結局、数年後、大阪にある日本橋で、ミスチルのアルバムを買っちゃって、「バイバイ」っていう言葉が、出てきて、「WORLD's　END」って思っちゃうが、やはり「僕らの音」という曲でね。
+> 結局、数年後、大阪にある日本橋で、ミスチルのアルバムを買っちゃって、「バイバイ」っていう言葉が、出てきて、「WORLD's　END」って思っちゃうが、やはり「僕らの音」という曲でね。  
   
 </td></tr>
 </table>
