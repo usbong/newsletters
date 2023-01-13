@@ -12,6 +12,94 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+# [防犯カメラの顔識別「目的明示を」　対象・保管期間は努力目標止まり](https://www.asahi.com/articles/ASR1D6G8CR1CULFA02N.html?iref=comtop_Tech_science_02); last accessed: 20230113
+
+> 防犯カメラの顔識別「目的明示を」　対象・保管期間は努力目標止まり
+
+CCTV CAMERA na nakakikilala ng mukha; "Malinaw ang Ipinakita"; Itinigil pagkatapos ng itinakdang panahon
+
+### Dagdag ukol sa pagsalin 
+
+1) binawasan: ko ang mga salita upang maging malinaw at maayos ang daloy ng pangungusap kapag binigkas
+
+
+> 渡辺淳基2023年1月12日 21時00分
+
+WATANABE, JUNKI; 2023-01-12T21:00
+
+>　防犯カメラの画像から個人を特定する顔識別データの利用について、政府の個人情報保護委員会は12日、有識者検討会（座長・宍戸常寿東大院教授）がまとめた報告書案を公表した。個人情報保護法が定める利用目的の明示などを求める一方で、データ収集する対象者の範囲や保管期間については、必要最小限とするよう、事業者に努力を促す内容にとどまった。
+
+Ukol sa pagkalap ng datos sa itinakdang panahon at sa pakay nitong mga tao, narating na ang bilang ng pinakamaliit na kailangang bilang nito.
+
+### Dagdag
+
+1) idinagdag: ko ito pagkatapos basahin muli ang pamagot; sinasagot nito ang dahilan bakit itinigil ang paggamit ng CCTV CAMERA;
+
+
+>　顔識別データを防犯に使うシステムは、一部の駅や空港、小売店で実用化されている。
+
+Ginagamit ang isang bahagi ng sistema kung saan nakikilala ng CCTV CAMERA ang mukha, sa mga sakayan ng tren, sa paliparan, mga maliliit na tindahan, atbp.
+
+> 再犯の予防などに高い効果が期待される一方、顔の特徴は不変性が高いため、長期間、広範囲にわたって個人を追跡することができる点など、利用拡大に向けた懸念は多い。
+
+Inaasahang may malaking maidudulot ito bilang panangga sa muling paggawa ng krimen; At sapagkat hindi malaki ang pagbabago sa mukha ng tao, pinagninilayan ang malawakang paggamit nito, sa paghahabol ng mga tao, sa mahabaang panahon at sa loob ng abot na saklaw nito.
+
+
+> 本人が認識しないまま「冤罪（えんざい）」で差別的な扱いを受ける恐れもある。
+
+Sa kabila nito, may pangamba na magiging hindi ayos ang pakikitungo (diskriminasiyon) sa ilang mga tao, "bago pa gumawa ng krimen", at bago pa niya alam.
+
+>　検討会は、不特定多数が訪れる施設で、事前に本人の同意を得ることが困難な状況での利用を想定。ただ、マーケティング目的など商用利用や、警察当局の捜査に関わる問題は議論の対象外とした。
+
+Sa pagpupulong, inasahan noong nakaraang magkakaroon ng kahirapan sa pagkuha ng sang-ayon mula sa mga tao, upang gamitin ito sa mga pook na hindi tiyak ang bilang ng dami ng mga taong dumadalaw. Gayunman, wala nang makikipagtalo ukol sa dulot nitong suliraning may kinalaman sa pagsisiyasat ng Kapulisan, sa paggamit sa marketing ng mga mangangalakal, atbp. 
+
+## --  
+
+
+> 防犯カメラの顔識別「目的明示を」　対象・保管期間は努力目標止まり
+
+Face Recognition via CCTV Camera: "MISSION CLEAR"; Efforts stopped after reaching target objective and time 
+
+
+> 渡辺淳基2023年1月12日 21時00分
+
+WATANABE, JUNKI; 2023-01-12T21:00
+
+
+>　防犯カメラの画像から個人を特定する顔識別データの利用について、政府の個人情報保護委員会は12日、有識者検討会（座長・宍戸常寿東大院教授）がまとめた報告書案を公表した。個人情報保護法が定める利用目的の明示などを求める一方で、データ収集する対象者の範囲や保管期間については、必要最小限とするよう、事業者に努力を促す内容にとどまった。
+
+Regarding the gathering of data at the set time and target scope of participants, the minimum required numbers have been reached.
+
+
+>　顔識別データを防犯に使うシステムは、一部の駅や空港、小売店で実用化されている。
+
+A part of the system is being applied at train stations, airports, small stores, and such to prevent crime using face recognition data.
+
+
+> 再犯の予防などに高い効果が期待される一方、顔の特徴は不変性が高いため、長期間、広範囲にわたって個人を追跡することができる点など、利用拡大に向けた懸念は多い。
+
+While it is expected to have high efficacy in preventing the repetition of crimes, among others, because characteristics of the face do not largely change, there is plenty of consideration towards its wide use due to its capability to track persons in the long term and within a set scope.
+
+
+> 本人が認識しないまま「冤罪（えんざい）」で差別的な扱いを受ける恐れもある。
+
+There is still, however, fear that the person shall be discriminated against for "uncommitted crime", without yet being aware of it.
+
+
+>　検討会は、不特定多数が訪れる施設で、事前に本人の同意を得ることが困難な状況での利用を想定。ただ、マーケティング目的など商用利用や、警察当局の捜査に関わる問題は議論の対象外とした。
+
+At the meeting, it was previously assumed that its use shall have difficulty in obtaining agreement from people at facilities where there is no definite number of visitors. However, questions concerning its use for Police investigations, business use such as for marketing, were without argument.
+
+### Note
+
+議論の対象外 = without argument
+
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 # [初デートから20年目の「ごめん！」　実はお弁当…夫は笑ってくれた](https://www.asahi.com/articles/ASQDW53F0QDGPISC00R.html?iref=comtop_7_01); last accessed: 20230111
 
 > 初デートから20年目の「ごめん！」　実はお弁当…夫は笑ってくれた
