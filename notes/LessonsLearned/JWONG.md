@@ -36,11 +36,11 @@ I remember "GENSOU SUIKODEN" due to the written "SUIKO" from "SUIKO ENBU FUUUN S
 
 > 動画を見てみると、「SOUTHEAST　ASIA」って聞こえて、フィリピンのキャラが、どっちにあるのかなぁと。水が、飼ってる動物のように、キャラについていて、動いているかなぁと、思ったんだけど。どうだろうね。
 
-When I viewed the video, and heard "SOUTHEAST ASIA", I wondered which the Filipino character is. I thought it could be the character who is followed by moving water that was like a pet animal. What do you think?
+When I viewed the video, and heard "SOUTHEAST ASIA", I wondered which the Filipino character was. I thought it could be the character who was followed by moving water that was like a pet animal. What do you think?
 
 > 最後の場面で、「あばよ」って書いてあって、ＦＦ６のシャドウとインターセプターのことを思い出す。金で雇ってくれるが、任務が終わったら、「バイバイ」ってことだね。
 
-At the ending scene, there is the written text, "ABAYO", and I remember SHADOW and INTERCEPTER of FF6. While they can work for money, it's "BYE BYE", after the mission has ended.
+At the ending scene, there was the written text, "ABAYO", and I remember SHADOW and INTERCEPTER of FF6. While they can work for money, it's "BYE BYE", after the mission has ended.
 
 > 2年前ぐらい、中古品の店で、買ってきた、手塚治虫さんの漫画で、「ロロの旅路」っていう話から、その「あばよ」っていう言葉も読みかけたよな。
 
@@ -52,7 +52,7 @@ I wonder if it signifies prioritizing EMOTIONAL LOVE. Saying this, even if I don
 
 > そう言えば、日本にいた時、同大学にいたブラジルからの男性のことなんだけど、確かに「バイバイ」って、日本人の友達との会話を見かけたね。こっちは、フィリピン語で、「ババイ」って、言っちゃうので、その言葉と場面が、今でも思い出せる。
 
-Speaking of this, when I was in Japan, I caught sight of a conversation between a fellow university MALE, who was from BRAZIL, and was saying "BYE BYE" to a Japanese friend. In my case, I would have messed it up by saying "BAH-BYE", so even now I can still remember that word and that scene. 
+Speaking of this, when I was in Japan, I caught sight of a conversation between a fellow university MALE, who was from BRAZIL, and he was saying "BYE BYE" to a Japanese friend. In my case, I would have messed it up by saying "BAH-BYE", so even now I can still remember that word and that scene. 
 
 > 結局、数年後、大阪にある日本橋で、ミスチルのアルバムを買っちゃって、「バイバイ」っていう言葉が、出てきて、「Worlds　end」って思っちゃうが、やはり「僕らの音」という曲でね。
 
