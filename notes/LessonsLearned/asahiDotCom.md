@@ -47,11 +47,11 @@ Inaasahang may malaking maidudulot ito bilang panangga sa muling paggawa ng krim
 
 > 本人が認識しないまま「冤罪（えんざい）」で差別的な扱いを受ける恐れもある。
 
-Sa kabila nito, may pangamba na magiging hindi ayos ang pakikitungo (diskriminasiyon) sa ilang mga tao, "bago pa gumawa ng krimen", at bago pa niya alam.
+Sa kabila nito, may pangamba na magiging hindi ayos ang pakikitungo (diskriminasiyon) sa ilang mga tao, "bago pa gumawa ng krimen", at bago pa siya mulat dito.
 
 >　検討会は、不特定多数が訪れる施設で、事前に本人の同意を得ることが困難な状況での利用を想定。ただ、マーケティング目的など商用利用や、警察当局の捜査に関わる問題は議論の対象外とした。
 
-Sa pagpupulong, inasahan noong nakaraang magkakaroon ng kahirapan sa pagkuha ng sang-ayon mula sa mga tao, upang gamitin ito sa mga pook na hindi tiyak ang bilang ng dami ng mga taong dumadalaw. Gayunman, wala nang makikipagtalo ukol sa dulot nitong suliraning may kinalaman sa pagsisiyasat ng Kapulisan, sa paggamit sa marketing ng mga mangangalakal, atbp. 
+Sa pagpupulong, inasahan na noong nakaraan, na magkakaroon ng kahirapan sa pagkuha ng sang-ayon mula sa mga tao, upang gamitin ito sa mga pook na hindi tiyak ang bilang ng dami ng mga taong dumadalaw. Gayunman, wala nang makikipagtalo ukol sa dulot nitong suliraning may kinalaman sa pagsisiyasat ng Kapulisan, sa paggamit sa marketing ng mga mangangalakal, atbp. 
 
 ## --  
 
