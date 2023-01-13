@@ -10,6 +10,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://twitter.com/JWonggg; last accessed: 20230113 (Philippine Time); from 20230112
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Bruh this game right there got me raging... You let me know what do you think of Suiko Enbu Funnsaiki...
+
+このゲームにメッチャやられた！ 「水滸演舞 風雲再起」って、どう思う？
+
+> Check it out: https://youtu.be/KX4DqiOfW_8
+
+こちらをどうぞ！　https://youtu.be/KX4DqiOfW_8
+
 
 ## https://twitter.com/JWonggg; last accessed: 20230112 (Philippine Time); from 20230111
 
