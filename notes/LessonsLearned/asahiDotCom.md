@@ -29,7 +29,7 @@ WATANABE, JUNKI; 2023-01-12T21:00
 
 >　防犯カメラの画像から個人を特定する顔識別データの利用について、政府の個人情報保護委員会は12日、有識者検討会（座長・宍戸常寿東大院教授）がまとめた報告書案を公表した。個人情報保護法が定める利用目的の明示などを求める一方で、データ収集する対象者の範囲や保管期間については、必要最小限とするよう、事業者に努力を促す内容にとどまった。
 
-Ukol sa pagkalap ng datos sa itinakdang panahon at sa pakay nitong mga tao, narating na ang bilang ng pinakamaliit na kailangang bilang nito.
+Ukol sa pagkalap ng datos sa itinakdang panahon at sa pakay nitong mga tao, narating na ang bilang ng pinakamaliit na kailangan nito.
 
 ### Dagdag
 
