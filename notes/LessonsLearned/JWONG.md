@@ -9,6 +9,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg; last accessed: 20230114 (Philippine Time); from 20230113
+
+> NEW YOUTUBE VIDEO 
+
+新しいYOUTUBE動画
+
+> Underrated KOF game here! Also the most chaotic because of how different it is! KOFXI
+
+やっぱ、見下げられているKOFゲームだ！それに、こんな違っていて、最もデタラメなKOFゲームだ！KOFXI
+
+> Check it out: https://youtu.be/UqyqXsZJ1lk
+
+こちらをどうぞ！https://youtu.be/UqyqXsZJ1lk
+
 
 ## https://twitter.com/JWonggg; last accessed: 20230113 (Philippine Time); from 20230112
 
