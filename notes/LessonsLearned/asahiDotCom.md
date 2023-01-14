@@ -118,7 +118,7 @@ Ukol sa pagkalap ng datos sa itinakdang panahon at sa pakay nitong mga tao, nara
 
 ### Dagdag
 
-1) idinagdag: ko ito pagkatapos basahin muli ang pamagot; sinasagot nito ang dahilan bakit itinigil ang paggamit ng CCTV CAMERA;
+1) idinagdag: ko ito pagkatapos basahin muli ang pamagat; sinasagot nito ang dahilan bakit itinigil ang paggamit ng CCTV CAMERA;
 
 
 >　顔識別データを防犯に使うシステムは、一部の駅や空港、小売店で実用化されている。
