@@ -12,6 +12,80 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡](https://www.asahi.com/articles/ASR1F6JR8R1FPTIL015.html); last accessed: 20230114
+
+>「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡
+
+"HINTO!" Sa gitna ng paghahabol sa nakaw na sasakyan; Patay ang nagpapatakbong lalake, sa 4 na putok ng baril mula sa 2 Pulis;
+
+>「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡
+
+"STOP!" while chasing stolen vehicle; Male Driver dies due to 4 gun shots from 2 Police Officers
+
+> 2023年1月13日 20時30分
+
+2023-01-13T20:30
+
+### Keyphrase
+
+>　乗用車に乗っていたのは運転の男1人。パトカーは追跡中、サイレンを鳴らし、赤色灯をつけていた。追いついた直後、車がバックして後続のパトカーにぶつかってきたという。
+
+Isang lalake ang nagpapatakbo ng sasakyan. Nang hinahabol ng PATROL CAR, pinatunog ang SIRENA, binuksan ang pulang ilaw. Agad nang mahabol, pinatakbo patalikod ang sasakyan, at binangga raw ang kasunod na POLICE CAR.
+
+>　地域課の男性巡査長（26）がパトカーから降り、車の助手席側の窓ガラスを警棒でたたきながら、止まるよう指示。だが男は従わず、信号待ちをする前方のトラックとの間で前進とバックを繰り返したという。
+
+Bumaba ang Lalakeng Pulis (26) na namumuno sa pag-iikot sa bahaging iyon, at kinatok gamit ang Pulis batuta ang salamin sa katabing upuan ng sasakyan, bilang pahiwatig na huminto. Gayunman, hindi sumunod ang lalake, at pinasulong sa pagitan ng TRAFFIC LIGHT sa harapan ng riles ng tren, at muli raw ipinatakbo ang sasakyan palikod.
+
+>　パトカーを運転していた同課の男性警部補（47）も降りて車の運転席側に回り、止まらないと発砲すると警告した上で2人が撃った、と府警は説明している。
+
+Bumaba rin sa sasakyan ang Lalakeng Pulis (47) ng magkatalud na Unit, at ang siyang nagpapatakbo ng PATROL CAR. Umikot siya sa banda ng upuan ng nagpapatakbo ng sasakyan. Pagkatapos balalaan na magpapaputok kapag hindi huminto, nagpaputok ang dalawa, ayon sa paliwanag ng Kapulisan ng Rehiyon.
+
+### --
+
+
+>　乗用車に乗っていたのは運転の男1人。パトカーは追跡中、サイレンを鳴らし、赤色灯をつけていた。追いついた直後、車がバックして後続のパトカーにぶつかってきたという。
+
+A male driver was riding the vehicle. While being chased by the PATROL CAR, the SIREN was sounded, and the RED LAMP was switched ON. Quickly after the chase, the vehicle was moved back and was said to have hit the PATROL CAR at its rear. 
+
+>　地域課の男性巡査長（26）がパトカーから降り、車の助手席側の窓ガラスを警棒でたたきながら、止まるよう指示。だが男は従わず、信号待ちをする前方のトラックとの間で前進とバックを繰り返したという。
+
+A Male Police (26), who was head of patrolling the area, went out of the PATROL CAR, and while tapping the GLASS WINDOW of the vehicle's passenger seat using the POLICE BATON, hand-signaled to the male to STOP. But the male did not obey, and was said to have moved forward the vehicle in front of the rail-track, where there was a WAIT TRAFFIC LIGHT, and repeated to move the vehicle backward.
+
+>　パトカーを運転していた同課の男性警部補（47）も降りて車の運転席側に回り、止まらないと発砲すると警告した上で2人が撃った、と府警は説明している。
+
+A Male Police (47) of the same unit, also went out of the PATROL CAR, and turned to the driver's seat of the vehicle; after warning that if the male did not stop, they shall fire, the two Police Officers fired shots, according to the explanation of the Regional Police. 
+
+### Dagdag
+
+1) translate: from nihongo to Filipino;<br/>
+--> translate: from nihongo to English<br/>
+--> output: increase in quality of translated text<br/>
+--> via: correction in select details;<br/>
+--> Example: stolen vehicle was moved to hit the patrol car at its rear
+
+### --
+
+>【動画】白い車を追跡するパトカーが付近の防犯カメラに映っていた=関係者提供
+
+> 13日午後1時20分ごろ、大阪府八尾市亀井町1丁目の路上で「警察官が発砲した。けが人がいる」と、近くの工場の関係者から119番通報があった。大阪府警によると、盗難届が出されているナンバーの乗用車が逃げようとしたため、警察官2人が車内に向けて拳銃を2発ずつ発砲。少なくとも1発が運転席の男に当たり、心肺停止状態で病院に搬送されたが死亡が確認された。男は40～50代とみている。
+
+>　府警によると、13日午後1時18分ごろ、大阪市平野区の路上で、パトカーで巡回中だった八尾署員が盗難届が出されているナンバーをつけた乗用車を発見し追跡。いったん打ち切ったが、約1・6キロ離れた発砲現場近くで再び発見したという。
+
+>　乗用車に乗っていたのは運転の男1人。パトカーは追跡中、サイレンを鳴らし、赤色灯をつけていた。追いついた直後、車がバックして後続のパトカーにぶつかってきたという。
+
+>　地域課の男性巡査長（26）がパトカーから降り、車の助手席側の窓ガラスを警棒でたたきながら、止まるよう指示。だが男は従わず、信号待ちをする前方のトラックとの間で前進とバックを繰り返したという。
+
+>　パトカーを運転していた同課の男性警部補（47）も降りて車の運転席側に回り、止まらないと発砲すると警告した上で2人が撃った、と府警は説明している。
+
+>　運転席側から警部補が、助手席側から巡査長が発砲したという。八尾市消防本部によると、男は右脇腹と右肩に撃たれた痕があった。
+
+>　署によると発砲後も車は動き、信号柱に衝突して停車。男を公務執行妨害容疑で現行犯逮捕した。警部補は拳銃をホルダーに納める際に誤って地面に1発発射したという。福井定紀副署長は「被疑者が亡くなられたことについては、残念でありますが、詳細については現在調査中です」とコメントした。
+
+>　近くに住む30代の女性会社員は「自宅のガレージにいたときにパトカーのサイレンの音と、『止まりなさい』という声が聞こえた」という。「パンパンパンと複数発の銃声が聞こえた。銃声を聞くのは初めてで怖かった」と話した。
+
+
+
+
 # [防犯カメラの顔識別「目的明示を」　対象・保管期間は努力目標止まり](https://www.asahi.com/articles/ASR1D6G8CR1CULFA02N.html?iref=comtop_Tech_science_02); last accessed: 20230113
 
 > 防犯カメラの顔識別「目的明示を」　対象・保管期間は努力目標止まり
