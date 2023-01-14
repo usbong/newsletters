@@ -49,11 +49,11 @@ A male driver was riding the vehicle. While being chased by the PATROL CAR, the 
 
 >　地域課の男性巡査長（26）がパトカーから降り、車の助手席側の窓ガラスを警棒でたたきながら、止まるよう指示。だが男は従わず、信号待ちをする前方のトラックとの間で前進とバックを繰り返したという。
 
-A Male Police Officer (26), who was head of patrolling the area, went out of the PATROL CAR, and while tapping the GLASS WINDOW of the vehicle's passenger seat using the POLICE BATON, hand-signaled to the male to STOP. But the male did not obey, and was said to have moved forward the vehicle in front of the rail-track, where there was a WAIT TRAFFIC LIGHT, and repeated to move the vehicle backward.
+A male Police Officer (26), who was head of patrolling the area, went out of the PATROL CAR, and while tapping the GLASS WINDOW of the vehicle's passenger seat using the POLICE BATON, hand-signaled to the male to STOP. But the male did not obey, and was said to have moved forward the vehicle in front of the rail-track, where there was a WAIT TRAFFIC LIGHT, and repeated to move the vehicle backward.
 
 >　パトカーを運転していた同課の男性警部補（47）も降りて車の運転席側に回り、止まらないと発砲すると警告した上で2人が撃った、と府警は説明している。
 
-The driver of the PATROL CAR, a Male Police Officer (47) of the same unit, also went out, and turned to the driver's seat of the vehicle; after warning that if the male did not stop, they shall fire, the two Police Officers fired shots, according to the explanation of the Regional Police. 
+The driver of the PATROL CAR, a male Police Officer (47) of the same unit, also went out, and turned to the driver's seat of the vehicle; after warning that if the male did not stop, they shall fire, the two Police Officers fired shots, according to the explanation of the Regional Police. 
 
 ### Dagdag
 
