@@ -63,6 +63,17 @@ A Male Police (47) of the same unit, also went out of the PATROL CAR, and turned
 --> via: correction in select details;<br/>
 --> Example: stolen vehicle was moved to hit the patrol car at its rear
 
+2) notes: PLATE NUMBER of stolen vehicle
+
+> パトカーで巡回中だった八尾署員が盗難届が出されているナンバーをつけた乗用車を発見し追跡。
+
+Natagpuan ng Unit ng nag-iikot na PATROL CAR, ang sasakyan na may PLATE NUMBER ng nakaw na sasakyan, at hinabol ito;
+
+> パトカーで巡回中だった八尾署員が盗難届が出されているナンバーをつけた乗用車を発見し追跡。
+
+The Unit, who was going around on the PATROL CAR, found the vehicle with the plate number of stolen vehicle, and chased it.
+
+
 ### --
 
 >【動画】白い車を追跡するパトカーが付近の防犯カメラに映っていた=関係者提供
