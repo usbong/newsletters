@@ -10,6 +10,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://www.twitch.tv/jwonggg; last accessed: 20230115 (Philippine Time); from 20230114
+
+@20230115T19:33 (approx; Philippine Time)
+
+> SFA3 TOURNAMENT @ BIGONE (NO JWONG)
+> LIVE
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+こっちも、昼間に、SWITCHでSFゼロ3をやってみた。ダルシムとダン（最強難易度）で、ダルシムの伸ばす強パンチから、ドラゴンボールのピッコロを思い出す。あと、ダンのオレンジ衣装で、亀のを。
+
+ブランド版権がなかったため、SFチームが、自分のキャラ作らないといけない状態となったかっと。
+
+また、格闘だと、死ぬより、生きるとか生き延びるとかという覚悟が無かったら、勝てる訳にはいかない、ということだね。
+
+</td></tr>
+</table>
+
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230115 (Philippine Time); from 20230114
 
 
