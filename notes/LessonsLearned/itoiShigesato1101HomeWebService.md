@@ -38,7 +38,11 @@ last accessed: 20230115; from 20230114
 
 ### Reminder
 
-プロセスを顧みて
+> プロセスを顧みて
+
+### Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
 
 https://www.1101.com/home.html;
 last accessed: 20230111
