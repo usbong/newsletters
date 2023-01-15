@@ -9,6 +9,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+
+## https://twitter.com/JWonggg; last accessed: 20230115 (Philippine Time); from 20230114
+
+
+> Bruh I’m so random but I guess I am back for a few days #JWonginTokyo
+
+おれは、でたらめのようなんだけど、東京に戻って来て、幾つかの日にここに居させてもらうかっ。#JWonginTokyo
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+> この投稿から、旅の支援を貰うために、どんなやり方をやった事あるかっと、思ったんだけど、これを書き留めた！
+
+From this POST, I thought of what techniques I have done to receive travel support, and wrote this!
+
+[Technique used to receive TRAVEL GRANT to Research Conferences in Switzerland, Singapore, et cetera?](https://github.com/usbong/KMS/issues/9)
+    
+</td></tr>
+</table>
+
+
 ## https://twitter.com/JWonggg; last accessed: 20230114 (Philippine Time); from 20230113
 
 > NEW YOUTUBE VIDEO 
