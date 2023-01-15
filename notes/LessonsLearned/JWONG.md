@@ -23,12 +23,18 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-こっちも、昼間に、SWITCHでSFゼロ3をやってみた。ダルシムとダン（最強難易度）で、ダルシムの伸ばす強パンチから、ドラゴンボールのピッコロを思い出す。あと、ダンのオレンジ衣装で、亀のを。
+> こっちも、昼間に、SWITCHでSFゼロ3をやってみた。ダルシムとダン（最強難易度）で、ダルシムの伸ばす強パンチから、ドラゴンボールのピッコロを思い出す。あと、ダンのオレンジ衣装で、亀のを。
 
-ブランド版権がなかったため、SFチームが、自分のキャラ作らないといけない状態となったかっと。
+I, too, this afternoon played SFZERO3 on SWITCH. At the battle between Dhalsim and Dan (Strongest Difficulty Setting), I remember Dragonball’s PICCOLO from Dhalsim’s STRONG PUNCH, which he stretches. And then from Dan’s orange clothing, the TURTLE’s clothing.
 
-また、格闘だと、死ぬより、生きるとか生き延びるとかという覚悟が無かったら、勝てる訳にはいかない、ということだね。
+> ブランド版権がなかったため、SFチームが、自分のキャラ作らないといけない状態となったかっと。
 
+Because there was no brand copyright, the SF Team was in a situation where they had to create their own characters.
+
+> また、格闘だと、死ぬより、生きるとか生き延びるとかという覚悟が無かったら、勝てる訳にはいかない、ということだね。
+
+And so, speaking of FIGHTING, if the self is not prepared to live and to continue on living, instead of die, there is no reason that we can win, huh.
+  
 </td></tr>
 </table>
 
