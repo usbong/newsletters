@@ -12,6 +12,30 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [23匹の犬と歩んだ37年　全国最長の「警察犬係」が学んだこと](https://www.asahi.com/articles/ASQCK671XQC1TIPE022.html); last accessed: 20230116; from 20230115
+
+> 板倉大地2022年11月20日 10時00分
+
+### [日本最長の警察犬担当](https://www.asahi.com/articles/ASR1F6JR8R1FPTIL015.html); last accessed: 20230116; from 20230115
+
+> 日本最長の警察犬担当
+
+> 警察犬と共に捜査に携わって37年。総数23頭。福岡県警鑑識課の村上年一警部補は事件や災害、行方不明者の捜索現場で過ごしてきた経験を、県内外の後継者に伝承する。日本最長の警察犬担当だ。
+
+#### Note
+
+1) しゃべ！<br/>
+--> NOT はなせ（話せ、放せ）!<br/>
+--> SPEAK; RELEASE!
+
+2) 座れ（すわれ）！<br/>
+--> SIT!
+
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [集合住宅の死者30人に　ゼレンスキー氏がロシア語で訴え](https://www.asahi.com/articles/ASR1B0PRXR19UHBI025.html?iref=comtop_7_02); last accessed: 20230116
 
 > 速報中ヘルプ
