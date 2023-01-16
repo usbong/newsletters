@@ -9,7 +9,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
-## https://twitter.com/JWonggg/status/1614585001714286593/photo/1; last accessed: 2023016 (Philippine Time); from 20230115
+## https://twitter.com/JWonggg/status/1614585001714286593/photo/1; last accessed: 20230116 (Philippine Time); from 20230115
 
 > What game is this
 
