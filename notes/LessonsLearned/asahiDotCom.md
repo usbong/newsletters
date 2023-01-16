@@ -12,6 +12,24 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [（天声人語）ＳＮＳ時代の自伝](https://www.asahi.com/articles/DA3S15527825.html?iref=comtop_Opinion_05); last accessed: 20230115
+
+>（天声人語）ＳＮＳ時代の自伝
+
+> 2023年1月15日 5時00分
+
+2023-01-15T05:00
+
+> チャールズ英国王の次男ハリー王子（３８）が今月１０日に出した自伝『スペア』を、電子書籍で買った。「過去は決して死なない」の始まりから、最後の「私の言葉で私の話を知ろうとしてくれてありがとう」まで、４００ページ超を一気に読んだ▼全体を貫くのは、激しい負の感情だ。兄ウィリアム皇太子の「スペア（予備）」…
+
+### Keyphrase
+
+王子<br/>
+PRINCE HARRY (38);<br/>
+@start: "The past never dies."<br/>
+@end: "Thank you for attempting to know my story based on my words."<br/>
+digital eBOOK
+
 ## [「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡](https://www.asahi.com/articles/ASR1F6JR8R1FPTIL015.html); last accessed: 20230114
 
 >「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡
