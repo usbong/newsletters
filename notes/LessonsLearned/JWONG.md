@@ -9,6 +9,42 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg/status/1614947905370193921?cxt=HHwWgoDQ5YikueksAAAA; last accessed: 20230117 (Philippine Time); from 20230116
+
+> Back at @public_bigone
+
+戻って来た！@public_bigone
+
+## https://twitter.com/JWonggg/status/1614538614360387591?cxt=HHwWjsDRkZmU_-csAAAA; last accessed: 20230117 (Philippine Time); from 20230116
+
+> 2023-01-15
+
+> The best @public_bigone
+
+最強　@public_bigone
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+フィリピンにあった学校に近い、ゲームセンターを思い出す。近いというが、学校から、歩くと、２０分ぐらいも掛かる。ジプニーだと、１０分だね。
+
+で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコンやヴァンパイアセイヴァ＃３があるゲームセンタが一つで、SFゼロ３やCVS１、あとタイムクライシス２もあったゲームセンターが、もう一つ。
+
+public_bigoneを見てみたら、二番目のゲームセンターの方を思い出す。だが、当時、CVS１以外、アーケード機が相手が隣に座れる形だった。それで、中身にあるアーケード機の列が、少し異なっていた。
+
+また、public_bigoneから、前に修行として行ってた卓球センターを思い出す。ケゾン市にあるアモラントスタジアムというが、１５前ぐらいの話だ。
+
+日本の大学だと、床や明るさで、バスケコートのような感じで、卓球の試合に出る時の場所と、広さ以外、ほぼ同じだ。これで、勝てなかったら、場所の問題じゃなくなるよな。
+
+と思っちゃうが、音の話が別だけどな。
+ 
+</td></tr>
+</table>
+
+
 ## https://twitter.com/JWonggg/status/1614585001714286593/photo/1; last accessed: 20230116 (Philippine Time); from 20230115
 
 > What game is this
