@@ -1,12 +1,12 @@
 <!--
-  Copyright 2021~2022 SYSON, MICHAEL B. 
+  Copyright 2021~2023 SYSON, MICHAEL B. 
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20221208; from 20220702
+  @date updated: 20230116; from 20221208
   @website address: http://www.usbong.ph
   
   Input:
@@ -697,12 +697,24 @@ window.onclick = function(event) {
 	//edited by Mike, 20220619
 	$iYearCount=2022; //2021;
 	$iCurrentYear = idate("Y");
+	
 	while ($iYearCount<=$iCurrentYear) {
+		//edited by Mike, 20230110
 		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
 
-		$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
-		
-		$iYearCount++;
+		//edited by Mike, 20230116
+/*		
+		if (file_exists($sYearDirectoryPartTwo)) {
+			$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));			
+			
+			echo "dito";
+		}
+*/
+		if (file_exists(dirname(__DIR__).$sYearDirectoryPartTwo)) {
+			$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));			
+		}
+
+		$iYearCount++;	
 	}
 
 //    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING);
