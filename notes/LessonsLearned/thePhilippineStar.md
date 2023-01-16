@@ -40,7 +40,7 @@ Biggest smuggler @PORT of SUBIC<br/>
 
 ### Examples
 
-1) Tito Sotto (former Senate President)<br/>
+1) Sotto, Tito (former Senate President)<br/>
 --> named: 4 of 22 culprits in intelligence reports<br/>
 1.1) Leah "Luz" Cruz, operating in Cagayan de Oro and MICP;<br/>
 1.2) Manuel Tan, CdO, Subic, Batangas;<br/>
@@ -61,6 +61,25 @@ Biggest smuggler @PORT of SUBIC<br/>
 3) Additional Entities<br/>
 3.1) Frankie Trading Enterprises @CdO<br/>
 3.2) Primex Export-Import Producer @CdO
+
+
+## Dagdag
+
+1) observed: ENGLISH language and citizenship, e.g. U.S.A.,<br/> 
+--> used as parts of technique to cause Filipinos to execute ACTIONS,<br/> 
+--> classified in this case, to be obedience to SMUGGLERS/MANLOLOKO group;<br/>
+--> where: U.S.A. : supposedly comes as security defense of Philippines<br/> 
+--> to cause Filipinos to NOT execute ACTIONS against U.S.A. nationals;<br/>
+--> remembers: received training @Global Unit in Japan;<br/>
+--> where: lone Asian, e.g. Filipino, Japanese, can easily be attacked<br/> 
+--> by lone foreigner, e.g. Caucasian, using such technique;<br/>
+--> adds: however, as GROUP, can WIN;
+
+2) remembers: with SMUGGLER GROUP, a key local member, e.g. Filipino, Japanese,<br/> 
+--> has to noticeably be FLUENT in ENGLISH LANGUAGE;<br/>
+--> notes: as reference, select parts observed from younger brother's<br/> 
+--> GANGSTER/YAKUZA films that appear to be also watched by SMUGGLER GROUP;
+
 
 
 # BOC stops bid to smuggle P20-M onions in Misamis
