@@ -1,4 +1,4 @@
-# Lessons-learned: asahi.com　(朝日新聞　DIGITAL; asahi shimbun digital)
+Dagdag# Lessons-learned: asahi.com　(朝日新聞　DIGITAL; asahi shimbun digital)
 <br/>
 TO-DO: -update: this; re-verify: translation SPEED, information organization technique, et cetera<br/>
 TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
@@ -42,6 +42,15 @@ Patay ang 30 tao sa kabahayanan kung saan sila nagpulong; Daing ni G. ZELENSKI, 
 > 集合住宅の死者30人に　ゼレンスキー氏がロシア語で訴え
 
 30 people dead at their residences where they were gathered; Complain by Mr ZELENSKI, in the Russian Language;
+
+### Paalala・Reminder
+
+LARAWAN mula sa taong naroon;<br/>
+--> may: HALAGA, at panganib<br/>
+<br/>
+Photograph from the person there;<br/>
+--> has: VALUE, and danger
+
 
 ### Sanggunian・Reference
 
