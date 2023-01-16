@@ -1,6 +1,6 @@
 # Lessons-learned: The Philippine STAR
 
-## “Why are smugglers left untouched?” (20230116; MONDAY)
+## “Why are smugglers left untouched?” (20230113; FRIDAY)
 
 ### GOTCHA
 
