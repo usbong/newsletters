@@ -25,9 +25,9 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 It's similar to SAGAT, the SF Character!
 
-> JWONGさんのCVS２のサバイバル（最強難易度）動画を見たよ！最後まで、完成できるには、攻撃パワーが、圧倒的のように、しないといけないってことだとわかるね。
+> JWONGさんの[CVS２のサバイバル（最強難易度）動画](https://www.youtube.com/watch?v=9dAu_P3inmc)を見たよ！最後まで、完成できるには、攻撃パワーが、圧倒的のように、しないといけないってことだとわかるね。
 
-By the way, I saw your CVS2's SURVIVAL (STRONGEST DIFFICULTY Level) VIDEO! I learned that to be able to finish it until the END, we must make our ATTACK POWER be OVERWHELMING. 
+By the way, I saw your [CVS2's SURVIVAL (STRONGEST DIFFICULTY Level) VIDEO](https://www.youtube.com/watch?v=9dAu_P3inmc)! I learned that to be able to finish it until the END, we must make our ATTACK POWER be OVERWHELMING. 
 
 > こっちは、ザンギエフで、相手を 来させて、防御作戦で、５か６番目のリョウまで、行けたが、AI（人工知能）が、亀のような戦いで、気づくほど、変わっていて、やはり変わったんだなぁっと、考えがら、負けた。そして、写真を撮ろうとしたかったが、二度と、会わなくなった。
 
