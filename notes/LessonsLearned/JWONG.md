@@ -20,21 +20,34 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  <tr><td>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
-  
-サガットのSFキャラに似ている！
 
-JWONGさんのCVS２のサバイバル（最強難易度）動画を見たよ！最後まで、完成できるには、攻撃パワーが、圧倒的のように、しないといけないってことだとわかるね。
+> SFキャラのサガットに似ている！
 
-こっちは、ザンギエフで、相手を
-来させて、防御作戦で、５か６番目のリョウまで、行けたが、AI（人工知能）が、亀のような戦いで、気づくほど、変わっていて、やはり変わったんだなぁっと、考えがら、負けた。そして、写真を撮ろうとしたかったが、二度と、会わなくなった。
+It's similar to SAGAT, the SF Character!
 
-ちなみに、PS2ゲーム機が、壊れてしまったんだ。トレイが開けてくれなくなった状態となって、直すために、調べてみたら、CVS２のディスクを取り出せたが、ゲーム機が起動してくれないままだ。
+> JWONGさんのCVS２のサバイバル（最強難易度）動画を見たよ！最後まで、完成できるには、攻撃パワーが、圧倒的のように、しないといけないってことだとわかるね。
 
-次にPSNを確認しないといけないが、フィリピンは無い覚えがあるよな。10年前ぐらいに、オンラインの支払いを試すために、弟に頼まれて、シンガポアを入れてみたら、サムライスピリッツIVを買えたんだ。
+By the way, I saw your CVS2's SURVIVAL (STRONGEST DIFFICULTY Level) VIDEO! I learned that to be able to finish it until the END, we must make our ATTACK POWER be OVERWHELMING. 
 
-今回、例えば、NINTENDO SWITCHで、国じゃなく、領域だという選択肢があると、気づいたが、日本語版があるかどうかね。あと、現地のIP ADDRESSで、システム認識ができるので、デジタル版を買おうとして、買えない状態もあるね。
+> こっちは、ザンギエフで、相手を 来させて、防御作戦で、５か６番目のリョウまで、行けたが、AI（人工知能）が、亀のような戦いで、気づくほど、変わっていて、やはり変わったんだなぁっと、考えがら、負けた。そして、写真を撮ろうとしたかったが、二度と、会わなくなった。
 
-JWONGさんの方、大丈夫だったら、良かろうな！
+In my case, I was able to go until the 5th or 6th BATTLE against RYOU, using a DEFENSIVE STRATEGY, which causes the opponent to come to myself as ZANGIEF. But I lost, while pondering on the CHANGE in AI, which became noticeably STRANGE with its TURTLE-like fighting. And then, I attempted to take a photograph, but I did not meet it a second time.
+
+> ちなみに、PS2ゲーム機が、壊れてしまったんだ。トレイが開けてくれなくなった状態となって、直すために、調べてみたら、CVS２のディスクを取り出せたが、ゲーム機が起動してくれないままだ。
+
+Incidentally, the PS2 Game Console Unit that I have been using is broken. Its tray does not want to open. I investigated it to repair it, and was able to take out the CVS2 DISC, but the GAME Console Unit remained unable to EXECUTE.
+
+> 次にPSNを確認しないといけないが、フィリピンは無い覚えがあるよな。10年前ぐらいに、オンラインの支払いを試すために、弟に頼まれて、シンガポアを入れてみたら、サムライスピリッツIVを買えたんだ。
+
+Next, I'll have to verify PSN, albeit I remember there is no PHILIPPINES there. About 10 years ago, my younger brother requested me to test its online payment, and after putting in SINGAPORE, we were able to buy SAMURAI SPIRITS IV.
+
+> 今回、例えば、NINTENDO SWITCHで、国じゃなく、領域だという選択肢があると、気づいたが、日本語版があるかどうかね。あと、現地のIP ADDRESSで、システム認識ができるので、デジタル版を買おうとして、買えない状態もあるね。
+
+Right now, for example, with the NINTENDO SWITCH, I noticed that there is an option to set the REGION, instead of the COUNTRY. But whether or not there is nihongo version is another matter. The system can recognize the current location's IP ADDRESS, so even attempting to buy a DIGITAL VERSION, there is still the case that we cannot buy.
+
+> JWONGさんの方、大丈夫だったら、良かろうな！
+
+It would be GOOD if JWONG's side is OK!
   
 </td></tr>
 </table>
