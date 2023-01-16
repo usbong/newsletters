@@ -12,6 +12,42 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [集合住宅の死者30人に　ゼレンスキー氏がロシア語で訴え](https://www.asahi.com/articles/ASR1B0PRXR19UHBI025.html?iref=comtop_7_02); last accessed: 20230116
+
+> 速報中ヘルプ
+
+TULONG mula sa Mabilisang Balita; 
+
+> 速報中ヘルプ
+
+HELP from Quick News
+
+> 有料記事ウクライナ情勢
+
+Balita sa UKRAINE
+
+> 有料記事ウクライナ情勢
+
+News from UKRAINE
+
+> 2023年1月16日 6時00分
+
+2023-01-16T06:00
+
+> 集合住宅の死者30人に　ゼレンスキー氏がロシア語で訴え
+
+Patay ang 30 tao sa kabahayanan kung saan sila nagpulong; Daing ni G. ZELENSKI, sa wikang RUSO 
+
+
+> 集合住宅の死者30人に　ゼレンスキー氏がロシア語で訴え
+
+30 people dead at their residences where they were gathered; Complain by Mr ZELENSKI, in the Russian Language;
+
+### Sanggunian・Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [（天声人語）ＳＮＳ時代の自伝](https://www.asahi.com/articles/DA3S15527825.html?iref=comtop_Opinion_05); last accessed: 20230115
 
 >（天声人語）ＳＮＳ時代の自伝
