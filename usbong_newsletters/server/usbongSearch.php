@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230110; from 20230103
+  @date updated: 20230116; from 20230110
   @website address: http://www.usbong.ph
 
   Input:
@@ -768,9 +768,16 @@
 //			echo ">".$filename."<br/>";
 			$sYearDirectory="/server/".substr($filename,strlen("downloadedNewsletter"),4)."/";
 		}
-		else {
+		//edited by Mike, 20230116
+//		else {
+		else if (strpos($filename, "viewNewsletter")!==false) {
 			$sYearDirectory="/server/".substr($filename,strlen("viewNewsletter"),4)."/";
 		}
+		//added by Mike, 20230116
+		else {
+			$sYearDirectory="/server/".substr($filename,strlen("viewLessonsLearnedAsahiDotCom"),4)."/";
+		}
+		
 //		echo ">>>".$sYearDirectory."<br/>";
 
 
