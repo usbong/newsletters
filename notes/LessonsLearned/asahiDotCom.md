@@ -93,7 +93,7 @@ digital eBOOK
 
 >　乗用車に乗っていたのは運転の男1人。パトカーは追跡中、サイレンを鳴らし、赤色灯をつけていた。追いついた直後、車がバックして後続のパトカーにぶつかってきたという。
 
-Isang lalake ang nagpapatakbo ng sasakyan. Nang hinahabol ng PATROL CAR, pinatunog ang SIRENA, binuksan ang pulang ilaw. Agad nang mahabol, pinatakbo patalikod ang sasakyan, at binangga raw ang kasunod na POLICE CAR.
+Isang lalake ang nagpapatakbo ng sasakyan. Habang hinahabol, pinatunog ng PATROL CAR ang SIRENA, at binuksan ang pulang ilaw. Agad nang mahabol, pinatakbo nito patalikod ang sasakyan, at binangga raw ang kasunod na PATROL CAR.
 
 >　地域課の男性巡査長（26）がパトカーから降り、車の助手席側の窓ガラスを警棒でたたきながら、止まるよう指示。だが男は従わず、信号待ちをする前方のトラックとの間で前進とバックを繰り返したという。
 
