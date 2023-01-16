@@ -25,13 +25,13 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 It's similar to SAGAT, the SF Character!
 
-> JWONGさんの[CVS２のサバイバル（最強難易度）動画](https://www.youtube.com/watch?v=9dAu_P3inmc)を見たよ！最後まで、完成できるには、攻撃パワーが、圧倒的のように、しないといけないってことだとわかるね。
+> JWONGさんの[CVS２のサバイバル（最強難易度）動画](https://www.youtube.com/watch?v=9dAu_P3inmc)を見たよ！最後まで、完成できるには、攻撃パワーを、圧倒的のように、しないといけないってことだとわかるね。
 
 By the way, I saw your [CVS2's SURVIVAL (STRONGEST DIFFICULTY Level) VIDEO](https://www.youtube.com/watch?v=9dAu_P3inmc)! I learned that to be able to finish it until the END, we must make our ATTACK POWER be OVERWHELMING. 
 
 > こっちは、ザンギエフで、相手を 来させて、防御作戦で、５か６番目のリョウまで、行けたが、AI（人工知能）が、亀のような戦いで、気づくほど、変わっていて、やはり変わったんだなぁっと、考えがら、負けた。そして、写真を撮ろうとしたかったが、二度と、会わなくなった。
 
-In my case, I was able to go until the 5th or 6th BATTLE against RYOU, using a DEFENSIVE STRATEGY, which causes the opponent to come to myself as ZANGIEF. But I lost, while pondering on the CHANGE in AI, which became noticeably STRANGE with its TURTLE-like fighting. And then, I attempted to take a photograph, but I did not meet it a second time.
+In my case, I was able to go until the 5th or 6th BATTLE against RYOU, using a DEFENSIVE STRATEGY, which causes the opponent to come to myself as ZANGIEF. But I lost, while pondering on the CHANGE in AI, which became noticeably STRANGE with its TURTLE-like fighting. And then, I wanted to take a photograph, but I did not meet it a second time.
 
 > ちなみに、PS2ゲーム機が、壊れてしまったんだ。トレイが開けてくれなくなった状態となって、直すために、調べてみたら、CVS２のディスクを取り出せたが、ゲーム機が起動してくれないままだ。
 
