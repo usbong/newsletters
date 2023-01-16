@@ -1,5 +1,68 @@
 # Lessons-learned: The Philippine STAR
 
+## “Why are smugglers left untouched?” (20230116; MONDAY)
+
+### GOTCHA
+
+### Author
+
+BONDOC, JARIUS
+
+### Keyphrase
+
+Billionaire Cartelist-smugglers
+
+#### MODUS; Technique#1
+
+Smugglers use Customs bosses' favorite consignees<br/>
+--> where: 30PHP per kilo plus bulk freight cost, sold to retailers @450~650PHP<br/>
+--> adds: BRIBERY via in 5 containers, 3 for smugglers; 2 for Customs accomplices;
+
+#### Smuggling PORT Locations
+
+Biggest smuggler @PORT of SUBIC<br/>
+--> front consignees receive duty- and inspection-free privilege
+
+#### Three (3) new Contrabandist Lords:
+
+1) PORT of MANILA; Manila International Container Port (MICP)<br/>
+--> "Mike Ma." (30's); naturalized Filipino from China
+
+2) PORT of SUBIC<br/>
+--> "Gene Ang" (40's), Chinoy
+
+3) PORT of BATANGAS<br/>
+--> "Beverly Peres" (50's);
+
+#### MODUS; Technique#2
+
+--> uses: with Custom crooks, recycled lapsed permits to bring in more shiploads year-round
+
+### Examples
+
+1) Tito Sotto (former Senate President)<br/>
+--> named: 4 of 22 culprits in intelligence reports<br/>
+1.1) Leah "Luz" Cruz, operating in Cagayan de Oro and MICP;<br/>
+1.2) Manuel Tan, CdO, Subic, Batangas;<br/>
+1.3) Jun Diamante, CdO;<br/>
+1.4) Andrew Chang, MICP, Port of Manila, Batangas
+
+2) Layug, James (Agricutlure Assistant Secretary)<br/>
+--> requested: CUSTOMS to issue:<br/>
+--> ALERT ORDERS and JOINT 100% inspection;<br/>
+--> all cargos of 6 consignees:<br/>
+2.1) Victory JM Enterprises;<br/>
+2.2) Taculog Int'l Consumers Goods Trading;<br/>
+2.3) Asterzenmed Aggregates;<br/>
+2.4) Veneta Consumer Goods Trading;<br/>
+2.5) Lalavy Aggregates Trading;<br/>
+2.6) SB Express Logistics Business Solution;
+
+3) Additional Entities<br/>
+3.1) Frankie Trading Enterprises @CdO<br/>
+3.2) Primex Export-Import Producer @CdO
+
+
 # BOC stops bid to smuggle P20-M onions in Misamis
 
 ## Author
