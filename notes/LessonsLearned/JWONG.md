@@ -33,13 +33,13 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 I remember the GAME CENTER, near school in the Philippines. I say , "near," but from school, it takes about 20 minutes, walking. 10 minutes, if by JEEPNEY.
 
-> で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコンやヴァンパイアセイヴァ＃３があるゲームセンタが一つで、SFゼロ３やCVS１、あとタイムクライシス２もあったゲームセンターが、もう一つ。
+> で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコン#1やヴァンパイアセイヴァ#３があるゲームセンタが一つで、SFゼロ#３やCVS#１、あとタイムクライシス#２もあったゲームセンターが、もう一つ。
 
-And, inside that GAME CENTER, there are various GAME CENTERS and stores. About GAME CENTERS, one of them has the MARVEL vs CAPCOM, VAMPIRE SAVIOUR #3, and so on, while another has the SFZERO3, CVS1, and also TIME CRISIS 2.
+And, inside that GAME CENTER, there are various GAME CENTERS and stores. About GAME CENTERS, one of them has the MARVEL vs CAPCOM#1, VAMPIRE SAVIOUR#3, and so on, while another has the SFZERO#3, CVS#1, and also TIME CRISIS#2.
 
 > public_bigoneを見てみたら、二番目のゲームセンターの方を思い出す。だが、当時、CVS１以外、アーケード機が相手が隣に座れる形だった。それで、中身にあるアーケード機の列が、少し異なっていた。
 
-Looking at public_bigone, I remember the second GAME CENTER. But, at the time, aside from CVS1, the ARCADE Machine Type had the opponent sitted at the side. So, the positions of the ARCADE Machines inside was a little different.
+Looking at public_bigone, I remember the second GAME CENTER. But, at the time, aside from CVS1, the ARCADE Machine Type had the opponent sitted at the side. So, the positions of the ARCADE Machines inside were a little different.
 
 > また、public_bigoneから、前に修行として行ってた卓球センターを思い出す。ケゾン市にあるアモラントスタジアムというが、１５前ぐらいの話だ。
 
