@@ -77,7 +77,7 @@ Nagbigay rin ang AMERIKA ng "HIMARS", ROCKET CANNON na sa malayong harapan, kaya
 
 >　フランスの軽戦車や米独の歩兵戦闘車の提供は一連の支援の中で3番目の局面に当たります。この第3局面は、ウクライナのゼレンスキー大統領の訪米に合わせて米国が決めた地対空ミサイル「パトリオット」の提供から始まったと考えています。
 
-Nasa loob ng ika-3 bahagi ang tulong mula sa AMERIKA at ALEMANYA, ang pamamahagi ng mga sasakyang pandigma sa mga naglalakad na sundalo, mga magagaang sasakyang pandigma ng PRANSIYA, atbp. Maiisip na nagsimula ang mga ito sa pagtulong na pinagpasiyahan ng AMERIKA sa pamamahagi ng "PATRIOT", ang ANTI-AIR sa lupa, nang dumalaw si Pangulong ZELENSKY ng UKRAINE sa AMERIKA.
+Nasa loob ng ika-3 bahagi ang tulong mula sa AMERIKA at ALEMANYA, ang pamamahagi ng mga sasakyan laban sa mga naglalakad na sundalo, mga magagaang sasakyang pandigma ng PRANSIYA, atbp. Maiisip na nagsimula ang mga ito sa pagtulong na pinagpasiyahan ng AMERIKA sa pamamahagi ng "PATRIOT", ang ANTI-AIR sa lupa, nang dumalaw si Pangulong ZELENSKY ng UKRAINE sa AMERIKA.
 
 ### Paalala
 
