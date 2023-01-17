@@ -32,7 +32,7 @@ Then, to make my own game, I came to learn the technology called the computer, a
 
 > ５年間以上、精神力が中心となって、コンピュータゲームから離れてたが、今、現状を見ると、STEAMPOWEREDやTWITCHというプラットフォームが、すでに出てきて、ゲーム自体が、良くなったはずだが、昔、遊んでたゲームを好んで、JWONGさんのような人を見つけたりする。
 
-In a span of over 5 years, my [spiritual strength](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965) became center, and I distanced away from computer games, but now, looking at the current situation, STEAMPOWERED, TWITCH and such platforms have already come out, and games themselves have supposedly improved; still, I prefer the olden games that I had played, finding people such as JWONG, et cetera.
+In a span of over 5 years, my [spiritual strength](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965) became center, and I distanced away from computer games, but now, looking at the current situation, STEAMPOWERED, TWITCH and such platforms have already come out, and games themselves have supposedly improved; still, I prefer the olden time games that I had played, finding people such as JWONG, et cetera.
 
 > とか言うんだけど、これからも、頑張って行こうぜ！
 
@@ -103,7 +103,7 @@ I remember the GAME CENTER, near school in the Philippines. I say , "near," but 
 
 > で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコン#1やヴァンパイアセイヴァ#３があったゲームセンタが一つで、SFゼロ#３やCVS#１、あとタイムクライシス#２もあったゲームセンターが、もう一つ。
 
-And, inside that GAME CENTER, there are various GAME CENTERS and stores. About GAME CENTERS, one of them has the MARVEL vs CAPCOM#1, VAMPIRE SAVIOUR#3, and so on, while another has the SFZERO#3, CVS#1, and also TIME CRISIS#2.
+And, inside that GAME CENTER, there are all sorts of GAME CENTERS and stores. About GAME CENTERS, one of them has the MARVEL vs CAPCOM#1, VAMPIRE SAVIOUR#3, and so on, while another has the SFZERO#3, CVS#1, and also TIME CRISIS#2.
 
 > public_bigoneを見てみたら、二番目のゲームセンターの方を思い出す。だが、当時、CVS１以外、アーケード機が相手が隣に座れる形だった。それで、中身にあるアーケード機の列が、少し異なっていた。
 
