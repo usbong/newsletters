@@ -24,7 +24,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
   
 > こっちのほうならば、子供の頃に関わってると思うね。小学校の時からも、兄弟と一緒に、よくゲームセンターへ行ってたし、アメリカからの中古雑誌を写真だけでも、見たりしたんだ。
 
-If it’s my case, I think it’s related to the time when I was a child. Since elementary school, I often went to the GAME CENTER with my brothers, and also observed, if only the photographs, from used magazines from the U.S.
+If it’s my case, I think it’s related to the time when I was a child. Since elementary school, I often went to the GAME CENTER with my brothers, and also observed, if only the photographs, used magazines from the U.S.
 
 > そして、自分のゲームを作るために、コンピュータという技術を習いに来て、日本までも、よく遊んでたゲームのノウハウがわかるために、留学してた。
 
