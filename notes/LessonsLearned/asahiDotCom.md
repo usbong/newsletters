@@ -100,6 +100,26 @@ Simula nang magpasiya ang AMERIKA, nagpasiya ring mamahagi ang PRANSIYA ng "AMX-
 --> Noon may bahagi rin ng VIETNAM, ang nasakop ng PRANSIYA.<br/>
 --> Kung kaya't, sa kasaysayan, hindi naman masasabing mahihina ang mga PRANSES, bagama't kinailangang sakupin sila ng ALEMANYA noong ikalawang digmaan. 
 
+### Dagdag
+
+Salitang natagalan ako sa pagsasalin:
+
+> 歩兵戦闘車
+
+Sasakyang panlaban [sa] mga naglalakad na sundalo?
+
+Sasakyang panlaban [ng] mga naglalakad na sundalo
+
+--> isinangguni: 地対空ミサイル<br/>
+--> ANTI-AIR MISSILE<br/>
+--> MISSILE mula lupa panlaban paitaas (sa langit); <br/>
+<br/>
+--> maaalala#1: sa panahon ng ika-2 digmaan sa EUROPA, madalas na ginagamit ang mga sasakyang pandigma (TANKE) sa pangwasak ng mga gusali na pinagtataguan ng mga sundalo, tulad ng mga SNIPER, na balakid sa mga daraang sundalo;<br/>
+--> Gayunman, talo ang TANKE sa mga sundalo, lalo pa't kung may dalang granada, rocket launcher, atbp.<br/>
+--> sanhi: hindi mabilis (efficient) gamitin ang malaking kanyon ng TANKE laban sa mga naglalakad na sundalo<br/>
+<br/>
+--> maaalala#2: mula sa larawan, ang HEAVY TANK sa C&C: RED ALERT ng SOVIET, bagama't "LEOPARD 2" ito ng ALEMANYA; 
+
 
 ### Sanggunian
 
