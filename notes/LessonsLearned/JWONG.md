@@ -9,6 +9,21 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://www.twitch.tv/jwonggg; last accessed: 20230117 (Philippine Time); from 20230116
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Bruh how much did this game change. FIGHTING EX LAYER has evolved like A LOT A LOT in Japan
+
+どんだけ、このゲームが変わったんだ！FIGHTING EX LAYERは、日本で、とっても、進化していたぜ！
+
+> Check it out: https://youtu.be/NfLUVMaZWIM
+
+こちらをどうぞ！https://youtu.be/NfLUVMaZWIM
+
+
 ## https://twitter.com/JWonggg/status/1614947905370193921?cxt=HHwWgoDQ5YikueksAAAA; last accessed: 20230117 (Philippine Time); from 20230116
 
 > Back at @public_bigone
