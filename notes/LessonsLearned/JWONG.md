@@ -29,17 +29,35 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
-フィリピンにあった学校に近い、ゲームセンターを思い出す。近いというが、学校から、歩くと、２０分ぐらいも掛かる。ジプニーだと、１０分だね。
+> フィリピンにあった学校に近い、ゲームセンターを思い出す。近いというが、学校から、歩くと、２０分ぐらいも掛かる。ジプニーだと、１０分だね。
 
-で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコンやヴァンパイアセイヴァ＃３があるゲームセンタが一つで、SFゼロ３やCVS１、あとタイムクライシス２もあったゲームセンターが、もう一つ。
+I remember the GAME CENTER, near school in the Philippines. I say , "near," but from school, it takes about 20 minutes, walking. 10 minutes, if by JEEPNEY.
 
-public_bigoneを見てみたら、二番目のゲームセンターの方を思い出す。だが、当時、CVS１以外、アーケード機が相手が隣に座れる形だった。それで、中身にあるアーケード機の列が、少し異なっていた。
+> で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコンやヴァンパイアセイヴァ＃３があるゲームセンタが一つで、SFゼロ３やCVS１、あとタイムクライシス２もあったゲームセンターが、もう一つ。
 
-また、public_bigoneから、前に修行として行ってた卓球センターを思い出す。ケゾン市にあるアモラントスタジアムというが、１５前ぐらいの話だ。
+And, inside that GAME CENTER, there are various GAME CENTERS and stores. About GAME CENTERS, one of them has the MARVEL vs CAPCOM, VAMPIRE SAVIOUR #3, and so on, while another has the SFZERO3, CVS1, and also TIME CRISIS 2.
 
-日本の大学だと、床や明るさで、バスケコートのような感じで、卓球の試合に出る時の場所と、広さ以外、ほぼ同じだ。これで、勝てなかったら、場所の問題じゃなくなるよな。
+> public_bigoneを見てみたら、二番目のゲームセンターの方を思い出す。だが、当時、CVS１以外、アーケード機が相手が隣に座れる形だった。それで、中身にあるアーケード機の列が、少し異なっていた。
 
-と思っちゃうが、音の話が別だけどな。
+Looking at public_bigone, I remember the second GAME CENTER. But, at the time, aside from CVS1, the ARCADE Machine Type had the opponent sitted at the side. So, the positions of the ARCADE Machines inside was a little different.
+
+> また、public_bigoneから、前に修行として行ってた卓球センターを思い出す。ケゾン市にあるアモラントスタジアムというが、１５前ぐらいの話だ。
+
+And, from public_bigone, I remember the TABLE TENNIS CENTER that I previously went to for training. It's called, "AMORANTO STADIUM," and is in QUEZON CITY, albeit this is a story of about 15 years ago.
+
+> 日本の大学だと、床や明るさで、バスケコートのような感じで、卓球の試合に出る時の場所と、広さ以外、ほぼ同じだ。これで、勝てなかったら、場所の問題じゃなくなるよな。
+
+Speaking of university in Japan, the place where TABLE TENNIS TOURNAMENTS were held, had about the same feel as a BASKETBALL COURT, with the floor and the brightness, if not its wideness.  So, if we still could not win, the place was not anymore the problem.
+
+> と思っちゃうが、音の話が別だけどな。
+
+I'd think it would be so, but SOUND is a different story.
+
+### Additional Note
+  
+1. remembers: MURAKAMI, HARUKI's "[What I talk about when I talk about running" (English translation)](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
+--> TO-DO: -verify: translated text
+
  
 </td></tr>
 </table>
