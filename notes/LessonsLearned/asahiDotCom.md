@@ -52,7 +52,7 @@ Ating tinanong si G. CHASSILLAN, MARC, ang CONSULTAT sa MILITAR, at dating INHIN
 
 > 欧米各国の支援
 
-Tulong mula sa lahat ng kahariaan ng EUROPA at AMERIKA
+Tulong mula sa lahat ng kaharian ng EUROPA at AMERIKA
 
 > 三つの局面がありました。
 
