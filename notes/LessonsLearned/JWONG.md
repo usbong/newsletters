@@ -9,6 +9,30 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+
+## https://twitter.com/JWonggg/status/1615176108932202496?cxt=HHwWgIDQ6aGHoeosAAAA; last accessed: 20230117 (Philippine Time); from 20230116
+
+> Why do you love fighting games? I love fighting games because I feel like it’s the only genre to me that I can express myself. It gives me such a rush when learning and applying! What about you?
+
+なんで格闘ゲームが好き？おれは、このジャンルしか、自分を表現できないと、気がするから。それと、見習ったり、そして、人生に応用したりすると、力になる強さがやってくるのだ！そっちはどう？
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+こっちのほうならば、子供の頃に関わってると思うね。小学校の時からも、兄弟と一緒に、よくゲームセンターへ行ってたし、アメリカからの中古雑誌を写真だけでも、見たりしたんだ。
+
+そして、自分のゲームを作るために、コンピュータという技術を習いに来て、日本までも、よく遊んでたゲームのノウハウがわかるために、留学してた。
+
+５年間以上、精神力が中心となって、コンピュータゲームから離れてたが、今、現状を見ると、STEAMPOWEREDやTWITCHというプラットフォームが、すでに出てきて、ゲーム自体が、良くなったはずだが、昔、遊んでたゲームを好んで、JWONGさんのような人を見つけたりする。
+
+とか言うんだけど、これからも、頑張って行こうぜ！
+
+</td></tr>
+</table>
+
 ## https://www.twitch.tv/jwonggg; last accessed: 20230117 (Philippine Time); from 20230116
 
 > NEW YOUTUBE VIDEO
@@ -34,7 +58,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-動画、見てみたら、あるところで、格闘ゲームのナレーター役されるCHEN、JAMESの声に似ている！「HARD」のとこかなぁ？
+動画、見てみたら、あるところで、格闘ゲームのナレーター役されるCHEN、JAMESさんの声に似ている！「HARD」のとこかなぁ？
 
 </td></tr>
 </table>
