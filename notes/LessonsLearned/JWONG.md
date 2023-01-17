@@ -101,7 +101,7 @@ And, from public_bigone, I remember the TABLE TENNIS CENTER that I previously we
 
 > 日本の大学だと、床や明るさで、バスケコートのような感じで、卓球の試合に出る時の場所と、広さ以外、ほぼ同じだ。これで、勝てなかったら、場所の問題じゃなくなるよな。
 
-Speaking of university in Japan, the place for training had about the same feel as a BASKETBALL COURT, with the floor and the brightness, if not as wide as the place where TABLE TENNIS TOURNAMENTS were held. So, if we still could not win, the place was not anymore the problem.
+Speaking of university in Japan, the place for training was about the same as the place where TABLE TENNIS TOURNAMENTS were held, with its BASKETBALL COURT feel, due to the floor and the brightness, if not as wide.
 
 > と思っちゃうが、音の話が別だけどな。
 
