@@ -22,13 +22,27 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-こっちのほうならば、子供の頃に関わってると思うね。小学校の時からも、兄弟と一緒に、よくゲームセンターへ行ってたし、アメリカからの中古雑誌を写真だけでも、見たりしたんだ。
+> こっちのほうならば、子供の頃に関わってると思うね。小学校の時からも、兄弟と一緒に、よくゲームセンターへ行ってたし、アメリカからの中古雑誌を写真だけでも、見たりしたんだ。
 
-そして、自分のゲームを作るために、コンピュータという技術を習いに来て、日本までも、よく遊んでたゲームのノウハウがわかるために、留学してた。
+If it’s my case, I think it’s related to the time when I was a child. Since elementary school, I often went to the GAME CENTER with my brothers, and also observed, if only the photographs, from used magazines from the U.S.
 
-５年間以上、精神力が中心となって、コンピュータゲームから離れてたが、今、現状を見ると、STEAMPOWEREDやTWITCHというプラットフォームが、すでに出てきて、ゲーム自体が、良くなったはずだが、昔、遊んでたゲームを好んで、JWONGさんのような人を見つけたりする。
+> そして、自分のゲームを作るために、コンピュータという技術を習いに来て、日本までも、よく遊んでたゲームのノウハウがわかるために、留学してた。
 
-とか言うんだけど、これからも、頑張って行こうぜ！
+Then, to make my own game, I came to learn the technology called the computer, and even studied in Japan to understand the know-how of the games that I often played.
+
+> ５年間以上、精神力が中心となって、コンピュータゲームから離れてたが、今、現状を見ると、STEAMPOWEREDやTWITCHというプラットフォームが、すでに出てきて、ゲーム自体が、良くなったはずだが、昔、遊んでたゲームを好んで、JWONGさんのような人を見つけたりする。
+
+In a span of over 5 years, my [spiritual strength](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965) became center, and I distanced away from computer games, but now, looking at the current situation, STEAMPOWERED, TWITCH and such platforms have already come out, and games themselves have supposedly improved; still, I prefer the olden games that I had played, finding people such as JWONG, et cetera.
+
+> とか言うんだけど、これからも、頑張って行こうぜ！
+
+Although I say such things, really from hereon, let’s go do our best!
+
+### Additional Note
+
+1. The swordsman and the cat (SUZUKI, D.T.) via [“Zen and Japanese Culture”](https://www.amazon.com/Zen-Japanese-Culture-Princeton-Classics/dp/0691182965)<br/>
+--> observed: my printed book of Mr MURAKAMI, HARUKI’s [“What I Talk About When I Talk About Running”](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running) is with it, and also ARMSTRONG, KAREN’s "[Islam: A Short History](https://www.amazon.com/Islam-History-Modern-Library-Chronicles/dp/081296618X)"
+
 
 </td></tr>
 </table>
