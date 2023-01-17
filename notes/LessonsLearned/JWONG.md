@@ -55,7 +55,8 @@ I'd think it would be so, but SOUND is a different story.
 
 ### Additional Note
   
-1. remembers: MURAKAMI, HARUKI's "[What I talk about when I talk about running" (English translation)](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
+1. remembers: Mr. MURAKAMI, HARUKI's<br/> 
+  "[What I talk about when I talk about running" (English translation)](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)<br/>
 --> TO-DO: -verify: translated text
 
  
