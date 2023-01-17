@@ -87,7 +87,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 I remember the GAME CENTER, near school in the Philippines. I say , "near," but from school, it takes about 20 minutes, walking. 10 minutes, if by JEEPNEY.
 
-> で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコン#1やヴァンパイアセイヴァ#３があるゲームセンタが一つで、SFゼロ#３やCVS#１、あとタイムクライシス#２もあったゲームセンターが、もう一つ。
+> で、そのゲームセンターの中に、それぞれのゲームセンターや店もあった。ゲームセンターのことなんだけど、マーヴルvsカプコン#1やヴァンパイアセイヴァ#３があったゲームセンタが一つで、SFゼロ#３やCVS#１、あとタイムクライシス#２もあったゲームセンターが、もう一つ。
 
 And, inside that GAME CENTER, there are various GAME CENTERS and stores. About GAME CENTERS, one of them has the MARVEL vs CAPCOM#1, VAMPIRE SAVIOUR#3, and so on, while another has the SFZERO#3, CVS#1, and also TIME CRISIS#2.
 
