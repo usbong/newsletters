@@ -23,6 +23,21 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 こちらをどうぞ！https://youtu.be/NfLUVMaZWIM
 
+### https://www.youtube.com/watch?v=NfLUVMaZWIM; last accessed: 20230117 (Philippine Time); from 20230116
+
+> Japan continues to impress me with their extensive fighting game communities. I didn't expect to see an amazing scene for Fighting EX Layer! @big-one2ndchannel128 hosts some amazing tournaments and of course, I had to commentate FEXL. Enjoy this game with me! Maybe I'll pick it up again!
+
+日本の広大な格闘ゲームコミュニティーで、感動。Fighting EX Layerで、あんな素晴らしい現場が見れるのを、思わなかった。@big-one2ndchannel128が、素晴らしい試合をホストされていて、もちろん、FEXLのナレーター役もさせてくれるので、ありがたい！このゲームを、おれと楽しんでいこう！そして、できれば、また遊ぼう！ 
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+動画、見てみたら、あるところで、格闘ゲームのナレーター役されるCHEN、JAMESの声に似ている！「HARD」のとこかなぁ？
+
+</td></tr>
+</table>
 
 ## https://twitter.com/JWonggg/status/1614947905370193921?cxt=HHwWgoDQ5YikueksAAAA; last accessed: 20230117 (Philippine Time); from 20230116
 
