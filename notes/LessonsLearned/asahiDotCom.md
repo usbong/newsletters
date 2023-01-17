@@ -16,7 +16,7 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 > 欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く
 
-Tuluy-tuloy ang pagbabahagi ng mga Sasakyang Pangdigma sa EUROPA at AMERIKA; Ang dahilan ng TIMING nito; Itanong sa KONSULTANT ng MILITAR.
+Tuluy-tuloy ang pagbabahagi ng mga Sasakyang Pangdigma ng EUROPA at AMERIKA; Ang dahilan ng TIMING nito; Itanong sa KONSULTANT ng MILITAR.
 
 > 有料記事ウクライナ情勢
 
@@ -31,7 +31,7 @@ PARIS; SOU, KOUSUKE; 2023-01-17T07:00
 > ウクライナへの軍事支援をめぐって、欧州で戦車供与に向けた動きが強まっている。ロシアによる侵攻直後は、交戦国とみなされないよう慎重だったが、フランスを皮切りにドイツと米国は軽戦車や歩兵戦闘車の提供を決定。今はドイツ製戦車「レオパルト2」の提供が焦点になっている。
 
 
-Pinalalakas pa ang pagkilos sa pamamahagi ng mga sasakyang pandigma sa EUROPA at AMERIKA, bilang tulong militar sa UKRAINE. Agad na pagkatapos ng pagsalakay mula RUSSIA, mapapansing naging maingat ang mga nag-aalitan, bagama't nilantad ng PRANSIYA ang pagpapasiya nitong tumulong kabilang ang ALEMANYA at AMERIKA sa pamamahagi ng mga magagaang sasakyang pandigma, mga sasakyang laban sa mga naglalakad na sundalo. Sa kasalukuyan, natututukan ang pamamahagi ng "LEOPARD 2", na sasakyang pandigmang gawa ng ALEMANYA.
+Pinalalakas pa ang pagkilos sa pamamahagi ng mga sasakyang pandigma sa EUROPA, bilang tulong militar sa UKRAINE. Agad na pagkatapos ng pagsalakay mula RUSSIA, mapapansing naging maingat ang mga nag-aalitan, bagama't nilantad ng PRANSIYA ang pagpapasiya nitong tumulong kabilang ang ALEMANYA at AMERIKA sa pamamahagi ng mga magagaang sasakyang pandigma, mga sasakyang laban sa mga naglalakad na sundalo. Sa kasalukuyan, natututukan ang pamamahagi ng "LEOPARD 2", na sasakyang pandigmang gawa ng ALEMANYA.
 
 ### Paalala
 > 皮切りに
