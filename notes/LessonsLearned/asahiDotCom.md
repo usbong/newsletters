@@ -12,6 +12,100 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く](https://www.asahi.com/articles/ASR1J61TVR1GUHBI01X.html?iref=comtop_7_07); last accessed: 20230117
+
+> 欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く
+
+Tuluy-tuloy ang pagbabahagi ng mga Sasakyang Pangdigma sa EUROPA at AMERIKA; Ang dahilan ng TIMING nito; Itanong sa KONSULTANT ng MILITAR.
+
+> 有料記事ウクライナ情勢
+
+Balita sa UKRAINE
+
+> パリ=宋光祐2023年1月17日 7時00分
+
+PARIS; SOU, KOUSUKE; 2023-01-17T07:00
+
+### Pinaikling Pagbubuod; Short Summary
+
+> ウクライナへの軍事支援をめぐって、欧州で戦車供与に向けた動きが強まっている。ロシアによる侵攻直後は、交戦国とみなされないよう慎重だったが、フランスを皮切りにドイツと米国は軽戦車や歩兵戦闘車の提供を決定。今はドイツ製戦車「レオパルト2」の提供が焦点になっている。
+
+
+Pinalalakas pa ang pagkilos sa pamamahagi ng mga sasakyang pandigma sa EUROPA at AMERIKA, bilang tulong militar sa UKRAINE. Agad na pagkatapos ng pagsalakay mula RUSSIA, mapapansing naging maingat ang mga nag-aalitan, bagama't nilantad ng PRANSIYA ang pagpapasiya nitong tumulong kabilang ang ALEMANYA at AMERIKA sa pamamahagi ng mga magagaang sasakyang pandigma, mga sasakyang laban sa mga naglalakad na sundalo. Sa kasalukuyan, natututukan ang pamamahagi ng "LEOPARD 2", na sasakyang pandigmang gawa ng ALEMANYA.
+
+### Paalala
+> 皮切りに
+
+lantad; binalatan ang sarili
+
+> 記事のポイント
+
+Mahahalagang Bagay sa Sulatin
+
+> ①欧州は当初、ロシアに交戦国とみなされるのを避けていた。ロシアの「苦戦」が認識を変えた②「停戦交渉」をにらんだ動きも背景に③戦車提供には課題あり
+
+①Noong simula, mapapansing umiiwas ang EUROPA sa pakikipag-alitan sa RUSSIA.  Binago ng "pasakit ng digmaan" ng RUSSIA ang kanilang kamalayan. ②Sa likod ng pagkilos na tumututok sa "Usapan sa Paghinto ng Digmaan"; ③May pamamahagi ng mga sasakyang pandigma. 
+
+> フランスの防衛企業ネクスターの元エンジニアで軍事コンサルタントのマルク・シャシヤン氏に聞いた。
+
+Ating tinanong si G. CHASSILLAN, MARC, ang CONSULTAT sa MILITAR, at dating INHINYERO ng NEXTAR, ang Proyektong Panangga ng PRANSIYA.
+
+> 欧米各国の支援
+
+Tulong mula sa lahat ng kahariaan ng EUROPA at AMERIKA
+
+> 三つの局面がありました。
+
+May tatlong bahagi.
+
+> 第1段階は、歩兵を運ぶためのトラックや医薬品などの提供で、ほとんど攻撃力のない物資が中心でした。
+
+Unang hakbang, pangunahin ang mga kagamitang halos walang kinalaman sa lakas ng pagsalakay, sa pagbibigay ng mga gamot, truck na pangbuhat ng mga sundalo, atbp.
+
+>　第2段階では地対空ミサイルなど地上戦の主力となる兵器の支援に踏み切りました。
+
+Sa ika-2 hakbang, tumapak na sa pagtulong ng mga sandata na pangunahing lakas ang panlaban paitaas mula lupa, tulad ng mga ANTI-AIR MISSILE, atbp. 
+
+> フランスは昨年4月から断続的に、自国製の自走榴弾（りゅうだん）砲カエサルをウクライナに提供しています。最大射程40キロ超の155ミリ榴弾砲が6輪トラックの車台に据え付けられており、精度の高さで知られる兵器です。
+
+TO-DO: idagdag: ito;
+--> Mula PRANISYA, COCONUT BOMB CANNON;
+
+>　米国も前線から離れた弾薬庫や司令拠点を破壊できる高機動ロケット砲「ハイマース」を供与しています。
+
+Nagbigay rin ang AMERIKA ng "HIMARS", ROCKET CANNON na sa malayong harapan, kayang mangwasak ng mga lagayan ng baril at gamot, ang COMMAND BASE, atbp.
+
+>　フランスの軽戦車や米独の歩兵戦闘車の提供は一連の支援の中で3番目の局面に当たります。この第3局面は、ウクライナのゼレンスキー大統領の訪米に合わせて米国が決めた地対空ミサイル「パトリオット」の提供から始まったと考えています。
+
+Nasa loob ng ika-3 bahagi ang tulong mula sa AMERIKA at ALEMANYA, ang pamamahagi ng mga sasakyang pandigma sa mga naglalakad na sundalo, mga magagaang sasakyang pandigma ng PRANSIYA, atbp. Maiisip na nagsimula ang mga ito sa pagtulong na pinagpasiyahan ng AMERIKA sa pamamahagi ng "PATRIOT", ang ANTI-AIR sa lupa, nang dumalaw si Pangulong ZELENSKY ng UKRAINE sa AMERIKA.
+
+### Paalala
+
+> 米独
+
+AMERIKA at ALEMANYA
+
+
+>　米国の決定をきっかけに、フランスが軽戦車「AMX―10　RC」の提供を決め、ドイツも歩兵戦闘車「マルダー」で続きました。
+
+Simula nang magpasiya ang AMERIKA, nagpasiya ring mamahagi ang PRANSIYA ng "AMX-10RC",  magagaang sasakyang pandigma, at itinuloy naman ng ALEMANYA ang sa kanila, ang "Marder", sasakyang laban sa mga naglalakad na sundalo.
+
+### Paalala
+
+1) Ang sa PINAS?<br/>
+--> PALAKA?; ARMOR DEFENSE ROBOT
+
+2) PRANSIYA; BONAPARTE, NAPOLEON;<br/>
+--> Kaya sa ilang bahagi ng AFRIKA, may mga nagsasalita ng PRANSES.<br/>
+--> Noon may bahagi rin ng VIETNAM, ang nasakop ng PRANSIYA.<br/>
+--> Kung kaya't, sa kasaysayan, hindi naman masasabing mahihina ang mga PRANSES, bagama't kinailangang sakupin sila ng ALEMANYA noong ikalawang digmaan. 
+
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [23匹の犬と歩んだ37年　全国最長の「警察犬係」が学んだこと](https://www.asahi.com/articles/ASQCK671XQC1TIPE022.html); last accessed: 20230116; from 20230115
 
 > 板倉大地2022年11月20日 10時00分
