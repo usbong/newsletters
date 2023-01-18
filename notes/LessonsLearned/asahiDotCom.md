@@ -63,11 +63,11 @@ Sa alitan, kanila ring itinuro na "Higit pa sa IDEOLOGY, BUSINESS."
 
 including additional tasks at, e.g. call center, cashier accounting;
 
-#### +ERRATUM: 44+MINS
+#### +ERRATA: 44+MINS
 
-1) suburb distance; 9km
+1) suburb distance; 9km (from center)
 
-2) date stamp; day before
+2) date stamp, is already the day before
 
 
 ### --
