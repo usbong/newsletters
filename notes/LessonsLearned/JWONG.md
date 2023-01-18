@@ -10,6 +10,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://www.twitch.tv/jwonggg; last accessed: 20230118 (Philippine Time); from 20230117
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Man X-MEN VS SF always really makes me happy but damn the X-MEN chars are so so so GOOD!! Fought this amazing player who was styling with Wolverine/Cyclops
+
+ったく、X-MEN VS SFが、いつも喜ばせてくれるが、X-MENのキャラたちが、大幅に強すぎッ！！こんなスゴイWolverine/Cyclopsコンビで戦うプレイヤーに挑戦したぞ！
+
+> Check it out: https://youtu.be/iriYFfDWZaw
+
+こちらをどうぞ！　https://youtu.be/iriYFfDWZaw
+
 ## https://twitter.com/JWonggg/status/1615176108932202496?cxt=HHwWgIDQ6aGHoeosAAAA; last accessed: 20230117 (Philippine Time); from 20230116
 
 > Why do you love fighting games? I love fighting games because I feel like it’s the only genre to me that I can express myself. It gives me such a rush when learning and applying! What about you?
