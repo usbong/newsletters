@@ -12,6 +12,65 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ロシアの侵攻前日、マイクロソフトが察知した異変　サイバー戦最前線](https://www.asahi.com/articles/ASR1D4QZ6R14UHBI014.html?iref=comtop_Tech_science_05); last accessed: 20230118
+
+> ロシアの侵攻前日、マイクロソフトが察知した異変　サイバー戦最前線
+
+Sa araw bago ang pagsalakay ng RUSSIA, nalaman ng MICRSOFT na may kakaiba; CYBER ATTACK sa pinakaharapan
+
+> 編集委員・五十嵐大介=サンフランシスコ、同・須藤龍也2023年1月17日 11時00分
+
+Tagapagbuklod: IGARASHI, DAISUKE; SAN FRANCISCO;  SUDOU, TATSUYA; 2023-01-17T11:00
+
+> ロシア軍がウクライナに侵攻する前日の2022年2月23日。9千キロほど離れた米北西部のシアトル近郊で、ウクライナへのサイバー攻撃が察知された。
+
+Sa araw bago ang pagsalakay ng Sandatahang Lakas ng RUSSIA sa UKRAINE ng 2022-02-23. Nalaman sa banda sukdulan ng SEATTLE, sa hilagang-kanlurang bahagi ng AMERIKA, 9K kilometro ang layo sa pinangyarihan, ang CYBER ATTACK sa UKRAINE. 
+
+>　つかんだのは、マイクロソフト（MS）本社のサイバー攻撃を監視する部署「MS脅威インテリジェンスセンター」。ウクライナにある19の政府機関や、重要なインフラへの攻撃だった。
+
+Ang nakahuli, ang "MICROSOFT (MS) TERROR INTELLIGENCE CENTER" ng MS Headquarters (HQ) na nagbabantay ng mga CYBER ATTACK. Pagsalakay iyon sa Pamahalaan, mga kailangang INFRASTRAKTURA, atbp ng UKRAINE.
+
+>　センターはすぐに「盾」をつくった。コンピューターの動作に不正を起こさせる「マルウェア」を特定するためのソフトをつくり、ウクライナに送る。3時間足らずのできごとだった。
+
+Agad na bumuo ng "PANANGGA" ang CENTER. Gumawa ng "MALWARE", isang bukod-tanging software, na ipinagaganap sa KOMPYUTER ang MALING PAGKILOS, at ipinadala ito sa UKRAINE. Hindi pa aabot sa 3 oras ang gawaing ito.
+
+### Dagdag
+
+1. sa unang pagbasa sa Wikang Hapon, aakalaing gumawa ng MALWARE ang MICROSOFT
+
+>　「今回の戦争の最初の砲撃は、サイバー空間で放たれた。それを最初に目撃したのが我々だ」。MSのブラッド・スミス社長は5月、ロンドンでのイベントで胸を張り、過去の戦争の白黒写真を背に語った。
+
+"Sa kasalukuyang digmaan, inilalabas sa CYBERSPACE, ang pinakaunang Pagsalakay ng KANYON (CANNON ATTACK). Kami ang pinaka-unang nakakita ng pagsalakay na iyon." Sa ika-5 ng buwan, ipinagmalaking isinalaysay ito ng Pinuno ng MS, na si SMITH, BRAD, sa EVENT sa LONDON, sa likod ng puti't itim na larawan ng nakaraang digmaan.
+
+>　「（第1次世界大戦が起きた）1914年に人類の紛争は空へ、今年はサイバー空間へ移った」
+
+"Lumipat na ang alitan (noong naganap na ika-1 malaking pandaigdigang digmaan) ng sangkatauhan ng taong 1914, sa CYBERSPACE"
+
+>　米IT大手は、ロシアの侵攻前からウクライナ政府と連携し、サイバー戦の最前線の防御を担った。
+
+Inaako ng malaking gawaan ng IT ng Amerika ang pagsangga sa pinakaharapan ng CYBERATTACK, sa pag-ugnay nito sa Pamahalan ng UKRAINE, bago pa sumalakay ang RUSSIA.
+
+>　私たちの暮らしに大きな影響力を持つようになったビッグテックはいま、「国家の戦争」への関与をも深めています。ロシアの侵攻後、即座にウクライナ政府側とデータの国外移転策を話し合ったというアマゾン幹部は、その方法を明かしました。戦時のＩＴ企業の振る舞いと、世界が抱える課題を追っていきます。
+
+
+Malalim ang ugnayan ng mga BIG TECH sa "Digmaan ng Pamilyang Kaharian", dahil lumaki na ang dulot nito sa ating pamumuhay. Pagkatapos ng pagsalakay ng RUSSIA, niliwanag ng AMAZON.COM ang paraan gamit ang pakikipag-usap sa panig ng Pamahalaan ng UKRAINE ukol sa POLISIYA ng paglilipat palabas ng kanilang kaharian ng mga DATOS. Sinusundan ang pandaigdigang paksang ito, at ang pagkilos ng mga mangangalakal ng IT sa panahon ng digmaan.
+
+> 紛争への関与「イデオロギーよりもビジネス」との指摘も
+
+Sa alitan, kanila ring itinuro na "Higit pa sa IDEOLOGY, BUSINESS."
+
+#### https://www.asahi.com/articles/photo/AS20230112004384.html;
+last accessed: 20230118
+
+> 米アマゾンがウクライナ国外へのデータ転送で使った携帯型データ転送サーバー「スノーボール」（左下）。グレーのスーツケースのような形をしている=2022年11月30日、ラスベガス、五十嵐大介撮影
+
+TO-DO: -add: this
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く](https://www.asahi.com/articles/ASR1J61TVR1GUHBI01X.html?iref=comtop_7_07); last accessed: 20230117
 
 > 欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く
@@ -75,7 +134,55 @@ TO-DO: idagdag: ito;
 
 Nagbigay rin ang AMERIKA ng "HIMARS", ROCKET CANNON na sa malayong harapan, kayang mangwasak ng mga lagayan ng baril at gamot, ang COMMAND BASE, atbp.
 
->　フランスの軽戦車や米独の歩兵戦闘車の提供は一連の支援の中で3番目の局面に当たります。この第3局面は、ウクライナのゼレンスキー大統領の訪米に合わせて米国が決めた地対空ミサイル「パトリオット」の提供から始まったと考えています。
+>　フランスの軽戦車https://www.asahi.com/articles/ASR1D4QZ6R14UHBI014.html?iref=comtop_Tech_science_05;
+last accessed: 20230118
+
+> ロシアの侵攻前日、マイクロソフトが察知した異変　サイバー戦最前線
+
+Sa araw bago ang pagsalakay ng RUSSIA, nalaman ng MICRSOFT na may kakaiba; CYBER ATTACK sa pinakaharapan
+
+> 編集委員・五十嵐大介=サンフランシスコ、同・須藤龍也2023年1月17日 11時00分
+
+　
+Tagapagbuklod: IGARASHI, DAISUKE; SAN FRANCISCO;  SUDOU, TATSUYA; 2023-01-17T11:00
+
+> ロシア軍がウクライナに侵攻する前日の2022年2月23日。9千キロほど離れた米北西部のシアトル近郊で、ウクライナへのサイバー攻撃が察知された。
+
+Sa araw bago ang pagsalakay ng Sandatahang Lakas ng RUSSIA sa UKRAINE ng 2022-02-23. Nalaman sa banda sukdulan ng SEATTLE, sa hilagang-kanlurang bahagi ng AMERIKA, 9K kilometro ang layo sa pinangyarihan, ang CYBER ATTACK sa UKRAINE. 
+
+>　つかんだのは、マイクロソフト（MS）本社のサイバー攻撃を監視する部署「MS脅威インテリジェンスセンター」。ウクライナにある19の政府機関や、重要なインフラへの攻撃だった。
+
+Ang nakahuli, ang "MICROSOFT (MS) TERROR INTELLIGENCE CENTER" ng MS Headquarters (HQ) na nagbabantay ng mga CYBER ATTACK. Pagsalakay iyon sa Pamahalaan, mga kailangang INFRASTRAKTURA, atbp ng UKRAINE.
+
+>　センターはすぐに「盾」をつくった。コンピューターの動作に不正を起こさせる「マルウェア」を特定するためのソフトをつくり、ウクライナに送る。3時間足らずのできごとだった。
+
+Agad na bumuo ng "PANANGGA" ang CENTER. Gumawa ng "MALWARE", isang bukod-tanging software, na ipinagaganap sa KOMPYUTER ang MALING PAGKILOS, at ipinadala ito sa UKRAINE. Hindi pa aabot sa 3 oras ang gawaing ito.
+
+### Dagdag
+
+1. sa unang pagbasa sa Wikang Hapon, aakalaing gumawa ng MALWARE ang MICROSOFT
+
+<　「今回の戦争の最初の砲撃は、サイバー空間で放たれた。それを最初に目撃したのが我々だ」。MSのブラッド・スミス社長は5月、ロンドンでのイベントで胸を張り、過去の戦争の白黒写真を背に語った。
+
+"Sa kasalukuyang digmaan, inilalabas sa CYBERSPACE, ang pinakaunang Pagsalakay ng KANYON (CANNON ATTACK). Kami ang pinaka-unang nakakita ng pagsalakay na iyon." Sa ika-5 ng buwan, ipinagmalaking isinalaysay ito ng Pinuno ng MS, na si SMITH, BRAD, sa EVENT sa LONDON, sa likod ng puti't itim na larawan ng nakaraang digmaan.
+
+>　「（第1次世界大戦が起きた）1914年に人類の紛争は空へ、今年はサイバー空間へ移った」
+
+"Lumipat na ang alitan (noong naganap na ika-1 malaking pandaigdigang digmaan) ng sangkatauhan ng taong 1914, sa CYBERSPACE"
+
+>　米IT大手は、ロシアの侵攻前からウクライナ政府と連携し、サイバー戦の最前線の防御を担った。
+
+Inaako ng malaking gawaan ng IT ng Amerika ang pagsangga sa pinakaharapan ng CYBERATTACK, sa pag-ugnay nito sa Pamahalan ng UKRAINE, bago pa sumalakay ang RUSSIA.
+
+>　私たちの暮らしに大きな影響力を持つようになったビッグテックはいま、「国家の戦争」への関与をも深めています。ロシアの侵攻後、即座にウクライナ政府側とデータの国外移転策を話し合ったというアマゾン幹部は、その方法を明かしました。戦時のＩＴ企業の振る舞いと、世界が抱える課題を追っていきます。
+
+
+Malalim ang ugnayan ng mga BIG TECH sa "Digmaan ng Pamilyang Kaharian", dahil lumaki na ang dulot nito sa ating pamumuhay. Pagkatapos ng pagsalakay ng RUSSIA, niliwanag ng AMAZON.COM ang paraan gamit ang pakikipag-usap sa panig ng Pamahalaan ng UKRAINE ukol sa POLISIYA ng paglilipat palabas ng kanilang kaharian ng mga DATOS. Sinusundan ang pandaigdigang paksang ito, at ang pagkilos ng mga mangangalakal ng IT sa panahon ng digmaan.
+
+> 紛争への関与「イデオロギーよりもビジネス」との指摘も
+
+Sa alitan, kanila ring itinuro na "Higit pa sa IDEOLOGY, BUSINESS."
+や米独の歩兵戦闘車の提供は一連の支援の中で3番目の局面に当たります。この第3局面は、ウクライナのゼレンスキー大統領の訪米に合わせて米国が決めた地対空ミサイル「パトリオット」の提供から始まったと考えています。
 
 Nasa loob ng ika-3 bahagi ang tulong mula sa AMERIKA at ALEMANYA, ang pamamahagi ng mga sasakyan laban sa mga naglalakad na sundalo, mga magagaang sasakyang pandigma ng PRANSIYA, atbp. Maiisip na nagsimula ang mga ito sa pagtulong na pinagpasiyahan ng AMERIKA sa pamamahagi ng "PATRIOT", ang ANTI-AIR sa lupa, nang dumalaw si Pangulong ZELENSKY ng UKRAINE sa AMERIKA.
 
