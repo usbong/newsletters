@@ -24,7 +24,7 @@ Tagapagbuklod: IGARASHI, DAISUKE; SAN FRANCISCO;  SUDOU, TATSUYA; 2023-01-17T11:
 
 > ロシア軍がウクライナに侵攻する前日の2022年2月23日。9千キロほど離れた米北西部のシアトル近郊で、ウクライナへのサイバー攻撃が察知された。
 
-Nang 2022-02-23, sa araw bago ang pagsalakay ng Sandatahang Lakas ng RUSSIA sa UKRAINE. Nalaman sa banda sukdulan ng SEATTLE, 9K kilometro ang layo, sa hilagang-kanlurang bahagi ng AMERIKA, ang CYBER ATTACK sa UKRAINE. 
+Nang 2022-02-23, ang araw bago ang pagsalakay ng Sandatahang Lakas ng RUSSIA sa UKRAINE. Nalaman sa banda sukdulan ng SEATTLE, 9K kilometro ang layo, sa hilagang-kanlurang bahagi ng AMERIKA, ang CYBER ATTACK sa UKRAINE. 
 
 >　つかんだのは、マイクロソフト（MS）本社のサイバー攻撃を監視する部署「MS脅威インテリジェンスセンター」。ウクライナにある19の政府機関や、重要なインフラへの攻撃だった。
 
