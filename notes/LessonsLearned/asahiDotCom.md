@@ -24,7 +24,7 @@ Tagapagbuklod: IGARASHI, DAISUKE; SAN FRANCISCO;  SUDOU, TATSUYA; 2023-01-17T11:
 
 > ロシア軍がウクライナに侵攻する前日の2022年2月23日。9千キロほど離れた米北西部のシアトル近郊で、ウクライナへのサイバー攻撃が察知された。
 
-Sa araw bago ang pagsalakay ng Sandatahang Lakas ng RUSSIA sa UKRAINE ng 2022-02-23. Nalaman sa banda sukdulan ng SEATTLE, 9K kilometro ang layo, sa hilagang-kanlurang bahagi ng AMERIKA, ang CYBER ATTACK sa UKRAINE. 
+Nang 2022-02-23, sa araw bago ang pagsalakay ng Sandatahang Lakas ng RUSSIA sa UKRAINE. Nalaman sa banda sukdulan ng SEATTLE, 9K kilometro ang layo, sa hilagang-kanlurang bahagi ng AMERIKA, ang CYBER ATTACK sa UKRAINE. 
 
 >　つかんだのは、マイクロソフト（MS）本社のサイバー攻撃を監視する部署「MS脅威インテリジェンスセンター」。ウクライナにある19の政府機関や、重要なインフラへの攻撃だった。
 
@@ -59,6 +59,38 @@ Malalim ang ugnayan ng mga BIG TECH sa "Digmaan ng Pamilyang Kaharian", dahil lu
 
 Sa alitan, kanila ring itinuro na "Higit pa sa IDEOLOGY, BUSINESS."
 
+### ELAPSED TIME: 44mins
+
+including additional tasks at, e.g. call center, cashier accounting;
+
+#### +ERRATUM: 44+MINS
+
+1) suburb distance; 9km
+
+2) date stamp; day before
+
+
+### --
+
+> ロシアの侵攻前日、マイクロソフトが察知した異変　サイバー戦最前線
+
+The day before the ATTACK from RUSSIA, MICROSOFT had picked up an UNUSUAL CHANGE; CYBER ATTACK at the FRONT-LINES
+
+
+> 編集委員・五十嵐大介=サンフランシスコ、同・須藤龍也2023年1月17日 11時00分
+
+EDITORS: IGARASHI, DAISUKE; SAN FRANCISCO;  SUDOU, TATSUYA; 2023-01-17T11:00
+
+> ロシア軍がウクライナに侵攻する前日の2022年2月23日。9千キロほど離れた米北西部のシアトル近郊で、ウクライナへのサイバー攻撃が察知された。
+
+2022-02-23, the day before the ATTACK to UKRAINE by the RUSSIAN ARMY. In NORTH AMERICA, at the SEATTLE SUBURBS, about 9K kilometers far, the CYBER ATTACK to UKRAINE had been picked up.
+
+### NOTE
+
+date stamp: 2022-02-23
+
+TO-DO: -update: this
+
 #### https://www.asahi.com/articles/photo/AS20230112004384.html;
 last accessed: 20230118
 
@@ -70,11 +102,7 @@ TO-DO: -add: this
 
 GOOGLE SEARCH ENGINE; TRANSLATE
 
-### ELAPSED TIME: 44mins
 
-including additional tasks at, e.g. call center, cashier accounting;
-
-#### +ERRATUM: 45=44+1mins
 
 
 ## [欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く](https://www.asahi.com/articles/ASR1J61TVR1GUHBI01X.html?iref=comtop_7_07); last accessed: 20230117
