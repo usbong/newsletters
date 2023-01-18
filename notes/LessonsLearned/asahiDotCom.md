@@ -70,6 +70,9 @@ TO-DO: -add: this
 
 GOOGLE SEARCH ENGINE; TRANSLATE
 
+### ELAPSED TIME: 44mins
+
+including additional tasks at, e.g. call center, cashier accounting;
 
 ## [欧米で相次ぐ戦闘車提供、このタイミングの理由　軍事コンサルに聞く](https://www.asahi.com/articles/ASR1J61TVR1GUHBI01X.html?iref=comtop_7_07); last accessed: 20230117
 
