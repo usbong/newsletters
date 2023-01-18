@@ -10,7 +10,7 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
-## https://www.twitch.tv/jwonggg; last accessed: 20230118 (Philippine Time); from 20230117
+## https://twitter.com/JWonggg/; last accessed: 20230118 (Philippine Time); from 20230117
 
 > NEW YOUTUBE VIDEO
 
@@ -61,7 +61,7 @@ Although I say such things, really from hereon, let’s go do our best!
 </td></tr>
 </table>
 
-## https://www.twitch.tv/jwonggg; last accessed: 20230117 (Philippine Time); from 20230116
+## https://twitter.com/JWonggg/; last accessed: 20230117 (Philippine Time); from 20230116
 
 > NEW YOUTUBE VIDEO
 
