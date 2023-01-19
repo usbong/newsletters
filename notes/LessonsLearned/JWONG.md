@@ -37,21 +37,37 @@ Breakers Collectionが、正式的にリリースされて、凄いぞ！ @qubyt
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
-正直、T.HAWKが出るまで、気づいてなかった。00:15:53が経つまで。
+> 正直、T.HAWKが出るまで、気づいてなかった。00:15:53が経つまで。
 
-サガットからの下に弱タイガーを放ったら、上に強タイガーを。ダルシムのような推測作戦を思い出したが、セットの一番めのマッチで勝ったら、JWONGさんの側に「SUPER」が、前から無かったと。
+To be honest, until T.HAWK came out, I did not notice. 00:15:53 had passed.
 
-それ気づいて、調べてみたら、最初のリュウ（オリジナル色）にも無かった。
+> サガットからの下に弱タイガーを放ったら、上に強タイガーを。ダルシムのような推測作戦を思い出したが、セットの一番目のマッチで勝ったら、JWONGさんの側に「SUPER」が、前から無かったと。
 
-だが、相手の春麗がチャレンジしてくる時、JWONGさんのサガットが、相手に「SUPER」をやらせるように、見れて、やはり試合でなく、エンターテイメントとしての動画を見せるためかっと。
+It was at the part where SAGAT was releasing a WEAK TIGER below, and then above, a STRONG TIGER, that I remembered the PREDICTING FIGHTING STRATEGY as that of DHALSIM. When you won in the first match of the set, I observed that there was no "SUPER" at your side since previously.
 
-そう言えば、ナレーターさんたちの声なんだけど、サムライスピリッツの試合動画で聞いたことあるね。
+> それ気づいて、調べてみたら、最初のリュウ（オリジナル色）にも無かった。
 
-で、JWONGさんのコントローラのほうが何か壊れてるかどうかね。動画を見るだけで、JWONGさんに確認しないと、すぐわかるわけではない。
+Noticing it, I investigated, and observed that the first RYU (ORIGINAL COLOR) also did not have it.
 
-ゲームセンターに行った時、そういうアーケード機もあるね。そう入ってるゲームセンターだと、良く店長さんの代わりに多くの店員さんが居ると思い出す。つまり、店員が居なく、店長さんだけが居る現場だと、コントローラーが壊れてる状態は無い覚えがある。
+> だが、相手の春麗がチャレンジしてくる時、JWONGさんのサガットが、相手に「SUPER」をやらせるように、見れて、やはり試合でなく、エンターテイメントとしての動画を見せるためかっと。
 
-と言うが、スフトのほうに、何かいじってたこともあると、こっちはわからなかったな。最初からストリートファイターに勝てなかったし。それは、SFゼロ３が出るまでな。
+But when the opponent as CHUN-LI came to CHALLENGE, I saw that you as SAGAT appeared to be making the opponent do a "SUPER". I thought that the match was not after all a COMPETITION, but a VIDEO to be shown as ENTERTAINMENT.
+
+> そう言えば、ナレーターさんたちの声なんだけど、サムライスピリッツの試合動画で聞いたことあるね。
+
+Speaking of this, on the NARRATORS' voice, I have heard them from the SAMURAI SPIRITS COMPETITION VIDEOS. 
+
+> で、JWONGさんのコントローラのほうが何か壊れてるかどうかね。動画を見るだけで、JWONGさんに確認しないと、すぐ分かるわけではない。
+
+And, on whether or not your controller was broken, it cannot be quickly classified, viewing only the video, and without your confirmation.
+
+> ゲームセンターに行った時、そういうアーケード機もあるね。そう入ってるゲームセンターだと、良く店長さんの代わりに多くの店員さんが居ると思い出す。つまり、店員が居なく、店長さんだけが居る現場だと、コントローラーが壊れてる状態は無い覚えがある。
+
+During the time when I went to GAME CENTERS, there were such ARCADE MACHINES. At GAME CENTERS where such were included, I remember that, often, instead of the STORE OWNER, there would be plenty of STORE persons. So, when there is only the STORE OWNER, and no STORE persons at the site, I remember that there would NO situation where the CONTROLLER is BROKEN. 
+
+> と言うが、スフトのほうに、何かいじってたこともあると、こっちはわからなかったな。最初からストリートファイターに勝てなかったし。それは、SFゼロ#３が出るまでな。
+
+Saying this, however, at the side of the SOFTWARE, I would know not know if there was anything that was tinkered. Since from the start, I could not really WIN in STREET FIGHTER. But that is only until SF ZERO#3 came out.
 
 </td></tr>
 </table>
