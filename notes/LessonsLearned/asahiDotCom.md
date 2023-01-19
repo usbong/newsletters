@@ -40,11 +40,11 @@ Tinutugunan naman ng META ng AMERIKA, na namamalakad din ng FACEBOOK (FB), atbp,
 
 naaalala: ko nang sinubukan kong kunin (download) ang buong wikipedia, mga 10 taon na ang nakalilipas; <br/>
 --> OUTPUT: ERROR;<br/>
---> pakay: ihanda ang sarili; kapag WALANG INTERNET; OFFLINE; ano mga kailangan; SURVIVAL; <br/>
+--> pakay: ihanda ang sarili; kapag WALANG INTERNET; OFFLINE; ano ang mga kailangan; SURVIVAL; <br/>
 --> maaalala: rin ayon sa aking nakababatang kapatid na lalake, na tulad sa aking binasang, "MAN'S SEARCH FOR MEANING" ni FRANKL, VIKTOR, sa panahon ng digmaan, may HALAGA ang Manggagamot (HUDYO man);<br/>
---> Ang mga nasa I.T./kompyuter naman, hindi, sapagkat kapag mawalan ng kuryente, hindi na kikilos ang mga makina.<br/>
+--> Ang mga nasa I.T./kompyuter naman, hindi, sapagkat kapag mawalan ng kuryente, hindi na raw kikilos ang mga makina.<br/>
 --> Sinagot ko naman, na kapag walang GAMOT, hindi na iyon MANGGAGAMOT.<br/>
---> Sa mga panahong iyon, sinabihan niya rin akong hango sa ROBOT na magsalita, dahil nabahagi ko sa kaniya na katatapos ko lamang ng A.I. (Advanced) sa online na kurso ng mga Guro sa Stanford Univesity.<br/>
+--> Sa mga panahong iyon, sinabihan niya rin akong hango sa ROBOT na akong magsalita, dahil nabahagi ko sa kaniya na katatapos ko lamang ng A.I. (Advanced) sa online na kurso ng mga Guro sa Stanford Univesity.<br/>
 --> mapapansin: ding pagkatapos nito, itinuloy ko ang pag-aaral ng Wikang Chinese Mandarin, at nagsimulang mag-aral ng ESPANYOL;<br/>
 --> maaalala: mula sa pangalan ng aking nakababatang kapatid, ang "JSYSON" na APARTMENT sa Malate, Manila,<br/>
 --> kung saan naroon noon namalagi ang aming AMAH (LOLA),<br/>
