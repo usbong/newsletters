@@ -63,7 +63,7 @@ And, on whether or not your controller was broken, it cannot be quickly classifi
 
 > ゲームセンターに行った時、そういうアーケード機もあるね。そう入ってるゲームセンターだと、良く店長さんの代わりに多くの店員さんが居ると思い出す。つまり、店員が居なく、店長さんだけが居る現場だと、コントローラーが壊れてる状態は無い覚えがある。
 
-During the time when I went to GAME CENTERS, there were such ARCADE MACHINES. At GAME CENTERS where such were included, I remember that, often, instead of the STORE OWNER, there would be plenty of STORE persons. So, when there is only the STORE OWNER, and no STORE persons at the site, I remember that there would NO situation where the CONTROLLER is BROKEN. 
+During the time when I went to GAME CENTERS, there were such ARCADE MACHINES. At GAME CENTERS where such were included, I remember that, often, instead of the STORE OWNER, there would be plenty of STORE persons. So, when there is only the STORE OWNER, and no STORE persons at the site, I remember that there would be NO situation where the CONTROLLER was BROKEN. 
 
 > と言うが、スフトのほうに、何かいじってたこともあると、こっちはわからなかったな。最初からストリートファイターに勝てなかったし。それは、SFゼロ#３が出るまでな。
 
