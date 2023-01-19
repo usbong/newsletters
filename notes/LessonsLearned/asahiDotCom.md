@@ -12,6 +12,46 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+## [ネット空間でロシアを「遮断」企業判断に委ねる危うさ　国際法の空白](https://www.asahi.com/articles/ASR1D51YMR14UHBI015.html?iref=comtop_Tech_science_05); last accessed: 20230119
+
+> ネット空間でロシアを「遮断」企業判断に委ねる危うさ　国際法の空白
+
+Sa kalawakan ng INTERNET, ang panganib ng pagsalalay sa pagpapasiya ng mga Mangangalakal na IBUKOD ang RUSSIA; Patlang sa Pandaigdigang Batas 
+
+> 編集委員・五十嵐大介=サンフランシスコ、同・須藤龍也2023年1月18日 9時30分
+
+IGARASHI, DAISUKE; SAN FRANCISCO; 
+SUDOU, TATSUYA; 2023-01-18T09:30
+
+
+>　戦時のIT企業は、支援の形で国家に影響力を持つだけではなく、プラットフォームを通じて市民を巻き込む情報戦のカギも握る。
+
+Sa panahon ng digmaan, hindi lamang ang may dulot na lakas sa Pamilyang Kaharian, sa anyo ng pagtulong, ang dala ng mga IT na Mangangalakal. Hawak din ng mga PLATAPORMA ang susi sa LABANAN ng BALITA, sa mga sankot na mga Mamamayan at Lungsod.
+
+>　ロシアのウクライナ侵攻後、米大手SNSは「偽情報」の拡散防止などに追われた。ツイッターによると、侵攻直後のロシア国営メディアの投稿を共有するツイートは1日平均約2万件から約6万5千件に急増。ロシア側のプロパガンダが広まる可能性から、同社は1週間でその露出を約8割減らしたという。
+
+Pagkatapos ng pagsalakay sa UKRAINE ng RUSSIA, hinabol ang mga Malalaking SNS na PAGAWAAN ng AMERIKA ng mga "PEKE/PANLOLOKONG BALITA". Ayon sa TWITTER, mabilis na tumaas mula sa karaniwang mga nasa 20K na POST sa isang araw tungo sa 65K, ang mga ibinahagi na POST ng MEDIA ng Kaharian ng RUSSIA. Dahil may kakayanang magpalaganap ng PROPAGANDA sa panig ng RUSSIA, binawasan daw ng TWITTER ang mga lumabas na post ng mga 80% sa loob ng isang linggo.
+
+> フェイスブック（FB）などを運営し、世界人口の半分に迫る約37億人の月間利用者を持つ米メタは、ウクライナ語やロシア語がわかるスタッフらの専門チームで対応。FBなどでロシア国営メディアへのアクセスなどを制限し、FBはロシア当局からアクセスを遮断された。世界最大の動画投稿サイト「ユーチューブ」はロシア国営メディアをブロックした。
+
+Tinutugunan naman ng META ng AMERIKA, na namamalakad din ng FACEBOOK (FB), atbp, ang kanilang palapit sa mga 3.7 Bilyong kataong gumagamit nito sa loob ng isang buwan, sa pamamagitan ng pangkat ng mga dalubhasang nakauunawa ng Wikang RUSO, UKRAINE, atbp. Ibinukod ng FB sa pagpasok (access) sa FB, atbp ang Kaharian ng RUSSIA, tulad ng kanilang MEDIA. Ginawan din ng BLOCKING ng YOUTUBE ang MEDIA ng RUSSIA sa kanilang site, na may pinakamalaking VIDEO POSTING sa daigdig.
+
+### Dagdag
+
+naaalala: ko nang sinubukan kong kunin (download) ang buong wikipedia, mga 10 taon na ang nakalilipas; <br/>
+--> OUTPUT: ERROR;<br/>
+--> pakay: ihanda ang sarili; kapag WALANG INTERNET; OFFLINE; ano mga kailangan; SURVIVAL; <br/>
+--> maaalala: rin ayon sa aking nakababatang kapatid na lalake, na tulad sa aking binasang, "MAN'S SEARCH FOR MEANING" ni FRANKL, VIKTOR, sa panahon ng digmaan, may HALAGA ang Manggagamot (HUDYO man);<br/>
+--> Ang mga nasa I.T./kompyuter naman, hindi, sapagkat kapag mawalan ng kuryente, hindi na kikilos ang mga makina.<br/>
+--> Sinagot ko naman, na kapag walang GAMOT, hindi na iyon MANGGAGAMOT.<br/>
+--> Sa mga panahong iyon, sinabihan niya rin akong hango sa ROBOT na magsalita, dahil nabahagi ko sa kaniya na katatapos ko lamang ng A.I. (Advanced) sa online na kurso ng mga Guro sa Stanford Univesity.<br/>
+--> mapapansin: ding pagkatapos nito, itinuloy ko ang pag-aaral ng Wikang Chinese Mandarin, at nagsimulang mag-aral ng ESPANYOL;<br/>
+--> maaalala: mula sa pangalan ng aking nakababatang kapatid, ang "JSYSON" na APARTMENT sa Malate, Manila,<br/>
+--> kung saan naroon noon namalagi ang aming AMAH (LOLA),<br/>
+--> at isa sa pinanggagalingan ng PERA ng MANLOLOKO/CYBERCRIMINAL/SMUGGLER/CARNAPPER na kapatid ni DR PEDRO na si SYSON, RAMON at ang kaniyang pamilya;<br/>
+--> May POLICE REPORT na ito;
+
+
 ## [ロシアの侵攻前日、マイクロソフトが察知した異変　サイバー戦最前線](https://www.asahi.com/articles/ASR1D4QZ6R14UHBI014.html?iref=comtop_Tech_science_05); last accessed: 20230118
 
 > ロシアの侵攻前日、マイクロソフトが察知した異変　サイバー戦最前線
