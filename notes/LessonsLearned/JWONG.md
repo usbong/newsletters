@@ -9,6 +9,22 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+
+## https://twitter.com/JWonggg/; last accessed: 20230119 (Philippine Time); from 20230118
+
+> NEW YOUTUBE VIDEO 
+
+新しいYOUTUBE動画
+
+> Breakers Collection is officially out and it’s amazing!! The fact @qubytegames added a team battle mode is the best!! 
+
+Breakers Collectionが、正式的にリリースされて、凄いぞ！ @qubytegamesが、実にチームバトルモードも入れといて、最高！
+
+> Check it out: https://youtu.be/3ByJNZc2lJQ
+
+こちらをどうぞ！https://youtu.be/3ByJNZc2lJQ
+
+
 ## https://www.twitch.tv/videos/1709097238; last accessed: 20230119 (Philippine Time); from 20230118
 
 > JWONG IN JAPAN - PLAYING AT BIGONE<br/>
