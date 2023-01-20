@@ -48,7 +48,7 @@ To recover from a previous disaster, since the 94's, dubbed as the world's first
 
 >　映像を見ながら油圧ショベルで土砂を掘削し、ダンプの操作はボタンを押すだけ。GPSを使い自動走行させたという。他のゼネコンで無人化施工にあたった経験のある社員がサポートした。
 
-To clear soil with the oil-pressured SHOVEL, DUMP CONTROLS was done by only pressing BUTTONS, while viewing displayed IMAGES. It is said that GPS was used to automatically make the machine move. There was also support from company employees who had experience in unmanned engineering operations at another CONSTRUCTION site.
+To clear soil with the oil-pressured SHOVEL, DUMP CONTROL was done by only pressing BUTTONS, while viewing displayed IMAGES. It is said that GPS was used to automatically make the machine move. There was also support from company employees who had experience in unmanned engineering operations at another CONSTRUCTION site.
 
 
 #### Note:
