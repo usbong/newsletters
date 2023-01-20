@@ -44,7 +44,7 @@ Details of work was said to be of using a remote control to carry accumulated vo
 
 > 災害復旧のため、94年から世界初といわれる無人化施工で、大規模なゼネコンを主体に20年以上かけてダムや堰堤（えんてい）などの構造物が完成した。
 
-To recover from a previous disaster, since the 94's, dubbed as the world's first unmanned engineering operation, large-scale CONSTRUCTION of infrastructure, such as DAMS, were completed, mainly taking over 20 years.
+To recover from a previous disaster, since the year 1994, dubbed as the world's first unmanned engineering operation, large-scale CONSTRUCTION of infrastructure, such as DAMS, were completed, mainly taking over 20 years.
 
 >　映像を見ながら油圧ショベルで土砂を掘削し、ダンプの操作はボタンを押すだけ。GPSを使い自動走行させたという。他のゼネコンで無人化施工にあたった経験のある社員がサポートした。
 
