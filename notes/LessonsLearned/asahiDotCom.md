@@ -12,6 +12,66 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> Sapagkat humahaba ang pangungusap na isinalin sa Wikang Filipino,<br/> 
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
+
+## [重機の「リモートワーク」へ女性事務員が転身　いずれプロゲーマーも](https://www.asahi.com/articles/ASR1L3JT6R15PLBJ001.html?iref=comtop_Tech_science_04); last accessed: 20230120
+
+> 重機の「リモートワーク」へ女性事務員が転身　いずれプロゲーマーも
+
+Transforming the FEMALE WORKER towards "REMOTE WORK" of HEAVY MACHINERY; Eventually PRO GAMERS too
+
+### Note:
+
+observed: katakana words, e.g. プロゲーマー (PRO GAMER), リモートワーク (REMOTE WORK), caused self to unintentionally use ENGLISH, instead of FILIPINO as the language for the translation;
+
+
+> 鈴木智之 高橋豪2023年1月19日 18時00分
+
+SUZUKI, TOMOYUKI; TAKAHASHI, GOU; 2023-01-19T18:00
+
+
+> やりたくない……。
+
+I didn't want to use it....
+
+> だが、辰田さん起用の背景には、会社側のある思いがあった。「技術者として仕事の幅を広げるとともに、デジタル技術によって安全で体力面でも不利にならない女性活躍のモデルケースにしたい」
+
+But behind Ms TATSUDA's cause for its use, was the thought of the side of the company. "As a Technologist, with the widening field of WORK, I want to be the MODEL CASE of the active female who does not become a disadvantage on the excuse of SAFETY and physical strength."
+
+> 仕事は、雲仙普賢岳のふもとにたまった噴火堆積（たいせき）物を遠隔操作で運ぶという内容だった。
+
+Details of work was said to be of using a remote control to carry accumulated volcano trash at the foot of MT. UNZEN.
+
+> 災害復旧のため、94年から世界初といわれる無人化施工で、大規模なゼネコンを主体に20年以上かけてダムや堰堤（えんてい）などの構造物が完成した。
+
+To recover from a previous disaster, since the 94's, dubbed as the world's first unmanned engineering operation, large-scale CONSTRUCTION of infrastructure, such as DAMS, were completed, mainly taking over 20 years.
+
+>　映像を見ながら油圧ショベルで土砂を掘削し、ダンプの操作はボタンを押すだけ。GPSを使い自動走行させたという。他のゼネコンで無人化施工にあたった経験のある社員がサポートした。
+
+To clear soil with the oil-pressured SHOVEL, DUMP CONTROLS was done by only pressing BUTTONS, while viewing displayed IMAGES. It is said that GPS was used to automatically make the machine move. There was also support from company employees who had experience in unmanned engineering operations at another CONSTRUCTION site.
+
+
+#### Note:
+
+1) added: "also " in "There was also support..."
+
+>　嫌々始めた辰田さんも「やってみたら楽しかった。作業環境が良すぎた」と顔をほころばせる。
+
+Even Ms TATSUDA who at first disliked it, now says, "It was fun after I saw to doing it. The WORK environment was exceptional," she says with a proud face.
+
+#### Note:
+
+1) added: "now" in "at first disliked it, now says..."
+
+
+>「きつい、汚い、危険」という３Ｋのイメージがつきまとう建設業界に、ゲームやＳＦ映画のような世界が広がり始めています。リモート操作に、ドローンやロボットの活用。テクノロジーは魅力あふれる職場を作り、人手不足を解消するのでしょうか。
+
+In the building industry, where there exist the 3 images of "Strict, Dirty, Dangerous", its world is widely beginning to be as that of GAMES and SCI-FICTION MOVIES. There is already active use of DRONES and ROBOTS using REMOTE CONTROLS. Is it still a wonder if the problem of lack of a human workforce shall be solved, by creating a workplace that is overflowing with delight for technology?
+
+
+### Reference
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [ネット空間でロシアを「遮断」企業判断に委ねる危うさ　国際法の空白](https://www.asahi.com/articles/ASR1D51YMR14UHBI015.html?iref=comtop_Tech_science_05); last accessed: 20230119
 
 > ネット空間でロシアを「遮断」企業判断に委ねる危うさ　国際法の空白
