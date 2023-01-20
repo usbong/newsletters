@@ -34,9 +34,9 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 The reason why I remembered "MAGIC THE GATHERING" is not because the word, "MAGIC", appears when ZANGIEF's "MAGIC HAND" comes out.
 
-> それどころか、「 add　time 」から見ると、スゴイ攻撃パワーで、サガットとしてのJWONGさんが相手にセットアップされ、DP（タイガーアッパーカット）ができず、ガードしかできなくなる状態となったことからだ。
+> それどころか、「[12:02](https://youtu.be/UwhXlI4CgUA?t=722)」から見ると、スゴイ攻撃パワーで、サガットとしてのJWONGさんが相手にセットアップされ、DP（タイガーアッパーカット）ができず、ガードしかできなくなる状態となったことからだ。
 
-Instead, from viewing 「 add　time 」, JWONG as SAGAT was set-up by his opponent using tremendous ATTACK POWER, and he could not DP (TIGER UPPERCUT), and was at a situation where he could only GUARD.
+Instead, from viewing 「[12:02](https://youtu.be/UwhXlI4CgUA?t=722)」, JWONG as SAGAT was set-up by his opponent using tremendous ATTACK POWER, and he could not DP (TIGER UPPERCUT), and was at a situation where he could only GUARD.
 
 > やっぱ、こう見ると、競争するための試合だなぁと。 つまり、何かの異動を見せるためのエンターテインメントではない。
 
@@ -58,7 +58,7 @@ This is only a viewer's point of view, because I always do things earnestly, but
 
 But, when it is revealed that I am winning, the DIFFICULTY level excessively increases, such that even if I say that we keep this secret, I won't say that kind of "DIFFICULT" thing.
 
-> おっと、今日も、また糸井重里さんのことを思い出しちゃって、どうも！
+> おっと、今日も、また[糸井重里さん](https://www.1101.com/home.html)のことを思い出しちゃって、どうも！
 
 Huh! Today, too, I remembered Mr ITOI, SHIGESATO, THANKS!
 
