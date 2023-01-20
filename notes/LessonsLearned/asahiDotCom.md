@@ -19,7 +19,7 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 
 Transforming the FEMALE WORKER towards "REMOTE WORK" of HEAVY MACHINERY; Eventually PRO GAMERS too
 
-### Note:
+#### Note:
 
 observed: katakana words, e.g. プロゲーマー (PRO GAMER), リモートワーク (REMOTE WORK), caused self to unintentionally use ENGLISH, instead of FILIPINO as the language for the translation;
 
@@ -28,6 +28,7 @@ observed: katakana words, e.g. プロゲーマー (PRO GAMER), リモートワ�
 
 SUZUKI, TOMOYUKI; TAKAHASHI, GOU; 2023-01-19T18:00
 
+### Short Summary
 
 > やりたくない……。
 
