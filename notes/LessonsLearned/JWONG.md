@@ -30,22 +30,38 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-「マジック・ザ・ギャザリング」を思い出した理由は、サンギェフの「マジックハンド」が出てきて、「マジック」という言葉が現れるからという訳ではない。
+> 「マジック・ザ・ギャザリング」を思い出した理由は、サンギェフの「マジックハンド」が出てきて、「マジック」という言葉が現れるからという訳ではない。
 
-それどころか、「 add　time 」から見ると、スゴイ攻撃パワーで、サガットとしてのJWONGさんが相手にセットアップされ、DP（タイガーアッパーカット）ができず、ガードしかできなくなる状態となったことからだ。
+The reason why I remembered "MAGIC THE GATHERING" is not because the word, "MAGIC", appears when ZANGIEF's "MAGIC HAND" comes out.
 
-やっぱ、こう見ると、競争するための試合だなぁと。
-つまり、何かの異動を見せるためのエンターテインメントではない。
+> それどころか、「 add　time 」から見ると、スゴイ攻撃パワーで、サガットとしてのJWONGさんが相手にセットアップされ、DP（タイガーアッパーカット）ができず、ガードしかできなくなる状態となったことからだ。
 
-というと、卓球のオリンピック試合も見ると、中国対中国なんだけど、何か普通でない行動をやっちゃうと、その選手が、ボールを落としちゃうと、わかるね。
+Instead, from viewing 「 add　time 」, JWONG as SAGAT was set-up by his opponent using tremendous ATTACK POWER, and he could not DP (TIGER UPPERCUT), and was at a situation where he could only GUARD.
 
-おもろいと言えるかもしれないけれど、真面目にやってないと見えるので、負け。
+> やっぱ、こう見ると、競争するための試合だなぁと。 つまり、何かの異動を見せるためのエンターテインメントではない。
 
-これは、こっちの客観的な観点だけなんだけど、いつも真面目にやっているから、そのせいであろうか、よく負けられると見えるが、勝つ時もあるね。
+As it turns out, looking at it this way, I thought that it was a MATCH for the sake of competition. So, it was not ENTERTAINMENT for the sake of showing something like unusual movement.
 
-だが、勝っているよということがバレちゃったら、難易度が余計に上がったりするから、内緒にせよと言えども、そんな「むつかしい」ことは言わない。
+> というと、卓球のオリンピック試合も見ると、中国対中国なんだけど、何か普通でない行動をやっちゃうと、その選手が、ボールを落としちゃうと、わかるね。
 
-おっと、今日も、また糸井重里さんのことを思い出しちゃって、どうも！
+Saying this, even when we look at TABLE TENNIS OLYMPIC matches, and even with CHINA against CHINA, if the Athlete does some action that is not the usual, we learn that the Athlete shall end up losing the ball.
+
+> おもろいと言えるかもしれないけれど、真面目にやってないと見えるので、負け。
+
+We may say that it's interesting, but it's a LOSS, because it looks like things are not done in earnest.
+
+> これは、こっちの客観的な観点だけなんだけど、いつも真面目にやっているから、そのせいであろうか、よく負けられると見えるが、勝つ時もあるね。
+
+This is only a viewer's point of view, because I always do things earnestly, but perhaps because of that, it looks like I often lose, albeit there are times when I also win.
+
+> だが、勝っているよということがバレちゃったら、難易度が余計に上がったりするから、内緒にせよと言えども、そんな「むつかしい」ことは言わない。
+
+But, when it is revealed that I am winning, the DIFFICULTY level excessively increases, such that even if I say that we keep this secret, I won't say that kind of "DIFFICULT" thing.
+
+> おっと、今日も、また糸井重里さんのことを思い出しちゃって、どうも！
+
+Huh! Today, too, I remembered Mr ITOI, SHIGESATO, THANKS!
+
 
 </td></tr>
 </table>
