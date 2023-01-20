@@ -69,6 +69,10 @@ Even Ms TATSUDA who at first disliked it, now says, "It was fun after I saw to d
 In the building industry, where there exist the 3 images of "Strict, Dirty, Dangerous", its world is widely beginning to be as that of GAMES and SCI-FICTION MOVIES. There is already active use of DRONES and ROBOTS using REMOTE CONTROLS. Is it still a wonder if the problem of lack of a human workforce shall be solved, by creating a workplace that is overflowing with delight for technology?
 
 
+#### Note:
+
+1) added: "still " in "Is it still a wonder..."
+
 ### Reference
 
 GOOGLE SEARCH ENGINE; TRANSLATE
