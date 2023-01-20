@@ -10,6 +10,22 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://twitter.com/JWonggg/; last accessed: 20230120 (Philippine Time); from 20230119
+
+> NEW YOUTUBE VIDEO 
+
+新しいYOUTUBE動画
+ 
+> Man…. I fought some of the best ST players in the World… It was an experience all right 
+
+ったく、何人かの世界最高のSTプレイヤーらと戦って、やっぱ、最高な体験だった！
+
+> Check it out: https://youtu.be/UwhXlI4CgUA
+
+こちらをどうぞ！https://youtu.be/UwhXlI4CgUA
+
+
+
 ## https://twitter.com/JWonggg/; last accessed: 20230119 (Philippine Time); from 20230118
 
 > NEW YOUTUBE VIDEO 
