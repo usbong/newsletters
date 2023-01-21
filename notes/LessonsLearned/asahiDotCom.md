@@ -34,7 +34,7 @@ Three (3) HEAVY MACHINERY in HIRAKATA CITY, OSAKA<br/>
 
 ### Note#2
 
-wore sequence; "TSUKUBA CITY, IBARAKI Prefecture"
+word sequence; "TSUKUBA CITY, IBARAKI Prefecture"
 
 
 ## [重機の「リモートワーク」へ女性事務員が転身　いずれプロゲーマーも](https://www.asahi.com/articles/ASR1L3JT6R15PLBJ001.html?iref=comtop_Tech_science_04); last accessed: 20230120
