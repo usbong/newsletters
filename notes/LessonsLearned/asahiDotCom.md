@@ -13,6 +13,30 @@ TO-DO: -build: system to QUICKLY share INFORMATION/KNOW-HOW with PUBLIC
 --> kapag inayon ito sa daloy ng Wikang Hapon, gamitin ang mga ito: ":", ";"
 
 
+
+## [大林組が開発した遠隔操作システム。実演会では400キロ以上離れた大阪府枚方市にある3台の重機を1人で同時に動かしていた=2022年11月22日、茨城県つくば市、高橋豪撮影](https://www.asahi.com/articles/photo/AS20230118001369.html?iref=pc_photo_gallery_prev_arrow); last accessed: 20230120
+
+> 大林組が開発した遠隔操作システム。実演会では400キロ以上離れた大阪府枚方市にある3台の重機を1人で同時に動かしていた
+
+REMOTE CONTROL SYSTEM developed by OBAYASHI GROUP. Three (3) HEAVY MACHINERY in HIRAKATA CITY, OSAKA were moved simultaneously by one person whose location was over 400km far.
+
+### Note#1
+
+> 400キロ以上離れた大阪府枚方市にある3台の重機
+
+Three (3) HEAVY MACHINERY in HIRAKATA CITY, OSAKA<br/>
+<br/>
+--> adds: use of "in", "whose", et cetera
+
+> =2022年11月22日、茨城県つくば市、高橋豪撮影
+
+2022-11-22; TSUKUBA CITY, IBARAKI Prefecture; PHOTOGRAPH from TAKAHASHI, GOU;  
+
+### Note#2
+
+wore sequence; "TSUKUBA CITY, IBARAKI Prefecture"
+
+
 ## [重機の「リモートワーク」へ女性事務員が転身　いずれプロゲーマーも](https://www.asahi.com/articles/ASR1L3JT6R15PLBJ001.html?iref=comtop_Tech_science_04); last accessed: 20230120
 
 > 重機の「リモートワーク」へ女性事務員が転身　いずれプロゲーマーも
