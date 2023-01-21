@@ -1,5 +1,38 @@
 # Lessons-learned from: Manila Bulletin
 
+## "CTA acquits Ressa, Rappler of tax evasion charges" (20230119; THURSDAY)
+
+### Author:
+
+DAMICOG, JEFFREY G
+
+### Keyphrase:
+
+
+1997 National Internal Revenue Code (NIRC)<br/>
+
+#### Section 254: 
+
+> attempt to evade defeat tax
+
+#### Section 255: 
+
+> failure to file return, supply correct and accurate information, pay tax, withhold and remit tax, and refund excess taxes withheld on compensation
+
+### OUTPUT
+
+> "accused is not required to pay income tax and VAT (value-added tax)"
+
+### 3 requirements to impose income tax
+
+1) there must be gain or profit
+
+2) the gain or profit is realized, received, actually or constructively
+
+3) it is not exempted by law or treaty from income tax
+
+
+
 ## "Salceda suggests 'hardline approach' to stop smuggling in Subic"
 
 ### Author:
