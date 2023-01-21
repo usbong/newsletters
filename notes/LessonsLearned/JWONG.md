@@ -21,18 +21,17 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
 
-> スーパーマリオブラザース＃１（FC）のステージ＃３にあるカメ＋ジャンプのことを思い出すが、格闘ゲームだと、こんな横スクロールがあり、ジャンプができるように、体重力も入れといた設定となっているね。ゼルダ伝説のような格闘ゲームだと、どうだろうね。
+> スーパーマリオブラザース＃１（FC）のステージ＃３にあるカメ＋ジャンプのことを思い出すが、格闘ゲームだと、こんな横スクロールがあり、ジャンプができるように、体重力も入れといた設定となっているね。ゼルダ伝説(FC,GBC,G&W)のような格闘ゲームだと、どうだろうね。
 
-I remember the TURTLE + JUMP technique in STAGE#3 of SUPER MARIO BROS. #1 (FC). FIGHTING GAMES have been set to have such SIDE-SCROLLING, and includes GRAVITY to be able to JUMP. I wonder about a FIGHTING GAME that is like LEGEND of ZELDA.
+I remember the TURTLE + JUMP technique in STAGE#3 of SUPER MARIO BROS. #1 (FC). FIGHTING GAMES have been set to have such SIDE-SCROLLING, and includes GRAVITY to be able to JUMP. I wonder about a FIGHTING GAME that is like LEGEND of ZELDA (FC,GBC,G&W).
 
 > パーワーストーン#1だと、ゲームセンターで、見たことあるし、一回やったことあるかもしれないし。だが、カメラの設定じゃ、難しくなるね。
 
 I’ve seen and maybe have also played POWER STONE#1 at the GAME CENTER. But it becomes difficult, because of its camera setting.
 
-> バーチャロンならば、サードパーソンのカメラ設定で、できると見れるが、ゼルダ伝説のようなカメラ設定ではないね。
+> バーチャロンならば、サードパーソンのカメラ設定で、できると見れるが、ゼルダ伝説(FC,GBC,G&W)のようなカメラ設定ではないね。
 
-
-If it’s VIRTUAL-ON, it looks doable with its Third-person Camera Setting, but it’s not the Camera Setting of LEGEND of ZELDA. 
+If it’s VIRTUAL-ON, it looks doable with its Third-person Camera Setting, but it’s not the Camera Setting of LEGEND of ZELDA (FC,GBC,G&W). 
 
 > ちなみに、ゲームセンターで、バーチャロンも見たよね。ショックトルーパーズ＃１やメタルスラッグ＃１があった店。やったことはなかったが、ショックトルーパーズ＃１のように、すぐ負けると思ったからだ。
 
