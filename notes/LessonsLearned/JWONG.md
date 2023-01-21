@@ -30,7 +30,28 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
   
-JWONGさん、関西弁からの表現や言葉を入れてみた！今度、大阪も訪問してみてな！
+> JWONGさん、関西弁からの表現や言葉を入れてみた！今度、大阪も訪問してみてな！
+
+JWONG, I looked into putting in words and expressions from KANSAI dialect! Next time, see to visiting OSAKA too!
+
+#### EXAMPLES
+  
+> ほんで
+
+[それで](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1013064470); So
+  
+> な
+
+ね
+
+#### NOTE
+  
+> てみる
+
+~look to doing<br/>
+~see to doing<br/>
+<br/>
+verifying: "look" and "see", instead of "try"  <br/>
 
 参考：[「に」と「を」の使い方。「友人宅に訪問する」？ ...](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1421122654); last accessed: 20230121 
   </td></tr>
