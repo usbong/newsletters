@@ -10,6 +10,37 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://twitter.com/JWonggg/; last accessed: 20230121 (Philippine Time); from 20230120
+
+> NEW YOUTUBE VIDEO 
+
+新しいYOUTUBE動画
+
+> Decided to try out Final Fight and see how hard this game is… Well good thing I didn’t play this as a kid. My pockets would be empty.. 
+
+どんだけFinal Fightが難しいか、知りたくてな、ほんで、やってみようかっと決めた！やっぱ、小さいころ、このゲームをやってなくてよかった。金、すぐ切らしちゃうからな。
+
+> Check it out: https://youtu.be/Og_PuaDEdP4
+
+こちらをどうぞ！https://youtu.be/Og_PuaDEdP4
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+JWONGさん、関西弁からの表現や言葉を入れてみた！今度、大阪も訪問してみてな！
+
+参考：[「に」と「を」の使い方。「友人宅に訪問する」？ ...](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1421122654); last accessed: 20230121 
+  </td></tr>
+</table>
+
+>　Welcome to my first play through of Beat 'Em Up games! I'm so hyped to try out Final Fight arcade mode. While it may be a first, I made an exception to play Haggar, aka A GRAPPLER. JUST THIS TIME I'll put up with a grappler...Enjoy my first play through and leave a comment below on what you think this new series should be called!
+
+ようこそ！これは、おれの初めて、最後までやり通すベルトアクションゲームの動画シリーズだ！Final Fightアーケードモードをやってみたくて、わくわくしちゃうね！初めてなんだけど、投げ技を使うHaggarという者として、今回、今回だけな、このいわゆるグラプラーで行こうかっと。おれの初めての実況プレイを楽しんで、この新しい動画シリーズに、どういう名前で呼んだら良いかをコメント欄にも入れてくれ！よろしく頼むぞ！
+
+
 ## https://twitter.com/JWonggg/; last accessed: 20230120 (Philippine Time); from 20230119
 
 > NEW YOUTUBE VIDEO 
