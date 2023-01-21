@@ -13,7 +13,7 @@ DAMICOG, JEFFREY G
 
 #### Section 254: 
 
-> attempt to evade defeat tax
+> attempt to evade or defeat tax
 
 #### Section 255: 
 
