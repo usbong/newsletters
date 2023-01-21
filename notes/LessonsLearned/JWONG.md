@@ -27,7 +27,7 @@ I remember the TURTLE + JUMP technique in STAGE#3 of SUPER MARIO BROS. #1 (FC). 
 
 > パーワーストーン#1だと、ゲームセンターで、見たことあるし、一回やったことあるかもしれないし。だが、カメラの設定じゃ、難しくなるね。
 
-I’ve seen and maybe have also played POWER STONE#1 at the GAME CENTER. But it becomes difficult, because of its camera setting.
+I’ve seen and perhaps have also played POWER STONE#1 at the GAME CENTER. But it becomes difficult, because of its camera setting.
 
 > バーチャロンならば、サードパーソンのカメラ設定で、できると見れるが、ゼルダ伝説(FC,GBC,G&W)のようなカメラ設定ではないね。
 
@@ -35,7 +35,7 @@ If it’s VIRTUAL-ON, it looks doable with its Third-person Camera Setting, but 
 
 > ちなみに、ゲームセンターで、バーチャロンも見たよね。ショックトルーパーズ＃１やメタルスラッグ＃１があった店。やったことはなかったが、ショックトルーパーズ＃１のように、すぐ負けると思ったからだ。
 
-By the way, I also saw VIRTUAL-ON at the GAME CENTER. It was the store with SHOCK TROOPERS#1 and METAL SLUG#1. I didn’t play it, because I thought I’d immediately lose just like with SHOCK TROOPERS#1.
+By the way, I also saw VIRTUAL-ON at the GAME CENTER. It was at the store with SHOCK TROOPERS#1 and METAL SLUG#1. I didn’t play it, because I thought I’d immediately lose just like with SHOCK TROOPERS#1.
 
   
   </td></tr>
