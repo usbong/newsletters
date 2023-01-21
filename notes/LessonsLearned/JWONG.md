@@ -9,6 +9,28 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+# #https://www.youtube.com/watch?v=I9VIsL7Fav8; last accessed: 20230121 (Philippine Time)
+
+> A DIFFERENT SAKURA INFINITE #shorts 
+
+別なサクラ　無限　#shorts
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+スーパーマリオブラザース＃１（FC）のステージ＃３にあるカメ＋ジャンプのことを思い出すが、格闘ゲームだと、こんな横スクロールがあり、ジャンプができるように、体重力も入れといた設定となっているね。ゼルダ伝説のような格闘ゲームだと、どうだろうね。
+
+パワーストーン#1だと、ゲームセンターで、見たことあるし、一回やったことあるかもしれないし。だが、カメラの設定じゃ、難しくなるね。
+
+バーチャロンならば、サードパーソンのカメラ設定で、できると見れるが、ゼルダ伝説のようなカメラ設定ではないね。ちなみに、ゲームセンターで、バーチャロンも見たよね。ショックトルーパーズ＃１やメタルスラッグ＃１があった店。やったことはなかったが、ショックトルーパーズ＃１のように、すぐ負けると思ったからだ。
+
+  </td></tr>
+</table>
+
+
+
 
 ## https://twitter.com/JWonggg/; last accessed: 20230121 (Philippine Time); from 20230120
 
