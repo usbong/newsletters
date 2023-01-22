@@ -23,6 +23,23 @@ I fought one of the best players of Alpha 3 ever!!! And he picked Dan against me
 
 こちらをどうぞ！https://youtu.be/zjm31wOQVhs
 
+> Here's some more Street Fighter Alpha 3 goodness for you! Today I face against one of the best Alpha 3 players out there, Makozero, and he picked V-ism Dan... Dan of all characters! He also showed off how sick of a character Dan can be. Enjoy!
+
+これも、またストリートファイターゼロ３の動画だぞ！で、今日、一人の世界最強ゼロ３のプレイーヤーと戦ったぜ！「マコゼロ」という名なんだけど、キャラの中で、Vイズムのダンを選んでな！あんなキャラで戦って、やっぱスゴイぞ！と見せたんだ！では、楽しもう！
+
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+ 
+そうかっ！JWONGさんのSFIIIのオロと戦う動画を思い出しちゃった！あれは、SWITCHで、やってみたけど、やっぱ、跳び蹴りが繋げてくれないんだ。SWITCH版が出た時、JWONGさんが言っている「UNBALANCED」にならないよう、バージョン更新を入れといたと思うね。
+
+ちなみに、「飛び蹴り」から、ドラゴンクエストVI（SFC）のハッサンを思い出す。調べたら、「飛び膝蹴り」というんだって。
+
+  </td></tr>
+</table>
+
 
 ## https://www.twitch.tv/videos/1712889930; last accessed: 20230121 (Philippine Time)
 kim kaphwan<br/>
