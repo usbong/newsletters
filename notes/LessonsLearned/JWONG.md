@@ -33,9 +33,13 @@ I fought one of the best players of Alpha 3 ever!!! And he picked Dan against me
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
  
-そうかっ！JWONGさんのSFIIIのオロと戦う動画を思い出しちゃった！あれは、SWITCHで、やってみたけど、やっぱ、跳び蹴りが繋げてくれないんだ。SWITCH版が出た時、JWONGさんが言っている「UNBALANCED」にならないよう、バージョン更新を入れといたと思うね。
+> そうかっ！JWONGさんのSFIIIのオロと戦う動画を思い出しちゃった！あれは、SWITCHで、やってみたけど、やっぱ、跳び蹴りが繋げてくれないんだ。SWITCH版が出た時、JWONGさんが言っている「UNBALANCED」にならないよう、バージョン更新を入れといたと思うね。
 
-ちなみに、「飛び蹴り」から、ドラゴンクエストVI（SFC）のハッサンを思い出す。調べたら、「飛び膝蹴り」というんだって。
+I see! I remembered JWONG’s SFIII VIDEO of the FIGHT with ORO! I looked into that on SWITCH, and I can’t connect the flying kick! I think the updated version was put in when the SWITCH version came out, so as not to be as you say, “UNBALANCED”.
+
+> ちなみに、「飛び蹴り」から、ドラゴンクエストVI（SFC）のハッサンを思い出す。調べたら、「飛び膝蹴り」というんだって。
+
+By the way, I remember HASSAN of DRAGONQUEST VI from the “FLYING KICK”. After investigating it, it’s called, “FLYING KNEE KICK”.
 
   </td></tr>
 </table>
