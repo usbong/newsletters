@@ -56,27 +56,47 @@ kim kaphwan<br/>
  <tr><td>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
- 
-  これは20年前ぐらいの話なんだけど、アメリカにあるオレゴン州のセイラム市に行ったことある。で、モールの中に、ゲームセンターがあってな。
-
-調べてみたら、なんと「KOF」を見つけた。あれは、KOFの何番目か、今　確認しないと、分からないけど、とにかく、一人が遊んでいて、チャレンジしようかと、思ってな。
-
-譲ってくれると、ゲーム内の戦いを始めた。
-
-で、キムだけで、相手の三人をすぐ倒せて、ポケットからコインを取り出して、またチャレンジしてくる。あんないっぱい金を使っちゃうと、こっちが心配となって、チームの一人キャラを負けさせた。
-
-こっちの方に彼、顔を向けて、怒ってるみたいな表現で、どっかへ行っちゃった。あいつが、何かをやるか、誰かを連れてくるか、考えながらも、兄弟もついてるから、覚悟を用意していて、しかもアメリカへ観光客として、来たし、ケンカまでも行けないとか、と。
-
-でね、何分後、一人の仲間を連れて来て、来た！来たんだなっと、思ってるうちに、KOFアーケード機に、コインを入れて、チャレンジして来た。
-
-速くて、今度、こっちが負けた。
-
-そして、仲間が、先ほどの相手となった彼に、「Just that.」みたいなことを英語で言った。
-
-あれは、こっちキムの弱いキャラと戦ったかもしれないからな。
-
-とか言うんだけど、そんな、あっという間で、短い時間で、アメリカで、日本製格闘ゲームを体験できた。
   
+> これは20年前ぐらいの話なんだけど、アメリカにあるオレゴン州のセイラム市に行ったことある。で、モールの中に、ゲームセンターがあってな。
+
+This is a talk of about 20 years ago. I’ve been to SALEM CITY, in OREGON STATE, in AMERICA. And, there was a GAME CENTER inside the MALL.
+
+> 調べてみたら、なんと「KOF」を見つけた。あれは、KOFの何番目か、今　確認しないと、分からないけど、とにかく、一人が遊んでいて、チャレンジしようかと、思ってな。
+
+Looking inside, I found “KOF”! Now, I’d need to first verify which KOF was it, but in any case, there was a person playing, and I thought I’d CHALLENGE him.
+
+> 譲ってくれると、ゲーム内の戦いを始めた。
+
+He let me, and our battle in the game began.
+
+> で、キムだけで、相手の三人をすぐ倒せて、ポケットからコインを取り出して、またチャレンジしてくる。あんないっぱい金を使っちゃうと、こっちが心配となって、チームの一人キャラを負けさせた。
+
+Then, with only KIM, I quickly defeated his three characters, and he took out coins from his pocket, and challenged again. I became worried when I thought that he’d use such piles of money, so I had one of my team’s characters lose. 
+
+> こっちの方に彼、顔を向けて、怒ってるみたいな表現で、どっかへ行っちゃった。あいつが、何かをやるか、誰かを連れてくるか、考えながらも、兄弟もついてるから、覚悟を用意していて、しかもアメリカへ観光客として、来たし、ケンカまでも行けないとか、と。
+
+He turned his face to me, and said something in anger, and went off somewhere. I was thinking of what he’d do and if he’d come to bring someone, and I prepared my self, noting that my brothers were with me, and I was here in AMERICA as a tourist, and didn’t want to end up getting into FIGHT, et cetera.
+
+> でね、何分後、一人の仲間を連れて来て、来た！来たんだなっと、思ってるうちに、KOFアーケード機に、コインを入れて、チャレンジして来た。
+
+And then, minutes after, he brought a friend. They’ve come! They’ve come! I thought. While thinking of this, his friend put in a COIN into the KOF ARCADE MACHINE and challenged.
+
+> 速くて、今度、こっちが負けた。
+
+Quickly, in this case, it was I who lost.
+
+> そして、仲間が、先ほどの相手となった彼に、「Just that.」みたいなことを英語で言った。
+
+Then, his friend, said to my opponent awhile ago, something like “Just that.” in English.
+
+> あれは、こっちキムの弱いキャラと戦ったかもしれないからな。
+
+That was perhaps because my KIM fought a character whom he was weak against.
+
+> とか言うんだけど、そんな、あっという間で、短い時間で、アメリカで、日本製格闘ゲームを体験できた。
+
+I say such things, but with that kind of speed, and such short a time, I experienced a MADE IN JAPAN FIGHTING GAME, in AMERICA.
+
   </td></tr>
 </table>
 
