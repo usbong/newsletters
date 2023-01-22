@@ -4,6 +4,18 @@ https://www.youtube.com/c/sora_sakurai_jp
 
 TO-DO: -update: this
 
+# [良いおつかい、悪いおつかい【企画・ゲーム設計】](https://www.youtube.com/watch?v=7oxEVzF_hT4); last accessed: 20230122; from 20230120
+
+> 140,312 views  Jan 20, 2023<br/>
+> 多くのゲームは同じ遊びを繰り返すものだから､どうしたって単純なイベントは発生します｡<br/>
+> 例えばおつかいとか｡<br/>
+> それをより楽しみにするための方法を､いくつか解説しています｡
+
+## メモ：
+
+この動画から、岩田聡さんの「[Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU)」をもう一回見てみたが、
+右側にある連携ビデオを見ちゃったら、「[Shigeru Miyamoto's 1999 GDC Keynote](https://www.youtube.com/watch?v=a9DlhDRZ0yA&t=839s)」もあるよというので、調べてみました。ありがとうございます。
+
 # [スケール感は正しく合わせる 【グラフィック】](https://www.youtube.com/watch?v=4BACs62-CxU); last accessed: 20230118
 
 > スケール感は正しく合わせる 【グラフィック】
