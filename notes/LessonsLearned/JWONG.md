@@ -9,6 +9,21 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+## https://twitter.com/JWonggg/; last accessed: 20230122 (Philippine Time); from 20230121
+
+> NEW YOUTUBE VIDEO 
+
+新しいYOUTUBE動画
+
+I fought one of the best players of Alpha 3 ever!!! And he picked Dan against me... 
+
+ゼロ３の一人の最強プレイヤーと戦ったんだぞ！って思うんだけど、彼は、ダンを選んでね……
+
+> Check it out: https://youtu.be/zjm31wOQVhs 
+
+こちらをどうぞ！https://youtu.be/zjm31wOQVhs
+
+
 ## https://www.twitch.tv/videos/1712889930; last accessed: 20230121 (Philippine Time)
 kim kaphwan<br/>
 —> strong against which characters?<br/>
