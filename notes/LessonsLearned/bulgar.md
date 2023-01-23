@@ -1,5 +1,42 @@
 # Lessons-learned from: BULGAR: BOSES ng PINOY, MATA ng BAYAN
 
+# "30 YEARS KULONG SA PAGGAMIT SA SASAKYAN NG AMO NANG WALANG PAALAM (20230123; MONDAY)"
+
+## MAGTANONG KAY ATTORNEY
+
+### Author
+
+Chief Public Attorney:<br/>
+DR RUEDA-ACOSTA, PERSIDA
+
+### Keyphrase
+
+Republic Act No. 10883: New Anti-Carnapping Act of 2016
+
+> Section 3. Carnapping; Penalties. - Carnapping is the taking, with intent to gain, of a motor vehicle belonging to another without the latter's consent, or by means of violence against or intimidation of persons, or by using force upon things.
+
+#### PUNISHMENT (regardless of value of motor vehicle)
+
+imprisonment for not less than <b>20 years and 1 day</b>;<br/>
+--> but not more than <b>30 years</b>;
+
+##### IF WITHOUT violence against or intimidation of persons, or force upon things
+
+imprisonment for not less than <b>30 years and 1 day</b>;<br/>
+--> but not more than <b>40 years</b>;
+
+##### IF WITH violence against or intimidation of persons, or force upon things
+<b>
+--> AND when owner, driver, or occupant of the carnapped motor vehicle is killed or raped in the commission of the carnapping<br/>
+</b>
+PENALTY of life imprisonment
+
+### USBONG RECOMMENDED ACTION
+
+["HINTO!" Sa gitna ng paghahabol sa nakaw na sasakyan; Patay ang nagpapatakbong lalake, sa 4 na putok ng baril mula sa 2 Pulis](https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/asahiDotCom.md);
+
+
+
 # "SALAMAT SA PAALAM, PAPA BENEDICTO (20230108; SUNDAY)"
 
 ## KaPaaYaPaaN
