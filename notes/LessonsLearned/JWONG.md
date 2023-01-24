@@ -32,9 +32,11 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
  <tr><td>
  
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
+  
+> JWONGさん、これ ありがとう！「THE KING OF FIGHTERS XI CASUALS」の00:23:00のとこで、ジャンプだな！
 
-  JWONGさん、これ ありがとう！「THE KING OF FIGHTERS XI CASUALS」の00:23:00のとこで、ジャンプだな！
-
+JWONG, thanks for this! In「THE KING OF FIGHTERS XI CASUALS」, at 00:23:00, JUMP!
+  
   </td></tr>
 </table>
 
