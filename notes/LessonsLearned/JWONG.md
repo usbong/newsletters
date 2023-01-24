@@ -9,6 +9,22 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 565 Following<br/>
 > 176.9K Followers
 
+
+## https://www.twitch.tv/videos/1714936251; last accessed: 20230124 (Philippine Time); from 20230123
+
+> BiG-ONE CASUALS - RUMBLE FISH 2
+
+<table>
+ <tr><td>
+ 
+### FROM PHILIPPINES, SYSON, MICHAEL B.:
+
+  JWONGさん、これ ありがとう！「THE KING OF FIGHTERS XI CASUALS」の00:23:00のとこで、ジャンプだな！
+
+  </td></tr>
+</table>
+
+
 ## https://twitter.com/JWonggg/; last accessed: 20230122 (Philippine Time); from 20230121
 
 > NEW YOUTUBE VIDEO 
