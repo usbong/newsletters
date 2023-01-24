@@ -10,6 +10,20 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 > 176.9K Followers
 
 
+## https://twitter.com/JWonggg/; last accessed: 20230124 (Philippine Time); from 20230123
+
+> NEW YOUTUBE VIDEO
+
+新しいYOUTUBE動画
+
+> Japan still plays USF4 like hard!!! I am such a scrub...
+
+日本は、まだUSF4でつええ！！！おれ、こんな弱虫かっ！
+
+> Check it out: https://youtu.be/ZYlylmZDZ8Q
+
+こちらをどうぞ！https://youtu.be/ZYlylmZDZ8Q
+
 ## https://www.twitch.tv/videos/1714936251; last accessed: 20230124 (Philippine Time); from 20230123
 
 > BiG-ONE CASUALS - RUMBLE FISH 2
