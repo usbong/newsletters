@@ -24,6 +24,10 @@ JWONG as the AD/COMMERCIAL HUB;<br/>
 
 こちらをどうぞ！https://youtu.be/ZYlylmZDZ8Q
 
+> You thought this game was dead!? THINK AGAIN! Over at Japan's @[big-one2ndchannel260](https://www.youtube.com/channel/UCMqtrNtrbfJTgRojUgn6FYg), they host yet another fighting game that completely blew me away! That's right, it's Ultra Street Fighter IV. I got WASHED by so many players with different characters. These players are evolving the game! Get ready for some sweaty matches!!!
+
+このゲーム、すでに死んだかと思ったか？考え直せ！日本@[big-one2ndchannel260](https://www.youtube.com/channel/UCMqtrNtrbfJTgRojUgn6FYg)で、また格闘ゲームをホストされ、ぶっ飛ばされた！そう！これは、Ultra Street Fighter IVなんだ！あんな沢山プレイヤーらで、そしていろんなキャラが出てきて、やっぱ　ゲームを進歩させていってんだ！試合、勝負、覚悟しとこうぜ！
+
 ## https://www.twitch.tv/videos/1714936251; last accessed: 20230124 (Philippine Time); from 20230123
 
 > BiG-ONE CASUALS - RUMBLE FISH 2
