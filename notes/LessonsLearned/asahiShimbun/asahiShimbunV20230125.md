@@ -6,7 +6,7 @@ ALEMAN, namamahagi ng LEOPARD2, sasakyang pandigma (TANKE); Pag-ikot mula sa pag
 
 > ドイツ、戦車レオパルト2提供へ　慎重姿勢から一転　米も戦車提供か
 
-GERMANY, supplying LEOPOLD2 TANKS; A rotation from prudence; Shall AMERICA be supplying tanks too?
+GERMANY, supplying LEOPARD2 TANKS; A rotation from prudence; Shall AMERICA be supplying tanks too?
 
 #### Paalala・Note
 
@@ -29,11 +29,11 @@ NEWS on UKRAINE
 
 >　今後、ロシアの攻撃がさらに激しくなると予想されており、ウクライナ政府は欧米各国に戦車などの提供を求めてきた。欧州各国の軍が計約2千両保有するレオパルト2は「世界最強の主力戦車」と評価される。
 
-Mula ngayon, inaasahang (predict) magiging malubha pa ang pagsalakay ng RUSSIA. Hinahangad ng Pamahalaan ng UKRAINE ang pamamahagi ng mga TANKE, atbp mula sa lahat ng kaharian ng EUROPA at AMERIKA. Pinahahalagahan ng Hukbo ng lahat ng kaharian ng EUROPA ang may kabuuang mga dalawang libong LEOPOLD2, bilang ang "Pinakamalakas na Sasakyang Pandigma sa Daigdig". 
+Mula ngayon, inaasahang (predict) magiging malubha pa ang pagsalakay ng RUSSIA. Hinahangad ng Pamahalaan ng UKRAINE ang pamamahagi ng mga TANKE, atbp mula sa lahat ng kaharian ng EUROPA at AMERIKA. Pinahahalagahan ng Hukbo ng lahat ng kaharian ng EUROPA ang may kabuuang mga dalawang libong LEOPARD2, bilang ang "Pinakamalakas na Sasakyang Pandigma sa Daigdig". 
 
 >　今後、ロシアの攻撃がさらに激しくなると予想されており、ウクライナ政府は欧米各国に戦車などの提供を求めてきた。欧州各国の軍が計約2千両保有するレオパルト2は「世界最強の主力戦車」と評価される。
 
-Predicting from hereone that RUSSIA's ATTACK shall be fiercer, the UKRAINE ADMIN has sought supplies such as tanks from all kingdoms in EUROPE and AMERICA. Europe's Military has evaluated the LEOPOLD2 tanks, estimated to be at about two thousand in count, as "The World's STRONGEST TANK".
+Predicting from hereone that RUSSIA's ATTACK shall be fiercer, the UKRAINE ADMIN has sought supplies such as tanks from all kingdoms in EUROPE and AMERICA. Europe's Military has evaluated the LEOPARD2 tanks, estimated to be at about two thousand in count, as "The World's STRONGEST TANK".
 
 ### Sanggunian・Reference
 
