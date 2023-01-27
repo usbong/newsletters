@@ -25,3 +25,6 @@ Go. Jump [ends in] hole. Round and round.
 > <br/>
 > TRAVEL
 
+> shared: dinner (carrot, pumpkin/squash, raisin bread, pineapple, dalandan, strawberry)<br/>
+> <br/>
+> CAMPING
