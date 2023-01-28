@@ -2,7 +2,7 @@
 
 ## ZELDA (GAME&WATCH; Deutsch); 20230125
 
-6 year old; MALE;
+6 year old; MALE; nephew
 
 > How many monsters?
 
@@ -26,5 +26,6 @@ Go. Jump [ends in] hole. Round and round.
 > TRAVEL
 
 > shared: dinner (carrot, pumpkin/squash, raisin bread, pineapple, dalandan, strawberry)<br/>
+> finished: his portion of the FOOD<br/>
 > <br/>
 > CAMPING
