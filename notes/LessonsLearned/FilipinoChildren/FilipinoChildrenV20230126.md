@@ -32,3 +32,8 @@ videogame
 
 character
 
+> shared: dinner (lettuce, tomatoes, toasted/fried wheat bread, rice)<br/>
+> stopped: eating his portion of the FOOD after giving EDEN CHEESE<br/>
+> <br/>
+> CAMPING
+
