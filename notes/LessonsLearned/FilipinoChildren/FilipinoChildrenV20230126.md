@@ -2,7 +2,13 @@
 
 ## ULTRA gameplayers WINNING IS EVERYTHING! (Videogames MAGAZINE; No. 104; DECEMBER ’97); 20230126
 
-6 year old; MALE;
+6 year old; MALE; nephew
+
+gorilla
+
+> GUH-RILA
+
+GUH-RILA
 
 > Show me something you’d want to show me. 
 
