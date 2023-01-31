@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230130
+  @date updated: 20230131; from 20230130
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -516,9 +516,52 @@
 To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specialty Clinic (MOSC) requested Usbong's services to automate routine, monotonous tasks and share with unit members know-how on computers.
 
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
-<h4>1.1) verified: eliminating excess displayed OUTPUT;</h4>
+<h4>1.1) observed: system efficiency as OUTPUT assisted in identifying <b>ERRORS</b>,</h4>
+--> where: system efficiency caused by computer automation<br/> 
+--> where: <b>ERRORS</b> had been classified to be acceptable,<br/>
+--> due to: <b>ELAPSED TIME of ACTIONS</b> is over 10 years<br/>
+--> has after all caused increase in <b>INCOME</b> for clinic,<br/>
+--> instead of its decrease; <b>PROFITABLE</b>,<br/>
+--> based on an economic view<br/>
+<br/>
+--> <b>Example ERROR#1</b>: Telephone Calls are answered after over 1 Telephone Ring,<br/>
+--> where: Telephone Calls are of <b>patient questions</b>,<br/>
+--> including among others: orthopedic surgeon schedule, item availability;<br/>
+--> <b>ACTION:</b> showed: already <b>SOLVABLE</b><br/>
+<br/>
+--> <b>Example ERROR#2</b>: noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items<br/>
+--> where: items are of <b>medicine items</b>;<br/>
+--> <b>ACTION:</b> showed: already <b>SOLVABLE</b><br/>
+<br/>
+--> <b>Example ERROR#3</b>: noticeable <b>DELAY</b> to identify items,<br/>
+--> where: items are of <b>non-medicine items</b>;<br/>
+--> adds: items have increasing count and variation;<br/>
+--> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+--> due to: clinic opts to dismiss recommendation<br/>
+<br/>
+<br/>
+<br/>
+TO-DO: share: <br/>
+<br/>
+Why Germany's health care system is in crisis (and how the government plans to fix it) | DW News; last accessed: 20230131; from 20230124<br/>
 
---> where: <b>non-medicine item quantity</b> is already @<b>zero</b><br/>
+https://www.youtube.com/watch?v=075AAaehmN8
+
+PROBLEM
+
+Staff shortages,
+economics > health;
+ACTION as SOLUTION
+
+increase out-patient care;
+reminder: pediatric care seasonal
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<b>non-medicine item quantity</b> is already @<b>zero</b><br/>
 --> adds: previously, such items were <b>still displayed</b> to be <b>selectable</b> for purchase;<br/>
 --> admits: <b>non-medicine items</b> noticeably have <b>INCORRECT COUNTS</b>;<br/>
 --> observed: <b>OUTPUT</b> caused by <b>increasing counts of new items</b><br/> 
