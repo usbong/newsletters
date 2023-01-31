@@ -20,6 +20,12 @@ Taong 1948, 3 taon makalipas ang pagwawakas ng digmaan, muling binuksan ang OLYM
 
 Stopped due to the Second Large War, the Olympics was re-opened in the Year 1948, three years after the end of the war. The place of opening was LONDON. Japan, the kingdom that lost in the war, also sought to join. "While resigned to saying that it was probably unreasonable, there was, at the recesses of the mind, a burning desire to join the OLYMPICS." This was what FURUHASHI, HIRONOSHIN, known for being "The Flying Fish of MT. FUJI", conveyed while reminiscing of the past▼But, the expectation was...
 
+### Paalala・Reminder
+
+1） 隅（すみ）
+
+2） 隙（すき）
+
 ### Sanggunian・Reference
 
 GOOGLE SEARCH ENGINE; TRANSLATE
