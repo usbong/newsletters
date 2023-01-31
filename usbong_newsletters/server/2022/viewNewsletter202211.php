@@ -519,10 +519,11 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <h4>1.1) observed: system efficiency as OUTPUT assisted in identifying <b>ERRORS</b>,</h4>
 --> where: system efficiency caused by computer automation<br/> 
 --> where: <b>ERRORS</b> had been classified to be acceptable,<br/>
---> due to: <b>ELAPSED TIME of ACTIONS</b> is over 10 years<br/>
+--> due to: <b>PROFITABLE</b> OUTPUT,<br/>
+--> adds: <b>ELAPSED TIME of ACTIONS</b> of over 10 years<br/>
 --> has after all caused increase in <b>INCOME</b> for clinic,<br/>
 --> instead of its decrease; <b>PROFITABLE</b>,<br/>
---> based on an economic view<br/>
+--> based on an <b>ECONOMIC view</b><br/>
 <br/>
 --> <b>Example ERROR#1</b>: Telephone Calls are answered after over 1 Telephone Ring,<br/>
 --> where: Telephone Calls are of <b>patient questions</b>,<br/>
@@ -539,22 +540,33 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
 --> due to: clinic opts to dismiss recommendation<br/>
 <br/>
-<br/>
-<br/>
-TO-DO: share: <br/>
-<br/>
-Why Germany's health care system is in crisis (and how the government plans to fix it) | DW News; last accessed: 20230131; from 20230124<br/>
+<table class="reminderTable">
+	<tr>
+		<td>
+<a class="webServiceLink" target="_blank" href="https://www.youtube.com/watch?v=075AAaehmN8
+">Why Germany's health care system is in crisis<br/> 
+(and how the government plans to fix it) | DW News</a>;<br/> 
+last accessed: 20230131; from 20230124<br/>
+		<br/>
+		<b>PROBLEM:</b>	Staff shortages, ECONOMICS > HEALTH,<br/>
+<br/>		
+		<b>OUTPUT#1:</b> increase of low-cost workers from abroad,<br/>
+		--> where: example low-cost workers : nurses<br/>
+		<br/>
+		<b>OUTPUT#2:</b> increase of in-patient care, <br/>
+		--> based: on patient DIAGNOSIS<br/>
+		<br/>		
+		<b>OUTPUT#3:</b> increase in overall COST,<br/>
+		--> where: less money available for pediatric care<br/>
+		<br/>
+		<b>ACTION as SOLUTION</b><br/>
+		1) increase out-patient care;<br/>
+		--> <b>REMINDER:</b> pediatric care seasonal
+		</td>
+	</tr>
+</table>
 
-https://www.youtube.com/watch?v=075AAaehmN8
 
-PROBLEM
-
-Staff shortages,
-economics > health;
-ACTION as SOLUTION
-
-increase out-patient care;
-reminder: pediatric care seasonal
 
 <br/>
 <br/>
