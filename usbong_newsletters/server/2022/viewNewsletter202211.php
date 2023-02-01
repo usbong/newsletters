@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230131; from 20230130
+  @date updated: 20230201; from 20230131
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -534,7 +534,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> where: items are of <b>medicine items</b>;<br/>
 --> <b>ACTION:</b> showed: already <b>SOLVABLE</b><br/>
 <br/>
---> <b>Example ERROR#3</b>: noticeable <b>DELAY</b> to identify items,<br/>
+--> <b>Example ERROR#3</b>: noticeable <b>DELAY</b> to identify and physically locate items,<br/>
 --> where: items are of <b>non-medicine items</b>;<br/>
 --> adds: items have increasing count and variation;<br/>
 --> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
@@ -548,7 +548,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 (and how the government plans to fix it) | DW News</a>;<br/> 
 last accessed: 20230131; from 20230124<br/>
 		<br/>
-		<b>PROBLEM:</b>	Staff shortages, ECONOMICS > HEALTH,<br/>
+		<b>PROBLEM:</b>	Staff shortages, ECONOMICS > HEALTH<br/>
 <br/>		
 		<b>OUTPUT#1:</b> increase of low-cost workers from abroad,<br/>
 		--> where: example low-cost workers : nurses<br/>
@@ -566,7 +566,54 @@ last accessed: 20230131; from 20230124<br/>
 	</tr>
 </table>
 
+<br/>
+--> <b>Example ERROR#4</b>: <b>LOST</b> index cards with patient information,<br/>
+--> which: may also have <b>missing answers</b> to patient details,<br/>
+--> where#1: <b>LOST</b> : in <3 years<br/>
+--> where#2: <b>incomplete details</b> : no contact number, occupation, et cetera<br/>
+--> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+--> due to: clinic opts to <b>quickly finishing patient payment</b>,<br/>
+--> via#1: <b>creating a new index card</b> for LOST cards,<br/> 
+--> via#2: <b>ignoring missing answers</b> to patient details<br/>
+--> adds: however, select patient details, e.g. <b>Senior Citizen number</b>,<br/> 
+--> can be added in <b>index card</b> and <b>computer database</b> @CASHIER UNIT<br/>
+<br/>
+--> <b>Example ERROR#5</b>: <b>Official Receipts</b> are given to only those who <b>REQUEST</b>;<br/>
+--> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+--> due to: clinic opts to <b>quickly finishing patient payment</b><br/>
+--> adds: however, notified clinic of <b>filed POLICE report</b> on the corresponding <b>ACTION</b>,<br/>
+--> where: <b>ACTION</b> with <b>Bureau of Internal Revenue (BIR)</b><br/> 
+--> notes: <b>AVAILABLE REASONS for ERROR#5</b> to include among others:<br/> 
+--> <b>COVID-19</b>, <b>PAYMENT DELAYS</b> from <b>HMO</b> transactions @partner clinics,<br/>
+--> where: <b>HMO</b> = <b>H</b>ealth <b>M</b>aintenance <b>O</b>rganization<br/>
+--> shares: clinic receives payment only via <b>CASH</b> and <b>DIRECT BANK TRANSFER</b><br/>
+--> notes: <b>INCOME</b> also exists <b>prior to COVID-19</b><br/>
+--> adds: received notification of <b>shutdown</b> of <b>UNIT</b><br/> 
+--> @partner Sta. Lucia Health Care Clinic (<b>SLHCC</b>)<br/> 
+--> due to <b>DELAYS</b> caused <b>EXPENSES > INCOME</b> <br/>
+<br/>
+--> <b>Example ERROR#6</b>: <b>CASH THEFT</b> @clinic is <b>IGNORED</b>;<br/>
+--> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+--> due to: clinic opts to <b>focus on earning INCOME</b>,<br/>
+--> whose: <b>VALUE</b> is noticeably <b>LARGER than stolen CASH</b>,<br/>
+--> observed: however, <b>stolen VALUE</b> has <b>increased to be >200PHP per week</b><br/>
+--> adds: had previously recommended to <b>increase Unit member salary</b>;<br/>
+--> adds: instead had <b>only received approval to share know-how on I.T.</b>;<br/>
+--> however, <b>training stopped</b> due to <b>COVID-19</b> lockdowns, quaranties<br/>
+--> adds: select <b>Unit members</b> now <b>NEED QUICK MONEY</b>,<br/>
+--> whose: <b>VALUE</b> shall <b>NOT be gained</b> via <b>I.T. EDUCATION</b> and <b>HONEST WORK</b><br/>
+--> <b>CURRENT ACTION</b>: continue: to <b>share food</b>, e.g. fruits, tokwa, and <b>know-how</b><br/>
+--> expects: however, <b>THEFT</b> to still <b>CONTINUE</b>;<br/>
+--> observed: however, executed ACTION <b>decreases ERRORS</b><br/> 
+--> <b>to assisting MACHINES/COMPUTERS</b> by Unit Members<br/>
+--> adds: <b>I.T. Unit</b> <b>GAINS TIME</b> by opting to <b>decrease USED TIME</b> for the following:<br/>
+--> <b>IDENTIFICATION</b> of <b>excess/missing</b> ITEMS,<br/>
+--> <b>CAUSE</b> of <b>excess/missing</b> CASH (MONEY)<br/>
+<br/>
+<br/>
+<br/>
 
+TO-DO: -add: on NOISE POLLUTION; CCTV<br/>
 
 <br/>
 <br/>
