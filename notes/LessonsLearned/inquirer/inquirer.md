@@ -31,5 +31,10 @@ Eleven Labs (British AI Firm);<br/>
 --> electricity, light;<br/>
 --> adds: INTERNET connectivity; web services, app services<br/>
 <br/>
---> TO-DO: -verify: image technique as example
+--> QUICK image technique example<br/>
+--> FLASHLIGHT; HAND SHADOW PLAY,<br/>
+--> where: LIGHT goes out of mobile telephone;<br/>
+--> example HAND SHADOW: DOG 
+
+
 
