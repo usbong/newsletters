@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230201; from 20230131
+  @date updated: 20230202; from 20230201
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -588,9 +588,10 @@ last accessed: 20230131; from 20230124<br/>
 --> where: <b>HMO</b> = <b>H</b>ealth <b>M</b>aintenance <b>O</b>rganization<br/>
 --> shares: clinic receives payment only via <b>CASH</b> and <b>DIRECT BANK TRANSFER</b><br/>
 --> notes: <b>INCOME</b> also exists <b>prior to COVID-19</b><br/>
---> adds: received notification of <b>shutdown</b> of <b>UNIT</b><br/> 
+--> adds: received notification in 2023 JAN of <b>shutdown</b> of <b>UNIT</b> in <b>2023 FEB</b><br/> 
 --> @partner Sta. Lucia Health Care Clinic (<b>SLHCC</b>)<br/> 
 --> due to <b>DELAYS</b> caused <b>EXPENSES > INCOME</b> <br/>
+--> adds: notification of noticeable <b>decrease</b> in I.T. Unit's <b>compensation</b>;<br/>
 <br/>
 --> <b>Example ERROR#6</b>: <b>CASH THEFT</b> @clinic is <b>IGNORED</b>;<br/>
 --> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
@@ -610,10 +611,54 @@ last accessed: 20230131; from 20230124<br/>
 --> <b>IDENTIFICATION</b> of <b>excess/missing</b> ITEMS,<br/>
 --> <b>CAUSE</b> of <b>excess/missing</b> CASH (MONEY)<br/>
 <br/>
+--> <b>Example ERROR#7</b>: <b>NOISE POLLUTION</b> @clinic continues,<br/>
+--> where: observed <b>CCTV</b> accessed and information misused<br/> 
+--> by <b>MANLOLOKO/TERRORIST/LIAR GROUP</b>;<br/>
+--> Example <b>NOISE POLLUTION</b> to attack Unit Members and Patients:<br/>
+--> "squeeze breast", "bobo", "walang paki", "mamamatay na 'yan", "cancer"<br/>
+--> keyphrase: <b>FEAR</b>, <b>unsolicited ideas</b>;<br/>
+<br/>
+--> Example <b>NOISE POLLUTION</b> to cause <b>PHYSICAL INJURY</b>:<br/>
+--> <b>HEAD PAIN</b> classified to be with keyphrase for <b>EMERGENCY CASE</b><br/>
+--> keyphrase: <b>unsolicited physical stimulation/PAIN</b>;<br/>
+<br/>
+--> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+--> due to: clinic opts to <b>focus on earning INCOME</b>,<br/>
+--> whose: <b>VALUE</b> is supposedly <b>LARGER than damage</b>;<br/>
+<br/>
+--> observed: however, <b>OUTPUT</b> on <b>Unit Members</b>:<br/>
+--> <b>Example#1)</b> DEATH of Physical Therapist<br/>
+<br/>
+--> <b>Example#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
+--> <b>whose OUTPUT:</b> be NON-PRACTICING<br/>
+<br/>
+--> <b>Example#3)</b> ILLNESS of Assisting Secretary and Family<br/> 
+--> <b>whose OUTPUT:</b> be in CONTINUOUS NEED of QUICK MONEY<br/>
+<br/>
+--> <b>Example#4)</b> DEATH of Secretary<br/>
+<br/>
+--> observed: select Unit Members also executing <b>NOISE POLLUTION</b>,<br/>
+--> based on: <b>PROMISE of QUICK MONEY</b>, obedience to <b>MANLOLOKO GROUP</b><br/>
+--> "ALL ARE MANLOLOKO", "ALL ARE LIARS"<br/>
+--> adds: <b>OUTPUT</b> when <b>DIRECTLY questioned</b>: <b>LIES</b>,<br/>
+--> "Anong NOISE POLLUTION?", "walang naririnig"<br/>
+<br/>
+--> reminder: <b>EAST GERMANY HISTORY</b>,<br/> 
+--> where: Unit Members cause <b>ACTIONS to destroy own Unit</b>,<br/>
+--> where: <b>ACTIONS</b> : <b>INDIRECT</b>, <b>UNCLEAR</b>,<br/>
+--> <b>OUTPUT</b>: continuous <b>UNNECESSARY THINKING</b>, <b>NOT SYSTEM EFFICIENCY</b><br/>
+<br/>
+--> shared: <b>INFORMATION</b> with clinic and Unit Members,<br/>
+--> adds: <b>BARANGAY</b>, <b>POLICE</b>, <b>LAW ENFORCEMENT</b>;<br/>
+--> continuous: to be against <b>MANLOLOKO GROUP</b> via <b>NOT</b> "ALL ARE LIARS"
 <br/>
 <br/>
-
-TO-DO: -add: on NOISE POLLUTION; CCTV<br/>
+<br/>
+LIAR = continuous LYING<br/>
+DEVIL = LIAR<br/>
+DEMONYO = LIAR<br/>
+<br/>
+TO-DO: -update: this<br/>
 
 <br/>
 <br/>
