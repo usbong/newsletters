@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230202; from 20230201
+  @date updated: 20230203; from 20230202
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -216,6 +216,16 @@
 							width: 90%;
 							margin: 0px;
 							padding: 0px;
+						}
+						
+						span.solvableSpan {
+							color: rgb(255,168,0);
+							font-weight: bold;
+						}
+
+						span.notSolvedSpan {
+							color: rgb(255,0,0);
+							font-weight: bold;
 						}
 
 						td.noteTableImageColumn
@@ -528,16 +538,31 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> <b>Example ERROR#1</b>: Telephone Calls are answered after over 1 Telephone Ring,<br/>
 --> where: Telephone Calls are of <b>patient questions</b>,<br/>
 --> including among others: orthopedic surgeon schedule, item availability;<br/>
---> <b>ACTION:</b> showed: already <b>SOLVABLE</b><br/>
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> showed: already <span class="solvableSpan">SOLVABLE</span>
+</td></tr>
+</table>
+
 <br/>
 --> <b>Example ERROR#2</b>: noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items<br/>
 --> where: items are of <b>medicine items</b>;<br/>
---> <b>ACTION:</b> showed: already <b>SOLVABLE</b><br/>
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> showed: already <span class="solvableSpan">SOLVABLE</span>
+</td></tr>
+</table>
 <br/>
 --> <b>Example ERROR#3</b>: noticeable <b>DELAY</b> to identify and physically locate items,<br/>
 --> where: items are of <b>non-medicine items</b>;<br/>
 --> adds: items have increasing count and variation;<br/>
---> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
+</td></tr>
+</table>
+
 --> due to: clinic opts to dismiss recommendation<br/>
 <br/>
 <table class="reminderTable">
@@ -571,7 +596,13 @@ last accessed: 20230131; from 20230124<br/>
 --> which: may also have <b>missing answers</b> to patient details,<br/>
 --> where#1: <b>LOST</b> : in <3 years<br/>
 --> where#2: <b>incomplete details</b> : no contact number, occupation, et cetera<br/>
---> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
+</td></tr>
+</table>
+
 --> due to: clinic opts to <b>quickly finishing patient payment</b>,<br/>
 --> via#1: <b>creating a new index card</b> for LOST cards,<br/> 
 --> via#2: <b>ignoring missing answers</b> to patient details<br/>
@@ -579,7 +610,11 @@ last accessed: 20230131; from 20230124<br/>
 --> can be added in <b>index card</b> and <b>computer database</b> @CASHIER UNIT<br/>
 <br/>
 --> <b>Example ERROR#5</b>: <b>Official Receipts</b> are given to only those who <b>REQUEST</b>;<br/>
---> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
+</td></tr>
+</table>
 --> due to: clinic opts to <b>quickly finishing patient payment</b><br/>
 --> adds: however, notified clinic of <b>filed POLICE report</b> on the corresponding <b>ACTION</b>,<br/>
 --> where: <b>ACTION</b> with <b>Bureau of Internal Revenue (BIR)</b><br/> 
@@ -590,11 +625,15 @@ last accessed: 20230131; from 20230124<br/>
 --> notes: <b>INCOME</b> also exists <b>prior to COVID-19</b><br/>
 --> adds: received notification in 2023 JAN of <b>shutdown</b> of <b>UNIT</b> in <b>2023 FEB</b><br/> 
 --> @partner Sta. Lucia Health Care Clinic (<b>SLHCC</b>)<br/> 
---> due to <b>DELAYS</b> caused <b>EXPENSES > INCOME</b> <br/>
+--> due to <b>DELAYS</b> caused <b>EXPENSES > INCOME @UNIT in SLHCC</b> <br/>
 --> adds: notification of noticeable <b>decrease</b> in I.T. Unit's <b>compensation</b>;<br/>
 <br/>
 --> <b>Example ERROR#6</b>: <b>CASH THEFT</b> @clinic is <b>IGNORED</b>;<br/>
---> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
+</td></tr>
+</table>
 --> due to: clinic opts to <b>focus on earning INCOME</b>,<br/>
 --> whose: <b>VALUE</b> is noticeably <b>LARGER than stolen CASH</b>,<br/>
 --> observed: however, <b>stolen VALUE</b> has <b>increased to be >200PHP per week</b><br/>
@@ -603,39 +642,58 @@ last accessed: 20230131; from 20230124<br/>
 --> however, <b>training stopped</b> due to <b>COVID-19</b> lockdowns, quaranties<br/>
 --> adds: select <b>Unit members</b> now <b>NEED QUICK MONEY</b>,<br/>
 --> whose: <b>VALUE</b> shall <b>NOT be gained</b> via <b>I.T. EDUCATION</b> and <b>HONEST WORK</b><br/>
+<br/>
 --> <b>CURRENT ACTION</b>: continue: to <b>share food</b>, e.g. fruits, tokwa, and <b>know-how</b><br/>
 --> expects: however, <b>THEFT</b> to still <b>CONTINUE</b>;<br/>
---> observed: however, executed ACTION <b>decreases ERRORS</b><br/> 
---> <b>to assisting MACHINES/COMPUTERS</b> by Unit Members<br/>
---> adds: <b>I.T. Unit</b> <b>GAINS TIME</b> by opting to <b>decrease USED TIME</b> for the following:<br/>
+--> observed: however, executed <b>CURRENT ACTION</b> <b>decreases ERRORS</b><br/> 
+--> <b>to assisting MACHINES/COMPUTERS</b> by Unit Members,<br/>
+--> due to: <b>VALUE</b> has become <b>CLEAR</b>,<br/>
+--> example: use <b>photocopy machine</b> and <b>template</b> to print multiple <b>INDEX CARDS</b>, <br/>
+--> instead of writing by-hand the TEXT<br/>
+<br/>
+--> adds: <b>I.T. Unit</b> opts to <b>decrease USED TIME</b> for the following:<br/>
 --> <b>IDENTIFICATION</b> of <b>excess/missing</b> ITEMS,<br/>
 --> <b>CAUSE</b> of <b>excess/missing</b> CASH (MONEY)<br/>
+--> due to: recommendations dismissed;<br/> 
+--> OUTPUT: <b>GAINED TIME</b><br/>
 <br/>
 --> <b>Example ERROR#7</b>: <b>NOISE POLLUTION</b> @clinic continues,<br/>
 --> where: observed <b>CCTV</b> accessed and information misused<br/> 
 --> by <b>MANLOLOKO/TERRORIST/LIAR GROUP</b>;<br/>
 --> Example <b>NOISE POLLUTION</b> to attack Unit Members and Patients:<br/>
 --> "squeeze breast", "bobo", "walang paki", "mamamatay na 'yan", "cancer"<br/>
---> keyphrase: <b>FEAR</b>, <b>unsolicited ideas</b>;<br/>
+--> keyphrase: <b>FEAR/TERROR</b>, <b>unsolicited ideas</b>;<br/>
 <br/>
 --> Example <b>NOISE POLLUTION</b> to cause <b>PHYSICAL INJURY</b>:<br/>
 --> <b>HEAD PAIN</b> classified to be with keyphrase for <b>EMERGENCY CASE</b><br/>
 --> keyphrase: <b>unsolicited physical stimulation/PAIN</b>;<br/>
-<br/>
---> <b>ACTION:</b> remained: <b>NOT SOLVED</b>,<br/>
+<table class="noteTable">
+<tr><td>
+<b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
+</td></tr>
+</table>
 --> due to: clinic opts to <b>focus on earning INCOME</b>,<br/>
 --> whose: <b>VALUE</b> is supposedly <b>LARGER than damage</b>;<br/>
 <br/>
---> observed: however, <b>OUTPUT</b> on <b>Unit Members</b>:<br/>
---> <b>Example#1)</b> DEATH of Physical Therapist<br/>
+--> observed: however, <b>damage</b> as <b>OUTPUT</b> to <b>Unit Members</b>:<br/>
 <br/>
---> <b>Example#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
+
+<table class="noteTable">
+<tr><td>
+
+<b>Example#1)</b> DEATH of Physical Therapist<br/>
+<br/>
+<b>Example#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
 --> <b>whose OUTPUT:</b> be NON-PRACTICING<br/>
 <br/>
---> <b>Example#3)</b> ILLNESS of Assisting Secretary and Family<br/> 
+<b>Example#3)</b> ILLNESS of Assisting Secretary and Family<br/> 
 --> <b>whose OUTPUT:</b> be in CONTINUOUS NEED of QUICK MONEY<br/>
 <br/>
---> <b>Example#4)</b> DEATH of Secretary<br/>
+<b>Example#4)</b> DEATH of Secretary
+
+</td></tr>
+</table>
+
 <br/>
 --> observed: select Unit Members also executing <b>NOISE POLLUTION</b>,<br/>
 --> based on: <b>PROMISE of QUICK MONEY</b>, obedience to <b>MANLOLOKO GROUP</b><br/>
