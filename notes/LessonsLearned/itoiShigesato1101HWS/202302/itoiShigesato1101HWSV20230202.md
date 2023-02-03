@@ -1,4 +1,4 @@
-## [「人生あみだくじ論」](https://www.1101.com/home.html); last accessed: 20230202
+## [「人生あみだくじ論」](https://www.1101.com/home.html); last accessed: 20230202; from 20230201
 
 ### Select Parts
 
