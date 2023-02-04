@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230203; from 20230202
+  @date updated: 20230204; from 20230203
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -535,7 +535,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> instead of its decrease; <b>PROFITABLE</b>,<br/>
 --> based on an <b>ECONOMIC view</b><br/>
 <br/>
---> <b>Example ERROR#1</b>: Telephone Calls are answered after over 1 Telephone Ring,<br/>
+<b>Example ERROR#1</b>: Telephone Calls are answered after over 1 Telephone Ring,<br/>
 --> where: Telephone Calls are of <b>patient questions</b>,<br/>
 --> including among others: orthopedic surgeon schedule, item availability;<br/>
 <table class="noteTable">
@@ -545,7 +545,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </table>
 
 <br/>
---> <b>Example ERROR#2</b>: noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items<br/>
+<b>Example ERROR#2</b>: noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items<br/>
 --> where: items are of <b>medicine items</b>;<br/>
 <table class="noteTable">
 <tr><td>
@@ -553,7 +553,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </td></tr>
 </table>
 <br/>
---> <b>Example ERROR#3</b>: noticeable <b>DELAY</b> to identify and physically locate items,<br/>
+<b>Example ERROR#3</b>: noticeable <b>DELAY</b> to identify items and their physical location,<br/>
 --> where: items are of <b>non-medicine items</b>;<br/>
 --> adds: items have increasing count and variation;<br/>
 
@@ -592,7 +592,7 @@ last accessed: 20230131; from 20230124<br/>
 </table>
 
 <br/>
---> <b>Example ERROR#4</b>: <b>LOST</b> index cards with patient information,<br/>
+<b>Example ERROR#4</b>: <b>LOST</b> index cards with patient information,<br/>
 --> which: may also have <b>missing answers</b> to patient details,<br/>
 --> where#1: <b>LOST</b> : in <3 years<br/>
 --> where#2: <b>incomplete details</b> : no contact number, occupation, et cetera<br/>
@@ -604,12 +604,12 @@ last accessed: 20230131; from 20230124<br/>
 </table>
 
 --> due to: clinic opts to <b>quickly finishing patient payment</b>,<br/>
---> via#1: <b>creating a new index card</b> for LOST cards,<br/> 
+--> via#1: <b>creating a new index card</b> for <b>LOST</b> cards,<br/> 
 --> via#2: <b>ignoring missing answers</b> to patient details<br/>
 --> adds: however, select patient details, e.g. <b>Senior Citizen number</b>,<br/> 
 --> can be added in <b>index card</b> and <b>computer database</b> @CASHIER UNIT<br/>
 <br/>
---> <b>Example ERROR#5</b>: <b>Official Receipts</b> are given to only those who <b>REQUEST</b>;<br/>
+<b>Example ERROR#5</b>: <b>Official Receipts</b> are given to only those who <b>REQUEST</b>;<br/>
 <table class="noteTable">
 <tr><td>
 <b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
@@ -617,7 +617,7 @@ last accessed: 20230131; from 20230124<br/>
 </table>
 --> due to: clinic opts to <b>quickly finishing patient payment</b><br/>
 --> adds: however, notified clinic of <b>filed POLICE report</b> on the corresponding <b>ACTION</b>,<br/>
---> where: <b>ACTION</b> with <b>Bureau of Internal Revenue (BIR)</b><br/> 
+--> where: <b>ACTION</b> with <a class="webServiceLink" target="_blank" href="https://www.bir.gov.ph">Bureau of Internal Revenue (BIR)</a><br/> 
 --> notes: <b>AVAILABLE REASONS for ERROR#5</b> to include among others:<br/> 
 --> <b>COVID-19</b>, <b>PAYMENT DELAYS</b> from <b>HMO</b> transactions @partner clinics,<br/>
 --> where: <b>HMO</b> = <b>H</b>ealth <b>M</b>aintenance <b>O</b>rganization<br/>
@@ -628,7 +628,7 @@ last accessed: 20230131; from 20230124<br/>
 --> due to <b>DELAYS</b> caused <b>EXPENSES > INCOME @UNIT in SLHCC</b> <br/>
 --> adds: notification of noticeable <b>decrease</b> in I.T. Unit's <b>compensation</b>;<br/>
 <br/>
---> <b>Example ERROR#6</b>: <b>CASH THEFT</b> @clinic is <b>IGNORED</b>;<br/>
+<b>Example ERROR#6</b>: <b>CASH THEFT</b> @clinic is <b>IGNORED</b>;<br/>
 <table class="noteTable">
 <tr><td>
 <b>ACTION:</b> remained: <span class="notSolvedSpan">NOT SOLVED</span><br/>
@@ -657,7 +657,7 @@ last accessed: 20230131; from 20230124<br/>
 --> due to: recommendations dismissed;<br/> 
 --> OUTPUT: <b>GAINED TIME</b><br/>
 <br/>
---> <b>Example ERROR#7</b>: <b>NOISE POLLUTION</b> @clinic continues,<br/>
+<b>Example ERROR#7</b>: <b>NOISE POLLUTION</b> @clinic continues,<br/>
 --> where: observed <b>CCTV</b> accessed and information misused<br/> 
 --> by <b>MANLOLOKO/TERRORIST/LIAR GROUP</b>;<br/>
 --> Example <b>NOISE POLLUTION</b> to attack Unit Members and Patients:<br/>
@@ -681,15 +681,15 @@ last accessed: 20230131; from 20230124<br/>
 <table class="noteTable">
 <tr><td>
 
-<b>Example#1)</b> DEATH of Physical Therapist<br/>
+<b>damage#1)</b> DEATH of Physical Therapist<br/>
 <br/>
-<b>Example#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
+<b>damage#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
 --> <b>whose OUTPUT:</b> be NON-PRACTICING<br/>
 <br/>
-<b>Example#3)</b> ILLNESS of Assisting Secretary and Family<br/> 
+<b>damage#3)</b> ILLNESS of Assisting Secretary and Family<br/> 
 --> <b>whose OUTPUT:</b> be in CONTINUOUS NEED of QUICK MONEY<br/>
 <br/>
-<b>Example#4)</b> DEATH of Secretary
+<b>damage#4)</b> DEATH of Secretary
 
 </td></tr>
 </table>
@@ -708,46 +708,7 @@ last accessed: 20230131; from 20230124<br/>
 <br/>
 --> shared: <b>INFORMATION</b> with clinic and Unit Members,<br/>
 --> adds: <b>BARANGAY</b>, <b>POLICE</b>, <b>LAW ENFORCEMENT</b>;<br/>
---> continuous: to be against <b>MANLOLOKO GROUP</b> via <b>NOT</b> "ALL ARE LIARS"
-<br/>
-<br/>
-<br/>
-LIAR = continuous LYING<br/>
-DEVIL = LIAR<br/>
-DEMONYO = LIAR<br/>
-<br/>
-TO-DO: -update: this<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<b>non-medicine item quantity</b> is already @<b>zero</b><br/>
---> adds: previously, such items were <b>still displayed</b> to be <b>selectable</b> for purchase;<br/>
---> admits: <b>non-medicine items</b> noticeably have <b>INCORRECT COUNTS</b>;<br/>
---> observed: <b>OUTPUT</b> caused by <b>increasing counts of new items</b><br/> 
---> with <b>varying names</b> and <b>prices</b><br/>
---> <b>recommended:</b> to partner, MOSC, to maintain <b>variation count</b> to only <b>500</b> (MAX);<br/>
---> This is as with select stores in <b>GERMANY</b>;<br/>
-<br/>
---> <b>Example#1</b>: <b>ALDI</b> Discount Super Store : <b>600</b> items<br/>
---> <b>Example#2</b>: <b>Spar</b> Discount Super Store : <b>200</b> items<br/>
-<br/>
-where: items = bought regularly by households;<br/>
-<br/>
---> <b>Reference:</b><br/> 
-Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/>
-<br/>
---> received: notification to simply <b>continue adding</b><br/>
---> <b>objective:</b> <b>REDUCE</b> non-medicine item <b>PRICES</b> for patients<br/>
---> remembers: <b>PROBLEM</b> to also have existed with <b>medicine items</b><br/> 
---> to cause noticeable <b>UNSOLD</b> and <b>EXPIRED</b> items;<br/>
---> however, <a class="webServiceLink" target="_blank" href="https://github.com/usbong/KMS">KMS</a> has assisted in <b>SOLVING</b> this problem<br/>
---> adds: <b>VARIATIONS</b> in <b>medicine items</b><br/>
---> <b>do NOT increase</b> as with that of non-medicine<br/>
---> adds: with medicine items, <b>NAMES</b> and <b>PRICES</b> as labels <b>CLEARER</b>;
-<br/>
+--> continuous: to be against <b>MANLOLOKO GROUP</b> via <b>NOT</b> "ALL ARE LIARS"<br/>
 <br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
@@ -756,50 +717,42 @@ Drucker, P. (1995). "Managing in a time of great change". USA: Penguin Group<br/
 			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
-			<b>FALSE BELIEFS</b><br/>
+			<b>LIAR</b> = continuous LYING;<br/>
+			DEVIL/DEMONYO = <b>LIAR</b>;<br/>
+			CANCER CELL = <b>LIAR</b>;<br/>
 			<br/>
-			#1) <b>NEW Medical Doctor (MD)</b> : <b>"QUICK MONEY"</b><br/>
-			observed: <b>classification</b> due to own family members, e.g. <b>Senior Citizens (SC)</b>, who begin to have noticeable <b>NEED for MD</b>;<br/>
-			--> where: <b>COST</b> for <b>MD service</b> becomes <b>noticeable</b>;<br/>
-			<br/>						
-			<b>Medical School COST</b> >= <b>1 Million PHP</b>;<br/>
-			--> <b>TOTAL tuition</b> @<b>Private School</b>;<br/>
-			--> After 5 years, <b>Residency Training</b> @<b>Public Hospital</b>:<br/> 
-			--> <b>INCOME</b>  >= <b>30K PHP</b> per MONTH;<br/>
-			--> however, after training, to set new <b>Private Practice</b>;<br/>
-			--> <b>INCOME</b> may be < <b>30K PHP</b> per MONTH;<br/>
-			--> <b>NOT QUICK MONEY</b>; <br/>
-			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
+			<b>OUTPUT</b> of "ALL ARE LIARS" = <b>DEATH</b><br/>
 			<br/>
-			#2) <b>NEW Information Technology (IT) Worker</b> : <b>"QUICK MONEY"</b><br/>
-			observed: <b>classification</b> due to <b>news reports</b> from the <b>U.S.A.</b>;<br/>
-			--> example: <b>Forbes Asia</b>'s <b>List of Wealthiest Americans</b>,<br/>
-			--> where: <b>TOP 10</b> in List classified to be in <b>I.T.</b>;<br/>
-			--> observed: in the <b>90's</b>, increase of <b>I.T.</b> (and <b>Nursing</b>) <b>students</b>,<br/>
-			--> whose <b>objective:</b> to go to <b>U.S.A.</b>;<br/>
+			<b>CAUSE:</b> YES is NO, and NO is YES;<br/>
+			--> OUTPUT: <b>CHAOS</b> (MAGULO);<br/>
+			--> reminder: CHILDREN still execute <b>CHAOS/ERRATIC MOVEMENTS</b>	<br/>
+			--> Example: continuously <b>KICKING</b> while <b>SITTED</b><br/>
+			--> where: ACTION has <b>NO REASON</b><br/>
 			<br/>
-			<b>I.T. Computer Programmer Training</b> = <b>1 YEAR (approx)</b><br/>
-			--> notes: self by <b>19 years old</b>, already <b>worked to receive payment</b>, <br/>
-			--> while as <b>part-time student</b>;<br/>
-			--> learns: <b>BUSINESS (: ease people)</b>;<br/>
-			--> adds: <b>ACCOUNTING</b> : <b>INCOME</b> > <b>EXPENSES</b>;<br/>	
-			--> <b>objective:</b> <b>BUILD COMPANY</b> in <b>PHILIPPINES</b>;<br/>			
-			--> FROM: <b>INCOME</b> < <b>30K PHP</b> per MONTH<br/>
-			--> TO: <b>INCOME</b> > <b>30K PHP</b> per MONTH as <b>OFW</b><br/>
-			--> where: <b>OFW</b> = <b>O</b>verseas <b>F</b>ilipino <b>W</b>orker<br/>
-			--> where: <b>OFW</b> : <b>Training @Headquarters</b><br/>
-			--> <b>TOTAL ELAPSED TIME</b>: <= <b>5years</b>;<br/>
-			--> however, <b>"OFW"</b> keyphrase becomes <b>noticeable</b><br/>
-			--> by <b>MANLOLOKO group</b> to cause <b>ATTACKS</b>,<br/> 
-			--> e.g. <b>NOISE POLLUTION, THEFT</b><br/>
-			--> where: <b>MANLOLOKO group</b> : <b>budol-budol</b>/<b>CARNAPPER</b>/<br/>
-			--> <b>SMUGGLER</b>/<b>cybercriminal</b>/<b>Teroristang Komunista</b><br/>
-			--> <b>NOT QUICK MONEY</b>; <br/>
-			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10years</b>;<br/>
-
+			observed: <b>MANLOLOKO</b> executes <b>NOISE POLLUTION</b><br/> 
+			--> objective: SURVIVAL of FAMILY UNIT<br/>
+			--> where: <b>NOISE POLLUTION</b> = <b>CHAOS</b>;<br/>
+			--> adds: "SURVIVAL of FAMILY UNIT" = <b>NOT REASON</b><br/>
+			--> due to: <b>CHAOS</b> also to <b>OWN FAMILY UNIT</b>!<br/>
+			<br/>
+			<b>Recommended Reading:</b> MONTESSORI METHOD<br/>
+			
 		</td>
 	</tr>
 </table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+TO-DO: -update: this<br/>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 			<br/>
 			<table class="reminderTable">
 			<tr><td>
