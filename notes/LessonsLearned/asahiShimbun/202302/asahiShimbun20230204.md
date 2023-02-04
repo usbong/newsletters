@@ -38,6 +38,6 @@ mapapansin: ang pakay na magsumbong nang magsumbong;<br/>
 
 >　県警は女性に転勤や一時避難を勧め、１１０番通報につながる携帯型装置も渡す一方、男には女性に近づかないよう注意していた。県警は規制法に則して「適切な対応だった」というが、その行動を制止できなかった結果は極めて重い。有識者らの視点も交えて課題を洗い出す必要がある。
 
-Minungkahi ng Pulis sa Babae na magpalit ng hanap-buhay, pansamantalang umiwas, atbp. Binigyan din siya ng madadalang bagay upang makapagbigay ng balita sa #110 (#PULISYA). Binalalaan naman ang Lalake upang hindi lumapit sa Babae. "Akmang Pagtugon" daw ito ng PULISYA batay sa BATAS, bagama't labis namang mabigat ang kinahinatnan, sapagkat hindi mapangasiwaan (KONTROL). 
+Minungkahi ng Pulis sa Babae na magpalit ng hanap-buhay, pansamantalang lumikas, atbp. Binigyan din siya ng madadalang bagay upang makapagbigay ng balita sa #110 (#PULISYA). Binalalaan naman ang Lalake upang hindi lumapit sa Babae. "Akmang Pagtugon" daw ito ng PULISYA batay sa BATAS, bagama't labis namang mabigat ang kinahinatnan, sapagkat hindi mapangasiwaan (KONTROL). 
 
 >　ストーカー規制法は、埼玉県桶川市の女子大学生殺害事件を機に００年に施行された。規制対象はネット社会の進展に伴い、新たな手口が増えるたびに広がった。メールやＳＮＳでメッセージを何度も送りつける行為に加え、２１年にはＧＰＳ装置で相手の位置情報を無断で取得することも禁じられた。
