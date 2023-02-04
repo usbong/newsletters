@@ -17,7 +17,7 @@ Dutch National Cyber Security Center<br/>
 
 ### NOTES
 
-1) MANLOLOKO/SMUGGLER/CYBERCRIMINA/LIAR group continues to ATTACK via NOISE POLLUTION;<br/>
+1) MANLOLOKO/SMUGGLER/CYBERCRIMINAL/LIAR group continues to ATTACK via NOISE POLLUTION;<br/>
 --> remembers: ANNOUNCEMENT from MANLOLOKO GROUP members,<br/>
 --> SYSON, RAMON, with SYSON, RYAN, et al. of TARGET and OBJECTIVE,<br/>
 --> where: CAUSE due to POLICE CAUGHT SMUGGLED ITEMS;<br/>
