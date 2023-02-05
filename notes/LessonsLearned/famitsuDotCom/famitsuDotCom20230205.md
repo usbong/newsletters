@@ -15,15 +15,15 @@
 —> where: has PAUSE;<br/>
 <br/>
 —> learns: PIXAR MOVIES have continued to be released since Year 2017;<br/>
-—> shares: had stopped watching and verifying,<br/>
-—> until younger brother invited self to watch READY PLAYER ONE (2018)<br/> 
+—> shares: had stopped watching and verifying;<br/>
+—> observed: however, in Year 2018, younger brother invited self to watch READY PLAYER ONE (2018)<br/> 
 —> @CINEMA (AYALA MALLS FELIZ) ; 5 years ago (approx);<br/>
 —> notes: had previously received from older brother eBOOK version, <br/>
---> albeit self opted to STOP @1st MEETING with ARTEMIS due to text dialogue;<br/>
---> as with SEGAL, ERICH's DOCTORS? "I'm a Doctor, damn it..."みたいなこと
+—> albeit self opted to STOP @1st MEETING with ARTEMIS due to text dialogue;<br/>
+—> as with SEGAL, ERICH's DOCTORS? "I'm a Doctor, damn it..."みたいなこと
 
 ### Additional Notes
 
-1) Family Members, e.g. Mother, did NOT watch アニメ, instead AMERICAN FILMS,<br/> 
+1) Family Members, e.g. Filipino Mother, did NOT watch アニメ, instead AMERICAN FILMS,<br/> 
 —> e.g. DISNEY films during time as child
 
