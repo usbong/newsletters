@@ -15,6 +15,24 @@
 > 「学ぶ・試す・味わう」<br/>
 > 学ぶは知る、試すは広げる、味わうは一体になるということ。
 
+
+Yesterday, I was again told of something like: <br/>
+“Thank you for creating HOBONICHI.”<br/>
+I see! If I had not created “HOBONICHI”,<br/>
+I would not have met that person, <br/>
+and looking at it on the other side,<br/>
+I was a little surprised to learn,<br/>
+that in this person’s “AMIDAKUJI (LIFE PATH)”,<br/>
+there would have been no “HOBONICHI”.<br/>
+On 1997-11-10, I went to AKIHABARA to buy the Mac,<br/>
+and after learning to type, despite disliking it,<br/>
+I eventually did get to build this thing,<br/>
+called the “HOBONICHI DAILY ITOI NEWS”.<br/>
+<br/>
+“Learn, Test, Enjoy”<br/>
+“To learn is to know; To test is to expand; To enjoy is to be whole.”
+
+
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
 <table>
