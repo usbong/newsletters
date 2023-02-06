@@ -70,9 +70,8 @@ When that happened, I opted instead to prioritize another task, and then eventua
 
 And now 7 years later, since the former WINDOWS PC had broken down due to web process overload, I use the remaining Mac to increase my know-how on sound recordings with it.
 
-    ### Note
-    
-    1) ノウハウを高める : "to increase know-how", albeit 高め signifies "to raise".
+### Note
+1) ノウハウを高める : "to increase know-how", albeit 高め signifies "to raise".
     
   <td><tr>
     <table>
