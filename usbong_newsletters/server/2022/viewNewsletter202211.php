@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230204; from 20230203
+  @date updated: 20230206; from 20230204
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -701,6 +701,22 @@ last accessed: 20230131; from 20230124<br/>
 --> adds: <b>OUTPUT</b> when <b>DIRECTLY questioned</b>: <b>LIES</b>,<br/>
 --> "Anong NOISE POLLUTION?", "walang naririnig"<br/>
 <br/>
+<table width="90%">
+<tr>
+ <td>
+    <br/>
+	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+	Approx size: 6x6cm
+ </td>
+ <td>
+	NOTE: <b>RADIO FREQUENCY</b> set to <b>STATIC</b>;<br/>
+	<br/>
+	<b>WIRELESS BROADCASTING TOWER</b> misused to <b>TRANSMIT SIGNAL</b> to <b>FREQUENCY</b> set to <b>STATIC</b>
+ </td>
+</tr>			
+</table>
+<br/>
+<br/>
 --> reminder: <b>EAST GERMANY HISTORY</b>,<br/> 
 --> where: Unit Members cause <b>ACTIONS to destroy own Unit</b>,<br/>
 --> where: <b>ACTIONS</b> : <b>INDIRECT</b>, <b>UNCLEAR</b>,<br/>
@@ -735,7 +751,7 @@ last accessed: 20230131; from 20230124<br/>
 			--> adds: "SURVIVAL of FAMILY UNIT" = <b>NOT REASON</b><br/>
 			--> due to: <b>CHAOS</b> also to <b>OWN FAMILY UNIT</b>!<br/>
 			<br/>
-			<b>Recommended Reading:</b> MONTESSORI METHOD<br/>
+			<b>Recommended Reading:</b> <a class="webServiceLink" target="_blank" href="https://www.amazon.com/Montessori-Method-Maria/dp/149924309X">MONTESSORI METHOD</a><br/>
 			
 		</td>
 	</tr>
