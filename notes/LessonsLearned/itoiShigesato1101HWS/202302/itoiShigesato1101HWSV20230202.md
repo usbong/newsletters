@@ -44,7 +44,7 @@ In a span of a year, I took classes at university and worked together with a tea
 
 > 前からも、わかっていたが、なぜならば、人が国を出るものですから。
 
-I've already known this since before, because it is common for people leave the country. 
+I've already known this since before, because it is common for people to leave the country. 
 
 > 会社を立て始めた2011年に、それを意識していながら、 遠い海外からも、ファイルが分かち合えるシステムを作ったり、使ったりしました。
 
