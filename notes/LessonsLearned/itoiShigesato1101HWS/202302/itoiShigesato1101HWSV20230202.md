@@ -40,7 +40,7 @@ called the “HOBONICHI DAILY ITOI NEWS”.<br/>
     
 > 一年間ほどに大学で一緒に授業を受けて、仕事してた仲間が、2016年に家族とアメリカへ引っ越すと言って、きっかけとなって、こっちもMacを買うことにしました。
 
-In a span of a year, I took classes and worked together with a team member who told me in 2016 that he shall be moving to AMERICA with his family. This became the reason for me to decide to also buy a Mac. 
+In a span of a year, I took classes at university and worked together with a team member who told me in 2016 that he shall be moving to AMERICA with his family. This became the reason for me to decide to also buy a Mac. 
 
 > 前からも、わかっていたが、なぜならば、人が国を出るものですから。
 
