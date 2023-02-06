@@ -64,7 +64,7 @@ But when our team member finally moved to AMERICA, I was told by an APPLE report
 
 > そうなると、こっちが、ほかの事を優先したくなって、結局、毎年の五千ペソほどの支払いを 止めて、APPLEでなく、残っていたWINDOWSを使うことにしました。
 
-When that happened, I opted instead to priotize another task, and then eventually, stopped the 5K PESO payments every year, after deciding to use the remaining WINDOWS, instead of Mac.
+When that happened, I opted instead to prioritize another task, and then eventually, stopped the 5K PESO payments every year, after deciding to use the remaining WINDOWS, instead of Mac.
 
 > そして、七年後の現在に、元のWINDOWSパソコンが、ウェブの過労処理で、壊れてしまい、残っているMacで、録音のノウハウを高めようとするには、使っています。
 
