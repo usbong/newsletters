@@ -32,7 +32,7 @@ CON ARTIST duped millions of pesos<br/>
 --> adds: as observation, such people in Philippines to be of Chinese ancestry;
 
 2) notes: TIKTOK misused as FRIENDSONLY web service to earn INCOME via selling pornography;<br/>
---> reminder#1: FRIENDSONLY FOUNDER arrested in Singpore;<br/>
+--> reminder#1: FRIENDSONLY FOUNDER/CEO arrested in Singpore;<br/>
 --> notes: technique of viewing body parts of select people,<br/>
 --> who have physical similarities as those preferred of BUYER;<br/>
 --> "kamukha"; <br/>
