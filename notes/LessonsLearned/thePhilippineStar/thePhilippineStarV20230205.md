@@ -44,7 +44,7 @@ CON ARTIST duped millions of pesos<br/>
 
 
 3) notes: DONATIONS via web services, e.g. PATREON, exists;<br/>
---> adds: DONATIONS has NO TAX;<br/>
+--> adds: DONATIONS have NO TAX;<br/>
 --> adds: as alternative, received MONEY NOT anymore REPORTED; <br/>
 --> recommends: verifying LIFESTYLE; <br/>
 --> adds: USBONG NOTE#1
@@ -53,5 +53,6 @@ CON ARTIST duped millions of pesos<br/>
 --> observed: however, select people execute action <br/>
 --> as that of NORWAY, where: INHERITANCE has low/zero TAX;<br/>
 --> adds: people with MONEY, but have NO know-how of VALUE of WORK cause problems, e.g. HEALTH;<br/>
---> example: "walang naririnig" to cause MENTAL ILLNESS
+--> example: "walang naririnig" to cause MENTAL ILLNESS;<br/>
+--> adds: USBONG NOTE#3
 
