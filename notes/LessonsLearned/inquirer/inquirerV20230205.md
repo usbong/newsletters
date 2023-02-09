@@ -56,12 +56,14 @@ FOKNO pursued the case,<br/>
 
 ### USBONG NOTES
 
-1) observed: SOUND (with electricity) via wireless broadcasting technology,<br/>
+1) observed: incidents of misuse of SOUND (with electricity)<br/> 
+--> via wireless broadcasting technology,<br/>
 --> instead of written text on FB platform, et cetera, <br/>
---> has had noticeably DELAY to be used against ILLEGAL ACTIONS;<br/>
+--> has had noticeable DELAY in their use<br/>
+--> against ILLEGAL ACTIONS;<br/>
 --> reminder: TOWN (Marikina City, et cetera) <br/>
 --> is the platform for the broadcasting;<br/>
 --> adds: as OUTPUT, MANLOLOKO/BUDOL-BUDOL/SMUGGLER/CYBERCRIMINAL/LIAR group,<br/>
---> continues: to use it for NOISE POLLUTION;
+--> continues: to use it for NOISE POLLUTION/TERRORISM,<br/>
+--> objective: TERROR/FEAR with physical harm to multiple targets;
 
-TO-DO: -update: this
