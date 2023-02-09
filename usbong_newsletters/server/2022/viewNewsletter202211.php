@@ -981,56 +981,62 @@ reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><b
 <h3>4) shares: Lessons-learned from NEWSPAPERS</h3>
 <h4>4.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
-4.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07">「トイレをきれいにすることから始めた」　JR東社長が語る150年</a>; last accessed: 20221027; from 20221014
+4.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASR1F6JR8R1FPTIL015.html">「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡</a>; last accessed: 20230209; from 20230114
 <br/><br/>
 <blockquote class="usbongBlockquote">
 <p>
-「トイレをきれいにすることから始めた」　JR東社長が語る150年
+「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡
 </p>
 </blockquote>
 <br/>
-"Sinimulan mula sa paglilinis ng TOILET";<br/> 
-Salaysay ng Pinuno ng Samahan ng JR ukol sa 150 Taon nito
+"HINTO!" Sa gitna ng paghahabol sa nakaw na sasakyan; Patay ang nagpapatakbong lalake, sa 4 na putok ng baril mula sa 2 Pulis;
 <br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    聞き手・松本真弥、細沢礼輝2022年10月14日 8時00分
+     2023年1月13日 20時30分
 </p>
 </blockquote>
 <br/>
-Tagapakinig: MATSUMOTO, MAYA; HOSOZAWA, REIKI; 2022-10-14T08:00
+2023-01-13T20:30
 <br/>
 <h3>keyphrase</h3>
 
 <blockquote class="usbongBlockquote">
 <p>
-    「国鉄民営化から35年。国鉄時代はトイレが汚く、駅員が乗客に切符を投げつけていた。JR東はトイレをきれいにすることから始めた。まずは駅に来てもらえるように。次のステップは駅周辺や駅ナカの開発で、いかに駅を便利にしていくかだった」
+乗用車に乗っていたのは運転の男1人。パトカーは追跡中、サイレンを鳴らし、赤色灯をつけていた。追いついた直後、車がバックして後続のパトカーにぶつかってきたという。
 </p>
 </blockquote>
 <br/>
 
-"35 Taon ang lumipas mula nang baguhin ang Bakal ng Kaharian bilang Kalakarang Pantao. Noong mga panahon iyon, madumi ang TOILET, at ang mga Tauhan ng Istasyon, ibinabato nila ang TICKET sa mga Sumasakay. Sinimulan ng JR-Kanluran ang paglilinis ng TOILET. Ito'y upang sa simula man lang, may dumating sa Istasyon. Ito naman ang sunod na hakbang: kung paano sa pamamagitan ng pagpapa-unlad ng paligid at looban nito, mapagiginhawa ang Istasyon."
+Isang lalake ang nagpapatakbo ng sasakyan. Habang hinahabol, pinatunog ng PATROL CAR ang SIRENA, at binuksan ang pulang ilaw. Agad nang mahabol, pinatakbo ng lalake patalikod ang sasakyan, at binangga raw ang kasunod na PATROL CAR.
 <br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    「明治政府が誕生し、その翌年に鉄道の建設を決めた。走り始めたのは明治5年（1872年）。軍備優先の議論もあったなかで、そのスピード感に改めて気概を感じる」
+地域課の男性巡査長（26）がパトカーから降り、車の助手席側の窓ガラスを警棒でたたきながら、止まるよう指示。だが男は従わず、信号待ちをする前方のトラックとの間で前進とバックを繰り返したという。
 </p>
 </blockquote>
 <br/>
-"Isinilang ang Pamahalaan ng MEIJI, at pinagpasiyahan na sa sumunod na taon, itatayo ang Bakal na Daan. Taong 5 ng MEIJI (Taon 1872) nang nagsimulang tumakbo ito. Sa loob ng talakayan ukol sa pag-una sa mga paghahanda ng Militar, mararamdaman ang sagisag ng panibagong kaluluwa sa bilis niyon."
+Bumaba ang Lalakeng Pulis (26) na namumuno sa pag-iikot sa bahaging iyon, at kinatok gamit ang Pulis batuta ang salamin sa katabing upuan ng sasakyan, bilang pahiwatig na huminto. Gayunman, hindi sumunod ang lalake, at pinasulong sa pagitan ng TRAFFIC LIGHT sa harapan ng riles ng tren ang sasakyan, at muli raw ito ipinatakbo palikod.
 <br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-    鉄道が日本で開業して14日で150年を迎えた。
+パトカーを運転していた同課の男性警部補（47）も降りて車の運転席側に回り、止まらないと発砲すると警告した上で2人が撃った、と府警は説明している。
 </p>
 </blockquote>
 <br/>
-
-Sa ika-14 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon ng pagbubukas ng kalakaran nito.
+Bumaba rin sa sasakyan ang Lalakeng Pulis (47) ng nabanggit na Unit, at ang siyang nagpapatakbo ng PATROL CAR. Umikot siya tungo sa banda ng upuan ng nagpapatakbo ng sasakyan. Pagkatapos balalaan na magpapaputok kapag hindi huminto, nagpaputok ang dalawa, ayon sa paliwanag ng Kapulisan ng Rehiyon.
 <br/>
+<h3>Dagdag: PLATE NUMBER of stolen vehicle</h3>
+<blockquote class="usbongBlockquote">
+<p>
+パトカーで巡回中だった八尾署員が盗難届が出されているナンバーをつけた乗用車を発見し追跡。
+</p>
+</blockquote>
+<br/>	
+Natagpuan ng Unit na nag-iikot sa PATROL CAR, ang sasakyan na may PLATE NUMBER ng nakaw na sasakyan, at hinabol ito.
 
 <h3>Sanggunian:</h3>	
     GOOGLE SEARCH ENGINE; TRANSLATE<br/>
