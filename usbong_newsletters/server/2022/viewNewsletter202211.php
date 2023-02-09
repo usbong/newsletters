@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230206; from 20230204
+  @date updated: 20230209; from 20230206
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -757,45 +757,6 @@ last accessed: 20230131; from 20230124<br/>
 	</tr>
 </table>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-			<br/>
-			<table class="reminderTable">
-			<tr><td>
-			<b>REMINDER:</b><br/> 
-			<b>Former President RAMOS, Fidel V (RIP)</b>'s <b>RECOMMENDATION:</b><br/>
-			<br/>
-			<b>INCREASE</b> of <b>Overseas Filipino Workers (OFW)</b> to <b>INCREASE MONEY</b> in Philippines via <b>U.S. Dollar remittances</b>;<br/>
-			<br/>
-			--> added: as <b>WARNING</b>, <b>ACTION</b>, causes <b>BRAIN DRAIN</b> if <b>CONTINUED</b> in <b>EXCESS</b>; where: <b>BRAIN DRAIN</b>: <b>know-how</b> <b>shared abroad</b>, NOT in Philippines;<br/>
-			<br/>
-			--> adds: <b>observation</b> that select BANKS to have noticeable <b>LOW SERVICE FEE</b> for received <b>U.S. Dollar remittances</b> classified as <b>SUPPORT</b> for the <b>ACTION</b>;<br/>
-			--> Example: <b>BDO</b>; where: <b>BDO</b> = <b>B</b>ANCO <b>D</b>E <b>O</b>RO<br/>
-			</td></tr>
-			</table>
-			<br/>
-
-			<b>OUTPUT#1: ABROAD</b><br/>
-			--> from <b>HISTORY</b>, <b>I.T. workers and Nurses (OFW)</b><br/>
-			--> <b>CHANGE CITIZENSHIP</b> to be that of the <b>U.S.A.</b>;<br/> 
-			--> however, <b>ZERO</b> noticeable such <b>I.T. workers</b> in <b>WEALTHIEST LIST</b><br/>			
-			--> adds: with <b>Nurses</b>, <b>MONEY still NOT sufficient</b><br/>
-			--> due to they send their children to study in Philippines, instead of in <b>U.S.A</b>.<br/>
-			<br/>
-			<b>OUTPUT#2: PHILIPPINES</b><br/>
-			--> observed: <b>MANLOLOKO</b> to be <b>INGGIT (ENVIOUS)</b><br/>
-			--> due to <b>OFW INCOME</b> appears > <b>ILLEGAL ACTION INCOME</b><br/>
-			--> where: <b>ILLEGAL ACTION</b> : <b>smuggling</b>, <b>carnapping</b><br/>
 
 			<h3>
 				REMINDER: QUICK MONEY : <b>Vehicle COST</b>
@@ -977,171 +938,14 @@ reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><b
 			--> <a class="webServiceLink" target="_blank" href="mailto:opss@marikina.gov.ph">opss@marikina.gov.ph</a><br/>
 			<br/>
 			reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
-			<br/>
-			<b>Additional Notes (ACTION#1):</b><br/>
-			--> <b>Report ACTION</b> classified as <b>START of EXECUTION</b> of <b>LAW ENFORCEMENT</b><br/>
-			--> adds: noticeable <b>DELAY</b> to <b>FINISH EXECUTION</b>;<br/>
-			--> where: <b>finish</b> : <b>MANLOLOKO</b> with <b>NOISE POLLUTION DESTROYED</b><br/>
-			--> keyphrase: <b>already as expected</b>;<br/>
-			<br/>
-			--> adds: <b>CURRENT OUTPUT</b> is due to <b>CURRENT SYSTEM</b>;<br/>
-			--> where: <b>CURRENT SYSTEM</b> : <b>U.S.A. economic system</b><br/>
-			--> adds: <b>economic system</b> based on <b>MONEY</b> as <b>VOTE</b> to make <b>DECISION</b>,<br/>
-			--> with few <b>ADMIN (PAMAHALAAN)</b> intervention via <b>ENFORCED REGULATION</b><br/>
-			<br/>
-			<b>OUTPUT#1:</b><br/> 
-			<b>PRODUCT/SERVICE</b> continues IF <b>PROFITABLE</b> via <b>VOTED</b> using <b>MONEY</b><br/>
-			<br/>
-			<b>OUTPUT#2:</b><br/> 
-			criminal organization, smuggling/carnapping, <b>QUICK MONEY</b>, extortion/harassment<br/>
-			<br/>
-			--> adds: <b>POLICE REPORTS</b> are part of <b>"DUE PROCESS"</b> and <b>"DEFENSE"</b>;<br/>
-			--> adds: execute <b>WORK TASKS</b> to <b>speed-up system</b>;<br/>
-			<br/>
-			<b>EXAMPLE#1:</b> <b>share know-how</b> of <b>I.T. security defense</b><br/> 
-			--> against <b>PANLOLOKO</b> by <b>MANLOLOKO group</b>;<br/>
-			<br/>
-			<b>EXAMPLE#2:</b> <b>verify</b> to be updated on <b>existing systems</b><br/> 
-			--> <b>ADMIN INTERVENTION</b> in Singapore</b><br/>
-			--> from: printed newspaper, <b>The Philippine Star (2022-10-14; FRIDAY)</b><br/>
-			--> notes: <b>"Singapore jails OnlyFans creator in first such conviction"</b><br/>
-			--> <b>3 weeks jail</b> for defying Police Order not to access account during investigation;<br/>
-			--> <b>uploaded photos and video</b> for paying subscribers on <b>adults-only platform</b>; <br/>
-			--> income USD 240K after taxes;<br/>
-			--> <b>transmitting obscene material electronically</b> in Singapore can be jailed for up to 3 months, fined, or both;<br/>
-			--> Titus Low (22), <b>fined USD 2,087</b>; <br/>
-			--> reminder: <b>CRIMINAL RECORD HISTORY</b> exists to be <b>NOT REPEATED</b><br/>
-			<br/>
-			<b>EXAMPLE#3:</b> <b>remember:</b> <b>警察</b> : <b>敬語</b>;<br/>
-			--> where: <b>警察</b> : <b>POLICE</b>;<br/>
-			--> where:  <b>敬語</b> : <b>RESPECTFUL LANGUAGE</b>;<br/>
-			--> reminder: <b>Maiging hindi ka aasang tutulungan ka ng taong pinagsabihan mo ng, ayon sa kaniya, masasakit na salita</b>;<br/>
-			--> keyphrase: <b>POLICE REPORTS</b>, <b>"DUE PROCESS"</b>, <b>"DEFENSE"</b><br/>
-			<br/>
-			<br/>
-			<b>ACTION#2</b>) LEARN BUSINESS (: ease people);<br/> 
-			--> where: <b>ACCOUNTING</b>: <b>INCOME</b> > <b>EXPENSES</b>;<br/>
-			--> reminder#1: <b>CARNAPPER/SMUGGLER</b> : NOT ease people<br/>
-			--> reminder#2: <b>PORNOGRAPHY</b> : VIOLENCE<br/>
-			<br/> 
-			--> <b>EXAMPLE as NEW BUSINESS:</b><br/> 
-			--> PAY <b>10K PHP</b>, monthly; receives <b>20K PHP</b> in <b>INCOME</b>?<br/>
-			--> <b>PAID-UP CAPITAL</b>: @<b>40K PHP</b>;<br/> 
-			--> <b>IF</b> after 4 months, <b>NO INCOME</b>;<br/>  
-			--> add: another <b>40K PHP</b> to continue;<br/>
-			--> <b>PROBLEM:</b> <b>INCOME</b> < <b>EXPENSES</b>;<br/> 
-			<br/> 
-			--> <b>IF</b> has <b>INVESTMENT</b>, with <b>4% INTEREST INCOME</b>;<br/> 
-			--> opts: for <b>INVESTMENT</b>, instead of <b>START NEW BUSINESS</b><br/>
-			--> where: <b>INCOME</b> : <b>< 4% </b>; <br/>
-			--> keyphrase: <b>LOGIC</b>;<br/>
-			<br/>
-			--> <b>EXAMPLE INVESTMENTS into ADMIN (PAMAHALAAN):</b><br/> 
-			--> 1) <b>PESO-BOND</b> @<b>6.74% NET INCOME</b>;<br/>
-			--> 2) <b>PAG-IBIG MP2</b> @<b>6% (minimum) NET INCOME</b>;<br/>
-			--> where: <b>MP2</b> = <b>M</b>ODIFIED <b>P</b>AG-IBIG <b>2</b><br/>
-			--> <b>NOT QUICK MONEY</b>;<br/>
-			--> <b>TOTAL ELAPSED TIME</b>: >= <b>10 years</b>;<br/>
-			
-			<br/>
-			<b>Additional Notes (ACTION#2):</b><br/>
-			--> shares: after <b>computation</b>, <b>CAN</b> by <b>30 years old (approx)</b><br/> 
-			--> be <b>self-sufficient</b> to <b>build NEW FAMILY UNIT</b>;<br/>
-			--> <b>recommends:</b> <b>investment</b> to be part of <b>EDUCATION</b> of <b>children (count: 2)</b>;<br/>
-			--> send: to <b>JAPAN</b> for <b>at least 10 months</b> to <b>study</b>;<br/>
-			--> does: <b>NOT</b> require <b>UTANG-NA-LOOB (loan for tuition)</b><br/> 
-			--> from <b>children</b> to <b>parents</b>, et cetera;	
+			<br/>	
 			</td></tr>
 			</table>
 
 <h3>3) shares: Security Defense Force and Health</h3>
---> observed: from <b>history</b>, <b>ATTACKS</b> to <b>Senior Citizens</b>,<br/>
---> to <b>exist</b> in <b>Japan</b> and <b>Philippines</b>;<br/>
---> keyphrase: <b>to steal money</b>, <b>QUICK MONEY</b>;<br/>
---> observed: as <b>DEFENSE</b>, <b>children</b>, <b>grandchildren</b><br/> 
---> put in <b>same house compound</b>;<br/>
---> adds: however, <b>spouse of married children</b> causes <b>speed-up</b> of <b>DEATH</b>;<br/>
---> due to <b>NEED for QUICK MONEY</b><br/>
-<br/>
-
-<b>NOTE (from SYSON, MICHAEL B.):</b>
-<table class="noteTable">
-	<tr>
-		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
-		</td>
-		<td class="noteTableTextColumn">			
-		remembers:  MANGA/ANIME <b>ドラえもん</b> (doraemon) from FUJIO, FUJIKO,<br/>
-		--> where: <b>ドラえもん</b> as <b>ROBOT CAT</b> from <b>FUTURE</b><br/> 
-		--> assists <b>CHILD</b> in the <b>current TIME</b><br/>
-		--> due to: <b>without assistance</b>, shall <b>CAUSE PROBLEMS</b>;<br/>
-		--> keyphrase: <b>NEED for QUICK MONEY</b><br/>
-		<br/>
-		<b>Example</b> Story#1: <b>DARUMA DOLL</b> from <b>LOLA</b> needs to have its <b>EYEBALLS drawn</b> by <b>CHILD</b>, <b>NOBITA</b>, to fulfill <b>FAMILY DREAM</b><br/>
-		--> keyphrase: <b>NEED of ACTION</b> to cause <b>FUTURE</b><br/>
-		--> adds: <b>FAMILY DREAM</b> : <b>NO NEED for QUICK MONEY</b><br/>
-		<br/>
-		<b>Example</b> Story#2: <b>BULLY</b> who <b>BEATS GUARD DOG</b><br/>
-		--> exchanges <b>POSITION</b> with the <b>GUARD DOG</b><br/>
-		--> where: <b>BULLY</b> : <b>CHILD</b> classified as <b>MINOR</b><br/>
-		--> adds: <b>GUARD DOG</b> as the <b>BULLY</b> opts <b>NOT to BEAT</b> the <b>BULLY</b><br/>
-		--> keyphrase: <b>GUARD DOG</b> understands <b>POSITION</b>,<br/> 
-		--> teaches <b>BULLY</b> of <b>CORRECT ACTION</b><br/>
-		<br/>				
-		--> reminder: <b>LECTURES</b> on <b>VALUES</b> <b>NOT</b> <b>EFFECTIVE</b> <b>after K-12</b><br/>
---> where: <b>K-12</b> : <b>High School (AGE of MINOR)</b><br/>
---> adds: <b>EFFECTIVE ACTION</b> is via <b>PUNISHMENT</b>;<br/> 
---> with: <b>CRIMINAL RECORD HISTORY</b> to be <b>NOT REPEATED</b> by <b>SOCIETY</b><br/>
-<br/>
---> shares: self to prefer <b>increase in use</b> of <b>MACHINES/ROBOTS</b> to <b>assist</b>,<br/> 
---> <b>instead of</b> increase in <b>people</b>, due to <b>people</b> have <b>EMOTION</b>,<br/>
---> which: causes <b>problem</b>: <b>NEED for QUICK MONEY</b>;<br/> 
---> whose: <b>OUTPUT</b> = <b>intentionally cause</b> <b>HARM</b>;<br/> 
---> keyphrase: <b>EMOTION</b> : <b>IMPULSE BUYING</b>, <b>Income</b> < <b>Expenses</b><br/>
---> <b>NOT MAPARAANG PAGBIBILANG</b><br/>
---> adds: however, <b>MACHINE/ROBOTS</b> do <b>NOT</b> <b>intentionally cause</b> us <b>HARM</b><br/> 
---> <b>Example</b>: Electric Fan;<br/>
---> keyphrase: <b>people</b> with <b>NEED for QUICK MONEY</b> cause <b>HARM</b>
-		</td>
-	</tr>
-</table>
-
-<br/>			
-<br/>			
---> observed: in <b>Health</b>, <b>patients</b> <b>CLARIFY</b> select <b>MEDICINE ITEMS</b> @<b>CASHIER UNIT</b><br/>
---> <b>Example#1:</b> Tablet is for Morning and Evening? Not Afternoon and Evening?<br/>
---> <b>Example#2:</b> Kailangan pagkatapos kumain?<br/>
---> <b>Example#3:</b> two (2) tablets per Day?<br/>
---> <b>Example#4:</b> Anong ginagawa nitong gamot?<br/>
---> reminder: <b>VARIATION</b> in <b>MEDICINE ITEMS</b> <b>EXISTS</b><br/>
-<br/>
-<b>Recommended Actions:</b><br/>
---> 1) bring: <b>NOTEBOOK and PEN</b><br/> 
---> 2) execute: <b>Tiyakin</b> sa <b>Manggagamot (Medical Doctor)</b> ang mga <b>HINDI TIYAK</b><br/>
---> adds: Pinakamaiging <b>TIYAK</b> kayo.<br/>
-<br/>
---> observed: such <b>CERTAINTY problem</b> to <b>EXIST</b><br/>
---> due to among others: <b>DOUBT</b>, <b>NOT CLARIFIED</b>, <b>PANLOLOKO</b><br/>
-<br/> 
---> reminder: as <b>CAUTION</b>, <b>WALANG PAKI</b> causes <b>MANHID</b><br/>
---> where: <b>MANHID</b> = <b>WALANG PAKIRAMDAM</b><br/>
---> keyphrase: <b>WALANG PAKI</b>, <b>APATHY</b>, <b>APARTHEID</b><br/>
-<br/> 
---> adds: <b>OUTPUT</b> of <b>HINDI TIYAK</b> : <b>SYSTEM INEFFICIENCY</b><br/>
---> example: <b>DELAY</b> in <b>identification</b> of <b>MANLOLOKO members</b>,<br/>
---> who use <b>FALSE IDENTITIES</b>, <b>recorded/manipulated voice-overs</b>;<br/>
---> shares: <b>MANLOLOKO</b> : <b>NAGKAKAMALI</b>, <b>YABANG</b>, <b>LIFESTYLE</b> from <b>INCOME</b>
-<br/>
-<br/>
---> adds: <b>NO NEED</b> to use available <b>remaining TIME</b> to identify <b>significance</b><br/> 
---> of <b>objects/IDEAS</b> that are continuously <b>NOT CLARIFIED</b><br/>
---> keyphrase: <b>OUTPUT</b> = <b>NEGATIVE EMOTION</b><br/>
---> adds: as <b>recommendation</b>, <b>WORK</b> to <b>SPEED-UP SYSTEM</b><br/>
---> where: <b>OUTPUT</b> = <b>QUICK</b> and <b>CORRECT</b>; <b>POSITIVE EMOTION</b>
-<br/>
 
 
-<h3>3) shares: Tanong at Sagot</h3>
+<h3>3.1) shares: Tanong at Sagot</h3>
 <table class="reminderTable">
 <tr>
 <td>
@@ -1177,7 +981,7 @@ reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><b
 <h3>4) shares: Lessons-learned from NEWSPAPERS</h3>
 <h4>4.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
-3.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07">「トイレをきれいにすることから始めた」　JR東社長が語る150年</a>; last accessed: 20221027; from 20221014
+4.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASQBF66N3QBFULFA00T.html?iref=comtop_7_07">「トイレをきれいにすることから始めた」　JR東社長が語る150年</a>; last accessed: 20221027; from 20221014
 <br/><br/>
 <blockquote class="usbongBlockquote">
 <p>
@@ -1233,62 +1037,160 @@ Sa ika-14 na araw, sasalubungin ng Bakal na Daan sa Bansang Hapon ang 150 Taon n
 </h5>
 
 
-<h4>4.2) shares: Lessons-learned from MANILA BULLETIN (NEWSPAPER)</h4>
+<h4>4.2) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
 <h5>
-3.2.1) <b>"BSP wants stronger email cybersecurity for banks, non-banks" (20221013; WEDNESDAY)</b><br/>
+4.2.1) <b>“Why are smugglers left untouched?” (20230113; FRIDAY)</b><br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
-	AUTHOR: CHIPONGIAN, LEE C
+	AUTHOR: BONDOC, JARIUS
 </p>
 </blockquote>
 <br/>
 
-<b>keyphrase:</b> Cybercrime Prevention Act of 2012, EMAIL Address<br/>
-<br/>
-<b>Bangko Sentral ng Pilipinas (BSP)</b><br/>
-<b>Memorandum No. M-2022-043</b><br/>
---> signed: by BSP Deputy Governor: FONACIER, CHUCHI G in 2022-10-07<br/>
-<br/>
-<b>Cybercrime Prevention Act of 2012</b><br/>
-<br/>
-<b>EMAIL Address</b><br/>
---> used: as main verification and authentication<br/>
---> linked: with banks, financial, e-payments<br/>
-<br/>
-<b>Business Email Compromise (BEC)</b><br/>
---> identified: as most prevalent and costly cyberattack<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    "...utilizes seemingly legitimate email accounts from another organization to fraudulently trick employees of another business into giving their credentials, money, personal information, financial details or other sensitive data"
-</p>
-</blockquote>
-<br/>
---> <b>FALSE IDENTITY</b> to <b>MISLEAD PEOPLE</b><br/>
---> Example: spoofing of individual's identity via email address
+<b>keyphrase:</b> 
 
-<h4>BSP's Recommended Actions</h4>
+Billionaire Cartelist-smugglers
 
-<b>    1) verify: email system used</b><br/>
-<br/>
-<b>    2) verify: email header information</b><br/>
-    --> sender, receiver<br/>
-<br/>
-<b>    3) verify: email content</b><br/>
-    --> Phishing, links, file attachments,<br/>
-    --> unsolicited requests for personal information, sense of urgency, act quickly<br/>
-<br/>
-<b>    4) contact: sender via another trusted channel</b><br/> 
-    --> Example: in-person meeting, to verify validity of email<br/>
-    
+<h4>MODUS; Technique#1</h4>
+
+Smugglers use Customs bosses' favorite consignees<br/>
+--> where: 30PHP per kilo plus bulk freight cost, sold to retailers @450~650PHP<br/>
+--> adds: BRIBERY via in 5 containers, 3 for smugglers; 2 for Customs accomplices;
+
+<h4>Smuggling PORT Locations</h4>
+
+Biggest smuggler @PORT of SUBIC<br/>
+--> front consignees receive duty- and inspection-free privilege
+
+<h4>Three (3) new Contrabandist Lords:</h4>
+
+1) PORT of MANILA; Manila International Container Port (MICP)<br/>
+--> "Mike Ma." (30's); naturalized Filipino from China
+
+2) PORT of SUBIC<br/>
+--> "Gene Ang" (40's), Chinoy
+
+3) PORT of BATANGAS<br/>
+--> "Beverly Peres" (50's);
+
+<h4>MODUS; Technique#2</h4>
+
+--> uses: with Custom crooks, recycled lapsed permits to bring in more shiploads year-round
+
+<h4>Examples</h4>
+
+1) Sotto, Tito (former Senate President)<br/>
+--> named: 4 of 22 culprits in intelligence reports<br/>
+1.1) Leah "Luz" Cruz, operating in Cagayan de Oro and MICP;<br/>
+1.2) Manuel Tan, CdO, Subic, Batangas;<br/>
+1.3) Jun Diamante, CdO;<br/>
+1.4) Andrew Chang, MICP, Port of Manila, Batangas
+
+2) Layug, James (Agricutlure Assistant Secretary)<br/>
+--> requested: CUSTOMS to issue:<br/>
+--> ALERT ORDERS and JOINT 100% inspection;<br/>
+--> all cargos of 6 consignees:<br/>
+2.1) Victory JM Enterprises;<br/>
+2.2) Taculog Int'l Consumers Goods Trading;<br/>
+2.3) Asterzenmed Aggregates;<br/>
+2.4) Veneta Consumer Goods Trading;<br/>
+2.5) Lalavy Aggregates Trading;<br/>
+2.6) SB Express Logistics Business Solution;
+
+3) Additional Entities<br/>
+3.1) Frankie Trading Enterprises @CdO<br/>
+3.2) Primex Export-Import Producer @CdO
+
 <h4>Dagdag</h4>
 
-    file: <b>incident reports</b>, et cetera with <b>email system</b>, <b>Police/Law Enforcement</b><br/>
+1) observed: ENGLISH language and citizenship, e.g. U.S.A.,<br/> 
+--> used as parts of technique to cause Filipinos to execute ACTIONS,<br/> 
+--> classified in this case, to be obedience to SMUGGLERS/MANLOLOKO group;<br/>
+--> where: U.S.A. : supposedly comes as security defense of Philippines<br/> 
+--> to cause Filipinos to NOT execute ACTIONS against U.S.A. nationals;<br/>
+--> remembers: received training @Global Unit in Japan;<br/>
+--> where: lone Asian, e.g. Filipino, Japanese, can easily be attacked<br/> 
+--> by lone foreigner, e.g. Caucasian, using such technique;<br/>
+--> adds: however, as GROUP, can WIN;
+
+2) remembers: with SMUGGLER GROUP, a key local member, e.g. Filipino, Japanese,<br/> 
+--> has to noticeably be FLUENT in ENGLISH LANGUAGE;<br/>
+--> notes: as reference, select parts observed from younger brother's<br/> 
+--> GANGSTER/YAKUZA films that appear to be also watched by SMUGGLER GROUP;
+
+
+
+
+
+<h5>
+4.2.1) <b>“Alleged con artist caught in Taguig” (20230205; SUNDAY)</b><br/>
 <br/>
-    observed: <b>CRIMINAL members</b> near target,<br/>
-    --> e.g. <b>kamag-anak</b>, <b>kaklase</b>, <b>kunwaring kaibigan</b>, <b>nakahanap-buhay</b><br/>
-    --> keyphrase: <b>NEED for QUICK MONEY</b>
+<blockquote class="usbongBlockquote">
+<p>
+	AUTHOR: TUPAS, EMMANUEL
+</p>
+</blockquote>
+<br/>
+
+<b>keyphrase:</b> 
+
+CON ARTIST duped millions of pesos<br/>
+--> where: CON ARTIST : businesswoman and owner of fashion styling company<br/>
+--> arrested suspect name: CABRERA, MIKAELA VERONICA (26)<br/>
+--> condominium unit, corner McKinley Parkway,<br/>
+--> 26th street in Bonifacio Global City,<br/>
+--> @18:38
+
+<h4>Warrant of Arrest</h4>
+
+--> due to: violation of Batas Pambansa 22:<br/>
+--> "Bouncing Check Law"<br/>
+--> issued: 2022-10-27 by Makati Metropolitan Trial Court Branch 127;
+
+<h4>Technique</h4>
+
+--> using dating app, prey on men;<br/>
+--> shall request for money to save her company from going bankrupt,<br/>
+--> promised interest rate of 20~30%
+
+<h4>USBONG NOTES</h4>
+
+
+1) expects: INCORRECT/ILLEGAL ACTIONS by people,<br/>
+--> who: put "businessman/businesswoman" as occupation,<br/> 
+--> and do NOT clarify the business' industry and technique to generate INCOME;<br/>
+--> adds: as observation, such people in Philippines to be of Chinese ancestry;<br/>
+<br/>
+2) notes: TIKTOK misused as OnlyFans web service<br/> 
+--> to earn INCOME via selling pornography;<br/>
+--> reminder#1: OnlyFans FOUNDER/CEO arrested in Singpore;<br/>
+--> notes: technique of viewing body parts of select people,<br/>
+--> who have physical similarities as those preferred of BUYER;<br/>
+--> "kamukha"; <br/>
+--> reminder#2: NEED of QUICK MONEY causes male/female to be targeted<br/> 
+--> by MANLOLOKO/SMUGGLER/LIAR group to execute ILLEGAL ACTIONS;<br/>
+--> adds: increase of CRIMINALS created by MANLOLOKO group,<br/>
+--> so the ATTACKERS of their group have LIST of CRIMINALS<br/> 
+--> to be arrested first before them;<br/>
+--> recommends: QUICKLY DESTROYING the ATTACKERS;<br/>
+<br/>
+3) notes: DONATIONS via web services, e.g. PATREON, exists;<br/>
+--> adds: DONATIONS have NO TAX;<br/>
+--> adds: as alternative, received MONEY NOT anymore REPORTED; <br/>
+--> recommends: verifying LIFESTYLE; <br/>
+--> adds: USBONG NOTE#1<br/>
+<br/>
+4) notes: INHERITANCE has TAX in U.S.A., PHILIPPINES, et cetera<br/>
+--> observed: however, select people execute action <br/>
+--> as that of NORWAY, where: INHERITANCE has low/zero TAX;<br/>
+--> adds: people with MONEY, but have NO know-how<br/> 
+--> of VALUE of WORK cause problems, e.g. HEALTH;<br/>
+--> example: "walang naririnig" to cause MENTAL ILLNESS;<br/>
+--> adds: USBONG NOTE#3
+
+<br/>
+<br/>	
 <br/>
 <br/>	
 </h5>
