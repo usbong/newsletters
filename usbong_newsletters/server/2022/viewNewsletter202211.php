@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230209; from 20230206
+  @date updated: 20230210; from 20230209
   @website address: http://www.usbong.ph
   Input:
   1) Newsletter file with details
@@ -755,6 +755,24 @@ last accessed: 20230131; from 20230124<br/>
 			
 		</td>
 	</tr>
+</table>
+<br/>
+<br/>
+<table class="reminderTable">
+<tr>
+<td>
+<br/>
+<b>QUESTION: "It's NOTHING" to signify the OPPOSITE?</b><br/>
+--> where: significance is <b>"HAS VALUE"</b>.
+<br/>
+<br/>
+
+<b>ANSWER: </b><br/>
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+</td>
+</tr>
 </table>
 
 
