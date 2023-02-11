@@ -7,10 +7,12 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230210; from 20230209
+  @date updated: 20230211; from 20230210
   @website address: http://www.usbong.ph
+  
   Input:
   1) Newsletter file with details
+  
   Output:
   1) Newsletter file that is viewable on a Computer Web Browser  
   
@@ -21,6 +23,11 @@
   Recommended Reference:
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
+    
+  TO-DO: -reverify: technique to quickly share INFORMATION/know-how;
+--> lessons-learned; CORE know-how that causes SYSTEM EFFICIENCY;
+--> adds: noticeable CHANGE shall be caused by MAJORITY, having such CORE know-how
+
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -174,6 +181,8 @@
 						table.reminderTable
 						{
 							border: 1px solid #ab9c7d;
+							
+							font-weight: bold;											font-size: 11pt;
 						}
 						
 						table.imageTable
@@ -762,18 +771,36 @@ last accessed: 20230131; from 20230124<br/>
 <tr>
 <td>
 <br/>
-<b>QUESTION: "It's NOTHING" to signify the OPPOSITE?</b><br/>
+<b>QUESTION: "It's NOTHING!" to signify the OPPOSITE?</b><br/>
 --> where: significance is <b>"HAS VALUE"</b>.
 <br/>
 <br/>
 
-<b>ANSWER: </b><br/>
+<b>ANSWER:</b> <b>CLARIFICATION</b> causes classification of <b>significance</b> to be <b>NOT the OPPOSITE</b>;<br/>
+--> where:  <b>"IT'S NOTHING!"</b> signifies:<br/>
 <br/>
-TO-DO: -update: this<br/>
+<b>
+"IT (gift) MAY be NOTHING for YOU (MY LOVE), but it has VALUE to ME..."</b>;<br/>
 <br/>
+--> notes: <b>ANSWER</b> to be classified to be as with QUESTIONS,<br/>
+--> where: in select countries, e.g. JAPAN, saying <b>"NO"</b> as <b>ANSWER</b><br/> 
+--> to <b>person offering assistance</b> in fact signifies its opposite: <b>"YES"</b>;<br/>
+--> adds: in this case, <b>adding TIME for the person to CONTINUE THE SENTENCE</b><br/>
+--> shall assistance in <b>CLARIFYING significance</b>;<br/>
+--> example: <b>"NO, not this set, but you CAN DO the next set."</b><br/>
+<br/>
+<b>Reference:</b> <a class="webServiceLink" target="_blank" href="https://www.tumblr.com/crabapplebread/708165923974070272/so-cute-vol-24-ch-237">crabapplebread.tumblr.com</a>; last accessed: 20230211; from 20230210;<br/>
+--> <b>keyphrase:</b> example part from <b>Detective CONAN MANGA/COMIC</b>
 </td>
 </tr>
 </table>
+<br/>
+<br/>
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+<br/>
+<br/>
 
 
 			<h3>
