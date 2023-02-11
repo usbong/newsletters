@@ -689,7 +689,8 @@ last accessed: 20230131; from 20230124<br/>
 
 <table class="noteTable">
 <tr><td>
-
+<h5>
+<br/>
 <b>damage#1)</b> DEATH of Physical Therapist<br/>
 <br/>
 <b>damage#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
@@ -699,7 +700,7 @@ last accessed: 20230131; from 20230124<br/>
 --> <b>whose OUTPUT:</b> be in CONTINUOUS NEED of QUICK MONEY<br/>
 <br/>
 <b>damage#4)</b> DEATH of Secretary
-
+</h5>
 </td></tr>
 </table>
 
@@ -766,204 +767,92 @@ last accessed: 20230131; from 20230124<br/>
 	</tr>
 </table>
 <br/>
-<br/>
 <table class="reminderTable">
 <tr>
 <td>
 <br/>
-<b>QUESTION: "It's NOTHING!" to signify the OPPOSITE?</b><br/>
---> where: significance is <b>"HAS VALUE"</b>.
-<br/>
+<b>QUESTION: "It's NOTHING!" signifying the OPPOSITE</b>, <b>LIAR CLASSIFICATION</b>?<br/>
+--> due to: <b>TRUE</b> significance is <b>"HAS VALUE"</b>.<br/>
 <br/>
 
-<b>ANSWER:</b> <b>CLARIFICATION</b> causes classification of <b>significance</b> to be <b>NOT the OPPOSITE</b>;<br/>
+<b>ANSWER:</b> <b>CLARIFICATION</b> causes classification to be <b>NOT OPPOSITE</b>;<br/>
 --> where:  <b>"IT'S NOTHING!"</b> signifies:<br/>
 <br/>
 <b>
-"IT (gift) MAY be NOTHING for YOU (MY LOVE), but it has VALUE to ME..."</b>;<br/>
+"IT (GIFT) MAY be NOTHING for YOU (MY LOVE), but it has VALUE to ME..."</b>;<br/>
 <br/>
 --> notes: <b>ANSWER</b> to be classified to be as with QUESTIONS,<br/>
 --> where: in select countries, e.g. JAPAN, saying <b>"NO"</b> as <b>ANSWER</b><br/> 
 --> to <b>person offering assistance</b> in fact signifies its opposite: <b>"YES"</b>;<br/>
 --> adds: in this case, <b>adding TIME for the person to CONTINUE THE SENTENCE</b><br/>
---> shall assistance in <b>CLARIFYING significance</b>;<br/>
---> example: <b>"NO, not this set, but you CAN DO the next set."</b><br/>
+--> shall assist in <b>CLARIFYING significance</b>;<br/>
+--> EXAMPLE: <b>"NO, not this set, but you CAN DO the next set."</b><br/>
 <br/>
 <b>Reference:</b> <a class="webServiceLink" target="_blank" href="https://www.tumblr.com/crabapplebread/708165923974070272/so-cute-vol-24-ch-237">crabapplebread.tumblr.com</a>; last accessed: 20230211; from 20230210;<br/>
 --> <b>keyphrase:</b> example part from <b>Detective CONAN MANGA/COMIC</b>
 </td>
 </tr>
 </table>
-<br/>
-<br/>
-<br/>
-TO-DO: -update: this<br/>
-<br/>
-<br/>
-<br/>
 
 
-			<h3>
-				REMINDER: QUICK MONEY : <b>Vehicle COST</b>
-			</h3>
-			--> where: <b>Vehicle COST (MOTORCYCLE)</b> @<b>100K PHP (approx)</b> in <b>1 MONTH</b><br/>
-			--> adds: <b>STOLEN Vehicle COST</b> CAN be >= <b>500K PHP</b> ("HALF MILYON")<br/>
-			--> keyphrase: vehicle parts, know-how, <b>BANAWE (QUEZON CITY (QC))</b>;<br/>
-			--> where: <b>BANAWE (QC)</b> : <b>Vehicle Service Shops</b>, <b>POC</b><br/>
-			--> <b>POC</b> = <b>PHILIPPINE ORTHOPEDIC CENTER</b><br/>
-			<br/>
-			--> adds: There also exists <b>BANAWE (RICE TERRACES)</b>;<br/>
-			--> location: <b>ISABELA CITY; REGION 2</b><br/>
-			--> keyphrase: <b>MANLOLOKO group</b> connected to <b>BANAWE (QC & REGION 2)</b>;<br/>
-			--> budol-budol/<b>CARNAPPER</b>/<b>SMUGGLER</b>/cybercriminal/Teroristang Komunista<br/>			
-<br/>
-<table class="reminderTable">
-<tr>
-<td>
-<h4>
-	EXAMPLES OF ITEMS AS QUICK MONEY
-</h4>
+<h3>3) shares: Security Defense Force and Health</h3>
 
-			<h3>
-			<b>Smuggled Agriculture Product:</b> "BIGAS" (RICE)
-			</h3>
-			
-			<h3>
-			<b>Carnapped Vehicle:</b> <b>ISUZU</b> Crosswind <b>(AT)</b><br/> 
-			</h3>
-
-			--> where: <b>AT</b> = <b>A</b>utomatic <b>T</b>ransmission<br/>
-			--> where: <b>MT</b> = <b>M</b>anual <b>T</b>ransmission<br/>
-
-			<h3>
-			--> <b>Stolen/copied/modified/destroyed vehicle parts:</b>
-			</h3>
-<b>			
-			--> Part#1) Vehicle Key (SUSI)<br/>
-</b>
+3.1) notes: MANLOLOKO/SMUGGLER/CYBERCRIMINAL/LIAR group continues to ATTACK via NOISE POLLUTION;<br/>
+--> remembers: ANNOUNCEMENT from MANLOLOKO GROUP members,<br/>
+--> SYSON, RAMON, with SYSON, RYAN, et al. of TARGET and OBJECTIVE,<br/>
+--> where: CAUSE due to POLICE CAUGHT SMUGGLED ITEMS;<br/>
+--> recommends: SYSON, RAMON, with SYSON, RYAN et al. to send WRITTEN ANNOUNCEMENT<br/>
+--> to POLICE to speed-up system via CLARITY;<br/>
 <br/>
-			<b>ISUZU</b> Crosswind <b>(AT)</b>, <b>TOYOTA</b> Innova <b>(AT)</b>, <b>HONDA</b> City <b>(AT)</b>,<br/> 
-			<b>MITSUBISHI</b> Montero <b>(AT)</b>, <b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>
-			<br/>
-<b>			
-			--> Part#2) SHIFT-GEAR (KAMBYO)<br/>
-</b>			
-<br/>
-			<b>TOYOTA</b> Innova <b>(AT)</b>, <b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>
-			<br/>
-<b>
-			--> Part#3) AIR-CONDITIONING UNIT<br/>
-</b>			
-<br/>
-
-			<b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>
-			<br/>
-<b>
-			--> Part#4) Excess RADIO TRANSMITTER/RECEIVER<br/>
-</b>			
-<br/>
-			<b>TOYOTA</b> Innova <b>(AT)</b>, <b>MITSUBISHI</b> Montero <b>(AT)</b>, <b>HONDA</b> City <b>(AT)</b>,<br/> 
-			<b>MITSUBISHI</b> Adventure <b>(MT)</b><br/>	
-<br/>
-keyphrase: <b>FAKE ACCOUNTS</b>, <b>SELLER</b> of <b>STOLEN/SMUGGLED items</b>,<br/> <b>intentionally destroys VEHICLE PARTS</b>, <b>QUICK MONEY<b/>, <b>NO TAX</b><br/> 
-<br/>
-</td>
-</tr>
-</table>
-<br/>
-<br/>
-
-<table class="reminderTable">
-<tr>
-<td>	
-<h4>
-	IDENTIFICATION & CLASSIFICATION of MANLOLOKO GROUP MEMBERS
-</h4>
-identified: <b>MANLOLKO group members</b> to include among others:<br/>
-			1) <b>Ramon Syson</b>, younger brother of father, Dr. Pedro Syson<br/>
-			2) <b>Ryan Syson</b>, eldest son of Ramon Syson<br/>
-			3) <b>Joan Syson</b>, sister of Ryan Syson<br/>			
-			4) <b>Tyrone Tang</b>, basketball player;<br/>
-			5) <b>Keith Haw</b>, friend and classmate of Tyrone Tang<br/>
-			<br/>
-			Both <b>Tyrone Tang</b> and <b>Keith Haw</b> are classmates of SYSON, MICHAEL B. @<b>XAVIER SCHOOL</b>, San Juan, Greenhills;<br/> 
-			<br/>
-			<b>keyphrase:</b> <b>ATTACKERS</b> and <b>PROMULGATORS</b> of <b>"QUICK MONEY"</b><br/>
-			--> adds: <b>WIRELESS BROADCASTING TECHNOLOGY</b><br/>
-			<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-<b>ADDITIONAL REMINDERS</b><br/>
-<h5>
-<b>MANLOLOKO group</b> <b>LOST</b> > <b>50 Million PHP</b> of <b>smuggled</b> luxury/non-luxury <b>vehicles</b>, <b>agriculture</b> products, et cetera after being <b>caught by Police</b><br/>
-<br/>
-verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
-1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
-last accessed: 20221023; from 20220322<br/>
-<br/>
-<b>
-    | BOC Destroys 21 Smuggled Vehicles<br/>
-    | Posted on June 18, 2021<br/>
-</b>
-<br/>
---<br/>
-<br/>
-<b>
-    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
-</b>
-<br/>
---<br/>
-<br/>
-2) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/">https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/</a>; last accessed: 20221023; from 20220322<br/>
-<b><br/>
-| MICP Seizes php 9M Worth of Smuggled Agricultural Products<br/>
-| Posted on October 15, 2021<br/> 
-</b>
-<br/>
---<br/>
-<br/>
-<b>
-BOC-IG recorded a total estimated value of 545.06 million worth of seized smuggled agricultural products. In terms of value, the following are the top three commodities: (1) rice amounting to 206.80 million (2) onions amounting to 190.48 million, and (3) garlic amounting to Php 55 million.<br/>
-</b>
-<br/>
---<br/>
-<br/>
-keyphrase: > <b>58.55Million PHP</b> used for <b>YABANG</b><br/> 
---> adds: <b>QUICK MONEY</b>, <b>EXCESS MONEY</b>, <b>ILLEGAL DRUGS</b><br/>
---> where: due to <b>LOST MONEY</b>, <b>MANLOLOKO</b> <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
-<br/>
-reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><br/>
-<br/>
-<b>Example NOISE POLLUTION:</b> "TANGA", "'TANGINA", "BOBONG INA",<br/>
-"BOBONG PULIS", "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
-<br/>
---> adds: <b>MANLOLOKO</b> group misuses <b>WIRELESS BROADCASTING TECHNOLOGY</b> to cause the <b>EFFECT</b> equal with <b>ILLEGAL DRUGS</b>;<br/> 
-<table width="90%">
-<tr>
- <td>
-    <br/>
-	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
-	Approx size: 6x6cm
- </td>
- <td>
-	NOTE: <b>RADIO FREQUENCY</b> set to <b>STATIC</b>;<br/>
-	<br/>
-	<b>WIRELESS BROADCASTING TOWER</b> misused to <b>TRANSMIT SIGNAL</b> to <b>FREQUENCY</b> set to <b>STATIC</b>
- </td>
-</tr>			
-</table>
-<br/>
---> <b>Example ILLEGAL DRUGS</b>:  marijuana, 大麻 (taima);<br/>
---> <b>Example EFFECT</b> : excitement, dizziness, illusion</b><br/>
---> via <b>ATTACKING CENTRAL NERVE (BRAIN)</b><br/>
---> keyphrase: <b>NOISE POLLUTION</b>, <b>ENT</b>, <b>INSUFFICIENT OXYGEN</b><br/> 
---> where: <b>ENT</b> = <b>Ear, Nose, Throat</b><br/>
+TO-DO: -add: BOC's caught smuggled items;<br/>
 <br/>
 <br/> 
+
+"Hackers down hospital websites" (20230204; SATURDAY)
+Author
+
+WITH AGENCE FRANCE-PRESSE (AFP)
+
+Keyphrase
+
+WEBSITES of hospitals in Europe;
+--> CRASHED via CYBERATTACK;
+--> example: UMCG hospital in Groningen City, Netherlands;
+
+Dutch National Cyber Security Center
+--> noted: hackers ANNOUNCED that DDoS attacks were targeted at hospitals
+--> where: hospital classification : helping UKRAINE in its war against RUSSIA
+--> where: DDoS = Distrubuted Denial of Service
+
+--
+
+
+"KARNAPER NA WANTED SA ROBBERY, TIMBOG" (20221202; BIYERNES)
+Author
+
+SANTOS, MAENG
+Keyphrase
+Miyembro ng "Limos Carnapping Group"
+
+--> Catalan, Romeo (36), Brgy. Maybunga, Pasig City
+--> nasa TOP 10 most wanted sa Pasig City;
+--> robbery;
+--> Caloocan City
+District Special Operation Unit
+
+--> nakatanggap: ng balitang "naispatan ang presensiya ng akusado sa Bagong Silang, Caloocan City"
+--> joint manhunt operation,
+--> kabilang: ang NDIT RIU-NCR, RID-NCRPO,
+--> DID-NPD, HPG-NPD;
+Regional Trial Court (RTC)
+
+--> Branch 268, Pasig City
+--> warrant of arrest due to ROBBERY
+
+
+
+
+
 <table class="reminderTable">
 			<tr><td>
 <h4>
@@ -986,41 +875,6 @@ reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><b
 			<br/>	
 			</td></tr>
 			</table>
-
-<h3>3) shares: Security Defense Force and Health</h3>
-
-
-<h3>3.1) shares: Tanong at Sagot</h3>
-<table class="reminderTable">
-<tr>
-<td>
-<br/>
-<b>QUESTION: STOCK MARKET as GAMBLING system; QUICK MONEY?</b>
-<br/>
-<br/>
-
-<b>ANSWER: 
-</b><br/>
-<br/>
-<b>Understanding of STOCK MARKET</b> causes <b>system classification</b> to be <b>NOT GAMBLING</b>, <b>NOT QUICK MONEY</b>;<br/>
-<br/>
-<b>Example:</b> invest: in <b>STOCK of CORPORATION</b> whose <b>product/service</b> is <b>VITAL</b>;<br/>
---> <b>keyphrase:</b> MOBILITY, e.g. via ROADS, inexpensive FUEL;<br/>
---> put: <b>MONEY</b> for <b>over 10 years</b> so <b>CORPORATION continues</b> with product/service;<br/>
---> adds: <b>NOT</b> as <b>HIGH-FREQUENCY TRADERS</b>,<br/> 
---> who: buy and sell multiple stocks in a MONTH;<br/>
---> adds: <b>SYSTEM earns</b> via each buy and sell, <b>NOT</b> the <b>HIGH-FREQUENCY TRADER</b>;<br/>
---> adds: <b>CAN withdraw MONEY</b> from <b>CORPORATION</b> after <b>over 10 years</b>;<br/>
---> <b>Example:</b> to receive stored <b>MONEY</b> to pay for self's <b>MEDICAL TREATMENT</b>;<br/>
---> observed: however, due to select <b>CRISES</b>, e.g. <b>CORONA VIRUS</b>, select <b>STOCK VALUE</b> <b>decreased</b> to cause noticeable <b>low MONEY</b> for <b>investor</b>;<br/>
---> <b>OUTPUT:</b> select <b>investors</b> began to <b>NEED QUICK MONEY</b>;<br/>
---> <b>Recommended Action:</b> invest in <b>multiple investments</b>, e.g. <b>ADMINISTRATION (PAMAHALAAN)</b>, <b>NOT ONLY</b> via <b>Philippine Stock Exchange index (PSEi)</b>
-<br/>
-<br/>
-</td>
-</tr>
-</table>
-
 <br/>
 
 <h3>4) shares: Lessons-learned from NEWSPAPERS</h3>
@@ -1242,6 +1096,20 @@ CON ARTIST duped millions of pesos<br/>
 
 <br/>
 <br/>	
+
+WAID, M. et al. DAREDEVIL
+--> OMEGA DRIVE (digital storage with secrets of TERRORIST GROUP;
+--> obtained: by DAREDEVIl;
+--> OUTPUT: hunted down by TERRORIST GROUP;
+--> adds: PUNISHER who hunts TERRORIST GROUP;
+--> notes: SPIDERMAN to also exist,
+--> albeit prefers NOT to add in OWN story;
+--> due to: DAREDEVIL + SPIDERMAN cause TERRORIST GROUP to NOT be destroyed;
+--> PUNISHER + DAREDEVIL may be.
+--> reminder: DAREDEVIL via FATHER: NO LIAR; 
+--> adds: PUNISHER : ACTION;
+--> OUTPUT of STORY: OMEGA DRIVE passed to RICHARDS, REED of FANTASTIC FOUR;
+--> notes: END does NOT appear to be THE END;
 <br/>
 <br/>	
 </h5>
