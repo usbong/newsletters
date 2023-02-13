@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230211; from 20230210
+  @date updated: 20230213; from 20230211
   @website address: http://www.usbong.ph
   
   Input:
@@ -176,6 +176,16 @@
 							
 							/* text-indent: 5%;*/
 
+						}
+						
+						blockquote.usbongNewspaperBlock {
+							background: #ffffff;
+							color: rgb(85,43,0); /*rgb(80,80,80);*/
+
+							margin:0;		
+							border: 5px solid #444444;
+							padding: 2px;					
+							padding-left: 3%;
 						}
 												
 						table.reminderTable
@@ -797,60 +807,89 @@ last accessed: 20230131; from 20230124<br/>
 
 <h3>3) shares: Security Defense Force and Health</h3>
 
-3.1) notes: MANLOLOKO/SMUGGLER/CYBERCRIMINAL/LIAR group continues to ATTACK via NOISE POLLUTION;<br/>
---> remembers: ANNOUNCEMENT from MANLOLOKO GROUP members,<br/>
---> SYSON, RAMON, with SYSON, RYAN, et al. of TARGET and OBJECTIVE,<br/>
---> where: CAUSE due to POLICE CAUGHT SMUGGLED ITEMS;<br/>
---> recommends: SYSON, RAMON, with SYSON, RYAN et al. to send WRITTEN ANNOUNCEMENT<br/>
---> to POLICE to speed-up system via CLARITY;<br/>
+3.1) notes: MANLOLOKO/<b>SMUGGLER</b>/CYBERCRIMINAL/LIAR group<br/>
+--> continues: to <b>ATTACK</b> via <b>NOISE POLLUTION</b>;<br/>
+--> remembers: <b>ANNOUNCEMENT</b> from MANLOLOKO GROUP members,<br/>
+--> SYSON, RAMON, with SYSON, RYAN, et al. of <b>TARGET</b> and <b>OBJECTIVE</b>,<br/>
+--> where: <b>CAUSE</b> due to <b>POLICE CAUGHT SMUGGLED ITEMS</b>;<br/>
+--> recommends: <b>SYSON, RAMON</b>, with <b>SYSON, RYAN et al.</b><br/> 
+--> to send <b>WRITTEN ANNOUNCEMENT</b><br/>
+--> to <b>POLICE</b> to speed-up system via <b>CLARITY</b>;<br/>
 <br/>
-TO-DO: -add: BOC's caught smuggled items;<br/>
+
+verified: <b>Bureau of Customs (BOC)</b> NEWS<br/>
+1) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/">https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/</a>;<br/> 
+last accessed: 20221023; from 20220322<br/>
 <br/>
-<br/> 
+<b>
+    | BOC Destroys 21 Smuggled Vehicles<br/>
+    | Posted on June 18, 2021<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+<b>
+    The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58.55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+2) @<a class="webServiceLink" target="_blank" href="https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/">https://customs.gov.ph/boc-reports-efforts-against-smuggling-of-agricultural-products/</a>; last accessed: 20221023; from 20220322<br/>
+<b><br/>
+| MICP Seizes php 9M Worth of Smuggled Agricultural Products<br/>
+| Posted on October 15, 2021<br/> 
+</b>
+<br/>
+--<br/>
+<br/>
+<b>
+BOC-IG recorded a total estimated value of 545.06 million worth of seized smuggled agricultural products. In terms of value, the following are the top three commodities: (1) rice amounting to 206.80 million (2) onions amounting to 190.48 million, and (3) garlic amounting to Php 55 million.<br/>
+</b>
+<br/>
+--<br/>
+<br/>
+keyphrase: > <b>58.55Million PHP</b> used for <b>YABANG</b><br/> 
+--> adds: <b>QUICK MONEY</b>, <b>EXCESS MONEY</b>, <b>ILLEGAL DRUGS</b><br/>
+--> where: due to <b>LOST MONEY</b>, <b>MANLOLOKO</b> <b>ATTACKS</b> via <b>NOISE POLLUTION</b><br/>
+<br/>
+reminder: <b>NOISE POLLUTION</b>=OUTPUT of <b>MANLOLOKO WITH ILLEGAL DRUGS</b><br/>
+<br/>
+<b>Example NOISE POLLUTION:</b> "TANGA", "'TANGINA", "BOBONG INA",<br/>
+"BOBONG PULIS", "PEKPEK/PEPE", "PATAYIN", "ESTUPIDO", "BABOY", "HINGA";<br/>
+<br/>
+--> adds: <b>MANLOLOKO</b> group misuses <b>WIRELESS BROADCASTING TECHNOLOGY</b> to cause the <b>EFFECT</b> equal with <b>ILLEGAL DRUGS</b>;<br/> 
 
-"Hackers down hospital websites" (20230204; SATURDAY)
-Author
 
+<h3>4) shares: Lessons-learned from NEWSPAPERS</h3>
+
+<h4>4.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="#">The Daily Tribune</a></h4>
+<h5>
+4.1.1) FROM: <a class="webServiceLink" target="_blank" href="#">"Hackers down hospital websites" (20230204; SATURDAY)</a>
+<br/>
+<br/>
+<blockquote class="usbongNewspaperBlock">
+<p>
+<b>Author:</b><br/>
 WITH AGENCE FRANCE-PRESSE (AFP)
-
-Keyphrase
-
-WEBSITES of hospitals in Europe;
---> CRASHED via CYBERATTACK;
---> example: UMCG hospital in Groningen City, Netherlands;
-
-Dutch National Cyber Security Center
---> noted: hackers ANNOUNCED that DDoS attacks were targeted at hospitals
---> where: hospital classification : helping UKRAINE in its war against RUSSIA
+</p>
+<p>
+<b>Keyphrase:</b>
+<br/>
+<b>WEBSITES of hospitals in Europe</b>;<br/>
+--> CRASHED via CYBERATTACK;<br/>
+--> example: UMCG hospital in Groningen City, Netherlands;<br/>
+<br/>
+<b>Dutch National Cyber Security Center</b><br/>
+--> noted: hackers ANNOUNCED that DDoS attacks were targeted at hospitals<br/>
+--> where: hospital classification : helping UKRAINE in its war against RUSSIA<br/>
 --> where: DDoS = Distrubuted Denial of Service
+<br/>
+<br/>
+<b>CLEAR</b> via <b>WRITTEN ANNOUNCMENT</b> of <b>TARGET</b> and <b>OBJECTIVE</b><br/>
+</p>
+</blockquote>
 
---
-
-
-"KARNAPER NA WANTED SA ROBBERY, TIMBOG" (20221202; BIYERNES)
-Author
-
-SANTOS, MAENG
-Keyphrase
-Miyembro ng "Limos Carnapping Group"
-
---> Catalan, Romeo (36), Brgy. Maybunga, Pasig City
---> nasa TOP 10 most wanted sa Pasig City;
---> robbery;
---> Caloocan City
-District Special Operation Unit
-
---> nakatanggap: ng balitang "naispatan ang presensiya ng akusado sa Bagong Silang, Caloocan City"
---> joint manhunt operation,
---> kabilang: ang NDIT RIU-NCR, RID-NCRPO,
---> DID-NPD, HPG-NPD;
-Regional Trial Court (RTC)
-
---> Branch 268, Pasig City
---> warrant of arrest due to ROBBERY
-
-
-
+<br/>
 
 
 <table class="reminderTable">
@@ -875,12 +914,10 @@ Regional Trial Court (RTC)
 			<br/>	
 			</td></tr>
 			</table>
-<br/>
 
-<h3>4) shares: Lessons-learned from NEWSPAPERS</h3>
-<h4>4.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
+<h4>4.2) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="https://www.asahi.com">ASAHI.COM (NEWSPAPER)</a></h4>
 <h5>
-4.1.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASR1F6JR8R1FPTIL015.html">「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡</a>; last accessed: 20230209; from 20230114
+4.2.1) FROM: <a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/ASR1F6JR8R1FPTIL015.html">「止まりなさい」盗難車追跡中　警官2人、計4発発砲し運転の男死亡</a>; last accessed: 20230209; from 20230114
 <br/><br/>
 <blockquote class="usbongBlockquote">
 <p>
@@ -942,9 +979,52 @@ Natagpuan ng Unit na nag-iikot sa PATROL CAR, ang sasakyan na may PLATE NUMBER n
 </h5>
 
 
-<h4>4.2) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
+<h4>4.3) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="#">BULGAR (TABLOID)</a></h4>
 <h5>
-4.2.1) <b>“Why are smugglers left untouched?” (20230113; FRIDAY)</b><br/>
+4.3.1) FROM: <a class="webServiceLink" target="_blank" href="#">"KARNAPER NA WANTED SA ROBBERY, TIMBOG" (20221202; BIYERNES)</a>
+<br/>
+<br/>
+<blockquote class="usbongNewspaperBlock">
+<p>
+<b>Author:</b><br/>
+SANTOS, MAENG
+</p>
+<p>
+<b>Keyphrase:</b>
+<br/>
+<b>Miyembro ng "Limos Carnapping Group"</b><br/>
+--> Catalan, Romeo (36), Brgy. Maybunga, Pasig City<br/>
+--> nasa TOP 10 most wanted sa Pasig City;<br/>
+--> robbery;<br/>
+--> Caloocan City<br/>
+<br/>
+<b>District Special Operation Unit</b><br/>
+--> nakatanggap: ng balitang:<br/>
+<br/>
+<b>
+"naispatan ang presensiya ng akusado sa Bagong Silang, Caloocan City"
+</b>
+<br/>
+<br/>
+--> joint manhunt operation,<br/>
+--> kabilang: ang NDIT RIU-NCR, RID-NCRPO,<br/>
+--> DID-NPD, HPG-NPD;<br/>
+<br/>
+<b>Regional Trial Court (RTC)</b>s<br/>
+--> Branch 268, Pasig City<br/>
+--> warrant of arrest due to ROBBERY
+</p>
+</blockquote>
+
+
+
+
+
+
+
+<h4>4.4) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
+<h5>
+4.4.1) <b>“Why are smugglers left untouched?” (20230113; FRIDAY)</b><br/>
 <br/>
 <blockquote class="usbongBlockquote">
 <p>
