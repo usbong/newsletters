@@ -1017,92 +1017,100 @@ SANTOS, MAENG
 </blockquote>
 
 
-
-
-
-
-
 <h4>4.4) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
+
 <h5>
-4.4.1) <b>“Why are smugglers left untouched?” (20230113; FRIDAY)</b><br/>
+4.3.1) FROM: <a class="webServiceLink" target="_blank" href="#">“Why are smugglers left untouched?” (20230113; FRIDAY)</a>
 <br/>
-<blockquote class="usbongBlockquote">
+<br/>
+<blockquote class="usbongNewspaperBlock">
 <p>
-	AUTHOR: BONDOC, JARIUS
+<b>Author:</b><br/>
+BONDOC, JARIUS
 </p>
-</blockquote>
+<p>
+<b>Keyphrase:</b>
 <br/>
-
-<b>keyphrase:</b> 
-
 Billionaire Cartelist-smugglers
 
 <h4>MODUS; Technique#1</h4>
 
-Smugglers use Customs bosses' favorite consignees<br/>
---> where: 30PHP per kilo plus bulk freight cost, sold to retailers @450~650PHP<br/>
---> adds: BRIBERY via in 5 containers, 3 for smugglers; 2 for Customs accomplices;
+<b>Smugglers</b> use Customs bosses' favorite consignees<br/>
+--> where: <b>30PHP per kilo</b> + <b>bulk freight cost</b>, sold to retailers @<b>450~650PHP</b><br/>
+--> adds: <b>BRIBERY</b> via in <b>5 containers</b>,<br/> 
+--> <b>3 for smugglers</b>; <b>2 for Customs accomplices</b>;
 
 <h4>Smuggling PORT Locations</h4>
 
-Biggest smuggler @PORT of SUBIC<br/>
+<b>Biggest smuggler</b> @PORT of <b>SUBIC</b><br/>
 --> front consignees receive duty- and inspection-free privilege
 
-<h4>Three (3) new Contrabandist Lords:</h4>
+<h4><b>Three (3)</b> new Contrabandist Lords:</h4>
 
-1) PORT of MANILA; Manila International Container Port (MICP)<br/>
---> "Mike Ma." (30's); naturalized Filipino from China
-
-2) PORT of SUBIC<br/>
---> "Gene Ang" (40's), Chinoy
-
-3) PORT of BATANGAS<br/>
+<b>1) PORT of MANILA; Manila International Container Port (MICP)</b><br/>
+--> "Mike Ma." (30's); naturalized Filipino from China<br/>
+<br/>
+<b>2) PORT of SUBIC</b><br/>
+--> "Gene Ang" (40's), Chinoy<br/>
+<br/>
+<b>3) PORT of BATANGAS</b><br/>
 --> "Beverly Peres" (50's);
 
 <h4>MODUS; Technique#2</h4>
 
---> uses: with Custom crooks, recycled lapsed permits to bring in more shiploads year-round
+--> uses: with Custom crooks, <b>RECYCLED LAPSED PERMITS</b><br/>
+--> to bring in more <b>SHIPLOADS YEAR-ROUND</b>
 
 <h4>Examples</h4>
 
-1) Sotto, Tito (former Senate President)<br/>
---> named: 4 of 22 culprits in intelligence reports<br/>
-1.1) Leah "Luz" Cruz, operating in Cagayan de Oro and MICP;<br/>
-1.2) Manuel Tan, CdO, Subic, Batangas;<br/>
-1.3) Jun Diamante, CdO;<br/>
-1.4) Andrew Chang, MICP, Port of Manila, Batangas
+<b>1) FROM: Sotto, Tito (former Senate President)</b><br/>
+--> named: <b>4</b> of 22 <b>culprits</b> in <b>INTELLIGENCE REPORTS</b><br/>
+<br/>
+<b>1.1)</b> Leah "Luz" Cruz, operating in <b>Cagayan de Oro</b> and <b>MICP</b>;<br/>
+<b>1.2)</b> Manuel Tan, <b>CdO</b>, <b>Subic</b>, <b>Batangas</b>;<br/>
+<b>1.3)</b> Jun Diamante, <b>CdO</b>;<br/>
+<b>1.4)</b> Andrew Chang, <b>MICP</b>, <b>Port of Manila</b>, <b>Batangas</b><br/>
+<br/>
 
-2) Layug, James (Agricutlure Assistant Secretary)<br/>
+<b>2) FROM: Layug, James (Agricutlure Assistant Secretary)</b><br/>
 --> requested: CUSTOMS to issue:<br/>
 --> ALERT ORDERS and JOINT 100% inspection;<br/>
---> all cargos of 6 consignees:<br/>
-2.1) Victory JM Enterprises;<br/>
-2.2) Taculog Int'l Consumers Goods Trading;<br/>
-2.3) Asterzenmed Aggregates;<br/>
-2.4) Veneta Consumer Goods Trading;<br/>
-2.5) Lalavy Aggregates Trading;<br/>
-2.6) SB Express Logistics Business Solution;
+--> all cargos of <b>6 consignees</b>:<br/>
+<br/>
+<b>2.1)</b> Victory JM Enterprises;<br/>
+<b>2.2)</b> Taculog Int'l Consumers Goods Trading;<br/>
+<b>2.3)</b> Asterzenmed Aggregates;<br/>
+<b>2.4)</b> Veneta Consumer Goods Trading;<br/>
+<b>2.5)</b> Lalavy Aggregates Trading;<br/>
+<b>2.6)</b> SB Express Logistics Business Solution;<br/>
+<br/>
+<b>3) FROM: Additional Entities</b><br/>
+<b>3.1)</b> Frankie Trading Enterprises @<b>CdO</b><br/>
+<b>3.2)</b> Primex Export-Import Producer @<b>CdO</b>
 
-3) Additional Entities<br/>
-3.1) Frankie Trading Enterprises @CdO<br/>
-3.2) Primex Export-Import Producer @CdO
+<h4>USBONG: Dagdag</h4>
 
-<h4>Dagdag</h4>
+1) observed: <b>ENGLISH language</b> and <b>citizenship</b>, e.g. <b>U.S.A.</b>,<br/> 
+--> used as parts of technique <b>to cause Filipinos to execute ACTIONS</b>,<br/> 
+--> classified in this case, to be <b>obedience to SMUGGLERS/MANLOLOKO group</b>;<br/>
+--> where: <b>U.S.A.</b> : <b>supposedly comes as security defense of Philippines</b><br/> 
+--> <b>to cause Filipinos to NOT execute ACTIONS against U.S.A. nationals</b>;<br/>
+<br/>
+--> remembers: received <b>training</b> @<b>Global Unit</b> in <b>Japan</b>;<br/>
+--> where: <b>lone Asian</b>, e.g. Filipino, Japanese, <b>can easily be attacked</b><br/> 
+--> by <b>lone foreigner</b>, e.g. Caucasian, using such technique;<br/>
+--> adds: however, <b>as GROUP, can WIN</b>;<br/>
+<br/>
+2) remembers: with <b>SMUGGLER GROUP</b>, a <b>key local member</b>,<br/> 
+--> e.g. Filipino, Japanese,<br/> 
+--> has to noticeably be <b>FLUENT in ENGLISH LANGUAGE</b>;<br/>
+--> notes: as <b>reference</b>, select parts observed from younger brother's<br/> 
+--> <b>GANGSTER/YAKUZA films</b> that appear to be<br/> 
+--> also <b>watched by SMUGGLER GROUP</b>;
+</p>
+</blockquote>
 
-1) observed: ENGLISH language and citizenship, e.g. U.S.A.,<br/> 
---> used as parts of technique to cause Filipinos to execute ACTIONS,<br/> 
---> classified in this case, to be obedience to SMUGGLERS/MANLOLOKO group;<br/>
---> where: U.S.A. : supposedly comes as security defense of Philippines<br/> 
---> to cause Filipinos to NOT execute ACTIONS against U.S.A. nationals;<br/>
---> remembers: received training @Global Unit in Japan;<br/>
---> where: lone Asian, e.g. Filipino, Japanese, can easily be attacked<br/> 
---> by lone foreigner, e.g. Caucasian, using such technique;<br/>
---> adds: however, as GROUP, can WIN;
 
-2) remembers: with SMUGGLER GROUP, a key local member, e.g. Filipino, Japanese,<br/> 
---> has to noticeably be FLUENT in ENGLISH LANGUAGE;<br/>
---> notes: as reference, select parts observed from younger brother's<br/> 
---> GANGSTER/YAKUZA films that appear to be also watched by SMUGGLER GROUP;
 
 
 
