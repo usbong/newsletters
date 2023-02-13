@@ -40,10 +40,9 @@ HARRELL, Peter<br/>
 --> observed: however, SINGAPORE technique to be OK with U.S.A.,<br/>
 --> where: U.S.A. universities, e.g. YALE, execute partnerships ("Yale-NUS College");<br/>
 --> adds: SINGAPORE executes MARKET limitations;<br/>
---> notes: as reference: former president OBAMA, BARACK's "Audacity of Hope";
+--> notes: as reference: former U.S.A. president [OBAMA, BARACK's "Audacity of Hope"](https://www.amazon.com/Audacity-Hope-Thoughts-Reclaiming-American/dp/0307455874);
 
 2) observed: PORNOGRAPHY from ASIA, e.g. CHINA, sold to NORTH AMERICA, <br/>
 --> where: includes CANADA, e.g. EAST Coast;<br/>
 --> notes: OUTPUT of no MARKET limitations;<br/>
---> where: ACTIONS caused by MONEY as VOTES;
-
+--> where: ACTIONS caused by MONEY as VOTES;<br/>
