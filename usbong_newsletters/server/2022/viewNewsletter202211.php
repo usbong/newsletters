@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230213; from 20230211
+  @date updated: 20230214; from 20230213
   @website address: http://www.usbong.ph
   
   Input:
@@ -906,10 +906,18 @@ WITH AGENCE FRANCE-PRESSE (AFP)
 			<br/>
 			1.2) <b>CRIMINAL INVESTIGATION AND DETECTION GROUP (CIDG)</b><br/>
 			--> <a class="webServiceLink" target="_blank" href="mailto:cidgnhqcrmc@gmail.com">cidgnhqcrmc@gmail.com</a><br/>
+<br/>
+			1.3) <b>Eastern District Anti-Cybercrime Team (EDACT)</b><br/>
+			--> <a class="webServiceLink" target="_blank" href="mailto:maniladact@gmail.com">maniladact@gmail.com</a><br/>			
 			<br/>
-			Example#2) <b>Office of Public Safety and Security (OPSS: Marikina City) Team</b><br/>
+			Example#2) <b>Marikina City</b><br/>
+			<br/>
+			2.1) <b>Office of Public Safety and Security (OPSS: Marikina City) Team</b><br/>
 			--> <a class="webServiceLink" target="_blank" href="mailto:opss@marikina.gov.ph">opss@marikina.gov.ph</a><br/>
 			<br/>
+			2.2) <b>Barangay Sto. Niño, Marikina City</b><br/>
+			--> <a class="webServiceLink" target="_blank" href="mailto:brgystonino@gmail.com">brgystonino@gmail.com</a><br/>
+			<br/>			
 			reminder: <b>EMERGENCY NUMBER</b> in MARIKINA CITY: <b>161</b><br/>
 			<br/>	
 			</td></tr>
