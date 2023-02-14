@@ -40,6 +40,12 @@ last accessed: 20230214
 2) notes: LIGHT + REFLECTION technique;<br/>
 --> remembers: GLASS WINDOW reflecting TELEVISION LIGHT OUTPUT;<br/>
 --> adds: OBJECT to REFLECT the LIGHT; the EYES;<br/>
---> observes: however, OUTPUT OBJECT can be VISIBLE,<br/>
+--> observes: however, OUTPUT OBJECT (IMAGES/PHOTOGRAPHS) can be VISIBLE,<br/>
 --> even with EYES CLOSED (and even with LIGHTS OFF);<br/>
---> technique : sound-electricity (dbM) to light on CLOSED EYES?
+--> technique : sound-electricity (dbM) to light on CLOSED EYES?<br/>
+--> adds: OUTPUT OBJECT position aligns with HEAD movement, <br/>
+--> as with <b>the headset/goggles</b> of a VR headset<br/>
+--> notes: another observed technique that causes OUTPUT OBJECT to appear on a set WALL position,<br/>
+--> where: OBJECT keeps position at a set TIME; as with an object in VR WORLD<br/>
+--> notes: as another observed technique, drawings on a WALL<br/> 
+--> via pencil eraser, detergent, et cetera<br/>
