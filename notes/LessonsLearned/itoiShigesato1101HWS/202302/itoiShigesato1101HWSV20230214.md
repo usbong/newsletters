@@ -39,5 +39,6 @@ https://translate.google.com/?hl=en&sl=ja&tl=en&text=%E3%82%B9%E3%82%AC%E3%83%8E
 2) notes: LIGHT + REFLECTION technique;<br/>
 --> remembers: GLASS WINDOW reflecting TELEVISION LIGHT OUTPUT;<br/>
 --> adds: OBJECT to REFLECT the LIGHT; the EYES;<br/>
---> observes: however, OBJECT can be VISIBLE even with EYES CLOSED (and even with LIGHTS OFF);<br/>
+--> observes: however, OUTPUT OBJECT can be VISIBLE,<br/>
+--> even with EYES CLOSED (and even with LIGHTS OFF);<br/>
 --> technique : sound-electricity (dbM) to light on CLOSED EYES?
