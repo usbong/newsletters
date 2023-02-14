@@ -1190,7 +1190,7 @@ CON ARTIST duped millions of pesos<br/>
 
 <h3>5) shares: Lessons-learned from COMIC BOOKS</h3>
 
-<h4>5.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="#">The DAREDEVIL: THE MAN WITHOUT FEAR</a></h4>
+<h4>5.1) shares: Lessons-learned from <aminiSpeakerRadioApproxSize6x6cm.jpg class="webServiceLink" target="_blank" href="#">The DAREDEVIL: THE MAN WITHOUT FEAR</a></h4>
 
 
 <blockquote class="usbongNewspaperBlock">
@@ -1213,6 +1213,8 @@ Waid, M., et al.
 --> due to: <b>DAREDEVIL + SPIDERMAN</b> cause <b>TERRORIST GROUP</b> NOT destroyed<br/>
 --> opts: for <b>PUNISHER + DAREDEVIL only</b>;<br/>
 --> reminder: <b>DAREDEVIL's FATHER</b>: <b>NO TO LIARS</b>;<br/> 
+--> adds: <b>FATHER KILLED by TERRORIST/LIAR GROUP</b>,<br/>
+--> who: execute <b>SPORTS MATCH-FIXING</b><br/>
 <br/>
 <img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202211/referenceCapcomThePunisher,DaredevilComicsV20221223T1413.jpeg"><br/>
 <br/>
