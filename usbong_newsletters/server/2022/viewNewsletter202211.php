@@ -1208,10 +1208,12 @@ Waid, M., et al.
 --> where: <b>secrets</b> include among others:  <b>techniques</b>, <b>know-how</b><br/>
 --> <b>OUTPUT</b>: <b>HUNTED</b> down by <b>TERRORIST GROUP</b>;<br/>
 --> meets: <b>PUNISHER (CASTLE, FRANK)</b> who <b>HUNTS</b> <b>TERRORIST GROUP</b>;<br/>
+<br/>
 --> notes: <b>SPIDERMAN (PARKER, PETER)</b> to also <b>exist</b>,<br/>
 --> albeit <b>prefers NOT to add in OWN story</b>;<br/>
 --> due to: <b>DAREDEVIL + SPIDERMAN</b> cause <b>TERRORIST GROUP</b> NOT destroyed<br/>
 --> opts: for <b>PUNISHER + DAREDEVIL only</b>;<br/>
+<br/>
 --> reminder: <b>DAREDEVIL's FATHER</b>: <b>NO TO LIARS</b>;<br/> 
 --> adds: <b>FATHER KILLED by TERRORIST/LIAR GROUP</b>,<br/>
 --> who: execute <b>SPORTS MATCH-FIXING</b><br/>
