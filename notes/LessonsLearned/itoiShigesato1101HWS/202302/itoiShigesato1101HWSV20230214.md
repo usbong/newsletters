@@ -34,7 +34,8 @@ was the "MAROYAKA THICK CREAM STEW."
 
 
 1) GOOGLE TRANSLATE; has: nihongo input;<br/> 
-https://translate.google.com/?hl=en&sl=ja&tl=en&text=%E3%82%B9%E3%82%AC%E3%83%8E&op=translate;
+https://translate.google.com/?hl=en&sl=ja&tl=en&text=%E3%82%B9%E3%82%AC%E3%83%8E&op=translate;<br/>
+last accessed: 20230214
 
 2) notes: LIGHT + REFLECTION technique;<br/>
 --> remembers: GLASS WINDOW reflecting TELEVISION LIGHT OUTPUT;<br/>
