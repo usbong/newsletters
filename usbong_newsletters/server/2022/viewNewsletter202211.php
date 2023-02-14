@@ -1028,7 +1028,7 @@ SANTOS, MAENG
 <h4>4.4) shares: Lessons-learned from THE PHILIPPINE STAR (NEWSPAPER)</h4>
 
 <h5>
-4.3.1) FROM: <a class="webServiceLink" target="_blank" href="#">“Why are smugglers left untouched?” (20230113; FRIDAY)</a>
+4.4.1) FROM: <a class="webServiceLink" target="_blank" href="#">“Why are smugglers left untouched?” (20230113; FRIDAY)</a>
 <br/>
 <br/>
 <blockquote class="usbongNewspaperBlock">
@@ -1119,93 +1119,120 @@ Billionaire Cartelist-smugglers
 </blockquote>
 
 
-
-
-
-
-
 <h5>
-4.2.1) <b>“Alleged con artist caught in Taguig” (20230205; SUNDAY)</b><br/>
+4.4.2) FROM: <a class="webServiceLink" target="_blank" href="#">“Alleged con artist caught in Taguig” (20230205; SUNDAY)</a>
 <br/>
-<blockquote class="usbongBlockquote">
+<br/>
+<blockquote class="usbongNewspaperBlock">
 <p>
-	AUTHOR: TUPAS, EMMANUEL
+<b>Author:</b><br/>
+TUPAS, EMMANUEL
 </p>
-</blockquote>
+<p>
+<b>Keyphrase:</b>
 <br/>
-
-<b>keyphrase:</b> 
 
 CON ARTIST duped millions of pesos<br/>
---> where: CON ARTIST : businesswoman and owner of fashion styling company<br/>
---> arrested suspect name: CABRERA, MIKAELA VERONICA (26)<br/>
+--> where: CON ARTIST : <b>businesswoman</b> and owner of fashion styling company<br/>
+--> <b>ARRESTED</b> suspect name: CABRERA, MIKAELA VERONICA (26)<br/>
 --> condominium unit, corner McKinley Parkway,<br/>
 --> 26th street in Bonifacio Global City,<br/>
---> @18:38
+--> Year 2023; @18:38
 
 <h4>Warrant of Arrest</h4>
 
---> due to: violation of Batas Pambansa 22:<br/>
---> "Bouncing Check Law"<br/>
---> issued: 2022-10-27 by Makati Metropolitan Trial Court Branch 127;
+--> due to: <b>VIOLATION</b> of <b>Batas Pambansa 22</b>:<br/>
+--> <b>"Bouncing Check Law"</b><br/>
+--> issued: <b>2022-10-27</b> by Makati Metropolitan Trial Court Branch 127;
 
 <h4>Technique</h4>
 
---> using dating app, prey on men;<br/>
---> shall request for money to save her company from going bankrupt,<br/>
---> promised interest rate of 20~30%
+--> using <b>DATING APP</b>, prey on men;<br/>
+--> shall <b>REQUEST for MONEY</b> to save her company from going bankrupt,<br/>
+--> <b>PROMISED interest rate</b> of <b>20~30%</b>
 
 <h4>USBONG NOTES</h4>
-
-
-1) expects: INCORRECT/ILLEGAL ACTIONS by people,<br/>
---> who: put "businessman/businesswoman" as occupation,<br/> 
---> and do NOT clarify the business' industry and technique to generate INCOME;<br/>
---> adds: as observation, such people in Philippines to be of Chinese ancestry;<br/>
+1) expects: <b>INCORRECT/ILLEGAL ACTIONS</b> by people,<br/>
+--> who: put "<b>businessman/businesswoman</b>" as occupation,<br/> 
+--> AND <b>do NOT clarify the business' industry</b> and <b>technique to generate INCOME</b>;<br/>
+--> adds: as observation, such people <b>in Philippines</b> to be of <b>Chinese ancestry</b>;<br/>
 <br/>
-2) notes: TIKTOK misused as OnlyFans web service<br/> 
---> to earn INCOME via selling pornography;<br/>
---> reminder#1: OnlyFans FOUNDER/CEO arrested in Singpore;<br/>
---> notes: technique of viewing body parts of select people,<br/>
---> who have physical similarities as those preferred of BUYER;<br/>
---> "kamukha"; <br/>
---> reminder#2: NEED of QUICK MONEY causes male/female to be targeted<br/> 
---> by MANLOLOKO/SMUGGLER/LIAR group to execute ILLEGAL ACTIONS;<br/>
---> adds: increase of CRIMINALS created by MANLOLOKO group,<br/>
---> so the ATTACKERS of their group have LIST of CRIMINALS<br/> 
---> to be arrested first before them;<br/>
---> recommends: QUICKLY DESTROYING the ATTACKERS;<br/>
+2) notes: <b>TIKTOK misused</b> as with <b>OnlyFans</b> web service<br/> 
+--> to earn <b>INCOME</b> via <b>selling PORNOGRAPHY</b>;<br/>
+--> reminder#1: <b>PORNOGRAPHY</b> classified with <b>VIOLENCE</b>;<br/>
+--> reminder#2: <b>OnlyFans FOUNDER/CEO</b> <b>ARRESTED</b> in <b>SINGAPORE</b>;<br/>
+--> due to: <b>PORNOGRAPHY INCORRECT</b>, based on people with know-how<br/>
+--> notes: technique of viewing <b>body parts</b> of select people,<br/>
+--> who have <b>physical similarities</b> as those <b>preferred of BUYER</b>;<br/>
+--> <b>"kamukha"</b>; <br/>
+--> reminder#3: <b>NEED of QUICK MONEY</b> causes <b>male/female</b> to be <b>targeted</b><br/> 
+--> by <b>MANLOLOKO/SMUGGLER/LIAR group</b> to execute <b>ILLEGAL ACTIONS</b>;<br/>
+--> adds: <b>increase of CRIMINALS</b> created by MANLOLOKO group,<br/>
+--> so the <b>ATTACKERS</b> of their group have <b>LIST of CRIMINALS</b><br/> 
+--> to be <b>ARRESTED FIRST</b> before them;<br/>
+--> recommends: <b>QUICKLY DESTROYING the ATTACKERS</b>;<br/>
 <br/>
-3) notes: DONATIONS via web services, e.g. PATREON, exists;<br/>
---> adds: DONATIONS have NO TAX;<br/>
---> adds: as alternative, received MONEY NOT anymore REPORTED; <br/>
---> recommends: verifying LIFESTYLE; <br/>
---> adds: USBONG NOTE#1<br/>
+3) notes: <b>DONATIONS</b> via web services, e.g. <b>PATREON</b>, exists;<br/>
+--> adds: <b>DONATIONS</b> have <b>NO TAX</b>;<br/>
+--> adds: as alternative, <b>received MONEY NOT anymore REPORTED</b>; <br/>
+--> recommends: verifying <b>LIFESTYLE</b>; <br/>
+--> adds: <b>USBONG NOTE#1</b><br/>
 <br/>
-4) notes: INHERITANCE has TAX in U.S.A., PHILIPPINES, et cetera<br/>
+4) notes: <b>INHERITANCE</b> has <b>TAX</b> in <b>U.S.A.</b>, <b>PHILIPPINES</b>, et cetera<br/>
 --> observed: however, select people execute action <br/>
---> as that of NORWAY, where: INHERITANCE has low/zero TAX;<br/>
---> adds: people with MONEY, but have NO know-how<br/> 
---> of VALUE of WORK cause problems, e.g. HEALTH;<br/>
---> example: "walang naririnig" to cause MENTAL ILLNESS;<br/>
---> adds: USBONG NOTE#3
+--> as that of <b>NORWAY</b>, where: <b>INHERITANCE</b> has <b>low/zero TAX</b>;<br/>
+--> adds: <b>people with MONEY</b>, but have <b>NO know-how</b><br/> 
+--> of <b>VALUE of WORK</b> cause <b>problems</b>, e.g. HEALTH;<br/>
+--> example: <b>"walang naririnig"</b> to cause <b>MENTAL ILLNESS</b>;<br/>
+--> adds: <b>USBONG NOTE#3</b>
+</p>
+</blockquote>
 
+<h3>5) shares: Lessons-learned from COMIC BOOKS</h3>
+
+<h4>5.1) shares: Lessons-learned from <a class="webServiceLink" target="_blank" href="#">The DAREDEVIL: THE MAN WITHOUT FEAR</a></h4>
+
+
+<blockquote class="usbongNewspaperBlock">
+<p>
+<b>Author:</b><br/>
+Waid, M., et al.
+</p>
+<p>
+<b>Keyphrase:</b>
 <br/>
-<br/>	
+<h4>DAREDEVIL (MURDOCK, MATTHEW)</h4>
 
-WAID, M. et al. DAREDEVIL
---> OMEGA DRIVE (digital storage with secrets of TERRORIST GROUP;
---> obtained: by DAREDEVIl;
---> OUTPUT: hunted down by TERRORIST GROUP;
---> adds: PUNISHER who hunts TERRORIST GROUP;
---> notes: SPIDERMAN to also exist,
---> albeit prefers NOT to add in OWN story;
---> due to: DAREDEVIL + SPIDERMAN cause TERRORIST GROUP to NOT be destroyed;
---> PUNISHER + DAREDEVIL may be.
---> reminder: DAREDEVIL via FATHER: NO LIAR; 
---> adds: PUNISHER : ACTION;
---> OUTPUT of STORY: OMEGA DRIVE passed to RICHARDS, REED of FANTASTIC FOUR;
---> notes: END does NOT appear to be THE END;
+--> obtains: <b>THE OMEGA DRIVE</b>,<br/>
+--> i.e. <b>digital storage</b> with <b>secrets</b> of <b>TERRORIST/MANLOLOKO/LIAR GROUP</b>;<br/>
+--> where: <b>secrets</b> include among others:  <b>techniques</b>, <b>know-how</b><br/>
+--> <b>OUTPUT</b>: <b>HUNTED</b> down by <b>TERRORIST GROUP</b>;<br/>
+--> meets: <b>PUNISHER (CASTLE, FRANK)</b> who <b>HUNTS</b> <b>TERRORIST GROUP</b>;<br/>
+--> notes: <b>SPIDERMAN (PARKER, PETER)</b> to also <b>exist</b>,<br/>
+--> albeit <b>prefers NOT to add in OWN story</b>;<br/>
+--> due to: <b>DAREDEVIL + SPIDERMAN</b> cause <b>TERRORIST GROUP</b> NOT destroyed<br/>
+--> opts: for <b>PUNISHER + DAREDEVIL only</b>;<br/>
+--> reminder: <b>DAREDEVIL's FATHER</b>: <b>NO TO LIARS</b>;<br/> 
+<br/>
+<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202211/referenceCapcomThePunisher,DaredevilComicsV20221223T1413.jpeg"><br/>
+<br/>
+--> adds: <b>PUNISHER</b> : <b>ACTION</b>;<br/>
+--> reminder: <b>PUNISHER</b> is <b>FATHER of OWN FAMILY UNIT</b>,<br/>
+--> whose: <b>FAMILY members KILLED by TERRORIST GROUP</b>;<br/>
+--> adds: <b>TERRORIST/LIAR GROUP</b> includes: <b>SMUGGLERS/CARNAPPERS</b>;<br/>
+<br/>
+--> <b>OUTPUT of COMIC BOOK STORY</b>: <b>OMEGA DRIVE</b> passed to <b>MR FANTASTIC</b>,<br/>
+--> i.e. <b>RICHARDS, REED</b> of <b>FANTASTIC FOUR</b>;<br/>
+--> adds: <b>MR FANTASTIC</b> is <b>HUSBAND</b> of <b>INVISIBLE WOMAN (RICHARDS, SUE)</b>,<br/>
+--> remembers: however, to be NOT a FATHER...<br/>
+<br/>
+--> notes: <b>END does NOT appear to be THE END</b>;<br/>
+--> prefers: however, as <b>OUTPUT</b> of <b>OWN STORY</b>:<br/> 
+--> <b>TERRORIST/LIAR GROUP DESTROYED</b>; <b>THE END</b>.<br/>
+</p>
+</blockquote>
+
+
 <br/>
 <br/>	
 </h5>
