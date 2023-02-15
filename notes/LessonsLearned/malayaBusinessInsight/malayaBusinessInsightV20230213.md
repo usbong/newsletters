@@ -1,3 +1,20 @@
+## "PH BOND BENCHMARK RATES" (MONDAY, 2023-02-13)
+
+### MARKETS
+
+### Author
+
+Reuters
+
+### Keyphrase
+
+PESO (PH) BOND; current (2023-01-31): 6.3% (net) @10years<br/>
+--> remembers: (2023-02 week#1) BPI PLAN AHEAD PROMO @4% (net) @5years<br/>
+--> had: expected PESO BOND to be >4% based on BPI INFO;
+
+
+
+
 ## "Biden to ban some US investments in China" (MONDAY, 2023-02-13)
 
 ### MARKETS
