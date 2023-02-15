@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230214; from 20230213
+  @date updated: 20230215; from 20230214
   @website address: http://www.usbong.ph
   
   Input:
@@ -526,7 +526,7 @@
 	<br>	
 	<div class="newsletterTitle">
 		<b>波 (なみ)　： Welle ("vell")</b><br/>
-		<b>ALON : WAVE</b><br/>
+		<b>ALON　：　WAVE</b><br/>
 		RADIO				
 	</div>
 	<br>
@@ -700,16 +700,19 @@ last accessed: 20230131; from 20230124<br/>
 <table class="noteTable">
 <tr><td>
 <h5>
-<br/>
 <b>damage#1)</b> DEATH of Physical Therapist<br/>
+--> *BEFORE COVID-19<br/>
 <br/>
 <b>damage#2)</b> MAJOR SURGICAL OPERATION of Orthopedic Surgeon<br/> 
 --> <b>whose OUTPUT:</b> be NON-PRACTICING<br/>
+--> *BEFORE COVID-19<br/>
 <br/>
 <b>damage#3)</b> ILLNESS of Assisting Secretary and Family<br/> 
 --> <b>whose OUTPUT:</b> be in CONTINUOUS NEED of QUICK MONEY<br/>
+--> *BEFORE and DURING COVID-19<br/>
 <br/>
-<b>damage#4)</b> DEATH of Secretary
+<b>damage#4)</b> DEATH of Secretary<br/>
+--> *BEFORE COVID-19
 </h5>
 </td></tr>
 </table>
