@@ -33,7 +33,7 @@ GOV'T positions in exchange for MONEY
 7) Clark Development Corp. Director
 8) Port of Batangas Manager
 
-#### MONEY as exchange for GOV'T position
+#### MONEY in exchange for GOV'T position
 
 1) 1M PHP for business ventures with supposedly guaranteed high return of investments<br/>
 --> example#1: GOV'T project in Parañaque City<br/>
