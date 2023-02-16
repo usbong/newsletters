@@ -18,7 +18,7 @@ Criminal Investigation and Detection Group (CIDG)<br/>
 --> notes: observed firearm in compartment of passenger's seat;<br/>
 --> where: firearm has no pertinent document
 
-### Invesgation OUTPUT: Appointment Scam
+### Investigation OUTPUT: Appointment Scam
 
 GOV'T positions in exchange for MONEY
 
