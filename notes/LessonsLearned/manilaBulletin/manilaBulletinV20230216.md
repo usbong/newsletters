@@ -43,7 +43,7 @@ GOV'T positions in exchange for MONEY
 
 2) up to 300M PHP for position of undersecretary
 
-### Techinique (MODUS OPERANDI)
+### Technique (MODUS OPERANDI)
 
 credibility via the following:<br/>
 
