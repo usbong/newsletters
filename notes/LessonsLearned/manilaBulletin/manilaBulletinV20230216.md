@@ -33,15 +33,16 @@ GOV'T positions in exchange for MONEY
 7) Clark Development Corp. Director
 8) Port of Batangas Manager
 
-#### MONEY in exchange for GOV'T position
+#### MONEY in exchange for GOV'T position and project
 
-1) 1M PHP for business ventures with supposedly guaranteed high return of investments<br/>
+1) up to 300M PHP for position of undersecretary
+
+2) 1M PHP for business ventures with supposedly guaranteed high return of investments<br/>
 --> example#1: GOV'T project in Parañaque City<br/>
 --> example#2: horse racing<br/>
 --> example#3: bridge project<br/>
 --> example#4: procurement of alcohol for the Department of Health (DOH)
 
-2) up to 300M PHP for position of undersecretary
 
 ### Technique (MODUS OPERANDI)
 
