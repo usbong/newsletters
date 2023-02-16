@@ -1,5 +1,76 @@
 # Lessons-learned from: Manila Bulletin
 
+## "CIDG nabs 'Usec' tagged in P1-B appointment, gov't project scam"
+
+### Author:
+
+RECUENCO, Aaron B
+
+### Keyphrase:
+
+Criminal Investigation and Detection Group (CIDG)<br/>
+--> arrested: EJE, Edward Diokno "VINCENT, VAUGHN" (42)<br/>
+--> due to: complaints of driver of a Sports Utility Vehicle (SUV)<br/>
+--> where: driver poked a gun at a motorcycle rider,<br/>
+--> following a heated argument<br/>
+--> @31st Street, Bonifacio Global City in Taguig City;<br/>
+--> approx 2023-02-13T13:30 (MONDAY);<br/>
+--> notes: observed firearm in compartment of passenger's seat;<br/>
+--> where: firearm has no pertinent document
+
+### Invesgation OUTPUT: Appointment Scam
+
+GOV'T positions in exchange for MONEY
+
+#### GOV'T positions include among others:
+
+1) Ambassadorial post to Netherlands
+2) Transportation Assistant Secretary
+3) Tourism Infrastructure
+4) Enterprise Zone Authority Board Member
+5) Clark International Airport Corporation President and Chief Executive Officer
+6) Early Childhood Care and Development Council Executive Director and Vice Chairperson
+7) Clark Development Corp. Director
+8) Port of Batangas Manager
+
+#### MONEY as exchange for GOV'T position
+
+1) 1M PHP for business ventures with supposedly guaranteed high return of investments<br/>
+--> example#1: GOV'T project in Parañaque City<br/>
+--> example#2: horse racing<br/>
+--> example#3: bridge project<br/>
+--> example#4: procurement of alcohol for the Department of Health (DOH)
+
+2) up to 300M PHP for position of undersecretary
+
+### Techinique (MODUS OPERANDI)
+
+credibility via the following:<br/>
+
+1) namedrop claiming closeness to President MARCOS, Ferdinand JR;  Vice President DUTERTE, Sara; and Executive Secretary BERSAMIN, Lucas
+
+2) meet at five-star hotel
+
+3) bring people who appear to be members of Presidential Security Group with Malacañan logo
+
+4) show photos with ranking GOV'T officials 
+
+5) issue identification cards with assistant secretary appointments
+
+### TARGET
+
+showbiz personalities and models
+
+### ACTION
+
+Anti-Organized Crime Commission<br/>
+Philippine National Police (PNP)<br/>
+National Bureau of Investigation (NBI)<br/>
+--> whose: investigators received statements from TARGETS (complainants)<br/>
+--> notes: SEE, Johnson Borja (co-conspirator) surrendered to CIDG on 2023-02-14,<br/>
+--> claiming: to also be victim of EJE, Edward Diokno
+
+
 ## "CTA acquits Ressa, Rappler of tax evasion charges" (20230119; THURSDAY)
 
 ### Author:
