@@ -71,7 +71,7 @@ ACCOUNTABILITY is with the self, he says.
 顧客や店のおじさんの満足度も高いと思われたから、<br/>
 ベルトアクションから対戦格闘ゲームへのシフトだと
 
-They thought that SATIFICATION LEVEL<br/> 
+They thought that SATISFACTION LEVEL<br/> 
 of the CLIENT and the STORE OWNER is HIGH,<br/>
 so they SHIFTED from BELT ACTION<br/> 
 to VERSUS FIGHTING GAME.
