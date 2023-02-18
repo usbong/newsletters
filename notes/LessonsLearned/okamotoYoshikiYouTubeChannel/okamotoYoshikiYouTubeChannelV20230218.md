@@ -41,9 +41,9 @@ VERSUS FIGHTING GAME
 ２）ベルトアクション<br/>
 BELT ACTION
 
-### なぜベルトアクションをやめたか？ (Why did you quit from BELT ACTION?)
+### なぜベルトアクションをやめたか？ (Why did you quit from BELT "BEAT 'EM UP" ACTION?)
 
-### ベルトスクロールアクションって (BELT ACTION)
+### ベルトスクロールアクションって (BELT "BEAT 'EM UP" SCROLL ACTION)
 
 プレイすればするほど上手になると<br/>
 それで、インカム（収入）が減る<br/>
