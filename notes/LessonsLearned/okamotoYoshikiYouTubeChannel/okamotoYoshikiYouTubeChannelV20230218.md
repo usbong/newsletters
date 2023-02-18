@@ -59,7 +59,7 @@ In addition, the reason for LOSING is due to the<br/>
 COMPUTER being EXPERT<br/><br/>
 CAUSE (ACCOUNTABILITY) is almost all with the COMPUTER.
 
-### 対戦格闘ゲームだと、
+### 対戦格闘ゲームだと、(VERSUS FIGHTING GAME)
 「インカムが維持もくしくは上がる傾向」<br/>
 負けた理由は、相手が上手だから<br/>
 責任が自分にあると<br/>
