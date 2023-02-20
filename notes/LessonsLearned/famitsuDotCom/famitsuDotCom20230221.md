@@ -24,7 +24,7 @@
 1) remembers: TITANFALL (MULTIPLAYER; FAST ACTION);
 > メカ・シミューレーションのマルチプレイ動画を初めて見た時、
 
-When I first saw the MECHA・SIMULATION's MULTIPLAY VIDEO,
+When I first saw the MECHA・SIMULATION's MULTIPLAYER VIDEO,
 
 > FRONT MISSION (FM): GUN HAZARDが３Dとなったって、
 
