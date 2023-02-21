@@ -73,7 +73,9 @@ Customs Intelligence and Investigation Service-Manila International Container Po
 --> where: ALL SMUGGLER MEMBERS doomed in WEDDING/MARRIAGE;<br/>
 --> due to: NEED of QUICK MONEY
 
-2) remembers: SMUGGLING technique used in NETHERLANDS,<br/>
+#### USBONG ADDITIONAL NOTE
+
+1) remembers: SMUGGLING technique used in NETHERLANDS,<br/>
 --> via: DW NEWS<br/>
 --> where: SMUGGLED items imported from CHINA,<br/>
 --> adds: RECIPIENT of SENT SMUGGLED items appears to be<br/> 
