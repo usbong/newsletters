@@ -15,7 +15,8 @@ WATANABE, JUNKI; 2023-02-03T16:00
 
 > JR東によると、昨年10月中旬と12月初旬、グーグルで「えきねっと」と検索すると、結果一覧の最上部にある広告枠に偽サイトが表示される状態になっていた。クリックすると、本物そっくりの画面を表示し、乗車券などを求めるえきねっと会員にIDやパスワードを入力させる。
 
-FAKE "INTERNET SERVICE: TRAIN STATIONS" appears exactly as that of the JAPAN RAILWAYS (JR) EAST JAPAN's SERVICE;<br/>
+FAKE "INTERNET SERVICE: TRAIN STATIONS"<br/> 
+--> appears: exactly as that of the JAPAN RAILWAYS (JR) EAST JAPAN's SERVICE;<br/>
 --> clicking: to search for among others: Passenger Ticket <br/>
 --> causes: the Company Employee to enter own ID, PASSWORD, and such.
 
