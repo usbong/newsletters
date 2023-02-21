@@ -60,10 +60,10 @@ Customs Intelligence and Investigation Service-Manila International Container Po
 --> English language level and declared Citizenship;<br/>
 --> remembers: SYSON, Ryan and HAW, Keith to NOT have<br/> 
 --> noticeable know-how in SPOKEN English language,<br/>
---> where: know-how classified to be sufficient to deal with: Caucasian males,<br/> 
---> e.g. U.S.A., Australian, citizens<br/>
+--> where: know-how classified to be sufficient to deal with:<br/> 
+--> Caucasian males, e.g. U.S.A., Australian, citizens<br/>
 --> expects: that if has continued to use WIRELESS BROADCASTING TECHNOLOGY<br/> 
---> to pass examinations in COLLEGE,<br/>
+--> to pass examinations in COLLEGE (PRIVATE SCHOOLS; DE LA SALLE UNIVERSITY),<br/>
 --> shall: NEED assistance from SMUGGLER members with such know-how<br/>
 --> due to: there exists SMUGGLER members with non-Philippine Citizenship<br/>
 --> reminder: ENGLISH know-how LOW classified to have NO MONEY (IN-POVERTY)<br/>
