@@ -28,7 +28,7 @@ Customs Intelligence and Investigation Service-Manila International Container Po
 2) request: for importation documents<br/>
 --> IF none, proceed with seizure and forfeiture;<br/>
 --> due to: violation of Section 1400 (misdeclaration in goods declaration),<br/>
---> in relation to: Section 1113 (property subject to seizure and forfeiture,<br/>
+--> in relation to: Section 1113 (property subject to seizure and forfeiture),<br/>
 --> of: Republic Act No. 10863: Customs Modernization and Tariff Act (CMTA)<br/>
 --> and: Republic Act No. 10845: Anti-Agricultural Smuggling Act of 2016
 
@@ -52,7 +52,7 @@ Customs Intelligence and Investigation Service-Manila International Container Po
 --> adds: however, SMUGGLING ACTION continues;<br/>
 --> question as reminder: SOURCE of MONEY?<br/>
 --> notes: technique via "DONATIONS" with UNREPORTED MONEY exists;<br/>
---> where: "DONATIONS" from FAMILY UNIT MEMBERS, SMUGGLERS members
+--> where: "DONATIONS" from FAMILY UNIT MEMBERS, SMUGGLER members
 
 #### USBONG Recommended Action: 
 
