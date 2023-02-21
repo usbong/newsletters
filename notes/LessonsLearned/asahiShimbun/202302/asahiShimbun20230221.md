@@ -4,7 +4,7 @@
 
 > グーグル検索で偽「えきねっと」　悪用された広告枠、審査強化の訴え
 
-GOOGLE SEARCH, FAKE "INTERNET STATION"; COMPLAINT on MISUSE of AD/CM fragment, FIERCER INSPECTION!
+GOOGLE SEARCH, FAKE "TRAIN STATION (INTERNET)"; COMPLAINT on MISUSE of AD/CM fragment, FIERCER INSPECTION!
 
 > 渡辺淳基2023年2月3日 16時00分
 
@@ -15,7 +15,7 @@ WATANABE, JUNKI; 2023-02-03T16:00
 
 > JR東によると、昨年10月中旬と12月初旬、グーグルで「えきねっと」と検索すると、結果一覧の最上部にある広告枠に偽サイトが表示される状態になっていた。クリックすると、本物そっくりの画面を表示し、乗車券などを求めるえきねっと会員にIDやパスワードを入力させる。
 
-FAKE "INTERNET STATION" appears exactly as that of the JR EAST JAPAN's SERVICE;<br/>
+FAKE "TRAIN STATION (INTERNET)" appears exactly as that of the JR EAST JAPAN's SERVICE;<br/>
 --> clicking: to search for among others: Passenger Ticket <br/>
 --> causes: the Company Employee to enter own ID, PASSWORD, and such.
 
