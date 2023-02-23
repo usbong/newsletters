@@ -45,6 +45,27 @@ International Criminal Police Organization<br/>
 2) firearms specialist (ANTI-CRIME UNIT) can verify a ballistic profile
 
 
+### USBONG NOTES:
+
+remembers: from the LIST and sequence, "CRIME AGAINST WOMEN and CHILDREN"; PORNOGRAPHY;<br/>
+
+1) Philippines, 
+
+2) China, 
+
+3) India, 
+
+4) Kazakhstan, 
+
+5) New Zealand, 
+
+6) United Arab Emirates
+
+--> where: after reaching "New Zealand", "United Arab Emirates" closed it;<br/>
+--> adds: due to: [Australian pedophile "Scully"; PHILSTAR](https://github.com/usbong/newsletters/blob/814817df72afe614a830ef9875f693265844d93d/notes/LessonsLearned/thePhilippineStar.md);<br/>
+--> reminder: Australia with New Zealand based on location, et cetera<br/>
+--> adds: photograph of Asian (CHINA) females as teachers with noticeable chest<br/>
+--> @UNIVERSITY in United Arab Emirates;
 
 
 # "Prankster lands in jail over bomb joke" (20230222; MONDAY)
