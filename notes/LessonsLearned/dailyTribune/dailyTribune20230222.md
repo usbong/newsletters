@@ -16,7 +16,7 @@ International Criminal Police Organization<br/>
 
 3) India, 
 
-4) Kazakstan, 
+4) Kazakhstan, 
 
 5) New Zealand, 
 
