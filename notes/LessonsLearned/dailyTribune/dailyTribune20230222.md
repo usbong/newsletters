@@ -1,3 +1,52 @@
+# "Banac joins Interpol ad hoc committee" (20230222; MONDAY)
+
+## Author
+
+JOSE, Glen Jacob
+
+## Keyphrase
+
+International Criminal Police Organization<br/>
+--> six-member ad hoc committee<br/>
+--> Asian Regional Conference in Abu Dhabi, UAE;
+
+1) Philippines, 
+
+2) China, 
+
+3) India, 
+
+4) Kazakstan, 
+
+5) New Zealand, 
+
+6) United Arab Emirates
+
+#### OBJECTIVE: 
+
+1) receive: specific suggestions<br/>
+--> to prevent or combat international crime
+
+2) execute: cross-border police cooperation<br/>
+--> even where diplomatic relations are not present between certain countries
+
+#### INTERPOL's Global Communication System (I-24/7)
+
+--> connects: securely the 195member countries <br/>
+--> via: National Central Bureau (NCB)<br/>
+--> sharing of police information (sensitive and urgent)<br/>
+--> objective: prevention, detection, investigation of CRIME<br/>
+--> adds: system can also be made available to non-police entities via NCB authorization
+
+#### EXAMPLES
+
+1) frontline officer can verify in real-time whether a passport has been stolen,
+
+2) firearms specialist (ANTI-CRIME UNIT) can verify a ballistic profile
+
+
+
+
 # "Prankster lands in jail over bomb joke" (20230222; MONDAY)
 
 ## Author
