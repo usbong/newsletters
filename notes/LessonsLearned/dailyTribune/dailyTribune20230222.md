@@ -8,7 +8,7 @@ JOSE, Glen Jacob
 
 International Criminal Police Organization<br/>
 --> six-member ad hoc committee<br/>
---> Asian Regional Conference in Abu Dhabi, UAE;
+--> 24th Asian Regional Conference in Abu Dhabi, UAE;
 
 1) Philippines, 
 
