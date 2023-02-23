@@ -24,15 +24,15 @@ A university student got employed at a part-time job of correcting short novels.
 
 ### USBONG NOTES:
 
-1) verified: the following to identify "ASHIZAWA, Kamome" GENDER; 
+1) verified: the following to identify "ASHIZAWA, Kamome" GENDER; <br/>
 --> opted: to use the default "MALE";
 
 #### https://twitter.com/AshizawaKamome; last accessed: 20230223
 
 > 自己の存在をプログラム化して
 
-I computer programmed my own existence...
-
+I computer programmed my own existence...<br/>
+<br/>
 Sariling ko ginawan ng program ang aking pag-iral...
 
 --> notes: AI;
