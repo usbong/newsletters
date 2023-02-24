@@ -48,9 +48,9 @@ My Research Partners include many people of UKRAINE and RUSSIA. There is an unus
 --> keyphrase: need of workers;<br/>
 --> adds: majority number of startups, innovations whose OUTPUT is FAILURE,<br/>
 --> to cause: NEED of QUICK MONEY,<br/>
---> answered: via donations technique from PARENTS?
---> adds: ILLEGAL ACTIONS (TAX EVASION), et cetera;
---> reference: "The Millionaire Next Door"
+--> answered: via donations technique from PARENTS?<br/>
+--> adds: ILLEGAL ACTIONS (TAX EVASION), et cetera;<br/>
+--> <b>reference:</b> ["The Millionaire Next Door"](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
 
 
 ## [ＥＵの欧州委、公用携帯のTikTok利用禁止　安全上の問題懸念](https://www.asahi.com/articles/ASR2S0JFRR2RUHBI03B.html?iref=comtop_Topnews2_02); last accessed: 20230224
