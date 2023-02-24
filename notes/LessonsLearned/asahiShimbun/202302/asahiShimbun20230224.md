@@ -38,7 +38,7 @@ My Research Partners include many people of UKRAINE and RUSSIA. There is an unus
 --> JAPANESE national, lived in WEST GERMANY as a CHILD, becomes Professor in California, U.S.A.;<br/>
 --> OUTPUT of Success for JAPANESE nationals with work that causes them to live with their family abroad?
 
-2) observed: CHILDREN of JAPANESE nationals (as with Filipino nations),<br/>
+2) observed: CHILDREN of JAPANESE nationals (as with Filipino nationals),<br/>
 --> have: noticeable difficulty in speaking nihongo;<br/>
 --> OUTPUT of Success for IMMIGRANT PARENTS, but NOT anymore so for the CHILDREN?<br/>
 --> notes: however, OUTPUT appears to be NOT so in CAPITAL Canberra, Australia;<br/>
