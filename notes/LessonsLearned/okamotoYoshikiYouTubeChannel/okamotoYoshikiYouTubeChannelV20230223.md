@@ -37,7 +37,7 @@ that was beyond her actual capability
 
 たっぷさん SCE レベルファイブ 福岡（九州）
 
-Ms TAPP-SAN [applied] at SCE (SONY COMPUTER ENTERTAINMENT)<br/>
+Ms TAPP [applied] at SCE (SONY COMPUTER ENTERTAINMENT)<br/>
 LEVEL-UP in FUKUOKA (KYUSHU)
 
 > 九州出身
