@@ -8,6 +8,8 @@ Difference between HARD WATER and SOFT WATER? The quantity of componsition that 
 
 2023-02-25T09:00
 
+### KEYPHRASE
+
 > 外国のミネラルウォーター
 
 MINERAL WATER in FOREIGN COUNTRIES
