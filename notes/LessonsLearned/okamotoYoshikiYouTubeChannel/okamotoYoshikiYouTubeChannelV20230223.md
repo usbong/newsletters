@@ -76,7 +76,7 @@ She was born in KYUSHU, JAPAN.
 
 During the hiring interview, the parts that stick-out are remembered.
 
-Is there a SENSE of BALANCE? Do you have a "WEAPON, so that NOBODY can defeat you"?
+Is there a SENSE of BALANCE? Do you have a "WEAPON, such that NOBODY can defeat you"?
 
 These are said to be deeply considered.
 
