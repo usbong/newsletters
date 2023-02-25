@@ -7,41 +7,52 @@ last accessed: 20230223
 
 > ゲーム会社の採用試験ではガチのゲームオタクは敬遠されます。｜岡本吉起塾Ch
 
+> ゲーム好き、ゲーム会社に入りにくい理由
 
-ゲーム好き、ゲーム会社に入りにくい理由
+REASON why it is difficult for someone 
+who likes GAMES to enter a GAME COMPANY
 
-たっぷさん
-ゲームの思い出がたくさん
+> たっぷさん ゲームの思い出がたくさん
 
-ゲーム作りをしたいと
-準備しておいた
-オタクで、サブカル的な就職先
+Ms TAPP has plenty of GAME MEMORIES
 
-会社側も
-いいとこを見せる
+> ゲーム作りをしたいと 準備しておいた オタクで、サブカル的な就職先
 
-5,000時間のプレイ
-クルエーターの仕事ではないと
+She says she wants to make GAMES,
+prepared for it, and applied for a sub-culture JOB,
+as an OTAKU
 
-実力以上もやらせられたと
+> 会社側も いいとこを見せる
 
-たっぷさん
-SCE
-レベルファイブ
-福岡（九州）
+The company also shows its GOOD side
 
-九州出身
+> 5,000時間のプレイ クルエーターの仕事ではないと
 
-面接時
-尖ってるところ
+5K HOURS of PLAY, it's not a CREATOR's WORK!
 
-バランス感覚
-「誰にも負けない武器」あるか
+> 実力以上もやらせられたと
 
-深振り（深く振り返る？）
+She says that she was made to do work 
+that was beyond her actual capability
 
-ストV、PCとPS４のパーフォーマス
-PS４でやるのをオススメしないと
+たっぷさん SCE レベルファイブ 福岡（九州）
 
-EVOからHitBoxへの大会に参加したいと
-「レバーレス」コントロラーだからと
+Ms TAPP-SAN [applied] at SCE (SONY COMPUTER ENTERTAINMENT)<br/>
+LEVEL-UP in FUKUOKA (KYUSHU)
+
+> 九州出身
+
+She was born in KYUSHU.
+
+> 面接時 尖ってるところ
+
+During the hiring interview, the parts that stick-out
+
+> バランス感覚 「誰にも負けない武器」あるか
+
+SENSE of BALANCE; Do you have a "WEAPON, so that NOBODY can defeat you"?
+
+> 深振り（深く振り返る？）
+
+Deep reminiscing (deeply reminisce)
+
