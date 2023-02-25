@@ -56,21 +56,21 @@ SENSE of BALANCE; Do you have a "WEAPON, so that NOBODY can defeat you"?
 
 Deep reminiscing (deeply reminisce)
 
-### MAGAZINE version?; Translated from nihongo to English
+### MAGAZINE version? The Economist? DW NEWS?; Translated from nihongo to English
  
 #### What is the REASON why it is difficult for someone who likes GAMES to enter a GAME COMPANY?
 
 Ms TAPP has plenty of GAME MEMORIES. 
 
-She says she wants to make GAMES, prepared for it, and applied for a sub-culture JOB, as an OTAKU.
+She says that she wants to make GAMES, prepared for it, and applied for a sub-culture JOB, as an OTAKU.
 
 If you show only your GOOD side, the company does so too.
 
-But 5K HOURS of PLAY TIME, it's not a CREATOR's WORK!
+But 5,000 HOURS of PLAYING, it's not a CREATOR's WORK!
 
 She says that she was made to do work that was beyond her actual capability.
 
-Ms TAPP applied at SCE (SONY COMPUTER ENTERTAINMENT), LEVEL-UP in FUKUOKA (KYUSHU), among others.
+Ms TAPP applied at SCE (SONY COMPUTER ENTERTAINMENT), LEVELUP in FUKUOKA (KYUSHU), among others.
 
 She was born in KYUSHU, JAPAN.
 
