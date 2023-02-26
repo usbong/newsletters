@@ -2,82 +2,30 @@
 
 https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q/videos
 
-## https://www.youtube.com/watch?v=fQc1ft5tqCA;
-last accessed: 20230223
+## https://www.youtube.com/watch?v=QW2NL41VQXc; last accessed: 20230226
 
-> ゲーム会社の採用試験ではガチのゲームオタクは敬遠されます。｜岡本吉起塾Ch
+> 【対談】岡本の恩師がついに登場⁉カプコン初期のゲームを支えた天才プログラマー青木隆さんと対談しました（＃１）
 
-> ゲーム好き、ゲーム会社に入りにくい理由
+ユニバーサル<br/>
+スロットマシン
 
-REASON why it is difficult for someone 
-who likes GAMES to enter a GAME COMPANY
+ーー
 
-> たっぷさん ゲームの思い出がたくさん
+企画書
 
-Ms TAPP has plenty of GAME MEMORIES
+岡本さん、藤原さんが来て
 
-> ゲーム作りをしたいと 準備しておいた オタクで、サブカル的な就職先
+キャラデザイン
 
-She says she wants to make GAMES,
-prepared for it, and applied for a sub-culture JOB,
-as an OTAKU
+２３歳、絵を描いて、パソコンに入れる
 
-> 会社側も いいとこを見せる
+１９８０年ぐらい
 
-The company also shows its GOOD side
+早くパソコン習って
 
-> 5,000時間のプレイ クルエーターの仕事ではないと
-
-5K HOURS of PLAY, it's not a CREATOR's WORK!
-
-> 実力以上もやらせられたと
-
-She says that she was made to do work 
-that was beyond her actual capability
-
-たっぷさん SCE レベルファイブ 福岡（九州）
-
-Ms TAPP [applied] at SCE (SONY COMPUTER ENTERTAINMENT)<br/>
-LEVEL-UP in FUKUOKA (KYUSHU)
-
-> 九州出身
-
-She was born in KYUSHU.
-
-> 面接時 尖ってるところ
-
-During the hiring interview, the parts that stick-out
-
-> バランス感覚 「誰にも負けない武器」あるか
-
-SENSE of BALANCE; Do you have a "WEAPON, so that NOBODY can defeat you"?
-
-> 深振り（深く振り返る？）
-
-Deep reminiscing (deeply reminisce)
-
-### MAGAZINE version? The Economist? DW NEWS?; Translated from nihongo to English
- 
-#### What is the REASON why it is difficult for someone who likes GAMES to enter a GAME COMPANY?
-
-Ms TAPP has plenty of GAME MEMORIES. 
-
-She says that she wants to make GAMES, prepared for it, and applied for a sub-culture JOB, as an OTAKU.
-
-If you show only your GOOD side, the company does so too.
-
-But 5,000 HOURS of PLAYING, it's not a CREATOR's WORK!
-
-She says that she was made to do work that was beyond her actual capability.
-
-Ms TAPP applied at SCE (SONY COMPUTER ENTERTAINMENT), LEVELUP in FUKUOKA (KYUSHU), among others.
-
-She was born in KYUSHU, JAPAN.
-
-During the hiring interview, the parts that stick-out are remembered.
-
-Is there a SENSE of BALANCE? Do you have a "WEAPON, such that NOBODY can defeat you"?
-
-These are said to be deeply considered.
+現在の６０歳超、パソコンや携帯電話、技術的な物など、できると
 
 
+## メモ
+
+paused @6:49/14:08
