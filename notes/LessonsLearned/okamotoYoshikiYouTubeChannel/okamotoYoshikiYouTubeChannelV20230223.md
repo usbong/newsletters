@@ -2,7 +2,7 @@
 
 https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q/videos
 
-## https://www.youtube.com/watch?v=QW2NL41VQXc; last accessed: 20230226
+## https://www.youtube.com/watch?v=QW2NL41VQXc; last accessed: 20230228; from 20230227
 
 > 【対談】岡本の恩師がついに登場⁉カプコン初期のゲームを支えた天才プログラマー青木隆さんと対談しました（＃１）
 
@@ -66,7 +66,9 @@ paused @6:49/14:08
 
 ### Translated from nihongo to English
 
-Mr AOKI, Takashi was IN-CHARGE of a BANKING SYSTEM for a usual SOFTWARE HOUSE. He also worked on SLOT MACHINES as requested by UNIVERSAL.
+This is a conversation between Mr OKAMOTO, Yoshiki and Mr AOKI, Takashi, a genius programmer, who formerly worked at CAPCOM. 
+
+Prior to joining CAPCOM, Mr AOKI was IN-CHARGE of a BANKING SYSTEM for a typical SOFTWARE HOUSE. He also worked on SLOT MACHINES as requested by UNIVERSAL.
 
 ## —
 
