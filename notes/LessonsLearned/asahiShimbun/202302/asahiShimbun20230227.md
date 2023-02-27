@@ -32,7 +32,7 @@ Using hidden language (JARGON), he started a call to commit suicide, and many nu
 
 > 防犯カメラの映像などから、公共交通機関を使って2人で海岸に向かったとみられる。現場には一部使用した練炭などが残っていた。
 
-From the images of the CCTV Cameras, it can be seen that two people were going towards the beach, using public transportation. At the site, a part of the COAL used, and so on remained.
+From the images of the CCTV Cameras, it can be seen that two people were going towards the beach, using public transportation. At the site, a part of the CHARCOAL used, and so on, remained.
 
 
 > ◆悩みの相談先
