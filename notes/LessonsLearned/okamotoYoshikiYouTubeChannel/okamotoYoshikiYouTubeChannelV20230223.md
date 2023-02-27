@@ -64,6 +64,18 @@ paused @6:49/14:08
 <br/>
 ザウルス、電子手帳
 
+### Translated from nihongo to English
+
+Mr AOKI, Takashi was in-charge of a BANKING SYSTEM for a usual SOFTWARE HOUSE. He also worked on SLOT MACHINES as requested by UNIVERSAL.
+
+## —
+
+When Mr AOKI started development at a newly established CAPCOM. He realized that they needed a PROJECT DOCUMENT. Mr OKAMOTO and Mr FUJIWARA came to assist. 
+
+Mr OKAMOTO worked on CHARACTER DESIGN. At 23 years old, he drew illustrations, and entered them into a Personal Computer (PC). This was in the 1980's. He learned PC's early, so at present, even past 60 years old, Mr OKAMOTO can use PC's, mobile telephones, and such gadgets of technology.
+
+
+
 ### USBONG NOTES
 
 1) [綿菓子製造機の移動販売がゲーム全盛期への道築いた--カプコン会長兼ＣＥＯ　辻本憲三[上] ](https://toyokeizai.net/articles/-/7335?page=3)<br/>
