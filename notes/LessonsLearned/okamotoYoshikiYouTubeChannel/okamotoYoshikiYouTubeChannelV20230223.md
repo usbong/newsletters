@@ -66,7 +66,7 @@ paused @6:49/14:08
 
 ### Translated from nihongo to English
 
-Mr AOKI, Takashi was in-charge of a BANKING SYSTEM for a usual SOFTWARE HOUSE. He also worked on SLOT MACHINES as requested by UNIVERSAL.
+Mr AOKI, Takashi was IN-CHARGE of a BANKING SYSTEM for a usual SOFTWARE HOUSE. He also worked on SLOT MACHINES as requested by UNIVERSAL.
 
 ## —
 
@@ -74,7 +74,19 @@ When Mr AOKI started development at a newly established CAPCOM. He realized that
 
 Mr OKAMOTO worked on CHARACTER DESIGN. At 23 years old, he drew illustrations, and entered them into a Personal Computer (PC). This was in the 1980's. He learned PC's early, so at present, even past 60 years old, Mr OKAMOTO can use PC's, mobile telephones, and such gadgets of technology.
 
+## —
 
+Because Super Large-scale COMPUTERS were expensive, Mr OKAMOTO says their usage was divided. For example, 10 people for the Afternoon Unit, and then the next 10 people for the Evening Unit. 
+
+When Mr. AOKI, Takashi thought that he’d want to have a meeting, he found Mr OKAMOTO and Mr FUNAMIZU outside playing CATCH BALL. It was said to be an ordinary thing even during work time. It was so as to keep on moving.
+
+Company President, Mr TSUJIMOTO would tell them: “Do whatever you like!” And he’d buy TOOLS, and such things that he wanted.
+
+Example, 10’s and 100’s of millions of YEN for the whole thing!
+
+Mr OKAMOTO adds that he’d also drop something like 3,600 YEN for the approval documents.
+
+And a ZAURUS Electronic Note Tool for all, says Mr AOKI.
 
 ### USBONG NOTES
 
@@ -83,3 +95,5 @@ Mr OKAMOTO worked on CHARACTER DESIGN. At 23 years old, he drew illustrations, a
 --> notes: from https://toyokeizai.net/, website design technique<br/>
 --> remembers: [ 岡本吉起 ゲームch@YoshikiOkamotoGameCh](https://www.youtube.com/channel/UCjuSyACqtoJEm3A1X87Zi6Q)<br/>
 --> adds: [クロスワードパズル](https://toyokeizai.net/feature/crossword/?utm_campaign=EDtkol_2212&utm_source=adTKO&utm_medium=display)
+
+2) ザウルス; ZAURUS; remembers: SAURUS, SHOCK TROOPERS#1
