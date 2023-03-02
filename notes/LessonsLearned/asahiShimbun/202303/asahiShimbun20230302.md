@@ -2,15 +2,19 @@
 
 > 結婚への圧力、どう向き合う？　「今夜すきやきだよ」作者と考える
 
+How to face the pressure to MARRY? Pondering with the writer of "It's SUKIYAKI this evening!"
+
 > 取材・照井琢見2023年3月1日 15時00分
+
+Interview; TERUI, Takumi; 2023-03-01T15:00
 
 > 私は数年前、現在の結婚相手に「結婚しよう」と提案されました。相手のことは好きでしたし、もうこう言ってもらえるチャンスもあるかわからないので、勢いで結婚してみました。
 
-Several years ago, my present marriage partner proposed to me by saying, "Let's get married." I liked my partner, and I didn't know if I'd have another chance to be told of something like that. So, on impulse, I decided to get married.
+Several years ago, my current marriage partner proposed to me by saying, "Let's get married." I liked my partner, and I didn't know if I'd have another chance to be told of something like that. So, on impulse, I decided to get married.
 
 > しかし、いざ結婚したものの、名字が変わったり、親戚が増えたり。同居するのが一般的に当たり前だったり、子どもを期待されたり。
 
-But as soon as we married, my name was changed, my relatives increased, among so many other things. Living together was generally the usual, and a child was expected of us.
+But as soon as we married, my name was changed, and my relatives increased, among so many other things. Living together was generally the usual, and a child was expected of us.
 
 >　「“好きだし”結婚してみた」という軽い気持ちでするには、生活の変化がありすぎることに、驚きました。
 
@@ -41,3 +45,13 @@ TO-DO: -update: this
 ### USBONG NOTES
 
 1) 境; sakai
+
+
+### USBONG NOTES: English words chosen for select nihongo words
+
+1) 考える; Ponder
+
+2) 作者; Writer
+
+3) 取材; Interview<br/>
+--> Reference: https://context.reverso.net/translation/japanese-english/%E5%8F%96%E6%9D%90; last accessed: 20230302
