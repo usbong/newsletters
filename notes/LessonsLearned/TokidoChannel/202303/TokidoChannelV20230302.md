@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=ZC12E-YYdzU; last accessed: 20230302
 
 > ときどと同い年の心理学者の Younghou選手！ vsカワノ戦勝利の要因とは!?【海外インタビューシリーズ】
 
+> 7,362 views  Mar 1, 2023<br/>
+> Younghou選手 Twitter：https://twitter.com/jovenhou
+
+> 撮影日：日本時間2月19日 AM11:30（決勝トーナメント直前）
+
+> ハリウッド撮影動画はこれでラストとなります。ご視聴ありがとうございました！<br/>
+> 次回の海外シリーズもどうぞお楽しみに！
+
+> 海外インタビューシリーズ再生リスト：https://bit.ly/3Zo0P7P
+
 
 SF6<br/>
 5 characters at least;  8 hours a day<br/>
