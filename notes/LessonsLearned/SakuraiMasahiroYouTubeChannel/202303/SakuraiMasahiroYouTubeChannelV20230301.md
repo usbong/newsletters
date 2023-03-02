@@ -15,7 +15,15 @@
 
 ### メモ
 
-TO-DO: -continue: verifying EFFECTS  after 1:23
+1) continued: verifying EFFECTS after 1:23<br/>
+--> SAMUS, PUNCH-OUT character's EFFECTS noticeably cause EYE PAIN <br/>
+--> with continued viewing due to BRIGHTNESS<br/>
+--> remembers: 2 days ago (2023-02-28), @CASHIER UNIT,<br/> 
+--> ANDROID device from PATIENT,<br/>
+--> had: noticeable BRIGHTNESS via GCASH direct (digital) payment transfer to BPI,<br/>
+--> where: self viewed to write note on payment REFERENCE NUMBER;<br/>
+--> observed: combination of mainly WHITE and BLUE only;<br/>
+--> adds: select ANDROID devices did NOT have that noticeable BRIGHTNESS
 
 ### FROM PHILIPPINES, SYSON, MICHAEL B.:
 
