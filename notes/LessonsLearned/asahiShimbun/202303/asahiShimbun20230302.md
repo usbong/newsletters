@@ -8,6 +8,8 @@ How to face the pressure to MARRY? Pondering with the writer of "It's SUKIYAKI t
 
 Interview; TERUI, Takumi; 2023-03-01T15:00
 
+### KEYPHRASE
+
 > 私は数年前、現在の結婚相手に「結婚しよう」と提案されました。相手のことは好きでしたし、もうこう言ってもらえるチャンスもあるかわからないので、勢いで結婚してみました。
 
 Several years ago, my current marriage partner proposed to me by saying, "Let's get married." I liked my partner, and I didn't know if I'd have another chance to be told of something like that. So, on impulse, I decided to get married.
