@@ -32,7 +32,7 @@ It was with a light-hearted feeling that I said "I'd marry because I like my par
 
 >　「友達同士は結婚しちゃいけないの？」
 
-"Are friends not supposed to marrying each other?"
+"Are friends not supposed to marry each other?"
 
 >　「今の時代にこの制度あってる！？」
 
