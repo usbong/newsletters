@@ -45,7 +45,8 @@ YOUNGHOU switched from LUKE to BIRDIE
 
 > Younghou "la sal es real" 
 
-2. birthdates; Mr TOKIDO -> Mr YOUNGHOU
+2. birthdates; Mr TOKIDO -> Mr YOUNGHOU, <br/>
+--> both @37 years old (approx)
 
 3. Mr YOUNGHOU 笑い; University of CHILE; worked as research assistant for 4~5 years;<br/>
 --> on education, nerve science learning;<br/>
