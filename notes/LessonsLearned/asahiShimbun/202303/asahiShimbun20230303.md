@@ -16,7 +16,7 @@ This can achieve a substantially "low delay" with 1/200 (0.5%), as compared to t
 
 This is done by making all transmission exchanges use optical (light) signals.<br/>
 <br/>
-Previously, while optical fibers were used to transmit optical signals, there was still the need to process the change between electrical signals and optical signals midway through the transimission. This was what caused the delay. <br/>
+Previously, while optical fibers were used to transmit optical signals, there was still the need to process the change between electrical signals and optical signals midway through the transmission. This was what caused the delay. <br/>
 <br/>
 With IOWN, there is no signal change, so it has become possible to greatly reduce the delay.
 
