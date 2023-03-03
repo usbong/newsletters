@@ -6,6 +6,8 @@ NTT commercializes next generation telecommunications with "IOWN" to greatly red
 
 > 鈴木康朗2023年3月2日 17時51分
 
+### KEYPHRASE
+
 > NTTは2日、次世代通信基盤「IOWN（アイオン）」の初の商用サービスを16日から提供すると発表した。通信のタイムラグを大幅に抑えられるのが特徴で、従来の光通信に比べて200分の1の「低遅延」を実現できる。主に法人向けとなり、自動運転などへの活用も期待されている。
 
 This can achieve a substantially "low delay" with 1/200 (0.5%), as compared to the previously used optical fiber transmission technique.
