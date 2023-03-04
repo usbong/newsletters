@@ -43,7 +43,7 @@ The face, pink, the hair, green. A girl painted with strange color on paper (Lik
 
 > 「死にたいと思っていたけど、バカバカしくなって死ぬのをやめました」「学校に行っていないんですけど、そんな自分でも許せるようになりました」と感想をくれた人がいました。たくさんの人が「わかる」と共感してくれたのがうれしかったです。私って結構、ウジウジして陰鬱（いんうつ）なタイプなんですけど、明るく見えても、みんなも同じようにイライラやモヤモヤを隠してるじゃんって。
 
-There were people who got the impression that "I thought that I wanted to die, but I became stupid and quit from dying." and also, "I did not go to school, but I was able to forgive even that kind of my self." I was happy that there were plenty of people who shared the feeling of "understanding". I'm the type who is pretty much indecisive, and is gloomy. Even if I appear cheerful, I'm like everyone who also hides their irritation and sadness. 
+There were people who got the impression that "I thought that I wanted to die, but I became stupid and quit from dying." and also, "I did not go to school, but I was able to forgive even that self of mine." I was happy that there were plenty of people who shared the feeling of "understanding". I'm the type who is pretty much indecisive, and is secretly gloomy. Even if I appear cheerful, I'm like everyone who also hides their irritation and sadness. 
 
 ### USBONG NOTES
 
