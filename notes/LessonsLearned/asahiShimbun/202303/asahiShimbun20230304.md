@@ -1,3 +1,22 @@
+## [（天声人語）１００年後の誰かのために](https://www.asahi.com/articles/DA3S15572008.html?iref=comtop_Opinion_05); last accessed: 20230304
+
+>（天声人語）１００年後の誰かのために
+
+> 2023年3月4日 5時00分
+
+> 博物館には「三つの無」という言葉があるそうだ。いわく無目的、無制限、無計画。動物の骨格標本などを収集し、保管するときの理念だとか。解剖学者の郡司芽久（めぐ）さんの著書『キリン解剖記』に教えられた▼「たとえ今は必要がなくても、１００年後、誰かが必要とするかもしれない。その人のために、標本を作り、残し…
+
+### USBONG NOTES
+
+1) 無制限; 無限 unlimited; <br/>
+--> unrestricted; unrestrained; unlimited/no limitation; 
+
+### Reference
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+
 ## [「誰にも見つからずに泣いてる」あなたへ　悪口イラストに込めた思い](https://www.asahi.com/articles/ASR2X66MBR2FPTIL023.html?iref=comtop_7_01); last accessed: 20230304
 
 > 「誰にも見つからずに泣いてる」あなたへ　悪口イラストに込めた思い
