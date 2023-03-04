@@ -8,6 +8,8 @@ To you who "cries without anyone seeing", a thought-filled illustration of bad-m
 
 Reporter: KOWAKA, Rie; Photographs: TSUCHIYA, Ryoji; 2023-03-04T09:00
 
+### KEYPHRASE
+
 > 個展を開くと「ツイッターを見て来ました」と、多くのお客さんに声をかけられました。そのときに思ったんです。みんな普通の顔をしているように見えて、悔しさや悲しさを抱えて生きているんだなって。ツイッターの投稿を見た編集者から声がかかり、作品集として出版することになりました。
 
 When I opened my personal exhibit, there were many visitors who came to voice out to me, "I saw your TWITTER POST and came." At that time, I thought that everyone appeared to put an ordinary face, but are really living while struggling with pain and sadness. There was an editor who saw my TWITTER POST and came to me. That's how the collection of my created works got published.
