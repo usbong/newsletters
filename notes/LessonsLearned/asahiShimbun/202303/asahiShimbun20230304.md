@@ -18,11 +18,9 @@ When I opened my personal exhibit, there were many visitors who came to voice ou
 
 Nearly 10 years ago, when I was 24 years old, I went with the name, "BAD-MOUTH MAKER for the good child," and began to POST illustrations of a girl who spits out BAD lines while crying. In those days, I did not have confidence in my self, and I think it was still before the time that I went with the name, "ILLUSTRATOR."
 
->　顔はピンク、髪は緑。奇抜な色で塗られた表紙の女の子が〈皆みたいに上手にできない〉と、涙を流している。そんな印象的なイラストにエッセーを織り交ぜた「誰にも見つからずに泣いてる君は優しい」（大和書房）は、「よいこのための悪い絵本」をうたっています。作者で大阪出身のイラストレーター、原田ちあきさん（32）に聞きました。「これってもしかして、私のことですか」
+> 顔はピンク、髪は緑。奇抜な色で塗られた表紙の女の子が〈皆みたいに上手にできない〉と、涙を流している。そんな印象的なイラストにエッセーを織り交ぜた「誰にも見つからずに泣いてる君は優しい」（大和書房）は、「よいこのための悪い絵本」をうたっています。作者で大阪出身のイラストレーター、原田ちあきさん（32）に聞きました。「これってもしかして、私のことですか」
 
-Mr HARADA, Chiaki (32), write and illustrator, born in OSAKA.<br/>
-<br/>
-TO-DO: -update: this
+The face, pink, the hair, green. A girl painted with strange color on paper (Like everyone, I cannot do this well). She is crying. That type of memorable illustration is interwoven with "You, who is crying without anyone seeing, are kind" (DAIWA Books), which promotes the "BADLY illustrated book for the good child." Its writer and illustrator is Mr HARADA, Chiaki (32), born in OSAKA. 
 
 > 「死にたいと思っていたけど、バカバカしくなって死ぬのをやめました」「学校に行っていないんですけど、そんな自分でも許せるようになりました」と感想をくれた人がいました。たくさんの人が「わかる」と共感してくれたのがうれしかったです。私って結構、ウジウジして陰鬱（いんうつ）なタイプなんですけど、明るく見えても、みんなも同じようにイライラやモヤモヤを隠してるじゃんって。
 
@@ -33,3 +31,13 @@ There were people who got the impression that "I thought that I wanted to die, b
 1) remembers: OMORI game (steampowered) due to "sadness", "psychology";<br/>
 --> notes: self had opted NOT to use available remaining TIME to play such games;
 
+2) opts: to remove select parts of this:
+
+> 作者で大阪出身のイラストレーター、原田ちあきさん（32）に聞きました。「これってもしかして、私のことですか」
+
+We asked Mr HARADA, Chiaki (32), write and illustrator, born in OSAKA: "Is this perhaps about me?"
+
+
+### REFERENCE
+
+1) GOOGLE SEARCH ENGINE; TRANSLATE
