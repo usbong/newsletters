@@ -16,7 +16,7 @@ When I opened my personal exhibit, there were many visitors who came to voice ou
 
 >　10年近く前、24歳のときにツイッターで「よいこのための悪口メーカー」を名乗り、泣きながらバッドなセリフを吐く女の子のイラストの投稿を始めました。そのころは自分に自信がなくて、まだ「イラストレーター」を名乗る前だったかな。
 
-Nearly 10 years ago, when I was 24 years old, I went with the name, "BAD-MOUTH MAKER for the good child", and began to POST illustrations of a girl who spits out BAD lines while crying. In those days, I did not have confidence in my self, and I think it was still before the time I went with the name, "ILLUSTRATOR."
+Nearly 10 years ago, when I was 24 years old, I went with the name, "BAD-MOUTH MAKER for the good child," and began to POST illustrations of a girl who spits out BAD lines while crying. In those days, I did not have confidence in my self, and I think it was still before the time that I went with the name, "ILLUSTRATOR."
 
 >　顔はピンク、髪は緑。奇抜な色で塗られた表紙の女の子が〈皆みたいに上手にできない〉と、涙を流している。そんな印象的なイラストにエッセーを織り交ぜた「誰にも見つからずに泣いてる君は優しい」（大和書房）は、「よいこのための悪い絵本」をうたっています。作者で大阪出身のイラストレーター、原田ちあきさん（32）に聞きました。「これってもしかして、私のことですか」
 
@@ -31,5 +31,5 @@ There were people who got the impression that "I thought that I wanted to die, b
 ### USBONG NOTES
 
 1) remembers: OMORI game (steampowered) due to "sadness", "psychology";<br/>
---> notes: self had opted NOT to use avalable remaining TIME to play such games;
+--> notes: self had opted NOT to use available remaining TIME to play such games;
 
