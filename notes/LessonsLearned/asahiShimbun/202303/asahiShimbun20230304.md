@@ -6,6 +6,20 @@
 
 > 博物館には「三つの無」という言葉があるそうだ。いわく無目的、無制限、無計画。動物の骨格標本などを収集し、保管するときの理念だとか。解剖学者の郡司芽久（めぐ）さんの著書『キリン解剖記』に教えられた▼「たとえ今は必要がなくても、１００年後、誰かが必要とするかもしれない。その人のために、標本を作り、残し…
 
+### KEYPHRASE
+
+> 「たとえ今は必要がなくても、１００年後、誰かが必要とするかもしれない。その人のために、標本を作り、残
+
+"Hindi man kailanganin ito sa kasalukuyan, pagkatapos ng 100 taon, maaaring may kung sinong mangangailangan nito. Ginawa ko itong halimbawa at ipinatili rito alang-alang sa taong iyon."
+
+> 博物館には「三つの無」という言葉があるそうだ。いわく無目的、無制限、無計画。動物の骨格標本などを収集し、保管するときの理念だとか。
+
+Mayroon daw "TATLONG WALA" ang MUSEO. WALANG PAKAY, WALANG HANGGANAN, WALANG PLANO. Ito raw ang sinasabing mga dahilan kapag pinanatili ang kinalap na mga halimbawa ng mga buto ng hayop. 
+
+>（天声人語）１００年後の誰かのために
+
+Tinig ng Langit, Wikang Tao: Alang-ala sa kung sino, pagkatapos ng 100 taon
+
 ### USBONG NOTES
 
 1) 無制限; 無限 unlimited; <br/>
