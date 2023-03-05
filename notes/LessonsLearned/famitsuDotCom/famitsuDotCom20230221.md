@@ -30,7 +30,7 @@ When I first saw the MECHA・SIMULATION's MULTIPLAYER VIDEO,
 
 I thought that FRONT MISSION (FM): GUN HAZARD has become 3D!
 
-> FM:EVOLVED(PS3)もあるけど、TITANFALLの方より良かろうと。
+> FM:EVOLVED(PS3)もあるけど、TITANFALLの方が、より良かろうと。
 
 There also exists FM: EVOLVED (PS3), but I thought that perhaps TITANFALL is better.
 
