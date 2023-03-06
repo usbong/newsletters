@@ -36,7 +36,7 @@ Fictitius Storage Fee, Delivery Fee, et cetera
 
 > 水増し請求は、楽天モバイルが進めていた携帯電話基地局整備事業の物流業務を委託された「日本ロジステック」が楽天モバイルに対して行っていたとされる。
 
-"JAPAN LOGISTIC" was tasked to work on the business consolidation of the Mobile Telephone Base Station, pushed by RAKUTEN MOBILE.
+"JAPAN LOGISTIC" had already been tasked to work on the business consolidation of the Mobile Telephone Base Station, pushed by RAKUTEN MOBILE.
 
 > 「TRAIL」の社長、浜中治容疑者（49）に実態のない請求書を提示。請求元は自身の妻が代表の法人で、TRAILとの取引を装って不正に得た金を還流させていたという。
 
