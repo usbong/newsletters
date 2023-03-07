@@ -6,7 +6,7 @@ WORK stolen by AI (Artificial Intelligence), WORRY at the dispatch office, the R
 
 > 聞き手・高重治香2023年3月6日 11時30分
 
-Report: TAKASHIGE, Haruka; 2023-03-06T11:30
+Reporter: TAKASHIGE, Haruka; 2023-03-06T11:30
 
 >「スキルもない　貯金もない　派遣の期間が終わったら　また歳（とし）をとった無職のできあがり」――そんな心をえぐられるフレーズで始まる漫画が昨年、ツイッターで話題になりました。作者は、事務職の派遣社員をしながらウェブデザイナーを目指した「かけだしちゃん」さん。AIに仕事を奪われる不安や、デジタル人材を目指して見えた世界について、聞きました。
 
