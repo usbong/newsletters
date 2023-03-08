@@ -55,3 +55,12 @@
 
 > Motion Twin is an anarcho-syndical (seriously) workers cooperative that’s been making games in France since 2001. No boss, equal pay, equal say. It’s an experiment and an experience!
 
+
+## [『ディアブロ IV』がフランスの大聖堂の壁画に！ 約48メートルの大スケール、悪魔との壮大な戦いをゴシック風アートで描く](https://www.famitsu.com/news/202303/07295140.html)
+
+> 『ディアブロ IV』がフランスの大聖堂の壁画に！ 約48メートルの大スケール、悪魔との壮大な戦いをゴシック風アートで描く
+
+### USBONG NOTES
+1. noticeable drawing technique; remembers: Michelangelo, sistine chapel; LUNA, Juan’s Spolarium; ITALIA; VATICAN
+2. verified: previously, and albeit only quickly DIABLO 3 (PS3; used DISC), opted for BARBARIAN (NO THINK) gameplay, after observing rest of START CHARACTERS appeared to have noticeable problem in their 3D object models, e.g. cross-eyed; notes: have NOT yet continued playing;
+3. remembers: playing DIABLO 1 (PC, BATTLE.NET); opted: to start first as MAGE (WEAK @START); notes: did NOT anymore continue playing; preferred: C&C: RED ALERT (PC) and STARCRAFT (PC) @NETCAFÉ
