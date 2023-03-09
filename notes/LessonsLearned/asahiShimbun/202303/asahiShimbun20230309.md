@@ -36,7 +36,7 @@ Development of the language learning app, "LingQ", et cetera
 
 ### > 話題の対話型AI「ChatGPT（チャットGPT）」が、語学の学習に生かせるのかどうかも聞きました。
 
-We also asked if "ChatGPT", which creates messages in chat-form based on topics using AI, encourages language learning...
+We also asked Mr KAUFMANN if "ChatGPT", which creates messages in chat-form, based on topics using AI, encourages language learning...
 
 ### USBONG NOTES
 
