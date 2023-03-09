@@ -1,3 +1,5 @@
+## [語学習得「文法より大事なのは…」20カ国語を操る言語学者の勉強法](https://www.asahi.com/articles/ASR2X454XR2FUHBI01R.html?iref=comtop_7_01); last accessed: 20230309
+
 > 語学習得「文法より大事なのは…」20カ国語を操る言語学者の勉強法
 
 In language learning, "more important than grammar..." Study Method of a Language Learner who wields 20 national languages
