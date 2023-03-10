@@ -53,5 +53,5 @@ SIMULATION GAME development
 
 3) TO CONSUMERS (NORTH AMERICA?)<br/>
 --> where: BATTLE, via FIGHTER instinct (not with noticeable MATH) CAN WIN;<br/>
---> remembers: IGN JAPAN TRIANGLE STRATEGY interview,<br/> 
+--> remembers: [IGN JAPAN TRIANGLE STRATEGY interview](https://www.youtube.com/watch?v=PKuEGupRTAM),<br/> 
 --> where: as recommendation, lessen players' NUMBERS THINKING in GAMEPLAY
