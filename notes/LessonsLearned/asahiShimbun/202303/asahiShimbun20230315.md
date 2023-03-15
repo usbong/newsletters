@@ -1,3 +1,25 @@
+## [大阪で「空飛ぶクルマ」の有人飛行　丸紅が実験　無事着陸「ホッと」](https://www.asahi.com/articles/ASR3G5K4BR3GPLFA001.html?iref=comtop_Tech_science_02); last accessed: 20230315
+
+> 大阪で「空飛ぶクルマ」の有人飛行　丸紅が実験　無事着陸「ホッと」
+
+Sa OSAKA, "Lumilipad na Sasakyan", na may sakay na tao. Sinubukan ng MARUBENI; Walang anumang sakuna sa paglapag "hoo"
+
+> 松岡大将2023年3月14日 17時06分
+
+MATSUOKA, Taisho; 2023-03-14T17:06
+
+> 実験したのは、万博での運航事業者に内定している丸紅。パイロット1人が乗り込み、約8メートルの高さまで浮上した後、10分ほどかけて上下に動いたり水平に旋回したりした。無事に着陸すると、見ていた人たちから拍手が起きた。担当者は「ホッとしている。実装化への第一歩」と話した。
+
+PILOTO, 1 tao; Umakyat ng mga 8 metro ang taas; 10 minuto ring pinakilos paitaas at paibaba, pinaikot pahalang; Nang lumapag nang walang anumang sakuna, nagsipalakpalak ang mga nanonood na tao. Sabi ng Tagapangasiwa: "Hoo! Unang hakbang tungo sa tunay na pagsasakatuparan." 
+
+>　機体は米「リフト・エアクラ…
+
+Ang makina, "LIFT AIRCRAFT" ng Amerika
+
+### Sanggunian
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 ## [画像で質問も、ChatGPT改良版GPT4　「可能性は教育分野」](https://www.asahi.com/articles/ASR3H2TNSR3HUHBI003.html?iref=comtop_7_04); last accessed: 20230315
 
 > 画像で質問も、ChatGPT改良版GPT4　「可能性は教育分野」
