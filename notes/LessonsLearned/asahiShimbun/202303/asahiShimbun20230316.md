@@ -24,8 +24,12 @@ From past financial reports, the "Heaviest Weak Point" was due to economic insta
 
 Investors moved funds from stocks to comparatively low risk BONDS, while profit from AMERICAN MONEY declined. There is a wider amount of DOLLAR sold, and YEN bought, where at a time, 1USD=132YEN, by the first half, spurred by an EXPENSIVE YEN, and CHEAP DOLLAR. Behind this background of quick decline, NEEDS decrease, and the price of crude oil largely dropped. At the U.S. NEW YORK COMMERCIAL EXCHANGE, "U.S. WTI Crude Oil" at a time, became 1 BARREL=70USD, after about 1 year and 3 months.
 
-### USBONG NTOES
+### USBONG NOTES
 
 1) ハンブルク; (HANBURUKU; HANBROOK -> HAMBURG)
 
 2) 筆頭株主; pen head; largest shareholder
+
+### REFERENCE
+
+GOOGLE SEARCH ENGINE; TRANSLATE
