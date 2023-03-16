@@ -36,6 +36,17 @@ In the political world,  the "1 STRONG, MANY WEAK" structure continues, held onl
 
 >　直近の政権交代から10年が経過し、政界では自民党だけが圧倒的な力を持つ「1強多弱」という構図が続く。政治改革で目指した政権交代可能な二大政党制という枠組みは消えつつあり、漂流を続けた。日本政治はどこに向かうのか。与野党議員らの証言を交え、その針路を考える。
 
+2) notes: had previously verified the following, before executing translation of text to English<br/>
+
+ヒロの神's [【新SD戦国伝ー大将軍列伝ー】実況プレイ 開戦！！](https://www.youtube.com/watch?v=iCZMLGkQqR8); last accessed: 20230316
+
+--> adds: observed self to prefer another drawing technique for MECHA/ROBOTS,<br/>
+--> than that used in GUNDAM series, due to: GUNDAM ROBOT FACE?
+
+### REFERENCE
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 
 ## [クレディスイス株20%急落　米銀破綻、欧州にも信用不安広がる](https://www.asahi.com/articles/ASR3H7SYLR3HULFA038.html?iref=comtop_Business_02); last accessed: 20230316
 
