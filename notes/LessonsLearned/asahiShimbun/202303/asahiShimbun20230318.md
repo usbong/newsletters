@@ -1,3 +1,31 @@
+
+## [米司法省とFBI、TikTokを捜査　米記者の情報監視疑惑で](https://www.asahi.com/articles/ASR3L2QMWR3LUHBI00J.html?iref=comtop_Topnews2_01); last accessed: 20230318
+
+### KEYPHRASE
+
+> 米司法省とFBI、TikTokを捜査　米記者の情報監視疑惑で
+
+> サンフランシスコ=五十嵐大介2023年3月18日 8時32分
+
+> 司 (つかさどる)
+
+> 中国の親会社バイトダンスが米メディアの記者を監視していた疑いがある
+
+> 米フォーブス誌は昨年12月、バイトダンスが内部情報をリークした情報源を調べるため、同社の従業員が記者の位置情報を示すIPアドレスなどにアクセスし、監視していたと報じていた。
+
+> ティックトックの周受資・最高経営責任者（CEO）
+
+> 米司法省
+
+> 米連邦捜査局（FBI）
+
+> 動画投稿アプリ「TikTok（ティックトック）」
+
+### REFERENCE
+
+GOOGLE SEARCH ENGINE; TRANSLATE
+
+
 ## [容疑者70人のうち40人は「闇バイト」　60億円詐欺グループ](https://www.asahi.com/articles/ASR3K6DG3R3JUTIL02S.html?iref=comtop_7_05); last accessed: 20230318
 
 > 容疑者70人のうち40人は「闇バイト」　60億円詐欺グループ
