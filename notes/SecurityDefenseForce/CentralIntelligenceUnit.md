@@ -34,7 +34,7 @@ There exists continuous/floating DEBT amount;<br/>
 --> adds: when person to whom has DEBT dies/murdered, DEBT ZERO<br/>
 --> adds: use of "SECRET" UNCLEAR COMMUNICATION (spoken, non-digital),<br/>
 --> unless regarding BORROWING/PAYMENT AMOUNT<br/>
---> where: PAYCHECK may be used to appear to be NOT FRAUD<br/>
+--> where: BANK CHECK may be used to appear to be NOT FRAUD<br/>
 <br/>
 <br/>
 TO-DO: -update: this
