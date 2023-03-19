@@ -15,6 +15,17 @@ QUICK MONEY
 
 NOISE POLLUTION with PHYSICAL HARM via wireless broadcasting technology<br/>
 
+#### EXAMPLE:
+
+Motherboard without RAM Cards;<br/>
+SOUND Recording using Android device (SAMSUNG CORE2 DUOS);<br/>
+<br/>
+observed: add "HALLO!" to cause beeping sound to be noticeably recorded;<br/>
+<br/>
+http://store.usbong.ph/server/audio/viewAudioSDF.php<br/>
+<br/>
+notes: DATETIME STAMP
+
 ### SOURCE of MONEY
 
 1) BORROWS MONEY preferrably without digital footprint,<br/>
