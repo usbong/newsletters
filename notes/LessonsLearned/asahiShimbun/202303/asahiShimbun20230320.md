@@ -12,7 +12,7 @@ LONDON; WAKE, Shin'ya; 2023-03-20T05:57
 
 >　スイスの金融最大手UBSは19日、2位のクレディ・スイス・グループを30億スイスフラン（約4270億円）で買収することで合意したと発表した。米シリコンバレーバンク（SVB）などの破綻（はたん）に端を発する金融への不審は、スイスの世界的銀行2行の統合に発展した。
 
-UBS, the SWISS FINANCIAL GIANT, on the 19th, announced its agreement to buy #2, the CREDIT SUISSE GROUP, for 3 Billion SWISS FRANCS (about 42.7 Billion YEN; 21.35 Billion PHP). The financial misjudgement that resulted to the collapsed of the American Silicon Valley Bank (SVB) caused the merging of the two (2) world banks from Switzerland.
+UBS, the SWISS FINANCIAL GIANT, on the 19th, announced its agreement to buy #2, the CREDIT SUISSE GROUP, for 3 Billion SWISS FRANCS (about 427 Billion YEN; 213.5 Billion PHP). The financial misjudgement that resulted to the collapsed of the American Silicon Valley Bank (SVB) caused the merging of the two (2) world banks from Switzerland.
 
 > UBSはクレディの投資銀行部門を縮小し、富裕層の資産運用部門を主に生かす方針。
 
