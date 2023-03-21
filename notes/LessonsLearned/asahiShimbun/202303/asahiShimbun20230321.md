@@ -19,3 +19,7 @@ American IT GIANT, AMAZON lays-off more people, climbing to nearly 30K people by
 
 1) notes: news article TITLE insufficient; shall need to read the text; adds: fee payment exists to read remaining parts for faster clarification; <br/>
 --> otherwise, shall need to re-verify via another news web service
+
+### REFERENCE
+
+GOOGLE SEARCH ENGINE; TRANSLATE
