@@ -1,5 +1,40 @@
 ## NOTES
 
+## https://partner.microsoft.com/en-us/dashboard/account/v3/enrollment/introduction/partnership; last accessed: 20230321; from 20230320
+
+> How would you like to partner with Microsoft?
+
+> (Select one or more)
+
+
+> Partner to find the solutions and resources you need to grow your business, and demonstrate your proven expertise in competencies and specialized areas of business. (Microsoft Cloud Partner Program)
+
+--> [O]
+
+> Build commercial software, applications, and add-ins that run on Microsoft products. (Independent Software Vendor, ISV)
+
+--> [O]
+
+> Deliver value added, outsourced IT services. (Managed Services Provider, MSP)
+
+--> [O]
+
+> Resell or distribute Microsoft products, or enable a partner channel. (Reseller or Distributor)
+
+--> [O]
+
+> Integrate solutions, create custom solutions, or consult on Microsoft products. (Systems Integrator, SI or Consultant)
+
+--> [O]
+
+> Manufacture devices, parts and equipment. (Original Equipment Manufacturer, OEM)
+
+--> [ ]
+
+> Develop consumer applications like Xbox Games and Windows Apps. (Consumer Developer)
+
+--> [O]
+
 ## https://privacy.microsoft.com/en-us/privacystatement; last accessed: 20230320
 
 > Please note that, as defined under certain U.S. state data privacy laws, “sharing” also relates to providing personal data to third parties for personalized advertising purposes. Please see the U.S. State Data Privacy section below and our U.S. State Data Privacy Laws Notice for more information.
