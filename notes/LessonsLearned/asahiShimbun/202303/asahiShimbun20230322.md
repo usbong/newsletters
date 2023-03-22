@@ -16,7 +16,7 @@ Why has Mr OE become someone who expresses essays that are difficult to solve?
 
 >　「特に僕が30代くらいのと…
 
-In particular, when I was in my 30's...
+"In particular, when I was in my 30's..."
 
 > このインタビューから半年後、大江さんから記者に手紙が届きました。そこに書かれていた「不安」の意味を、記者は読み違えていました。そして最後の講演で、大江さんが語ったこととはーー。
 
