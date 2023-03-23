@@ -8,7 +8,7 @@ A Letter from Mr OE, Kenzaburo; A mistake on my reading; The HOPE that he spoke 
 asahiShimbun20230321.md
 > なぜ大江さんは難解な文章で表現するようになったのか
 
-Why has Mr OE become someone who expresses essays that are difficult to solve?
+Why has Mr OE become someone who expresses himself in essays that are difficult to solve?
 
 >　「いまだったらこの文章を書かないだろうというのは『さかさまに立つ「雨の木」』です。文章が非常に複雑でね、こんなものに付き合っていられるか、という読者がいるんだろうと思ったのが、『雨の木』の連作です」
 
@@ -20,7 +20,7 @@ Why has Mr OE become someone who expresses essays that are difficult to solve?
 
 > このインタビューから半年後、大江さんから記者に手紙が届きました。そこに書かれていた「不安」の意味を、記者は読み違えていました。そして最後の講演で、大江さんが語ったこととはーー。
 
-Half a year after this interview, Mr OE sent a letter to the Reporter. Written there was the significance of "WORRY", which the Report misread. And then, at Mr OE's last lecture, what he spoke of was...
+Half a year after this interview, Mr OE sent a letter to the Reporter. Written there was the significance of "WORRY", which the Reporter misread. And then, at Mr OE's last lecture, what he spoke of was...
 
 ### USBONG NOTES
 
