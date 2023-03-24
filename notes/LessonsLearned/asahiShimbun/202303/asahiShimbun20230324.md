@@ -24,7 +24,7 @@ To obtain the national certification for medical doctors, in general a 6th year 
 
 > 持ち帰った問題全400問の文章と答えの選択肢を、手入力でチャットGPTの記入欄に入力。
 
-All the 400 exam questions and their choices as answers are entered into ChatGPT's input column.
+All the 400 exam questions and their choices of the answers are entered into ChatGPT's input column.
 
 ### REFERENCE
 
