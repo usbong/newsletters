@@ -10,6 +10,12 @@ TAKENOUCHI, Takahiro; 2023-03-24T09:00
 
 ### KEYPHRASE
 
+> 正答率55%と合格基準には届かなかったが、自身が解いた成績を上回った。
+
+> 医師を志す医学部4年生
+
+While 55% CORRECT, and NOT yet a PASS, the score surpassed that of a 4th Year Medical School Student aspiring to be a Medical Doctor.
+
 > 「将来、AIに気軽に聞けるようになるかも知れない。医学の勉強方法も変わる」
 
 "In the future, we may perhaps be able to simply ask our questions to the AI. And the study methods used in Medical Education shall also change."
