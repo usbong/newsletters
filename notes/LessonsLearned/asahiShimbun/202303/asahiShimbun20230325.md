@@ -48,11 +48,11 @@ According to the national clinical tests at the ward, 120 females at 18～45 yea
 --> remembers: addition of (non-angry) tone for specialized medical words
 
 3) remembers: television show where female medical doctor asked<br/> 
---> if reading JACK BLACK MANGA comic book;<br/>
---> adds: JACK BLACK requests noticeable MONEY to execute<br/> 
+--> if reading BLACK JACK MANGA comic book;<br/>
+--> adds: BLACK JACK requests noticeable MONEY to execute<br/> 
 --> an effective SURGICAL OPERATION, albeit NOT LICENSED;<br/>
 --> where: rich, yet ill client exlaims that's foolish! (requested MONEY excessive; not due to SURGICAL OPERATION without LICENSE dangerous; LIVE; SURVIVE) <br/>
---> notes: JACK BLACK is assisted via words, et cetera by the "GHOST" of a Medical Doctor;<br/>
+--> notes: BLACK JACK is assisted via words, et cetera by the "GHOST" of a Medical Doctor;<br/>
 --> observed: wireless broadcasting technique by LIAR group causes this "GHOST";
 
 
