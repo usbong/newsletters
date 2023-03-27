@@ -53,7 +53,8 @@ use of HOKKIEN (Chinese words) to cause "MYSTERY" and "belonging",<br/>
 1) can: identify members via NOT sharing SIGNIFICANCE of HOKKIEN words, know-how, et cetera
 
 2) LIAR GROUP,<br/>
---> whose: members's own ACTIONS <br/>
+--> whose: members' own ACTIONS <br/>
 --> classified to be regularly IN-NEED of QUICK MONEY<br/>
 --> notes: relationships between members LONG due to family members<br/>
---> OR, quick as with foreign nationals via noticeable large MONEY (millions of PHP; "bi kim") paid;
+--> OR, quick as with foreign nationals<br/>
+--> via noticeable large MONEY (millions of PHP; 美金 ("bi kim")) paid;
