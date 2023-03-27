@@ -4,7 +4,7 @@
 
 Applied Skills Training criticized as "Human Trafficking", the CHANGE in the Bad Habits of the SEWING Business in GIFU
 
-岡田玄2023年3月27日 9時00分
+> 岡田玄2023年3月27日 9時00分
 
 OKADA, Gen; 2023-03-27T09:00
 
