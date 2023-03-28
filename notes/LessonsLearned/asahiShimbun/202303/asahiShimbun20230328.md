@@ -17,11 +17,11 @@ The Physics and Chemistry Research Facility has successfully completed the natio
 > 量子は、日常の直感と異なる不思議な性質をもっています。観測するまでは全く異なる複数の状態の重ね合わせが可能とか、二つの量子がどんなに離れていても状態を測定すると瞬時に相関が現れるなどです。
 
 
-The Quantum (Quantity Unit) has a mysterious nature that is different from everyday intuition. Until measured, it is possible for several completely different states to pile up, such as no matter how far two quantums are, when their state is measured, their correlation instantly appears. 
+The Quantum (Quantity Unit) has a mysterious nature that is different from everyday intuition. Until measured, it is possible for several completely different states to pile up, such as, for example, no matter how far two quantums are, when their state is measured, their correlation instantly appears. 
 
 >　量子コンピューターとは、原子や電子といった「量子」と呼ばれるミクロなものの物理法則を使ったまったく新しい計算機です。
 
-The Quantum Computer, is a completely new calculating machine that uses the PHYSICS RULES of MICRO OBJECTS, called the "QUANTUM" (atom and electron).
+The Quantum Computer is a completely new calculating machine that uses the PHYSICS RULES of MICRO OBJECTS, called the "QUANTUM" (atom and electron).
 
 > 蒸気機関やトランジスタの発明以上の「社会変革」
 
