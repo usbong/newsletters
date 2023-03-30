@@ -118,6 +118,41 @@
 
 >（取材・文　ライター/馬波レイ）
 
+### RELATED NEWS
+
+> 『斑鳩 IKARUGA』数量限定パッケージ版が6月29日に再販決定。3Dメタルモデル"IKARUGA"、特製化粧箱など豪華特典が付属
+
+> 2023.03.26 17:00
+
+
+>　2020年に発売された数量限定パッケージ版が復活。ゲーム本編を収録したディスクに加え、全20ページの説明書／解説書、3Dメタルモデルの"IKARUGA"、特製ステッカー、特製化粧箱“銀鶏”が付属。新たに再販される限定パッケージ版は、新規アートパッケージになるという。
+
+> 数量限定のパッケージ版
+
+#### 概要
+
+>    タイトル： 斑鳩 IKARUGA
+
+>    ジャンル： シューティングゲーム
+
+>    機種： Nintendo Switch(TM)／PlayStation(R) 4
+
+>    プレイ人数： 1～2名
+
+>    販売形式： パッケージ版
+
+>    販売： Pikii
+
+>    再販日： 2023年6月29日(木)
+
+>    価格： 5,980円(税込)
+
+### USBONG NOTE
+
+1) learned: of IKARUGA from co-worker (also from same primary and high school);<br/>
+--> adds: also played ping-pong, Magic The Gathering
+
+
 ### REFERENCE
 
 GOOGLE SEARCH ENGINE; TRANSLATE
