@@ -1,3 +1,30 @@
+## [肉の価値どう決める？　「つながり」選んだ京都の焼き肉店3代目](https://www.asahi.com/articles/ASR3X4F4MR3MPTFC001.html?iref=comtop_Life_04); last accessed: 20230331
+
+> 肉の価値どう決める？　「つながり」選んだ京都の焼き肉店3代目
+
+> 有料記事ＫＡＮＳＡＩ
+
+> 編集委員・長沢美津子2023年3月29日 8時00分
+
+### KEYPHRASE
+
+> 店で扱う肉の生産者には、それぞれのポリシーがある。たとえば硬い肉のかむほど感じるうまみは、よく歩いて草を食べて育つからで、牛の存在が山の荒廃を防いでいるとしたら……。
+
+### USBONG NOTES
+
+1) España
+
+2) notes: noticeable count of news article @ASAHI SHIMBUN (DIGITAL), 2023-03-31;<br/>
+--> 情報、インシデントレポート<br/>
+--> アクション？<br/>
+--> DQ, OPEN WORLD? in REAL WORLD?<br/>
+--> ドラクエって現実に似たような世界<br/>
+--> cartoon character<br/>
+--> remembers: FB/META via "cartoon character (avatar)"<br/>
+--> observed: however, 嘘 part noticeably > 真, without GUIDE?<br/>
+--> where: GUIDE -> ACTION, SOLUTION to PROBLEM
+
+
 ## [エン転職に不正アクセス、25万人超の履歴書漏えいの可能性](https://www.asahi.com/articles/ASR3003N3R3ZULFA02X.html?iref=comtop_Tech_science_02); last accessed: 20230331
 
 > エン転職に不正アクセス、25万人超の履歴書漏えいの可能性
