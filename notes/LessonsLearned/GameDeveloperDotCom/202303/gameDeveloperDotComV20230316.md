@@ -13,6 +13,10 @@
 
 > Matthias Linda's seven year quest to make retro JRPG Chained Echoes
 
+マティアス・リンダの七年旅、「チェインド エコーズ」と呼ばれているレトロJRPGを作るために　
+
 > How the solo developer made the JRPG of his dreams.
+
+いかにして一人開発者で、自分の夢であるJRPGを作ったか
 
 TO-DO: -update: this
