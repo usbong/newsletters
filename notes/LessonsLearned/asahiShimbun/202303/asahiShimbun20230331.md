@@ -23,7 +23,7 @@ Regarding the possibility of the "Call Back Function", the aforementioned bureau
 ### USBONG NOTE
 
 1) JWONGGG; chatGPT; Taiwan; Street Fighter; auto-translate Japanese to English text;<br/>
---> adds: by human, yet VALUE via notes, shortened summary;<br/>
+--> adds: yet by human, VALUE via notes, shortened summary;<br/>
 --> <b>example:</b> "ROAMING", Policy for Emergency Cases (Police, Ambulance), Even without yet "Call Back Function"; General Conversation Call Back Function OK by Year 2025; "ROAMING" use of another telco's line;<br/>
 --> remembers: Mr GATES, Bill; TIME; speed-up; lessons-learned; notes; VALUE; efficiency 
 
