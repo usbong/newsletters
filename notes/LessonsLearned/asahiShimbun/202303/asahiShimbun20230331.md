@@ -10,6 +10,8 @@
 
 > 店で扱う肉の生産者には、それぞれのポリシーがある。たとえば硬い肉のかむほど感じるうまみは、よく歩いて草を食べて育つからで、牛の存在が山の荒廃を防いでいるとしたら……。
 
+May mga POLISIYA ang taga-gawa ng mga karne sa tindahan. Halimbawa, mararamdaman ang lasa ng pagnguya ng matigas na karne, kapag lumaki ang bakang madalas na naglalakad, at kumakain ng damo; Upang mapigilan naman ang mga baka sa pagwasak sa bundok...
+
 ### USBONG NOTES
 
 1) España
