@@ -15,7 +15,7 @@
 
 > Shattered to hear that game designer, programmer and writer Mike Berlyn has passed away. Suspended, Cutthroats, Infidel (Infocom) as well as games like Bubsy, and Busy 3D. Oo-topos, Tass Times in Tonetown, and many more games. RIP.
 
-## https://www.gamedeveloper.com/pc/playing-catch-up-i-bubsy-i-s-michael-berlyn; last accessed: 20230331
+### https://www.gamedeveloper.com/pc/playing-catch-up-i-bubsy-i-s-michael-berlyn; last accessed: 20230331
 
 > Infocom pioneer and Bubsy the Bobcat designer Michael Berlyn. 
 
