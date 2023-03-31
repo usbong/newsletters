@@ -10,7 +10,7 @@ SUZUKI, Yasuro; 2023-03-30T20:30
 
 >　総務省は30日、大規模な通信障害が起きた場合でも、少なくとも110番や119番などの緊急通報はできるようにする方針を示した。障害時に利用者が他社の回線に乗り入れる「ローミング」について、警察や消防などからかけ直しをするための「呼び返し機能」がない方式も認める。
 
-The Bureau of Internal Affairs expressed on the 30th the policy that includes even those cases where a large-scale communication debilitating error has occurred, so that at the least #110 (POLICE), #119 (AMBULA29NCE), and so on can be contacted during emergencies. The Bureau also acknowledged that during times of emergency, there is yet no formal "Call Back functionality", so that the Police and the Fire Units can return calls of "ROAMING" users who use another teleco's line.
+The Bureau of Internal Affairs expressed on the 30th the policy that includes even those cases where a large-scale communication debilitating error has occurred, so that at the least #110 (POLICE), #119 (AMBULANCE), and so on can be contacted during emergencies. The Bureau also acknowledged that during times of emergency, there is yet no formal "Call Back functionality", so that the Police and the Fire Units can return calls of "ROAMING" users who use another teleco's line.
 
 >　同日の有識者会議「非常時における事業者間ローミング等に関する検討会」で案を示した。「呼び返し機能」は法令で備えることが定められている。しかし、昨夏にKDDIが起こした通信障害では、通信網の中枢部分で不具合が生じ、緊急通報がつながりにくくなり混乱が広がった。この反省から同省は、「呼び返し機能」が実現できない場合でも、緊急通報に限ってローミングを導入する方針を決めた。
 
@@ -24,7 +24,7 @@ Regarding the possibility of the "Call Back Function", the aforementioned bureau
 
 1) JWONGGG; chatGPT; Taiwan; Street Fighter; auto-translate Japanese to English text;<br/>
 --> adds: by human, yet VALUE via notes, shortened summary;<br/>
---> example: "ROAMING", Policy for Emergency Cases (Police, Ambulance), Even without yet "Call Back Function"; General Conversation Call Back Function OK by Year 2025; "ROAMING" use of another telco's line;<br/>
+--> <b>example:</b> "ROAMING", Policy for Emergency Cases (Police, Ambulance), Even without yet "Call Back Function"; General Conversation Call Back Function OK by Year 2025; "ROAMING" use of another telco's line;<br/>
 --> remembers: Mr GATES, Bill; TIME; speed-up; lessons-learned; notes; VALUE; efficiency 
 
 ### REFERENCE
