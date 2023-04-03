@@ -32,9 +32,15 @@
 
 > Micro level marketing
 
+マイクロレベル　マーケティング
+
 > checklist when preparing communications
 
+コミュニケーションを用意する時のチェックリスト
+
 > Rule 1: Get to the point quick and show what you have immediately. Even taking a few extra seconds to float developer and publisher logos at the beginning of your game trailer can derail the audience's interest. This is important even on the store page. Put the most relevant details out front and center. 
+
+ルール＃１：なにを伝えたいかという点をすぐに見せること。開発者やパブリッシャーのロゴを見せるために、ゲームトレイラー動画で、何秒か少しくらいでもかけると、視聴者からの注目が去って離れていく可能性ある。これは、ストアページに関しても大事である。従って、もっとも関係ある詳細を最初ページの真ん中のところに置いておくこと。
 
 > Rule 2: Make things work for newcomers. Don't assume that everyone viewing your trailer has seen the ones you've previously released, or even know what your game is. Add more framing and context as needed. You lose people immediately if they don’t feel included. 
 
