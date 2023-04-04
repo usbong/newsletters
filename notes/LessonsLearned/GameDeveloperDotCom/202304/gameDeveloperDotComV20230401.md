@@ -44,6 +44,8 @@
 
 > Rule 2: Make things work for newcomers. Don't assume that everyone viewing your trailer has seen the ones you've previously released, or even know what your game is. Add more framing and context as needed. You lose people immediately if they don’t feel included. 
 
+ルール＃２：　動画を新しい視聴者に向くようにすること。今まで公開してきたトレイラー動画を、世間がすでに見られていたり、作成したゲームのこともよく知られていると前提することないように。背景やコンテクストを、適当に入れておくこと。視聴者が、含まれていない感じをすると、失くしてしまう結果である。
+
 > Rule 3: Think of the environment. Who is going to watch this and how? Be succinct and highly visual but also take into consideration conventions (for example, TikTok users view videos in portrait, not landscape). Make sure it reads nice visually. Also, know your platform and its strengths. For example, TikTok users will consume videos with audio, so use that to your advantage. 
 
 > Rule 4: Basic sales pipeline. Know your next step. Your audience should know how and where to take the next step in keeping track of that game, even if that's just a link to the Steam page. But also, try to avoid calls-to-action, which are seen as cringe. 
