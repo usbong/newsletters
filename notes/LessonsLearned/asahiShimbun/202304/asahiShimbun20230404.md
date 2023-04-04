@@ -51,7 +51,7 @@ There was a mark on the spot where the mother was punched.
 
 >　子どもは中学生。ご飯を食べるときも、トイレに行くときも、お風呂に入るときも、スマートフォンを手放せない。
 
-The child was a Middle School student. Even when eating, going to the toilet, and taking a bath, the child does not let go of the smartphone.
+The child, a Middle School student. Even when eating, going to the toilet, and taking a bath, the child does not let go of the smartphone.
 
 >　スマホを手に、ゲームを延々と続ける。
 
