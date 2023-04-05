@@ -44,7 +44,7 @@ Dependency on Gaming is said to be even deeper, tied to the use of smartphones r
 
 >　親が子どものネットやゲームの使用に不安を感じたら、子どもと相談した上で、使用時のルールを決めることを推奨している。その上で、「まずは代わりの楽しいことを見つけられるよう、一緒に考えてほしい」。
 
-If the parent feels worry over their child's use of the Internet, games, and so on, it is recommended to converse with the child to decide on the rules of usage. In addition, it is first vital that the child understands the value of "thinking together to find another enjoyable thing that can be a substitute."
+If the parent feels worried over their child's use of the Internet, games, and so on, it is recommended to converse with the child to decide on the rules of usage. In addition, it is first vital that the child understands the value of "thinking together to find another enjoyable thing that can be a substitute."
 
 >　依存症は現実の生活が満たされていないことが原因であることが多い。家庭での子への干渉が強すぎる、親の関心がない、友だちとうまくいかない、成績が伸びない――などだ。
 
