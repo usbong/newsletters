@@ -10,7 +10,7 @@ EDOGAWA, Natsuki; 20230-04-04T15:30
 
 >　依存症という心の病気は、本人が行動をコントロールできない状態だとされる。「最初はただ『好き』だから使っていたのが、快感刺激が繰り返されることによって脳の報酬回路が変化し、使用がコントロールできなくなります」と曽良教授。
 
-Dependency is an illness of the mind, such that the person himself has fallen to a state where he cannot anymore control his own actions. "At first it was only because 'I like it' that th person used them, but with repeated, quick stimulations, the brain's reward circuitry is changed, such that the person cannot anymore control their use," says Prof. Sora.
+Dependency is an illness of the mind, such that the person himself has fallen to a state where he cannot anymore control his own actions. "At first it was only because 'I like it' that the person used them, but with repeated, quick stimulations, the brain's reward circuitry is changed, such that the person cannot anymore control their use," says Prof. Sora.
 
 > 世界保健機関（WHO）は19年、ゲームのやり過ぎで日常生活に支障をきたす状態を「ゲーム障害」として、疾患に位置づけた。
 
