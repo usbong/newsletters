@@ -22,15 +22,15 @@ There are three (3) standards used for its identification.
 
 >　①ゲームをする時間や頻度などを自分で制御できない
 
-The person, himself, cannot control the time, and frequency, among others of playing games.
+1) The person, himself, cannot control the time, and frequency, among others of playing games.
 
 >　②日常の関心事や日々の活動よりゲームを優先
 
-The person gives gaming a higher priority over ordinary and everyday activities.
+2) The person gives gaming a higher priority over ordinary and everyday activities.
 
 >　③社会生活に支障をきたしてもゲームを続ける
 
-Gaming is continued even if the person's life has already been delayed in relation to society.
+3) Gaming is continued even if the person's life has already been delayed in relation to society.
 
 >　こうした状態が12カ月続くと、ゲーム障害と診断するとした。
 
