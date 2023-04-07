@@ -1,4 +1,4 @@
-[（社説）外国軍への支援　対立の助長を懸念する](https://www.asahi.com/articles/DA3S15604054.html?iref=comtop_Opinion_03); last accessed: 20230407
+## [（社説）外国軍への支援　対立の助長を懸念する](https://www.asahi.com/articles/DA3S15604054.html?iref=comtop_Opinion_03); last accessed: 20230407
 
 >（社説）外国軍への支援　対立の助長を懸念する
 
