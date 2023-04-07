@@ -48,6 +48,8 @@
 
 > Rule 3: Think of the environment. Who is going to watch this and how? Be succinct and highly visual but also take into consideration conventions (for example, TikTok users view videos in portrait, not landscape). Make sure it reads nice visually. Also, know your platform and its strengths. For example, TikTok users will consume videos with audio, so use that to your advantage. 
 
+ルール＃３：対象者の背景を考えること。誰がこれを見るか、そして如何に見るか。なるべく明らかで、ビージュアル（画像）も多く入れること。だが、プラットフォームのほうも検討すべき。例えば、TikTokの利用者は横表でなく縦表で見るものなど。また、字が読みやすくすること。従って、対象となるプラットフォーム及び長所を知ること。TikTokの利用者は音ありの動画を消費するもので、そう言った点をうまく利用しなければと。
+
 > Rule 4: Basic sales pipeline. Know your next step. Your audience should know how and where to take the next step in keeping track of that game, even if that's just a link to the Steam page. But also, try to avoid calls-to-action, which are seen as cringe. 
 
 > Macro level marketing
