@@ -26,7 +26,7 @@ Tiyak na hindi sandatang may kakayanang pumatay at manakit ang mga inihahandog n
 
 > 政府はインド太平洋地域の平和と安定を確保するには、日本自身の抜本的な防衛力強化だけでは足りず、「同志国」の抑止力を高めることが不可欠だと説明する。急速な軍拡や強引な海洋進出を続ける中国が念頭にあることは間違いない。
 
-Sa pagpapanatili ng kapayapaan at katatagan sa bahagi ng PASIPKO sa INDIA, hindi sapat na palakasin lamang ng bansang Hapon ang kaniyang kakayanan sa pagsangga (depensa). Ipinaliwanag din ng pamahalaan na maaaring kulang ang pagpapalakas ng pangangasiwa sa “Mga Bansang Magkakatulad ng Hangad”. Tiyak ding nasa isipan ang pagtuloy ng TSINA sa mabilis na paglawak ng kanilang militar at pagpapalakas ng kanilang malakas na hatak sa karagatan. 
+Sa pagpapanatili ng kapayapaan at katatagan sa bahagi ng PASIPIKO sa INDIA, hindi sapat na palakasin lamang ng bansang Hapon ang kaniyang kakayanan sa pagsangga (depensa). Ipinaliwanag din ng pamahalaan na maaaring kulang ang pagpapalakas ng pangangasiwa sa “Mga Bansang Magkakatulad ng Hangad”. Tiyak ding nasa isipan ang pagtuloy ng TSINA sa mabilis na paglawak ng kanilang militar at pagpapalakas ng kanilang malakas na hatak sa karagatan. 
 
 > 政府が「同志国」と認める途上国の軍に対し、資機材の提供やインフラ整備などを無償で行う新たな制度を創設した。戦後、非軍事的支援を続けてきた日本にとって、見過ごせない大きな転換である。中国との緊張を高めないか。国際紛争を助長することにならないか。強い懸念がぬぐえない。
 
