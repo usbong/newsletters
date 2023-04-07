@@ -27,7 +27,7 @@ From atop the vehicle, the “DJ Police” guides passing people as part of secu
 
 >　梨泰院の事故をめぐっては、安全対策や通報への対応が不十分だったなどとして、業務上過失致死傷などの容疑で現地の警察署長ら6人が逮捕、17人が書類送検されている。（ソウル=太田成美）
 
-Due to the ITEOWON incident, where the Security Policies, Response Communication Systems at the time were insufficient, the Police has arrested 6 people present at the site for suspicion of reckless imprudence resulting to homicide and physical injuries, among others. The documents of 17 people were also investigated. (SEOUL; OHTA, Narumi ) 
+Due to the ITEOWON incident, where the Security Policies, Response Communication Systems at the time were insufficient, the Police has arrested 6 people present at the site for suspicion of reckless imprudence resulting to homicide and physical injuries, among others. The documents of 17 people were also investigated. （SEOUL; OHTA, Narumi) 
 
 ### USBONG NOTE
 
