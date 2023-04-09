@@ -52,6 +52,8 @@
 
 > Rule 4: Basic sales pipeline. Know your next step. Your audience should know how and where to take the next step in keeping track of that game, even if that's just a link to the Steam page. But also, try to avoid calls-to-action, which are seen as cringe. 
 
+ルール＃４：基本セールスパイプライン。次の段階を知ること。ストリームページへのリンクだけだとしても、視聴者が、ゲームに関する新情報を得る為に、いかにそれを取れば良いか分からないと進めないので、注意。というけれど、できるだけ、命令の感じになってしまわないように。
+
 > Macro level marketing
 
 > Just show your game. Never take it for granted that people know about your game at all. Introduce your game as many times as you need to, even when it feels repetitive. Even
