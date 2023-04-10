@@ -32,7 +32,7 @@
 
 > Micro level marketing
 
-マイクロレベル　マーケティング
+マイクロレベル マーケティング
 
 > checklist when preparing communications
 
@@ -56,11 +56,20 @@
 
 > Macro level marketing
 
+マクロレベル マーケティング
+
 > Just show your game. Never take it for granted that people know about your game at all. Introduce your game as many times as you need to, even when it feels repetitive. Even
+
+ゲームを見せるだけだ。世間から既に知られていることを前提しちゃダメ。つまらない感じをする時においても、何回もゲームを紹介してあげること。
 
 > even at an event like the Game Developer Conference, do not have guaranteed brand visibility,
 
-> Metrics might give you the impression that, for example, "everyone" has seen your popular Reddit post or viral TikTok. But maybe someone in your potential audience simply wasn't on that platform that week, or was on honeymoon. Those gaps need to be filled. 
+ゲームデベロッパーカンファレンス（GDC）みたいなイベントだとしても、ブランドの注目をくれる確実はない。
+
+> Metrics might give you the impression that, for example, "everyone" has seen your popular Reddit post or viral TikTok. But maybe someone in your potential audience simply wasn't on that platform that week, or was on honeymoon. Those gaps need to be filled.
+
+測定標準を使うと、「みんな」があなたの人気Reddit投稿、あるいは非常に普及されたTikTokを見れたという印象をくれるが、対象する視聴者は、丁度その週間に用事で、例えば新婚旅行のため、見られなかった可能性もある。従って、そう言った隙間を埋めなければならない。
+
 
 > Bonus: know your money shot. "Knowing what is the one shot that is really really good for your game can lead to change your campaign." Purposefully put it in everything, like your store page or launch email, and especially use it on TikTok. TikTok can act almost as a beta test to figure out the most appealing visual aspects of your game. 
 
