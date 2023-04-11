@@ -60,7 +60,7 @@
 
 > Just show your game. Never take it for granted that people know about your game at all. Introduce your game as many times as you need to, even when it feels repetitive. Even
 
-ゲームを見せるだけだ。世間から既に知られていることを前提しちゃダメ。つまらない感じをする時においても、何回もゲームを紹介してあげること。
+ゲームを見せるだけだ。世間から既に知られていることを前提にしちゃダメ。つまらない感じをする時においても、何回もゲームを紹介してあげること。
 
 > even at an event like the Game Developer Conference, do not have guaranteed brand visibility,
 
@@ -72,6 +72,8 @@
 
 
 > Bonus: know your money shot. "Knowing what is the one shot that is really really good for your game can lead to change your campaign." Purposefully put it in everything, like your store page or launch email, and especially use it on TikTok. TikTok can act almost as a beta test to figure out the most appealing visual aspects of your game. 
+
+ボーナス：特徴を知ること。「自分のゲームの最も特徴なところを知れば、方向転換へ導くことができる。」ストアページや初電子メール、特にTikTokに、意図的に全てを入れること。TikTokを上手く使えば、まるでβテストのように、ゲームの最も引っ張れる魅力さが分かるようになる。
 
 > "Make sure you keep repeating what your game is. Recycle trailers, change them a little bit, put them out again, try different platform. 
 
