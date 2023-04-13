@@ -75,9 +75,13 @@
 
 ボーナス：特徴を知ること。「自分のゲームの最も特徴なところを知れば、方向転換へ導くことができる。」ストアページや初電子メール、特にTikTokに、意図的に全てを入れること。TikTokを上手く使えば、まるでβテストのように、ゲームの最も引っ張れる魅力さが分かるようになる。
 
-> "Make sure you keep repeating what your game is. Recycle trailers, change them a little bit, put them out again, try different platform. 
+> "Make sure you keep repeating what your game is. Recycle trailers, change them a little bit, put them out again, try different platform.
+
+何度もゲームのことを話すこと。トレイラー動画を再利用し、少し編集してから、別のプラットフォームに、また投稿すること。
 
 > We also had examples where people launched the game on Xbox and Switch, and then they go to PlayStation and all their marketing just talks about the new features of the PlayStation version. But that doesn't make sense, because the PlayStation people have never ever seen your game. For them, it's a completely new game. So you've got to treat it like that. Again, just explain them what the game is."
+
+XBOXとSWITCH市場へゲームを発行させた人の例もあるけれど、プレイステーション版へ行くと、マーケティングでは、新しく入れたものばっかり話していた。だが、そんな行動は、不道理だ。プレイステーションの人々が、あなたのゲームを見たことはないわけだ。その市場にとって、まったく新しいゲームなんだから。従って、そんなふうに扱わなければならない。要するに、ゲームのことを解説するだけだ。
 
 ##-- 
 
