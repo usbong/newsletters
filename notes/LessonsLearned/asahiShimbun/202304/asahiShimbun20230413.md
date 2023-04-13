@@ -30,7 +30,7 @@ https://www.google.com/search?channel=fs&client=ubuntu&q=glaze+chicago+universit
 
 >　「グレーズは、人間の目でものを見る場合と、AIが機械学習で画像を認識するときの『差』を利用しています。人間は紫外線が見えないし、超音波も聞こえませんが、犬は聞こえるのと似たような違いです。この違いはAIモデルに対する攻撃にも使われてきたため、私はこの『差』を埋める研究をしてきましたが、根本的な違いは埋めることができません。グレーズはこの違いを使っています。
 
-With "GLAZE", AI uses the "GAP" between what humans see and the image that the machine-learning tool recognizes. Human cannot see ULTRA-VIOLET RAYS, and cannot hear ULTRASOUND, but dogs can hear the difference of something similar. Because this difference is used with MODELING in AI, I have done research work that fills-in this "GAP", albeit the basic difference cannot be filled. GLAZE makes use of this difference. 
+With "GLAZE", AI (Artificial Intelligence) uses the "GAP" between what humans see and the image that the machine-learning tool recognizes. Humans cannot see ULTRA-VIOLET RAYS, and cannot hear ULTRASOUND, but dogs can hear the difference of something similar. Because this difference is used with MODELING in AI, I have done research work that fills-in this "GAP", albeit the basic difference cannot be filled. GLAZE makes use of this difference. 
 
 >　グレーズのソフトを使って画像をアップロードすると、データに修正を施します。修正された画像は肉眼ではほとんど違いがわかりませんが、AIはまったく違う画像として認識するのです。たとえば、白黒のポートレート写真を加工すると、人間にはほとんど違いがわからないものの、AIにはゴッホの油絵のような抽象画として認識されます。生成AIに『カーラの画風に似た絵をつくって』と指示しても、カーラの画風とまったく違う画像がつくられる。アーティストが自分の作品が生成AIの訓練に使われることを気にせず、ネット上で公開することができます」
 
