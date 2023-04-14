@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230310; from 20230309
+  @date updated: 20230414; from 20230310
   @website address: http://www.usbong.ph
   
   Input:
@@ -429,11 +429,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
-<!-- //edited by Mike, 20220831; from 20220325
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
--->
 
+<!-- //edited by Mike, 20220831; from 20220325
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
 
   </head>
 	  <script>
@@ -444,7 +444,6 @@
 	date_default_timezone_set('Asia/Hong_Kong');
 	
 	//edited by Mike, 20200726
-	//$dateToday = (new DateTime())->format('Y-m-d');
 	$dateToday = Date('Y-m-d');
 
 	// connect to the database
@@ -456,10 +455,7 @@
 	//edited: 20171021T0640	
 		
 	//echo $_SERVER['DOCUMENT_ROOT']; //example output: C:/xampp/htdocs
-/*	//removed by Mike, 20210831
-	include($_SERVER['DOCUMENT_ROOT'].'/usbong_newsletters/server/usbong-kms-connect.php');
-	$mysqli->set_charset("utf8");
-*/
+
 
 	//TO-DO: -update: this
 
@@ -549,7 +545,28 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 --> where: <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a> file can also be opened using <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en/microsoft-365/excel">MS EXCEL</a>
 
 
-<h5><b>Example <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> COMMAND:</b></h5>
+<h5><b>Example <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> COMMAND (@<span class='solvableSpan'>COLUMN K</span>):</b></h5>
+
+<table class="noteTable">
+<tr><td>
+<b>
+"IF("<span class='solvableSpan'>J1</span>"=0,"","update `item` set `item_total_sold`="<span class='solvableSpan'>J1</span>" where `item_id`="<span class='solvableSpan'>G1</span>";")"
+</b>
+</td></tr>
+</table>
+<br/>
+<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMySQLCommand.jpg">
+<br/>
+<br/>
+<br/>
+TO-DO: -update: this<br/>
+<br/>
+<br/>
+<br/>
+<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMacro.jpg">
+<br/>
+<br/>
+<br/>
 
 <table class="noteTable">
 <tr><td>
@@ -593,7 +610,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			We create <b>one (1) NEW spreadsheet</b> with our <b>intended OUTPUT</b><br/>
 			--> includes: a <b>KEY COLUMN</b> from each <b>spreadsheet</b> of the <b>INPUT TABLES</b><br/>
-			--> adds: <b>NOT</b> its <b>IDENTIFICATION NUMBER</b><br/>
+			--> adds: in this case, <b>NOT</b> its <b>IDENTIFICATION NUMBER</b><br/>
 			--> classified: to be the <b>PRIMARY KEY</b><br/>
 			<br/>
 			<b>Example</b>: <b>x_ray_body_location</b> :
@@ -601,14 +618,14 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 			<br/>
 			--> due to: <b>ACTION</b> causes <b>QUICK IDENTIFICATION</b> for <b>HUMAN PERSON</b><br/>
 			--> adds: however, <b>VALUE</b> of <b>KEY COLUMN</b><br/> 
-			--> has: to be <b>EXACT</b> (spelling) to be <b>identified</b> in the <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL DB</a>
+			--> has: to be <b>EXACT (spelling)</b> to be <b>identified</b> in the <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL DB</a>
 		</td>
 	</tr>
 </table>
-
-
 <br/>
 <br/>
+
+
 
 
 <br/>
