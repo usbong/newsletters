@@ -16,7 +16,7 @@ Reporter: KOMANO, Tsuyoshi; 2023-04-14T07:30
 
 「すなわち『我が国と密接な関係にある他国に対する武力攻撃が発生し、これにより我が国の存立が脅かされ、国民の生命、自由及び幸福追求の権利が根底から覆される明白な危険がある』という『存立危機事態』に際しては、集団的自衛権を行使して良いと決めたのです。その結果、武力行使をする場所についても、わが国の周辺の公海、公空までという、地理的な制約が消え去ってしまいました」
 
-"In other words, we have decided that it is good to exercise the group's self-defense right during times of "Existential Danger", where 'There is clear danger that our nation's existence is threatened, the life of our people, and our right to liberty and the pursuit of happines overturned at the core due to the use of militar power to attack us and another country with whom we have close relationship.' The result of which is that as in the case of using military power, the sea, and even the air that surrounds our nation, our so-called 'geographic control', disappears." 
+"In other words, we have decided that it is good to exercise the group's self-defense right during times of 'Existential Danger', where 'There is clear danger that our nation's existence is threatened, the life of our people, and our right to liberty and the pursuit of happines overturned at the core due to the use of militar power to attack us and another country with whom we have close relationship.' The result of which is that as in the case of using military power, the sea, and even the air that surrounds our nation, our so-called 'geographic control', disappears." 
 
 >　――集団的自衛権を行使する場合、海外での武力行使も可能となったと。
 
