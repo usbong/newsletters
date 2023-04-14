@@ -85,9 +85,13 @@ XBOXとSWITCH市場へゲームを発行させた人の例もあるけれど、�
 
 ##-- 
 
-> Adapt. Reisenegger says that the first three steps are "90%" of the work, and that last bit to take it to 100% is to continue observing: honing into what works for your campaign, and then refining it. Be flexible, expand upon what seems to be drawing the most attention to your game as you go. 
+> Adapt. Reisenegger says that the first three steps are "90%" of the work, and that last bit to take it to 100% is to continue observing: honing into what works for your campaign, and then refining it. Be flexible, expand upon what seems to be drawing the most attention to your game as you go.
 
-> Understand the reach of multipliers. Some platforms will boost your reach and it's good to have insight into which are the most effective. Also, do not neglect your Steam page. It will far and away be the most important face of your game. 
+適応すること。ライゼネッガー氏によると、最初の３つの段階では90％が作業、そして100％まで完成するためその最後段階は、観続けることである。マーケティング戦略に関して何が上手く行っているか、それを磨き、改善すること。柔軟性のある人でありながら、世間からゲームの注目されているようなところを拡大すること。
+
+> Understand the reach of multipliers. Some platforms will boost your reach and it's good to have insight into which are the most effective. Also, do not neglect your Steam page. It will far and away be the most important face of your game.
+
+マルチプライヤー（急速な普及で手伝ってくれる手段）を理解すること。プラットフォームによって、より遠く届けてくれるのがあるため、最も効果的であるものを見分ければ良い。また、Steamページを無視しちゃダメ。何故ならば、ゲームの紹介に関しては、大幅に最も大事な訳である。
 
 --> note: observed noticeable TIME to read news article; appeared to be only @40%;<br/>
 --> output: did not read this part as much; skimmed;<br/>
