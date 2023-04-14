@@ -78,13 +78,12 @@ However, without detection and Command to restart, service operation is stopped.
 #### Reminder#3:
 Unless set to auto-execute when the Operating System restarts, we again execute the following Bash Shell Command using the Terminal Window:<br/>
 <br/>
-<b>sudo ./etc.init.d/apache2 start</b><br/>
+<b>sudo /etc/init.d/apache2 start</b><br/>
 
 ## 4. Add-on Software Requirements
 ### 4.1. Linux Machine 
 <b>Note:</b> `Apache Web Server` already included in [LUBUNTU LTS 20.4](http://lubuntu.me) Operating System (OS)<br/>
-
-<b>List of Install Commands for Auto-execution:</b> [installWebServerInLinuxMachineNotViaXAMPP.sh](https://github.com/usbong/KMS/blob/master/Miscellaneous%20Commands/installWebServerInLinuxMachineNotViaXAMPP.sh)
+--> IF NOT: execute the following: <b>List of Install Commands for Auto-execution</b><br/> [installWebServerInLinuxMachineNotViaXAMPP.sh](https://github.com/usbong/KMS/blob/master/Miscellaneous%20Commands/installWebServerInLinuxMachineNotViaXAMPP.sh)
 
 ### 4.2. Windows Machine
 #### XAMPP
@@ -99,7 +98,7 @@ https://phantomjs.org/; last accessed: 20210823<br/>
 <b>Install:</b> https://phantomjs.org/download.html; last accessed: 20210823<br/>
 
 ## 5. Open Source Software License
-Copyright 2019~2022 SYSON, MICHAEL B.
+Copyright 2019~2023 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
