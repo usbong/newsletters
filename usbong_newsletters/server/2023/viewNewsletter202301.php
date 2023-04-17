@@ -246,6 +246,11 @@
 							color: rgb(255,0,0);
 							font-weight: bold;
 						}
+						
+						span.mySQLCommandSpan {
+							color: rgb(0,100,0);
+							font-weight: bold;
+						}
 
 						td.noteTableImageColumn
 						{
@@ -541,8 +546,9 @@
 To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specialty Clinic (MOSC) requested Usbong's services to automate routine, monotonous tasks and share with unit members know-how on computers.
 
 <h3>1) Continued to update Knowledge Management System (KMS)</h3>
-<h4>1.1) shared: know-how to combine multiple <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL Database (DB)</a> Tables using spreadsheet tool, <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a>,</h4>
---> where: <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a> file can also be opened using <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en/microsoft-365/excel">MS EXCEL</a>
+<h4>1.1) shared: know-how to combine multiple <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL Database (DB)</a> Tables,</h4>
+--> using the <b>SPREADSHEET tool</b>, <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a>,<br/>
+--> whose: <b>OUTPUT FILE</b> can also be opened using <a class="webServiceLink" target="_blank" href="https://www.microsoft.com/en/microsoft-365/excel">MS EXCEL</a>
 
 
 <h5><b>Example <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> COMMAND (@<span class='solvableSpan'>COLUMN K</span>):</b></h5>
@@ -558,12 +564,44 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMySQLCommandV20230417T1418.jpg">
 <br/>
 <br/>
+<b>NOTE (from SYSON, MICHAEL B.):</b>
+<table class="noteTable">
+	<tr>
+		<td class="noteTableImageColumn">
+			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+		</td>
+		<td class="noteTableTextColumn">
+			We create a <b>FUNCTION</b> in <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a> to auto-generate the <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> <b>COMMAND</b> for the <b>`item_total_sold`</b> of each <b>`item`</b>.<br/>
+			<br/>
+			<b>EXAMPLE <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> COMMAND:</b><br/> 
+			<span class="mySQLCommandSpan">
+			update `item` set `item_total_sold`="691" where `item_id`="2";
+			</span><br/>
+			
+		</td>
+	</tr>
+</table>
 <br/>
-TO-DO: -update: this<br/>
+--> shares: <b>multiple</b> <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL Database (DB)</a> <b>Tables (containers)</b>,<br/>
+--> with <b>LIST of items</b> do <b>NOT</b> necessarily <b>have the exact items</b> inside,<br/>
+--> albeit <b>have the same DB structure</b>, e.g. <b>`item_id`</b>, <b>`item_total_sold`</b>;<br/>
+
+<h3>ACTION:</h3> 
+1) <b>use:</b> <b>ALL (available) ID</b> in the <b>Table</b> of the <b>LIST of items</b><br/>
+2) <b>wrote:</b> <b>set of instructions (MACRO)</b> in <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a> to auto-add a <b>blank row</b><br/>
+--> <b>when</b> the <b>`item_id`</b> does <b>NOT exist</b> in an <b>INPUT LIST</b><br/>
+<br/>
+<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMacro.jpg"><br/>
+<br/>
+<br/>
+3) <b>get:</b> the <b>SUM</b> of the <b>`item_total_sold`</b> of <b>ALL</b> the <b>INPUT LISTS (multiple Table)</b><br/>
+4) <b>enter:</b> the <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> <b>COMMAND</b> of <b>ALL</b> the <b>ROWS (based on `item_id`)</b>,<br/>
+--> whose: <b>`item_total_sold`</b> is <b>NOT ZERO</b><br/>
 <br/>
 <br/>
 <br/>
-<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMacro.jpg">
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
