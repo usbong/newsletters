@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230414; from 20230310
+  @date updated: 20230417; from 20230414
   @website address: http://www.usbong.ph
   
   Input:
@@ -555,7 +555,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </td></tr>
 </table>
 <br/>
-<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMySQLCommand.jpg">
+<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMySQLCommandV20230417T1418.jpg">
 <br/>
 <br/>
 <br/>
