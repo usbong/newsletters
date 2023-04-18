@@ -100,9 +100,15 @@ XBOXとSWITCH市場へゲームを発行させた人の例もあるけれど、�
 
 ##-- 
 
-> Reuse, recycle, rinse, repeat. Reuse the assets, recut them; again, show as many times as you can, show as many features as you can. 
+> Reuse, recycle, rinse, repeat. Reuse the assets, recut them; again, show as many times as you can, show as many features as you can.
+
+リユース、リサイクル、リンス、リピート。資産を再使用したり、編集したりすること。また、何度も、そしてできるだけ多くの得点を見せること。
 
 > Embrace the chaos and the depth and figure out your multipliers and then prioritize accordingly.
+
+カオスと深さを抱き、複数で拡張的な影響を当たられるためにどの部分を使うか選び、それに応じて、優先すること。
+
+
 
 ### USBONG NOTES
 
