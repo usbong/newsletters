@@ -51,3 +51,17 @@ There are about 330K student trainees in Japan. After working in Japan, how has 
 ### REFERENCE
 
 1) GOOGLE SEARCH ENGINE; TRANSLATE
+
+
+## https://www.asahi.com/articles/DA3S15613356.html?iref=comtop_Opinion_05; last accessed: 20230418
+
+> （天声人語）４０年後の書き直し
+
+> 2023年4月18日 5時00分
+
+> 真新しいスーツ姿の新入社員をみかけると、昔の自分を思い出す。あのころ重ねた失敗は、３０年以上たっても恥ずかしい。そんな折、村上春樹さんの新作『街とその不確かな壁』を読んで感銘を受けた。新人時代から４０年を経て、ついに決着をつけたのだと▼壁と影が主題の同作のもとは、デビュー翌年の１９８０年に文芸誌で…
+
+### USBONG NOTE
+
+1) 感銘
+
