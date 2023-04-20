@@ -20,7 +20,7 @@ What kind of work is MANAGEMENT in the first place?
 
 > 私は大学で産業・組織心理学を教えていますが、学生たちを見ていても、管理職にはなりたくないという人の方が多いと感じます。
 
-I teach industrial and organizational psychology at the university. Observing students, I feel that there are many who say that they don't want to work at mamanagement worknagement.
+I teach industrial and organizational psychology at the university. Observing students, I feel that there are many who say that they don't want to work at management.
 
 > もちろん学生はまだ現実の職場を知りませんが、負荷が大きく割に合わない仕事だと直感的に感じとっているのでしょう」
 
@@ -61,6 +61,9 @@ Advancement is said to be proof that the person is especially recognized by the 
 
 3) HAWAII; Management; Master's in Business Administration (MBA);<br/>
 --> I.T.; JAPAN
+
+4) "mamanagement worknagement" -> "management";<br/>
+--> copy-paste COMMAND via LINUX UBUNTU (LUBUNTU 20.04)
 
 ### REFERENCE
 
