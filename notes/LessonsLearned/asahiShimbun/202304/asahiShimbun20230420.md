@@ -62,8 +62,8 @@ Advancement is said to be proof that the person is especially recognized by the 
 3) HAWAII; Management; Master's in Business Administration (MBA);<br/>
 --> I.T.; JAPAN
 
-4) "mamanagement worknagement" -> "management";<br/>
---> ERROR in copy-paste COMMAND via LINUX UBUNTU (LUBUNTU 20.04)
+4) "mamanagement worknagement" -> "management work";<br/>
+--> auto-generated ERROR in copy-paste COMMAND via LINUX UBUNTU (LUBUNTU 20.04)
 
 ### REFERENCE
 
