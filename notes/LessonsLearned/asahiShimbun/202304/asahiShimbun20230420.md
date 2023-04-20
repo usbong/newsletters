@@ -63,7 +63,7 @@ Advancement is said to be proof that the person is especially recognized by the 
 --> I.T.; JAPAN
 
 4) "mamanagement worknagement" -> "management";<br/>
---> copy-paste COMMAND via LINUX UBUNTU (LUBUNTU 20.04)
+--> ERROR in copy-paste COMMAND via LINUX UBUNTU (LUBUNTU 20.04)
 
 ### REFERENCE
 
