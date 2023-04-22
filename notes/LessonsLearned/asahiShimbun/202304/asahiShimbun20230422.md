@@ -33,4 +33,4 @@ The party representative himself posted the speech's schedule on the same aftern
 --> DATA; browsing history;<br/>
 --> DATA; INVESTIGATION<br/>
 --> remembers: ORACLE Corporation; DATABASE technique<br/>
---> whose: owner, Mr ELLISON, Larry @TOP of WEALTHIEST LIST in AMERICA and the WORLD
+--> whose: owner, Mr ELLISON, Larry @TOP 10 of WEALTHIEST LIST in AMERICA and the WORLD
