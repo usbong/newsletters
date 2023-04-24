@@ -28,13 +28,15 @@ AI tools, such as "ChatGPT", that can write advanced-levels of paragraphs, have 
 
 I suddenly remembered the words of the sociologist, Mr HASHIZUME, Daisaburo (74). He wrote in his book that people study to prepare for the "RESET in LIFE". In an age when skills continuously become ancient, with what readiness of spirit should we study? We ask Mr HASHIZUME about his written work filled with numerous learnings.
 
+### INTERVIEW
+
 >　――リスキリングをどう見ていますか。
 
-How do you view RE-SKILLING?
+Q: How do you view RE-SKILLING?
 
 >　リスキリング。危ない言葉ですね。労働者に「お前のスキルはもう古い」と言っているようなものです。経営者も政府も、経営不振や不景気は労働者のせいだと言わんばかりです。
 
-RE-SKILLING. It's a dangerous word. It's like saying to the worker, "Your skills are ancient." Economists, and even the Administration appear to say that the unstable economy and the bad business climate are due to the workers.
+A: RE-SKILLING. It's a dangerous word. It's like saying to the worker, "Your skills are ancient." Economists, and even the Administration appear to say that the unstable economy and the bad business climate are due to the workers.
 
 >　会社が赤字になって、どうやって株主に申し開きするか。経費を削減します。雇用調整ぐらいしか打つ手がない。だから経営者は、従業員をクビにするカードを手にしていたい。クビを切られるのは、スキルのないお前の責任だ。ダメな経営者が真っ先に考える、いちばん安直な方法です。
 
@@ -50,11 +52,11 @@ Even with mastered skill, its value is low.
 
 >　――そうはいっても、橋爪さんもメールを使いますよね。技術が進歩するたびに、スキルを身につけてきたのではないでしょうか。
 
-Despite that, Mr HASHIZUME, you use emails, right? As technology improves, don't you become less of a master of a skill?
+Q: Despite that, Mr HASHIZUME, you use emails, right? As technology improves, don't you become less of a master of a skill?
 
 >　もちろん新しく覚えないとい…
 
-Of course, we need to learn new things...
+A: Of course, we need to learn new things...
 
 ### USBONG NOTES
 
