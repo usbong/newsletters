@@ -9,7 +9,7 @@ QUEZON, Manuel L III
 ### KEYPHRASE
 
 expectation: movement of chaotic system to command and control<br/>
---> forcasted problem: cops and soldiers both active and retired turning into guns-for-hire;<br/>
+--> forecasted problem: cops and soldiers both active and retired turning into guns-for-hire;<br/>
 --> example output: MEXICO, with police and military opting to be the mafia kingpins themselves;<br/>
 --> cause: "efficiency"; <br/>
 --> adds: more efficient than the mafiosi that hire them;
