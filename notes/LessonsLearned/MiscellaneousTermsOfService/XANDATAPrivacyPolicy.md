@@ -21,3 +21,13 @@ https://store.steampowered.com/app/674690/Project_Xandata/; last accessed: 20230
 > Easy Anti-Cheat. We use EAC to monitor player performance and gameplay data to check for possible cheaters. See more about Epic/EAC’s data/privacy policies: https://www.epicgames.com/site/en-US/privacypolicy?lang=en-US
 
 > Amazon Web Services. We use AWS to store the game’s database. It consolidates a player’s Steam ID with their PXD ID so we can track account ownership, owned items, account/seasonal progression, purchase history, and user inventory management (e.g. hosts player authentication, game scripts, user data such as in game currency and player reports). See more about Amazon Web Services’ data/privacy policies: https://aws.amazon.com/privacy/
+
+## Additional Notes
+
+1) https://secret6.com/3d-art/; last accessed: 20230502
+
+--> increase know-how, share know-how, sell product/service;<br/>
+--> example: BATTLEFIELD, weapons, 3D object model<br/>
+--> defense
+
+
