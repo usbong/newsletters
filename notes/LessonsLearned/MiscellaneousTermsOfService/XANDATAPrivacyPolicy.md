@@ -30,4 +30,7 @@ https://store.steampowered.com/app/674690/Project_Xandata/; last accessed: 20230
 --> example: BATTLEFIELD, weapons, 3D object model<br/>
 --> defense
 
-
+2) https://www.youtube.com/watch?v=iAPbhEZ0Yng; last accessed: 20230502; from 20230501<br/>
+> Apex開発元が贈る新作アクションADV 『STAR WARS ジェダイ：サバイバー』を実況プレイ！<br/>
+> IGN Japan<br/>
+> 92.6K subscrib
