@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230116; from 20221208
+  @date updated: 20230503; from 20230116
   @website address: http://www.usbong.ph
   
   Input:
@@ -30,6 +30,9 @@
   reminder: pay: to learn technique for USBONG to share lessons-learned with PUBLIC
   
   //TO-DO: -update: newsletter pages system to be more organized  
+  
+  //TO-DO: -add: LINE NUMBERS;
+  
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -51,14 +54,15 @@
 	
  						body
                         {
-							font-family: Arial;
+							/*font-family: Tahoma, sans-serif;*/ /*Arial*
 							
 							/*	//removed by Mike, 20220701
 							  font-size: 16pt;
 							*/
 
 							color: rgb(30,30,30); /*rgb(120,63,4);*/
-							font-weight: bold;
+							
+							/*font-weight: bold;*/
 
 							/* This makes the width of the output page that is displayed on a browser equal with that of the printed page. */
 							/* Legal Size; Landscape*/							
@@ -99,14 +103,17 @@
                         	
 	                    div.mainTextDiv
                         {
+ /*                       
 							font-family: Arial;
+*/
 							
 							/*	//removed by Mike, 20220701
 							  font-size: 16pt;
 							*/
 
 							color: rgb(30,30,30); /*rgb(120,63,4);*/
-							font-weight: bold;
+							
+							/*font-weight: bold;*/
 
 							width: 100%;
 							
@@ -118,8 +125,9 @@
                         
 						div.newsListAtRightPanelDiv
                         {
+/*                        
 							font-family: Arial;
-							
+	*/						
 							/*	//removed by Mike, 20220701
 							  font-size: 16pt;
 							*/
@@ -151,7 +159,7 @@
 						{
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 32pt; /*12pt;*/
+							font-size: 24pt; /*30pt*80%;*/
 							color: rgb(0,0,0); /* black */
 						}
 						
@@ -181,13 +189,16 @@
 						div.copyright
 						{
 							text-align: center;
-							font-size: 10pt;
+							font-size: 16pt;
 							color: rgb(0,0,0); /* black */
+							font-weight: bold;
 						}
 					
 						h3
 						{
-							color: rgb(0,0,0); /* black */							
+							color: rgb(0,0,0); /* black */
+							text-align: left;
+							
 						}
 					
 						h4
@@ -199,7 +210,11 @@
 						{							
 							color: rgb(85,43,0);	
 						}
-						
+
+						/* note: no horizontal line is displayed, albeit a blank row is added*/						
+						hr {							
+						}
+												
 						b
 						{
 							color: rgb(0,0,0); /* from black to white */ 							
@@ -247,15 +262,23 @@
 						}
 						
 						blockquote.usbongBlockquote {
-							background: #eee;
-							color: rgb(40,40,40); /* from black to white */ 
-							margin:0;		
-							border-left: 5px solid #ab9c7d;
+							/*background: #eee;*/
+							background: #fff;
+							
+							/*color: rgb(40,40,40); *//* from black to white */ 
+							color: rgb(20,20,20); 
+
+							/*font-weight: bold;*/							
+							font-size: 24pt; /*30pt*80%;*/
+														
+							margin:0;
+							margin-bottom: 5%;		
+
+							border-left: 5px solid #ababab; /*#ab9c7d;*/
 							padding: 2px;					
 							padding-left: 3%;
 							
 							/* text-indent: 5%;*/
-
 						}
 
 /*
@@ -264,7 +287,7 @@
 */
 						div.textDoubleSpacedDiv {
 							line-height: 2;
-							font-size: 14pt;							
+							font-size: 24pt; /*30pt*80%;*/						
 						}
 						
 						
@@ -281,8 +304,8 @@
 	                    td.mainTextTd
                         {
 							width: 50%;
-							border: 1px solid #ab9c7d;	
-							padding-right: 2%;						
+							border: 1px solid #aaaaaa;/*#ab9c7d;*/	
+							padding-right: 2%;		
                         }
 
 
@@ -342,7 +365,7 @@
 						a.webServiceLink
 						{
 							color: rgb(51,145,23);
-							font-weight: bold;							
+							font-weight: bold;												
 						}
 						
 						a.menuLink
@@ -484,7 +507,7 @@
 
 						td.pageNameColumn
 						{
-							width: 40%;
+							width: 50%; /*40%;*/
 							display: inline-block;
 							text-align: right;
 						}				
@@ -814,16 +837,22 @@ window.onclick = function(event) {
     </div>
 </nav>
 
-	
-	
 	<div class="textDoubleSpacedDiv">
 	<h3>
+<!--
 	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
 		「（天声人語）書店消失」</a> 
-	</h3>				
-last accessed: 20220622<br/>	
+-->
+	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
+	https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05</a>; <b>last accessed: 20220622</b>
+	</h3>	
+	
+	<hr>
+	
+<!--	
 07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
 <br/>
+-->
 <blockquote class="usbongBlockquote">
 <p>
 （天声人語）書店消失
@@ -868,6 +897,7 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 	</div>
 	</td>
 	<!-- right column -->
+<!--	
 	<td class="newsListAtRightPanelColumnTd">
 	<div class='newsListAtRightPanelDiv'>
 		1. Halimbawa <br/>
@@ -875,6 +905,7 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 		3. Halimbawa <br/>
 	</div>
 	</td>
+-->	
 	</tr></table>
 	
 	<br/>
