@@ -1036,8 +1036,30 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 //PART 2
 
 	//note: .md format
-	echo ">>>".$cellValue."<br/>";
-	
+	//edited by Mike, 20230504
+	//echo ">>>".$cellValue."<br/>";
+
+	//added by Mike, 20221208
+	if (isMobile()) {		
+	}
+	else {
+		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
+		echo "<div class='mainTextDiv'>";
+	}
+?>	
+	<div class="textDoubleSpacedDiv">
+
+<?php	
+	$cellValue = str_replace("\n", "<br/>", $cellValue);
+	echo $cellValue."<br/>";
+
+?>	
+	</div>
+	</div>
+	</td>
+	</tr>
+	</table>
+<?php		
 	//TO-DO: -update: this autoWriteOutput(...); .md input
 					
 /*					
@@ -1046,7 +1068,7 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 //-----					
 					
 
-
+/* //removed by Mike, 20230504
 	//					echo ">>".$cellValue;
 
 						//added by Mike, 20211014
@@ -1082,14 +1104,13 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 							break;						
 						}
 			
-					}			
-				}	
+*/
+					}
+				}
 
-				
-	
+/* //removed by Mike, 20230504	
 	
 echo "<br/><br/><br/><br/>";
-	
 	
 	//added by Mike, 20211014
     foreach ($arrayFilesInCurrentDirectory as $key => $filename)
@@ -1195,15 +1216,14 @@ echo "<br/><br/><br/><br/>";
 					//TO-DO: -update: this; 
 					//downloaded newsletters, 
 					//EXCEL 2021-07 pages @www.usbong.ph;
-/*					
-					$cellValue = "website address: ".$completeFilename.";".$cellValue;
-*/					
-/*
-					$cellValue = "website address: ".str_replace("\\".$sKeyphrase, "", $completeFilename).";".$cellValue;
-*/
+					
+////					$cellValue = "website address: ".$completeFilename.";".$cellValue;
+				
+
+////					$cellValue = "website address: ".str_replace("\\".$sKeyphrase, "", $completeFilename).";".$cellValue;
+
 					$cellValue = "website address: ".str_replace("var/www/html/", "", $completeFilename).";".$cellValue;
 //-----					
-					
 
 
 	//					echo ">>".$cellValue;
@@ -1249,7 +1269,8 @@ echo "<br/><br/><br/><br/>";
 		}
 	  }
 	}
-	
+	*/					
+
 	
 	
 		
