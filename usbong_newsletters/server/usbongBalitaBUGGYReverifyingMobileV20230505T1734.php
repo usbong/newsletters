@@ -47,7 +47,7 @@
     <!-- Reference: Apache Friends Dashboard index.html -->
     <!-- "Always force latest IE rendering engine or request Chrome Frame" -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no"/>
 	
     <style type="text/css">
 	/**/
@@ -89,9 +89,11 @@
 							width: 50%;
 							*/	
 							width: 100%;
+							height: 100%;
 
+/*
 							padding-left: 5%;
-							
+*/							
 							/* //added by Mike, 20220628 
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
 							   //last accessed: 20220628
@@ -99,6 +101,14 @@
 							
 							text-align: justify;
 							text-justify: inter-word;							
+							
+							
+							-webkit-user-select: none; /* Safari */
+							-ms-user-select: none; /* IE 10 and IE 11 */
+							user-select: none; /* standard syntax */
+							
+							transform: scale(1.0);
+							/*touch-action: none;*/
                         }
                         	
 	                    div.mainTextDiv
@@ -118,7 +128,7 @@
 							width: 100%;
 							
 							padding-left: 5%;
-														
+
 							text-align: justify;
 							text-justify: inter-word;							
                         }
@@ -303,14 +313,23 @@
 
 						table.bodyTable
 						{
-							width: 90%;
+							width: 50%;
+							padding-left: 10%;
+
+/*
+							margin-left: 5%;
+*/							
+							margin-left: 5%;		
+
 						}	
 						
 	                    td.mainTextTd
                         {
-							width: 50%;
+							width: 100%; /*50%;*/
 							border: 1px solid #aaaaaa;/*#ab9c7d;*/	
+/*	
 							padding-right: 2%;		
+*/							
                         }
 
 
@@ -994,12 +1013,17 @@ window.onclick = function(event) {
 	//echo ">>>".$cellValue."<br/>";
 
 	//added by Mike, 20221208
+/*
 	if (isMobile()) {		
 	}
 	else {
 		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
 		echo "<div class='mainTextDiv'>";
 	}
+*/
+		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
+		echo "<div class='mainTextDiv'>";
+
 ?>	
 	<div class="textDoubleSpacedDiv">
 
