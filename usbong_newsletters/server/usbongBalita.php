@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230504; from 20230503
+  @date updated: 20230505; from 20230504
   @website address: http://www.usbong.ph
   
   Input:
@@ -272,13 +272,18 @@
 							font-size: 24pt; /*30pt*80%;*/
 														
 							margin:0;
-							margin-bottom: 5%;		
+							margin-bottom: 3%;/*5%;*/
 
 							border-left: 5px solid #ababab; /*#ab9c7d;*/
 							padding: 2px;					
 							padding-left: 3%;
 							
 							/* text-indent: 5%;*/
+						}
+						
+						p.usbongTranslatedQuote {
+							margin:0;
+							margin-bottom: 3%;/*5%;*/
 						}
 
 /*
@@ -535,7 +540,22 @@
 							padding-left: 60px;
 							color: rgb(252,60,3);
 						}
-
+						
+						span.usbongNoteSpan {
+						}
+						
+						span.usbongTextSectionPart {
+							text-align: left;
+							color: rgb(50,50,50);
+							font-weight: bold;
+						}
+						
+						span.usbongTextReferencePart {
+							text-align: left;
+							color: rgb(50,50,50);
+							font-weight: bold;
+						}
+						
 						/* //added by Mike, 20220701 
 						   //reference: https://www.w3schools.com/howto/howto_css_menu_icon.asp;
 						   //last accessed: 20220701
@@ -772,76 +792,8 @@ window.onclick = function(event) {
 	<br/>
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
 -->
-<?php
-	//added by Mike, 20221208
-	if (isMobile()) {		
-	}
-	else {
-		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
-		echo "<div class='mainTextDiv'>";
-	}
-?>
 
-	<div class="textDoubleSpacedDiv">
-	<h3>
-<!--
-	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
-		「（天声人語）書店消失」</a> 
--->
-	<a class="webServiceLink" target="_blank" href="https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05">
-	https://www.asahi.com/articles/DA3S15330231.html?iref=comtop_Opinion_05</a>; <b>last accessed: 20220622</b>
-	</h3>	
-	
-	<hr>
-	
-<!--	
-07:14~07:37; Ginugol na Panahon: 23MIN~<br/>
-<br/>
--->
-<blockquote class="usbongBlockquote">
-<p>
-（天声人語）書店消失
-</p>
-</blockquote>
-(Tinig ng Langit; Salaysay ng Tao)<br/>
-Pagkawala ng mga Tindahan ng Aklat<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    有料会員記事
-</p>
-</blockquote>
-Sulatin sa nagbabayad na kasapi<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    2022年6月21日 5時00分
-</p>
-</blockquote>
-2022-06-21T05:00<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-夢に本屋が出てきたことがある。書棚で何かを探しているのだが、そこはむかし郷里にあった小さな店なのだ。子どもの頃から通い、マンガ雑誌の発売日に駆け込んでいた。文庫本の棚では星新一の面白さに出会った▼自分のなかでは本屋の原型なのかもしれない。これからの子どもたちには縁のない話になるだろうか。身の回りか…
-</p>
-</blockquote>
-    
-May lumabas na Tindahan ng Aklat sa aking panaginip. Isa itong maliit na tindahan na naroon noon sa pook ng aking kinalakihan; May hinahanap akong kung ano sa lagayan ng mga aklat. Simula pa noong dumaan ako sa aking kabataan, hinahabol ko na ang araw ng bentahan ng Magasin ng Komiks (MANGA). May natagpuan akong nakaaaliw kay SEI SHINICHI (Manunulat; Bituin, Bagong Isa) sa lagayan ng mga aklat ng malaking lalagyan ng mga sulatin. Sa loob-loob ko, marahil ito ang pinagmulang hugis ng Tindahan ng Aklat. Mawawala kaya ang usaping ganito sa mga kabataan mula ngayon? Sa paligid...
-<br/>
-<br/>
-<blockquote class="usbongBlockquote">
-<p>
-    この記事は有料会員記事です。残り454文字有料会員になると続きをお読みいただけます。
-</p>
-</blockquote>
-Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag naging nagbabayad na kasapi na po kayo, maaari niyo na pong mabasa ang kasunod.
-	</div>
-
-	<!-- //added by Mike, 20221208 -->
-	
-	</div>
-	</td>
-	<!-- right column -->
+<!-- right column -->
 <!--	
 	<td class="newsListAtRightPanelColumnTd">
 	<div class='newsListAtRightPanelDiv'>
@@ -1002,7 +954,7 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
 		
-	echo ">>> ".$completeFilename."<br/><br/><br/><br/>";
+	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {			
@@ -1018,8 +970,10 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 		
 					//edited by Mike, 20211013
 					//$cellValue = utf8_encode($data);
+					
 					//edited by Mike, 20211014
 //					$cellValue = strip_tags(utf8_encode($data));
+					
 					$cellValue = strip_tags($data);
 					
 					//added by Mike, 20230110
@@ -1050,8 +1004,91 @@ Sa nagbabayad na kasapi ang sulating ito. May natitira pang 454 na titik. Kapag 
 	<div class="textDoubleSpacedDiv">
 
 <?php	
-	$cellValue = str_replace("\n", "<br/>", $cellValue);
-	echo $cellValue."<br/>";
+//	$cellValue = str_replace("\n", "<br/>", $cellValue);
+
+//	echo ">>>>".$cellValue."<br/>";
+	
+//$sToken = strtok($cellValue, "<br/>");
+$sToken = strtok($cellValue, "\n");
+$sPrevToken="";
+$iRowCount=0;
+
+while ($sToken !== false)
+{
+	
+	//echo "$sToken<br>";
+		
+	//if (strpos($cellValue, "##")!==false) {
+	if ($iRowCount==0) {
+		$sToken = str_replace("##", "", $sToken);
+		$sReferenceWebsite=substr($sToken,0,strpos($sToken,";"));	
+		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+
+		//echo strpos($cellValue,"<br/>");
+		
+		echo "<h3>";
+//		echo "## <a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
+		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
+		echo $sReferenceWebsite."</a>";
+		echo "<b>".$sLastAccessed."</b>";		
+		//echo $sLastAccessed;
+		echo "</h3>";
+		echo "<hr>";
+	}
+	//else if (strpos($cellValue, ">")!==false) {
+	else if (substr($sToken,0,1)==">") {
+		//if prev token was a note
+		if (strpos($sPrevToken, "-->")!==false) {
+			echo "<br/>";
+		}	
+	
+		$sToken = str_replace(">","",$sToken);	
+		echo "<blockquote class='usbongBlockquote'>";
+		echo "$sToken";
+		echo "</blockquote>";
+	}
+	else if (strpos($sToken, "-->")!==false) {
+//		$sToken = str_replace("-->","",$sToken);	
+		echo "<span class='usbongNoteSpan'>";
+		echo "$sToken<br/>";
+		echo "</span>";
+	}
+	else if (strpos($sToken, "##")!==false) {
+		echo "<span class='usbongTextSectionPart'>";
+		echo "$sToken<br/>";
+		echo "</span>";
+	}
+	else if (strpos(strtolower($sToken), "reference")!==false) {
+		$sToken = str_replace("Reference:", "", $sToken);
+		$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));	
+		$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);	
+	
+		echo "<span class='usbongTextReferencePart'>";
+		echo "Reference:<br/>";
+		//echo "$sToken<br/><br/>";
+		//echo "$sReferenceWebsiteTemp;<br/>";
+		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+		echo $sReferenceWebsiteTemp."</a><br/>";				
+		echo "$sLastAccessedTemp<br/><br/>";		
+		echo "</span>";		
+	}	
+	else {
+		//if prev token was a note
+		if (strpos($sPrevToken, "-->")!==false) {
+			echo "<br/>";
+		}
+	
+		echo "<p class='usbongTranslatedQuote'>";
+		//note: technique
+		echo "$sToken";
+		echo "</p>";
+	}
+
+//	echo "<br/>";		
+	$sPrevToken = $sToken;	
+	$sToken = strtok("\n");
+	$iRowCount++;
+} 
 
 ?>	
 	</div>
