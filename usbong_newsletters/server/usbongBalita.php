@@ -1068,7 +1068,7 @@ while ($sToken !== false)
 		//echo "$sToken<br/><br/>";
 		//echo "$sReferenceWebsiteTemp;<br/>";
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-		echo $sReferenceWebsiteTemp."</a><br/>";				
+		echo $sReferenceWebsiteTemp."</a>;<br/>";				
 		echo "$sLastAccessedTemp<br/><br/>";		
 		echo "</span>";		
 	}	
