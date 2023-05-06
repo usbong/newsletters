@@ -58,8 +58,8 @@ However, selling the telephone device without including the connectivity service
 
 <b>Reference:</b> https://www.docomo.ne.jp/english/info/media_center/pr/2004/001146.html; last accessed: 20230504
 
-2) 懐疑的（かいぎてき）
+4) 懐疑的（かいぎてき）
 
-3) product? service? 経理
+5) product? service? 経理
 
-3) なくならない; does not disappear -> lies
+6) なくならない; does not disappear -> lies
