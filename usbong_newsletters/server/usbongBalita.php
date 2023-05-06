@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230505; from 20230504
+  @date updated: 20230506; from 20230505
   @website address: http://www.usbong.ph
   
   Input:
@@ -19,6 +19,11 @@
   2) public internet: http://store.usbong.ph/server/usbongBalita.php
   
   Recommended References:
+  0) Usbong Knowledge Management System (KMS)
+  --> https://github.com/usbong/kms; last accessed: 20230506;
+  --> notes: noticeable margin space @right side;
+  --> OUTPUT: USBONG logo, et cetera; size correct even on MOBILE TABLET PC
+  
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
   2) https://www.asahi.com/; last accessed: 20220626
@@ -29,9 +34,12 @@
   //TO-DO: -add: mobile responsiveness via reusing USBONG STORE computer instructions received from ZENT as paid sub-contractor  
   reminder: pay: to learn technique for USBONG to share lessons-learned with PUBLIC
   
-  //TO-DO: -update: newsletter pages system to be more organized  
+  //TO-DO: -update: newsletter pages system to be more organized    
+  //TO-DO: -add: LINE NUMBERS?
   
-  //TO-DO: -add: LINE NUMBERS;
+  //note: Android mobile telephone; portrait has excess horizontal scrolling;
+  //--> auto-set font-size to be smaller; AMAZON.COm; Kindle;
+  
   
 -->
 <?php
@@ -90,7 +98,8 @@
 							*/	
 							width: 100%;
 
-							padding-left: 5%;
+/*							padding-left: 5%;*/
+							padding: 2%;
 							
 							/* //added by Mike, 20220628 
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
@@ -159,8 +168,11 @@
 						{
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 24pt; /*30pt*80%;*/
+							font-size: 30pt; /*30pt*80%;*/
 							color: rgb(0,0,0); /* black */
+							
+							padding-right: 20px;
+							padding-top: 10px;
 						}
 						
 						div.newsletterTitle
@@ -228,22 +240,24 @@
 							max-width: 100%;
 */
 							width: 50%; 
-
-							
 							height: auto;
+							
 							float: left;
 							text-align: center;
 							padding-left: 20px;
 							padding-top: 10px;
 						}
 
-						img.Image-moscLogo {
-							max-width: 20%;
+						img.Image-companyLogoMobile {
+							width: 100%; 
 							height: auto;
+							
 							float: left;
 							text-align: center;
-						}
-						
+							padding-left: 20px;
+							padding-top: 10px;
+						}						
+
 						img.newsletterImage {
 							max-width: 100%;
 							height: auto;
@@ -303,7 +317,7 @@
 
 						table.bodyTable
 						{
-							width: 90%;
+							width: 100%;/*90%;*/
 						}	
 						
 	                    td.mainTextTd
@@ -512,7 +526,7 @@
 
 						td.pageNameColumn
 						{
-							width: 50%; /*40%;*/
+							width: 45%; /*40%;*/
 							display: inline-block;
 							text-align: right;
 						}				
@@ -780,7 +794,15 @@ window.onclick = function(event) {
 	  <tr>
 		<td class="imageColumn">			
 		<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
-			<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
+<?php 
+
+	if (isMobile()) {	
+		echo "<img class='Image-companyLogoMobile' src='assets/images/usbongLogo.png'>";
+	}
+	else {
+		echo "<img class='Image-companyLogo' src='assets/images/usbongLogo.png'>";
+	}
+?>
 		</a>	
 		</td>	
 		<td class="pageNameColumn">
@@ -954,7 +976,7 @@ window.onclick = function(event) {
 
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
 		
-//	echo ">>> ".$completeFilename."<br/><br/>";
+	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {			
@@ -994,12 +1016,16 @@ window.onclick = function(event) {
 	//echo ">>>".$cellValue."<br/>";
 
 	//added by Mike, 20221208
+/*	
 	if (isMobile()) {		
 	}
 	else {
+*/	
 		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
 		echo "<div class='mainTextDiv'>";
+/*
 	}
+*/	
 ?>	
 	<div class="textDoubleSpacedDiv">
 
@@ -1020,12 +1046,14 @@ while ($sToken !== false)
 		
 	//if (strpos($cellValue, "##")!==false) {
 	if ($iRowCount==0) {
-		//note: space after "##"
-		$sToken = str_replace("## ", "", $sToken);
+		$sToken = str_replace("##", "", $sToken);
 		$sReferenceWebsite=substr($sToken,0,strpos($sToken,";"));	
 		$sLastAccessed=substr($sToken,strpos($sToken,";"));
 
 		//echo strpos($cellValue,"<br/>");
+		
+		//TO-DO: -add: "..." if $sReferenceWebsite + $sLastAccessed,
+		//shall exceed one row
 		
 		echo "<h3>";
 //		echo "## <a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
