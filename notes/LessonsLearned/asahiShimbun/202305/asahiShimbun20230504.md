@@ -1,4 +1,4 @@
-## https://www.asahi.com/articles/ASR525FH5R4ZULFA012.html?iref=comtop_7_01; last accessed: 20230504
+﻿## https://www.asahi.com/articles/ASR525FH5R4ZULFA012.html?iref=comtop_7_01; last accessed: 20230504
 
 > 携帯値引き「穴ふさぐ」新たな規制、大手が異例の提案　懐疑的な声も
 
@@ -56,7 +56,7 @@ However, selling the telephone device without including the connectivity service
 
 > The 900i series, the most advanced series of FOMA i-mode® mobile phones ever released, features a Macromedia® Flash™-equipped browser, HTML e-mail and avatar-capable videophone. 
 
-<b>Reference:</b> https://www.docomo.ne.jp/english/info/media_center/pr/2004/001146.html; last accessed: 20230504
+#### Reference: https://www.docomo.ne.jp/english/info/media_center/pr/2004/001146.html; last accessed: 20230504
 
 4) 懐疑的（かいぎてき）
 
