@@ -20,9 +20,9 @@
   
   Recommended References:
   0) Usbong Knowledge Management System (KMS)
-  --> https://github.com/usbong/kms; last accessed: 20230506;
-  --> notes: noticeable margin space @right side;
-  --> OUTPUT: USBONG logo, et cetera; size correct even on MOBILE TABLET PC
+  // https://github.com/usbong/kms; last accessed: 20230506;
+  // notes: noticeable margin space @right side;
+  // OUTPUT: USBONG logo, et cetera; size correct even on MOBILE TABLET PC
   
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
@@ -38,7 +38,7 @@
   //TO-DO: -add: LINE NUMBERS?
   
   //note: Android mobile telephone; portrait has excess horizontal scrolling;
-  //--> auto-set font-size to be smaller; AMAZON.COm; Kindle;
+  //auto-set font-size to be smaller; AMAZON.COm; Kindle;
   
   
 -->
@@ -976,7 +976,7 @@ window.onclick = function(event) {
 
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
 		
-	echo ">>> ".$completeFilename."<br/><br/>";
+//	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {			
@@ -1046,7 +1046,8 @@ while ($sToken !== false)
 		
 	//if (strpos($cellValue, "##")!==false) {
 	if ($iRowCount==0) {
-		$sToken = str_replace("##", "", $sToken);
+		//note: space after "##" 
+		$sToken = str_replace("## ", "", $sToken);
 		$sReferenceWebsite=substr($sToken,0,strpos($sToken,";"));	
 		$sLastAccessed=substr($sToken,strpos($sToken,";"));
 
@@ -1082,12 +1083,9 @@ while ($sToken !== false)
 		echo "$sToken<br/>";
 		echo "</span>";
 	}
-	else if (strpos($sToken, "##")!==false) {
-		echo "<span class='usbongTextSectionPart'>";
-		echo "$sToken<br/>";
-		echo "</span>";
-	}
 	else if (strpos(strtolower($sToken), "reference")!==false) {
+		$sToken = str_replace("#", "", $sToken);
+
 		$sToken = str_replace("Reference:", "", $sToken);
 		$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));	
 		$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);	
@@ -1101,6 +1099,11 @@ while ($sToken !== false)
 		echo "$sLastAccessedTemp<br/><br/>";		
 		echo "</span>";		
 	}	
+	else if (strpos($sToken, "##")!==false) {
+		echo "<span class='usbongTextSectionPart'>";
+		echo "$sToken<br/>";
+		echo "</span>";
+	}
 	else {
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
