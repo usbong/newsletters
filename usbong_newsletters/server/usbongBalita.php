@@ -6,7 +6,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230506; from 20230505
+  @date updated: 20230507; from 20230505
   @website address: http://www.usbong.ph
   
   Input:
@@ -1048,14 +1048,19 @@ while ($sToken !== false)
 	if ($iRowCount==0) {
 		//note: space after "##" 
 		$sToken = str_replace("## ", "", $sToken);
-		$sReferenceWebsite=substr($sToken,0,strpos($sToken,";"));	
+		
+		//edited by Mike, 20230507
+		//https://www.asahi.com/art; //25 characters;
+//		$sReferenceWebsite=substr($sToken,0,strpos($sToken,";"));	
+		//added: "..." if $sReferenceWebsite + $sLastAccessed,
+		//shall exceed one row
+
+		$sReferenceWebsite=substr($sToken,0,25)."... ";	
+
 		$sLastAccessed=substr($sToken,strpos($sToken,";"));
 
 		//echo strpos($cellValue,"<br/>");
-		
-		//TO-DO: -add: "..." if $sReferenceWebsite + $sLastAccessed,
-		//shall exceed one row
-		
+				
 		echo "<h3>";
 //		echo "## <a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
