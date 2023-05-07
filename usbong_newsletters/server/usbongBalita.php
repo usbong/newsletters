@@ -1517,6 +1517,7 @@ echo ">>>>>".$sKeyphrase;
 		}
 	}	
 
+/* //removed by Mike, 20230507
 	//added by Mike, 20211014; edited by Mike, 20211017
 //	if (!$bHasFoundKeyphrase) {
 	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
@@ -1532,6 +1533,7 @@ echo ">>>>>".$sKeyphrase;
 		echo "</table>";
 		echo "<br/>";					
 	}
+*/	
 ?>	
 	
 	<br/>
