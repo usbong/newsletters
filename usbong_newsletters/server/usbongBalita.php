@@ -44,7 +44,10 @@
   //auto-set font-size to be smaller; AMAZON.COM; Kindle;
   //verify width x height; 
   //notes: self had read eBOOKS on Kindle, PORTRAIT mode
-  //TO-DO: -remove: excess touch screen movement on iPAD Table PC
+  //removed: excess touch screen movement on iPAD Table PC;
+  //TO-DO: -fix: excess movement returns after change from PORTRAIT to LANDSCAPE, and vice-versa;
+  //UsbongV2 -> UsbongV3?  
+  //TO-DO: -delete: excess instructions
   
 -->
 <?php
@@ -60,7 +63,7 @@
     <!-- Reference: Apache Friends Dashboard index.html -->
     <!-- "Always force latest IE rendering engine or request Chrome Frame" -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no"/>
 	
     <style type="text/css">
 	/**/
@@ -102,6 +105,7 @@
 							width: 50%;
 							*/	
 							width: 100%;
+							height: 100%;
 
 /*							padding-left: 5%;*/
 							
@@ -115,6 +119,12 @@
 							
 							text-align: justify;
 							text-justify: inter-word;							
+							-webkit-user-select: none; /* Safari */
+							-ms-user-select: none; /* IE 10 and IE 11 */
+							user-select: none; /* standard syntax */							
+							transform: scale(1.0);
+							/*touch-action: none;*/
+							overflow: auto;
                         }
                         	
 	                    div.mainTextDiv
@@ -166,9 +176,19 @@
 							  last accessed: 20220627							  
 							*/
 							max-width: 100%;
+							height: 100%;
+							  
 							position: relative;	
-							
 							padding: 2%;
+							
+							text-align: justify;
+							text-justify: inter-word;					
+							-webkit-user-select: none; /* Safari */
+							-ms-user-select: none; /* IE 10 and IE 11 */
+							user-select: none; /* standard syntax */							
+							transform: scale(1.0);
+							/*touch-action: none;*/
+							  overflow: auto;							
 						}
 									
 						div.formTitle
