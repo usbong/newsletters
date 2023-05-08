@@ -119,9 +119,9 @@
 							
 							text-align: justify;
 							text-justify: inter-word;							
-							-webkit-user-select: none; /* Safari */
-							-ms-user-select: none; /* IE 10 and IE 11 */
-							user-select: none; /* standard syntax */							
+							/*-webkit-user-select: none;*/ /* Safari */
+							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
+							/*user-select: none;*/ /* standard syntax */							
 							transform: scale(1.0);
 							/*touch-action: none;*/
 							overflow: auto;
@@ -183,9 +183,10 @@
 							
 							text-align: justify;
 							text-justify: inter-word;					
-							-webkit-user-select: none; /* Safari */
-							-ms-user-select: none; /* IE 10 and IE 11 */
-							user-select: none; /* standard syntax */							
+
+							/*-webkit-user-select: none;*/ /* Safari */
+							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
+							/*user-select: none;*/ /* standard syntax */	
 							transform: scale(1.0);
 							/*touch-action: none;*/
 							  overflow: auto;							
