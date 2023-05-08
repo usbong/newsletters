@@ -1,12 +1,15 @@
 <!--
   Copyright 2021~2023 SYSON, MICHAEL B. 
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
+  
   http://www.apache.org/licenses/LICENSE-2.0
+
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230507; from 20230505
+  @date updated: 20230508; from 20230507
   @website address: http://www.usbong.ph
   
   Input:
@@ -37,9 +40,11 @@
   //TO-DO: -update: newsletter pages system to be more organized    
   //TO-DO: -add: LINE NUMBERS?
   
-  //note: Android mobile telephone; portrait has excess horizontal scrolling;
-  //auto-set font-size to be smaller; AMAZON.COm; Kindle;
-  
+  //note: Android mobile telephone; PORTRAIT mode has excess horizontal scrolling;
+  //auto-set font-size to be smaller; AMAZON.COM; Kindle;
+  //verify width x height; 
+  //notes: self had read eBOOKS on Kindle, PORTRAIT mode
+  //TO-DO: -remove: excess touch screen movement on iPAD Table PC
   
 -->
 <?php
@@ -99,7 +104,9 @@
 							width: 100%;
 
 /*							padding-left: 5%;*/
+							
 							padding: 2%;
+							padding-top: 1%;
 							
 							/* //added by Mike, 20220628 
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
@@ -168,11 +175,14 @@
 						{
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 30pt; /*30pt*80%;*/
+							font-size: 28pt; /*30pt*80%;*/
 							color: rgb(0,0,0); /* black */
-							
+/*							
 							padding-right: 20px;
 							padding-top: 10px;
+*/							
+							padding-right: 2%;
+							padding-top: 1%;
 						}
 						
 						div.newsletterTitle
@@ -244,8 +254,8 @@
 							
 							float: left;
 							text-align: center;
-							padding-left: 20px;
-							padding-top: 10px;
+							padding-left: 2%;
+							padding-top: 1%;
 						}
 
 						img.Image-companyLogoMobile {
@@ -254,8 +264,8 @@
 							
 							float: left;
 							text-align: center;
-							padding-left: 20px;
-							padding-top: 10px;
+							padding-left: 2%;
+							padding-top: 1%;
 						}						
 
 						img.newsletterImage {
@@ -312,7 +322,7 @@
 						
 						table.imageTable
 						{
-							width: 90%;
+							width: 100%;
 						}						
 
 						table.bodyTable
@@ -520,14 +530,14 @@
 						
 						td.imageColumn
 						{
-							width: 45%;
-							display: inline-block;
+							width: 20%;
+							/*display: inline-block;*/
 						}						
 
 						td.pageNameColumn
 						{
 							width: 45%; /*40%;*/
-							display: inline-block;
+							/*display: inline-block;*/
 							text-align: right;
 						}				
 						
