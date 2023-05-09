@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230508; from 20230507
+  @date updated: 20230509; from 20230508
   @website address: http://www.usbong.ph
   
   Input:
@@ -318,6 +318,7 @@
 														
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
+							margin-top: 3%;/*5%;*/
 
 							border-left: 5px solid #ababab; /*#ab9c7d;*/
 							padding: 2px;					
@@ -587,6 +588,7 @@
 						}
 						
 						span.usbongNoteSpan {
+
 						}
 						
 						span.usbongTextSectionPart {
@@ -598,7 +600,7 @@
 						span.usbongTextReferencePart {
 							text-align: left;
 							color: rgb(50,50,50);
-							font-weight: bold;
+							font-weight: bold;							
 						}
 						
 						/* //added by Mike, 20220701 
@@ -673,7 +675,7 @@
 		  		  
 		  if ((myMenuNav.style.display==="none")) {// or (myMenuNav.style.display==null)) {
 			myMenuNav.style.display="block";
-		  }		  
+		  }		  20230507
 		  else if ((myMenuNav.style.display==="block")) {
 			myMenuNav.style.display="none";
 		  }
@@ -997,7 +999,9 @@ window.onclick = function(event) {
 			
 		$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
 		//$sYearDirectory=$sInputDirectory."2023/";
-		$filename="202305/asahiShimbun20230504.md";
+		//$filename="202305/asahiShimbun20230504.md";
+		$filename="202305/asahiShimbun20230508.md";
+
 		
 //		echo ">>>".$sYearDirectory."<br/>";
 
@@ -1072,9 +1076,8 @@ $iRowCount=0;
 
 while ($sToken !== false)
 {
-	
 	//echo "$sToken<br>";
-		
+			
 	//if (strpos($cellValue, "##")!==false) {
 	if ($iRowCount==0) {
 		//note: space after "##" 
@@ -1105,7 +1108,7 @@ while ($sToken !== false)
 	else if (substr($sToken,0,1)==">") {
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
-			echo "<br/>";
+//			echo "<br/>";
 		}	
 	
 		$sToken = str_replace(">","",$sToken);	
@@ -1114,7 +1117,7 @@ while ($sToken !== false)
 		echo "</blockquote>";
 	}
 	else if (strpos($sToken, "-->")!==false) {
-//		$sToken = str_replace("-->","",$sToken);	
+//		$sToken = str_replace("-->","",$sToken);
 		echo "<span class='usbongNoteSpan'>";
 		echo "$sToken<br/>";
 		echo "</span>";
@@ -1132,7 +1135,7 @@ while ($sToken !== false)
 		//echo "$sReferenceWebsiteTemp;<br/>";
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 		echo $sReferenceWebsiteTemp."</a>;<br/>";				
-		echo "$sLastAccessedTemp<br/><br/>";		
+		echo "$sLastAccessedTemp<br/><br/>";
 		echo "</span>";		
 	}	
 	else if (strpos($sToken, "##")!==false) {
@@ -1145,11 +1148,16 @@ while ($sToken !== false)
 		if (strpos($sPrevToken, "-->")!==false) {
 			echo "<br/>";
 		}
-	
-		echo "<p class='usbongTranslatedQuote'>";
-		//note: technique
-		echo "$sToken";
-		echo "</p>";
+
+		if (is_numeric($sToken[0])) { //1st character a number, notes; not "<"
+			echo "$sToken<br/>";
+		}	
+		else {
+			echo "<p class='usbongTranslatedQuote'>";
+			//note: technique
+			echo "$sToken";
+			echo "</p>";
+		}
 	}
 
 //	echo "<br/>";		
