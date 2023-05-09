@@ -350,6 +350,7 @@
 						table.bodyTable
 						{
 							width: 100%;/*90%;*/
+							height: auto;
 						}	
 						
 	                    td.mainTextTd
@@ -843,23 +844,12 @@ window.onclick = function(event) {
 				<b>BALITA</b>
 			</div>		
 		</td>
+	   </tr>
 	</table>
 	<br/>
 <!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
 -->
 
-<!-- right column -->
-<!--	
-	<td class="newsListAtRightPanelColumnTd">
-	<div class='newsListAtRightPanelDiv'>
-		1. Halimbawa <br/>
-		2. Halimbawa <br/>
-		3. Halimbawa <br/>
-	</div>
-	</td>
--->	
-	</tr></table>
-	
 
 <?php
 	//added by Mike, 20220305
@@ -1056,7 +1046,7 @@ window.onclick = function(event) {
 	}
 	else {
 */	
-		echo "<table class='bodyTable'><tr><td class='mainTextTd'>";
+		echo "<table class='bodyTable'><tr><td/* class='mainTextTd'*/>";
 		echo "<div class='mainTextDiv'>";
 /*
 	}
@@ -1167,6 +1157,7 @@ while ($sToken !== false)
 } 
 
 ?>	
+
 	</div>
 	</div>
 	</td>
