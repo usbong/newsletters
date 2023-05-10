@@ -747,7 +747,7 @@
 //				if (screen.orientation==0) { 
 				//OK
 				if (window.orientation==0) { //Android, iPAD; iOS
-		  			alert("detected: PORTRAIT mode");
+		  			//alert("detected: PORTRAIT mode");
 //		   			myBody.className='bodyPortraitMode';
 					//Android; not LENOVO Tablet PC
 //					if ((bIsMobile) && (!bIsUsingAppleWebKit)) {
