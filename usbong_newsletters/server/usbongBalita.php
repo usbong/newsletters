@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230509; from 20230508
+  @date updated: 20230510; from 20230509
   @website address: http://www.usbong.ph
   
   Input:
@@ -338,7 +338,7 @@
 */
 						div.textDoubleSpacedDiv {
 							line-height: 2;
-							font-size: 24pt; /*30pt*80%;*/						
+							font-size: 24pt; /*30pt*80%;*/				
 						}
 						
 						
@@ -660,54 +660,117 @@
 
   </head>
 	  <script>	  
-		//added by Mike, 20220701
-		function myFunction(x) {
+		//added by Mike, 20230510
+		bIsMobile = false;	  
+		bIsUsingAppleWebKit=false;
+		iAppleWebKitInnerWidthOffset=0;
+		bIsUsingAppleMac=false;
+	  		
+		function onLoad() {
 		  //alert ("HALLO");
-			
-		  //x.classList.toggle("change");
 
-		  //edited by Mike, 20220702
-		  //var myMenuNav = document.getElementById("myMenuNavId").style.display="block";		  
-		  
-		  var myMenuNav = document.getElementById("myMenuNavId");		  
-		  
-		  //alert(document.activeElement);		  		  
-	//	  alert(myMenuNav.style.display+"hallo"); 
-		  		  
-		  if ((myMenuNav.style.display==="none")) {// or (myMenuNav.style.display==null)) {
-			myMenuNav.style.display="block";
-		  }		  20230507
-		  else if ((myMenuNav.style.display==="block")) {
-			myMenuNav.style.display="none";
-		  }
-		  else { //captures empty value @START
-			myMenuNav.style.display="block";
-		  }
-		} 	  
+			//added by Mike, 20230510
+			if (/Mobile|Android|webOS|iPhone|iPad|iPod|AppleWebKit|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
 		
-/*		
-		//TO-DO: -reverify: this 
-		//https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
-		//last accessed: 20220702
+		//		alert("detected: Mobile Browser!");
+				
+				//added by Mike, 20220925
+				bIsMobile=true;
+				
+				//added by Mike, 20221108
+				if (navigator.userAgent.includes("AppleWebKit")) {
+					bIsUsingAppleWebKit=true;
+					bIsUsingAppleMac=false; //default
+					
+	//				alert("dito");
+				}
+				
+				//added by Mike, 20221113
+				//notes: "AppleWebKit" to exist even with "Android"
+				if (navigator.userAgent.includes("Android")) {
+					bIsUsingAppleWebKit=false;
+				}		
+		
+				//added by Mike, 20221113
+				//example: Linux x86_64 (desktop)
+				if (navigator.userAgent.includes("Linux x")) {		
+					bIsMobile=false;
+				}		
+		
+				//note: iPAD and MacBookPro OS : Mac OS X
+				//adds: to be re-classified as iPAD via TOUCH command
+				if ((navigator.userAgent.includes("Macintosh")) || navigator.userAgent.includes("Mac")) {
+					bIsUsingAppleMac=true;
+				}		
+				
+				//added by Mike, 20230111
+				//note: TO-DO: -add: touch/mouse click ACTION COMMANDS
+				//if using EDGE browser;
+				//observed: shaking on EDGE browser via desktop,
+				//caused by bIsMobile=true;
+				if (navigator.userAgent.includes("Edg")) {
+					bIsMobile=false;			
+				}	
+				
+				//added by Mike, 20230510
+				if (bIsMobile) {
+					usbongBlockquoteList = document.getElementsByClassName("usbongBlockquote");
+					textDoubleSpacedDivList = document.getElementsByClassName("textDoubleSpacedDiv");
 
-		//TO-DO: -reverify: this 		
-		//https://www.w3schools.com/howto/howto_js_dropdown.asp;
-		//last accessed: 20220702
+					for (var i = 0; i < usbongBlockquoteList.length; i++) {
+  						var element = usbongBlockquoteList[i];
+  						element.style.fontSize = "26px";
+					}
+					
+					for (var i = 0; i < textDoubleSpacedDivList.length; i++) {
+  						var element = textDoubleSpacedDivList[i];
+  						element.style.fontSize = "26px";
+					}
+				}
+			}			  
+		  
+		  	//reference: https://stackoverflow.com/questions/4917664/detect-viewport-orientation-if-orientation-is-portrait-display-alert-message-ad; last accessed: 20220910
+			//answer by: Jatin, 20120731T0711;
+			//edited by Tisho, 20120731T0730
+			//add: listener to detect orientation change
+			window.addEventListener("orientationchange", function() {
+	  		//orientation number (in degrees) : 90 and -90 for landscape; 0 for portrait
+	  		//edited by Mike, 20220911
+	  		//alert(window.orientation);
+					
+				//added by Mike, 20220910; edited by Mike, 20220911	
+				var myBody = document.getElementById("myBodyId");
 		
-// Close the dropdown menu if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.myMenuNav')) {
-    var dropdowns = document.getElementsByClassName("myMenuNav");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('myMenuNav')) {
-        openDropdown.classList.remove('myMenuNav');
-      }
-    }
-  }
-} 
-*/
+				//reference: https://stackoverflow.com/questions/4917664/detect-viewport-orientation-if-orientation-is-portrait-display-alert-message-ad; last accessed: 20220910
+				//answer by: crmpicco, 20130515T1414;
+				//edited by: posit labs, 20150929T1708	
+//				if (screen.orientation==0) { 
+				//OK
+				if (window.orientation==0) { //Android, iPAD; iOS
+		  			alert("detected: PORTRAIT mode");
+//		   			myBody.className='bodyPortraitMode';
+					//Android; not LENOVO Tablet PC
+//					if ((bIsMobile) && (!bIsUsingAppleWebKit)) {
+					if (bIsMobile) {
+						//alert("width" + screen.width); //320
+						//alert("height" + screen.height); //533			
+						//TO-DO: -update: font size
+					}
+				}
+				else {//if (window.matchMedia("(orientation: landscape)").matches) {
+		   			//alert("detected: LANDSCAPE mode");	   	   
+//		   			myBody.className='bodyLandscapeMode';
+					//Android; not LENOVO Tablet PC
+//					if ((bIsMobile) && (!bIsUsingAppleWebKit)) {
+					if (bIsMobile) {
+						//alert("width" + screen.width); //320
+						//alert("height" + screen.height); //320; cause?
+						//TO-DO: -update: font size
+					}
+				}			  
+		
+			}, false);
+		}
 	  </script>
 
 <?php
@@ -716,16 +779,16 @@ window.onclick = function(event) {
 	//last accessed: 20220628
 	function isMobile() {
 //		echo "CLIENT USER DETAILS: " . $_SERVER["HTTP_USER_AGENT"];
-		
+				
 		return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 	}
 	
 
 	if (isMobile()) {		
-		echo "<body class='mobileBody'>";
+		echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
 	}
 	else {
-		echo "<body>";
+		echo "<body id='myBodyId' onload='onLoad()'>";
 	}
 	
 
