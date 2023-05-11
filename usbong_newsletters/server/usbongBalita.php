@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230510; from 20230509
+  @date updated: 20230511; from 20230510
   @website address: http://www.usbong.ph
   
   Input:
@@ -1053,16 +1053,41 @@
 		$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
 		//$sYearDirectory=$sInputDirectory."2023/";
 		//$filename="202305/asahiShimbun20230504.md";
-		$filename="202305/asahiShimbun20230508.md";
-
-		
+//		$filename="202305/asahiShimbun20230508.md";
+		$filename="202305/asahiShimbun20230511.md";
+								
 //		echo ">>>".$sYearDirectory."<br/>";
-
 
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
 
+		//edited by Mike, 20230511
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+
+		$sDayCount=0;
+
+		//added by Mike, 20230511
+		while (!file_exists($completeFilename)) {			
+			if ($sDayCount>=10) {
+				//set a default news
+				$filename="202305/asahiShimbun20230508.md";
+				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;				
+				break;
+			}
+			
+			$sDayCount++;
+
+//			$dateTodayTemp = Date('Y-m-d');
+			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$sDayCount.'days'));
+
+			//echo $dateTodayTemp;
+
+			$dateTodayTemp=str_replace('-','',$dateTodayTemp); 
+			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
+
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+		}
+
 		
 //	echo ">>> ".$completeFilename."<br/><br/>";
 		
