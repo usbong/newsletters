@@ -198,10 +198,18 @@
 /*							font-weight: bold;*/	
 							font-size: 28pt; /*30pt*80%;*/
 							color: rgb(0,0,0); /* black */
-/*							
-							padding-right: 20px;
-							padding-top: 10px;
-*/							
+					
+							padding-right: 2%;
+							padding-top: 1%;
+						}
+						
+						div.formTitleMobile
+						{
+							text-align: right;
+/*							font-weight: bold;*/	
+							font-size: 15pt; 
+							color: rgb(0,0,0); /* black */
+					
 							padding-right: 2%;
 							padding-top: 1%;
 						}
@@ -713,18 +721,28 @@
 				}	
 				
 				//added by Mike, 20230510
+				//mobile telephone; not tablet pc
 				if (bIsMobile) {
 					usbongBlockquoteList = document.getElementsByClassName("usbongBlockquote");
 					textDoubleSpacedDivList = document.getElementsByClassName("textDoubleSpacedDiv");
+					//added by Mike, 20230511
+					formTitleList = document.getElementsByClassName("formTitle");
 
+					//edited by Mike, 20230511
+					//reference: https://www.w3schools.com/tags/ref_pxtoemconversion.asp; last accessed: 20230511
 					for (var i = 0; i < usbongBlockquoteList.length; i++) {
   						var element = usbongBlockquoteList[i];
-  						element.style.fontSize = "26px";
+  						element.style.fontSize = "1em";//"26px";
 					}
 					
 					for (var i = 0; i < textDoubleSpacedDivList.length; i++) {
   						var element = textDoubleSpacedDivList[i];
-  						element.style.fontSize = "26px";
+  						element.style.fontSize = "1.8em";//"26px";
+					}
+					
+					for (var i = 0; i < formTitleList.length; i++) {
+  						var element = formTitleList[i];
+  						element.style.fontSize = "1.25em";//"18px";
 					}
 				}
 			}			  
@@ -903,16 +921,30 @@
 		</a>	
 		</td>	
 		<td class="pageNameColumn">
-			<div class="formTitle">
-				<b>BALITA</b>
+		<div class='formTitle'>
+<?php 
+/*
+	if (isMobile()) {	
+			echo "<div class='formTitleMobile'>";
+	}
+	else {
+			echo "<div class='formTitle'>";
+	}
+*/	
+?>			
+			
+				<b>BALITA</b><br/>
+				<?php
+					//$dateToday="2023-05-08";
+					$dateTodayDay = strtoupper(date('D', strtotime($dateToday)));
+					//echo $dateToday;
+					echo "$dateTodayDay | ".$dateToday;
+				?>
 			</div>		
 		</td>
 	   </tr>
 	</table>
 	<br/>
-<!--	<b>DATE:</b><?php echo " ".$dateToday; ?>
--->
-
 
 <?php
 	//added by Mike, 20220305
