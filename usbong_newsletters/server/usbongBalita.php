@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230511; from 20230510
+  @date updated: 20230512; from 20230511
   @website address: http://www.usbong.ph
   
   Input:
@@ -1240,7 +1240,7 @@ while ($sToken !== false)
 		$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);	
 	
 		echo "<span class='usbongTextReferencePart'>";
-		echo "Reference:<br/>";
+		echo "<br/>Reference:<br/>";
 		//echo "$sToken<br/><br/>";
 		//echo "$sReferenceWebsiteTemp;<br/>";
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
