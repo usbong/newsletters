@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230512; from 20230511
+  @date updated: 20230513; from 20230512
   @website address: http://www.usbong.ph
   
   Input:
@@ -1233,20 +1233,26 @@ while ($sToken !== false)
 		echo "</span>";
 	}
 	else if (strpos(strtolower($sToken), "reference")!==false) {
-		$sToken = str_replace("#", "", $sToken);
 
-		$sToken = str_replace("Reference:", "", $sToken);
-		$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));	
-		$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);	
-	
-		echo "<span class='usbongTextReferencePart'>";
-		echo "<br/>Reference:<br/>";
-		//echo "$sToken<br/><br/>";
-		//echo "$sReferenceWebsiteTemp;<br/>";
-		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-		echo $sReferenceWebsiteTemp."</a>;<br/>";				
-		echo "$sLastAccessedTemp<br/><br/>";
-		echo "</span>";		
+		if (strpos(strtolower($sToken), "####")!==false) {
+			$sToken = str_replace("#", "", $sToken);
+
+			$sToken = str_replace("Reference:", "", $sToken);
+			$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));	
+			$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);	
+		
+			echo "<span class='usbongTextReferencePart'>";
+			echo "<br/>Reference:<br/>";
+			//echo "$sToken<br/><br/>";
+			//echo "$sReferenceWebsiteTemp;<br/>";
+			echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+			echo $sReferenceWebsiteTemp."</a>;<br/>";				
+			echo "$sLastAccessedTemp<br/><br/>";
+			echo "</span>";		
+		}
+		else {
+			echo "<b>REFERENCE</b><br/>";			
+		}
 	}	
 	else if (strpos($sToken, "##")!==false) {
 		echo "<span class='usbongTextSectionPart'>";
