@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230513; from 20230512
+  @date updated: 20230515; from 20230513
   @website address: http://www.usbong.ph
   
   Input:
@@ -1086,8 +1086,13 @@
 		//$sYearDirectory=$sInputDirectory."2023/";
 		//$filename="202305/asahiShimbun20230504.md";
 //		$filename="202305/asahiShimbun20230508.md";
-		$filename="202305/asahiShimbun20230511.md";
-								
+		//edited by Mike, 20230515
+//		$filename="202305/asahiShimbun20230511.md";	
+//		$filename="";
+		//note: "99";
+//		$filename="202305/asahiShimbun20230599.md";	
+		$filename="202305/blank.md";	
+	
 //		echo ">>>".$sYearDirectory."<br/>";
 
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
@@ -1107,17 +1112,21 @@
 				break;
 			}
 			
-			$sDayCount++;
+			//edited by Mike, 20230515
+//			$sDayCount++;
 
 //			$dateTodayTemp = Date('Y-m-d');
 			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$sDayCount.'days'));
 
-			//echo $dateTodayTemp;
+//			echo $dateTodayTemp;
 
 			$dateTodayTemp=str_replace('-','',$dateTodayTemp); 
 			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
 
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+
+			//edited by Mike, 20230515
+			$sDayCount++;
 		}
 
 		
@@ -1266,6 +1275,11 @@ while ($sToken !== false)
 		}
 
 		if (is_numeric($sToken[0])) { //1st character a number, notes; not "<"
+			//echo "dito: ".$sToken[0]."<br/>";
+			if (is_numeric($sPrevToken[0])) {
+			  echo "<br/>";
+			}
+			
 			echo "$sToken<br/>";
 		}	
 		else {
