@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230515; from 20230513
+  @date updated: 20230518; from 20230515
   @website address: http://www.usbong.ph
   
   Input:
@@ -1241,15 +1241,25 @@ while ($sToken !== false)
 		echo "$sToken<br/>";
 		echo "</span>";
 	}
-	else if (strpos(strtolower($sToken), "reference")!==false) {
-
+	else if (strpos(strtolower($sToken), "reference")!==false) {		
+		//added by Mike, 20230518
+		if (is_numeric($sPrevToken[0])) {
+			echo "<br/>";
+		}
+			
+		//noted by Mike, 20230518; "###" also exists for references
 		if (strpos(strtolower($sToken), "####")!==false) {
 			$sToken = str_replace("#", "", $sToken);
 
 			$sToken = str_replace("Reference:", "", $sToken);
 			$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));	
 			$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);	
-		
+
+			//added by Mike, 20230518
+			if (is_numeric($sPrevToken[0])) {
+				echo "<br/>";
+			}
+			
 			echo "<span class='usbongTextReferencePart'>";
 			echo "<br/>Reference:<br/>";
 			//echo "$sToken<br/><br/>";
@@ -1262,7 +1272,13 @@ while ($sToken !== false)
 		else {
 			echo "<b>REFERENCE</b><br/>";			
 		}
-	}	
+	}		
+	//added by Mike, 20230518
+	else if (strpos($sToken, "### SELECT WORDS")!==false) {
+		echo "<span class='usbongTextSectionPart'>";
+		echo "<br/>$sToken<br/>";
+		echo "</span>";
+	}
 	else if (strpos($sToken, "##")!==false) {
 		echo "<span class='usbongTextSectionPart'>";
 		echo "$sToken<br/>";
@@ -1273,7 +1289,7 @@ while ($sToken !== false)
 		if (strpos($sPrevToken, "-->")!==false) {
 			echo "<br/>";
 		}
-
+		
 		if (is_numeric($sToken[0])) { //1st character a number, notes; not "<"
 			//echo "dito: ".$sToken[0]."<br/>";
 			if (is_numeric($sPrevToken[0])) {
