@@ -1286,6 +1286,22 @@ while ($sToken !== false)
 		echo "$sToken<br/>";
 		echo "</span>";
 	}
+	//added by Mike, 20230518
+	else if (strpos($sToken, "http")!==false) {
+/*
+		echo "<span class='usbongNoteSpan'>";
+		echo "$sToken<br/>";
+		echo "</span>";
+*/
+//		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken," "),strpos($sToken,";")-2);	
+		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
+
+		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp)); 
+
+		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+		echo $sReferenceWebsiteTemp."</a><br/>";				
+
+	}
 	else {
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
