@@ -1274,7 +1274,9 @@ while ($sToken !== false)
 		}
 	}		
 	//added by Mike, 20230518
-	else if (strpos($sToken, "### SELECT WORDS")!==false) {
+	//else if (strpos($sToken, "### SELECT WORDS")!==false) {
+	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
+		(strpos($sToken, "### SELECT PARTS")!==false)) {
 		echo "<span class='usbongTextSectionPart'>";
 		echo "<br/>$sToken<br/>";
 		echo "</span>";
