@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230518; from 20230515
+  @date updated: 20230519; from 20230518
   @website address: http://www.usbong.ph
   
   Input:
@@ -1270,7 +1270,9 @@ while ($sToken !== false)
 			echo "</span>";		
 		}
 		else {
-			echo "<b>REFERENCE</b><br/>";			
+			//edited by Mike, 20230519
+			//echo "<b>REFERENCE</b><br/>";			
+			echo "<b>### REFERENCE</b><br/>";
 		}
 	}		
 	//added by Mike, 20230518
