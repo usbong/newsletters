@@ -1111,6 +1111,11 @@
 				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;				
 				break;
 			}
+/*			
+			else {
+				echo ">>>".$sDayCount;
+			}
+*/
 			
 			//edited by Mike, 20230515
 //			$sDayCount++;
@@ -1121,12 +1126,47 @@
 //			echo $dateTodayTemp;
 
 			$dateTodayTemp=str_replace('-','',$dateTodayTemp); 
-			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
+			//edited by Mike, 20230519
+//			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
+			$filename="202305/asahiShimbun".$dateTodayTemp;
 
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+			if ($sReportForTheDayCount>0) {
+/*			
+			echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
+			echo "sReportForTheDayCount: ".$sReportForTheDayCount."<br/>";
+*/						
+				$filename=$filename."-".$sReportForTheDayCount;
+			}
+
+//			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
 
 			//edited by Mike, 20230515
-			$sDayCount++;
+			//$sDayCount++;
+			if ($sReportForTheDayCount<10) { //max reports count for same day
+				$sReportForTheDayCount++;
+			}
+			else {
+//				echo ">>>>>>>>>>>>>>>>>>>>".Date('Y-m-d')."<br/>";
+			
+				$iDistanceBetweenDateTodayAndCurrNews=0;
+
+				$currNewsDate=$dateTodayTemp; 				
+				$dateTodayTemp=str_replace('-','',Date('Y-m-d')); 
+/*			
+				echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
+				echo "currNewsDate: ".$currNewsDate."<br/>";
+*/			
+				$iDistanceBetweenDateTodayAndCurrNews=intval($dateTodayTemp)-intval($currNewsDate);
+
+/*				
+				echo "iDistanceBetweenDateTodayAndCurrNews: ".$iDistanceBetweenDateTodayAndCurrNews."<br/>";
+*/			
+			
+				//TO-DO: -verify: this
+				$sReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
+				$sDayCount++;
+			}
 		}
 
 		
