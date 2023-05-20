@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230519; from 20230518
+  @date updated: 20230520; from 20230519
   @website address: http://www.usbong.ph
   
   Input:
@@ -1117,9 +1117,6 @@
 			}
 */
 			
-			//edited by Mike, 20230515
-//			$sDayCount++;
-
 //			$dateTodayTemp = Date('Y-m-d');
 			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$sDayCount.'days'));
 
@@ -1130,6 +1127,37 @@
 //			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
 			$filename="202305/asahiShimbun".$dateTodayTemp;
 
+/*	//removed by Mike, 20230520
+//			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
+*/
+
+			//TO-DO: -verify: this;
+			//TO-DO: -add: instructions so can already put news articles for the day in storage
+			//----------
+//				echo ">>>>>>>>>>>>>>>>>>>>".Date('Y-m-d')."<br/>";
+			
+				$iDistanceBetweenDateTodayAndCurrNews=0;
+
+				$currNewsDate=$dateTodayTemp; 				
+				$dateTodayTemp=str_replace('-','',Date('Y-m-d')); 
+			
+////				echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
+////				echo "currNewsDate: ".$currNewsDate."<br/>";
+			
+				$iDistanceBetweenDateTodayAndCurrNews=intval($dateTodayTemp)-intval($currNewsDate);
+				
+////				echo "iDistanceBetweenDateTodayAndCurrNews: ".$iDistanceBetweenDateTodayAndCurrNews."<br/>";
+						
+				//TO-DO: -verify: this
+				$sReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
+				
+////				echo ">>>>>>>>>>>>>>>$sReportForTheDayCount.<br/>";				
+				
+				$sDayCount++;
+			//----------
+
+
 			if ($sReportForTheDayCount>0) {
 /*			
 			echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
@@ -1137,36 +1165,10 @@
 */						
 				$filename=$filename."-".$sReportForTheDayCount;
 			}
-
-//			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+			
+			//added by Mike, 20230520
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
 
-			//edited by Mike, 20230515
-			//$sDayCount++;
-			if ($sReportForTheDayCount<10) { //max reports count for same day
-				$sReportForTheDayCount++;
-			}
-			else {
-//				echo ">>>>>>>>>>>>>>>>>>>>".Date('Y-m-d')."<br/>";
-			
-				$iDistanceBetweenDateTodayAndCurrNews=0;
-
-				$currNewsDate=$dateTodayTemp; 				
-				$dateTodayTemp=str_replace('-','',Date('Y-m-d')); 
-/*			
-				echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
-				echo "currNewsDate: ".$currNewsDate."<br/>";
-*/			
-				$iDistanceBetweenDateTodayAndCurrNews=intval($dateTodayTemp)-intval($currNewsDate);
-
-/*				
-				echo "iDistanceBetweenDateTodayAndCurrNews: ".$iDistanceBetweenDateTodayAndCurrNews."<br/>";
-*/			
-			
-				//TO-DO: -verify: this
-				$sReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
-				$sDayCount++;
-			}
 		}
 
 		
