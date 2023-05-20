@@ -1249,16 +1249,22 @@ while ($sToken !== false)
 //		$sReferenceWebsite=substr($sToken,0,strpos($sToken,";"));	
 		//added: "..." if $sReferenceWebsite + $sLastAccessed,
 		//shall exceed one row
-
+/*
+echo ">>>>>>".strpos($sToken,"http")."<br/>";
+echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
+*/
 		$sReferenceWebsite=substr($sToken,0,25)."... ";	
-
+		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
+				strpos($sToken,";")-strpos($sToken,"http"));	
 		$sLastAccessed=substr($sToken,strpos($sToken,";"));
 
 		//echo strpos($cellValue,"<br/>");
 				
 		echo "<h3>";
 //		echo "## <a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
-		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
+		//edited by Mike, 20230520
+//		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
+		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
 		echo $sReferenceWebsite."</a>";
 		echo "<b>".$sLastAccessed."</b>";		
 		//echo $sLastAccessed;
