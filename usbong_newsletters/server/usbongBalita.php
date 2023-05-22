@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230522; from 20230520
+  @date updated: 20230523; from 20230522
   @website address: http://www.usbong.ph
   
   Input:
@@ -1105,7 +1105,13 @@
 
 		//added by Mike, 20230511
 		while (!file_exists($completeFilename)) {			
-			if ($sDayCount>=10) {
+			//edited by Mike, 20230523
+			//if ($sDayCount>=10) {
+			//each day has max 10 news articles
+			if ($sDayCount>=100) {
+				
+				echo ">>>>>>"$sDayCount;
+				
 				//set a default news
 				$filename="202305/asahiShimbun20230508.md";
 				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;				
@@ -1229,6 +1235,9 @@
 //	$cellValue = str_replace("\n", "<br/>", $cellValue);
 
 //	echo ">>>>".$cellValue."<br/>";
+
+//added by Mike, 20230523
+$cellValue = str_replace("\*", "*", $cellValue);
 	
 //$sToken = strtok($cellValue, "<br/>");
 $sToken = strtok($cellValue, "\n");
@@ -1349,6 +1358,11 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		echo "$sToken<br/>";
 		echo "</span>";
 */
+
+		if (is_numeric($sToken[0])) { //1st character a number
+			echo "<br/>";
+		}
+
 //		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken," "),strpos($sToken,";")-2);	
 		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
 
