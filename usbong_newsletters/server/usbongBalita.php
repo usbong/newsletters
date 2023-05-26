@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230526; from 20230520
+  @date updated: 20230527; from 20230526
   @website address: http://www.usbong.ph
   
   Input:
@@ -1123,7 +1123,7 @@
 //			$dateTodayTemp = Date('Y-m-d');
 			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$sDayCount.'days'));
 
-			echo $dateTodayTemp."<br/>";
+//			echo $dateTodayTemp."<br/>";
 
 			$dateTodayTemp=str_replace('-','',$dateTodayTemp); 
 			//edited by Mike, 20230519
@@ -1132,14 +1132,16 @@
 			//edited by Mike, 20230526
 //			$filename="202305/asahiShimbun".$dateTodayTemp;
 
-			//echo ">>".dirname(__DIR__);
-			//LINUX machine
-			if (strpos(dirname(__DIR__), ":\"")!==false) {
-				$filename="202305/asahiShimbun".$dateTodayTemp;
-			}
+			//edited by Mike, 20230527
+//			echo ">>".dirname(__DIR__);
+
 			//WINDOWS machine
-			else {
+			if (strpos(dirname(__DIR__), ":\"")!==false) {
 				$filename="202305\asahiShimbun".$dateTodayTemp;
+			}
+			//LINUX machine			
+			else {
+				$filename="202305/asahiShimbun".$dateTodayTemp;
 			}
 			
 
@@ -1202,7 +1204,7 @@
 //					$filename=$filename."-".(($sReportForTheDayCount-$sReportForTheDayCountTemp)%5);
 				}
 				
-				echo "filename: ".$filename."<br/>";
+//				echo "filename: ".$filename."<br/>";
 
 				$sReportForTheDayCount++;
 			}
@@ -1218,7 +1220,7 @@
 		}
 
 		
-	echo ">>> ".$completeFilename."<br/><br/>";
+//	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {			
