@@ -1,4 +1,4 @@
-<!--
+﻿<!--
   Copyright 2021~2023 SYSON, MICHAEL B. 
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   
@@ -1095,6 +1095,9 @@
 	
 //		echo ">>>".$sYearDirectory."<br/>";
 
+		//added by Mike, 20230526
+		$sReportForTheDayCount=0;
+
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
 
@@ -1104,7 +1107,7 @@
 		$sDayCount=0;
 
 		//added by Mike, 20230511
-		while (!file_exists($completeFilename)) {			
+		while (!file_exists($completeFilename)) {
 			if ($sDayCount>=10) {
 				//set a default news
 				$filename="202305/asahiShimbun20230508.md";
@@ -1120,12 +1123,25 @@
 //			$dateTodayTemp = Date('Y-m-d');
 			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$sDayCount.'days'));
 
-//			echo $dateTodayTemp;
+			echo $dateTodayTemp."<br/>";
 
 			$dateTodayTemp=str_replace('-','',$dateTodayTemp); 
 			//edited by Mike, 20230519
 //			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
-			$filename="202305/asahiShimbun".$dateTodayTemp;
+
+			//edited by Mike, 20230526
+//			$filename="202305/asahiShimbun".$dateTodayTemp;
+
+			//echo ">>".dirname(__DIR__);
+			//LINUX machine
+			if (strpos(dirname(__DIR__), ":\"")!==false) {
+				$filename="202305/asahiShimbun".$dateTodayTemp;
+			}
+			//WINDOWS machine
+			else {
+				$filename="202305\asahiShimbun".$dateTodayTemp;
+			}
+			
 
 /*	//removed by Mike, 20230520
 //			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
@@ -1150,20 +1166,50 @@
 ////				echo "iDistanceBetweenDateTodayAndCurrNews: ".$iDistanceBetweenDateTodayAndCurrNews."<br/>";
 						
 				//TO-DO: -verify: this
-				$sReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
+				//edited by Mike, 20230526
+//				$sReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
+				$sReportForTheDayCountTemp=$iDistanceBetweenDateTodayAndCurrNews;//0;
+
 				
 ////				echo ">>>>>>>>>>>>>>>$sReportForTheDayCount.<br/>";				
-				
-				$sDayCount++;
+
+//				echo ">>>>>>>>>>>>>>>$sReportForTheDayCountTemp.<br/>";				
+
+				//removed by Mike, 20230526
+//				$sDayCount++;
 			//----------
 
+//			if ($sReportForTheDayCount>0) {
+//			if (($sReportForTheDayCount>0) && ($sReportForTheDayCount<5)){
 
-			if ($sReportForTheDayCount>0) {
-/*			
+			if ($sReportForTheDayCount<5){
+
+			/*			
 			echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
 			echo "sReportForTheDayCount: ".$sReportForTheDayCount."<br/>";
-*/						
-				$filename=$filename."-".$sReportForTheDayCount;
+*/				
+				//added by Mike, 20230526
+				//TO-DO: -update: this to be based on distance from current date
+				
+				if ($sReportForTheDayCount>0) {		
+//					$sReportForTheDayCountTempTwo=$sReportForTheDayCountTemp%5;
+					
+					//edited by Mike, 20230526
+					$filename=$filename."-".$sReportForTheDayCount;
+//					$filename=$filename."-".$sReportForTheDayCountTemp;
+//					$filename=$filename."-".$sReportForTheDayCountTempTwo;
+
+//					$filename=$filename."-".(($sReportForTheDayCount-$sReportForTheDayCountTemp)%5);
+				}
+				
+				echo "filename: ".$filename."<br/>";
+
+				$sReportForTheDayCount++;
+			}
+			else {
+				//added by Mike, 20230526
+				$sReportForTheDayCount=0;
+				$sDayCount++;
 			}
 			
 			//added by Mike, 20230520
@@ -1172,7 +1218,7 @@
 		}
 
 		
-//	echo ">>> ".$completeFilename."<br/><br/>";
+	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {			
