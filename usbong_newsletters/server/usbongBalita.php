@@ -1,4 +1,4 @@
-﻿<!--
+﻿﻿<!--
   Copyright 2021~2023 SYSON, MICHAEL B. 
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   
@@ -1096,19 +1096,24 @@
 //		echo ">>>".$sYearDirectory."<br/>";
 
 		//added by Mike, 20230526
-		$sReportForTheDayCount=0;
-
+		$iReportForTheDayCount=0;
+		
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
 
 		//edited by Mike, 20230511
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
 
-		$sDayCount=0;
+		$iDayCount=0;
+
+		//added by Mike, 20230527
+		$iTotalDayCountWithMultiReportsForTheDay=0;
 
 		//added by Mike, 20230511
 		while (!file_exists($completeFilename)) {
-			if ($sDayCount>=10) {
+			//edited by Mike, 20230527
+			if ($iDayCount>=10) {
+//			if ($iDayCount>=10*5) { //each day can have 5 news reports	
 				//set a default news
 				$filename="202305/asahiShimbun20230508.md";
 				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;				
@@ -1116,12 +1121,12 @@
 			}
 /*			
 			else {
-				echo ">>>".$sDayCount;
+				echo ">>>".$iDayCount;
 			}
 */
 			
 //			$dateTodayTemp = Date('Y-m-d');
-			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$sDayCount.'days'));
+			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
 
 //			echo $dateTodayTemp."<br/>";
 
@@ -1169,57 +1174,76 @@
 						
 				//TO-DO: -verify: this
 				//edited by Mike, 20230526
-//				$sReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
-				$sReportForTheDayCountTemp=$iDistanceBetweenDateTodayAndCurrNews;//0;
+//				$iReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
+				$iReportForTheDayCountTemp=$iDistanceBetweenDateTodayAndCurrNews;//0;
 
 				
-////				echo ">>>>>>>>>>>>>>>$sReportForTheDayCount.<br/>";				
+////				echo ">>>>>>>>>>>>>>>$iReportForTheDayCount.<br/>";				
 
-//				echo ">>>>>>>>>>>>>>>$sReportForTheDayCountTemp.<br/>";				
+//				echo ">>>>>>>>>>>>>>>$iReportForTheDayCountTemp.<br/>";				
 
 				//removed by Mike, 20230526
-//				$sDayCount++;
+//				$iDayCount++;
 			//----------
 
-//			if ($sReportForTheDayCount>0) {
-//			if (($sReportForTheDayCount>0) && ($sReportForTheDayCount<5)){
-
-			if ($sReportForTheDayCount<5){
-
+//			if ($iReportForTheDayCount>0) {
+//			if (($iReportForTheDayCount>0) && ($iReportForTheDayCount<5)){
+			//edited by Mike, 20230527
+//			if ($iReportForTheDayCount<5){
+			if ($iReportForTheDayCount<=5){
 			/*			
 			echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
-			echo "sReportForTheDayCount: ".$sReportForTheDayCount."<br/>";
+			echo "sReportForTheDayCount: ".$iReportForTheDayCount."<br/>";
 */				
 				//added by Mike, 20230526
 				//TO-DO: -update: this to be based on distance from current date
 				
-				if ($sReportForTheDayCount>0) {		
-//					$sReportForTheDayCountTempTwo=$sReportForTheDayCountTemp%5;
-					
+				//edited by Mike, 20230527
+				if ($iReportForTheDayCount>1) {		
+//					$iReportForTheDayCountTempTwo=$iReportForTheDayCountTemp%5;
+										
 					//edited by Mike, 20230526
-					$filename=$filename."-".$sReportForTheDayCount;
-//					$filename=$filename."-".$sReportForTheDayCountTemp;
-//					$filename=$filename."-".$sReportForTheDayCountTempTwo;
+					$filename=$filename."-".$iReportForTheDayCount;
+//					$filename=$filename."-".$iReportForTheDayCountTemp;
+//					$filename=$filename."-".$iReportForTheDayCountTempTwo;
 
-//					$filename=$filename."-".(($sReportForTheDayCount-$sReportForTheDayCountTemp)%5);
+//					$filename=$filename."-".(($iReportForTheDayCount-$iReportForTheDayCountTemp)%5);
 				}
-				
-//				echo "filename: ".$filename."<br/>";
 
-				$sReportForTheDayCount++;
+				//edited by Mike, 20230527
+/*				
+				//echo "filename: ".$filename."<br/>";
+				if ($iReportForTheDayCount!=0) {						
+					echo "filename: ".$filename."<br/>";
+				}
+*/
+				
+				$iReportForTheDayCount++;
 			}
 			else {
 				//added by Mike, 20230526
-				$sReportForTheDayCount=0;
-				$sDayCount++;
+				$iReportForTheDayCount=0;
+				$iDayCount++;
 			}
 			
 			//added by Mike, 20230520
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
-
+			
+//			$iTotalDayCountWithMultiReportsForTheDay++;			
 		}
 
+	//added by Mike, 20230527
+//	echo ">>".$iTotalDayCountWithMultiReportsForTheDay."<br/>";
 		
+//	echo $iDayCount;
+/*
+	echo ($iReportForTheDayCount-1);		
+	echo ">>".($iReportForTheDayCount*$iDayCount)."<br/>";
+*/
+	//4 is max per day
+//	echo ($iDayCount)*4 + ($iReportForTheDayCount-1);
+//	$iTotalDayCountWithMultiReportsForTheDay($iDayCount)*4 + ($iReportForTheDayCount-1);
+
 //	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
