@@ -25,7 +25,7 @@ The separation in the first step of the rocket was likely executed correctly as 
 ### USBONG NOTES
 
 1) Select Koreans explain that the ROCKET LAUNCHING NOISE is due to HUNGER;<br/>
---> observed: in addition, favoring the U.S.A. system,<br/>
+--> observed: in addition, favoring of the U.S.A. system,<br/>
 --> where: MONEY causes ACTION;<br/>
 --> reminder: however, MONEY#1 causes SMUGGLER/TERRORIST group,<br/>
 --> based on: PHILIPPINE context,<br/>
