@@ -16,7 +16,7 @@ Reporter @SEOUL; OHTA, Narumi
 
 > 北朝鮮は、技術的欠陥があったことを自ら明らかにしています。エンジンや燃料の問題を並べていますが、今回失敗した要因の可能性があるものを羅列しているだけです。原因を特定し、問題を解決するには時間がかかるでしょう。
 
-Northern Korea is making clear herself that it had technological deficiencies. While the problems of ENGINE, FUEL are among these, this time, the possible reasons for the failure only needs to be listed. Specifying the reasons, solving the problems, however, shall likely take time.
+Northern Korea is making clear herself that she had technological deficiencies. While the problems of ENGINE, FUEL are among these, this time, the possible reasons for the failure only needs to be listed. Specifying the reasons, solving the problems, however, shall likely take time.
 
 > ロケットの1段目の分離は正常に行われたのでしょう。しかし、2段目の推進に必要なエンジンへの着火ができなかったり、着火のタイミングが遅れて推進力を失ったりした可能性も考えられます。
 
