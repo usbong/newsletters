@@ -9,7 +9,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230530; from 20230527
+  @date updated: 20230602; from 20230530
   @website address: http://www.usbong.ph
   
   Input:
@@ -1140,13 +1140,19 @@
 			//edited by Mike, 20230527
 //			echo ">>".dirname(__DIR__);
 
+			//edited by Mike, 20230602
+			//TO-DO: -update: this to auto-use the current month
+
 			//WINDOWS machine
 			if (strpos(dirname(__DIR__), ":\"")!==false) {
-				$filename="202305\asahiShimbun".$dateTodayTemp;
+				//edited by Mike, 20230602				//$filename="202305\asahiShimbun".$dateTodayTemp;
+				$filename="202306\asahiShimbun".$dateTodayTemp;
 			}
 			//LINUX machine			
 			else {
-				$filename="202305/asahiShimbun".$dateTodayTemp;
+				//edited by Mike, 20230602
+				//$filename="202305/asahiShimbun".$dateTodayTemp;
+				$filename="202306/asahiShimbun".$dateTodayTemp;
 			}
 			
 
