@@ -10,7 +10,7 @@ The Murderer of NAGANO, the result of a mind struggling with dissatisfaction, an
 
 >　長野県中野市で4人が殺害される事件から1日で1週間になります。4人のうち、警察官1人を射殺したとして、前市議会議長の長男で農業の青木政憲容疑者（31）が事件発生翌日の5月26日に逮捕されました。事件の経緯や背景について、捜査関係者や目撃者への取材から現時点でわかっていることをまとめました。
 
-In NAKANO City of NAGANO Prefecture, by this 1st of the month, one week has passed since the incident where 4 people were murdered. Firing a shot that killed a Police Officer, Suspect AOKI, Masanori (31), an agriculturist and the eldest son of a former City Council Chief, was arrested on May 26, a day after the incident occurred. Regarding the background and the circumstances that led to the incident, materials of what was understood at the time by the Investigators and the Witnesses have already been gathered.
+In NAKANO City of NAGANO Prefecture, by this 1st of the month, one week would have passed since the incident where 4 people were murdered. Firing a shot that killed a Police Officer, Suspect AOKI, Masanori (31), an agriculturist and the eldest son of a former City Council Chief, was arrested on May 26, a day after the incident occurred. Regarding the background and the circumstances that led to the incident, information of what was understood at the time by the Investigators and the Witnesses have already been gathered.
 
 > 散歩中の女性２人ナイフで刺される
 
@@ -18,7 +18,7 @@ Two (2) females strolling were stabbed with a knife.
 
 >　Q　事件の経緯は
 
-Q What are the circumstances that led to the incident?
+Q What were the circumstances that led to the incident?
 
 >　A　きっかけは5月25日午後4時26分の110番通報。中野市江部で「男が刃渡り30センチくらいのサバイバルナイフで女性を刺した」というものだった。
 
