@@ -24,14 +24,22 @@ The separation in the first step of the rocket was likely executed correctly as 
 
 ### USBONG NOTES
 
-1) Select Koreans explain that the ROCKET LAUNCHING NOISE is due to HUNGER;<br/>
+1) Select Koreans explain that the ROCKET LAUNCHING NOISE<br/> 
+--> is due to HUNGER;<br/>
 --> observed: in addition, favoring of the U.S.A. system,<br/>
 --> where: MONEY causes ACTION;<br/>
---> reminder: however, MONEY#1 causes SMUGGLER/TERRORIST group,<br/>
+--> reminder: however, MONEY#1 causes:<br/>
+--> SMUGGLER/TERRORIST group,<br/>
 --> based on: PHILIPPINE context,<br/>
---> https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/; last accessed: 20230601<br/>
+
+#### Reference: https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/; last accessed: 20230601
+
 --> adds: HEALTHCARE CRISIS in GERMANY<br/>
---> [Why Germany's health care system is in crisis (and how the government plans to fix it) | DW News ](https://www.youtube.com/watch?v=075AAaehmN8)
+
+> Why Germany's health care system is in crisis (and how the government plans to fix it) | DW News 
+
+#### Reference: https://www.youtube.com/watch?v=075AAaehmN8; last accessed: 20230601
+
 
 ### REFERENCE
 
