@@ -2,7 +2,7 @@
 
 > 衛星発射に失敗した北朝鮮、予告した2度目はいつ？韓国の識者に聞く
 
-After failing to launch a satellite, when shall be the pre-announced second time? We ask an expert on Korea
+After failing to launch a satellite, when will the pre-announced second time be? We ask an expert on Korea
 
 > 聞き手・ソウル=太田成美
 
@@ -20,7 +20,7 @@ Northern Korea is making clear herself that she had technological deficiencies. 
 
 > ロケットの1段目の分離は正常に行われたのでしょう。しかし、2段目の推進に必要なエンジンへの着火ができなかったり、着火のタイミングが遅れて推進力を失ったりした可能性も考えられます。
 
-The separation in the first step of the rocket was likely executed correctly as usual; however, the push in the 2nd step, where the necessary ignition in the engine occurs was not done successfully, and we can think as a possibility that the ignition timing was late, thereby losing power for the push.
+The separation in the first step of the rocket was likely executed correctly as usual; however, the push in the 2nd step, where the necessary ignition in the engine occurs was not done successfully, and we can think of the possibility that the ignition timing was late, thereby losing power for the push.
 
 ### USBONG NOTES
 
