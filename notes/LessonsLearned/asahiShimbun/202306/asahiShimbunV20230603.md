@@ -24,7 +24,7 @@ May 2012, Mr BARNES arrived in Beijing International Airport. Year 2023, the CIA
 
 >　英紙フィナンシャル・タイムズは2日、米中央情報局（CIA）のバーンズ長官が5月に極秘に訪中していたと報じた。米中対立が深まるなか、偶発的な衝突を避けるため、意思疎通を続ける姿勢を示したとみられる。
 
-British newspaper, the Financial Times, has reported this 2nd day of June, that CIA Chief, Mr BARNES, visited China in top-secret. As the dispute between America and China worsens, the objective of continuing with communication is seen to be a way to avoid sparking conflict.
+British newspaper, the Financial Times, has reported this 2nd day of June, that CIA Chief, Mr BARNES, visited China in top-secret. As the dispute between America and China worsens, continuation of communications has been seen to as a way to avoid sparking conflict.
 
 >　米政府関係者らの話として伝えた。同紙によると、バーンズ氏は中国の情報当局者と面会し、意思疎通を続ける重要性を伝えた。
 
