@@ -57,4 +57,5 @@ The U.S. Secretary of State, Blinken, in February...
 --> reminder: DESTROYING TERRORISTS NOT ILLEGAL,<br/> 
 --> expects: those IN-NEED-OF-MONEY to disagree<br/>
 --> reminder: of FALSE belief that "ALL ARE IN-NEED-OF-MONEY."<br/>
---> Reference: https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/; last accessed: 20230603
+--> Reference: https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/; last accessed: 20230603<br/>
+--> identified: SMUGGLERS/TERRORISTS: HAW, Keith, SYSON, Ryan, SYSON, Ramon, et al.;
