@@ -26,7 +26,7 @@ According to the male, it was when he was 85 years old that he began to put ener
 
 文系で、サラリーマン時代の主業務はIT系ではなかったという男性。めまぐるしく技術が進化する中、現役時代から半世紀以上、学びを続けてきました。直近2年で挑んだ資格・検定は語学や教養系まで多彩。男性は「40～60代の方こそ、学び直すのが重要」と語ります。
 
-The male, who was took up Literature, was not in the IT field for his main line of work during his life as an corporate employee. As technology quickly advanced forward, he was able to keep up with his studies, since the time when his still active at work, spanning over half a century. In the recent 2 years, he challenged himself with tests and qualifications pertaining to language and education. The male says that "it has become important to re-learn, especially for those who are in their the 40~60's."
+The male, who took up Literature, was not in the IT field for his main line of work during his life as a corporate employee. As technology quickly advanced forward, he was able to keep up with his studies, since the time when he was still active at work, spanning over half a century. In the recent 2 years, he challenged himself with tests and qualifications pertaining to language and education. The male says, "it has become important to re-learn, especially for those who are in their the 40~60's."
 
 
 ### SELECT WORDS
