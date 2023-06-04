@@ -18,7 +18,7 @@ Niigata University, JDDM, the research group created by the National Diabetes Sp
 
 > 新潟大の曽根博仁教授（血液・内分泌・代謝内科）は「糖尿病は決して治らない病気ではないことを示せた。健康診断などで糖尿病と診断されたら放置せず、専門医に相談し早期に対応してほしい」と話す。
 
-Niigata University Professor (of Hema-Endo-Metabolic Surgery), SONE, Hirohito showed that “Diabetes is never an incurable illness.” He says that “After being diagnosed with Diabetes, he wants the patient to not leave it as is, but to consult with a medical specialist, so that it can be addressed early.”
+Niigata University Professor (of Hema-Endo-Metabolic Internal Medicine), SONE, Hirohito showed that “Diabetes is never an incurable illness.” He says that “After being diagnosed with Diabetes, he wants the patient to not leave it as is, but to consult with a medical specialist, so that it can be addressed early.”
 
 > 研究チームは、1989～2022年に全国の糖尿病専門施設に通院していた18歳以上の2型糖尿病患者約4万8千人の診療データを分析。5・3年（中央値）追跡した結果、3677人が寛解していた。1年あたりでみると約1%が寛解する計算で、英国の研究と同程度の水準だという。
 
