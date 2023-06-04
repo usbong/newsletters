@@ -4,11 +4,15 @@
 
 > Payment of revenue from sales and repayment of fee may be withheld if deposit payment is charged-back, refunded, or otherwise identified as fraudulent. 
 
+## --
+
 > What you shouldn’t publish on Steam:
 
 > Sexually explicit images of real people
 
 > Applications built on blockchain technology that issue or allow exchange of cryptocurrencies or NFTs.
+
+## --
 
 > Accepted types of content
 
