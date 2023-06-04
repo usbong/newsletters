@@ -32,7 +32,7 @@ This is what the U.S. administration has conveyed. According to the aforemention
 
 >　米国家安全保障会議のカービー戦略広報担当調整官は2日のオンライン会見で報道について問われたが、コメントしなかった。
 
-When asked regarding the report during an online meeting on the 2nd, the National Security Council's Kirby Strategic Public Affairs Coordinator did not comment.
+When asked regarding the report during an online meeting on the 2nd, the National Security Council's Kirby, the Coordinator for Strategy and Public Affairs, did not comment.
 
 >　ブリンケン米国務長官は2月…
 
