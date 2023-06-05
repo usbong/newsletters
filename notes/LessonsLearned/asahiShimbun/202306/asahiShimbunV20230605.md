@@ -14,7 +14,7 @@ The Avenue des Champs-Élysées turned into a FRENCH Language TEST site, where 5
 
 >　パリのシャンゼリゼ通りで4日、世界最大の書き取り大会をめざした催しがあり、フランス語の「腕自慢」5千人超が参加した。
 
-This June 4, at Paris' Avenue des Champs-Élysées, aimed to be the world's largest, a writing tournament was held, having over 5,000 people participate to show their "PRIDE in their SKILL" of the French language.
+This June 4, at Paris' Avenue des Champs-Élysées, a writing tournament, aimed to be the world's largest, was held, having over 5,000 people participate to show their "PRIDE in their SKILL" of the French language.
 
 > 仏紙リベラシオンなどによると、通行止めとなったシャンゼリゼ通りには1779卓の机が並べられ、5万人超の応募の中から選ばれた約5100人が3組に分かれて3回の試験に参加。会場で朗読された文学作品の一節などを書き取った。
 
