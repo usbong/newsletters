@@ -14,7 +14,7 @@ ENDO, Minami
 
 > 1年半ほど後、友は社内の人間関係のトラブルで職場を去った。大友さんも数カ月後に退社した。その後も連絡をとりあったが、あるとき携帯電話が壊れ、連絡先が消えてしまった。「何かあれば向こうから連絡が来るだろう」。そう思っていた。
 
-After about 1 year, his friend left the workplace due to human relationship problems within the company. Mr OHTOMO too shall be leaving the company after several months. However, even after that, they could still contact each other, albeit there was a time when his telephone broke down, and his contacts list disappeared. He thought, "If something happened, he'll probably come and contact me."
+After about 1 year, his friend left the workplace due to human relationship problems within the company. Mr OHTOMO too shall be leaving the company after several months. However, even after that, they could still contact each other, albeit there was a time when his mobile telephone broke down, and his contacts list disappeared. He thought, "If something happened, he'll probably come and contact me."
 
 > 元死刑囚とのやりとりを振り返り、大友さんはある後悔を抱きます。大友さんは行動を起こしました。
 
