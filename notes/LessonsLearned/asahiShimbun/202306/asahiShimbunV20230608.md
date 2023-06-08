@@ -26,7 +26,7 @@ For repeatedly threatening celebrities via a video posting site, the Police has 
 --> to be MOVED to intended ACTION via MONEY<br/>
 --<br/>
 --> notes: "KIDNAP INCIDENT" in Year 1995 (approx);<br/>
---> where: "Aralin Panlipunan (AP)" Female Teacher "MALILIN" (RIP),<br/>
+--> where: "Araling Panlipunan (AP)" Female Teacher "MALILIN" (RIP),<br/>
 --> who: shared with CLASS in primary school<br/> 
 --> @XAVIER SCHOOL, San Juan, Greenhills,<br/>
 --> that after being rescued, HAW, Keith (KIDNAPPED), <br/>
