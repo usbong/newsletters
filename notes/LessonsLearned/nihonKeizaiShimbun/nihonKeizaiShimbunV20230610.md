@@ -2,7 +2,7 @@
 
 > Google欺く「サイト貸し」　広告ブログが検索上位に
 
-"SITE LENDING" that tricks GOOGLE, AD BLOG being ranked at top in search results
+"SITE LENDING" that tricks GOOGLE, AD BLOG being TOP-ranked in search results
 
 > テック
 
@@ -31,7 +31,8 @@ Using GOOGLE of America's Internet SEARCH SERVICE, there has been this continuou
 1) observed: noticeable TIME to identify significance, usable parts of text, <br/>
 --> due to: also verified IF CAN identify answers even with the incomplete text, et cetera;
 
-2) [[ライブ配信] 6月9日 ウィークリー gm | 伊藤 穰一](https://www.youtube.com/live/SqSQbpIcqIQ?feature=share)
+2) [[ライブ配信] 6月9日 ウィークリー gm | 伊藤 穰一](https://www.youtube.com/live/SqSQbpIcqIQ?feature=share)<br/>
+--> https://www.youtube.com/watch?v=SqSQbpIcqIQ; last accessed: 20230610
 
 ### REFERENCE
 
