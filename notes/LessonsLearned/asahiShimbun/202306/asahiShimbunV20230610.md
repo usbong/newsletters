@@ -17,7 +17,7 @@ Due to the CORONA VIRUS, with people forced to stay at home, it appears that the
 
 >　あなたの目には、まるで「自己洗脳」としか思えない愚かな行為に見えるに違いありません。ただ、あなたの最愛の連れ合いからすると、夫は真実を知らない、なんと哀れな人なんだろうか、真実を教えてあげなければ……。きっとそう考えているはずです。
 
-From your view, it surely looks like a foolish action that can only be thought of as "SELF BRAIN-WASHING". However, with your most beloved partner, who does not know the truth, and may be a helpless person, not telling him the truth...  He is surely thinking of it as so.
+From your view, it surely looks like a foolish action that can only be thought of as "SELF BRAIN-WASHING". However, with your most beloved partner, who does not know the truth, and may be a helpless person, your not telling her the truth...  She is surely thinking of it.
 
 > この互いのズレが負のスパイラルを駆け上っていけば、愛情に満たされているはずの夫婦の亀裂は深まっていかざるをえない。どうしたらいいのでしょう。
 
