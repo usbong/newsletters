@@ -16,7 +16,7 @@ TECH
 
 > 米グーグルのネット検索サービスで、広告閲覧数を増やすために別のサイトを有償で借りるケースが相次いでいる。医療機関などのサイトが優先表示される仕組みに目を付け、サイトの一部を借りてアフィリエイト（成果報酬型）広告を出す手法だ。違法性は現時点で無いとされているものの、検索サービスへの信頼に影響する恐れもある。
 
-Using GOOGLE of America's Internet SEARCH SERVICE, there has been this continuous case of paid renting of another site to increase AD VIEW COUNTS. Having Medical Treatment Facilities, and such SITES being seen as prioritized by the search service's display mechanism, a method has appeared, offering AFFILIATE (results-based compensation structure) ADS to borrowers of a portion of the SITE. While there has been no illegality in it at this current point in time, there is, however, fear that it shall impact TRUST in the SEARCH SERVICE.
+Using GOOGLE of America's Internet SEARCH SERVICE, there has been this continuous case of paid renting of another site to increase AD VIEW COUNTS. Having Medical Treatment Facilities, and such SITES being seen as prioritized by the search service's display mechanism, there is now a method that offers AFFILIATE (results-based compensation structure) ADS to borrowers of a portion of the SITE. While there has been no illegality in it at this current point in time, there is, however, fear that it shall impact TRUST in the SEARCH SERVICE.
 
 
 ### SELECT WORDS
@@ -28,8 +28,8 @@ Using GOOGLE of America's Internet SEARCH SERVICE, there has been this continuou
 
 ### USBONG NOTES
 
-1) observed: noticeable TIME to identify usable parts of text, <br/>
---> due to: also verified IF CAN identify answer even with the incomplete text, et cetera;
+1) observed: noticeable TIME to identify significance, usable parts of text, <br/>
+--> due to: also verified IF CAN identify answers even with the incomplete text, et cetera;
 
 2) [[ライブ配信] 6月9日 ウィークリー gm | 伊藤 穰一](https://www.youtube.com/live/SqSQbpIcqIQ?feature=share)
 
