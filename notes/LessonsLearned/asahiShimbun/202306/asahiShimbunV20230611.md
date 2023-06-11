@@ -2,7 +2,7 @@
 
 > とび職から全米トップ大学へ　元ヤンキーが語る「学び」の意味
 
-From construction worker to a TOP University in all of America, a former “YANKEE” speaks of the significance of “study”
+From construction worker into a TOP University in all of America, a former “YANKEE” speaks of the significance of “study”
 
 > 浅倉拓也
  
@@ -35,13 +35,13 @@ At the University of California-Berkeley, the teachers create opportunities for 
 
 >　川崎市の出身。父親は外資系保険会社の営業マン、母親は仕事も家事も完璧にこなすという家庭だったが、中学に入ってすぐ「不良」になった。当時、両親が不仲で家庭の居心地が悪かったのが原因だと、鈴木さんは説明する。
 
-He was born in KAWASAKI City. His father was a business man at an insurance company with foreign ownership, while his mother did work and household chores perfectly. It was with that kind of family, that when he entered Middle School, he immediately became “BAD”. At the time, his parents were not in good relations with each other, and Mr SUZUKI explains that it was for that reason that their home became bad. 
+He was born in KAWASAKI City. His father was a business man at an insurance company of foreign ownership, while his mother worked and did household chores perfectly. It was with that kind of family, that when he entered Middle School, he immediately became “BAD”. At the time, his parents were not in good relations with each other, and Mr SUZUKI explains that it was for that reason that their home became bad. 
 
 ## —
 
 >　大手IT企業に勤める鈴木琢也さん（37）と初めて会ったのは9年前。日本の有名進学校の先生たちが米国のトップ大学を視察するのに同行取材した時だ。当時、受験実績がトップ級の進学校では、東大ではなく海外の大学に進学を志望する動きが広がりつつあった。
 
-It was 9 years ago when I first met Mr SUZUKI, Takuya (37), an employee at a big IT company. It was during the time when I was gathering materials on famous preparatory schools in Japan whose teachers were focusing on TOP Universities in America. At top preparatory schools, which boast of achievements based on university acceptance, there has been a continuous increase in the promulgation of willingness to proceed to universities abroad, instead of TOKYO University.
+It was 9 years ago when I first met Mr SUZUKI, Takuya (37), an employee at a big IT company. It was during the time when I was gathering materials on famous preparatory schools in Japan whose teachers were focusing on TOP Universities in America. At top preparatory schools, which boast of achievements based on university acceptance, there has been a continuous increase in the promulgation of willingness to proceed to universities abroad, instead of the University of TOKYO.
 
 ### REFERENCE
 
