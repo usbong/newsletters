@@ -1,4 +1,10 @@
 # Usbong Newsletters
+
+## News for the Day: 
+
+http://store.usbong.ph/server/usbongBalita.php
+
+## 
 <b>Current Newsletter:</b> http://store.usbong.ph/server/2022/viewNewsletter202212.php<br/>
 --> Select accomplished <b>WORKS</b> noted for the following:<br/> 
 --> <b>THE YEAR TWO THOUSAND AND TWENTY-TWO,<br/> 
