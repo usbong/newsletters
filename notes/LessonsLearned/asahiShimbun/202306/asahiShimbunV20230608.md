@@ -44,7 +44,11 @@ For repeatedly threatening celebrities via a video posting site, the Police has 
 2) OUTPUT#2: 10 years and more after, NOISE POLLUTION continues; even in Year 2005 onwards;<br/>
 --> caused by: SMUGGLER/TERRORISTS, "HAW, Keith", "SYSON, Ryan", et al.
 
-3) OUTPUT#3: https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/; last accessed: 20230608<br/>
+3) OUTPUT#3: SMUGGLING to receive QUICK MONEY
+
+### Reference: 
+
+https://customs.gov.ph/boc-destroys-21-smuggled-vehicles/; last accessed: 20230608<br/>
 --> observed: page appears to have already been removed @2023-06-08T11:10
 
 > The Bureau of Customs (BOC) led the simultaneous destruction of twenty-one (21) smuggled motor vehicles worth P58. 55 million on Friday, June 18, 2021, in Manila and Cagayan de Oro.
