@@ -34,7 +34,7 @@ One the newer highlights is the change in the system notifications, which has be
 
 > El cambio más profundo es el que ha recibido la interfaz superpuesta (el menú que aparece cuando pulsamos Mayus + Tab), con más opciones y un mejor navegador de internet. 
 
-The most profound change is with the overlay interface (the menu that appears when we press SHIFT + Tab), with more options and a minor Internet browser.
+The most profound change is with the overlay interface (the menu that appears when we press SHIFT + Tab), with more options and a mini Internet browser.
 
 > Podemos activar o desactivar ventanas de esa interfaz para cada juego y se sincronizarán entre sesiones del mismo juego (por ejemplo, podemos dejar abierta una página web con guías de un juego en el cliente de escritorio y aparecerá cuando abramos la interfaz superpuesta en Steam Deck).
 
@@ -48,12 +48,16 @@ With the overlay interface, we shall be able to write notes, and re-share them o
 
 This novelty perfectly fits with the following: the possibility to focus on windows of the overlay interface in a game with a level of personalized visibility. We can mark objectives that we lack to complete 100% of a game, and view it on a corner without leaving the game.
 
-## TO-DO: -update: this
-
 
 > Si usas la versión de Linux o Mac del cliente, ahora puedes activar la activar la aceleración de hardware para mejorar la fluidez de Steam en tu dispositivo.
 
+If you use the version of Linux or Mac for the client, now you can activate "the activate the acceleration of the hardware" to improve the fluidity of Steam in your device.
+
+
 > Si aún no te ha saltado la actualización, pulsa Steam arriba a la izquierda de la ventana y "Comprobar si existen actualizaciones del cliente de Steam."
+
+If you still have not left the update, press the Steam above on the left of the window and "Verify if there exist client updates on Steam."
+
 
 https://www.youtube.com/watch?v=e8jv24NjOWQ
 
