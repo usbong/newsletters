@@ -38,13 +38,18 @@ The most profound change is with the overlay interface (the menu that appears wh
 
 > Podemos activar o desactivar ventanas de esa interfaz para cada juego y se sincronizarán entre sesiones del mismo juego (por ejemplo, podemos dejar abierta una página web con guías de un juego en el cliente de escritorio y aparecerá cuando abramos la interfaz superpuesta en Steam Deck).
 
-We can activate or deactivate the windows of the interface, so that each game is synchronized between sessions of the same game (for example, we can keep open a web page with guides of a game in a desktop client and it shall appear when we open the overlay interface in Steam Deck).
-
-## TO-DO: -update: this
+We can activate or deactivate the windows of the interface, so that each game is synchronized between sessions of the same game (for example, we can keep open a web page with a guide of the game in a desktop client and it shall appear when we open the overlay interface in Steam Deck).
 
 > En la interfaz superpuesta podremos escribir notas y, de nuevo, compartirlas en dispositivos.
 
+With the overlay interface, we shall be able to write notes, and re-share them on devices.
+
 > Esta novedad encaja perfectamente con la siguiente: la posibilidad de fijar ventanas de la interfaz superpuesta en el juego con un nivel de opacidad personalizado. Podemos apuntar los objetos que nos faltan para el 100% de un juego y verlo en una esquina sin dejar de jugar.
+
+This novelty perfectly fits with the following: the possibility to focus on windows of the overlay interface in a game with a level of personalized visibility. We can mark objectives that we lack to complete 100% of a game, and view it on a corner without leaving the game.
+
+## TO-DO: -update: this
+
 
 > Si usas la versión de Linux o Mac del cliente, ahora puedes activar la activar la aceleración de hardware para mejorar la fluidez de Steam en tu dispositivo.
 
