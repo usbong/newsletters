@@ -1,15 +1,13 @@
-﻿﻿<!--
+﻿<!--
   Copyright 2021~2023 SYSON, MICHAEL B. 
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   
   http://www.apache.org/licenses/LICENSE-2.0
-
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
-
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230602; from 20230530
+  @date updated: 20230618; from 20230602
   @website address: http://www.usbong.ph
   
   Input:
@@ -1114,8 +1112,18 @@
 			//edited by Mike, 20230527
 			if ($iDayCount>=10) {
 //			if ($iDayCount>=10*5) { //each day can have 5 news reports	
-				//set a default news
+
+				//edited by Mike, 20230618				
+				//set a default news; LINUX machine
 				$filename="202305/asahiShimbun20230508.md";
+				
+				//added by Mike, 20230618
+				//WINDOWS machine
+				if (strpos(dirname(__DIR__), ":")!==false) {
+					$filename="202305\asahiShimbun20230508.md";
+				}
+				
+				
 				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;				
 				break;
 			}
@@ -1253,7 +1261,7 @@
 //	echo ">>> ".$completeFilename."<br/><br/>";
 		
 	
-	if (($handle = fopen($completeFilename, "r")) !== FALSE) {			
+	if (($handle = fopen($completeFilename, "r")) !== FALSE) {
 				
 				  while (!feof($handle)) {		  
 					//edited by Mike, 20211014;
@@ -1482,7 +1490,6 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 
 /* //removed by Mike, 20230504
 	//					echo ">>".$cellValue;
-
 						//added by Mike, 20211014
 						//sKeyphrase does NOT exist in $cellValue
 						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
@@ -1499,19 +1506,16 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 								$cellValue = strip_tags($data);	
 							}						
 						}			
-
 						//edited by Mike, 20211014
 						//sKeyphrase: case-sensitive OFF
 		//				if (strpos($cellValue,$sKeyphrase)!==false) {
 						//edited by Mike, 20211014
 						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-
 							//added by Mike, 20211016
 							autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
 							
 							//added by Mike, 20211014
 							$bHasFoundKeyphrase=true;
-
 							//display only the first result with keyphrase found from each existing file
 							break;						
 						}
@@ -1532,7 +1536,6 @@ echo "<br/><br/><br/><br/>";
 		  
 ////		echo ">".$filename."<br/>";
 ////		echo ">".$sYearDirectory."<br/>";
-
 		if (strpos($filename, "EXCEL")!==false) {
 			//echo ">".$filename."<br/>";
 			$sYearDirectory="/server/".substr($filename,strlen("EXCEL "),4)."/";
@@ -1552,11 +1555,8 @@ echo "<br/><br/><br/><br/>";
 		}
 		
 //		echo ">>>".$sYearDirectory."<br/>";
-
-
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
-
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 		
 		if (!is_dir($completeFilename)) {
@@ -1567,7 +1567,6 @@ echo "<br/><br/><br/><br/>";
 		if (!file_exists($completeFilename)) {
 			//add the day of the week
 			$sDateToday = Date('Y-m-d, l');
-
 			echo "<span class='spanFileNotFound'>
 					USBONG: We did NOT find the file. Please re-verify filename to be correct.
 				  </span><br/><br/>";
@@ -1588,10 +1587,8 @@ echo "<br/><br/><br/><br/>";
 			}
 			else {
 				$sKeyphrase = $_GET['q']; //nameParam
-
 				//added by Mike, 20211014; removed by Mike, 20211014
 //				$bHasFoundKeyphrase=false;
-
 				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
 				  while (!feof($handle)) {		  
 					//edited by Mike, 20211014;
@@ -1613,17 +1610,13 @@ echo "<br/><br/><br/><br/>";
 //-----					
 //PART 1
 					$cellValue = str_replace("by Mike, ".$sKeyphrase, "", $cellValue);
-
 					$cellValue = str_replace("server\\".$sKeyphrase, "", $cellValue);
-
 					$cellValue = str_replace("var/www/html/", "", $cellValue);
-
 //-----					
 //PART 2
 					
 					//added by Mike, 20220305
 //					$cellValue = "website address: ".getUpdatedWebAddress($completeFilename, $sWebAddressBasePath).";".$cellValue;
-
 					//edited by Mike, 20230110
 					//TO-DO: -update: this; 
 					//downloaded newsletters, 
@@ -1631,15 +1624,10 @@ echo "<br/><br/><br/><br/>";
 					
 ////					$cellValue = "website address: ".$completeFilename.";".$cellValue;
 				
-
 ////					$cellValue = "website address: ".str_replace("\\".$sKeyphrase, "", $completeFilename).";".$cellValue;
-
 					$cellValue = "website address: ".str_replace("var/www/html/", "", $completeFilename).";".$cellValue;
 //-----					
-
-
 	//					echo ">>".$cellValue;
-
 						//added by Mike, 20211014
 						//sKeyphrase does NOT exist in $cellValue
 						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
@@ -1656,19 +1644,16 @@ echo "<br/><br/><br/><br/>";
 								$cellValue = strip_tags($data);	
 							}						
 						}			
-
 						//edited by Mike, 20211014
 						//sKeyphrase: case-sensitive OFF
 		//				if (strpos($cellValue,$sKeyphrase)!==false) {
 						//edited by Mike, 20211014
 						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-
 							//added by Mike, 20211016
 							autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
 							
 							//added by Mike, 20211014
 							$bHasFoundKeyphrase=true;
-
 							//display only the first result with keyphrase found from each existing file
 							break;						
 						}
