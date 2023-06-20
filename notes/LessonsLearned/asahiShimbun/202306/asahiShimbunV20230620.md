@@ -2,7 +2,7 @@
 
 「なんとか延命を…」受話器ごし、緊迫のやりとり　医療通訳者の覚悟
 
-An emergency telephone call. "Can you somehow  prolong the life...?" the readiness of a medical care translator
+An emergency telephone call. "Can you somehow  prolong the life...?" the readiness of a medical care interpreter
 
 > 三浦惇平
 
