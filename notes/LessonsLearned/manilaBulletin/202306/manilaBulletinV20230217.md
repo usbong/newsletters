@@ -6,12 +6,12 @@ AFP
 
 ### KEYPHRASE
 
-ingestible smart pill
-Caltech, SHARMA, Saransh (PhD student)
+ingestible smart pill<br/>
+Caltech, SHARMA, Saransh (PhD student)<br/>
 Massachusetts Institute of Technology (MIT)
 
-capsule
-20m in length
+capsule<br/>
+20m in length<br/>
 8mm in diameter
 
 capsule's location identifies area with slow movement
