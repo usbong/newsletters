@@ -26,5 +26,11 @@ results published in Nature Electronics journal
 
 ### USBONG NOTES
 
-1) cellular telephone technology, magnets, electricity in battery, magnetic field, electricity controlled via electric signals due to increase in electricity consumption and heat when cellular device continuously attempts to connect with wireless tower that emits weak/no signal
+1) cellular telephone technology, magnets, electricity in battery, magnetic field,<br/>
+--> electricity controlled via electric signals<br/>
+--> due to increase in electricity consumption and heat<br/>
+--> when cellular device continuously attempts to connect with wireless tower that emits weak/no signal<br/>
+--> adds: mobile apps that continuously consume electricity and produce heat<br/>
+--> via non-terminating, computation-heavy processes;<br/>
+--> example: mobile browser opening web page using heavy 3D tech 
 
