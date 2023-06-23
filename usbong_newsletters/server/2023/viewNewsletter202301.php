@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20220217
-  @date updated: 20230418; from 20230417
+  @date updated: 20230623; from 20230418
   @website address: http://www.usbong.ph
   
   Input:
@@ -434,9 +434,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20220831; from 20220325
+
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
 
-<!-- //edited by Mike, 20220831; from 20220325
 	<base href="http://store.usbong.ph/" target="_blank">
 -->
 
@@ -468,7 +469,7 @@
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">				
-			<img class="Image-companyLogo" src="assets/images/usbongLogo.png">
+			<img class="Image-companyLogo" src="../../assets/images/usbongLogo.png">
 		</td>	
 		<td class="pageNameColumn">
 			<div class="formTitle">
@@ -526,9 +527,9 @@
 	<br>
 	<br>	
 	<div class="newsletterTitle">
-		<b>波 (なみ)　： Welle ("vell")</b><br/>
-		<b>ALON　：　WAVE</b><br/>
-		RADIO				
+		<b>Las escuchas telefónicas</b><br/>
+		<b>盗聴, Stolen + Heard,<br/> 
+		WIRETAPPING</b><br/>	
 	</div>
 	<br>
 	<div class="newsletterSubTitle">
@@ -538,7 +539,7 @@
 	</div>
 	<br>	
 	<div class="newsletterDate">
-	January & February 2023
+	January ~ June 2023
 	</div>
 	<br>
 	<br>			
@@ -561,14 +562,14 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 </td></tr>
 </table>
 <br/>
-<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMySQLCommandV20230417T1418.jpg">
+<img class="newsletterImage" width="90%" height="90%" src="../../assets/images/newsletter/202304/exampleLibreOfficeCalcMySQLCommandV20230417T1418.jpg">
 <br/>
 <br/>
 <b>NOTE (from SYSON, MICHAEL B.):</b>
 <table class="noteTable">
 	<tr>
 		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+			<img class="noteImage" src="../../assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
 			We create a <b>FUNCTION</b> in <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a> to auto-generate the <a class="webServiceLink" target="_blank" href="https://www.mysql.com/">MySQL</a> <b>COMMAND</b> for the <b>`item_total_sold`</b> of each <b>`item`</b>.<br/>
@@ -591,7 +592,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 2) <b>wrote:</b> <b>set of instructions (MACRO)</b> in <a class="webServiceLink" target="_blank" href="https://www.libreoffice.org/discover/calc/">LibreOffice Calc</a> to auto-add a <b>blank row</b><br/>
 --> <b>when</b> the <b>`item_id`</b> does <b>NOT exist</b> in an <b>INPUT LIST</b><br/>
 <br/>
-<img class="newsletterImage" width="90%" height="90%" src="assets/images/newsletter/202303/exampleLibreOfficeCalcMacro.jpg"><br/>
+<img class="newsletterImage" width="90%" height="90%" src="../../assets/images/newsletter/202304/exampleLibreOfficeCalcMacro.jpg"><br/>
 <br/>
 <br/>
 3) <b>get:</b> the <b>SUM</b> of the <b>`item_total_sold`</b> of <b>ALL</b> the <b>INPUT LISTS (multiple Table)</b><br/>
@@ -602,7 +603,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <table class="noteTable">
 	<tr>
 		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+			<img class="noteImage" src="../../assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
 			We can observe here the <b>VALUE</b> of the <b>technique/know-how</b> to <b>QUICKLY</b> cause a <b>LIST</b> in <b>CHAOS/DISORDER</b> to be in <b>ORDER</b>.<br/>
@@ -646,7 +647,7 @@ To eliminate excess steps and inefficient time usage, Marikina Orthopedic Specia
 <table class="noteTable">
 	<tr>
 		<td class="noteTableImageColumn">
-			<img class="noteImage" src="assets/images/Syson,MichaelB.png">
+			<img class="noteImage" src="../../assets/images/Syson,MichaelB.png">
 		</td>
 		<td class="noteTableTextColumn">
 			The <b>three</b> (3) <b>COLUMNS</b> each are from <b>three TABLES</b><br/> 
@@ -876,7 +877,7 @@ last accessed: 20230131; from 20230124<br/>
 <tr>
  <td>
     <br/>
-	<img class="newsletterImage" width="60%" height="60%" src="assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
+	<img class="newsletterImage" width="60%" height="60%" src="../../assets/images/newsletter/202112/miniSpeakerRadioApproxSize6x6cm.jpg"><br/>
 	Approx size: 6x6cm
  </td>
  <td>
