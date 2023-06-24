@@ -59,6 +59,7 @@ Topic Questions:
 
 --> [ライブ配信] 6月16日 ウィークリー gm | 伊藤 穰一<br/>
 
+--> adds: the following as part of USBONG NOTES<br/>
 --> where: "COOPERATIVE Structure" requires buyers/sellers to be all members;<br/>
 --> where: select members shall buy excessively more of item, to be sold OUTSIDE of "COOPERATIVE Structure" <br/>
 --> cause? QUICK MONEY; <br/>
