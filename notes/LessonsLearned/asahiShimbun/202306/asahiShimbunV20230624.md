@@ -64,7 +64,7 @@ Topic Questions:
 --> where: select members shall buy excessively more of item, to be sold OUTSIDE of "COOPERATIVE Structure" <br/>
 --> cause? QUICK MONEY; <br/>
 --> remembers: such to have also been a problem with CRYPTO-CURRENCY<br/>
---> (even with intention to maintain stop LOSS of MONEY/CAPITAL)
+--> (even with intention to stop LOSS of MONEY/CAPITAL)
 
 ### REFERENCE
 
