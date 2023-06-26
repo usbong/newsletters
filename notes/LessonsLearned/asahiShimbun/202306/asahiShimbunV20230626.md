@@ -18,7 +18,7 @@ Where is the problem situated?
 
 >　「国の施策が科学政策、大学教育の枠内で行われていて、らちがあかないというか、議論が堂々巡りしているように見えます。単純な言い方をすれば、役所のタテ割りの発想にとらわれていて、文部科学省の予算の枠内で研究や大学のお金をやりくりする発想に陥っている。もっと役所の壁を乗り越えて、全体を俯瞰（ふかん）した予算の使い方を考えていく必要があります」
 
-"The national policy in the sciences is implemented within the internal fragments of university education, and it appears that the door latch would not open, while discussions noticeably continue. To put it simply, because ideas thought of at public office are caught up in its vertical structure, and with the budgets of the Department of Education kept within fragments, the idea that there is lack of money for research and university end up being placed at lower severity. To overcome this wall at the public office, it is necessary to think of the budget, while viewing the whole."
+"The national policy in the sciences is implemented within the internal fragments of university education, and it appears that the door latch would not open, while discussions noticeably continue. To put it simply, because ideas thought of at public office are caught up in its vertical structure, and with the budgets of the Department of Education kept within fragments, the idea that there is lack of money for research and university ends up being placed at lower severity. To overcome this wall at the public office, it is necessary to think of the budget, while viewing the whole."
 
 > 「日本の科学研究、とりわけ大学における研究環境は危機的な状況にあります。若手研究者のポストは、任期付きの不安定なものが増えました。千葉大に20年、京都大に7年務めていますが、文系理系を問わず短期的な成果を求められて、腰を据えた研究がやりにくくなっています。研究のポテンシャルは確実に下がっていて、日本の将来にとって大きなリスクです」
 
