@@ -18,11 +18,13 @@ Overseas activities are moving forward to apply GENOME editing in medicine. The 
 
 > これまでの「遺伝子治療」は、異常な遺伝子は残したまま、正常な遺伝子を入れるが、どこに入るかわからなかった。クリスパー・キャス9をはじめとする「ゲノム編集」は酵素を「はさみ役」として使い、狙った場所で遺伝子を破壊したり、挿入したりできる。
 
-While the current "gene therapy", keeps the abnormal genes, and inserts the normal genes, it was not known where such genes are to be inserted. GENOME editing that started CRISPR/Cas9, uses enzymes as the "Scissors", to destroy genes at their target location, and can also do gene insertion.
+Until now, "gene therapy" kept the abnormal genes, and inserted the normal genes; however, it was not known where such genes are to be inserted. GENOME editing that started CRISPR/Cas9, uses enzymes as the "Scissors", to destroy genes at their target location, and can also do gene insertion.
 
 ## --
 
 >　3月に英国ロンドンで開かれた「ヒトゲノム編集国際サミット」では、ゲノム編集で治療を受けた女性が登壇した。遺伝子に変異があるため、正常な赤血球が作れない鎌状赤血球症を患っていた。体から血液幹細胞を取り出し、体外でゲノム編集して戻した。長年の苦しみから解放されたといい、「子どもたちが母を失う恐れはなくなりました」。この治療を開発した米欧の企業は米食品医薬品局（FDA）に承認申請している。
+
+In March, at the "International Summit of HUMAN GENOME Editing", held in London, England, the female who received GENOME Editing therapy came up to give a presentation. She was ill from sickle red cell disease where she could not produce normal red cells. Stem cells from her blood were taken from her body, and were returned after doing GENOME Editing outside. She says that she has been liberated from long years of pain, "There is no more apprehension that children shall lose their mother." The company from the U.S. and Europe that developed this cure is applying for approval from the FDA (Food and Drug Administration).
 
 ### SELECT WORDS
 
