@@ -2,7 +2,7 @@
 
 > オープンAI、米利用者が集団訴訟　「個人情報を違法に収集」
 
-OpenAI's U.S. Users' group complains: "Illegal gathering of private information"
+OpenAI's U.S. users group complains: "Illegal gathering of private information"
 
 > サンフランシスコ=五十嵐大介
 
