@@ -21,11 +21,11 @@ The police have considered the existence of setting a maximum speed based on the
 
 > ルール判別、ポイントは「緑のランプ」
 
-The RULE to distinguish which via "Green LAMPS"
+The RULE to distinguish which vehicle is which via "Green LAMPS"
 
 >　時速20キロ超を出せる車体はこれまで通り運転免許が必要で、ヘルメットの着用は義務。原付きバイクと同じ扱いだ。
 
-Vehicles whose speed exceeds 20 kilometers shall require a driver's license, and a helmet. This is as with motorbikes.
+Vehicles whose speed exceeds 20km shall require a driver's license, and a helmet. This is the same rule with motorbikes.
 
 >　新たな区分となる同20キロ以下の「特定小型」と6キロ以下の「特例特定小型」では、16歳以上なら運転免許がなくても運転可能で、ヘルメットは努力義務だ。歩道を走れるのは後者だけだ。
 
