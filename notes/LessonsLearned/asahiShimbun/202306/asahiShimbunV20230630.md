@@ -17,7 +17,7 @@ MIFUNE, Saeko, OHYAMA, RYO
 
 > 警視庁が懸念するのは、最高速度によって走行可能な場所が異なる点だ。講習会では3種類の電動キックボードを示し、「見た目はほとんど同じだが、歩道走行に使える車体はこのうち1台だけ。6キロを超えるスピードが出る車体は歩道を走ってはいけません」と説明した。
 
-The police have considered the existence of max speed variation, based on the venue. At the lecture, 3 types of electric kickboards were shown, explaining that "While they appear almost the same, only one of these machines can be used in a pedestrian lane. Vehicles whose speed exceeds 6km/hr are not allowed to be used at pedestrian lanes."
+The police have considered the existence of setting a maximum speed based on the venue. At the lecture, three (3) types of electric KICKBOARDS were shown, explaining that "While they appear almost the same, only one of these machines can be used in a pedestrian lane. Vehicles whose speed exceeds 6km/hr are not allowed to be used at pedestrian lanes."
 
 > ルール判別、ポイントは「緑のランプ」
 
