@@ -1,4 +1,4 @@
-﻿<!--
+﻿﻿<!--
   Copyright 2021~2023 SYSON, MICHAEL B. 
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
   
@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230618; from 20230602
+  @date updated: 20230707; from 20230618
   @website address: http://www.usbong.ph
   
   Input:
@@ -1139,6 +1139,11 @@
 //			echo $dateTodayTemp."<br/>";
 
 			$dateTodayTemp=str_replace('-','',$dateTodayTemp); 
+			
+			//added by Mike, 20230707
+			//2023-07-07; output: 202307
+			$currYearMonthBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,6);		
+			
 			//edited by Mike, 20230519
 //			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
 
@@ -1146,23 +1151,45 @@
 //			$filename="202305/asahiShimbun".$dateTodayTemp;
 
 			//edited by Mike, 20230527
-//			echo ">>".dirname(__DIR__);
+			//echo ">>".dirname(__DIR__);
 
 			//edited by Mike, 20230602
 			//TO-DO: -update: this to auto-use the current month
 
 			//WINDOWS machine
-			if (strpos(dirname(__DIR__), ":\"")!==false) {
+			//edited by Mike, 20230707
+			//if (strpos(dirname(__DIR__), ":\"")!==false) {
+			if (strpos(dirname(__DIR__), ":\\")!==false) {
+
 				//edited by Mike, 20230602				//$filename="202305\asahiShimbun".$dateTodayTemp;
-				$filename="202306\asahiShimbun".$dateTodayTemp;
+				
+				//echo $currYearMonthBasedOnDateTodayTemp;				
+				//echo $dateTodayTemp;
+				
+				//edited by Mike, 20230707				
+			//$filename="202306\asahiShimbun".$dateTodayTemp;
+				$filename=$currYearMonthBasedOnDateTodayTemp."\asahiShimbun".$dateTodayTemp;				
 			}
 			//LINUX machine			
 			else {
 				//edited by Mike, 20230602
 				//$filename="202305/asahiShimbun".$dateTodayTemp;
-				$filename="202306/asahiShimbun".$dateTodayTemp;
+
+				//edited by Mike, 20230707				
+			//$filename="202306/asahiShimbun".$dateTodayTemp;
+				$filename=$currYearMonthBasedOnDateTodayTemp."/asahiShimbun".$dateTodayTemp;
 			}
 			
+			
+			//echo "dito".$currYearMonthBasedOnDateTodayTemp;
+			
+			//added by Mike, 20230707
+			//if does not exist due to the 1st day of the new month
+			if (!is_dir($currYearMonthBasedOnDateTodayTemp)) {
+				$currYearMonthBasedOnDateTodayTemp=((int)$currYearMonthBasedOnDateTodayTemp-1);
+				
+				//echo ">>>>".$currYearMonthBasedOnDateTodayTemp."<br/>";
+			}				
 
 /*	//removed by Mike, 20230520
 //			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
@@ -1240,11 +1267,32 @@
 				$iDayCount++;
 			}
 			
-			//added by Mike, 20230520
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
+			//edited by Mike, 20230707; from 20230520
+//			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+		
+//			echo $completeFilename."<br/>";
+			
+//			echo "<br/><br/>".$filename."<br/>";
+			
+			// C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\asahiShimbun\202307\asahiShimbun20230707.md
+			
+			//C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\asahiShimbun\202307
+
+//C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\asahiShimbun\202307\asahiShimbun20230707.md
+
+			//C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\asahiShimbun\202307
+			
+			//added by Mike, 20230707
+			if (!file_exists($completeFilename)) {
+				$completeFilename=$completeFilename.".md";
+			}
+
 			
 //			$iTotalDayCountWithMultiReportsForTheDay++;			
 		}
+		
+//		echo "<br/><br/>".$completeFilename."<br/>";
 
 	//added by Mike, 20230527
 //	echo ">>".$iTotalDayCountWithMultiReportsForTheDay."<br/>";
