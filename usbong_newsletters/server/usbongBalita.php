@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230707; from 20230618
+  @date updated: 20230711; from 20230707
   @website address: http://www.usbong.ph
   
   Input:
@@ -424,6 +424,12 @@
 						{
 							color: rgb(51,145,23);
 							font-weight: bold;												
+						}
+						
+						a.webServiceTimeOffLink
+						{
+							color: rgb(0,0,0);
+							/*font-weight: bold;*/
 						}
 						
 						a.menuLink
@@ -936,7 +942,18 @@
 					//$dateToday="2023-05-08";
 					$dateTodayDay = strtoupper(date('D', strtotime($dateToday)));
 					//echo $dateToday;
-					echo "$dateTodayDay | ".$dateToday;
+					
+					//edited by Mike, 20230711
+					//echo "$dateTodayDay | ".$dateToday;
+
+					//note: can select previous days?...
+					
+					echo "$dateTodayDay | ";
+					//class='webServiceLink'
+					echo "<a class='webServiceTimeOffLink' target='_blank' href='http://store.usbong.ph/timeoff'>";
+					echo $dateToday;
+					echo "</a>";
+
 				?>
 			</div>		
 		</td>
