@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230711; from 20230707
+  @date updated: 20230801; from 20230711
   @website address: http://www.usbong.ph
   
   Input:
@@ -990,6 +990,30 @@
 		return $sWebAddress;
 	}
 
+	//added by Mike, 20230801
+	function processWebsiteReference($sToken) {
+		if (strpos($sToken, "-->")!==false) {
+			//includes space after ">"
+			$sToken = str_replace("--> ","",$sToken);
+		}	
+		
+		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
+
+		$sReferenceWebsiteAccessedDate=substr($sToken,strpos($sToken,";"));
+		
+		//echo "DITO: ".$sReferenceWebsiteAccessedDate;
+		
+		//echo "DITO: ".strpos($sToken,";");
+
+		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp)); 
+		
+		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";	
+		echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
+		//added by Mike, 20230801
+		echo $sReferenceWebsiteAccessedDate."<br/>";			
+	}
+
+	
 	//added by Mike, 20211016
 	//note: reusable function
 	function autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase) {		
@@ -1428,17 +1452,29 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		if (strpos($sPrevToken, "-->")!==false) {
 //			echo "<br/>";
 		}	
-	
+
 		$sToken = str_replace(">","",$sToken);	
 		echo "<blockquote class='usbongBlockquote'>";
 		echo "$sToken";
 		echo "</blockquote>";
 	}
-	else if (strpos($sToken, "-->")!==false) {
-//		$sToken = str_replace("-->","",$sToken);
-		echo "<span class='usbongNoteSpan'>";
-		echo "$sToken<br/>";
-		echo "</span>";
+	else if (strpos($sToken, "-->")!==false) {		
+		//added by Mike, 20230801
+		if (strpos($sToken, "http")!==false) {
+			processWebsiteReference($sToken);
+		}
+		else {				
+	//		$sToken = str_replace("-->","",$sToken);
+			echo "<span class='usbongNoteSpan'>";
+			echo "$sToken<br/>";
+			echo "</span>";		
+		}
+/*
+		//		$sToken = str_replace("-->","",$sToken);
+			echo "<span class='usbongNoteSpan'>";
+			echo "$sToken<br/>";
+			echo "</span>";		
+*/				
 	}
 	else if (strpos(strtolower($sToken), "reference")!==false) {		
 		//added by Mike, 20230518
@@ -1501,13 +1537,17 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		echo "</span>";
 */
 //		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken," "),strpos($sToken,";")-2);	
+	
+		//edited by Mike, 20230801
+		processWebsiteReference($sToken);
+/*
 		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
 
 		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp)); 
 
 		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 		echo $sReferenceWebsiteTemp."</a><br/>";				
-
+*/
 	}
 	else {
 		//if prev token was a note
