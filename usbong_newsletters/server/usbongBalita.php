@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230801; from 20230711
+  @date updated: 20230815; from 20230801
   @website address: http://www.usbong.ph
   
   Input:
@@ -268,6 +268,19 @@
 						{
 							color: rgb(0,0,0); /* from black to white */ 							
 						}
+						
+						img.Image-philnitsLogo {
+				/*
+							max-width: 20%;
+				*/				
+							width: 45%;					
+							height: auto;
+							
+							float: left;
+							text-align: center;
+							
+							padding-left: 5%;
+						}							
 
 						img.Image-companyLogo {
 							/*  //edited by Mike, 20220630
@@ -281,8 +294,13 @@
 							
 							float: left;
 							text-align: center;
+/*							
 							padding-left: 2%;
 							padding-top: 1%;
+*/
+							padding-left: 2%;
+							padding-top: 4%;
+
 						}
 
 						img.Image-companyLogoMobile {
@@ -291,8 +309,13 @@
 							
 							float: left;
 							text-align: center;
+							
+/*							
 							padding-left: 2%;
 							padding-top: 1%;
+*/
+							padding-left: 2%;
+							padding-top: 4%;
 						}						
 
 						img.newsletterImage {
@@ -566,6 +589,7 @@
 						td.imageColumn
 						{
 							width: 20%;
+							
 							/*display: inline-block;*/
 						}						
 
@@ -659,7 +683,10 @@
 <!-- //edited by Mike, 20211014
 	<base href="http://localhost/usbong_newsletters/" target="_blank">
 -->
+
+<!-- //removed by Mike, 20230815
 	<base href="http://store.usbong.ph/" target="_blank">
+-->
 
 	<!-- added by Mike, 20220630 -->
 	
@@ -911,19 +938,23 @@
 
 	<table class="imageTable">
 	  <tr>
-		<td class="imageColumn">			
+		<td class="imageColumn">	
 		<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 <?php 
-
 	if (isMobile()) {	
-		echo "<img class='Image-companyLogoMobile' src='assets/images/usbongLogo.png'>";
+		echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
 	}
 	else {
-		echo "<img class='Image-companyLogo' src='assets/images/usbongLogo.png'>";
+		echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
 	}
 ?>
+		</a>
+		
+		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">		
+<img class="Image-philnitsLogo" src='../assets/images/philnitsLogo.jpg'>
 		</a>	
-		</td>	
+		
+		</td>
 		<td class="pageNameColumn">
 		<div class='formTitle'>
 <?php 
