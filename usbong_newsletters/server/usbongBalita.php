@@ -7,7 +7,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230815; from 20230801
+  @date updated: 20230816; from 20230815
   @website address: http://www.usbong.ph
   
   Input:
@@ -587,9 +587,11 @@
 						}						
 						
 						td.imageColumn
-						{
-							width: 20%;
-							
+						{							
+							/*TODO: verify this*/
+							width: 60%; /*40%*/
+							display: inline-block;							
+							/*width: 20%;*/							
 							/*display: inline-block;*/
 						}						
 
