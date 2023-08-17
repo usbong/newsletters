@@ -273,7 +273,7 @@
 				/*
 							max-width: 20%;
 				*/				
-							width: 45%;					
+							width: 40%;					
 							height: auto;
 							
 							float: left;
@@ -289,7 +289,7 @@
 /*
 							max-width: 100%;
 */
-							width: 50%; 
+							width: 40%; 
 							height: auto;
 							
 							float: left;
@@ -304,7 +304,7 @@
 						}
 
 						img.Image-companyLogoMobile {
-							width: 100%; 
+							width: 40%; 
 							height: auto;
 							
 							float: left;
@@ -460,7 +460,7 @@
 							background-color: rgb(146,208,80);
 							color: rgb(64,64,64);
 							text-decoration: none;
-							width: 100px;
+							width: 100%; /*100px;*/
 						}
 
 						a.menuLink:hover
@@ -589,7 +589,8 @@
 						td.imageColumn
 						{							
 							/*TODO: verify this*/
-							width: 60%; /*40%*/
+							width: 100%; /*40%*/
+							
 							display: inline-block;							
 							/*width: 20%;*/							
 							/*display: inline-block;*/
