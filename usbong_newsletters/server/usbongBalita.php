@@ -4,14 +4,16 @@
   
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+  
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230817; from 20230816
+  @date updated: 20230821; from 20230817
   @website address: http://www.usbong.ph
   
   Input:
   1) Lessons-learned HTML TEXT FILE
+  
   Output:
   1) Usbong Balita viewable using Computer/Mobile Web Browsers  
   
@@ -273,13 +275,14 @@
 				/*
 							max-width: 20%;
 				*/				
-							width: 40%;					
+							width: 80%; /* 40%; */
 							height: auto;
 							
 							float: left;
 							text-align: center;
-							
+/*							
 							padding-left: 5%;
+*/
 						}							
 
 						img.Image-companyLogo {
@@ -289,7 +292,7 @@
 /*
 							max-width: 100%;
 */
-							width: 40%; 
+							width: 80%; /* 40%; */
 							height: auto;
 							
 							float: left;
@@ -304,7 +307,7 @@
 						}
 
 						img.Image-companyLogoMobile {
-							width: 40%; 
+							width: 80%; /* 40%; */
 							height: auto;
 							
 							float: left;
@@ -589,12 +592,21 @@
 						td.imageColumn
 						{							
 							/*TODO: verify this*/
-							width: 100%; /*40%*/
+							width: 40%; /*100%*/
 							
-							display: inline-block;							
+							display: inline-block;		
+							
 							/*width: 20%;*/							
 							/*display: inline-block;*/
-						}						
+						}	
+
+						td.imageColumnPartTwo
+						{							
+							/*TODO: verify this*/
+							width: 40%; /*100%*/
+							
+							display: inline-block;		
+						}							
 
 						td.pageNameColumn
 						{
@@ -952,6 +964,8 @@
 	}
 ?>
 		</a>
+		</td>
+		<td class="imageColumnPartTwo">
 		
 		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">		
 <img class="Image-philnitsLogo" src='../assets/images/philnitsLogo.jpg'>
