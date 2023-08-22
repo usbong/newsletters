@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230821; from 20230815
+  @date updated: 20230822; from 20230821
   @website address: http://www.usbong.ph
   
   Input:
@@ -319,7 +319,18 @@
 */
 							padding-left: 2%;
 							padding-top: 4%;
-						}						
+						}	
+						
+						img.Image-examAnswer {
+							width: 30%; /* 40%; */
+							height: auto;
+							
+							float: left;
+							text-align: center;
+							
+							padding-left: 2%;
+							padding-top: 4%;
+						}	
 
 						img.newsletterImage {
 							max-width: 100%;
@@ -1010,16 +1021,38 @@
 	<br/>
 <?php	
 		//TODO: -update: this
-		echo "<table class='bodyTable'>
+?>		
+		<table class='bodyTable'>
 				<tr>
 				<td>
-					<div class='mainTextDiv'>
-					</div>
-				<td>
+<!--<div class='mainTextDiv'>";-->
+					
+<img class='' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
+					
+<!--echo "</div>-->
+				</td>
+				</tr>
 				<tr>
-			  </table>";
-?>	
-	<br/>
+				<td>
+					<h2><b>ANSWER</b></h2>
+				</td>
+				<td>
+
+					<audio width="416" height="312" controls>
+	  <source src="../assets/audio/usbongEnglishSecondState - 18 08 2023, 8.23 PM.mp3" type="audio/mp3">
+	  Your browser does not support the audio tag.
+	</audio><br/>
+				</td>
+				</tr>
+				
+				<tr>
+				<td>
+<img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>
+				
+				</td>
+				</tr>
+			  </table>
+
 	<br/>
 	<div class="copyright">
 		<span>
