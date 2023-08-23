@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230822; from 20230821
+  @date updated: 20230823; from 20230822
   @website address: http://www.usbong.ph
   
   Input:
@@ -343,6 +343,21 @@
 							height: auto;
 							border: 1px solid #ab9c7d;
 						}
+/*						
+						input.answerSelectInput {
+							margin-left: 10%;
+						}
+*/
+						input[type=radio] {
+							border: 0px;
+							width: 10%;
+							height: 2em;
+						}		
+						
+						label.answerSelectLabel {
+							margin-right: 10%;
+							font-size: 18pt;
+						}
 						
 						div.newsletterImageTextDiv {
 							text-align: center;							
@@ -402,7 +417,11 @@
 							border: 1px solid #aaaaaa;/*#ab9c7d;*/	
 							padding-right: 2%;		
                         }
-
+						
+						td.answerSelectTd
+						{
+							padding-left: 5%;
+						}
 
 						td.imageTableColumnTd
 						{
@@ -1031,6 +1050,43 @@
 					
 <!--echo "</div>-->
 				</td>
+		</tr>
+		<tr>
+		<td class="answerSelectTd">
+<!-- //added by Mike, 20230823; removed by Mike, 20230823;	
+			<select name="answerSelect" id="answerSelectId">
+			  <option value="A">A</option>
+			  <option value="B">B</option>
+			  <option value="C">C</option>
+			  <option value="D">D</option>
+			</select>
+
+<input type="radio" id="answerSelectIdA" name="fav_language" 
+
+TODO: -verify: putting on right column; answer alignment varies based on question image 
+			
+-->
+<input type="radio" id="answerSelectIdA" value="A" name="fav_language" class="answerSelectInput">
+<label class="answerSelectLabel" for="answerSelectIdA">a</label>
+
+<input type="radio" id="answerSelectIdB" value="B" name="fav_language">
+<label class="answerSelectLabel" for="answerSelectIdB">b</label>
+
+<input type="radio" id="answerSelectIdC" value="C" name="fav_language">
+<label class="answerSelectLabel" for="answerSelectIdC">c</label> 
+
+<input type="radio" id="answerSelectIdD" value="D" name="fav_language">
+<label class="answerSelectLabel" for="answerSelectIdD">d</label> 
+
+		</td>		
+				</tr>
+				<tr>
+					<td>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+					</td>
 				</tr>
 				<tr>
 				<td>
