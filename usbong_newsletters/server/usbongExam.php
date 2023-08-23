@@ -350,14 +350,39 @@
 */
 						input[type=radio] {
 							border: 0px;
-							width: 10%;
+							width: 7%;/*10%;*/
 							height: 2em;
-						}		
+						}
 						
 						label.answerSelectLabel {
 							margin-right: 10%;
 							font-size: 18pt;
 						}
+						
+						button.Button-answerDone {
+
+							padding: 12px;
+/*
+							background-color: #ffe400;
+*/
+							background-color: #bbbbbb;
+
+							color: #222222;
+							font-size: 18px;
+							font-weight: bold;
+
+							border: 0px solid;		
+							border-radius: 4px;							
+						}
+						
+						.Button-answerDone:hover {
+							background-color: #888888;/*#d4be00;*/
+						}
+
+						/*added by Mike, 20201013*/
+						.Button-answerDone:focus {
+							background-color: #888888;/*#d4be00;*/
+						}						
 						
 						div.newsletterImageTextDiv {
 							text-align: center;							
@@ -420,7 +445,8 @@
 						
 						td.answerSelectTd
 						{
-							padding-left: 5%;
+							padding-left: 2%;
+							border-left: 1px dotted
 						}
 
 						td.imageTableColumnTd
@@ -1050,8 +1076,10 @@
 					
 <!--echo "</div>-->
 				</td>
+<!--
 		</tr>
 		<tr>
+-->
 		<td class="answerSelectTd">
 <!-- //added by Mike, 20230823; removed by Mike, 20230823;	
 			<select name="answerSelect" id="answerSelectId">
@@ -1077,6 +1105,11 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 
 <input type="radio" id="answerSelectIdD" value="D" name="fav_language">
 <label class="answerSelectLabel" for="answerSelectIdD">d</label> 
+<br/>
+<br/>
+		<button type="submit" class="Button-answerDone">
+			DONE!
+		</button>
 
 		</td>		
 				</tr>
