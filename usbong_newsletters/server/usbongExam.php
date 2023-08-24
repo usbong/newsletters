@@ -387,6 +387,8 @@
 							background-color: #261c0e;
 							
 							/*#888888;*//*#d4be00;*/
+							
+							color: #719ff4;
 						}
 
 						/*added by Mike, 20201013*/
@@ -471,6 +473,10 @@
 							vertical-align: top;
 							padding: 5%;
 							padding-left: 0%;
+						}
+						
+						td.answerTd {
+							visibility: hidden;
 						}
 
 						table.noteTable
@@ -790,6 +796,11 @@
 	  		
 		function onLoad() {
 		  //alert ("HALLO");
+		  
+			//added by Mike, 20230824
+			//reference: https://stackoverflow.com/questions/7146322/radio-button-needs-to-be-reset-while-refreshing; last accessed: 20230824
+			//answer by: Robby Shaw, 20110822T1128
+			clearRadioInput.reset();
 
 			//added by Mike, 20230510
 			if (/Mobile|Android|webOS|iPhone|iPad|iPod|AppleWebKit|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
@@ -902,6 +913,18 @@
 				}			  
 		
 			}, false);
+		}
+		
+		function showAnswer() {	
+			//alert("HALLO!");
+			
+			//reference: https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp; last accessed: 20230824
+			
+			const myAnswerTdColletion = document.getElementsByClassName("answerTd");
+									
+			for (let i = 0; i < myAnswerTdColletion.length; i++) {
+				myAnswerTdColletion[i].style.visibility = "visible";
+			}			
 		}
 	  </script>
 
@@ -1106,6 +1129,8 @@
 TODO: -verify: putting on right column; answer alignment varies based on question image 
 			
 -->
+<form name="clearRadioInput">
+
 <input type="radio" id="answerSelectIdA" value="A" name="fav_language" class="answerSelectInput">
 <label class="answerSelectLabel" for="answerSelectIdA">a</label>
 
@@ -1117,11 +1142,13 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 
 <input type="radio" id="answerSelectIdD" value="D" name="fav_language">
 <label class="answerSelectLabel" for="answerSelectIdD">d</label> 
+
+</form>
 <br/>
 <br/>
 <br/>
 <br/>
-		<button type="submit" class="Button-answerDone">
+		<button onclick="showAnswer()" class="Button-answerDone">
 			DONE!
 		</button>
 
@@ -1136,10 +1163,10 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 					</td>
 				</tr>
 				<tr>
-				<td>
+				<td class="answerTd">
 					<h2><b>ANSWER</b></h2>
 				</td>
-				<td>
+				<td class="answerTd">
 
 					<audio width="416" height="312" controls>
 	  <source src="../assets/audio/usbongEnglishSecondState - 18 08 2023, 8.23 PM.mp3" type="audio/mp3">
@@ -1149,7 +1176,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				</tr>
 				
 				<tr>
-				<td>
+				<td class="answerTd">
 <img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>
 				
 				</td>
