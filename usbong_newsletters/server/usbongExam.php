@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230823; from 20230822
+  @date updated: 20230824; from 20230823
   @website address: http://www.usbong.ph
   
   Input:
@@ -365,23 +365,35 @@
 /*
 							background-color: #ffe400;
 */
+/*
 							background-color: #bbbbbb;
+*/
+/*
+							background-color: #222222;
+*/
+							background-color: #392a14;
 
-							color: #222222;
+							color: /*#00ff00;*/ #ffffff;/*#222222;*/
 							font-size: 18px;
 							font-weight: bold;
 
 							border: 0px solid;		
-							border-radius: 4px;							
+							border-radius: 4px;	
+							
+							float: right;							
 						}
 						
 						.Button-answerDone:hover {
-							background-color: #888888;/*#d4be00;*/
+							background-color: #261c0e;
+							
+							/*#888888;*//*#d4be00;*/
 						}
 
 						/*added by Mike, 20201013*/
 						.Button-answerDone:focus {
-							background-color: #888888;/*#d4be00;*/
+							background-color: #261c0e;
+							
+							/*#888888;*//*#d4be00;*/
 						}						
 						
 						div.newsletterImageTextDiv {
@@ -1105,6 +1117,8 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 
 <input type="radio" id="answerSelectIdD" value="D" name="fav_language">
 <label class="answerSelectLabel" for="answerSelectIdD">d</label> 
+<br/>
+<br/>
 <br/>
 <br/>
 		<button type="submit" class="Button-answerDone">
