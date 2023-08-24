@@ -95,6 +95,7 @@
 							transform-origin: 0 0;	
 */							
 
+
 							/* //edited by Mike, 20220630
 							   //note: faster to read, without NEED to move head from left to right; */
 							/*
@@ -343,6 +344,14 @@
 							height: auto;
 							border: 1px solid #ab9c7d;
 						}
+						
+						img.examQuestionImage {
+/* //TODO: verify: this							
+							max-width: 100%;
+							height: auto;
+*/							
+						}
+						
 /*						
 						input.answerSelectInput {
 							margin-left: 10%;
@@ -1107,7 +1116,7 @@
 				<td>
 <!--<div class='mainTextDiv'>";-->
 					
-<img class='' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
+<img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
 					
 <!--echo "</div>-->
 				</td>
