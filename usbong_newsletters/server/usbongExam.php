@@ -249,6 +249,11 @@
 							font-size: 16pt;
 							color: rgb(0,0,0); /* black */
 							font-weight: bold;
+							
+/*							
+							position: relative;
+							top: -100px;
+*/							
 						}
 					
 						h3
@@ -331,11 +336,17 @@
 							width: 30%; /* 40%; */
 							height: auto;
 							
+							/* notes: excess space at the bottom */
+							display: block;
+							vertical-align: top;
+							line-height: 0;
+/*							
 							float: left;
 							text-align: center;
 							
 							padding-left: 2%;
 							padding-top: 4%;
+*/
 						}	
 
 						img.newsletterImage {
@@ -465,10 +476,13 @@
 						{
 							width: 100%;/*90%;*/
 							height: auto;
-							
+
 							zoom: 80%; 	
 							transform: scale(0.8);
 							transform-origin: 0 0;
+
+							/*
+							border: 1px solid #ab9c7d;						*/	
 						}	
 						
 	                    td.mainTextTd
@@ -505,6 +519,15 @@
 						
 						td.answerTd {
 							visibility: hidden;
+							padding-top: 0%;
+						}
+						
+						tr.answerTr {
+/*
+							border: 1px solid #ab9c7d;
+*/							
+							/*display: inline-block;
+							*/						
 						}
 
 						table.noteTable
@@ -957,7 +980,12 @@
 			//added by Mike, 20230825
 			if (myAnswerTdColletion[0].style.visibility=="") { //still hidden if blank
 				//move downward by 200px
-				window.scrollBy(0, 1000);
+				//edited by Mike, 20230825
+				//window.scrollBy(0, 1000);
+				//document.getElementsByTagName('h2')[0].scrollIntoView();
+				
+				document.getElementById("answerH2Id").scrollIntoView();
+				window.scrollBy(0, -200);
 			}
 								
 			for (let i = 0; i < myAnswerTdColletion.length; i++) {
@@ -1192,6 +1220,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 
 		</td>		
 				</tr>
+				
 <!--					
 				<tr>
 					<td>
@@ -1202,9 +1231,10 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 					</td>
 				</tr>
 -->	
+
 				<tr>
 				<td class="answerTd">
-					<h2><b>ANSWER</b></h2>
+					<h2 id="answerH2Id"><b>ANSWER</b></h2>
 				</td>
 				<td class="answerTd">
 
@@ -1218,13 +1248,14 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				</td>
 				</tr>
 				
-				<tr>
+				<tr class="answerTr">
 				<td class="answerTd">
 <img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>				
 				</td>
 				</tr>
 			  </table>
 <!--
+	//note space at the bottom due to bodyTable uses 80% zoom, scale;
 	<br/>
 -->
 	<div class="copyright">
@@ -1234,6 +1265,6 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				Creative Commons Attribution License BY 4.0
 			</a>
 		</span>
-	</div>			 
+	</div>	 
   </body>
 </html>
