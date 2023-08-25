@@ -126,6 +126,11 @@
 							transform: scale(1.0);
 							/*touch-action: none;*/
 							overflow: auto;
+/*							
+							zoom: 80%; 	
+							transform: scale(0.8);
+							transform-origin: 0 0;	
+*/							
                         }
                         	
 	                    div.mainTextDiv
@@ -350,6 +355,9 @@
 							max-width: 100%;
 							height: auto;
 */							
+/*
+							width: 100%;
+*/
 						}
 						
 /*						
@@ -457,6 +465,10 @@
 						{
 							width: 100%;/*90%;*/
 							height: auto;
+							
+							zoom: 80%; 	
+							transform: scale(0.8);
+							transform-origin: 0 0;
 						}	
 						
 	                    td.mainTextTd
@@ -465,9 +477,16 @@
 							border: 1px solid #aaaaaa;/*#ab9c7d;*/	
 							padding-right: 2%;		
                         }
-						
+/*
+						td.questionTd
+						{
+							width: 80%;
+						}
+*/						
 						td.answerSelectTd
 						{
+/*							max-width: 10%;
+*/
 							padding-left: 2%;
 							border-left: 1px dotted
 						}
@@ -810,6 +829,10 @@
 			//reference: https://stackoverflow.com/questions/7146322/radio-button-needs-to-be-reset-while-refreshing; last accessed: 20230824
 			//answer by: Robby Shaw, 20110822T1128
 			clearRadioInput.reset();
+			
+			//added by Mike, 20230825
+			//move to top
+			window.scrollBy(0, -3000);
 
 			//added by Mike, 20230510
 			if (/Mobile|Android|webOS|iPhone|iPad|iPod|AppleWebKit|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
@@ -930,10 +953,16 @@
 			//reference: https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp; last accessed: 20230824
 			
 			const myAnswerTdColletion = document.getElementsByClassName("answerTd");
-									
+								
+			//added by Mike, 20230825
+			if (myAnswerTdColletion[0].style.visibility=="") { //still hidden if blank
+				//move downward by 200px
+				window.scrollBy(0, 1000);
+			}
+								
 			for (let i = 0; i < myAnswerTdColletion.length; i++) {
 				myAnswerTdColletion[i].style.visibility = "visible";
-			}			
+			}		
 		}
 	  </script>
 
@@ -1113,7 +1142,7 @@
 ?>		
 		<table class='bodyTable'>
 				<tr>
-				<td>
+				<td class="questionTd">
 <!--<div class='mainTextDiv'>";-->
 					
 <img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
@@ -1163,6 +1192,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 
 		</td>		
 				</tr>
+<!--					
 				<tr>
 					<td>
 						<br/>
@@ -1171,6 +1201,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 						<br/>
 					</td>
 				</tr>
+-->	
 				<tr>
 				<td class="answerTd">
 					<h2><b>ANSWER</b></h2>
@@ -1180,19 +1211,22 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 					<audio width="416" height="312" controls>
 	  <source src="../assets/audio/usbongEnglishSecondState - 18 08 2023, 8.23 PM.mp3" type="audio/mp3">
 	  Your browser does not support the audio tag.
-	</audio><br/>
+	</audio>
+<!--	
+	<br/>
+-->
 				</td>
 				</tr>
 				
 				<tr>
 				<td class="answerTd">
-<img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>
-				
+<img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>				
 				</td>
 				</tr>
 			  </table>
-
+<!--
 	<br/>
+-->
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
