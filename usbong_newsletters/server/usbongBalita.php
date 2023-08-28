@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230826; from 20230821
+  @date updated: 20230828; from 20230826
   @website address: http://www.usbong.ph
   
   Input:
@@ -19,6 +19,7 @@
   
   Computer Browser: Website Address (Example):
   1) local: http://localhost/usbong_newsletters/server/usbongBalita.php
+  
   2) public internet: http://store.usbong.ph/server/usbongBalita.php
   
   Recommended References:
@@ -29,6 +30,9 @@
   
   1) https://www.w3schools.com/howto/howto_css_table_center.asp;
   //last accessed: 20210703
+  //https://www.w3schools.com/css/css_font_size.asp;
+  //last accessed: 20230828; "Responsive Font Size"
+  
   2) https://www.asahi.com/; last accessed: 20220626
   
   3) https://www.1101.com/home.html; last accessed: 20220626
@@ -75,6 +79,9 @@
 							/*	//removed by Mike, 20220701
 							  font-size: 16pt;
 							*/
+							
+							/* //added by Mike, 20230828 */
+							font-size: 100%;
 
 							color: rgb(30,30,30); /*rgb(120,63,4);*/
 							
@@ -182,7 +189,11 @@
 							padding: 2%;
 							
 							text-align: justify;
-							text-justify: inter-word;					
+							text-justify: inter-word;			
+
+							/* //added by Mike, 20230828 */
+							font-size: 100%;
+							
 
 							/*-webkit-user-select: none;*/ /* Safari */
 							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
@@ -194,9 +205,16 @@
 									
 						div.formTitle
 						{
+							max-width: 100%;
+							height: 100%;
+							
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 28pt; /*30pt*80%;*/
+
+							/*font-size: 28pt;*/
+							font-size: 2em;			
+							
+							
 							color: rgb(0,0,0); /* black */
 					
 							padding-right: 2%;
