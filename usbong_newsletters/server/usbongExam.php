@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230824; from 20230823
+  @date updated: 20230829; from 20230826
   @website address: http://www.usbong.ph
   
   Input:
@@ -200,9 +200,16 @@
 									
 						div.formTitle
 						{
+							max-width: 100%;
+							height: 100%;
+							
 							text-align: right;
 /*							font-weight: bold;*/	
-							font-size: 28pt; /*30pt*80%;*/
+
+							/*font-size: 28pt;*/
+							font-size: 2em;			
+							
+							
 							color: rgb(0,0,0); /* black */
 					
 							padding-right: 2%;
@@ -330,7 +337,7 @@
 */
 							padding-left: 2%;
 							padding-top: 4%;
-						}	
+						}							
 						
 						img.Image-examAnswer {
 							width: 30%; /* 40%; */
@@ -717,20 +724,20 @@
 						td.imageColumn
 						{							
 							/*TODO: verify this*/
-							width: 40%; /*100%*/
-							
+							width: 20%; /*40%; 100%*/
+
+/*							
 							display: inline-block;		
-							
-							/*width: 20%;*/							
-							/*display: inline-block;*/
+*/
 						}	
 
 						td.imageColumnPartTwo
 						{							
 							/*TODO: verify this*/
-							width: 40%; /*100%*/
-							
+							width: 20%; /*40%; 100%*/
+/*								
 							display: inline-block;		
+*/							
 						}							
 
 						td.pageNameColumn
@@ -738,7 +745,7 @@
 							width: 45%; /*40%;*/
 							/*display: inline-block;*/
 							text-align: right;
-						}				
+						}						
 						
 						td.menuColumn
 						{
@@ -815,7 +822,7 @@
     /**/
     </style>
     <title>
-      USBONG BALITA
+      USBONG EXAM
     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
@@ -985,7 +992,9 @@
 				//document.getElementsByTagName('h2')[0].scrollIntoView();
 				
 				document.getElementById("answerH2Id").scrollIntoView();
-				window.scrollBy(0, -200);
+				//edited by Mike, 20230829
+				//window.scrollBy(0, -200);
+				window.scrollBy(0, -350);
 			}
 								
 			for (let i = 0; i < myAnswerTdColletion.length; i++) {
