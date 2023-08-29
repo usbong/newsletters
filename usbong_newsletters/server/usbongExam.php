@@ -354,6 +354,9 @@
 							padding-left: 2%;
 							padding-top: 4%;
 */
+
+							padding-top: 4%;
+
 						}	
 
 						img.newsletterImage {
@@ -524,11 +527,22 @@
 							padding-left: 0%;
 						}
 						
+						td.answerRightColumnTd {
+							visibility: hidden;
+							padding-top: 0%;
+							
+							padding-left: 2%;
+							border-left: 1px dotted;		
+						}
+						
 						td.answerTd {
 							visibility: hidden;
 							padding-top: 0%;
+							
+							padding-left: 2%;
+							border-right: 1px dotted;
 						}
-						
+
 						tr.answerTr {
 /*
 							border: 1px solid #ab9c7d;
@@ -1000,6 +1014,9 @@
 			for (let i = 0; i < myAnswerTdColletion.length; i++) {
 				myAnswerTdColletion[i].style.visibility = "visible";
 			}		
+			
+			//added by Mike, 20230829
+			document.getElementById("answerRightColumnTdId").style.visibility = "visible";			
 		}
 	  </script>
 
@@ -1245,7 +1262,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				<td class="answerTd">
 					<h2 id="answerH2Id"><b>ANSWER</b></h2>
 				</td>
-				<td class="answerTd">
+				<td id="answerRightColumnTdId" class="answerRightColumnTd">
 
 					<audio width="416" height="312" controls>
 	  <source src="../assets/audio/usbongEnglishSecondState - 18 08 2023, 8.23 PM.mp3" type="audio/mp3">
