@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230829; from 20230826
+  @date updated: 20230830; from 20230829
   @website address: http://www.usbong.ph
   
   Input:
@@ -487,9 +487,11 @@
 							width: 100%;/*90%;*/
 							height: auto;
 
+/* //removed by Mike, 20230830; incorrect output on iPAD, Lenovo TabletPC
 							zoom: 80%; 	
 							transform: scale(0.8);
 							transform-origin: 0 0;
+*/
 
 							/*
 							border: 1px solid #ab9c7d;						*/	
