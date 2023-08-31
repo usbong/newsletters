@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230830; from 20230829
+  @date updated: 20230831; from 20230830
   @website address: http://www.usbong.ph
   
   Input:
@@ -376,9 +376,9 @@
 							max-width: 100%;
 							height: auto;
 */							
-/*
+
 							width: 100%;
-*/
+							height: auto;
 						}
 						
 /*						
@@ -503,16 +503,18 @@
 							border: 1px solid #aaaaaa;/*#ab9c7d;*/	
 							padding-right: 2%;		
                         }
-/*
+
 						td.questionTd
 						{
 							width: 80%;
 						}
-*/						
+						
 						td.answerSelectTd
 						{
 /*							max-width: 10%;
 */
+							max-width: 10%;
+
 							padding-left: 2%;
 							border-left: 1px dotted
 						}
@@ -534,7 +536,9 @@
 							padding-top: 0%;
 							
 							padding-left: 2%;
-							border-left: 1px dotted;		
+							border-left: 1px dotted;	
+
+							width: 10%;
 						}
 						
 						td.answerTd {
@@ -1261,6 +1265,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 -->	
 
 				<tr>
+				
 				<td class="answerTd">
 					<h2 id="answerH2Id"><b>ANSWER</b></h2>
 				</td>
@@ -1283,9 +1288,11 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				</tr>
 			  </table>
 <!--
-	//note space at the bottom due to bodyTable uses 80% zoom, scale;
-	<br/>
+	//note space at the bottom due to bodyTable uses 80% zoom, scale; 
+	opting not to use zoom tool anymore; problem with iPAD;
 -->
+
+	<br/>
 	<div class="copyright">
 		<span>
 			© SYSON, MICHAEL B. & USBONG. 2011~<?php echo date("Y");?>. All rights reserved.<br/>
