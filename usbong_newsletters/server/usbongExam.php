@@ -508,14 +508,14 @@
 
 						td.questionTd
 						{
-							width: 70%;
+							width: 60%;
 						}
 						
 						td.answerSelectTd
 						{
 /*							max-width: 10%;
 */
-							max-width: 30%;
+							max-width: 40%;
 
 							padding-left: 2%;
 							border-left: 1px dotted
