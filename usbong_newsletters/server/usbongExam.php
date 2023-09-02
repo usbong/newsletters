@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230901; from 20230831
+  @date updated: 20230902; from 20230901
   @website address: http://www.usbong.ph
   
   Input:
@@ -176,11 +176,8 @@
                         }                        
 									
 						/* TO-DO: -update: this to include body */
+/*
 						body.mobileBody {
-							/* added by Mike, 20220627 
-							  //reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/views/templates/style_v2.php;
-							  last accessed: 20220627							  
-							*/
 							max-width: 100%;
 							height: 100%;
 							  
@@ -190,14 +187,36 @@
 							text-align: justify;
 							text-justify: inter-word;					
 
-							/*-webkit-user-select: none;*/ /* Safari */
-							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
-							/*user-select: none;*/ /* standard syntax */	
+							overflow: auto;							
+						}
+*/
+
+						/* edited by Mike, 20230902; TODO: verify: this */
+ 						body.mobileBody
+                        {
+							color: rgb(30,30,30); /*rgb(120,63,4);*/
+														
+							/* //edited by Mike, 20221208
+							width: 50%;
+							*/	
+							width: 100%;
+							height: 100%;
+							
+							padding: 2%;
+							padding-top: 1%;
+							
+							/* //added by Mike, 20220628 
+							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
+							   //last accessed: 20220628
+							*/
+							
+							text-align: justify;
+							text-justify: inter-word;							
 							transform: scale(1.0);
 							/*touch-action: none;*/
-							  overflow: auto;							
-						}
-									
+							overflow: auto;
+                        }
+						
 						div.formTitle
 						{
 							max-width: 100%;
