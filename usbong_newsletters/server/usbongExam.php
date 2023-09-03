@@ -398,6 +398,11 @@
 
 							width: 100%;
 							height: auto;
+
+/*	//note: other objects use position relative;
+							position: position;
+							clip: rect(0px, 800px, 360px, 0px);
+*/							
 						}
 						
 /*						
