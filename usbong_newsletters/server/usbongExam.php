@@ -67,7 +67,7 @@
 	
     <style type="text/css">
 	/**/
-	
+						 
  						body
                         {
 							/*font-family: Tahoma, sans-serif;*/ /*Arial*
@@ -532,17 +532,32 @@
 
 						td.questionTd
 						{
+/*
 							width: 60%;
+*/							
+							width: 100%;
 						}
 						
 						td.answerSelectTd
 						{
 /*							max-width: 10%;
 */
-							max-width: 40%;
-
+/*							max-width: 40%;
+*/
+/*
+							width: 100%;
+*/							
+							text-align: center;
+/*
+							border: 1px dotted
+*/							
+/*
 							padding-left: 2%;
+*/
+							
+/* //removed by Mike, 20230903							
 							border-left: 1px dotted
+*/							
 						}
 
 						td.imageTableColumnTd
@@ -562,8 +577,9 @@
 							padding-top: 0%;
 							
 							padding-left: 2%;
+/* //removed by Mike, 20230903														
 							border-left: 1px dotted;	
-
+*/
 							width: 10%;
 						}
 						
@@ -572,7 +588,9 @@
 							padding-top: 0%;
 							
 							padding-left: 2%;
+/* //removed by Mike, 20230903														
 							border-right: 1px dotted;
+*/							
 						}
 
 						tr.answerTr {
@@ -865,6 +883,10 @@
 						  display: inline-block;
 						}
 						
+						audio.answerAudio {
+							width: 240px;
+						}
+						
     /**/
     </style>
     <title>
@@ -1005,7 +1027,7 @@
 					if (bIsMobile) {
 						//alert("width" + screen.width); //320
 						//alert("height" + screen.height); //533			
-						//TO-DO: -update: font size
+						//TO-DO: -update: font size						
 					}
 				}
 				else {//if (window.matchMedia("(orientation: landscape)").matches) {
@@ -1240,7 +1262,9 @@
 		<tr>
 -->
 <!-- added by Mike, 20230903 -->
+		</tr>
 		</table>
+		
 		<table class='bodyTable'>
 		<tr>
 
@@ -1273,6 +1297,15 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 <label class="answerSelectLabel" for="answerSelectIdD">d</label> 
 
 </form>
+</td>
+</tr>
+<tr>
+<td>
+		<button onclick="showAnswer()" class="Button-answerDone">
+			DONE!
+		</button>
+
+<!--
 <br/>
 <br/>
 <br/>
@@ -1280,7 +1313,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 		<button onclick="showAnswer()" class="Button-answerDone">
 			DONE!
 		</button>
-
+-->
 		</td>		
 				</tr>
 				
@@ -1300,9 +1333,12 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				<td class="answerTd">
 					<h2 id="answerH2Id"><b>ANSWER</b></h2>
 				</td>
+</tr>
+<tr>				
+				
 				<td id="answerRightColumnTdId" class="answerRightColumnTd">
 
-					<audio width="416" height="312" controls>
+					<audio class="answerAudio" width="260" height="312" controls>
 	  <source src="../assets/audio/philnits/2022A_IP/Q1-20230815/usbongEnglishSubnetMask - 30 08 2023, 4.25 AM.mp3" type="audio/mp3">
 	  Your browser does not support the audio tag.
 	</audio>
