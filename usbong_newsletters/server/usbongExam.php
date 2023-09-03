@@ -1234,6 +1234,11 @@
 		</tr>
 		<tr>
 -->
+<!-- added by Mike, 20230903 -->
+		</table>
+		<table class='bodyTable'>
+		<tr>
+
 		<td class="answerSelectTd">
 <!-- //added by Mike, 20230823; removed by Mike, 20230823;	
 			<select name="answerSelect" id="answerSelectId">
