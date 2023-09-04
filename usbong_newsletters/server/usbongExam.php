@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230903; from 20230902
+  @date updated: 20230904; from 20230903
   @website address: http://www.usbong.ph
   
   Input:
@@ -581,6 +581,8 @@
 							border-left: 1px dotted;	
 */
 							width: 10%;
+							
+							display: none;
 						}
 						
 						td.answerTd {
@@ -591,6 +593,7 @@
 /* //removed by Mike, 20230903														
 							border-right: 1px dotted;
 */							
+							display: none;
 						}
 
 						tr.answerTr {
@@ -1062,15 +1065,22 @@
 				document.getElementById("answerH2Id").scrollIntoView();
 				//edited by Mike, 20230829
 				//window.scrollBy(0, -200);
-				window.scrollBy(0, -350);
+				//removed by Mike, 20230904
+				//window.scrollBy(0, -350);
 			}
 								
 			for (let i = 0; i < myAnswerTdColletion.length; i++) {
 				myAnswerTdColletion[i].style.visibility = "visible";
+				
+				//added by Mike, 20230904
+				myAnswerTdColletion[i].style.display ="inline";
 			}		
 			
 			//added by Mike, 20230829
 			document.getElementById("answerRightColumnTdId").style.visibility = "visible";			
+			
+			//added by Mike, 20230904
+			document.getElementById("answerRightColumnTdId").style.display ="inline";			
 		}
 	  </script>
 
