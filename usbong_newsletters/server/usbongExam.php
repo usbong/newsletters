@@ -573,7 +573,9 @@
 						}
 						
 						td.answerRightColumnTd {
+/*	//removed by Mike, 20230904
 							visibility: hidden;
+*/							
 							padding-top: 0%;
 							
 							padding-left: 2%;
@@ -586,7 +588,9 @@
 						}
 						
 						td.answerTd {
+/*	//removed by Mike, 20230904							
 							visibility: hidden;
+*/							
 							padding-top: 0%;
 							
 							padding-left: 2%;
@@ -1056,28 +1060,40 @@
 			const myAnswerTdColletion = document.getElementsByClassName("answerTd");
 								
 			//added by Mike, 20230825
-			if (myAnswerTdColletion[0].style.visibility=="") { //still hidden if blank
+/* //edited by Mike, 20230904			
+			if (myAnswerTdColletion[0].style.visibility=="") { //still hidden if blank			
 				//move downward by 200px
 				//edited by Mike, 20230825
 				//window.scrollBy(0, 1000);
 				//document.getElementsByTagName('h2')[0].scrollIntoView();
 				
 				document.getElementById("answerH2Id").scrollIntoView();
+				
 				//edited by Mike, 20230829
 				//window.scrollBy(0, -200);
 				//removed by Mike, 20230904
 				//window.scrollBy(0, -350);
 			}
+*/
+
+/*	//removed by Mike, 20230904
+			if (myAnswerTdColletion[0].style.display=="") { //still hidden if blank
+				document.getElementById("answerH2Id").scrollIntoView();
+			}
+*/			
+
+
 								
 			for (let i = 0; i < myAnswerTdColletion.length; i++) {
-				myAnswerTdColletion[i].style.visibility = "visible";
+				//removed by Mike, 20230904
+				//myAnswerTdColletion[i].style.visibility = "visible";
 				
 				//added by Mike, 20230904
 				myAnswerTdColletion[i].style.display ="inline";
 			}		
 			
 			//added by Mike, 20230829
-			document.getElementById("answerRightColumnTdId").style.visibility = "visible";			
+			//removed by Mike, 20230904			//document.getElementById("answerRightColumnTdId").style.visibility = "visible";			
 			
 			//added by Mike, 20230904
 			document.getElementById("answerRightColumnTdId").style.display ="inline";			
