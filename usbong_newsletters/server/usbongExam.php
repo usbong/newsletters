@@ -891,6 +891,11 @@
 							width: 240px;
 						}
 						
+						select.questionSelect {
+							font-size: 20pt;
+							/*font-weight: bold;*/
+						}
+						
     /**/
     </style>
     <title>
@@ -1272,6 +1277,24 @@
 		//TODO: -update: this
 ?>		
 		<table class='bodyTable'>
+<!-- added by Mike, 20230911; TODO: add: show input box if Q#; showQuestion() -->
+<tr>
+	<td>
+			<select class="questionSelect" id="questionSelectId">
+			  <option value="Q1">Q1</option>
+			  <option value="Q2">Q2</option>
+			  <option value="Q3">Q3</option>
+			  <option value="Q4">Q4</option>
+			  <option value="QN">Q#</option>
+			</select>
+<!--			
+			<button onclick="showQuestion()" class="Button-questionGo">
+				GO!
+			</button>
+-->			
+	</td>
+</tr>		
+		
 				<tr>
 				<td class="questionTd">
 <!--<div class='mainTextDiv'>";-->
