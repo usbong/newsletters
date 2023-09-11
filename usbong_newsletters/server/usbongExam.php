@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230904; from 20230903
+  @date updated: 20230911; from 20230904
   @website address: http://www.usbong.ph
   
   Input:
@@ -366,15 +366,8 @@
 							display: block;
 							vertical-align: top;
 							line-height: 0;
-/*							
-							float: left;
-							text-align: center;
-							
-							padding-left: 2%;
-							padding-top: 4%;
-*/
 
-							padding-top: 4%;
+							padding-top: 2%;
 
 						}	
 
@@ -592,11 +585,15 @@
 							visibility: hidden;
 */							
 							padding-top: 0%;
+							padding-bottom: 2%;
 							
 							padding-left: 2%;
 /* //removed by Mike, 20230903														
 							border-right: 1px dotted;
 */							
+							font-weight: bold;							
+							font-size: 24pt;
+
 							display: none;
 						}
 
@@ -1355,22 +1352,19 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 -->	
 
 				<tr>
-				
 				<td class="answerTd">
-					<h2 id="answerH2Id"><b>ANSWER</b></h2>
+<!--	//removed by Mike, 20230911		
+					<h2 id="answerH2Id"><b>ANSWER</b>
+					</h2>
+-->
+<b>ANSWER</b>
 				</td>
-</tr>
-<tr>				
-				
-				<td id="answerRightColumnTdId" class="answerRightColumnTd">
+					<td id="answerRightColumnTdId" class="answerRightColumnTd">
 
 					<audio class="answerAudio" width="260" height="312" controls>
 	  <source src="../assets/audio/philnits/2022A_IP/Q1-20230815/usbongEnglishSubnetMask - 30 08 2023, 4.25 AM.mp3" type="audio/mp3">
 	  Your browser does not support the audio tag.
 	</audio>
-<!--	
-	<br/>
--->
 				</td>
 				</tr>
 				
