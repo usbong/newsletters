@@ -1071,7 +1071,27 @@
 			var selectBox = document.getElementById("questionSelectId");
 			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
 			
-			alert(selectedValue);			
+//			alert(selectedValue);	
+
+//alert("<?php echo 'usbongExam.php';?>/"+selectedValue);			
+
+			//window.location.href = "<?php echo 'usbongExam.php';?>/"+selectedValue;
+			//output: http://localhost/usbong_newsletters/server/usbongExam.php/Q4
+
+			//window.location.pathname = "<?php echo 'usbongExam.php';?>/"+selectedValue;
+			//output: http://localhost/usbongExam.php/Q2
+			
+			//reference: https://www.w3schools.com; last accessed: 20230912
+			
+			var sInput = window.location.href;
+			//alert(sInput.substring(0,sInput.indexOf(".php")));
+			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+			
+			window.location.href = ""+sInput+selectedValue;
+			
+			//TODO: -update: selected option;
+			//note: use of "+" (in Javascript), instead of "." (in PHP);
+			
 		}
 		
 		function showAnswer() {	
@@ -1232,8 +1252,11 @@
 	//added by Mike, 20211013; edited by Mike, 20211014
 	//note: update this
 //	$sWebAddressBasePath = "http://localhost";
+
+/*	//removed by Mike, 20230912		
 	//edited by Mike, 20220304	
 	$sWebAddressBasePath = "http://store.usbong.ph";
+*/	
 ?>
 
 	<table class="imageTable">
@@ -1241,19 +1264,48 @@
 		<td class="imageColumn">	
 		<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 <?php 
+
+//reference: https://stackoverflow.com/questions/1283327/how-to-get-url-of-current-page-in-php; last accessed: 20230912
+//answer by: Amber, 20090816T0208
+//edited by: Brad Larson, 20180309T0122
+
+//echo $_SERVER['REQUEST_URI']."<br/>"; ///usbong_newsletters/server/usbongExam.php/Q4
+
+//echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
+
+$updatedDirDueToURL="";
+
+if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {	
+	//echo "HALLO!";	
+	$updatedDirDueToURL="../";
+}
+
 	if (isMobile()) {	
-		echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+		
+		//edited by Mike, 20230912
+		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+		
+		echo "<img class='Image-companyLogoMobile' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
 	else {
-		echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogo' src='../../assets/images/usbongLogo.png'>";
+		
+		echo "<img class='Image-companyLogo' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
 ?>
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
 		
-		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">		
+		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">	
+<!-- edited by Mike, 20230912 		
 <img class="Image-philnitsLogo" src='../assets/images/philnitsLogo.jpg'>
+-->
+<?php
+		echo "<img class='Image-philnitsLogo' src='../".$updatedDirDueToURL."assets/images/philnitsLogo.jpg'>";
+?>		
 		</a>	
 		
 		</td>
@@ -1330,8 +1382,15 @@
 <!--<div class='mainTextDiv'>";-->
 
 <!-- //edited by Mike, 20230912; note no wildcards usable in src
+//start; 2022A_IP; Q1-20230815 : 2022A_IP-Q1V20230815.jpg
 -->
+<!-- edited by Mike, 20230912
 <img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
+-->
+<?php 
+echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>";
+?>
+
 <!--
 		<img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q2-20230815/2022A_IP-Q2V20230815.jpg'>
 -->
@@ -1427,7 +1486,12 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 				
 				<tr class="answerTr">
 				<td class="answerTd">
-<img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>				
+<!-- edited by Mike, 20230912				
+<img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>
+-->
+<?php 
+echo "<img class='Image-examAnswer' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>";
+?>
 				</td>
 				</tr>
 			  </table>
