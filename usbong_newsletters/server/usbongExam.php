@@ -1308,7 +1308,7 @@
 			  <option value="QN">Q#</option>
 			</select>
 			
-<!-- //removed by Mike, 20230912; verify in actual use, randomly generate..., instead of setting the Questio number; reminder: sample code for number only input available in Usbong KMS; -->
+<!-- //removed by Mike, 20230912; verify in actual use, randomly generate..., instead of setting the Question number; reminder: sample code for number only input available in Usbong KMS; -->
 <!--
 <input type="number" class="questionNumberInput" placeholder="" name="questionNumberParam" required>
 
@@ -1328,9 +1328,13 @@
 				<tr>
 				<td class="questionTd">
 <!--<div class='mainTextDiv'>";-->
-					
+
+<!-- //edited by Mike, 20230912; note no wildcards usable in src
+-->
 <img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
-					
+<!--
+		<img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q2-20230815/2022A_IP-Q2V20230815.jpg'>
+-->
 <!--echo "</div>-->
 				</td>
 <!--
