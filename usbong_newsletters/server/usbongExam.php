@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230911; from 20230904
+  @date updated: 20230912; from 20230911
   @website address: http://www.usbong.ph
   
   Input:
@@ -1054,6 +1054,21 @@
 			}, false);
 		}
 		
+		//added by Mike, 20230912
+		//TODO: -add: auto-get question for the day;
+		function showQuestion() {
+			//alert("HALLO!");
+
+			//reference: https://stackoverflow.com/questions/3487263/how-to-use-onclick-or-onselect-on-option-tag-in-a-jsp-page; last accessed: 20230912;
+			//answer by: Manu, 20100815T1201
+			//edited by: YakovL, 20160717T1433
+			
+			var selectBox = document.getElementById("questionSelectId");
+			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+			
+			alert(selectedValue);			
+		}
+		
 		function showAnswer() {	
 			//alert("HALLO!");
 			
@@ -1280,7 +1295,7 @@
 <!-- added by Mike, 20230911; TODO: add: show input box if Q#; showQuestion() -->
 <tr>
 	<td>
-			<select class="questionSelect" id="questionSelectId">
+			<select class="questionSelect" id="questionSelectId" onchange="showQuestion()">
 			  <option value="Q1">Q1</option>
 			  <option value="Q2">Q2</option>
 			  <option value="Q3">Q3</option>
