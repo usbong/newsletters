@@ -896,6 +896,11 @@
 							/*font-weight: bold;*/
 						}
 						
+						input.questionNumberInput {
+							font-size: 20pt;
+							
+						}
+						
     /**/
     </style>
     <title>
@@ -1302,6 +1307,16 @@
 			  <option value="Q4">Q4</option>
 			  <option value="QN">Q#</option>
 			</select>
+			
+<!-- //removed by Mike, 20230912; verify in actual use, randomly generate..., instead of setting the Questio number; reminder: sample code for number only input available in Usbong KMS; -->
+<!--
+<input type="number" class="questionNumberInput" placeholder="" name="questionNumberParam" required>
+
+		<button type="submit" class="Button-login">
+			Enter
+		</button>
+-->		
+		
 <!--			
 			<button onclick="showQuestion()" class="Button-questionGo">
 				GO!
