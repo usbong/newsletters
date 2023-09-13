@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230912; from 20230911
+  @date updated: 20230913; from 20230912
   @website address: http://www.usbong.ph
   
   Input:
@@ -1275,6 +1275,35 @@
 
 $updatedDirDueToURL="";
 
+//added by Mike, 20230913
+$sInputURL=$_SERVER['REQUEST_URI'];
+
+//step#1
+$sQuestioNumber=substr($sInputURL, strpos($sInputURL,".php/"));
+
+//step#2
+$sQuestioNumber=substr($sQuestioNumber, strpos($sQuestioNumber,"Q"));
+
+//echo $sQuestioNumber;
+
+//step#3
+//get the question number in integer
+//start date: 20230815
+
+$iQuestioNumber=intval(substr($sQuestioNumber,1));
+//echo $iQuestioNumber;
+
+//step#4
+//reminder: did two questions per day;
+$sQuestioNumberWithDate=20230815+($iQuestioNumber-2);
+
+//echo $sQuestioNumberWithDate;
+
+//step#5
+$sQuestioNumberLocationPart=$sQuestioNumber."-".$sQuestioNumberWithDate; //output: Q2-20230816
+
+//echo $sQuestioNumberLocationPart;
+
 if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {	
 	//echo "HALLO!";	
 	$updatedDirDueToURL="../";
@@ -1388,7 +1417,20 @@ if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {
 <img class='examQuestionImage' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>
 -->
 <?php 
-echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>";
+//echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>";
+
+//$sQuestioNumber
+//note: variation by Q2
+//echo str_replace("-","V",$sQuestioNumberLocationPart);
+
+//echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestioNumberLocationPart."/2022A_IP-".str_replace("-","V",$sQuestioNumberLocationPart).".jpg'>";
+
+echo $sQuestioNumberLocationPart;
+
+//TODO: -update: this; variation in filename
+
+echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestioNumberLocationPart."/2022A-IP".str_replace("-","-V",$sQuestioNumberLocationPart).".jpg'>";
+
 ?>
 
 <!--
