@@ -49,6 +49,10 @@
   //UsbongV2 -> UsbongV3?  
   //TO-DO: -delete: excess instructions
   
+  //added by Mike, 20230913
+  //TODO: -clean code; simpler computation in odd/even for identifying question/answer locations, etc.
+  //TODO: -update: audio file location;
+  
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -358,9 +362,13 @@
 							padding-top: 4%;
 						}							
 						
-						img.Image-examAnswer {
-							width: 30%; /* 40%; */
+						img.examAnswerImage {
+/*
+							width: 30%;
 							height: auto;
+*/
+							width: 40%;
+							height: auto;							
 							
 							/* notes: excess space at the bottom */
 							display: block;
@@ -1277,32 +1285,76 @@ $updatedDirDueToURL="";
 
 //added by Mike, 20230913
 $sInputURL=$_SERVER['REQUEST_URI'];
+$sQuestionNumberLocationPart="";
+$iQuestionNumberRaw=0;
 
 //step#1
-$sQuestioNumber=substr($sInputURL, strpos($sInputURL,".php/"));
+$sQuestionNumber=substr($sInputURL, strpos($sInputURL,".php/"));
 
-//step#2
-$sQuestioNumber=substr($sQuestioNumber, strpos($sQuestioNumber,"Q"));
+/*
+echo "sInputURL: ".$sInputURL."<br/><br/>";
+///usbong_newsletters/server/usbongExam.php
 
-//echo $sQuestioNumber;
+echo "sQuestionNumber: ".$sQuestionNumber."<br/><br/><br/>";
+///usbong_newsletters/server/usbongExam.php
+*/
 
-//step#3
-//get the question number in integer
-//start date: 20230815
+//.".php/"
+if ($sQuestionNumber==$sInputURL) { //default URL; no Q1, etc.
 
-$iQuestioNumber=intval(substr($sQuestioNumber,1));
-//echo $iQuestioNumber;
+//default;
+$sQuestionNumberLocationPart="Q1-20230815";
+//	echo "DITO";
+}
+else {
 
-//step#4
-//reminder: did two questions per day;
-$sQuestioNumberWithDate=20230815+($iQuestioNumber-2);
+	//step#2
+	$sQuestionNumber=substr($sQuestionNumber, strpos($sQuestionNumber,"Q"));
 
-//echo $sQuestioNumberWithDate;
+	//echo $sQuestionNumber;
 
-//step#5
-$sQuestioNumberLocationPart=$sQuestioNumber."-".$sQuestioNumberWithDate; //output: Q2-20230816
+	//step#3
+	//get the question number in integer
+	//start date: 20230815
 
-//echo $sQuestioNumberLocationPart;
+	$iQuestionNumber=intval(substr($sQuestionNumber,1));
+	$iQuestionNumberRaw=$iQuestionNumber;
+
+	//echo "sQuestionNumber: ".$sQuestionNumber."<br/>";
+
+	//step#4
+	//reminder: did two questions per day;
+	//Q1 : 1; Q2 : 1; 
+	//Q3 : 2; Q4 : 2;
+	//Q5 : 3; Q6 : 3;
+	//Q7 : 4; Q8 : 4;
+	if ($iQuestionNumber%2==0) { //even
+		$iQuestionNumber=$iQuestionNumber/2-1;
+	}
+	else { //odd
+		//note: computation; simpler exists?
+		if ($iQuestionNumber==1) {
+			$iQuestionNumber=0;
+		}
+		else {
+			//echo intval($iQuestionNumber/2);
+			//echo $iQuestionNumber%2;
+			
+			$iQuestionNumber=intval($iQuestionNumber/2)+$iQuestionNumber%2-1;
+		}
+		
+		//echo $iQuestionNumber;
+	}
+	
+	$sQuestionNumberWithDate=20230815+($iQuestionNumber);
+
+	//echo "sQuestionNumberWithDate: ".$sQuestionNumberWithDate."<br/>";
+
+	//step#5
+	$sQuestionNumberLocationPart=$sQuestionNumber."-".$sQuestionNumberWithDate; //output: Q2-20230816
+
+	//echo $sQuestionNumberLocationPart;
+}
 
 if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {	
 	//echo "HALLO!";	
@@ -1381,13 +1433,34 @@ if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {
 <!-- added by Mike, 20230911; TODO: add: show input box if Q#; showQuestion() -->
 <tr>
 	<td>
+	<?php 
+	//echo "DITO: ".$iQuestionNumberRaw;
+?>	
+
 			<select class="questionSelect" id="questionSelectId" onchange="showQuestion()">
+			<?php 
+				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
+				for ($i=1; $i<=7; $i++) {
+					if ($i==$iQuestionNumberRaw) {
+						echo "<option value='Q".$i."' selected>Q".$i."</option>";
+					}
+					else {					
+						echo "<option value='Q".$i."'>Q".$i."</option>";
+					}
+				}
+			?>
+<!--			  					
 			  <option value="Q1">Q1</option>
 			  <option value="Q2">Q2</option>
 			  <option value="Q3">Q3</option>
 			  <option value="Q4">Q4</option>
+			  <option value="Q5">Q5</option>
+			  <option value="Q6">Q6</option>
+			  <option value="Q7">Q7</option>
 			  <option value="QN">Q#</option>
-			</select>
+-->
+
+			  </select>
 			
 <!-- //removed by Mike, 20230912; verify in actual use, randomly generate..., instead of setting the Question number; reminder: sample code for number only input available in Usbong KMS; -->
 <!--
@@ -1419,17 +1492,20 @@ if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {
 <?php 
 //echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-Q1V20230815.jpg'>";
 
-//$sQuestioNumber
+//$sQuestionNumber
 //note: variation by Q2
-//echo str_replace("-","V",$sQuestioNumberLocationPart);
+//echo str_replace("-","V",$sQuestionNumberLocationPart);
 
-//echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestioNumberLocationPart."/2022A_IP-".str_replace("-","V",$sQuestioNumberLocationPart).".jpg'>";
+//echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestionNumberLocationPart."/2022A_IP-".str_replace("-","V",$sQuestionNumberLocationPart).".jpg'>";
 
-echo $sQuestioNumberLocationPart;
+echo $sQuestionNumberLocationPart;
 
 //TODO: -update: this; variation in filename
 
-echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestioNumberLocationPart."/2022A-IP".str_replace("-","-V",$sQuestioNumberLocationPart).".jpg'>";
+//2022A-IPQ1-V20230815
+//2022A-IPA1-V20230815
+
+echo "<img class='examQuestionImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestionNumberLocationPart."/2022A-IP".str_replace("-","-V",$sQuestionNumberLocationPart).".jpg'>";
 
 ?>
 
@@ -1532,7 +1608,18 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 <img class='Image-examAnswer' src='../assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>
 -->
 <?php 
-echo "<img class='Image-examAnswer' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>";
+//edited by Mike, 20230913
+//echo "<img class='Image-examAnswer' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/Q1-20230815/2022A_IP-A1V20230815.jpg'>";
+
+//2022A-IPQ1-V20230815
+//2022A-IPA1-V20230815
+
+$sQuestionNumberLocationPartAnswer=str_replace("Q","A",$sQuestionNumberLocationPart);
+
+//echo ">>>>".$sQuestionNumberLocationPartAnswer;
+
+echo "<img class='examAnswerImage' src='../".$updatedDirDueToURL."assets/images/philnits/2022A_IP/".$sQuestionNumberLocationPart."/2022A-IP".str_replace("-","-V",$sQuestionNumberLocationPartAnswer).".jpg'>";
+
 ?>
 				</td>
 				</tr>
