@@ -595,12 +595,10 @@
 							visibility: hidden;
 */							
 							padding-top: 0%;
-							padding-bottom: 2%;
+							padding-bottom: 0%; /*2%*/
 							
 							padding-left: 2%;
-/* //removed by Mike, 20230903														
-							border-right: 1px dotted;
-*/							
+						
 							font-weight: bold;							
 							font-size: 24pt;
 
@@ -865,6 +863,13 @@
 							font-weight: bold;							
 						}
 						
+						span.answerTextSpan {
+						/*//note: no change in output 
+							padding-bottom: 10%;
+							font-weight: bold;							
+*/							
+						}
+						
 						/* //added by Mike, 20220701 
 						   //reference: https://www.w3schools.com/howto/howto_css_menu_icon.asp;
 						   //last accessed: 20220701
@@ -898,7 +903,7 @@
 						}
 						
 						audio.answerAudio {
-							width: 240px;
+							width: 240px;							
 						}
 						
 						select.questionSelect {
@@ -1147,8 +1152,9 @@
 			//added by Mike, 20230829
 			//removed by Mike, 20230904			//document.getElementById("answerRightColumnTdId").style.visibility = "visible";			
 			
-			//added by Mike, 20230904
-			document.getElementById("answerRightColumnTdId").style.display ="inline";			
+			//removed by Mike, 20230914; from 20230904
+/*document.getElementById("answerRightColumnTdId").style.display ="inline";			
+			*/
 		}
 	  </script>
 
@@ -1593,10 +1599,15 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 					<h2 id="answerH2Id"><b>ANSWER</b>
 					</h2>
 -->
-<b>ANSWER</b>
+<!-- //edited by Mike, 20230914
+				<b>ANSWER</b>
+-->
+				<span class="answerTextSpan">ANSWER</span>
+				<!-- removed by Mike, 20230914 -->
+<!--
 				</td>
 					<td id="answerRightColumnTdId" class="answerRightColumnTd">
-
+-->
 					<audio class="answerAudio" width="260" height="312" controls>
 	  <source src="../assets/audio/philnits/2022A_IP/Q1-20230815/usbongEnglishSubnetMask - 30 08 2023, 4.25 AM.mp3" type="audio/mp3">
 	  Your browser does not support the audio tag.
