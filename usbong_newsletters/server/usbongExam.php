@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230914; from 20230913
+  @date updated: 20230918; from 20230914
   @website address: http://www.usbong.ph
   
   Input:
@@ -903,7 +903,12 @@
 						}
 						
 						audio.answerAudio {
-							width: 240px;							
+							width: 240px;
+							
+							float: right;
+/*							
+							margin-top: 2%;
+*/							
 						}
 						
 						select.questionSelect {
@@ -1155,6 +1160,9 @@
 			//removed by Mike, 20230914; from 20230904
 /*document.getElementById("answerRightColumnTdId").style.display ="inline";			
 			*/
+			
+			//added by Mike, 20230918
+			document.getElementById("answerDoneButtonId").style.visibility = "hidden";	
 		}
 	  </script>
 
@@ -1566,7 +1574,7 @@ TODO: -verify: putting on right column; answer alignment varies based on questio
 </tr>
 <tr>
 <td>
-		<button onclick="showAnswer()" class="Button-answerDone">
+		<button id="answerDoneButtonId" onclick="showAnswer()" class="Button-answerDone">
 			DONE!
 		</button>
 
