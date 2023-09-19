@@ -1025,7 +1025,27 @@
 		</td>
 	   </tr>
 	</table>
+<!-- //edited by Mike, 20230919
 	<br/>
+-->
+
+			<select class="questionSelect" id="questionSelectId" onchange="showQuestion()">
+			<?php 
+/* //removed by Mike, 20230919			
+				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
+				for ($i=1; $i<=7; $i++) {
+					if ($i==$iQuestionNumberRaw) {
+						echo "<option value='Q".$i."' selected>Q".$i."</option>";
+					}
+					else {					
+						echo "<option value='Q".$i."'>Q".$i."</option>";
+					}
+				}
+*/				
+			?>			
+			  <option value="Q1">asahishimbun</option>
+			  <option value="Q2">eurogamerspain</option>
+			  </select>
 
 <?php
 	//added by Mike, 20220305
