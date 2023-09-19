@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230828; from 20230826
+  @date updated: 20230919; from 20230828
   @website address: http://www.usbong.ph
   
   Input:
@@ -1063,6 +1063,21 @@
 			$sToken = str_replace("--> ","",$sToken);
 		}	
 		
+		//added by Mike, 20230919
+		if (strpos($sToken, "http")>=3) {			
+			//example: 1) ...
+			echo substr($sToken,0,strpos($sToken,"http"));
+			
+			//includes space after ">"
+			$sToken = substr($sToken,strpos($sToken,"http"));
+			
+			//echo "dito: ".$sToken."<br/><br/>";			
+		}
+/*		
+		echo $sToken."<br/><br/>";		
+		echo strpos($sToken,"http")."<br/><br/>";
+*/
+		
 		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
 
 		$sReferenceWebsiteAccessedDate=substr($sToken,strpos($sToken,";"));
@@ -1070,6 +1085,8 @@
 		//echo "DITO: ".$sReferenceWebsiteAccessedDate;
 		
 		//echo "DITO: ".strpos($sToken,";");
+		
+		//echo "HALLO: ".$sReferenceWebsiteTemp;
 
 		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp)); 
 		
@@ -1187,7 +1204,11 @@
 		
 		///var/www/html/usbong_newsletters/server/notes/LessonsLearned/asahiShimbun/202304		
 			
-		$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
+		//edited by Mike, 20230919
+		//$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
+		//$sInputDirectory="/server/notes/LessonsLearned/eurogamerspain/";
+		$sInputDirectory="/server/notes/LessonsLearned/";
+
 		//$sYearDirectory=$sInputDirectory."2023/";
 		//$filename="202305/asahiShimbun20230504.md";
 //		$filename="202305/asahiShimbun20230508.md";
@@ -1206,9 +1227,12 @@
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
 
-		//edited by Mike, 20230511
-		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+		//edited by Mike, 20230919; from 20230511
+		//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/".$filename);
 
+		//echo $completeFilename;
+				
 		$iDayCount=0;
 
 		//added by Mike, 20230527
@@ -1222,16 +1246,25 @@
 
 				//edited by Mike, 20230618				
 				//set a default news; LINUX machine
-				$filename="202305/asahiShimbun20230508.md";
+				//edited by Mike, 20230919
+				//$filename="202305/asahiShimbun20230508.md";
+				$filename="asahiShimbun/202305/asahiShimbun20230508.md";
 				
-				//added by Mike, 20230618
-				//WINDOWS machine
+				//edited by Mike, 20230919; from 20230618
+				//WINDOWS machine; note: double back slash
 				if (strpos(dirname(__DIR__), ":")!==false) {
-					$filename="202305\asahiShimbun20230508.md";
+					//edited by Mike, 20230919
+			//$filename="202305\asahiShimbun20230508.md";
+					$filename="asahiShimbun\\202305\\asahiShimbun20230508.md";
+					
+					//echo "HALLO: ".$filename;
 				}
 				
 				
-				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;				
+				$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;	
+
+//echo $completeFilename;
+
 				break;
 			}
 /*			
@@ -1287,7 +1320,11 @@
 				$filename=$currYearMonthBasedOnDateTodayTemp."/asahiShimbun".$dateTodayTemp;
 			}
 			
+			//added by Mike, 20230919
+			$filename=str_replace("asahiShimbun","",$filename);	
 			
+			//echo $filename."<br/>";
+						
 			//echo "dito".$currYearMonthBasedOnDateTodayTemp;
 			
 			//added by Mike, 20230707
@@ -1376,9 +1413,13 @@
 			
 			//edited by Mike, 20230707; from 20230520
 //			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
-		
-//			echo $completeFilename."<br/>";
+			//edited by Mike, 20230919		  	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
+
+			//TODO: -update: to select news source, e.g. eurogamerspain;
+			
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/").$filename;
+
+			//echo $completeFilename."<br/>";
 			
 //			echo "<br/><br/>".$filename."<br/>";
 			
@@ -1395,6 +1436,14 @@
 				$completeFilename=$completeFilename.".md";
 			}
 
+			//removed by Mike, 20230919; added 20230919
+			//echo $completeFilename."<br/>";
+	
+//			C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\eurogamerspain\202309\20230919.md
+			
+//			C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\eurogamerspain\202309\20230919.md
+			
+			//echo $completeFilename;
 			
 //			$iTotalDayCountWithMultiReportsForTheDay++;			
 		}
@@ -1572,7 +1621,8 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		}
 		else {
 			//added by Mike, 20230530
-			echo "<br/>";
+			//removed by Mike, 20230919
+//			echo "<br/>";
 			
 			//edited by Mike, 20230519
 			//echo "<b>REFERENCE</b><br/>";			
