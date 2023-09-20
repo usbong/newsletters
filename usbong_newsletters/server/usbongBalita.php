@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230919; from 20230828
+  @date updated: 20230920; from 20230919
   @website address: http://www.usbong.ph
   
   Input:
@@ -853,6 +853,42 @@
 		
 			}, false);
 		}
+		
+		
+		//added by Mike, 20230920
+		function showNews() {
+			//alert("HALLO!");
+
+			//reference: https://stackoverflow.com/questions/3487263/how-to-use-onclick-or-onselect-on-option-tag-in-a-jsp-page; last accessed: 20230912;
+			//answer by: Manu, 20100815T1201
+			//edited by: YakovL, 20160717T1433
+			
+			var selectBox = document.getElementById("newsSelectId");
+			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+			
+//			alert(selectedValue);	
+
+//alert("<?php echo 'usbongExam.php';?>/"+selectedValue);			
+
+			//window.location.href = "<?php echo 'usbongExam.php';?>/"+selectedValue;
+			//output: http://localhost/usbong_newsletters/server/usbongExam.php/Q4
+
+			//window.location.pathname = "<?php echo 'usbongExam.php';?>/"+selectedValue;
+			//output: http://localhost/usbongExam.php/Q2
+			
+			//reference: https://www.w3schools.com; last accessed: 20230912
+			
+			var sInput = window.location.href;
+			//alert(sInput.substring(0,sInput.indexOf(".php")));
+			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+			
+			window.location.href = ""+sInput+selectedValue;
+			
+			//TODO: -update: selected option;
+			//note: use of "+" (in Javascript), instead of "." (in PHP);
+			
+		}
+		
 	  </script>
 
 <?php
@@ -974,22 +1010,131 @@
 		<td class="imageColumn">	
 		<a class="menuLink" target="_blank" href="http://www.usbong.ph">		
 <?php 
+
+//reference: https://stackoverflow.com/questions/1283327/how-to-get-url-of-current-page-in-php; last accessed: 20230912
+//answer by: Amber, 20090816T0208
+//edited by: Brad Larson, 20180309T0122
+
+//echo $_SERVER['REQUEST_URI']."<br/>"; ///usbong_newsletters/server/usbongExam.php/Q4
+
+//echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
+
+$updatedDirDueToURL="";
+
+//added by Mike, 20230913
+$sInputURL=$_SERVER['REQUEST_URI'];
+$sNewsNumberLocationPart="";
+$iNewsNumberRaw=0;
+
+//step#1
+$sNewsNumber=substr($sInputURL, strpos($sInputURL,".php/"));
+
+/*
+echo "sInputURL: ".$sInputURL."<br/><br/>";
+///usbong_newsletters/server/usbongExam.php
+
+echo "sNewsNumber: ".$sNewsNumber."<br/><br/><br/>";
+///usbong_newsletters/server/usbongExam.php
+*/
+
+//.".php/"
+if ($sNewsNumber==$sInputURL) { //default URL; no Q1, etc.
+
+//added by Mike, 20230920
+//TODO: -update: this
+
+//default;
+$sNewsNumberLocationPart="Q1-20230815";
+//	echo "DITO";
+}
+else {
+	
+	//added by Mike, 20230920
+	//TODO: -update: this
+
+	//step#2
+	$sNewsNumber=substr($sNewsNumber, strpos($sNewsNumber,"N"));
+
+	//echo $sNewsNumber;
+
+	//step#3
+	//get the question number in integer
+	//start date: 20230815
+
+	$iNewsNumber=intval(substr($sNewsNumber,1));
+	$iNewsNumberRaw=$iNewsNumber;
+
+	//echo "sNewsNumber: ".$sNewsNumber."<br/>";
+
+	//step#4
+	//reminder: did two questions per day;
+	//Q1 : 1; Q2 : 1; 
+	//Q3 : 2; Q4 : 2;
+	//Q5 : 3; Q6 : 3;
+	//Q7 : 4; Q8 : 4;
+	if ($iNewsNumber%2==0) { //even
+		$iNewsNumber=$iNewsNumber/2-1;
+	}
+	else { //odd
+		//note: computation; simpler exists?
+		if ($iNewsNumber==1) {
+			$iNewsNumber=0;
+		}
+		else {
+			//echo intval($iNewsNumber/2);
+			//echo $iNewsNumber%2;
+			
+			$iNewsNumber=intval($iNewsNumber/2)+$iNewsNumber%2-1;
+		}
+		
+		//echo $iNewsNumber;
+	}
+	
+	$sNewsNumberWithDate=20230815+($iNewsNumber);
+
+	//echo "sNewsNumberWithDate: ".$sNewsNumberWithDate."<br/>";
+
+	//step#5
+	$sNewsNumberLocationPart=$sNewsNumber."-".$sNewsNumberWithDate; //output: Q2-20230816
+
+	//echo $sNewsNumberLocationPart;
+}
+
+//if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {	
+if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {	
+	//echo "HALLO!";	
+	$updatedDirDueToURL="../";
+}
+
 	if (isMobile()) {	
-		echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+		
+		//edited by Mike, 20230912
+		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+		
+		echo "<img class='Image-companyLogoMobile' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
 	else {
-		echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogo' src='../../assets/images/usbongLogo.png'>";
+		
+		echo "<img class='Image-companyLogo' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
 ?>
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
 		
-		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">		
+		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">	
+<!-- edited by Mike, 20230912 		
 <img class="Image-philnitsLogo" src='../assets/images/philnitsLogo.jpg'>
+-->
+<?php
+		echo "<img class='Image-philnitsLogo' src='../".$updatedDirDueToURL."assets/images/philnitsLogo.jpg'>";
+?>		
 		</a>	
-		
 		</td>
+		
 		<td class="pageNameColumn">
 		<div class='formTitle'>
 <?php 
@@ -1029,22 +1174,30 @@
 	<br/>
 -->
 
-			<select class="questionSelect" id="questionSelectId" onchange="showQuestion()">
+			<select class="newsSelect" id="newsSelectId" onchange="showNews()">
 			<?php 
-/* //removed by Mike, 20230919			
+ //removed by Mike, 20230919			
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
-				for ($i=1; $i<=7; $i++) {
-					if ($i==$iQuestionNumberRaw) {
-						echo "<option value='Q".$i."' selected>Q".$i."</option>";
+//				for ($i=1; $i<=7; $i++) {
+				for ($i=1; $i<=2; $i++) {				
+					//default
+					$sNewsSource="asahishimbun";
+					if ($i==2) {
+						$sNewsSource="eurogamerspain"; 
+					}
+				
+					if ($i==$iNewsNumberRaw) {
+						echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
 					}
 					else {					
-						echo "<option value='Q".$i."'>Q".$i."</option>";
+						echo "<option value='N".$i."'>".$sNewsSource."</option>";
 					}
-				}
-*/				
-			?>			
-			  <option value="Q1">asahishimbun</option>
-			  <option value="Q2">eurogamerspain</option>
+				}				
+			?>		
+<!--			
+			  <option value="N1">asahishimbun</option>
+			  <option value="N2">eurogamerspain</option>
+-->			  
 			  </select>
 
 <?php
