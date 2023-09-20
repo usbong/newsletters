@@ -489,6 +489,12 @@
 							color: rgb(64,64,64);
 							text-decoration: underline;
 						}
+						
+						select.newsSelect
+						{
+							float: right;
+							font-size: 16pt;
+						}
 
 						table.menuTable
 						{
@@ -1100,8 +1106,14 @@ else {
 	//echo $sNewsNumberLocationPart;
 }
 
+
+//added by Mike, 20230920;
+//default
+$updatedDirDueToURL="";//../";
+
 //if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {	
-if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {	
+//.php//N
+if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {	
 	//echo "HALLO!";	
 	$updatedDirDueToURL="../";
 }
@@ -1117,9 +1129,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {
 	else {
 		//echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
 		//echo "<img class='Image-companyLogo' src='../../assets/images/usbongLogo.png'>";
-		
+				
 		echo "<img class='Image-companyLogo' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
+	
 ?>
 		</a>
 		</td>
@@ -1164,7 +1177,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {
 					echo "<a class='webServiceTimeOffLink' target='_blank' href='http://store.usbong.ph/timeoff'>";
 					echo $dateToday;
 					echo "</a>";
-
 				?>
 			</div>		
 		</td>
@@ -1173,21 +1185,33 @@ if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {
 <!-- //edited by Mike, 20230919
 	<br/>
 -->
-
+			<?php 						
+				//added by Mike, 20230920; from 20230919			
+				//default
+				$sNewsSource="asahishimbun";
+				$sNewsSourceSelected=$sNewsSource;
+				//echo ">>>".$iNewsNumberRaw;
+//				echo "DITO"; //note previously inside select tag;
+			?>
+			
 			<select class="newsSelect" id="newsSelectId" onchange="showNews()">
-			<?php 
- //removed by Mike, 20230919			
+			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
 				for ($i=1; $i<=2; $i++) {				
 					//default
-					$sNewsSource="asahishimbun";
+//					$sNewsSource="asahishimbun";
+
 					if ($i==2) {
 						$sNewsSource="eurogamerspain"; 
 					}
-				
+										
 					if ($i==$iNewsNumberRaw) {
 						echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+						
+						//added by Mike, 20230920
+						//note using string, instead of int
+						$sNewsSourceSelected=$sNewsSource;
 					}
 					else {					
 						echo "<option value='N".$i."'>".$sNewsSource."</option>";
@@ -1402,8 +1426,14 @@ if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {
 
 		//edited by Mike, 20230919; from 20230511
 		//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
-		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/".$filename);
+		
+	    //edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/".$filename);
 
+		//echo $sNewsSourceSelected;
+
+		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/".$filename);
+
+		
 		//echo $completeFilename;
 				
 		$iDayCount=0;
@@ -1590,8 +1620,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/N")!==false) {
 
 			//TODO: -update: to select news source, e.g. eurogamerspain;
 			
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/").$filename;
-
+			//echo $sNewsSourceSelected;
+			
+		    //edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/").$filename;
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/").$filename;
+		
 			//echo $completeFilename."<br/>";
 			
 //			echo "<br/><br/>".$filename."<br/>";
