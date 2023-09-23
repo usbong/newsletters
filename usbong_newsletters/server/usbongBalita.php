@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230920; from 20230919
+  @date updated: 20230923; from 20230920
   @website address: http://www.usbong.ph
   
   Input:
@@ -1451,16 +1451,29 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//set a default news; LINUX machine
 				//edited by Mike, 20230919
 				//$filename="202305/asahiShimbun20230508.md";
-				$filename="asahiShimbun/202305/asahiShimbun20230508.md";
+				
+				//added by Mike, 20230923
+			//$filename="asahiShimbun/202305/asahiShimbun20230508.md";
+				//echo ">>>>".$sNewsSourceSelected;
+
+				$filename="asahishimbun/default/20230508.md";
+
+				if ($sNewsSourceSelected=="eurogamerspain") {
+					$filename="eurogamerspain/default/20230919.md";
+				}				
 				
 				//edited by Mike, 20230919; from 20230618
 				//WINDOWS machine; note: double back slash
 				if (strpos(dirname(__DIR__), ":")!==false) {
 					//edited by Mike, 20230919
 			//$filename="202305\asahiShimbun20230508.md";
-					$filename="asahiShimbun\\202305\\asahiShimbun20230508.md";
-					
+					$filename="asahiShimbun\\202305\\20230508.md";
+
 					//echo "HALLO: ".$filename;
+					
+					if ($sNewsSourceSelected=="eurogamerspain") {
+						$filename="eurogamerspain\\default\\20230919.md";
+					}				
 				}
 				
 				
