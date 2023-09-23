@@ -151,7 +151,10 @@
 							width: 100%;
 							
 							padding-left: 5%;
-														
+							padding-right: 5%;
+
+							border: 1px solid #aaaaaa;
+							
 							text-align: justify;
 							text-justify: inter-word;							
                         }
@@ -494,6 +497,7 @@
 						{
 							float: right;
 							font-size: 16pt;
+							margin-top: 0.5%;
 						}
 
 						table.menuTable
@@ -672,11 +676,15 @@
 							color: rgb(50,50,50);
 							font-weight: bold;
 						}
-						
+												
 						span.usbongTextReferencePart {
 							text-align: left;
 							color: rgb(50,50,50);
 							font-weight: bold;							
+						}
+						
+						hr.usbongTextSectionPartHr {
+							border: 0.01em solid #CCC;
 						}
 						
 						/* //added by Mike, 20220701 
@@ -1726,7 +1734,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 	else {
 */	
-		echo "<table class='bodyTable'><tr><td/* class='mainTextTd'*/>";
+		echo "<table class='bodyTable'><tr><td>";
 		echo "<div class='mainTextDiv'>";
 /*
 	}
@@ -1856,13 +1864,23 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		echo "<br/>$sToken<br/>";
 		echo "</span>";
 	}
+	//added by Mike, 20230923
+	else if (strpos($sToken, "## --")!==false) {
+		echo "<hr class='usbongTextSectionPartHr'>";
+	}
 	else if (strpos($sToken, "##")!==false) {
 		//added by Mike, 20230526
 		echo "<br/>";
-		
+		//edited by Mike, 20230923		
 		echo "<span class='usbongTextSectionPart'>";
 		echo "$sToken<br/>";
 		echo "</span>";
+		
+//		echo "<hr class='usbongTextSectionPartHr'>";
+
+		//added by Mike, 20230923;
+		//TODO: -verify: this
+//		echo "<br/>";
 	}
 	//added by Mike, 20230518
 	else if (strpos($sToken, "http")!==false) {
