@@ -498,6 +498,7 @@
 							float: right;
 							font-size: 16pt;
 							margin-top: 0.5%;
+							margin-bottom: 1%;
 						}
 
 						table.menuTable
