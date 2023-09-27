@@ -8,8 +8,11 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230923; from 20230920
+  @date updated: 20230927; from 20230923
   @website address: http://www.usbong.ph
+  
+  Note: "default.md", not "default.md.txt";
+  //causes additional delay if has forgotten format, etc.
   
   Input:
   1) Lessons-learned HTML TEXT FILE
@@ -1207,14 +1210,22 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
-				for ($i=1; $i<=2; $i++) {				
+				//edited by Mike, 20230927
+				for ($i=1; $i<=4; $i++) { //<=2		
 					//default
 //					$sNewsSource="asahishimbun";
 
 					if ($i==2) {
 						$sNewsSource="eurogamerspain"; 
 					}
-										
+					//added by Mike, 20230927
+					else if ($i==3) {
+						$sNewsSource="elpais"; 
+					}
+					else if ($i==4) {
+						$sNewsSource="ignjapan"; 
+					}
+					
 					if ($i==$iNewsNumberRaw) {
 						echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
 						
@@ -1469,8 +1480,16 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 				if ($sNewsSourceSelected=="eurogamerspain") {
 					$filename="eurogamerspain/default/20230919.md";
+				}	
+				//added by Mike, 20230927
+				//TODO: -reduce: such multiple editing for each new news source
+				else if ($sNewsSourceSelected=="elpais") {
+					$filename="elpais/default/20230926.md";
 				}				
-				
+				else if ($sNewsSourceSelected=="ignjapan") {
+					$filename="ignjapan/default/20230822.md";
+				}		
+		
 				//edited by Mike, 20230919; from 20230618
 				//WINDOWS machine; note: double back slash
 				if (strpos(dirname(__DIR__), ":")!==false) {
@@ -1483,6 +1502,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					if ($sNewsSourceSelected=="eurogamerspain") {
 						$filename="eurogamerspain\\default\\20230919.md";
 					}				
+					//added by Mike, 20230927
+					else if ($sNewsSourceSelected=="elpais") {
+						$filename="elpais\\default\\20230926.md";
+					}				
+					else if ($sNewsSourceSelected=="ignjapan") {
+						$filename="ignjapan\\default\\20230822.md";
+					}		
 				}
 				
 				
