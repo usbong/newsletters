@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230927; from 20230923
+  @date updated: 20230929; from 20230927
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -503,6 +503,12 @@
 							margin-top: 0.5%;
 							margin-bottom: 1%;
 						}
+						
+						form 
+						{
+							margin:0px;
+							padding: 0px;
+						}
 
 						table.menuTable
 						{
@@ -654,7 +660,7 @@
 						}
 
 					
-						input.search-input
+						input.searchInput
 						{
 							width: 100%;
 							max-width: 500px;
@@ -662,7 +668,21 @@
 							resize: none;
 
 							height: 100%;
+							
+							font-size: 16pt;
+							
+							margin-top: 0.5%;
+							margin-bottom: 1%;							
 						}	
+						
+						button.searchButton
+						{								
+							font-size: 16pt;
+							margin-top: 0.5%;
+							margin-bottom: 1%;	
+							
+							float: left;	
+						}
 
 						span.spanFileNotFound, span.spanKeyphraseNotFound
 						{
@@ -1194,6 +1214,38 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		</td>
 	   </tr>
 	</table>
+	
+<!-- //edited by Mike, 22030929 -->
+<table class="searchTable">
+		<tr>
+			<td>			
+			<form id="search-form" method="get" action="<?php /*echo site_url('browse/confirmPatient')*/?>">
+				<?php
+					$itemCounter = 1;
+				?>
+
+					<!-- added by Mike, 20230929
+					TODO: -remove: space between textbox and button-->
+					
+					<table width="100%">
+					  <tr>
+						<td>		  
+						  <input type="text" class="searchInput" placeholder="" name="q" required>
+						</td>
+						<td>
+				<!-- Buttons -->
+				<button type="submit" class="searchButton">
+					Search
+				</button>
+						</td>
+					  </tr>
+					</table>
+
+			</form>
+			</td>
+			<td>
+	
+	
 <!-- //edited by Mike, 20230919
 	<br/>
 -->
@@ -1243,6 +1295,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			  <option value="N2">eurogamerspain</option>
 -->			  
 			  </select>
+
+<!-- //added by Mike, 20230929 -->			  
+			</td>			
+		</tr>
+	</table>
 
 <?php
 	//added by Mike, 20220305
