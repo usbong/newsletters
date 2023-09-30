@@ -526,6 +526,7 @@
 						{
 							width: 100%;
 							padding-left: 60px;
+							margin-top: 0.5%;
 						}
 
 						tr.menuRow
@@ -663,7 +664,7 @@
 						input.searchInput
 						{
 							width: 100%;
-							max-width: 500px;
+							max-width: 400px;
 														
 							resize: none;
 
@@ -679,9 +680,7 @@
 						{								
 							font-size: 16pt;
 							margin-top: 0.5%;
-							margin-bottom: 1%;	
-							
-							float: left;	
+							margin-bottom: 1%;								
 						}
 
 						span.spanFileNotFound, span.spanKeyphraseNotFound
@@ -1231,12 +1230,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					  <tr>
 						<td>		  
 						  <input type="text" class="searchInput" placeholder="" name="q" required>
-						</td>
-						<td>
-				<!-- Buttons -->
-				<button type="submit" class="searchButton">
-					Search
-				</button>
+				
+						<!-- Buttons -->
+						<button type="submit" class="searchButton">
+							Search
+						</button>
 						</td>
 					  </tr>
 					</table>
