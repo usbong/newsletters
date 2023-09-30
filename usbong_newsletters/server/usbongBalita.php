@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230929; from 20230927
+  @date updated: 20230930; from 20230929
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -1552,7 +1552,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				if (strpos(dirname(__DIR__), ":")!==false) {
 					//edited by Mike, 20230919
 			//$filename="202305\asahiShimbun20230508.md";
-					$filename="asahiShimbun\\202305\\20230508.md";
+					//edited by Mike, 20230930
+		//$filename="asahiShimbun\\202305\\20230508.md";
+					$filename="asahishimbun\\default\\20230508.md";
 
 					//echo "HALLO: ".$filename;
 					
@@ -1616,7 +1618,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				
 				//edited by Mike, 20230707				
 			//$filename="202306\asahiShimbun".$dateTodayTemp;
-				$filename=$currYearMonthBasedOnDateTodayTemp."\asahiShimbun".$dateTodayTemp;				
+				//edited by Mike, 20230930
+				//$filename=$currYearMonthBasedOnDateTodayTemp."\asahiShimbun".$dateTodayTemp;		
+				$filename=$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;				
 			}
 			//LINUX machine			
 			else {
@@ -1625,11 +1629,15 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 				//edited by Mike, 20230707				
 			//$filename="202306/asahiShimbun".$dateTodayTemp;
-				$filename=$currYearMonthBasedOnDateTodayTemp."/asahiShimbun".$dateTodayTemp;
+				//edited by Mike, 20230930
+				//$filename=$currYearMonthBasedOnDateTodayTemp."/asahiShimbun".$dateTodayTemp;
+				$filename=$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
+				
 			}
 			
-			//added by Mike, 20230919
-			$filename=str_replace("asahiShimbun","",$filename);	
+			//edited by Mike, 20230930; from 20230919
+			//$filename=str_replace("asahiShimbun","",$filename);	
+			$filename=str_replace("asahishimbun","",$filename);	
 			
 			//echo $filename."<br/>";
 						
