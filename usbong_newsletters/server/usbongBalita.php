@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20230930; from 20230929
+  @date updated: 20231003; from 20230930
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -1217,21 +1217,20 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <!-- //edited by Mike, 22030929 -->
 <table class="searchTable">
 		<tr>
+<!-- //removed by Mike, 20231003; TODO: -add: this
 			<td>			
-			<form id="search-form" method="get" action="<?php /*echo site_url('browse/confirmPatient')*/?>">
-				<?php
+			<form id="search-form" method="get" action="">
+				<?php/*echo site_url('browse/confirmPatient')*/?>
+				<?php				
 					$itemCounter = 1;
-				?>
 
-					<!-- added by Mike, 20230929
-					TODO: -remove: space between textbox and button-->
-					
+					//added by Mike, 20230929
+					//TODO: -remove: space between textbox and button
+				?>
 					<table width="100%">
 					  <tr>
 						<td>		  
-						  <input type="text" class="searchInput" placeholder="" name="q" required>
-				
-						<!-- Buttons -->
+						  <input type="text" class="searchInput" placeholder="" name="q" required>				
 						<button type="submit" class="searchButton">
 							Search
 						</button>
@@ -1242,7 +1241,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</form>
 			</td>
 			<td>
-	
+-->	
 	
 <!-- //edited by Mike, 20230919
 	<br/>
@@ -1260,8 +1259,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
-				//edited by Mike, 20230927
-				for ($i=1; $i<=4; $i++) { //<=2		
+				//edited by Mike, 20231003; from 20230927
+				for ($i=1; $i<=5; $i++) { //<=2		
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -1274,6 +1273,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					}
 					else if ($i==4) {
 						$sNewsSource="ignjapan"; 
+					}
+					//added by Mike, 20231003
+					else if ($i==5) {
+						$sNewsSource="famitsu"; 
 					}
 					
 					if ($i==$iNewsNumberRaw) {
@@ -1544,7 +1547,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				else if ($sNewsSourceSelected=="ignjapan") {
 					$filename="ignjapan/default/20230822.md";
 				}		
-		
+				//added by Mike, 20231003
+				else if ($sNewsSourceSelected=="famitsu") {
+					$filename="famitsu/default/20230930.md";
+				}		
+					
 				//edited by Mike, 20230919; from 20230618
 				//WINDOWS machine; note: double back slash
 				if (strpos(dirname(__DIR__), ":")!==false) {
@@ -1566,6 +1573,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					else if ($sNewsSourceSelected=="ignjapan") {
 						$filename="ignjapan\\default\\20230822.md";
 					}		
+					//added by Mike, 20231003
+					else if ($sNewsSourceSelected=="famitsu") {
+						$filename="famitsu\\default\\20230930.md";
+					}					
 				}
 				
 				
