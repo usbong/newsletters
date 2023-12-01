@@ -1504,8 +1504,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	
 //		echo ">>>".$sYearDirectory."<br/>";
 
-		//added by Mike, 20230526
-		$iReportForTheDayCount=0;
+		//added by Mike, 20231201; from 20230526
+		//set to max 5; to iterate from highest in count
+		$iReportForTheDayCountMax=5;
+		$iReportForTheDayCount=$iReportForTheDayCountMax; //0
 		
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
@@ -1712,8 +1714,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //				$iReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
 				$iReportForTheDayCountTemp=$iDistanceBetweenDateTodayAndCurrNews;//0;
 
-				
-////				echo ">>>>>>>>>>>>>>>$iReportForTheDayCount.<br/>";				
+/*				
+				echo ">>>>>>>>>>>>>>>".$iReportForTheDayCount."<br/>";
+*/
+
+//echo "iDistanceBetweenDateTodayAndCurrNews: $iDistanceBetweenDateTodayAndCurrNews.<br/><br/>";
+	
+//echo ">>>>".$iDistanceBetweenDateTodayAndCurrNews."<br/>";	
 
 //				echo ">>>>>>>>>>>>>>>$iReportForTheDayCountTemp.<br/>";				
 
@@ -1725,7 +1732,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //			if (($iReportForTheDayCount>0) && ($iReportForTheDayCount<5)){
 			//edited by Mike, 20230527
 //			if ($iReportForTheDayCount<5){
-			if ($iReportForTheDayCount<=5){
+			//edited by Mike, 20231201
+//			if ($iReportForTheDayCount<=5){
+			if ($iReportForTheDayCount>=0){
+	
 			/*			
 			echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
 			echo "sReportForTheDayCount: ".$iReportForTheDayCount."<br/>";
@@ -1752,12 +1762,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					echo "filename: ".$filename."<br/>";
 				}
 */
-				
-				$iReportForTheDayCount++;
+				//edited by Mike, 20231201
+				//$iReportForTheDayCount++;
+				$iReportForTheDayCount--;
 			}
 			else {
 				//added by Mike, 20230526
-				$iReportForTheDayCount=0;
+				$iReportForTheDayCount=$iReportForTheDayCountMax;//0;
 				$iDayCount++;
 			}
 			
