@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231012; from 20231003
+  @date updated: 20231201; from 20231012
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -1259,8 +1259,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
-				//edited by Mike, 20231012; from 20231003
-				for ($i=1; $i<=6; $i++) { //<=2		
+				//edited by Mike, 20231201; from 20231012
+				for ($i=1; $i<=7; $i++) { //<=2		
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -1281,6 +1281,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//added by Mike, 20231012
 					else if ($i==6) {
 						$sNewsSource="zaobao"; 
+					}
+					//added by Mike, 20231201
+					else if ($i==7) {
+						$sNewsSource="gamedeveloper"; 
 					}
 					
 					if ($i==$iNewsNumberRaw) {
@@ -1559,6 +1563,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				else if ($sNewsSourceSelected=="zaobao") {
 					$filename="zaobao/default/20231005.md";
 				}		
+				//added by Mike, 20231201
+				else if ($sNewsSourceSelected=="gamedeveloper") {
+					$filename="gamedeveloper/default/20231201.md";
+				}		
 					
 				//edited by Mike, 20230919; from 20230618
 				//WINDOWS machine; note: double back slash
@@ -1588,7 +1596,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//added by Mike, 20231012
 					else if ($sNewsSourceSelected=="zaobao") {
 						$filename="zaobao\\default\\20231005.md";
-					}										
+					}
+					//added by Mike, 20231201
+					else if ($sNewsSourceSelected=="gamedeveloper") {
+						$filename="gamedeveloper\\default\\20231201.md";
+					}
+					
 				}
 				
 				
