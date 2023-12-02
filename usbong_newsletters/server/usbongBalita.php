@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231201; from 20231012
+  @date updated: 20231202; from 20231201
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -1531,8 +1531,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 		//added by Mike, 20230511
 		while (!file_exists($completeFilename)) {
-			//edited by Mike, 20230527
-			if ($iDayCount>=10) {
+
+		/*	//removed by Mike, 20231202
+			//edited by Mike, 20231202; from 20230527
+			if ($iDayCount>=90) {//10) {
 //			if ($iDayCount>=10*5) { //each day can have 5 news reports	
 
 				//edited by Mike, 20230618				
@@ -1613,6 +1615,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 				break;
 			}
+*/			
+			
 /*			
 			else {
 				echo ">>>".$iDayCount;
