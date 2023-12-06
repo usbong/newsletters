@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231202; from 20231201
+  @date updated: 20231206; from 20231202
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -1528,9 +1528,26 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 		//added by Mike, 20230527
 		$iTotalDayCountWithMultiReportsForTheDay=0;
+		
+		
+	//added by Mike, 20231206
+	$prevCompleteFilename="";
 
+	$iNewsRankCountMax=5;
+	
+	//TODO: -reverify: this when news source changed;
+	$iHitSameNewsCount=0;
+		
+	//multiple news per source; max 5
+	for ($iNewsRankCount=0; $iNewsRankCount<$iNewsRankCountMax; $iNewsRankCount++) {
+		
+		//echo ">>>iNewsRankCount: ".$iNewsRankCount."<br/>";		
+		$completeFilename="";
+		
 		//added by Mike, 20230511
 		while (!file_exists($completeFilename)) {
+			
+//			echo "completeFilename: ".$completeFilename."<br/><br/>";
 
 		/*	//removed by Mike, 20231202
 			//edited by Mike, 20231202; from 20230527
@@ -1807,6 +1824,25 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//removed by Mike, 20230919; added 20230919
 			//echo $completeFilename."<br/>";
 	
+			//added by Mike, 20231206			
+			if (strpos($prevCompleteFilename, $completeFilename)!==false) {				
+				$completeFilename="next";
+
+				//echo ">>>>>>>>>>>>iNewsRankCount: ".$iNewsRankCount;
+				
+				if ($iHitSameNewsCount>=3) {
+					//END
+					$iNewsRankCount=$iNewsRankCountMax;
+				}
+
+				$iHitSameNewsCount++;
+				
+				continue;
+			}			
+
+			$prevCompleteFilename=$completeFilename;
+			//echo "prevCompleteFilename: ".$prevCompleteFilename."<br/>";
+	
 //			C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\eurogamerspain\202309\20230919.md
 			
 //			C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\eurogamerspain\202309\20230919.md
@@ -2069,6 +2105,7 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 	$sPrevToken = $sToken;	
 	$sToken = strtok("\n");
 	$iRowCount++;
+	
 } 
 
 ?>	
@@ -2079,6 +2116,11 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 	</tr>
 	</table>
 <?php		
+	//added by Mike, 20231206
+	//multiple news per source; max 5
+	}
+
+
 	//TO-DO: -update: this autoWriteOutput(...); .md input
 					
 /*					
