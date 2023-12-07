@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231206; from 20231202
+  @date updated: 20231207; from 20231206
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -742,6 +742,18 @@
 						  display: inline-block;
 						}
 						
+						span.moreTextSpanIIISummaryReports
+						{
+							display: none;
+						}
+						
+						span.moreTextSpanIIISummaryReportsHeader
+						{
+							/*color: green;*/
+							/*border: 3px solid #ab9c7d;	*/
+						}
+						
+						
     /**/
     </style>
     <title>
@@ -925,6 +937,49 @@
 			//note: use of "+" (in Javascript), instead of "." (in PHP);
 			
 		}
+		
+	  //added by Mike, 20231207	  
+	  //TODO: -add: toggle in displayed full text;
+	  function toggleMore(sParamId) {
+		  //var summaryReportsId = document.getElementById("summaryReportsId");//+sParamId.substring(0,indexOf(summaryReportsHeaderId));
+		  
+		  var summaryReportsId = document.getElementById("summaryReportsId"+sParamId.substring("summaryReportsHeaderId".length));
+
+		  var summaryReportsHeaderId = document.getElementById(sParamId);
+		  		  
+		  //alert(sParamId);
+/*		  
+		  //alert(summaryReportsHeaderId);		  
+		  alert("summaryReportsHeaderId".length);
+*/
+	
+		  //alert("summaryReportsHeaderId".length);
+		  //alert(sParamId.substring(sParamId.indexOf("summaryReportsHeaderId".length)));
+		  
+		  //sParamId.indexOf("summaryReportsHeaderId"));
+		  //alert(sParamId.substring(sParamId.indexOf("summaryReportsHeaderId")));
+		  
+		  //removed by Mike, 20231207
+		  //if (sParamId=="summaryReportsHeaderId") {
+			  //alert("dito"+summaryReportsId.style.display);
+			  //note: 1st summaryReportsId.style.display value is blank, i.e. "";
+			  if (summaryReportsId.style.display === "") {
+				  summaryReportsId.style.display = "inline";
+				  
+				  summaryReportsHeaderId.style.display = "none";
+			  }
+			  else if (summaryReportsId.style.display === "none") {
+				  summaryReportsId.style.display = "inline";
+
+				  summaryReportsHeaderId.style.display = "none";
+			  }
+			  else {
+				  summaryReportsId.style.display = "none";
+				  
+				  summaryReportsHeaderId.style.display = "inline";
+			  }
+		  //}
+		} 		
 		
 	  </script>
 
@@ -1826,11 +1881,14 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	
 			//added by Mike, 20231206			
 			if (strpos($prevCompleteFilename, $completeFilename)!==false) {				
-				$completeFilename="next";
 
 				//echo ">>>>>>>>>>>>iNewsRankCount: ".$iNewsRankCount;
 				
-				if ($iHitSameNewsCount>=3) {
+				//echo ">>>>>>>>>>>>completeFilename: ".$completeFilename."; prevCompleteFilename: ".$prevCompleteFilename."<br/><br/>";
+
+				$completeFilename="next";
+					
+				if ($iHitSameNewsCount>=3) {					
 					//END
 					$iNewsRankCount=$iNewsRankCountMax;
 				}
@@ -1898,6 +1956,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 					$cellValue = str_replace("var/www/html/", "", $cellValue);
 
+					//added by Mike, 20231207
+					if (empty($cellValue)) {
+						//echo "HALLO!";
+						continue;
+					}
+					
+					
 //-----					
 //PART 2
 
@@ -1923,6 +1988,45 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //	$cellValue = str_replace("\n", "<br/>", $cellValue);
 
 //	echo ">>>>".$cellValue."<br/>";
+
+	//echo "cellValue: ".$cellValue."<br/><br/>";
+	
+//	$newsTitle = substr($cellValue,strpos($cellValue,">"),strpos($cellValue,">"));
+
+$newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
+
+//echo "POS: ".strpos($cellValue,"\n")."<br/><br/>";
+
+//echo "ORIGINAL: ".$newsTitleOriginal."<br/>";
+
+$newsTitleWithTranslation = substr($newsTitleOriginal,0,strpos($newsTitleOriginal,">")); //">" not included
+
+$newsTitleMain = substr($newsTitleWithTranslation,0,strpos($newsTitleOriginal,"\n"));
+
+//echo "TRANSLATED: ".$newsTitleWithTranslation."<br/>";
+
+//echo $iNewsRankCount."<br/><br/>";
+
+//echo $newsTitleMain."<br/><br/>";
+
+$newsTitleTranslated = substr($newsTitleWithTranslation,strlen($newsTitleMain));
+
+//echo $newsTitleTranslated."<br/><br/>";
+
+$newsTitleOutput = "<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+
+?>	
+
+<h2><span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span></h2>
+
+
+<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports">
+	
+<?php
+//added by Mike, 20231207
+
+//onclick="toggleMore('summaryReportsHeaderId')
+
 	
 //$sToken = strtok($cellValue, "<br/>");
 $sToken = strtok($cellValue, "\n");
@@ -2109,6 +2213,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 } 
 
 ?>	
+
+<!-- added by Mike, 20231207 -->
+</span>
 
 	</div>
 	</div>
