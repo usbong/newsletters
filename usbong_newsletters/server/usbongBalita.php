@@ -1394,6 +1394,32 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		return $sWebAddress;
 	}
 
+	//added by Mike, 20231207
+	//return sOutput
+	function processWebsiteReferenceForHeaderTitle($cellValue) {
+		$sToken = strtok($cellValue, "\n");
+
+		//note: space after "##" 
+		$sToken = str_replace("## ", "", $sToken);
+
+		$sReferenceWebsite=substr($sToken,0,25)."... ";	
+		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
+				strpos($sToken,";")-strpos($sToken,"http"));	
+		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+/*
+		echo "<h3>";
+		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
+		echo $sReferenceWebsite."</a>";
+		echo "<b>".$sLastAccessed."</b>";		
+		//echo $sLastAccessed;
+		echo "</h3>";
+		echo "<hr>";
+*/		
+		$sOutput="<h3><a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b></h3><hr>";
+		
+		return $sOutput;
+	}
+	
 	//added by Mike, 20230801
 	function processWebsiteReference($sToken) {
 		if (strpos($sToken, "-->")!==false) {
@@ -1993,6 +2019,35 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	
 //	$newsTitle = substr($cellValue,strpos($cellValue,">"),strpos($cellValue,">"));
 
+//added by Mike, 20231207
+//processWebsiteReference($cellValue);
+$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue);
+
+/*
+$sToken = strtok($cellValue, "\n");
+
+//note: space after "##" 
+$sToken = str_replace("## ", "", $sToken);
+
+$sReferenceWebsite=substr($sToken,0,25)."... ";	
+$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
+		strpos($sToken,";")-strpos($sToken,"http"));	
+$sLastAccessed=substr($sToken,strpos($sToken,";"));
+
+		echo "<h3>";
+		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
+		echo $sReferenceWebsite."</a>";
+		echo "<b>".$sLastAccessed."</b>";		
+		//echo $sLastAccessed;
+		echo "</h3>";
+		echo "<hr>";
+*/
+	
+	
+
+$newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1);
+
+
 $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
 
 //echo "POS: ".strpos($cellValue,"\n")."<br/><br/>";
@@ -2013,14 +2068,19 @@ $newsTitleTranslated = substr($newsTitleWithTranslation,strlen($newsTitleMain));
 
 //echo $newsTitleTranslated."<br/><br/>";
 
-$newsTitleOutput = "<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+//$newsTitleOutput = "<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+
+//echo $sNewsTitleWebsiteReference."<br/><br/>";
+
+$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+
 
 ?>	
 
 <h2><span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span></h2>
 
 
-<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports">
+<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
 	
 <?php
 //added by Mike, 20231207
