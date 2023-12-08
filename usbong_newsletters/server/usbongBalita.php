@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231207; from 20231206
+  @date updated: 20231208; from 20231207
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -745,12 +745,16 @@
 						span.moreTextSpanIIISummaryReports
 						{
 							display: none;
+							line-height: 2;
+							font-size: 24pt;
 						}
 						
 						span.moreTextSpanIIISummaryReportsHeader
 						{
 							/*color: green;*/
 							/*border: 3px solid #ab9c7d;	*/
+							line-height: 2;
+							font-size: 24pt;							
 						}
 						
 						
