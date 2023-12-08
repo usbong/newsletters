@@ -1319,7 +1319,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
 				//edited by Mike, 20231201; from 20231012
-				for ($i=1; $i<=7; $i++) { //<=2		
+				for ($i=1; $i<=7; $i++) { //<=6
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -1917,8 +1917,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//echo ">>>>>>>>>>>>completeFilename: ".$completeFilename."; prevCompleteFilename: ".$prevCompleteFilename."<br/><br/>";
 
 				$completeFilename="next";
-					
-				if ($iHitSameNewsCount>=3) {					
+				
+				//edited by Mike, 20231208
+//				if ($iHitSameNewsCount>=3) {					
+				//reminder: iReportForTheDayCountMax=5;
+				//before moving on to the next day;
+				//notes: select news sources do not yet have folders for 3 months due to insufficient content
+				if ($iHitSameNewsCount>=30) { //90
 					//END
 					$iNewsRankCount=$iNewsRankCountMax;
 				}
