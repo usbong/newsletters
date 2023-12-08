@@ -268,12 +268,21 @@
 							color: rgb(0,0,0); /* black */
 							font-weight: bold;
 						}
-					
+
+						h2
+						{
+							color: rgb(0,0,0); /* black */
+							text-align: left;
+							font-weight: Normal;
+							font-family: Arial;							
+						}
+						
 						h3
 						{
 							color: rgb(0,0,0); /* black */
 							text-align: left;
-							
+							font-weight: Bold;
+							font-family: Arial;							
 						}
 					
 						h4
@@ -473,7 +482,8 @@
 						a.webServiceLink
 						{
 							color: rgb(51,145,23);
-							font-weight: bold;												
+							font-weight: bold;
+							font-family: Arial;						
 						}
 						
 						a.webServiceTimeOffLink
@@ -754,7 +764,10 @@
 							/*color: green;*/
 							/*border: 3px solid #ab9c7d;	*/
 							line-height: 2;
-							font-size: 24pt;							
+							font-size: 24pt;	
+
+							font-weight: Normal;
+							font-family: Arial;							
 						}
 						
 						
@@ -1419,7 +1432,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		echo "</h3>";
 		echo "<hr>";
 */		
+		//edited by Mike, 20231208
 		$sOutput="<h3><a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b></h3><hr>";
+		
+		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 		
 		return $sOutput;
 	}
@@ -2054,8 +2070,7 @@ $sLastAccessed=substr($sToken,strpos($sToken,";"));
 	
 	
 
-$newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1);
-
+//$newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1);
 
 $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
 
@@ -2086,8 +2101,14 @@ $newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockqu
 
 ?>	
 
-<h2><span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span></h2>
+<!--
+<h2>
+-->
 
+<span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span>
+<!--
+</h2>
+-->
 
 <span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
 	
@@ -2127,15 +2148,22 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 
 		//echo strpos($cellValue,"<br/>");
 				
+		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
 		echo "<h3>";
+		
 //		echo "## <a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
 		//edited by Mike, 20230520
 //		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsite."'>";
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
 		echo $sReferenceWebsite."</a>";
+		//edited by Mike, 20231208
 		echo "<b>".$sLastAccessed."</b>";		
+		//echo $sLastAccessed;		
+
 		//echo $sLastAccessed;
 		echo "</h3>";
+		echo "</span>";
+
 		echo "<hr>";
 	}
 	//else if (strpos($cellValue, ">")!==false) {
