@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231208; from 20231207
+  @date updated: 20231212; from 20231208
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -2187,6 +2187,10 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 	//		$sToken = str_replace("-->","",$sToken);
 			echo "<span class='usbongNoteSpan'>";
 			echo "$sToken<br/>";
+			
+			//added by Mike, 20231212
+			echo "<br/>";					
+			
 			echo "</span>";		
 		}
 /*
@@ -2279,7 +2283,7 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 		echo $sReferenceWebsiteTemp."</a><br/>";				
 */
-	}
+	}				
 	else {
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
@@ -2292,7 +2296,7 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 			  echo "<br/>";
 			}
 			
-			echo "$sToken<br/>";
+			echo "$sToken<br/>";			
 		}	
 		else {
 			echo "<p class='usbongTranslatedQuote'>";
@@ -2301,7 +2305,7 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 			echo "</p>";
 		}
 	}
-
+	
 //	echo "<br/>";		
 	$sPrevToken = $sToken;	
 	$sToken = strtok("\n");
@@ -2314,6 +2318,10 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 <!-- added by Mike, 20231207 -->
 </span>
 
+	<!-- added by Mike, 20231212 
+	//TODO: -use: half the height of the default -->
+	<br/>
+	
 	</div>
 	</div>
 	</td>
