@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231212; from 20231208
+  @date updated: 20231213; from 20231212
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -336,8 +336,16 @@
 */
 							padding-left: 2%;
 							padding-top: 4%;
-
 						}
+						
+						img.Image-favicon {
+/*
+							width: 100%;
+							height: auto;						
+*/							
+							margin-bottom: 1%;
+						}
+						
 
 						img.Image-companyLogoMobile {
 							width: 80%; /* 40%; */
@@ -490,6 +498,17 @@
 						{
 							color: rgb(0,0,0);
 							/*font-weight: bold;*/
+						}
+						
+						a.webServiceGameOffLink:hover
+						{
+							color: rgb(0,0,0);
+/*							
+							background-color: rgb(146,208,80);
+							background-color: rgb(35,89,158);
+							border: 1px solid rgb(146,208,80);
+*/							
+							background-color: rgb(0,128,255); /*blue*/
 						}
 						
 						a.menuLink
@@ -846,7 +865,8 @@
 				//if using EDGE browser;
 				//observed: shaking on EDGE browser via desktop,
 				//caused by bIsMobile=true;
-				if (navigator.userAgent.includes("Edg")) {
+				//edited by Mike, 20231212
+				if (navigator.userAgent.includes("Edge")) { //Edg
 					bIsMobile=false;			
 				}	
 				
@@ -1263,8 +1283,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 */	
 ?>			
-			
-				<b>BALITA</b><br/>
+<!-- //edited by Mike, 20231213 
+				<b>BALITA</b>
+				<br/>
+-->					
+				<b>BALITA</b>
+<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/battle-tactics'>
+
+<?php
+		echo "<img class='Image-favicon' src='../".$updatedDirDueToURL."assets/images/favicon.png'>";
+?>
+		
+</a>				
+				<br/>
+
+				
 				<?php
 					//$dateToday="2023-05-08";
 					$dateTodayDay = strtoupper(date('D', strtotime($dateToday)));
@@ -2103,6 +2136,12 @@ $newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockqu
 
 <!--
 <h2>
+-->
+
+<!-- 
+TODO: -verify: using onmousedown() and onmouseup(), instead of onclick(); to identify if long-pressed or not; 
+
+https://www.w3schools.com/jsref/event_onmouseup.asp; last accessed: 20231212
 -->
 
 <span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span>
