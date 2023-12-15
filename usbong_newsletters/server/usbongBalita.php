@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231213; from 20231212
+  @date updated: 20231215; from 20231213
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -788,7 +788,11 @@
 							font-weight: Normal;
 							font-family: Arial;							
 						}
-						
+
+						span.spanSummaryReportsCount
+						{
+							display: none;
+						}						
 						
     /**/
     </style>
@@ -822,6 +826,10 @@
 		bIsUsingAppleWebKit=false;
 		iAppleWebKitInnerWidthOffset=0;
 		bIsUsingAppleMac=false;
+		
+		//added by Mike, 20231215
+		bHasPressedRightClick=false;
+		bHasPressedLeftClickFromRightClick=false;
 	  		
 		function onLoad() {
 		  //alert ("HALLO");
@@ -938,6 +946,41 @@
 				}			  
 		
 			}, false);
+			
+			//added by Mike, 20231215
+			//OK; 
+			onmousedown = (event) => {
+			  //alert("DITO");	
+			  
+//			  if (event.button === 0) { //left click
+			  if (event.button === 2) { //right click
+				//alert("DITO");
+				bHasPressedRightClick=true;
+			  }	 
+			  else {
+				//edited by Mike, 20231215
+				//bHasPressedRightClick=false;
+/*								
+				if (bHasPressedRightClick) {
+					bHasPressedLeftClickFromRightClick=true;
+				}
+*/
+
+				if (bHasPressedRightClick) {
+				  if (bHasPressedLeftClickFromRightClick) {
+					bHasPressedRightClick=false;
+					bHasPressedLeftClickFromRightClick=false;
+				  }
+				  else {
+					bHasPressedLeftClickFromRightClick=true;
+				  }
+				}
+				else {
+					bHasPressedRightClick=false;
+				}				
+			  }
+			};
+						
 		}
 		
 		
@@ -975,9 +1018,58 @@
 			
 		}
 		
+		
+	  //added by Mike, 20231215
+	  function toggleMoreStart(sParamId) {
+		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
+		  
+		  //current start time;
+		  summaryReportsCount.innerHTML = new Date().getTime();	  
+		} 	
+
+		
 	  //added by Mike, 20231207	  
-	  //TODO: -add: toggle in displayed full text;
-	  function toggleMore(sParamId) {
+	  //toggles in displayed full text;
+	  function toggleMoreEnd(sParamId) {
+		  
+		  //added by Mike, 20231215
+		  if (bHasPressedRightClick) {
+//			  bHasPressedRightClick=false;
+
+			  //alert("DITO");
+			  return;
+		  }
+		  
+		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
+		  
+		  //current start time;
+		  //summaryReportsCount.innerHTML = new Date().getTime();	
+		  
+		  //alert("START: "+summaryReportsCount.innerHTML);
+		  
+		  //fast click
+		  //START: 1702621771879
+		  //NOW:   1702621771960
+		  //DIFFERENCE: 81
+		  
+		  //long click
+		  //START: 1702621799188
+		  //NOW:   1702621801029
+		  //DIFFERENCE: 1841
+				  
+		  var iDifference = parseInt(new Date().getTime())-parseInt(summaryReportsCount.innerHTML);
+		  
+		  //alert("DIFFERENCE: "+iDifference);
+  
+		  //alert("START: "+summaryReportsCount.innerHTML+"\n"+"NOW: "+new Date().getTime()+"\n"+"DIFFERENCE: "+iDifference);
+		  
+		  //OK
+		  
+		  //if NOT fast click
+		  if (iDifference>=100) {
+			  return;
+		  }
+		  
 		  //var summaryReportsId = document.getElementById("summaryReportsId");//+sParamId.substring(0,indexOf(summaryReportsHeaderId));
 		  
 		  var summaryReportsId = document.getElementById("summaryReportsId"+sParamId.substring("summaryReportsHeaderId".length));
@@ -1017,6 +1109,7 @@
 			  }
 		  //}
 		} 		
+		
 		
 	  </script>
 
@@ -2144,12 +2237,22 @@ TODO: -verify: using onmousedown() and onmouseup(), instead of onclick(); to ide
 https://www.w3schools.com/jsref/event_onmouseup.asp; last accessed: 20231212
 -->
 
-<span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span>
+<span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span>
+
 <!--
 </h2>
 -->
 
-<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports" onclick="toggleMore('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
+<!-- added by Mike, 20231215 -->
+<span id="summaryReportsCountId<?php echo $iNewsRankCount;?>" class="spanSummaryReportsCount"></span>
+
+<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
+	
+<!-- removed by Mike, 20231215
+
+onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"
+
+-->	
 	
 <?php
 //added by Mike, 20231207
