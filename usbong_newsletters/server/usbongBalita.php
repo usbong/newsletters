@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231215; from 20231213
+  @date updated: 20231216; from 20231215
   @website address: http://www.usbong.ph
   
   Note: "default.md", not "default.md.txt";
@@ -2246,7 +2246,14 @@ https://www.w3schools.com/jsref/event_onmouseup.asp; last accessed: 20231212
 <!-- added by Mike, 20231215 -->
 <span id="summaryReportsCountId<?php echo $iNewsRankCount;?>" class="spanSummaryReportsCount"></span>
 
+<!-- edited by Mike, 20231216
+
 <span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
+
+-->
+
+<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports">
+
 	
 <!-- removed by Mike, 20231215
 
