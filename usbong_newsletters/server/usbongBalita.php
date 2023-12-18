@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231217; from 20231216
+  @date updated: 20231218; from 20231217
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -830,6 +830,9 @@
 		//added by Mike, 20231215
 		bHasPressedRightClick=false;
 		bHasPressedLeftClickFromRightClick=false;
+		
+		//added by Mike, 20231218
+		bHasLongPressed=false;
 
 		function onLoad() {
 		  //alert ("HALLO");
@@ -963,6 +966,9 @@
         //added by Mike, 20231217
         //TODO: -verify: this
         bHasPressedLeftClickFromRightClick=false;
+		
+				//added by Mike, 20231218
+				bHasLongPressed=false;
 			  }
 			  else {
 				//edited by Mike, 20231215
@@ -985,7 +991,6 @@
 				else {
 					bHasPressedRightClick=false;
           //alert("HALLO!");
-
 				}
 			  }
 			};
@@ -1077,8 +1082,29 @@
 		  //if NOT fast click
       //edited by Mike, 20231217
 		  if (iDifference>=120) {//100) {
+			  
+			  //added by Mike, 20231218
+			  bHasLongPressed=true;
+			  
 			  return;
 		  }
+		  //added by Mike, 20231218
+		  else {
+			if (bHasLongPressed) {
+				bHasLongPressed=false;
+				return;
+			}
+			
+			bHasLongPressed=false;
+		  }
+
+/*		  
+		  //removed by Mike, 20231218
+		  if (bHasLongPressed) {
+			  bHasLongPressed=false;
+			  return;
+		  }
+*/		  
 
 		  //var summaryReportsId = document.getElementById("summaryReportsId");//+sParamId.substring(0,indexOf(summaryReportsHeaderId));
 
