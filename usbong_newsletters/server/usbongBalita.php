@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231218; from 20231217
+  @date updated: 20231220; from 20231218
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1142,6 +1142,17 @@
 				  summaryReportsId.style.display = "none";
 
 				  summaryReportsHeaderId.style.display = "inline";
+				  
+				  //added by Mike, 20231220
+/*				  
+				  //reference: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp; 
+				  //last accessed: 20231220
+				  document.body.scrollTop = 0; // For Safari
+				  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera				  
+*/
+				  //reference: https://www.w3schools.com/jsref/met_element_scrollintoview.asp;
+				  //last accessed: 20231220
+				  summaryReportsHeaderId.scrollIntoView();				  
 			  }
 		  //}
 		}
