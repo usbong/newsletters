@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231220; from 20231218
+  @date updated: 20231221; from 20231220
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2384,8 +2384,8 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 			echo "<span class='usbongNoteSpan'>";
 			echo "$sToken<br/>";
 
-			//added by Mike, 20231212
-			echo "<br/>";
+			//removed by by Mike, 20231221; from 20231212
+			//echo "<br/>";
 
 			echo "</span>";
 		}
