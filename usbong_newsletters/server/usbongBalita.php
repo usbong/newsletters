@@ -160,6 +160,10 @@
 
 							text-align: justify;
 							text-justify: inter-word;
+							
+							/*
+								background-color: #eeeeee;
+							*/
                         }
 
 						div.newsListAtRightPanelDiv
@@ -411,7 +415,7 @@
 */
 						div.textDoubleSpacedDiv {
 							line-height: 2;
-							font-size: 24pt; /*30pt*80%;*/
+							font-size: 24pt; /*30pt*80%;*/							
 						}
 
 
@@ -1055,6 +1059,15 @@
 		  }
 
 		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
+		  
+		  //added by Mike, 20231221
+		  var mainTextDivId = document.getElementById("mainTextDivId"+sParamId.substring("summaryReportsHeaderId".length));	
+
+		  //alert("sParamId: "+sParamId);
+		  
+		  //alert(sParamId.substring("sHeaderId".length));
+		  
+		  //alert("mainTextDivId: "+mainTextDivId);
 
 		  //current start time;
 		  //summaryReportsCount.innerHTML = new Date().getTime();
@@ -1152,8 +1165,29 @@
 */
 				  //reference: https://www.w3schools.com/jsref/met_element_scrollintoview.asp;
 				  //last accessed: 20231220
-				  summaryReportsHeaderId.scrollIntoView();				  
+				  //edited by Mike, 20231221
+				  //summaryReportsHeaderId.scrollIntoView();		
+				  mainTextDivId.scrollIntoView();
 			  }
+			  			  
+			  //added by Mike, 20231221
+			  mainTextDivId.style.border = "5px solid #1c9bdf"; //37b819; green; 1c9bdf; blue
+			  
+			  //TODO: -update: max count 5 to use variable
+			  var iSelectedMainTextDivId = sParamId.substring("summaryReportsHeaderId".length);
+			  
+			  //alert("iSelectedMainTextDivId: "+iSelectedMainTextDivId);
+			  
+			  for(iCount=0; iCount<5; iCount++) {
+				  //alert(iCount);
+				if (iCount!=iSelectedMainTextDivId) {
+					var otherMainTextDivId = document.getElementById("mainTextDivId"+iCount);	
+
+					otherMainTextDivId.style.border = "1px solid #aaaaaa";
+				}			
+			  }
+				  
+				  
 		  //}
 		}
 
@@ -2201,7 +2235,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	else {
 */
 		echo "<table class='bodyTable'><tr><td>";
-		echo "<div class='mainTextDiv'>";
+		
+		//edited by Mike, 20231221
+		//echo "HALLO: ".$iNewsRankCount."<br/><br/>";
+		
+		echo "<div id='mainTextDivId".$iNewsRankCount."' class='mainTextDiv'>";
+		
+		
 /*
 	}
 */
