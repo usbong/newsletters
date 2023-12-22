@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231221; from 20231220
+  @date updated: 20231222; from 20231221
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -730,7 +730,7 @@
 						span.usbongTextSectionPart {
 							text-align: left;
 							color: rgb(50,50,50);
-							font-weight: bold;
+							font-weight: bold;							
 						}
 
 						span.usbongTextReferencePart {
@@ -2202,8 +2202,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//edited by Mike, 20211014
 //					$cellValue = strip_tags(utf8_encode($data));
 
-					$cellValue = strip_tags($data);
+					//$cellValue = strip_tags($data);
+					//edited by Mike, 20231222
+					//$cellValue = strip_tags($data);
+					$cellValue = $data;
 
+					
 					//added by Mike, 20230110
 					//note: list of additional rules to remove select displayed search outputs via updating searched value for use as input
 //-----
@@ -2471,7 +2475,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 
 			//edited by Mike, 20230519
 			//echo "<b>REFERENCE</b><br/>";
+			//edited by Mike, 20231222
 			echo "<b>### REFERENCE</b><br/>";
+			//echo "<b>### REFERENCE</b>";
 		}
 	}
 	//added by Mike, 20230518
@@ -2487,8 +2493,11 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		echo "<hr class='usbongTextSectionPartHr'>";
 	}
 	else if (strpos($sToken, "##")!==false) {
-		//added by Mike, 20230526
-		echo "<br/>";
+		//removed by Mike, 20231222; from 20230526
+		//echo "<br/>";
+		
+		//TODO: -put: in output string, instead of immediately use echo command; to know if has already added <br/>...
+		
 		//edited by Mike, 20230923
 		echo "<span class='usbongTextSectionPart'>";
 		echo "$sToken<br/>";
@@ -2511,6 +2520,10 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 
 		//edited by Mike, 20230801
 		processWebsiteReference($sToken);
+		
+		//added by Mike, 20231222
+		//echo "<br/>";
+		
 /*
 		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
 
@@ -2519,6 +2532,13 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 		echo $sReferenceWebsiteTemp."</a><br/>";
 */
+	}
+	//added by Mike, 20231222
+	else if (strlen($sToken)==strlen("<br/>")) {
+//	else if (strpos(strtolower($sToken), "<br/>")!==false) {
+		if (strpos(strtolower($sToken), "<br/>")!==false) {
+			echo "<br/>";
+		}
 	}
 	else {
 		//if prev token was a note
@@ -2531,8 +2551,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 			if (is_numeric($sPrevToken[0])) {
 			  echo "<br/>";
 			}
-
-			echo "$sToken<br/>";
+			//edited by Mike, 20231222
+			//echo "$sToken<br/>";
+			echo "$sToken";
 		}
 		else {
 			echo "<p class='usbongTranslatedQuote'>";
@@ -2548,6 +2569,13 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 	$iRowCount++;
 
 }
+
+//echo ">>>>>>>>>>>>".strlen($sToken)."<br/>";
+//echo ">>>>>>>>>>>>".strlen("<br/>")."<br/>";
+//echo "HALLO";
+
+	//added by Mike, 20231222
+	echo "<br/>";
 
 ?>
 
