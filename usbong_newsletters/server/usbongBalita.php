@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231222; from 20231221
+  @date updated: 20231224; from 20231222
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -56,6 +56,10 @@
   //UsbongV2 -> UsbongV3?
   //TO-DO: -delete: excess instructions
 
+
+//added by Mike, 20231224
+  //TODO: -verify: page format using various articles; with "REFERENCE", USBONG NOTE", etc.
+  //newlines not yet consistent;
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -2441,16 +2445,21 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 */
 	}
 	else if (strpos(strtolower($sToken), "reference")!==false) {
+/* //removed by Mike, 20231224		
 		//added by Mike, 20230518
 		if (is_numeric($sPrevToken[0])) {
 			echo "<br/>";
 		}
+*/
 
 		//noted by Mike, 20230518; "###" also exists for references
 		if (strpos(strtolower($sToken), "####")!==false) {
 			$sToken = str_replace("#", "", $sToken);
 
-			$sToken = str_replace("Reference:", "", $sToken);
+			//edited by Mike, 20231224
+//			$sToken = str_replace("Reference:", "", $sToken);
+			$sToken = str_replace(strtolower("reference"), "", $sToken);
+
 			$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));
 			$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);
 
@@ -2475,8 +2484,10 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 
 			//edited by Mike, 20230519
 			//echo "<b>REFERENCE</b><br/>";
-			//edited by Mike, 20231222
+			//edited by Mike, 20231214; from 20231222
 			echo "<b>### REFERENCE</b><br/>";
+//			echo "<br/><b>### REFERENCE</b><br/>";
+
 			//echo "<b>### REFERENCE</b>";
 		}
 	}
