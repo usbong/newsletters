@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231224; from 20231222
+  @date updated: 20231227; from 20231224
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1501,8 +1501,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <table class="searchTable">
 		<tr>
 <!-- //removed by Mike, 20231003; TODO: -add: this
+-->
 			<td>
-			<form id="search-form" method="get" action="">
+			<!-- 
+				//added by Mike, 20231227
+				//TODO: -update: this 
+			-->
+			<form id="search-form" method="get" action="usbongSearch.php">
 				<?php/*echo site_url('browse/confirmPatient')*/?>
 				<?php
 					$itemCounter = 1;
@@ -1524,6 +1529,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</form>
 			</td>
 			<td>
+<!--
 -->
 
 <!-- //edited by Mike, 20230919
