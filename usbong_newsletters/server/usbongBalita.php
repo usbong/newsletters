@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231227; from 20231224
+  @date updated: 20231228; from 20231227
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1500,13 +1500,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <!-- //edited by Mike, 22030929 -->
 <table class="searchTable">
 		<tr>
-<!-- //removed by Mike, 20231003; TODO: -add: this
--->
+<!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
 			<td>
-			<!-- 
-				//added by Mike, 20231227
-				//TODO: -update: this 
-			-->
 			<form id="search-form" method="get" action="usbongSearch.php">
 				<?php/*echo site_url('browse/confirmPatient')*/?>
 				<?php
@@ -1529,7 +1524,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</form>
 			</td>
 			<td>
-<!--
 -->
 
 <!-- //edited by Mike, 20230919
@@ -1969,6 +1963,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//2023-07-07; output: 202307
 			$currYearMonthBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,6);
 
+			//added by Mike, 20231228
+			$currYearOnlyBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,4);
+			
+			//echo $currYearOnlyBasedOnDateTodayTemp."<br/>";
+			
 			//edited by Mike, 20230519
 //			$filename="202305/asahiShimbun".$dateTodayTemp.".md";
 
@@ -1995,7 +1994,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$filename="202306\asahiShimbun".$dateTodayTemp;
 				//edited by Mike, 20230930
 				//$filename=$currYearMonthBasedOnDateTodayTemp."\asahiShimbun".$dateTodayTemp;
-				$filename=$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;
+				
+				//edited by Mike, 20231228
+//				$filename=$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;
+				$filename=$currYearOnlyBasedOnDateTodayTemp."\\".$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;
 			}
 			//LINUX machine
 			else {
@@ -2006,8 +2008,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$filename="202306/asahiShimbun".$dateTodayTemp;
 				//edited by Mike, 20230930
 				//$filename=$currYearMonthBasedOnDateTodayTemp."/asahiShimbun".$dateTodayTemp;
-				$filename=$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
-
+				//edited by Mike, 20231228
+				//$filename=$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
+				
+				$filename=$currYearOnlyBasedOnDateTodayTemp."/".$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
 			}
 
 			//edited by Mike, 20230930; from 20230919
@@ -2024,6 +2028,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				$currYearMonthBasedOnDateTodayTemp=((int)$currYearMonthBasedOnDateTodayTemp-1);
 
 				//echo ">>>>".$currYearMonthBasedOnDateTodayTemp."<br/>";
+				
+				
+				$currMonthOnlyBasedOnDateTodayTemp=substr($currYearMonthBasedOnDateTodayTemp,4);
+				
+				//added by Mike, 20231228
+				if ($currMonthOnlyBasedOnDateTodayTemp<0) {
+					$currYearOnlyBasedOnDateTodayTemp-=1;
+					$currMonthOnlyBasedOnDateTodayTemp=12;
+					
+					$currYearMonthBasedOnDateTodayTemp=$currYearOnlyBasedOnDateTodayTemp.$currMonthOnlyBasedOnDateTodayTemp;
+				}
+				
+				if ($currYearOnlyBasedOnDateTodayTemp<2018) {
+					break; //END
+				}
 			}
 
 /*	//removed by Mike, 20230520
@@ -2073,7 +2092,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //			if ($iReportForTheDayCount<5){
 			//edited by Mike, 20231201
 //			if ($iReportForTheDayCount<=5){
-			if ($iReportForTheDayCount>=0){
+			//edited by Mike, 20231228
+//			if ($iReportForTheDayCount>=0){
+			if ($iReportForTheDayCount>1){
 
 			/*
 			echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
@@ -2124,7 +2145,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 			//echo $completeFilename."<br/>";
 
-//			echo "<br/><br/>".$filename."<br/>";
+			//removed by Mike, 20231228
+			//debug
+			//echo "<br/><br/>".$filename."<br/>";
 
 			// C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\asahiShimbun\202307\asahiShimbun20230707.md
 
@@ -2194,6 +2217,15 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 //	echo ">>> ".$completeFilename."<br/><br/>";
 
+	//added by Mike, 20231228
+	if (!file_exists($completeFilename)) {
+/*	//removed by Mike, 20231228; from 20231228
+		$currYearOnlyBasedOnDateTodayTemp="";
+		//note: shall need to add a handle for computer to know that no year folder;
+		return;
+*/
+		break;
+	}
 
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {
 
