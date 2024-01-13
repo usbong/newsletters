@@ -1,5 +1,5 @@
 ﻿﻿<!--
-  Copyright 2021~2023 SYSON, MICHAEL B.
+  Copyright 2021~2024 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
   http://www.apache.org/licenses/LICENSE-2.0
@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20231228; from 20231227
+  @date updated: 20240113; from 20231228
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2482,7 +2482,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 			echo "</span>";
 */
 	}
-	else if (strpos(strtolower($sToken), "reference")!==false) {
+	//edited by Mike, 20240113
+	//else if (strpos(strtolower($sToken), "reference")!==false) {
+	else if (strpos(strtolower($sToken), "# reference")!==false) {
 /* //removed by Mike, 20231224		
 		//added by Mike, 20230518
 		if (is_numeric($sPrevToken[0])) {
