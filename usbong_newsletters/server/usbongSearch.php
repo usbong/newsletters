@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240118; from 20240118
+  @date updated: 20240130; from 20240129
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1306,6 +1306,7 @@
 
 	//edited by Mike, 20211020
 //    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
+
     $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory, SCANDIR_SORT_DESCENDING);
 
 	//added by Mike, 202202302;
@@ -1328,9 +1329,11 @@
 	$iCurrentYear = idate("Y");
 
 	while ($iYearCount<=$iCurrentYear) {
-		//edited by Mike, 20230110
-		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
+		//edited by Mike, 20240130; from 20230110
+		//$sYearDirectoryPartTwo="/server/".$iYearCount."/";
 
+		$sYearDirectoryPartTwo="/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/";
+		
 		//edited by Mike, 20230116
 /*
 		if (file_exists($sYearDirectoryPartTwo)) {
@@ -1767,7 +1770,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 				$sWebAddress = getUpdatedWebAddress($completeFilename, $sWebAddressBasePath);
 				$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
-
+				
 				if (strpos($sWebAddress,"downloaded")!==false) {
 					$sYearDate=substr($sWebAddress,strpos($sWebAddress,"downloadedNewsletter"));
 					$sYearDate=str_replace("downloadedNewsletter","",$sYearDate);
@@ -1868,15 +1871,24 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 	//echo ">>>>".$_GET['q'];
 	
+	$sKeyphrase=$_GET['q']; 
+	
 	//added by Mike, 20211014
     foreach ($arrayFilesInCurrentDirectory as $key => $filename)
     { 		
 	  if (!in_array($filename,array(".","..")))
       {
+//		echo ">".$filename."<br/>";		
+
+		$sYearDate=substr($filename,0,4);
+///		echo ">>>>>".$sYearDate."<br/>";
+
+		
 /*		  
-		echo ">".$filename."<br/>";
 		echo ">".$sYearDirectory."<br/>";
 */
+
+/* //edited by Mike, 20240129
 		if (strpos($filename, "EXCEL")!==false) {
 			//echo ">".$filename."<br/>";
 			$sYearDirectory="/server/".substr($filename,strlen("EXCEL "),4)."/";
@@ -1894,15 +1906,29 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		else {
 			$sYearDirectory="/server/".substr($filename,strlen("viewLessonsLearnedAsahiDotCom"),4)."/";
 		}
+*/
+		//edited by Mike, 20240130	//$sYearDirectory="/server/notes/LessonsLearned/asahishimbun".substr($filename,strlen("viewLessonsLearnedAsahiDotCom"),4)."/";
+
+		$sYearDirectory="/server/notes/LessonsLearned/asahishimbun/".$sYearDate."/";
+
 		
-//		echo ">>>".$sYearDirectory."<br/>";
+///notes/LessonsLearned/asahishimbun
+		
+		//echo ">>>".$sYearDirectory."<br/>";
 
 
 //		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 //$sYearDirectory="/server/2022/";
 
+		//edited by Mike, 20240129
+		//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
+
 		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
 
+		///notes/LessonsLearned/asahishimbun
+		
+//		echo ">>>>>".$completeFilename."<br/><br/>";
+		
 		if (!is_dir($completeFilename)) {
 		
 		//echo ">>>".$completeFilename."<br/>";
@@ -1940,7 +1966,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			}
 			else {
 				$sKeyphrase = $_GET['q']; //nameParam
-
+				
 				//added by Mike, 20211014; removed by Mike, 20211014
 //				$bHasFoundKeyphrase=false;
 
@@ -2076,6 +2102,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	  }
 	}
 	
+	
+	//echo "sKeyphrase: ".$sKeyphrase."<br/><br/>";
+	
 	//added by Mike, 20211017
 	//TO-DO: -update: instructions to be a reusable function
 	//note: noticeable speed-up to receive search results
@@ -2096,30 +2125,59 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$iYearCount=2020;
 */
 
+		//added by Mike, 20240129
+		//TODO: -update: this
 
-		$iMonthCount=13;//to start at 12;
-		$iYearCount=2020;
+		//echo "HALLO!";
+
+		//added by Mike, 20240130
+		$iDayCount=0; //start 1
+		//edited by Mike, 20240130
+		$iMonthCount=12;//to start at 12;
+		//edited by Mike, 20240130
+		$iYearCount=2023; //2020;
 		
 		//edited by Mike, 20211020
 //		$completeFilename="https://www.usbong.ph/excel/excel-2020-08";
-		$filename="downloadedNewsletter2020-08.php";
-		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
+		//removed by Mike, 20240130
+		//$filename="downloadedNewsletter2020-08.php";
 		
-//		echo $completeFilename;
+//		echo ">>>".$filename;
+		
+		//edited by Mike, 20240129
+		//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
+
+		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/"); //.$filename;
+
+		
+		//echo "HEY!".$completeFilename;
 		
 		//added by Mike, 20211020
 		while (file_exists($completeFilename)) {
+			//added by Mike, 20240130
+			$sDayCount="";
+
 			$sMonthCount="";
 			$sYearDay="";
+			
 	
-			//edited by Mike, 20211020
-//			$iMonthCount=(($iMonthCount)%12)+1;
-//			$iMonthCount=(($iMonthCount-1)%12);
-			$iMonthCount=$iMonthCount-1;
-		
-			//echo ">>>>>>iDayCount: ".$iDayCount;
-//			echo ">>>>>>iMonthCount: ".$iMonthCount;
-					
+			//edited by Mike, 20240130; from 20211020
+			if ($iDayCount<=31) {
+				$iDayCount++;
+			}
+			else {				
+	//			$iMonthCount=(($iMonthCount)%12)+1;
+	//			$iMonthCount=(($iMonthCount-1)%12);
+				$iMonthCount=$iMonthCount-1;
+				//added by Mike, 20240130
+				$iDayCount=1; //start 1;				
+			}
+
+/*			
+			echo ">>>>>>iDayCount: ".$iDayCount;
+			
+			echo ">>>>>>iMonthCount: ".$iMonthCount;
+*/					
 					
 			if ($iMonthCount<10) { //1 digit only
 				$sMonthCount="0".$iMonthCount;
@@ -2127,7 +2185,16 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			else {
 				$sMonthCount=$iMonthCount;
 			}
+			
+			//added by Mike, 20240130
+			if ($iDayCount<10) { //1 digit only
+				$sDayCount="0".$iDayCount;
+			}
+			else {
+				$sDayCount=$iDayCount;
+			}
 
+							
 			//echo "iDayCount: ".$iDayCount."<br/>";
 	
 /* //edited by Mike, 20211020	
@@ -2140,19 +2207,27 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				break; //downloaded newsletters of year 2021 already searched
 			}
 */
+
+/* //removed by Mike, 20240130
 			//added by Mike, 20211020
 			if ($iMonthCount==7) {
 				break; //downloaded newsletters until 2020-08
 			}
+*/
 
-
-			$sYearDate=$iYearCount."-".$sMonthCount;
+			//edited by Mike, 20240130
+			//$sYearDate=$iYearCount."-".$sMonthCount;
+			$sYearDate=$iYearCount.$sMonthCount;
+			
+			//echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>".$sYearDate."<br/><br/><br/>";
+			
 			
 //			$completeFilename="https://www.usbong.ph/excel/excel-".$sYearDate;
 
 			//edited by Mike, 20211020
 //			$filename="downloadedNewsletter".$sYearDate;
-			$filename="downloadedNewsletter".$sYearDate.".php";
+			//removed by Mike, 20240130
+			//$filename="downloadedNewsletter".$sYearDate.".php";
 
 			//edited by Mike, 20211017
 			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sYearDirectory).$filename;
@@ -2160,9 +2235,24 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				echo ">>>>".$filename;
 				echo ">>>>".$iYearCount;
 */				
+			//edited by Mike, 20240129
+/*			
 			$sYearDirectory="/server/".$sYearDate."/";
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/".$iYearCount."/").$filename;
-							
+*/
+			$sYearDirectory="/server/notes/LessonsLearned/asahishimbun/".$sYearDate."/";
+			//edited by Mike, 20240130
+			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$filename;
+
+			//TODO: -update: this; add days
+			//edited by Mike, 20240130
+			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/20231201.md";			
+			
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/".$iYearCount.$sMonthCount.$sDayCount.".md";	
+			
+			echo ">>>>>>".$completeFilename."<br/><br/><br/>";
+			
+			
 			//added by Mike, 20220302
 			$data="";		
 							
@@ -2249,7 +2339,7 @@ echo ">>>>>".$sKeyphrase;
 //	if (!$bHasFoundKeyphrase) {
 	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
 		echo "<span class='spanKeyphraseNotFound'>
-				USBONG: We did NOT find this keyphrase in any of the newsletter files.
+				USBONG: We did NOT find this keyphrase in any of the files.
 			  </span><br/><br/>";
 		echo "<table class='searchTable'>";						
 		echo "<tr>";
