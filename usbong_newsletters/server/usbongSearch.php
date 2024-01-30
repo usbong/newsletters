@@ -725,6 +725,11 @@
 							width: 100%;
 							padding-left: 60px;
 							color: rgb(252,60,3);
+							font-size: 16pt;	
+						}
+												
+						span.usbongSearchResultTextSpan, span.spanYourEnteredKeyphrase {
+							font-size: 16pt;
 						}
 
 						span.usbongNoteSpan {
@@ -1770,7 +1775,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 				$sWebAddress = getUpdatedWebAddress($completeFilename, $sWebAddressBasePath);
 				$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
-				
+	
+/*	//edited by Mike, 20240130	
 				if (strpos($sWebAddress,"downloaded")!==false) {
 					$sYearDate=substr($sWebAddress,strpos($sWebAddress,"downloadedNewsletter"));
 					$sYearDate=str_replace("downloadedNewsletter","",$sYearDate);
@@ -1784,7 +1790,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				else {
 					echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
 				}
+*/
+				echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
 
+				
 				echo "... ";
 				//edited by Mike, 20211013
 	//				echo $cellValue;
@@ -1837,14 +1846,22 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//edited by Mike, 20211022
 				//echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
 //				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,280);
+				//added by Mike, 20240130
+				echo "<span class='usbongSearchResultTextSpan'>";
+
 				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,160);
 
 				echo " ...";
+				
+				//added by Mike, 20240130
+				echo "</span>";
+				
 			echo "</td>
 				</tr>
 					</table>";
 
-			echo "<br/><br/>";
+//removed by Mike, 20240130
+//			echo "<br/><br/>";
 	}
 
 
@@ -1872,16 +1889,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//echo ">>>>".$_GET['q'];
 	
 	$sKeyphrase=$_GET['q']; 
-	
+
+	//edited by Mike, 20240130
+	//TODO: -reverify: this
 	//added by Mike, 20211014
     foreach ($arrayFilesInCurrentDirectory as $key => $filename)
     { 		
 	  if (!in_array($filename,array(".","..")))
       {
+
 //		echo ">".$filename."<br/>";		
 
 		$sYearDate=substr($filename,0,4);
 ///		echo ">>>>>".$sYearDate."<br/>";
+	  }
+	}
 
 		
 /*		  
@@ -1929,179 +1951,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		
 //		echo ">>>>>".$completeFilename."<br/><br/>";
 		
-		if (!is_dir($completeFilename)) {
-		
-		//echo ">>>".$completeFilename."<br/>";
-		  		  
-		//added by Mike, 20200523
-		if (!file_exists($completeFilename)) {
-			//add the day of the week
-			$sDateToday = Date('Y-m-d, l');
-
-			echo "<span class='spanFileNotFound'>
-					USBONG: We did NOT find the file. Please re-verify filename to be correct.
-				  </span><br/><br/>";
-	//		echo "<span class='spanFileNotFound'>Filname:</span><br/><br/>";
-			echo "<table class='searchTable'>";						
-			echo "<tr>";
-				echo "<td>";		
-				echo $completeFilename;
-				echo "</td>";		
-			echo "</tr>";		
-			echo "</table>";
-			echo "<br/>";
-		}
-		else {			
-/*		
-			//added by Mike, 20211020; removed by Mike, 20211020
-			if (strpos($completeFilename, "downloaded")!==false) {
-				continue;
-			}
-*/			
-			//added by Mike, 20211013
-	//		echo $_GET['nameParam'];
-			
-			//edited by Mike, 20211014
-			if (!isset($_GET['q'])) { //nameParam
-			}
-			else {
-				$sKeyphrase = $_GET['q']; //nameParam
-				
-				//added by Mike, 20211014; removed by Mike, 20211014
-//				$bHasFoundKeyphrase=false;
-
-				if (($handle = fopen($completeFilename, "r")) !== FALSE) {						
-				  while (!feof($handle)) {		  
-					//edited by Mike, 20211014;
-					//TO-DO: -update: to identify if keyphrase uses 
-					//the previous read batch and the next batch
-					//edited by Mike, 20211014; edited again by Mike, 20211022
-					//$data = fread($handle, 128);
-					$data = fread($handle,filesize($completeFilename));										
-//					$data = fread($handle, 164);
-		
-					//edited by Mike, 20211013
-					//$cellValue = utf8_encode($data);
-					//edited by Mike, 20211014
-//					$cellValue = strip_tags(utf8_encode($data));
-					$cellValue = strip_tags($data);
-					
-					//added by Mike, 20230110
-					//note: list of additional rules to remove select displayed search outputs via updating searched value for use as input
-//-----					
-//PART 1
-					$cellValue = str_replace("by Mike, ".$sKeyphrase, "", $cellValue);
-
-					$cellValue = str_replace("server\\".$sKeyphrase, "", $cellValue);
-
-					$cellValue = str_replace("var/www/html/", "", $cellValue);
-
-//-----					
-//PART 2
-					
-					//added by Mike, 20220305
-//					$cellValue = "website address: ".getUpdatedWebAddress($completeFilename, $sWebAddressBasePath).";".$cellValue;
-
-					//edited by Mike, 20230110
-					//TO-DO: -update: this; 
-					//downloaded newsletters, 
-					//EXCEL 2021-07 pages @www.usbong.ph;
-/*					
-					$cellValue = "website address: ".$completeFilename.";".$cellValue;
-*/					
-/*
-					$cellValue = "website address: ".str_replace("\\".$sKeyphrase, "", $completeFilename).";".$cellValue;
-*/
-					$cellValue = "website address: ".str_replace("var/www/html/", "", $completeFilename).";".$cellValue;
-//-----					
-										
-					
-/*					//added by Mike, 20211022
-					//TO-DO: -remove: remaining comments, css, functions
-					//Reference: https://stackoverflow.com/questions/1886740/php-remove-javascript;
-					//last accessed: 20211022
-					//answer by: bng44270, 20091211
-					//edited by: 20120301T1234
-					echo "cellValue: ".$cellValue;
-
-					while (true) {
-					  echo "start position: ".strpos($cellValue,"<script");
-
-					  if ($iStart = strpos($cellValue,"<script")) {
-						$iStringLength = (strpos($cellValue,"</script>") + strlen("</script>")) - $iStart;
-						$cellValue = substr_replace($cellValue, "", $iStart, $iStringLength);
-					  } else {
-						break;
-					  }
-					}
-*/
-
-
-/* //removed by Mike, 20211022	
-					//added by Mike, 20211022
-					$iReadCountOfCellValue=0;
-					$iCellValueLength=strlen($cellValue);
-					while ($iReadCountOfCellValue<$iCellValueLength) {
-*/
-	//					echo ">>".$cellValue;
-
-						//added by Mike, 20211014
-						//sKeyphrase does NOT exist in $cellValue
-						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))===false) {						
-							if (!feof($handle)) {
-								//edited by Mike, 20211017; add string of characters after sKeyPhrase
-								//$nextData=fread($handle, strlen($sKeyphrase));
-								//edited by Mike, 20211022
-								$iCellValueTailLength=20;//1020; //note: max 100000000;//42;							
-								
-								//note: read until there exists Characters in $cellValue
-								$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
-								
-								$data = $data.$nextData;
-								$cellValue = strip_tags($data);	
-							}						
-						}			
-
-						//edited by Mike, 20211014
-						//sKeyphrase: case-sensitive OFF
-		//				if (strpos($cellValue,$sKeyphrase)!==false) {
-						//edited by Mike, 20211014
-						if (strpos(strtoupper($cellValue),strtoupper($sKeyphrase))!==false) {
-
-							//added by Mike, 20211016
-							autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
-							
-							//added by Mike, 20211014
-							$bHasFoundKeyphrase=true;
-
-							//display only the first result with keyphrase found from each existing file
-							break;						
-						}
-	
-/* //removed by Mike, 20211022	
-						//added by Mike, 20211022
-						$iReadCountOfCellValue=$iReadCountOfCellValue+128;
-						if ($iReadCountOfCellValue>$iCellValueLength) {
-							$iReadCountOfCellValue=($iReadCountOfCellValue-$iCellValueLength)-$iCellValueLength;
-						}		
-*/						
-					}
-
-/* //removed by Mike, 20211022	
-					//added by Mike, 20211022
-					if ($bHasFoundKeyphrase) {
-						break;
-					}
-				  }
-*/					
-				}							
-			}
-		  //added by Mike, 20211014
-		  }
-		}
-	  }
-	}
-	
 	
 	//echo "sKeyphrase: ".$sKeyphrase."<br/><br/>";
 	
@@ -2249,13 +2098,18 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/20231201.md";			
 			
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/".$iYearCount.$sMonthCount.$sDayCount.".md";	
-			
+
+/*			
 			echo ">>>>>>".$completeFilename."<br/><br/><br/>";
-			
-			
+*/			
+
 			//added by Mike, 20220302
 			$data="";		
-							
+
+			//added by Mike, 20240130
+			echo "<br/>";
+
+			
 			//removed by Mike, 20211020
 //			if (file_exists($completeFilename)) {
 				//edited by Mike, 20211020
@@ -2337,14 +2191,20 @@ echo ">>>>>".$sKeyphrase;
 
 	//added by Mike, 20211014; edited by Mike, 20211017
 //	if (!$bHasFoundKeyphrase) {
-	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {
+	if ((!empty($sKeyphrase)) and (!$bHasFoundKeyphrase)) {	
 		echo "<span class='spanKeyphraseNotFound'>
 				USBONG: We did NOT find this keyphrase in any of the files.
 			  </span><br/><br/>";
 		echo "<table class='searchTable'>";						
 		echo "<tr>";
 			echo "<td>";		
+			//edited by Mike, 20240130
+//			echo "Your entered keyphrase: <b>".$sKeyphrase."</b>";
+
+			echo "<span class='spanYourEnteredKeyphrase'>";
 			echo "Your entered keyphrase: <b>".$sKeyphrase."</b>";
+			echo "</span>";		
+			
 			echo "</td>";		
 		echo "</tr>";
 		echo "</table>";
