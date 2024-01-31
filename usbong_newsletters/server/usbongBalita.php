@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240118; from 20240117
+  @date updated: 20240113; from 20231228
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1194,40 +1194,7 @@
 				  
 		  //}
 		}
-		
-		//added by Mike, 20240117
-		function execSearch() {
-			
-			//alert("HALLO");
-			
-			var sInputSearchInput = document.getElementById("inputSearchInputId").value;
 
-			//alert("sInputSearchInputId: "+sInputSearchInputId.value);
-
-			//alert("sInputSearchInputId: "+sInputSearchInput);
-			
-			var sInput = window.location.href;
-						
-			//input: http://localhost/usbong_newsletters/server/usbongBalita.php/N2;
-			//remove "/N2"
-			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
-					
-			sInput=sInput.replace("usbongBalita","usbongSearch");
-
-			//alert("sInput: "+sInput);
-			
-			//window.location.href = ""+sInput; //+selectedValue;
-
-			//alert("sInput: "+sInput+sInputSearchInput);
-			
-			//TODO: -add: auto convert to URL friendly
-			
-			window.location.href = ""+sInput+sInputSearchInput; //+selectedValue;
-
-			//window.location.href = ""+sInput+"discord";
-			
-			//echo "usbongSearch.php";
-		}
 
 	  </script>
 
@@ -1343,7 +1310,6 @@
 //	$sWebAddressBasePath = "http://localhost";
 	//edited by Mike, 20220304
 	$sWebAddressBasePath = "http://store.usbong.ph";
-
 ?>
 
 	<table class="imageTable">
@@ -1531,20 +1497,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	   </tr>
 	</table>
 
-<!-- //edited by Mike, 20240118; from 20230929 
-//TODO: -add: enter key as command for search
--->
+<!-- //edited by Mike, 22030929 -->
 <table class="searchTable">
 		<tr>
+<!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
 			<td>
-			<!-- 
-			TODO: -fix: this; "/N1", etc not yet removed
-			action="usbongSearch.php" 
-			action="execSearch()"
-			-->
-<!--			
-			<form id="search-form" method="get">
--->			
+			<form id="search-form" method="get" action="usbongSearch.php">
 				<?php/*echo site_url('browse/confirmPatient')*/?>
 				<?php
 					$itemCounter = 1;
@@ -1555,23 +1513,18 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					<table width="100%">
 					  <tr>
 						<td>
-						  <!-- edited by Mike, 20240118 -->
-						  <input id="inputSearchInputId" type="text" class="searchInput" placeholder="" name="q" required>
-<!--
-						  <text id="inputSearchInputId" class="searchInput">
--->						  
-						<!-- type="submit" -->
-						<button class="searchButton" onclick="execSearch()">
+						  <input type="text" class="searchInput" placeholder="" name="q" required>
+						<button type="submit" class="searchButton">
 							Search
 						</button>
 						</td>
 					  </tr>
 					</table>
-<!--
+
 			</form>
--->			
 			</td>
 			<td>
+-->
 
 <!-- //edited by Mike, 20230919
 	<br/>
@@ -1720,8 +1673,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		echo strpos($sToken,"http")."<br/><br/>";
 */
 
+		//edited by Mike, 20240131
+	    //TODO: -fix: error without last accessed;
 		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
-
+	   
 		$sReferenceWebsiteAccessedDate=substr($sToken,strpos($sToken,";"));
 
 		//echo "DITO: ".$sReferenceWebsiteAccessedDate;
@@ -2609,6 +2564,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 	}
 	//added by Mike, 20230518
 	else if (strpos($sToken, "http")!==false) {
+		
+		//echo "DITO!!!<br/><br/>";
+		
 /*
 		echo "<span class='usbongNoteSpan'>";
 		echo "$sToken<br/>";
