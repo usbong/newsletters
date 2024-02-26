@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240130; from 20240129
+  @date updated: 20240226; from 20240212
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1697,6 +1697,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//added by Mike, 20231207
 	//return sOutput
 	function processWebsiteReferenceForHeaderTitle($cellValue) {
+				
 		$sToken = strtok($cellValue, "\n");
 
 		//note: space after "##"
@@ -1793,8 +1794,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 */
 				echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
 
+				//removed by Mike, 20240226
+				//echo "... ";
 				
-				echo "... ";
 				//edited by Mike, 20211013
 	//				echo $cellValue;
 
@@ -1817,7 +1819,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				echo strpos($cellValue,$sKeyphrase)."<br/><br/>";
 */
 
-				//edited by Mike, 20211017
+				//removed by Mike, 20240226; from 20211017
+/*				//location where search keyphrase exists;				
 //				if (strlen($cellValue)>118) {
 				if (strlen($cellValue)>100) {
 
@@ -1842,16 +1845,35 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>";
 					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos+$iOffset);
 				}
+*/
 
 				//edited by Mike, 20211022
 				//echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
 //				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,280);
 				//added by Mike, 20240130
 				echo "<span class='usbongSearchResultTextSpan'>";
+				
+				//edited by Mike, 20240226
+				//echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,160);
+				//echo $cellValue;
 
-				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,160);
+				//echo ">>>>>>".strpos($cellValue,">");
+								
+				if (strpos($cellValue,">")!==false) {
+					//echo substr($cellValue,0,strpos($cellValue,">"));
+					$cellValue=substr($cellValue,0,strpos($cellValue,">"));
+				}
+/*				
+				else {
+					echo $cellValue;
+				}
+*/				
+				$cellValue=trim($cellValue);
+				echo $cellValue;
 
-				echo " ...";
+				//edited by Mike, 20240226
+				//echo " ...";
+				echo "...";
 				
 				//added by Mike, 20240130
 				echo "</span>";
@@ -2019,12 +2041,18 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//			$iMonthCount=(($iMonthCount-1)%12);
 				$iMonthCount=$iMonthCount-1;
 				//added by Mike, 20240130
-				$iDayCount=1; //start 1;				
+				$iDayCount=1; //start 1;		
+
+				//TODO: -update: this
+				//echo ">>> iMonthCount: ".$iMonthCount."<br/>";
+				//stuck at Year 2023
+				//iYearCount				
 			}
 
-/*			
-			echo ">>>>>>iDayCount: ".$iDayCount;
-			
+			//TODO: -update: this
+			//echo ">>>>>>iDayCount: ".$iDayCount;
+
+/*						
 			echo ">>>>>>iMonthCount: ".$iMonthCount;
 */					
 					
@@ -2084,6 +2112,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				echo ">>>>".$filename;
 				echo ">>>>".$iYearCount;
 */				
+			//echo ">>>>".$iYearCount;
+
 			//edited by Mike, 20240129
 /*			
 			$sYearDirectory="/server/".$sYearDate."/";
@@ -2097,8 +2127,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//edited by Mike, 20240130
 			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/20231201.md";			
 			
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/".$iYearCount.$sMonthCount.$sDayCount.".md";	
+			//edited by Mike, 20240226
+			//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/").$sYearDate."/".$iYearCount.$sMonthCount.$sDayCount.".md";	
+			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, "/server/notes/LessonsLearned/asahishimbun/".$iYearCount."/".$sYearDate."/".$iYearCount.$sMonthCount.$sDayCount.".md");	
 
+			
 /*			
 			echo ">>>>>>".$completeFilename."<br/><br/><br/>";
 */			
@@ -2129,7 +2162,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//reminder: with read length @128, 
 					//$data as $cellValue NOT classified as HTML
 					//execute with downloaded newsletters 2020 and 2021
-//					$data = fread($handle, 204800);
+					//edited by Mike, 20240226
+					$data = fread($handle, 204800);
 					fread($handle,filesize($completeFilename));
 
 //					$data = fread($handle, 164);
@@ -2139,8 +2173,15 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//edited by Mike, 20211014
 //					$cellValue = strip_tags(utf8_encode($data));
 					$cellValue = strip_tags($data);
+	
+/*					
+					//edited by Mike, 20240226					
+					$cellValue=substr($cellValue, strpos($cellValue,">"),strpos($cellValue,">"));
 
-//					echo ">>".$cellValue;
+					$cellValue=str_replace('> ', "", $cellValue);
+					
+					//echo "header text: ".$cellValue;
+*/
 
 					//added by Mike, 20211014
 					//sKeyphrase does NOT exist in $cellValue
@@ -2149,7 +2190,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 							//edited by Mike, 20211017; add string of characters after sKeyPhrase
 							//$nextData=fread($handle, strlen($sKeyphrase));
 							//edited by Mike, 20211022
-							$iCellValueTailLength=20;//1020; //note: max 100000000;//42;							
+							$iCellValueTailLength=20;//1020; 
+							//note: max 100000000;//42;							
 							
 							//note: read until there exists Characters in $cellValue
 							$nextData=fread($handle, strlen($sKeyphrase)+$iCellValueTailLength);
@@ -2173,6 +2215,15 @@ echo ">>>>>".$completeFilename;
 //echo ">>>>>".$cellValue;
 echo ">>>>>".$sKeyphrase;
 */
+
+							//added by Mike, 20240226					
+							$cellValue=substr($cellValue, strpos($cellValue,">"),strpos($cellValue,">"));
+
+							$cellValue=str_replace('> ', "", $cellValue);
+							
+							//echo "header text: ".$cellValue;							
+
+							
 						//added by Mike, 20211016
 						autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase);
 						
