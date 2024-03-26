@@ -104,7 +104,7 @@ https://phantomjs.org/; last accessed: 20210823<br/>
 <b>Install:</b> https://phantomjs.org/download.html; last accessed: 20210823<br/>
 
 ## 5. Open Source Software License
-Copyright 2019~2023 SYSON, MICHAEL B.
+Copyright 2019~2024 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
