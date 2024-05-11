@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240113; from 20231228
+  @date updated: 20240511; from 20240418
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -801,6 +801,15 @@
 						{
 							display: none;
 						}
+						
+						/* added by Mike, 20240511 */
+						iFrame.youtubeIFrame
+						{
+						  width: 100%;
+						  height: 100%;
+						  display: block;
+						  margin: 0 auto;
+						}
 
     /**/
     </style>
@@ -1542,8 +1551,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
-				//edited by Mike, 20231201; from 20231012
-				for ($i=1; $i<=7; $i++) { //<=6
+				//edited by Mike, 20240418; from 20231201
+				for ($i=1; $i<=8; $i++) { //<=7; 6
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -1568,6 +1577,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//added by Mike, 20231201
 					else if ($i==7) {
 						$sNewsSource="gamedeveloper";
+					}
+					//added by Mike, 20240418
+					else if ($i==8) {
+						$sNewsSource="linkedin";
 					}
 
 					if ($i==$iNewsNumberRaw) {
@@ -1691,6 +1704,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
 		//added by Mike, 20230801
 		echo $sReferenceWebsiteAccessedDate."<br/>";
+		
+		//added by Mike, 20240511
+		//embed sample: https://www.youtube.com/embed/tgbNymZ7vqY
+		//https://www.youtube.com/watch?v=YDu-7EFRrb0
+		//echo ">>>>".$sReferenceWebsiteTemp;
+
+		//reference: https://www.w3schools.com/html/html_youtube.asp; last accessed: 20240511
+		if (strpos($sReferenceWebsiteTemp,"www.youtube.com")!==false) {
+			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
+			
+			//edited by Mike, 20240511
+			//TODO: -verify: this
+			//echo "<iframe width='420' height='345' src='".$sReferenceWebsiteTempUpdated."'></iframe>";
+			echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";			
+		}
 	}
 
 
