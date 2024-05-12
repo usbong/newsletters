@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240511; from 20240418
+  @date updated: 20240512; from 20240511
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1369,7 +1369,8 @@ else {
 	//TODO: -update: this
 
 	//step#2
-	$sNewsNumber=substr($sNewsNumber, strpos($sNewsNumber,"N"));
+	//edited by Mike, 20240512
+	$sNewsNumber=substr($sNewsNumber, strpos(strtoupper($sNewsNumber),"N"));
 
 	//echo $sNewsNumber;
 
