@@ -1347,6 +1347,10 @@
 
 //echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
 
+//added by Mike, 20240516
+$iDateTodayAndNewsLastAccessedDifferenceMax=2;
+
+
 $updatedDirDueToURL="";
 
 //added by Mike, 20230913
@@ -1668,7 +1672,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//return sOutput
 	//edited by Mike, 20240516
 	//function processWebsiteReferenceForHeaderTitle($cellValue) {
-	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount) {
+	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
 		
 		$sToken = strtok($cellValue, "\n");
 
@@ -1696,7 +1700,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		if ($iNewsRankCount==0) {
 			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
 				
-			if ($iDateTodayAndNewsLastAccessedDifference>2) {
+			if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
 				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
 			}	
 		}
@@ -2388,7 +2392,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //processWebsiteReference($cellValue);
 //edited by Mike, 20240516
 //$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue);
-$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount);
+$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax);
 
 /*
 $sToken = strtok($cellValue, "\n");
@@ -2519,7 +2523,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 			//added by Mike, 20240516
 			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
 			
-			if ($iDateTodayAndNewsLastAccessedDifference>2) {
+			//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
+			
+			if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
 				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
 			}			
 		}
