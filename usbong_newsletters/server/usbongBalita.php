@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240515; from 20240512
+  @date updated: 20240516; from 20240515
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -729,6 +729,18 @@
 
 						span.usbongNoteSpan {
 
+						}						
+						span.webServiceLinkRowIncomingDraftSpan {
+							text-align: right;
+							color: rgb(80,52,37);
+							font-weight: bold;
+							
+							/*							
+							background-color: rgb(220,220,220);
+							padding: 4px;
+							/*
+							border: 0.2em dotted #000; 
+							*/
 						}
 
 						span.usbongTextSectionPart {
@@ -1608,6 +1620,22 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	</table>
 
 <?php
+	//added by Mike, 20240516
+	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
+		//echo str_replace("; last accessed: ","",$sLastAccessed);
+		$iNewsLastAccessedDate=intval(str_replace("; last accessed: ","",$sLastAccessed));
+
+		//echo "<br/>".Date('Y-m-d');
+
+		$iDateToday=intval(str_replace("-","",Date('Y-m-d')));
+		
+		//echo $iDateToday;			
+		//echo $iDateToday-$iNewsLastAccessedDate;
+		$iDateTodayAndNewsLastAccessedDifference = $iDateToday-$iNewsLastAccessedDate;
+
+		return $iDateTodayAndNewsLastAccessedDifference;
+	}	
+
 	//added by Mike, 20220305
 	function getUpdatedWebAddress($completeFilename, $sWebAddressBasePath) {
 		if (strpos($completeFilename,"www.usbong.ph")!==false) {
@@ -1638,7 +1666,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 	//added by Mike, 20231207
 	//return sOutput
-	function processWebsiteReferenceForHeaderTitle($cellValue) {
+	//edited by Mike, 20240516
+	//function processWebsiteReferenceForHeaderTitle($cellValue) {
+	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount) {
+		
 		$sToken = strtok($cellValue, "\n");
 
 		//note: space after "##"
@@ -1657,8 +1688,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		echo "</h3>";
 		echo "<hr>";
 */
-		//edited by Mike, 20231208
-		$sOutput="<h3><a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b></h3><hr>";
+		//edited by Mike, 20240516; from 20231208
+		//$sOutput="<h3><a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b></h3><hr>";
+
+		//added by Mike, 20240516
+		$sIncomingDraftText="";
+		if ($iNewsRankCount==0) {
+			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
+				
+			if ($iDateTodayAndNewsLastAccessedDifference>2) {
+				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
+			}	
+		}
+		
+		$sOutput="<h3>
+		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b>".$sIncomingDraftText."</h3><hr>";
 
 		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 
@@ -2102,7 +2146,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//edited by Mike, 20230526
 //				$iReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
 				$iReportForTheDayCountTemp=$iDistanceBetweenDateTodayAndCurrNews;//0;
-
+				
 /*
 				echo ">>>>>>>>>>>>>>>".$iReportForTheDayCount."<br/>";
 */
@@ -2135,7 +2179,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//TO-DO: -update: this to be based on distance from current date
 
 				//edited by Mike, 20230527
+/*	//removed by Mike, 20240516				
 				if ($iReportForTheDayCount>1) {
+*/					
 //					$iReportForTheDayCountTempTwo=$iReportForTheDayCountTemp%5;
 
 					//edited by Mike, 20230526
@@ -2144,7 +2190,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //					$filename=$filename."-".$iReportForTheDayCountTempTwo;
 
 //					$filename=$filename."-".(($iReportForTheDayCount-$iReportForTheDayCountTemp)%5);
+
+/*	//removed by Mike, 20240516
 				}
+*/
 
 				//edited by Mike, 20230527
 /*
@@ -2162,7 +2211,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				$iReportForTheDayCount=$iReportForTheDayCountMax;//0;
 				$iDayCount++;
 			}
-
+			
 			//edited by Mike, 20230707; from 20230520
 //			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename.".md";
 			//edited by Mike, 20230919		  	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory).$filename;
@@ -2316,6 +2365,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		//edited by Mike, 20231221
 		//echo "HALLO: ".$iNewsRankCount."<br/><br/>";
 		
+		
 		echo "<div id='mainTextDivId".$iNewsRankCount."' class='mainTextDiv'>";
 		
 		
@@ -2336,7 +2386,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 //added by Mike, 20231207
 //processWebsiteReference($cellValue);
-$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue);
+//edited by Mike, 20240516
+//$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue);
+$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount);
 
 /*
 $sToken = strtok($cellValue, "\n");
@@ -2461,6 +2513,17 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 
 		//echo strpos($cellValue,"<br/>");
 
+		//added by Mike, 20240516
+		$sIncomingDraftText="";
+		if ($iNewsRankCount==0) {
+			//added by Mike, 20240516
+			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
+			
+			if ($iDateTodayAndNewsLastAccessedDifference>2) {
+				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
+			}			
+		}
+		
 		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
 		echo "<h3>";
 
@@ -2472,6 +2535,9 @@ echo ">>>>>>>>>>>>".strpos($sToken,";")."<br/>";
 		//edited by Mike, 20231208
 		echo "<b>".$sLastAccessed."</b>";
 		//echo $sLastAccessed;
+		
+		//added by Mike, 20240516
+		echo $sIncomingDraftText;
 
 		//echo $sLastAccessed;
 		echo "</h3>";
