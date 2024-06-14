@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240516; from 20240515
+  @date updated: 20240614; from 20240516
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1347,8 +1347,8 @@
 
 //echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
 
-//added by Mike, 20240516
-$iDateTodayAndNewsLastAccessedDifferenceMax=2;
+//edited by Mike, 20240614; from 20240516
+$iDateTodayAndNewsLastAccessedDifferenceMax=3;
 
 
 $updatedDirDueToURL="";
