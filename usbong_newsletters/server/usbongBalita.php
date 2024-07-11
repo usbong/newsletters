@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240614; from 20240516
+  @date updated: 20240711; from 20240614
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1767,6 +1767,27 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//TODO: -verify: this
 			//echo "<iframe width='420' height='345' src='".$sReferenceWebsiteTempUpdated."'></iframe>";
 			echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";			
+		}
+		//added by Mike, 20240711
+		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
+		//Reference: https://stackoverflow.com/questions/41090108/how-to-embed-a-tweet-on-a-page-if-i-only-know-its-id; last accessed: 20240711
+		//answer by: Daren Chandisingh, 20200522T1126
+		//note: use of twitter.com; instead of x.com
+/*		
+		echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/1810244562486542786'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+*/
+		
+		$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
+				
+		//echo $sReferenceWebsiteTwitterX."<br/>";
+		
+		$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTwitterX,strpos($sReferenceWebsiteTwitterX,"status/")+strlen("status/"));
+
+		//echo $sReferenceWebsiteTwitterX."<br/>";
+	
+		echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+	
+	
 		}
 	}
 
