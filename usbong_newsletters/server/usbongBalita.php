@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240717; from 20240711
+  @date updated: 20240718; from 20240717
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2086,6 +2086,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//echo ">>>>".$sStringToRemoveInCellValue;
 					
 					$cellValue = str_replace($sStringToRemoveInCellValue, "", $cellValue);
+
 					
 					//added by Mike, 20231207
 					if (empty($cellValue)) {
@@ -2204,7 +2205,7 @@ while ($sToken !== false)
 		
 		echo "</blockquote>";
 	}
-	else if (strpos($sToken, "-->")!==false) {
+	else if (strpos($sToken, "-->")!==false) {		
 		//added by Mike, 20230801
 		if (strpos($sToken, "http")!==false) {
 			processWebsiteReference($sToken);
@@ -2270,6 +2271,7 @@ while ($sToken !== false)
 	}
 	//added by Mike, 20230518
 	else if (strpos($sToken, "http")!==false) {
+		processWebsiteReference($sToken);
 	}
 	//added by Mike, 20231222
 	else if (strlen($sToken)==strlen("<br/>")) {
