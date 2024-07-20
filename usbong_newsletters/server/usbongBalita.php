@@ -1473,8 +1473,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <!-- //edited by Mike, 22030929 -->
 <table class="searchTable">
 		<tr>
-<!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
+
 			<td>
+<!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
 			<form id="search-form" method="get" action="usbongSearch.php">
 				<?php/*echo site_url('browse/confirmPatient')*/?>
 				<?php
@@ -1495,13 +1496,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					</table>
 
 			</form>
+
+-->
+
+	<audio width="416" height="312" controls>
+	  <source src="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3" type="audio/mp3">
+	  Your browser does not support the audio tag.
+	</audio>	
 			</td>
 			<td>
--->
+
 
 <!-- //edited by Mike, 20230919
 	<br/>
 -->
+
 			<?php
 				//added by Mike, 20230920; from 20230919
 				//default
