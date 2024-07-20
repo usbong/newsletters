@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240718; from 20240717
+  @date updated: 20240720; from 20240718
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2077,8 +2077,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 					$cellValue = str_replace("var/www/html/", "", $cellValue);
 					
-					$cellValue = str_replace("var/www/html/", "", $cellValue);
-
 					//added by Mike, 20240717
 					$sStringToRemoveInCellValue=substr($cellValue, strpos($cellValue,"?"));
 					$sStringToRemoveInCellValue=substr($sStringToRemoveInCellValue, 0,strpos($sStringToRemoveInCellValue,"continuehere"))."continuehere";
@@ -2134,6 +2132,9 @@ $newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockqu
 
 <?php
 
+//added by Mike, 20240720
+$bHasAdditionalReference=false;
+
 //$sToken = strtok($cellValue, "<br/>");
 $sToken = strtok($cellValue, "\n");
 $sPrevToken="";
@@ -2160,6 +2161,7 @@ while ($sToken !== false)
 
 		//added by Mike, 20240516
 		$sIncomingDraftText="";
+		
 		if ($iNewsRankCount==0) {
 			//added by Mike, 20240516
 			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
@@ -2190,6 +2192,9 @@ while ($sToken !== false)
 	}
 	//else if (strpos($cellValue, ">")!==false) {
 	else if (substr($sToken,0,1)==">") {
+		
+		//echo ">>>>>>>>";
+
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
 //			echo "<br/>";
@@ -2222,7 +2227,6 @@ while ($sToken !== false)
 		}
 	}
 	else if (strpos(strtolower($sToken), "# reference")!==false) {
-
 		//noted by Mike, 20230518; "###" also exists for references
 		if (strpos(strtolower($sToken), "####")!==false) {
 			$sToken = str_replace("#", "", $sToken);
@@ -2249,6 +2253,9 @@ while ($sToken !== false)
 		}
 		else {
 			echo "<b>### REFERENCE</b><br/>";
+			
+			//added by Mike, 20240720
+			$bHasAdditionalReference=true;
 		}
 	}
 	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
@@ -2281,6 +2288,8 @@ while ($sToken !== false)
 		}
 	}
 	else {
+		//echo ">>>DITO";
+
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
 			echo "<br/>";
@@ -2311,18 +2320,24 @@ while ($sToken !== false)
 	//echo ">>>".$iRowCount;
 }
 
-	//added by Mike, 20231222
-	echo "<br/>";
+	//edited by Mike, 20240720; from 20231222
+	//add only if has additional reference
+	//echo "<br/>";
+	if ($bHasAdditionalReference) {
+	  echo "<br/><br/>";
+	}
 
 ?>
 
 <!-- added by Mike, 20231207 -->
 </span>
 
-	<!-- added by Mike, 20231212
+	<!-- removed by Mike, 20240720; from 20231212
 	//TODO: -use: half the height of the default -->
-	<br/>
-
+	<!--
+	  <br/>
+	-->
+	
 	</div>
 	</div>
 	</td>
