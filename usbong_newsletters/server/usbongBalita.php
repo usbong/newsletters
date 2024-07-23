@@ -1743,10 +1743,17 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
+			
+/*			//edited by Mike, 20240723; does not appear on iPAD;
 			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
 		
 			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
-
+*/
+			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
+			//added by Mike, 20230801
+			echo $sReferenceWebsiteAccessedDate."<br/>";
+		
 			//Reference: https://stackoverflow.com/questions/41090108/how-to-embed-a-tweet-on-a-page-if-i-only-know-its-id; last accessed: 20240711
 			//answer by: Daren Chandisingh, 20200522T1126
 			//note: use of twitter.com; instead of x.com
