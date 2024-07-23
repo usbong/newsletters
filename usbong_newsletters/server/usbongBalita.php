@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240720; from 20240718
+  @date updated: 20240723; from 20240720
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -81,18 +81,8 @@
 
  						body
                         {
-							/*font-family: Tahoma, sans-serif;*/ /*Arial*
-
-							/*	//removed by Mike, 20220701
-							  font-size: 16pt;
-							*/
-
-							/* //added by Mike, 20230828 */
 							font-size: 100%;
-
-							color: rgb(30,30,30); /*rgb(120,63,4);*/
-
-							/*font-weight: bold;*/
+							color: rgb(30,30,30);
 
 							/* This makes the width of the output page that is displayed on a browser equal with that of the printed page. */
 							/* Legal Size; Landscape*/
@@ -430,7 +420,7 @@
 
 						table.bodyTable
 						{
-							width: 100%;/*90%;*/
+							width: 100%;/*80%;*/
 							height: auto;
 						}
 
@@ -438,7 +428,7 @@
                         {
 							width: 50%;
 							border: 1px solid #aaaaaa;/*#ab9c7d;*/
-							padding-right: 2%;
+							padding-right: 2%;							
                         }
 
 
@@ -734,7 +724,6 @@
 							text-align: right;
 							color: rgb(80,52,37);
 							font-weight: bold;
-							
 							/*							
 							background-color: rgb(220,220,220);
 							padding: 4px;
@@ -796,6 +785,8 @@
 							display: none;
 							line-height: 2;
 							font-size: 24pt;
+							
+							font-family: Tahoma; /*Arial;*/
 						}
 
 						span.moreTextSpanIIISummaryReportsHeader
@@ -806,7 +797,7 @@
 							font-size: 24pt;
 
 							font-weight: Normal;
-							font-family: Arial;
+							font-family: Tahoma; /*Arial;*/
 						}
 
 						span.spanSummaryReportsCount
@@ -1636,9 +1627,24 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$sToken = str_replace("## ", "", $sToken);
 
 		$sReferenceWebsite=substr($sToken,0,25)."... ";
+		
 		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
 				strpos($sToken,";")-strpos($sToken,"http"));
+				
+		//edited by Mike, 20240723
+/*		
 		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+		
+		//added by Mike, 20240723
+		//auto-remove "; from date";
+		$sLastAccessedPartToKeep=substr($sLastAccessed, 0, strpos($sLastAccessed,"; from "));
+		$sLastAccessed=$sLastAccessedPartToKeep." ";
+		
+		//echo ">>>>$sLastAccessedPartToKeep";
+*/	
+		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
+		
+
 /*
 		echo "<h3>";
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
@@ -1662,7 +1668,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		}
 		
 		$sOutput="<h3>
-		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b>".$sIncomingDraftText."</h3><hr>";
+		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText."</h3><hr>";
 
 		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 
@@ -1705,11 +1711,17 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp));
 
+/* //edited by Mike, 20240723
 		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 		echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
 		//added by Mike, 20230801
 		echo $sReferenceWebsiteAccessedDate."<br/>";
+*/		
+/*	//removed by Mike, 20240723
+		$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
 		
+		echo $sReferenceWebsiteAccessedDateShortened."<br/>";
+*/
 		//added by Mike, 20240511
 		//embed sample: https://www.youtube.com/embed/tgbNymZ7vqY
 		//https://www.youtube.com/watch?v=YDu-7EFRrb0
@@ -1717,6 +1729,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 		//reference: https://www.w3schools.com/html/html_youtube.asp; last accessed: 20240511
 		if (strpos($sReferenceWebsiteTemp,"www.youtube.com")!==false) {
+			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
+		
+			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
+
+		
 			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
 			
 			//edited by Mike, 20240511
@@ -1726,27 +1743,53 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
-		//Reference: https://stackoverflow.com/questions/41090108/how-to-embed-a-tweet-on-a-page-if-i-only-know-its-id; last accessed: 20240711
-		//answer by: Daren Chandisingh, 20200522T1126
-		//note: use of twitter.com; instead of x.com
-/*		
-		echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/1810244562486542786'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
-*/
+			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
 		
-		$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
-				
-		//echo $sReferenceWebsiteTwitterX."<br/>";
-		
-		$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTwitterX,strpos($sReferenceWebsiteTwitterX,"status/")+strlen("status/"));
+			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
 
-		//echo $sReferenceWebsiteTwitterX."<br/>";
-	
-		echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
-	
-	
+			//Reference: https://stackoverflow.com/questions/41090108/how-to-embed-a-tweet-on-a-page-if-i-only-know-its-id; last accessed: 20240711
+			//answer by: Daren Chandisingh, 20200522T1126
+			//note: use of twitter.com; instead of x.com
+	/*		
+			echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/1810244562486542786'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+	*/
+			
+			$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
+					
+			//echo $sReferenceWebsiteTwitterX."<br/>";
+			
+			$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTwitterX,strpos($sReferenceWebsiteTwitterX,"status/")+strlen("status/"));
+
+			//echo $sReferenceWebsiteTwitterX."<br/>";
+		
+			echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+		}
+		else {
+			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
+			//added by Mike, 20230801
+			echo $sReferenceWebsiteAccessedDate."<br/>";
 		}
 	}
 
+	//added by Mike, 20240723
+	//output: slastAccessed
+	function getLastAccessedFromReferenceWebsite($sToken) {		
+		$sReferenceWebsite=substr($sToken,0,25)."... ";
+		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
+				strpos($sToken,";")-strpos($sToken,"http"));
+		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+		
+		//added by Mike, 20240723
+		//auto-remove "; from date";		
+		if (strpos($sLastAccessed,"; from ")!==false) {
+			$sLastAccessedPartToKeep=substr($sLastAccessed, 0, strpos($sLastAccessed,"; from "));
+			$sLastAccessed=$sLastAccessedPartToKeep." ";
+			//echo ">>>>$sLastAccessedPartToKeep";
+		}
+		
+		return $sLastAccessed;
+	}
 
 	//added by Mike, 20211016
 	//note: reusable function
@@ -2164,8 +2207,21 @@ while ($sToken !== false)
 		$sReferenceWebsite=substr($sToken,0,25)."... ";
 		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
 				strpos($sToken,";")-strpos($sToken,"http"));
-		$sLastAccessed=substr($sToken,strpos($sToken,";"));
 
+		//edited by Mike, 20240723	
+/*		
+		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+		
+		//added by Mike, 20240723
+		//auto-remove "; from date";
+		$sLastAccessedPartToKeep=substr($sLastAccessed, 0, strpos($sLastAccessed,"; from "));
+		$sLastAccessed=$sLastAccessedPartToKeep." ";
+		
+		//echo ">>>>$sLastAccessedPartToKeep";		
+
+*/		
+		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
+		
 		//echo strpos($cellValue,"<br/>");
 
 		//added by Mike, 20240516
@@ -2187,8 +2243,9 @@ while ($sToken !== false)
 
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
 		echo $sReferenceWebsite."</a>";
-		//edited by Mike, 20231208
-		echo "<b>".$sLastAccessed."</b>";
+		//edited by Mike, 20240723; from 20231208
+		//echo "<b>".$sLastAccessed."</b>";
+		echo $sLastAccessed;
 		//echo $sLastAccessed;
 		
 		//added by Mike, 20240516
