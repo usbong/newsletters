@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240723; from 20240720
+  @date updated: 20240726; from 20240723
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1269,6 +1269,29 @@
 //	$sWebAddressBasePath = "http://localhost";
 	//edited by Mike, 20220304
 	$sWebAddressBasePath = "http://store.usbong.ph";
+		
+	//added by Mike, 20240726
+	//------------------------------------------
+	//TODO: -add: MySQL DB; put IP addresses; MVC
+/*
+	$ipAddress = $_SERVER['REMOTE_ADDR'];
+	
+	if (strpos($ipAddress, "::")!==false) {
+		$ipAddress = "SERVER ADDRESS";
+		
+		echo "<font color='#FF0000'><b>Please set as default in the Computer Server Browser,<br/>the Computer Server Internet Protocol (IP) Address<br/>that is not \"localhost\".<br/><br/></b></font>";
+	}		
+
+	//$this->session->set_userdata('client_ip_address', $ipAddress);
+
+	//TO-DO: -set: value for blank machine address due to Windows Machine		
+//		echo $_SESSION["client_ip_address"];
+//		echo $_SESSION["client_machine_address"];
+
+	echo "<b><font color='#FF4500'>YOUR INTERNET PROTOCOL ADDRESS: </font></b>".$ipAddress;	
+	
+	//------------------------------------------
+*/	
 ?>
 
 	<table class="imageTable">
@@ -1276,7 +1299,6 @@
 		<td class="imageColumn">
 		<a class="menuLink" target="_blank" href="http://www.usbong.ph">
 <?php
-
 //reference: https://stackoverflow.com/questions/1283327/how-to-get-url-of-current-page-in-php; last accessed: 20230912
 //answer by: Amber, 20090816T0208
 //edited by: Brad Larson, 20180309T0122
