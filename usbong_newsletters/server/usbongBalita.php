@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240726; from 20240723
+  @date updated: 20240727; from 20240726
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1211,6 +1211,7 @@
 	  </script>
 
 <?php
+
 	//added by Mike, 20220628
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
 	//last accessed: 20220628
@@ -1220,7 +1221,6 @@
 		return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 	}
 
-
 	if (isMobile()) {
 		echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
 	}
@@ -1228,13 +1228,12 @@
 		echo "<body id='myBodyId' onload='onLoad()'>";
 	}
 
-
 	date_default_timezone_set('Asia/Hong_Kong');
 
 	//edited by Mike, 20200726
 	//$dateToday = (new DateTime())->format('Y-m-d');
 	$dateToday = Date('Y-m-d');
-
+	
 //	$result = array();
 	$sYearDirectory="/server/2021/";
 
@@ -1273,7 +1272,7 @@
 	//added by Mike, 20240726
 	//------------------------------------------
 	//TODO: -add: MySQL DB; put IP addresses; MVC
-/*
+/*	
 	$ipAddress = $_SERVER['REMOTE_ADDR'];
 	
 	if (strpos($ipAddress, "::")!==false) {
@@ -1288,10 +1287,17 @@
 //		echo $_SESSION["client_ip_address"];
 //		echo $_SESSION["client_machine_address"];
 
-	echo "<b><font color='#FF4500'>YOUR INTERNET PROTOCOL ADDRESS: </font></b>".$ipAddress;	
-	
-	//------------------------------------------
+	//edited by Mike, 20240727	
+	//note: excess space before text;
+	//example:  YOUR INTERNET PROTOCOL ADDRESS: 127.0.0.1
+	echo "<b><font color='#FF4500'>YOUR INTERNET PROTOCOL ADDRESS: </font></b>".$ipAddress."<br/>";	
+		
+	//browser and machine specs
+	//example: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+	echo $_SERVER["HTTP_USER_AGENT"]."<br/>";
 */	
+	//------------------------------------------
+
 ?>
 
 	<table class="imageTable">
