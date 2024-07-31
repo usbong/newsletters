@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240727; from 20240726
+  @date updated: 20240731; from 20240727
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -344,6 +344,14 @@
 							margin-bottom: 1%;
 						}
 
+						img.Image-radio {
+/*
+							width: 100%;
+							height: auto;
+*/
+							float: left;							
+							margin-bottom: 5%;
+						}
 
 						img.Image-companyLogoMobile {
 							width: 80%; /* 40%; */
@@ -431,7 +439,6 @@
 							padding-right: 2%;							
                         }
 
-
 						td.imageTableColumnTd
 						{
 							border: 1px solid #ab9c7d;
@@ -443,6 +450,11 @@
 							padding: 5%;
 							padding-left: 0%;
 						}
+						
+						td.radioImageTd
+                        {
+							width: 1%;
+                        }
 
 						table.noteTable
 						{
@@ -1492,7 +1504,20 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <!-- //edited by Mike, 22030929 -->
 <table class="searchTable">
 		<tr>
+			<td class="radioImageTd">
+<?php
+		//TODO: -add: audio changeable
 
+		echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png'>"; //radio
+		
+?>	
+<!--			
+			  <select>
+				<option value="R1">日本語</option>
+				<option value="R2">English</option>
+			  </select>
+-->			  
+			</td>
 			<td>
 <!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
 			<form id="search-form" method="get" action="usbongSearch.php">
@@ -1522,14 +1547,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	  <source src="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3" type="audio/mp3">
 	  Your browser does not support the audio tag.
 	</audio>	
-			</td>
-			<td>
 
 
 <!-- //edited by Mike, 20230919
 	<br/>
 -->
-
+			</td>
+			<td>
 			<?php
 				//added by Mike, 20230920; from 20230919
 				//default
@@ -1597,7 +1621,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</td>
 		</tr>
 	</table>
-
+	
 <?php
 	//added by Mike, 20240516
 	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
