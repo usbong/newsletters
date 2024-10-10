@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20240731; from 20240727
+  @date updated: 20241010; from 20240912
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1029,7 +1029,52 @@
 
 		}
 
+		//added by Mike, 20240801
+		function changeAudio() {			
+			var selectBox = document.getElementById("newsSelectId");
+			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+			
+			//alert("selectedValue: "+selectedValue);
 
+			var sInput = window.location.href;
+			
+			var sRadioInput=sInput.substring(sInput.indexOf("/R"));
+			
+			//alert(sRadioInput);
+			
+			//alert(sInput.substring(0,sInput.indexOf(".php")));
+			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/"+selectedValue;
+				
+			if (sRadioInput.length<=3) { //has "/R1", etc.			
+				//alert("DITO: "+sRadioInput);
+/*	//edited by Mike, 20240820
+				if (sRadioInput.includes("/R1")) {
+					
+					window.location.href = ""+sInput+sRadioInput.replace("/R1","/R2");
+				}
+				else {
+					window.location.href = ""+sInput+sRadioInput.replace("/R2","/R1");
+				}				
+*/
+				if (sRadioInput.includes("/R1")) {					
+					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R2";
+				}
+				else if (sRadioInput.includes("/R2")) {			
+					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R3";
+				}				
+				else {
+					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R1";
+				}				
+				
+				//window.location.href = ""+sInput+sRadioInput;
+			}
+			else {
+				//alert(">>> "+sInput);
+				window.location.href = ""+sInput+"/R1";
+				//selectedValue;
+			}
+		}
+		
 		//added by Mike, 20230920
 		function showNews() {
 			//alert("HALLO!");
@@ -1054,14 +1099,23 @@
 			//reference: https://www.w3schools.com; last accessed: 20230912
 
 			var sInput = window.location.href;
+
+			//added by Mike, 20240801
+			var sRadioInput=sInput.substring(sInput.indexOf("/R"));
+
 			//alert(sInput.substring(0,sInput.indexOf(".php")));
 			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
 
-			window.location.href = ""+sInput+selectedValue;
-
+			//added by Mike, 20240801						
+			if (sRadioInput.length<=3) { //has "/R1", etc.			
+				window.location.href = ""+sInput+selectedValue+sRadioInput;
+			}
+			else {
+				window.location.href = ""+sInput+selectedValue;
+			}
+			
 			//TODO: -update: selected option;
 			//note: use of "+" (in Javascript), instead of "." (in PHP);
-
 		}
 
 
@@ -1421,6 +1475,11 @@ $updatedDirDueToURL="";//../";
 if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//echo "HALLO!";
 	$updatedDirDueToURL="../";
+	
+	//added by Mike, 20240801
+	if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
+		$updatedDirDueToURL=$updatedDirDueToURL."../";
+	}
 }
 
 	if (isMobile()) {
@@ -1501,16 +1560,20 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	   </tr>
 	</table>
 
-<!-- //edited by Mike, 22030929 -->
+<!-- //edited by Mike, 22030929; _blank -->
 <table class="searchTable">
 		<tr>
 			<td class="radioImageTd">
+<!--	
+<a class='' target='' href='' onclick='changeAudio()'>
+-->
 <?php
-		//TODO: -add: audio changeable
-
-		echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png'>"; //radio
-		
+	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png' onclick='changeAudio()'>"; //radio
 ?>	
+<!--	
+</a>
+-->
+
 <!--			
 			  <select>
 				<option value="R1">日本語</option>
@@ -1542,12 +1605,43 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</form>
 
 -->
-
-	<audio width="416" height="312" controls>
-	  <source src="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3" type="audio/mp3">
-	  Your browser does not support the audio tag.
-	</audio>	
-
+<?php
+	//added by Mike, 20240801
+	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
+		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
+		$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
+		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
+	}
+	else {
+		//edited by Mike, 20241010
+		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
+			//http://localhost/usbong_newsletters/server/usbongBalita.php/
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}		
+		else { 
+			//no slash at the end
+			//http://localhost/usbong_newsletters/server/usbongBalita.php
+			//edited by Mike, 20241010			
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}
+	}
+	
+	//echo $sAudioInput;
+?>
+<!--
+		<audio width="416" height="312" controls>
+		  <source src="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio>	
+-->
+		<audio width="416" height="312" controls>
+		  <source src="<?php echo $sAudioInput;?>" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio>	
 
 <!-- //edited by Mike, 20230919
 	<br/>
