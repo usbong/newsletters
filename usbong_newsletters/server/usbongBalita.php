@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241010; from 20240912
+  @date updated: 20241017; from 20241010
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -113,8 +113,8 @@
 
 /*							padding-left: 5%;*/
 
-							padding: 2%;
-							padding-top: 1%;
+							padding: 2%;							
+							padding-top: 0%;
 
 							/* //added by Mike, 20220628
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
@@ -351,7 +351,7 @@
 */
 							float: left;							
 							margin-bottom: 5%;
-						}
+						}			
 
 						img.Image-companyLogoMobile {
 							width: 80%; /* 40%; */
@@ -1365,7 +1365,6 @@
 	//------------------------------------------
 
 ?>
-
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">
@@ -1502,7 +1501,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		</td>
 		<td class="imageColumnPartTwo">
 
-		<a class="menuLink" target="_blank" href="http://philnits.org/reviewcenters.html">
+		<a class="menuLink" target="_blank" href="https://philnits.org/review-38/">
 <!-- edited by Mike, 20230912
 <img class="Image-philnitsLogo" src='../assets/images/philnitsLogo.jpg'>
 -->
@@ -1652,7 +1651,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//added by Mike, 20230920; from 20230919
 				//default
 				$sNewsSource="asahishimbun";
+				
 				$sNewsSourceSelected=$sNewsSource;
+				
+				//added by Mike, 20241017
+				$sNewsDisplayedName="ASAHI SHIMBUN";
+				
 				//echo ">>>".$iNewsNumberRaw;
 //				echo "DITO"; //note previously inside select tag;
 			?>
@@ -1661,47 +1665,87 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 //				for ($i=1; $i<=7; $i++) {
-				//edited by Mike, 20240418; from 20231201
+				//edited by Mike, 20241017; from 20240418
+/*				
 				for ($i=1; $i<=8; $i++) { //<=7; 6
 					//default
 //					$sNewsSource="asahishimbun";
 
 					if ($i==2) {
 						$sNewsSource="eurogamerspain";
+						$sNewsDisplayedName="EUROGAMER.ES";
 					}
 					//added by Mike, 20230927
 					else if ($i==3) {
 						$sNewsSource="elpais";
+						$sNewsDisplayedName="EL PAíS";
 					}
 					else if ($i==4) {
 						$sNewsSource="ignjapan";
+						$sNewsDisplayedName="IGN JAPAN";
 					}
 					//added by Mike, 20231003
 					else if ($i==5) {
 						$sNewsSource="famitsu";
+						$sNewsDisplayedName="FAMITSU";
 					}
 					//added by Mike, 20231012
 					else if ($i==6) {
 						$sNewsSource="zaobao";
+						$sNewsDisplayedName="ZAOBAO"; //早报
 					}
 					//added by Mike, 20231201
 					else if ($i==7) {
 						$sNewsSource="gamedeveloper";
+						$sNewsDisplayedName="GAME DEVELOPER";
 					}
 					//added by Mike, 20240418
 					else if ($i==8) {
 						$sNewsSource="linkedin";
+						$sNewsDisplayedName="LINKEDIN";
 					}
+*/
+					for ($i=1; $i<=6; $i++) { //<=7; 6
+					//default
+//					$sNewsSource="asahishimbun";
 
+					if ($i==2) {
+						$sNewsSource="eurogamerspain";
+						$sNewsDisplayedName="EUROGAMER SPAIN";
+					}
+					else if ($i==3) {
+						$sNewsSource="ignjapan";
+						$sNewsDisplayedName="IGN JAPAN";
+					}
+					//added by Mike, 20231003
+					else if ($i==4) {
+						$sNewsSource="famitsu";
+						$sNewsDisplayedName="FAMITSU";
+					}
+					//added by Mike, 20231201
+					else if ($i==5) {
+						$sNewsSource="gamedeveloper";
+						$sNewsDisplayedName="GAME DEVELOPER";
+					}
+					else if ($i==6) {
+						$sNewsSource="zaobao";
+						$sNewsDisplayedName="ZAOBAO";
+					}
+					
 					if ($i==$iNewsNumberRaw) {
-						echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+						//edited by Mike, 20241017
+						//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+						echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
 
 						//added by Mike, 20230920
 						//note using string, instead of int
 						$sNewsSourceSelected=$sNewsSource;
 					}
 					else {
-						echo "<option value='N".$i."'>".$sNewsSource."</option>";
+						//edited by Mike, 20241017
+						//echo "<option value='N".$i."'>".$sNewsSource."</option>";
+
+						echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
 					}
 				}
 			?>
@@ -1715,6 +1759,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</td>
 		</tr>
 	</table>
+
+<!-- //added by Mike, 20241017 -->	
+	<br/>
+
 	
 <?php
 	//added by Mike, 20240516
