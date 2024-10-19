@@ -3,12 +3,12 @@
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
   http://www.apache.org/licenses/LICENSE-2.0
-  Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+  Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIcS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
 
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241017; from 20241010
+  @date updated: 20241019; from 20241017
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -534,7 +534,7 @@
 							color: rgb(64,64,64);
 							text-decoration: underline;
 						}
-
+	
 						select.newsSelect
 						{
 							float: right;
@@ -825,7 +825,15 @@
 						  display: block;
 						  margin: 0 auto;
 						}
+						
+						audio::-webkit-media-controls-play-button,
+							 audio::-webkit-media-controls-panel {
+							background-color: rgb(255,255,255);
+						}				
 
+						audio::-webkit-media-controls-enclosure {						
+							 border-radius: 0;
+						}
     /**/
     </style>
     <title>
@@ -1569,11 +1577,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <?php
 	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png' onclick='changeAudio()'>"; //radio
 ?>	
-<!--	
-</a>
--->
 
 <!--			
+</a>
 			  <select>
 				<option value="R1">日本語</option>
 				<option value="R2">English</option>
