@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241019; from 20241017
+  @date updated: 20241022; from 20241021
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -316,6 +316,11 @@
 */
 						}
 
+						img.Image-usbongYouTubeLogo {
+							width: 100%;
+							height: auto;
+						}
+
 						img.Image-companyLogo {
 							/*  //edited by Mike, 20220630
 								//TO-DO: -reverify: this
@@ -507,18 +512,12 @@
 						a.webServiceTimeOffLink
 						{
 							color: rgb(0,0,0);
-							/*font-weight: bold;*/
 						}
 
 						a.webServiceGameOffLink:hover
 						{
 							color: rgb(0,0,0);
-/*
-							background-color: rgb(146,208,80);
-							background-color: rgb(35,89,158);
-							border: 1px solid rgb(146,208,80);
-*/
-							background-color: rgb(0,128,255); /*blue*/
+							background-color: rgb(0,128,255);
 						}
 
 						a.menuLink
@@ -534,6 +533,30 @@
 							color: rgb(64,64,64);
 							text-decoration: underline;
 						}
+						
+						a.usbongYoutubeLink
+						{
+						}
+						
+						a.usbongYoutubeLink:hover
+						{
+							background-color: #fbfbfb;
+							padding-top:15%;
+							padding-bottom:15%;	
+							border-radius: 4px;							
+						}
+						
+						a.usbongRadioLink
+						{
+						}
+						
+						a.usbongRadioLink:hover
+						{
+							background-color: #fbfbfb;
+							padding-top:15%;
+							padding-bottom:15%;						
+						}
+													
 	
 						select.newsSelect
 						{
@@ -834,6 +857,19 @@
 						audio::-webkit-media-controls-enclosure {						
 							 border-radius: 0;
 						}
+						
+						button.jeepRadioButton
+						{
+							background-color: white;
+							border: 0px solid;	
+						}
+
+						button.jeepRadioButton:hover
+						{
+							background-color: #f7f7f7;
+							border-radius: 4px;
+						}						
+						
     /**/
     </style>
     <title>
@@ -1053,7 +1089,9 @@
 			//alert(sInput.substring(0,sInput.indexOf(".php")));
 			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/"+selectedValue;
 				
-			if (sRadioInput.length<=3) { //has "/R1", etc.			
+			//edited by Mike, 20241021
+			//if (sRadioInput.length<=3) { //has "/R1", etc.			
+			if (sRadioInput.length<=4) { //has "/R1", etc.
 				//alert("DITO: "+sRadioInput);
 /*	//edited by Mike, 20240820
 				if (sRadioInput.includes("/R1")) {
@@ -1069,7 +1107,11 @@
 				}
 				else if (sRadioInput.includes("/R2")) {			
 					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R3";
-				}				
+				}	
+				//added by Mike, 20241021
+				else if (sRadioInput.includes("/R3")) {			
+					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R4";
+				}					
 				else {
 					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R1";
 				}				
@@ -1518,6 +1560,17 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 ?>
 		</a>
 		</td>
+		<td class="imageColumnPartTwo">
+<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/battle-tactics'>
+
+<a class="usbongYoutubeLink" target="_blank" href="https://www.youtube.com/@usbong">
+
+<?php
+		echo "<img class='Image-usbongYouTubeLogo' src='../".$updatedDirDueToURL."assets/images/usbongYouTubeLogo.png'>";
+?>
+
+</a>
+		</td>		
 
 		<td class="pageNameColumn">
 		<div class='formTitle'>
@@ -1571,13 +1624,14 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 <table class="searchTable">
 		<tr>
 			<td class="radioImageTd">
-<!--	
-<a class='' target='' href='' onclick='changeAudio()'>
+<!--			
+<a class='usbongRadioLink' target='_blank' href='' onclick='changeAudio()'>
 -->
+<button class='jeepRadioButton'>
 <?php
 	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png' onclick='changeAudio()'>"; //radio
 ?>	
-
+</button>
 <!--			
 </a>
 			  <select>
@@ -1621,6 +1675,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
 		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
 	}
+	//added by Mike, 20241021
+	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
+		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+	}	
 	else {
 		//edited by Mike, 20241010
 		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
