@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241022; from 20241021
+  @date updated: 20241023; from 20241022
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -540,23 +540,24 @@
 						
 						a.usbongYoutubeLink:hover
 						{
-							background-color: #fbfbfb;
+							background-color: #f3f3f3;
 							padding-top:15%;
 							padding-bottom:15%;	
-							border-radius: 4px;							
+							border-radius: 10px;							
 						}
 						
 						a.usbongRadioLink
 						{
 						}
 						
+						/* currently not used */
 						a.usbongRadioLink:hover
 						{
-							background-color: #fbfbfb;
+							background-color: #000000;
 							padding-top:15%;
 							padding-bottom:15%;						
+							border-radius: 10px;							
 						}
-													
 	
 						select.newsSelect
 						{
@@ -866,8 +867,8 @@
 
 						button.jeepRadioButton:hover
 						{
-							background-color: #f7f7f7;
-							border-radius: 4px;
+							background-color: #f1f1f1;
+							border-radius: 10px;
 						}						
 						
     /**/
