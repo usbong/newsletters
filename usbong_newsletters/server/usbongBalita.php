@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241023; from 20241022
+  @date updated: 20241026; from 20241023
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1630,7 +1630,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 -->
 <button class='jeepRadioButton'>
 <?php
-	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png' onclick='changeAudio()'>"; //radio
+	//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
+	//answer by: Greg, 20081126T1928
+	
+	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
 ?>	
 </button>
 <!--			
