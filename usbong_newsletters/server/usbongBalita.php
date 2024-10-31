@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241026; from 20241023
+  @date updated: 20241031; from 20241030
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -834,6 +834,8 @@
 
 							font-weight: Normal;
 							font-family: Tahoma; /*Arial;*/
+							
+							display: inline;
 						}
 
 						span.spanSummaryReportsCount
@@ -1274,11 +1276,23 @@
 		  //if (sParamId=="summaryReportsHeaderId") {
 			  //alert("dito"+summaryReportsId.style.display);
 			  //note: 1st summaryReportsId.style.display value is blank, i.e. "";
-			  if (summaryReportsId.style.display === "") {
+			  
+			  //alert("dito"+summaryReportsHeaderId.style.display);
+			  
+			  //edited by Mike, 20241031
+			  //if "inline"; blank
+			  if (summaryReportsHeaderId.style.display === "") {
 				  summaryReportsId.style.display = "inline";
 
 				  summaryReportsHeaderId.style.display = "none";
 			  }
+/*			  
+			  else if (summaryReportsId.style.display === "") {
+				  summaryReportsId.style.display = "inline";
+
+				  summaryReportsHeaderId.style.display = "none";
+			  }
+*/			  
 			  else if (summaryReportsId.style.display === "none") {
 				  summaryReportsId.style.display = "inline";
 
@@ -2211,6 +2225,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 	//TODO: -reverify: this when news source changed;
 	$iHitSameNewsCount=0;
+	
+	//added by Mike, 20241031
+	$iNewsRankCount=0;
 
 	//multiple news per source; max 5
 	for ($iNewsRankCount=0; $iNewsRankCount<$iNewsRankCountMax; $iNewsRankCount++) {
