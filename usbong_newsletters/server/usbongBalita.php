@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241031; from 20241030
+  @date updated: 20241217; from 20241209
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -565,6 +565,9 @@
 							font-size: 16pt;
 							margin-top: 0.5%;
 							margin-bottom: 1%;
+							
+							background-color: #ffffff;
+							border: 1px solid #aaaaaa;
 						}
 
 						form
@@ -1184,6 +1187,8 @@
 	  //added by Mike, 20231207
 	  //toggles in displayed full text;
 	  function toggleMoreEnd(sParamId) {
+		  
+		  //alert("toggleMoreEnd");
 
 		  //added by Mike, 20231215
 		  if (bHasPressedRightClick) {
@@ -1192,7 +1197,7 @@
 			  //alert("DITO");
 			  return;
 		  }
-
+		  
 		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
 		  
 		  //added by Mike, 20231221
@@ -1226,7 +1231,12 @@
 		  //alert("START: "+summaryReportsCount.innerHTML+"\n"+"NOW: "+new Date().getTime()+"\n"+"DIFFERENCE: "+iDifference);
 
 		  //OK
+		   
+		  //alert("toggleMoreEnd; summaryReportsCount.innerHTML "+summaryReportsCount.innerHTML);
 
+		  //alert("iDifference"+iDifference);
+		  		  
+		  
 		  //if NOT fast click
       //edited by Mike, 20231217
 		  if (iDifference>=120) {//100) {
@@ -1245,6 +1255,9 @@
 			
 			bHasLongPressed=false;
 		  }
+
+		  //alert("toggleMoreEnd >>>>");
+
 
 /*		  
 		  //removed by Mike, 20231218
@@ -1280,8 +1293,13 @@
 			  //alert("dito"+summaryReportsHeaderId.style.display);
 			  
 			  //edited by Mike, 20241031
-			  //if "inline"; blank
+			  //if display set by CSS to "inline"; blank
 			  if (summaryReportsHeaderId.style.display === "") {
+				  summaryReportsId.style.display = "inline";
+
+				  summaryReportsHeaderId.style.display = "none";
+			  }
+			  else if (summaryReportsHeaderId.style.display === "inline") {
 				  summaryReportsId.style.display = "inline";
 
 				  summaryReportsHeaderId.style.display = "none";
@@ -1576,8 +1594,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
-<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/battle-tactics'>
-
 <a class="usbongYoutubeLink" target="_blank" href="https://www.youtube.com/@usbong">
 
 <?php
@@ -1604,7 +1620,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				<br/>
 -->
 				<b>BALITA</b>
-<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/battle-tactics'>
+<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
 
 <?php
 		echo "<img class='Image-favicon' src='../".$updatedDirDueToURL."assets/images/favicon.png'>";
