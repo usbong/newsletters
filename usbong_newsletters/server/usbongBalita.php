@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241217; from 20241209
+  @date updated: 20241219; from 20241217
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -349,6 +349,14 @@
 							margin-bottom: 1%;
 						}
 
+						img.Image-github-mark {
+							width: 5%;
+							height: auto;
+							margin-bottom: 1%;
+							margin-left: 1%;							
+						}
+
+
 						img.Image-radio {
 /*
 							width: 100%;
@@ -509,6 +517,21 @@
 							font-family: Arial;
 						}
 
+						a.webServiceGitHubLink
+						{
+							color: rgb(51,145,23);
+							font-weight: bold;
+							font-family: Arial;
+						}
+/*	//TODO: -update: this
+						a.webServiceGitHubLink:hover
+						{
+							background-color: #f3f3f3;
+							margin-left: 0%;							
+							padding: 0;
+							border-radius: 10px;								
+						}
+*/
 						a.webServiceTimeOffLink
 						{
 							color: rgb(0,0,0);
@@ -1464,8 +1487,17 @@
 //edited by Mike, 20240614; from 20240516
 $iDateTodayAndNewsLastAccessedDifferenceMax=3;
 
-
+//default
 $updatedDirDueToURL="";
+
+if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
+	$updatedDirDueToURL="../";
+	
+	if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
+		$updatedDirDueToURL=$updatedDirDueToURL."../";
+	}
+}
+
 
 //added by Mike, 20230913
 $sInputURL=$_SERVER['REQUEST_URI'];
@@ -1547,10 +1579,10 @@ else {
 	//echo $sNewsNumberLocationPart;
 }
 
-
+/*
 //added by Mike, 20230920;
 //default
-$updatedDirDueToURL="";//../";
+//$updatedDirDueToURL="";//../";
 
 //if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {
 //.php//N
@@ -1563,6 +1595,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$updatedDirDueToURL=$updatedDirDueToURL."../";
 	}
 }
+*/
+
 
 	if (isMobile()) {
 		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
@@ -1907,17 +1941,36 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		return $sWebAddress;
 	}
 
+	function getGitHubLinkFromInput($cellValue, $updatedDirDueToURL) {
+		$sGitHubLink = $cellValue;
+		
+		$sGitHubLink = substr($sGitHubLink, strpos($sGitHubLink,"github.com"), strpos($sGitHubLink,".md")-strpos($sGitHubLink,"github.com"));
+
+		if (strlen(trim($sGitHubLink))>0) {
+			$sGitHubLink="https://".$sGitHubLink.".md";
+			
+			//$sGitHubLink="<a class='webServiceLink' target='_blank' href='".$sGitHubLink."'>A</a>";
+
+			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
+		}
+		
+		return $sGitHubLink;
+	}
+
 	//added by Mike, 20231207
 	//return sOutput
 	//edited by Mike, 20240516
 	//function processWebsiteReferenceForHeaderTitle($cellValue) {
-	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
+	//function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
+	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL) {
 		
 		$sToken = strtok($cellValue, "\n");
 
+		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL);
+
 		//note: space after "##"
 		$sToken = str_replace("## ", "", $sToken);
-
+		
 		$sReferenceWebsite=substr($sToken,0,25)."... ";
 		
 		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
@@ -1958,9 +2011,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
 			}	
 		}
+				
+		//$sGitHubLink="hallo";		
+		//echo $sGitHubLink."hallo";
 		
 		$sOutput="<h3>
-		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText."</h3><hr>";
+		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink."</h3><hr>";
 
 		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 
@@ -2459,7 +2515,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		
 		echo "<div class='textDoubleSpacedDiv'>";
 
-$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax);
+//$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax);
+
+$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL);
+
 
 $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
 
@@ -2510,6 +2569,8 @@ while ($sToken !== false)
 		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
 				strpos($sToken,";")-strpos($sToken,"http"));
 
+		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL);
+
 		//edited by Mike, 20240723	
 /*		
 		$sLastAccessed=substr($sToken,strpos($sToken,";"));
@@ -2536,7 +2597,7 @@ while ($sToken !== false)
 			//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
 			
 			if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
-				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
+				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
 			}			
 		}
 		
@@ -2552,6 +2613,8 @@ while ($sToken !== false)
 		
 		//added by Mike, 20240516
 		echo $sIncomingDraftText;
+		
+		echo $sGitHubLink;
 
 		echo "</h3>";
 		echo "</span>";
@@ -2639,10 +2702,14 @@ while ($sToken !== false)
 	else if (strpos($sToken, "##")!==false) {		
 		//TODO: -put: in output string, instead of immediately use echo command; to know if has already added <br/>...
 		
-		//edited by Mike, 20230923
-		echo "<span class='usbongTextSectionPart'>";
-		echo "$sToken<br/>";
-		echo "</span>";
+		if (strpos($sToken,"https://github.com/usbong/")!==false) {
+		}
+		else {
+			//edited by Mike, 20230923
+			echo "<span class='usbongTextSectionPart'>";
+			echo "$sToken<br/>";
+			echo "</span>";
+		}
 	}
 	//added by Mike, 20230518
 	else if (strpos($sToken, "http")!==false) {
