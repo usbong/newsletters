@@ -1,4 +1,4 @@
-﻿﻿<!--
+﻿<!--
   Copyright 2021~2024 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241219; from 20241217
+  @date updated: 20241220; from 20241219
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -350,10 +350,10 @@
 						}
 
 						img.Image-github-mark {
-							width: 5%;
+							width: 3%;
 							height: auto;
 							margin-bottom: 1%;
-							margin-left: 1%;							
+							margin-left: 0%;							
 						}
 
 
@@ -523,7 +523,7 @@
 							font-weight: bold;
 							font-family: Arial;
 						}
-/*	//TODO: -update: this
+
 						a.webServiceGitHubLink:hover
 						{
 							background-color: #f3f3f3;
@@ -531,7 +531,7 @@
 							padding: 0;
 							border-radius: 10px;								
 						}
-*/
+
 						a.webServiceTimeOffLink
 						{
 							color: rgb(0,0,0);
@@ -1954,7 +1954,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
 		}
 		
-		return $sGitHubLink;
+		return " ".$sGitHubLink;
 	}
 
 	//added by Mike, 20231207
