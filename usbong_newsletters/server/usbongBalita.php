@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241220; from 20241219
+  @date updated: 20241221; from 20241220
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1941,17 +1941,41 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		return $sWebAddress;
 	}
 
-	function getGitHubLinkFromInput($cellValue, $updatedDirDueToURL) {
+	function getGitHubLinkFromInput($cellValue, $updatedDirDueToURL, $completeFilename) {
 		$sGitHubLink = $cellValue;
 		
 		$sGitHubLink = substr($sGitHubLink, strpos($sGitHubLink,"github.com"), strpos($sGitHubLink,".md")-strpos($sGitHubLink,"github.com"));
 
+		//example: ## https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/famitsuDotCom/2024/202412/20241220.md
 		if (strlen(trim($sGitHubLink))>0) {
 			$sGitHubLink="https://".$sGitHubLink.".md";
 			
 			//$sGitHubLink="<a class='webServiceLink' target='_blank' href='".$sGitHubLink."'>A</a>";
 
 			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
+		}
+		else {
+			//example: C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\gamedeveloper\2024\202412\20241218.md
+			
+			//create temp variable
+			$sGitHubLinkTemp=str_replace("\\","/",$completeFilename);
+			
+			//famitsu
+			$sGitHubLinkTemp=str_replace("famitsu","famitsuDotCom",$completeFilename);
+			//gameDeveloper; case sensitive
+			$sGitHubLinkTemp=str_replace("gamedeveloper","GameDeveloperDotCom",$completeFilename);
+			//ignjapan; case sensitive
+			$sGitHubLinkTemp=str_replace("ignjapan","IGNJapan",$completeFilename);
+			//asahiShimbun
+			$sGitHubLinkTemp=str_replace("asahishimbun","asahiShimbun",$completeFilename);
+						
+			$sGitHubLinkTemp="https://github.com/usbong/newsletters/blob/main/notes/".substr($sGitHubLinkTemp,strpos($sGitHubLinkTemp,"LessonsLearned"));
+						
+			//echo "DITO".$sGitHubLinkTemp."<br/>";
+			
+			//$sGitHubLink=$sGitHubLinkTemp;
+			
+			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";				
 		}
 		
 		return " ".$sGitHubLink;
@@ -1962,11 +1986,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//edited by Mike, 20240516
 	//function processWebsiteReferenceForHeaderTitle($cellValue) {
 	//function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
-	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL) {
+	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL,$completeFilename) {
 		
 		$sToken = strtok($cellValue, "\n");
 
-		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL);
+		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL,$completeFilename);
 
 		//note: space after "##"
 		$sToken = str_replace("## ", "", $sToken);
@@ -2517,7 +2541,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 //$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax);
 
-$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL);
+$sNewsTitleWebsiteReference = processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL, $completeFilename);
 
 
 $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
@@ -2569,7 +2593,7 @@ while ($sToken !== false)
 		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
 				strpos($sToken,";")-strpos($sToken,"http"));
 
-		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL);
+		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL, $completeFilename);
 
 		//edited by Mike, 20240723	
 /*		
