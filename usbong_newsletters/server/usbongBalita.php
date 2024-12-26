@@ -2763,6 +2763,38 @@ while ($sToken !== false)
 			$bHasAdditionalReference=true;
 		}
 	}
+	else if (strpos(strtolower($sToken), "# 参考")!==false) {
+		//noted by Mike, 20230518; "###" also exists for references
+		if (strpos(strtolower($sToken), "####")!==false) {
+			$sToken = str_replace("#", "", $sToken);
+
+			//edited by Mike, 20231224
+//			$sToken = str_replace("Reference:", "", $sToken);
+			$sToken = str_replace(strtolower("reference"), "", $sToken);
+
+			$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));
+			$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);
+
+			//added by Mike, 20230518
+			if (is_numeric($sPrevToken[0])) {
+				echo "<br/>";
+			}
+
+			echo "<span class='usbongTextReferencePart'>";
+			echo "<br/>Reference:<br/>";
+			
+			echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+			echo $sReferenceWebsiteTemp."</a>;<br/>";
+			echo "$sLastAccessedTemp<br/><br/>";
+			echo "</span>";
+		}
+		else {
+			echo "<b>### 参考</b><br/>";
+			
+			//added by Mike, 20240720
+			$bHasAdditionalReference=true;
+		}
+	}	
 	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
 		(strpos($sToken, "### SELECT PARTS")!==false)) {
 		echo "<span class='usbongTextSectionPart'>";
