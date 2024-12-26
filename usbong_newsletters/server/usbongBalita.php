@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241221; from 20241220
+  @date updated: 20241226; from 20241221
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -535,6 +535,7 @@
 						a.webServiceTimeOffLink
 						{
 							color: rgb(0,0,0);
+							margin-bottom: 2%;
 						}
 
 						a.webServiceGameOffLink:hover
@@ -805,6 +806,10 @@
 							color: rgb(50,50,50);
 							font-weight: bold;
 						}
+						
+						span.dateTodaySpan, .balitaSpan {
+							font-size: 24pt; /*1em;*/
+						}
 
 						hr.usbongTextSectionPartHr {
 							border: 0.01em solid #CCC;
@@ -884,9 +889,19 @@
 						}				
 
 						audio::-webkit-media-controls-enclosure {						
-							 border-radius: 0;
+							border-radius: 0;
+/*							
+							border: 4px solid black;
+*/							
 						}
-						
+
+/*						
+						#audio-player-container {
+						  border: 4px solid white;
+						  background-color: #222;
+						}
+*/
+
 						button.jeepRadioButton
 						{
 							background-color: white;
@@ -1653,7 +1668,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				<b>BALITA</b>
 				<br/>
 -->
+				<span class='balitaSpan'>
 				<b>BALITA</b>
+				</span>
 <a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
 
 <?php
@@ -1674,11 +1691,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 					//note: can select previous days?...
 
-					echo "$dateTodayDay | ";
-					//class='webServiceLink'
+					echo "<span class='dateTodaySpan'>$dateTodayDay | ";
 					echo "<a class='webServiceTimeOffLink' target='_blank' href='http://store.usbong.ph/timeoff'>";
 					echo $dateToday;
-					echo "</a>";
+					echo "</a></span>";
 				?>
 			</div>
 		</td>
@@ -1769,10 +1785,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		  Your browser does not support the audio tag.
 		</audio>	
 -->
+<div id="audio-player-container">
 		<audio width="416" height="312" controls>
 		  <source src="<?php echo $sAudioInput;?>" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio>	
+</div>
 
 <!-- //edited by Mike, 20230919
 	<br/>
@@ -1955,19 +1973,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
 		}
 		else {
-			//example: C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\gamedeveloper\2024\202412\20241218.md
+			//example: C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\gamedeveloper\2024\202412\20241218.md			
 			
 			//create temp variable
 			$sGitHubLinkTemp=str_replace("\\","/",$completeFilename);
 			
 			//famitsu
-			$sGitHubLinkTemp=str_replace("famitsu","famitsuDotCom",$completeFilename);
+			$sGitHubLinkTemp=str_replace("famitsu","famitsuDotCom",$sGitHubLinkTemp);
 			//gameDeveloper; case sensitive
-			$sGitHubLinkTemp=str_replace("gamedeveloper","GameDeveloperDotCom",$completeFilename);
+			$sGitHubLinkTemp=str_replace("gamedeveloper","GameDeveloperDotCom",$sGitHubLinkTemp);
 			//ignjapan; case sensitive
-			$sGitHubLinkTemp=str_replace("ignjapan","IGNJapan",$completeFilename);
+			$sGitHubLinkTemp=str_replace("ignjapan","IGNJapan",$sGitHubLinkTemp);
 			//asahiShimbun
-			$sGitHubLinkTemp=str_replace("asahishimbun","asahiShimbun",$completeFilename);
+			$sGitHubLinkTemp=str_replace("asahishimbun","asahiShimbun",$sGitHubLinkTemp);
+			//eurogamerspain
+			$sGitHubLinkTemp=str_replace("eurogamerspain","Eurogamerspain",$sGitHubLinkTemp);
 						
 			$sGitHubLinkTemp="https://github.com/usbong/newsletters/blob/main/notes/".substr($sGitHubLinkTemp,strpos($sGitHubLinkTemp,"LessonsLearned"));
 						
@@ -1975,7 +1995,37 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			
 			//$sGitHubLink=$sGitHubLinkTemp;
 			
-			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";				
+			//print_r(get_headers($sGitHubLinkTemp, 1));
+
+			//not valid URL
+			if (filter_var($sGitHubLinkTemp, FILTER_VALIDATE_URL) === FALSE) {
+			}
+			else {
+				if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+				{
+					//URL throws a 404 error
+					//echo "DITO";
+				}	
+				else {
+					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
+				}
+			}
+
+/*
+			//print_r(get_headers($sGitHubLinkTemp, 1)[0]);
+			
+			if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+			{
+				//URL throws a 404 error
+				echo "DITO".$sGitHubLinkTemp;
+			}	
+			else {
+				$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
+			}
+*/			
+/*
+	$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
+*/
 		}
 		
 		return " ".$sGitHubLink;
