@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241226; from 20241221
+  @date updated: 20241227; from 20241226
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -342,10 +342,10 @@
 						}
 
 						img.Image-favicon {
-/*
-							width: 100%;
+/*							
+							width: 10%;
 							height: auto;
-*/
+*/							
 							margin-bottom: 1%;
 						}
 
@@ -1754,7 +1754,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 	}
 	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
-		$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		//$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+
+		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+		
 	}
 	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
 		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
@@ -1767,13 +1770,17 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		//edited by Mike, 20241010
 		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
 			//http://localhost/usbong_newsletters/server/usbongBalita.php/
-			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+			
+			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}		
 		else { 
 			//no slash at the end
 			//http://localhost/usbong_newsletters/server/usbongBalita.php
 			//edited by Mike, 20241010			
-			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+			
+			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}
 	}
 	
