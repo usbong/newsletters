@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241227; from 20241226
+  @date updated: 20241230; from 20241227
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -902,13 +902,13 @@
 						}
 */
 
-						button.jeepRadioButton
+						button.jeepRadioButton, .playRadioButton
 						{
 							background-color: white;
 							border: 0px solid;	
 						}
 
-						button.jeepRadioButton:hover
+						button.jeepRadioButton:hover, .playRadioButton:hover
 						{
 							background-color: #f1f1f1;
 							border-radius: 10px;
@@ -1167,6 +1167,26 @@
 				window.location.href = ""+sInput+"/R1";
 				//selectedValue;
 			}
+		}
+		
+		//Game Off 2024
+		function playAudio() { //sAudioInput) {
+			//alert("DITO");
+			//alert(sAudioInput);
+			
+			//var sAudioSource = document.getElementById("audioSourceId").src;
+			//alert(sAudioSource);
+			
+			var myAudio = document.getElementById("myAudioId");
+			
+			//myAudio.setAttribute("src", sAudioSource);
+
+			var fMyAudioVolume=1.0;//0.4;
+			myAudio.volume=fMyAudioVolume;
+			myAudio.loop=false;		
+			myAudio.play();
+			
+			//alert("HALLO!");
 		}
 		
 		//added by Mike, 20230920
@@ -1750,21 +1770,27 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 -->
 <?php
 	//added by Mike, 20240801
+	
+	//$sBaseAssetsDirectory="../../assets/";
+	
 	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+		//$sAudioInput="../".$sBaseAssetsDirectory."audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 	}
 	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
 		//$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
 
 		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-		
+		//$sAudioInput="../".$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 	}
 	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
 		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
+		//$sAudioInput="../".$sBaseAssetsDirectory."audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
 	}
 	//added by Mike, 20241021
 	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
 		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+		//$sAudioInput="../".$sBaseAssetsDirectory."audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
 	}	
 	else {
 		//edited by Mike, 20241010
@@ -1773,6 +1799,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
 			
 			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}		
 		else { 
 			//no slash at the end
@@ -1781,6 +1808,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
 			
 			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}
 	}
 	
@@ -1793,8 +1821,17 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		</audio>	
 -->
 <div id="audio-player-container">
-		<audio width="416" height="312" controls>
-		  <source src="<?php echo $sAudioInput;?>" type="audio/mp3">
+<button class='playRadioButton'>
+<?php
+	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230' onclick='playAudio(".$sAudioInput.")'>"; 
+
+	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230' onclick='playAudio()'>"; 
+	
+?>
+</button>
+
+		<audio id="myAudioId" width="416" height="312" controls>
+		  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio>	
 </div>
