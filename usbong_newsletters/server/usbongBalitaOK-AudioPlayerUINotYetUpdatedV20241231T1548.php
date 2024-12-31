@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241231; from 20241230
+  @date updated: 20241226; from 20241221
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -342,10 +342,10 @@
 						}
 
 						img.Image-favicon {
-/*							
-							width: 10%;
+/*
+							width: 100%;
 							height: auto;
-*/							
+*/
 							margin-bottom: 1%;
 						}
 
@@ -364,26 +364,6 @@
 */
 							float: left;							
 							margin-bottom: 5%;
-						}			
-
-						img.ImagePlayRadio {
-							height: 100%;
-							width: 100%;
-							
-							float: left;							
-							margin-bottom: 5%;
-
-							visibility: visible;
-						}			
-
-						img.ImagePauseRadio {
-							height: 100%;
-							width: 100%;
-							
-							float: left;							
-							margin-bottom: 5%;
-							
-							visibility: hidden;
 						}			
 
 						img.Image-companyLogoMobile {
@@ -801,17 +781,8 @@
 						}
 
 						span.usbongNoteSpan {
-						}					
-						
-						span.spanAudioDuration {
-							text-align: left;
 
-							position: absolute;
-							font-size: 2em;
-							margin:0;
-							margin-top: -4px;					
-						}
-
+						}						
 						span.webServiceLinkRowIncomingDraftSpan {
 							text-align: right;
 							color: rgb(80,52,37);
@@ -923,21 +894,13 @@
 							border: 4px solid black;
 */							
 						}
-						
-						audio.audioPlayerDefault {
-							width: 0;
-							height: 0;
-							visibility: hidden;
-						}
 
-						div.divAudioPlayerContainer {
+/*						
+						#audio-player-container {
 						  border: 4px solid white;
-						  background-color: white; /*#f1f1f1;*/
-						  border-radius: 10px;
-						  width: 100%;
-						  height: auto;
-						  padding-top: 2%;
+						  background-color: #222;
 						}
+*/
 
 						button.jeepRadioButton
 						{
@@ -945,39 +908,10 @@
 							border: 0px solid;	
 						}
 
-						button.playRadioButton
-						{
-/*							
-							width: 10%;
-							height: 100%;
-*/							
-							background-color: white;
-							border: 0px solid;	
-							margin: 0;
-							padding: 0;
-							margin-left: 2%;
-							margin-right: 5%;							
-						}
-
 						button.jeepRadioButton:hover
 						{
 							background-color: #f1f1f1;
 							border-radius: 10px;
-						}						
-
-						button.playRadioButton:hover
-						{				
-/*						
-							width: 10%;
-							height: 100%;
-*/							
-							background-color: #f1f1f1; /*#d6d6d6;*/
-							border: 0px solid;	
-							border-radius: 10px;
-							margin: 0;
-							padding: 0;
-							margin-left: 2%;
-							margin-right: 5%;		
 						}						
 						
     /**/
@@ -1019,29 +953,7 @@
 		
 		//added by Mike, 20231218
 		bHasLongPressed=false;
-		
-		//1000/60=16.66; 60 frames per second
-		//1000/30=33.33; 30 frames
-		const fFramesPerSecondDefault=16.66;
-		//const fFramesPerSecondDefault=33.33;
-		var fFramesPerSecond=fFramesPerSecondDefault;
-		var iCurrentIntervalId=-1;		
 
-		function myUpdateFunction() {
-			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
-			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
-						
-			dMyAudioCurrentTimeDurationInMin=Math.round(dMyAudioCurrentTimeDurationInSec/60);
-			iMyAudioCurrentTimeDurationInSec=Math.round(dMyAudioCurrentTimeDurationInSec%60);
-			sMyAudioCurrentTimeDurationInSec=iMyAudioCurrentTimeDurationInSec;
-			
-			if (iMyAudioCurrentTimeDurationInSec<10) {
-				sMyAudioCurrentTimeDurationInSec="0"+iMyAudioCurrentTimeDurationInSec;
-			}
-			
-			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
-		}
-	
 		function onLoad() {
 		  //alert ("HALLO");
 
@@ -1202,32 +1114,7 @@
 				}
 			  }
 			};
-			
-			
-			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
 
-			sMyAudioDurationText.innerHTML="0:00 / "+getAudioTotalDuration();
-						
-			//fFramesPerSecond=16.66; //100.00; //16.66;
-			clearInterval(iCurrentIntervalId);
-			iCurrentIntervalId=setInterval(myUpdateFunction, fFramesPerSecond);	
-		}
-			
-		function getAudioTotalDuration() {
-			var dMyAudioDurationInSec = document.getElementById("myAudioId").duration; 
-			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
-			
-			//alert("TOTAL dMyAudioDurationInSec: "+dMyAudioDurationInSec);
-			
-			dMyAudioDurationInMin=Math.round(dMyAudioDurationInSec/60);
-			iMyAudioDurationInSec=Math.round(dMyAudioDurationInSec%60);
-			sMyAudioDurationInSec=iMyAudioDurationInSec;
-			
-			if (iMyAudioDurationInSec<10) {
-				sMyAudioDurationInSec="0"+iMyAudioDurationInSec;
-			}
-			
-			return dMyAudioDurationInMin+":"+sMyAudioDurationInSec;
 		}
 
 		//added by Mike, 20240801
@@ -1280,60 +1167,6 @@
 				window.location.href = ""+sInput+"/R1";
 				//selectedValue;
 			}
-		}
-		
-		//Game Off 2024
-		function playAudio() {
-			//alert("DITO");
-			//alert(sAudioInput);
-			
-			//var sAudioSource = document.getElementById("audioSourceId").src;
-			//alert(sAudioSource);
-
-			var sImagePlayRadioSource = document.getElementById("imagePlayRadioId").src;
-			var myAudio = document.getElementById("myAudioId");
-			//>>>http://localhost/usbong_newsletters/assets/images/radioPlay.png?lastmod=20241230T1418
-			//alert(">>>"+sImagePlayRadioSource);
-		
-			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
-			var dAudioTotalDuration = getAudioTotalDuration();
-			
-			//alert("dMyAudioCurrentTimeDurationInSec: "+dMyAudioCurrentTimeDurationInSec);
-			
-			var fMyAudioVolume=1.0;//0.4;
-			myAudio.volume=fMyAudioVolume;
-			myAudio.loop=false;		
-			//myAudio.play();
-						
-			if (dMyAudioCurrentTimeDurationInSec==0) {
-				document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPlay","radioPause");
-				
-				myAudio.play();
-			}
-			else {
-				//if currently paused
-				if (sImagePlayRadioSource.indexOf("radioPlay")!=-1) {
-					document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPlay","radioPause");
-					myAudio.play();
-					
-					//alert("PLAY AUDIO NOW!");					
-				}
-				//if currently playing;
-				else {
-					document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPause","radioPlay");
-					myAudio.pause();
-					
-					//alert("PAUSE AUDIO NOW!");
-				}				
-			}
-			//myAudio.setAttribute("src", sAudioSource);
-/*
-			var fMyAudioVolume=1.0;//0.4;
-			myAudio.volume=fMyAudioVolume;
-			myAudio.loop=false;		
-			myAudio.play();
-*/			
-			//alert("HALLO!");
 		}
 		
 		//added by Mike, 20230920
@@ -1868,8 +1701,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	   </tr>
 	</table>
 
-
-
 <!-- //edited by Mike, 22030929; _blank -->
 <table class="searchTable">
 		<tr>
@@ -1894,7 +1725,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 -->			  
 			</td>
 			<td>
-			
 <!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
 			<form id="search-form" method="get" action="usbongSearch.php">
 				<?php/*echo site_url('browse/confirmPatient')*/?>
@@ -1920,10 +1750,36 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 -->
 <?php
 	//added by Mike, 20240801
-	
-	//$sBaseAssetsDirectory="../../assets/";
-	
+/*	
 	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
+		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
+		$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
+		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
+	}
+	//added by Mike, 20241021
+	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
+		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+	}	
+	else {
+		//edited by Mike, 20241010
+		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
+			//http://localhost/usbong_newsletters/server/usbongBalita.php/
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}		
+		else { 
+			//no slash at the end
+			//http://localhost/usbong_newsletters/server/usbongBalita.php
+			//edited by Mike, 20241010			
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}
+	}
+*/
+
+if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 		//$sAudioInput="../".$sBaseAssetsDirectory."audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 	}
@@ -1961,6 +1817,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}
 	}
+
 	
 	//echo $sAudioInput;
 ?>
@@ -1970,31 +1827,16 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		  Your browser does not support the audio tag.
 		</audio>	
 -->
-
-
-<div class="divAudioPlayerContainer">
-
-<button class="playRadioButton">
-<?php
-	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230' onclick='playAudio(".$sAudioInput.")'>"; 
-
-	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
-	
-?>
-</button>
-
-
-<span id="myAudioDurationTextId" class="spanAudioDuration">
-</span>
-
-		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
-		  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
+<div id="audio-player-container">
+		<audio width="416" height="312" controls>
+		  <source src="<?php echo $sAudioInput;?>" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio>	
-
 </div>
 
-
+<!-- //edited by Mike, 20230919
+	<br/>
+-->
 			</td>
 			<td>
 			<?php
@@ -2055,7 +1897,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 						$sNewsDisplayedName="LINKEDIN";
 					}
 */
-				for ($i=1; $i<=6; $i++) { //<=7; 6
+					for ($i=1; $i<=6; $i++) { //<=7; 6
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -2201,19 +2043,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			if (filter_var($sGitHubLinkTemp, FILTER_VALIDATE_URL) === FALSE) {
 			}
 			else {
-				try {
-					if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
-					{
-						//URL throws a 404 error
-						//echo "DITO";
-					}	
-					else {
-						$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
-					}
-				}
-				catch(err) {
-					//https://www.w3schools.com/js/js_errors.asp; last accessed: 20241231
-					//document.getElementById("demo").innerHTML = err.message;
+				if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+				{
+					//URL throws a 404 error
+					//echo "DITO";
+				}	
+				else {
+					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 				}
 			}
 
