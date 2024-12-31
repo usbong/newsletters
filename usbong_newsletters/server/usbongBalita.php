@@ -5,7 +5,7 @@
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIcS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
 
-  @company: USBONG
+@company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
   @date updated: 20241231; from 20241230
@@ -1006,7 +1006,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   </head>
-	  <script>
+<script>
 		//added by Mike, 20230510
 		bIsMobile = false;
 		bIsUsingAppleWebKit=false;
@@ -1562,7 +1562,7 @@
 		}
 
 
-	  </script>
+	  </script>	  
 
 <?php
 
@@ -1868,8 +1868,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	   </tr>
 	</table>
 
-
-
 <!-- //edited by Mike, 22030929; _blank -->
 <table class="searchTable">
 		<tr>
@@ -1894,7 +1892,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 -->			  
 			</td>
 			<td>
-			
 <!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
 			<form id="search-form" method="get" action="usbongSearch.php">
 				<?php/*echo site_url('browse/confirmPatient')*/?>
@@ -1920,10 +1917,36 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 -->
 <?php
 	//added by Mike, 20240801
-	
-	//$sBaseAssetsDirectory="../../assets/";
-	
+/*	
 	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
+		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
+		$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
+		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
+	}
+	//added by Mike, 20241021
+	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
+		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+	}	
+	else {
+		//edited by Mike, 20241010
+		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
+			//http://localhost/usbong_newsletters/server/usbongBalita.php/
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}		
+		else { 
+			//no slash at the end
+			//http://localhost/usbong_newsletters/server/usbongBalita.php
+			//edited by Mike, 20241010			
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}
+	}
+*/
+
+if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 		//$sAudioInput="../".$sBaseAssetsDirectory."audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 	}
@@ -1961,6 +1984,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}
 	}
+
 	
 	//echo $sAudioInput;
 ?>
@@ -1970,7 +1994,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		  Your browser does not support the audio tag.
 		</audio>	
 -->
-
 
 <div class="divAudioPlayerContainer">
 
@@ -1983,7 +2006,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 ?>
 </button>
 
-
 <span id="myAudioDurationTextId" class="spanAudioDuration">
 </span>
 
@@ -1993,8 +2015,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		</audio>	
 
 </div>
-
-
 			</td>
 			<td>
 			<?php
@@ -2055,7 +2075,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 						$sNewsDisplayedName="LINKEDIN";
 					}
 */
-				for ($i=1; $i<=6; $i++) { //<=7; 6
+					for ($i=1; $i<=6; $i++) { //<=7; 6
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -2201,19 +2221,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			if (filter_var($sGitHubLinkTemp, FILTER_VALIDATE_URL) === FALSE) {
 			}
 			else {
-				try {
-					if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
-					{
-						//URL throws a 404 error
-						//echo "DITO";
-					}	
-					else {
-						$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
-					}
-				}
-				catch(err) {
-					//https://www.w3schools.com/js/js_errors.asp; last accessed: 20241231
-					//document.getElementById("demo").innerHTML = err.message;
+				if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+				{
+					//URL throws a 404 error
+					//echo "DITO";
+				}	
+				else {
+					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 				}
 			}
 
