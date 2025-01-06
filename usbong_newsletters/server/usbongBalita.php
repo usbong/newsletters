@@ -1,5 +1,5 @@
 ﻿<!--
-  Copyright 2021~2024 SYSON, MICHAEL B.
+  Copyright 2021~2025 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
   http://www.apache.org/licenses/LICENSE-2.0
@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20241231; from 20241230
+  @date updated: 20250106; from 20250104
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -830,6 +830,15 @@
 							font-weight: bold;							
 						}
 
+						span.usbongLastUpdatedTextSectionPart {
+							width: 100%;
+							display: inline-block;
+							text-align: right;
+							color: rgb(50,50,50);
+							/*font-weight: bold;*/
+							font-size: 0.8em;							
+						}
+						
 						span.usbongTextReferencePart {
 							text-align: left;
 							color: rgb(50,50,50);
@@ -2977,7 +2986,7 @@ while ($sToken !== false)
 			echo "</span>";
 		}
 		else {
-			echo "<b>### REFERENCE</b><br/>";
+			echo "<b>## REFERENCE</b><br/>"; //###
 			
 			//added by Mike, 20240720
 			$bHasAdditionalReference=true;
@@ -3009,12 +3018,24 @@ while ($sToken !== false)
 			echo "</span>";
 		}
 		else {
-			echo "<b>### 参考</b><br/>";
+			echo "<b>## 参考</b><br/>"; //###
 			
 			//added by Mike, 20240720
 			$bHasAdditionalReference=true;
 		}
-	}	
+	}
+	else if ((strpos(strtoupper($sToken), "# LAST UPDATED")!==false) || (strpos(strtoupper($sToken), "# UPDATED")!==false) || (strpos(strtoupper($sToken), "# 更新")!==false)) {
+		$sToken=str_replace("#","",$sToken);
+		$sToken=str_replace("LAST UPDATED:","<b>Updated:</b>",strtoupper($sToken));
+		$sToken=str_replace("更新：","<b>更新：</b>",strtoupper($sToken));
+		$sToken=str_replace("更新:","<b>更新:</b>",strtoupper($sToken));
+		
+		
+		echo "<span class='usbongLastUpdatedTextSectionPart'>";
+		//echo "<br/>$sToken<br/>";
+		echo "$sToken";
+		echo "</span>";
+	}
 	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
 		(strpos($sToken, "### SELECT PARTS")!==false)) {
 		echo "<span class='usbongTextSectionPart'>";
