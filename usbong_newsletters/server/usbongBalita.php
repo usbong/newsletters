@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250106; from 20250104
+  @date updated: 20250123; from 20250108
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2084,7 +2084,7 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 						$sNewsDisplayedName="LINKEDIN";
 					}
 */
-					for ($i=1; $i<=6; $i++) { //<=7; 6
+					for ($i=1; $i<=7; $i++) { //<=7; 6
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -2109,6 +2109,10 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 					else if ($i==6) {
 						$sNewsSource="zaobao";
 						$sNewsDisplayedName="ZAOBAO";
+					}
+					else if ($i==7) {
+						$sNewsSource="ignchina";
+						$sNewsDisplayedName="IGN CHINA";
 					}
 					
 					if ($i==$iNewsNumberRaw) {
@@ -2213,6 +2217,8 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 			$sGitHubLinkTemp=str_replace("gamedeveloper","GameDeveloperDotCom",$sGitHubLinkTemp);
 			//ignjapan; case sensitive
 			$sGitHubLinkTemp=str_replace("ignjapan","IGNJapan",$sGitHubLinkTemp);
+			//ignchina; case sensitive
+			$sGitHubLinkTemp=str_replace("ignchina","IGNChina",$sGitHubLinkTemp);
 			//asahiShimbun
 			$sGitHubLinkTemp=str_replace("asahishimbun","asahiShimbun",$sGitHubLinkTemp);
 			//eurogamerspain
@@ -2986,6 +2992,8 @@ while ($sToken !== false)
 			echo "</span>";
 		}
 		else {
+			//echo "DITO";
+			
 			echo "<b>## REFERENCE</b><br/>"; //###
 			
 			//added by Mike, 20240720
@@ -3029,13 +3037,55 @@ while ($sToken !== false)
 		$sToken=str_replace("LAST UPDATED:","<b>Updated:</b>",strtoupper($sToken));
 		$sToken=str_replace("更新：","<b>更新：</b>",strtoupper($sToken));
 		$sToken=str_replace("更新:","<b>更新:</b>",strtoupper($sToken));
+		$sToken=trim($sToken);
 		
+		//echo ">>>".$sToken.">>>><br/>";
 		
 		echo "<span class='usbongLastUpdatedTextSectionPart'>";
 		//echo "<br/>$sToken<br/>";
 		echo "$sToken";
 		echo "</span>";
 	}
+	//added by Mike, 20250123
+	else if (strpos(strtolower($sToken), "[")!==false) {
+		//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
+
+		$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
+		$sReferenceWebsiteTempTail=substr($sToken,strpos($sToken,"]"));
+		
+		//has announced
+		$sReferenceWebsiteTempText=str_replace($sReferenceWebsiteTempTail,"",$sReferenceWebsiteTempStart);
+		
+		//echo ">>>>>> ".$sReferenceWebsiteTempText."<br><br>";
+		//echo ">>>>>> TAIL: ".$sReferenceWebsiteTempAddress."<br><br>";
+
+		$sReferenceWebsiteTempTailTwo=substr($sReferenceWebsiteTempTail,strpos($sReferenceWebsiteTempTail,")"));
+
+		//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempAddressTwo."<br><br>";
+
+		$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
+		
+		$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
+		$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
+		$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);
+		
+		//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
+		//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
+				
+		$sOutput=$sToken;
+
+		$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";
+		
+		$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
+		$sOutput=str_replace("[","",$sOutput);
+		$sOutput=str_replace("]","",$sOutput);
+		$sOutput=str_replace("(".$sReferenceWebsiteAddress.")","",$sOutput);
+		
+		//echo ">>>>>".$sLink;
+		//echo ">>>>>".$sReferenceWebsiteTempStart;
+
+		echo $sOutput;
+	}		
 	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
 		(strpos($sToken, "### SELECT PARTS")!==false)) {
 		echo "<span class='usbongTextSectionPart'>";
@@ -3082,9 +3132,26 @@ while ($sToken !== false)
 			if (is_numeric($sPrevToken[0])) {
 			  echo "<br/>";
 			}
+			
+			if ((strpos($sPrevToken, "# REFERENCE")!==false) ||
+				(strpos($sPrevToken, "# 参考")!==false)) {
+			  //echo "<br/>";
+			  //ECHO "dito";
+			}
+			
 			//edited by Mike, 20231222
 			//echo "$sToken<br/>";
 			echo "$sToken";
+			
+/*						
+			//edited by Mike, 20240720; from 20231222
+			//add only if has additional reference
+			//echo "<br/>";
+			if ($bHasAdditionalReference) {
+			  echo "<br/><br/>";
+			  $bHasAdditionalReference=false;
+			}
+*/			
 		}
 		else {
 			echo "<p class='usbongTranslatedQuote'>";
@@ -3108,6 +3175,7 @@ while ($sToken !== false)
 	if ($bHasAdditionalReference) {
 	  echo "<br/><br/>";
 	}
+	//echo "<br/><br/>";
 
 ?>
 
