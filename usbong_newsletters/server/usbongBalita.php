@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250123; from 20250108
+  @date updated: 20250125; from 20250123
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2454,7 +2454,52 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		
 		return $sLastAccessed;
 	}
+	
+	function updateTextInputWithLink($sToken) {	
+		if (strpos(strtolower($sToken), "[")!==false) {
+			//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
 
+			$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
+			$sReferenceWebsiteTempTail=substr($sToken,strpos($sToken,"]"));
+			
+			//has announced
+			$sReferenceWebsiteTempText=str_replace($sReferenceWebsiteTempTail,"",$sReferenceWebsiteTempStart);
+			
+			//echo ">>>>>> ".$sReferenceWebsiteTempText."<br><br>";
+			//echo ">>>>>> TAIL: ".$sReferenceWebsiteTempAddress."<br><br>";
+
+			$sReferenceWebsiteTempTailTwo=substr($sReferenceWebsiteTempTail,strpos($sReferenceWebsiteTempTail,")"));
+
+			//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempAddressTwo."<br><br>";
+
+			$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
+			
+			$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
+			$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
+			$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);
+			
+			//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
+			//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
+					
+			$sOutput=$sToken;
+
+			$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";
+			
+			$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
+			$sOutput=str_replace("[","",$sOutput);
+			$sOutput=str_replace("]","",$sOutput);
+			$sOutput=str_replace("(".$sReferenceWebsiteAddress.")","",$sOutput);
+			
+			//echo ">>>>>".$sLink;
+			//echo ">>>>>".$sReferenceWebsiteTempStart;
+
+			//echo $sOutput."<br/><br/>";
+			return $sOutput;
+		}	
+		return $sToken;
+	}
+	
+	
 	//added by Mike, 20211016
 	//note: reusable function
 	function autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase) {
@@ -2943,6 +2988,10 @@ while ($sToken !== false)
 		//echo "HALLO!!!";
 		
 		$sToken = str_replace(">","",$sToken);
+
+		//added by Mike, 20250125
+		$sToken=updateTextInputWithLink($sToken);
+
 		echo "<blockquote class='usbongBlockquote'>";
 		echo "$sToken";
 		
@@ -3048,6 +3097,7 @@ while ($sToken !== false)
 	}
 	//added by Mike, 20250123
 	else if (strpos(strtolower($sToken), "[")!==false) {
+/*		
 		//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
 
 		$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
@@ -3085,6 +3135,8 @@ while ($sToken !== false)
 		//echo ">>>>>".$sReferenceWebsiteTempStart;
 
 		echo $sOutput;
+*/
+		echo updateTextInputWithLink($sToken);		
 	}		
 	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
 		(strpos($sToken, "### SELECT PARTS")!==false)) {
