@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250125; from 20250123
+  @date updated: 20250128; from 20250125
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2456,7 +2456,9 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 	}
 	
 	function updateTextInputWithLink($sToken) {	
-		if (strpos(strtolower($sToken), "[")!==false) {
+		//edited by Mike, 20250128
+		//if (strpos(strtolower($sToken), "[")!==false) {
+		if ((strpos(strtolower($sToken), "[")!==false) and (strpos(strtolower($sToken), "](")!==false)) {			
 			//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
 
 			$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
@@ -2477,17 +2479,19 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 			$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
 			$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
 			$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);
-			
 			//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
 			//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
 					
 			$sOutput=$sToken;
 
-			$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";
-			
-			$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
+			$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";			
+			//$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
+			$sOutput=str_replace("[".$sReferenceWebsiteTempText."]",$sLink,$sToken);
+
+/*
 			$sOutput=str_replace("[","",$sOutput);
 			$sOutput=str_replace("]","",$sOutput);
+*/			
 			$sOutput=str_replace("(".$sReferenceWebsiteAddress.")","",$sOutput);
 			
 			//echo ">>>>>".$sLink;
@@ -3043,7 +3047,11 @@ while ($sToken !== false)
 		else {
 			//echo "DITO";
 			
-			echo "<b>## REFERENCE</b><br/>"; //###
+			//echo "<b>## REFERENCE</b><br/>"; //###
+			
+			echo "<p class='usbongTranslatedQuote'>";
+			echo "<b>## REFERENCE</b>";
+			echo "</p>";
 			
 			//added by Mike, 20240720
 			$bHasAdditionalReference=true;
@@ -3075,7 +3083,12 @@ while ($sToken !== false)
 			echo "</span>";
 		}
 		else {
-			echo "<b>## 参考</b><br/>"; //###
+			
+			//echo "<b>## 参考</b><br/>"; //###
+
+			echo "<p class='usbongTranslatedQuote'>";
+			echo "<b>## 参考</b>";
+			echo "</p>";
 			
 			//added by Mike, 20240720
 			$bHasAdditionalReference=true;
@@ -3136,7 +3149,13 @@ while ($sToken !== false)
 
 		echo $sOutput;
 */
-		echo updateTextInputWithLink($sToken);		
+/*
+		echo updateTextInputWithLink($sToken);	
+		echo "<br/>";
+*/
+		echo "<p class='usbongTranslatedQuote'>";
+		echo updateTextInputWithLink($sToken);	
+		echo "</p>";		
 	}		
 	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
 		(strpos($sToken, "### SELECT PARTS")!==false)) {
@@ -3165,7 +3184,7 @@ while ($sToken !== false)
 		processWebsiteReference($sToken);
 	}
 	//added by Mike, 20231222
-	else if (strlen($sToken)==strlen("<br/>")) {
+	else if (strlen($sToken)==strlen("<br/>")) {		
 //	else if (strpos(strtolower($sToken), "<br/>")!==false) {
 		if (strpos(strtolower($sToken), "<br/>")!==false) {
 			echo "<br/>";
