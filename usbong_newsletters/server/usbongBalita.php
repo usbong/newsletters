@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250128; from 20250125
+  @date updated: 20250129; from 20250128
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -891,7 +891,7 @@
 							line-height: 2;
 							font-size: 24pt;
 							
-							font-family: Tahoma; /*Arial;*/
+							font-family: Tahoma, Garamond, sans-serif; /*Arial;*/
 						}
 
 						span.moreTextSpanIIISummaryReportsHeader
@@ -902,7 +902,7 @@
 							font-size: 24pt;
 
 							font-weight: Normal;
-							font-family: Tahoma; /*Arial;*/
+							font-family: Tahoma, Garamond, sans-serif; /*Arial;*/
 							
 							display: inline;
 						}
@@ -1220,6 +1220,31 @@
 			//fFramesPerSecond=16.66; //100.00; //16.66;
 			clearInterval(iCurrentIntervalId);
 			iCurrentIntervalId=setInterval(myUpdateFunction, fFramesPerSecond);	
+			
+			//TODO: -update: this
+			//updateNewsNameIfHasIncomingDraft();
+		}
+		
+		function updateNewsNameIfHasIncomingDraft() {
+			var sSummaryReportsHeader = document.getElementById("summaryReportsHeaderId"+"0").innerHTML; 
+
+			//alert(sSummaryReportsHeader);
+			
+			var selectBox = document.getElementById("newsSelectId");
+			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+			
+			var selectedText = selectBox.options[selectBox.selectedIndex].innerHTML
+			
+			//N1
+			//alert(selectedValue);
+			//alert (sSummaryReportsHeader.toLowerCase().includes("| incoming draft"));
+			if (sSummaryReportsHeader.toLowerCase().includes("| incoming draft")) {
+				//alert (selectedText);
+				
+				//selectBox.options[selectBox.selectedIndex].innerHTML = selectedText + "<span style='color:red;'> *</span>";
+				
+				selectBox.options[selectBox.selectedIndex].innerHTML = selectedText + " +";
+			}
 		}
 			
 		function getAudioTotalDuration() {
@@ -2770,7 +2795,10 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		    //edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/").$filename;
 			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/").$filename;
 
-			//echo $completeFilename."<br/>";
+/*
+			echo $completeFilename."<br/>";
+			echo ">>>".$filename."<br/>";
+*/
 
 			//added by Mike, 20230707
 			if (!file_exists($completeFilename)) {
