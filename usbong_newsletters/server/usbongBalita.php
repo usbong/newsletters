@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250129; from 20250128
+  @date updated: 20250130; from 20250129
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1039,9 +1039,15 @@
 		function myUpdateFunction() {
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
-						
+
+/*			//edited by Mike, 20250130		
 			dMyAudioCurrentTimeDurationInMin=Math.round(dMyAudioCurrentTimeDurationInSec/60);
 			iMyAudioCurrentTimeDurationInSec=Math.round(dMyAudioCurrentTimeDurationInSec%60);
+*/
+			dMyAudioCurrentTimeDurationInMin=Math.floor(dMyAudioCurrentTimeDurationInSec/60);
+			
+			iMyAudioCurrentTimeDurationInSec=Math.floor(dMyAudioCurrentTimeDurationInSec%60);
+
 			sMyAudioCurrentTimeDurationInSec=iMyAudioCurrentTimeDurationInSec;
 			
 			if (iMyAudioCurrentTimeDurationInSec<10) {
@@ -1253,8 +1259,8 @@
 			
 			//alert("TOTAL dMyAudioDurationInSec: "+dMyAudioDurationInSec);
 			
-			dMyAudioDurationInMin=Math.round(dMyAudioDurationInSec/60);
-			iMyAudioDurationInSec=Math.round(dMyAudioDurationInSec%60);
+			dMyAudioDurationInMin=Math.floor(dMyAudioDurationInSec/60);
+			iMyAudioDurationInSec=Math.floor(dMyAudioDurationInSec%60);
 			sMyAudioDurationInSec=iMyAudioDurationInSec;
 			
 			if (iMyAudioDurationInSec<10) {
