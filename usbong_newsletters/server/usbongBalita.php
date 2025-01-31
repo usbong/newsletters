@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250130; from 20250129
+  @date updated: 20250131; from 20250130
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1308,16 +1308,21 @@
 				//added by Mike, 20241021
 				else if (sRadioInput.includes("/R3")) {			
 					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R4";
+				}
+				//edited by Mike, 20250131
+				else if (sRadioInput.includes("/R4")) {			
+					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R1";
 				}					
 				else {
-					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R1";
-				}				
-				
+					//window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R1";
+					window.location.href = ""+sInput+sInput.substring(0,sInput.indexOf("/R"))+"/R2";					
+				}	
+								
 				//window.location.href = ""+sInput+sRadioInput;
 			}
 			else {
 				//alert(">>> "+sInput);
-				window.location.href = ""+sInput+"/R1";
+				window.location.href = ""+sInput+"/R2"; //R1
 				//selectedValue;
 			}
 		}
@@ -1426,7 +1431,7 @@
 
 		  //current start time;
 		  summaryReportsCount.innerHTML = new Date().getTime();
-		}
+	  }
 
 
 	  //added by Mike, 20231207
@@ -1986,15 +1991,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 */
 
-if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
-		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
-		//$sAudioInput="../".$sBaseAssetsDirectory."audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
+		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 	}
 	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
-		//$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
-
-		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-		//$sAudioInput="../".$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
 	}
 	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
 		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
@@ -2020,7 +2021,10 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 			//edited by Mike, 20241010			
 			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
 			
-			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			//$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			
+			$sAudioInput=$updatedDirDueToURL."../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			
 			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}
 	}
@@ -2498,12 +2502,12 @@ if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 			//has announced
 			$sReferenceWebsiteTempText=str_replace($sReferenceWebsiteTempTail,"",$sReferenceWebsiteTempStart);
 			
-			//echo ">>>>>> ".$sReferenceWebsiteTempText."<br><br>";
+			//echo ">>>>>> ".$sReferenceWebsiteTempTail."<br><br>";
 			//echo ">>>>>> TAIL: ".$sReferenceWebsiteTempAddress."<br><br>";
 
 			$sReferenceWebsiteTempTailTwo=substr($sReferenceWebsiteTempTail,strpos($sReferenceWebsiteTempTail,")"));
 
-			//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempAddressTwo."<br><br>";
+			//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempTailTwo."<br><br>";
 
 			$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
 			
