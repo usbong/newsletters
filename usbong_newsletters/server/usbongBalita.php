@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250131; from 20250130
+  @date updated: 20250208; from 20250131
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2491,14 +2491,19 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 	
 	function updateTextInputWithLink($sToken) {	
+		//$sOutput=$sToken;
+	
 		//edited by Mike, 20250128
 		//if (strpos(strtolower($sToken), "[")!==false) {
-		if ((strpos(strtolower($sToken), "[")!==false) and (strpos(strtolower($sToken), "](")!==false)) {			
+		while ((strpos(strtolower($sToken), "[")!==false) and (strpos(strtolower($sToken), "](")!==false)) {			
+		
+			//echo "!!!!!!!";
+				
 			//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
 
 			$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
 			$sReferenceWebsiteTempTail=substr($sToken,strpos($sToken,"]"));
-			
+						
 			//has announced
 			$sReferenceWebsiteTempText=str_replace($sReferenceWebsiteTempTail,"",$sReferenceWebsiteTempStart);
 			
@@ -2510,14 +2515,56 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempTailTwo."<br><br>";
 
 			$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
+
+//			$sReferenceWebsiteAddress=$sReferenceWebsiteTempTail;
 			
-			$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
-			$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
-			$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);
+			//replace only the first occurrence;
+/*			
+			//reference: https://stackoverflow.com/questions/1252693/using-str-replace-so-that-it-only-acts-on-the-first-match;
+			//last accessed: 20250208
+			//answered by: zombat, 20090810T00:46
+			//edited by: You Old Fool, 20161204T05:13
+			
+			//TODO: -update: this
+			
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$newstring = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+			
+			////$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
+			////$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
+			////$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);			
+*/
+			$needle="(";
+			$replace="";
+			$haystack=$sReferenceWebsiteTempTail;
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+
+			$needle=")";
+			$replace="";			
+			$haystack=$sReferenceWebsiteAddress;
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+
+			$needle="]";
+			$replace="";			
+			$haystack=$sReferenceWebsiteAddress;
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+			
 			//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
 			//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
-					
-			$sOutput=$sToken;
+			
+			//edited by Mike, 20250208
+			//$sOutput=$sToken;
 
 			$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";			
 			//$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
@@ -2533,11 +2580,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//echo ">>>>>".$sReferenceWebsiteTempStart;
 
 			//echo $sOutput."<br/><br/>";
-			return $sOutput;
+
+			//return $sOutput;
+
+			$sToken=$sOutput;
 		}	
 		return $sToken;
-	}
-	
+	}	
 	
 	//added by Mike, 20211016
 	//note: reusable function
