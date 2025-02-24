@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250208; from 20250131
+  @date updated: 20250224; from 20250208
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2183,6 +2183,19 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 	
 <?php
+	//added by Mike, 20250224
+	function replaceFirstOccurence($sToken,$needle,$replace) {
+		//$needle=">";
+		//$replace="";			
+		$haystack=$sToken;
+		$pos = strpos($haystack, $needle);
+		if ($pos !== false) {
+			$sToken = substr_replace($haystack, $replace, $pos, strlen($needle));
+		}
+		
+		return $sToken;
+	}
+
 	//added by Mike, 20240516
 	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
 		//echo str_replace("; last accessed: ","",$sLastAccessed);
@@ -2536,6 +2549,14 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			////$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
 			////$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);			
 */
+
+			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteTempTail,"(","");
+			
+			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteAddress,")","");
+
+			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteAddress,"]","");
+
+/*
 			$needle="(";
 			$replace="";
 			$haystack=$sReferenceWebsiteTempTail;
@@ -2559,7 +2580,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			if ($pos !== false) {
 				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
 			}
-			
+*/			
 			//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
 			//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
 			
@@ -2628,7 +2649,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				$sKeyphraseCaseSensitive = substr($sKeyphraseCaseSensitive,0,strlen($sKeyphrase));
 
 				//String Replace COMMAND: case sensitive OFF
-	//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
+	//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";	
 				$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
 
 /*
@@ -3078,8 +3099,11 @@ while ($sToken !== false)
 
 		//echo "HALLO!!!";
 		
-		$sToken = str_replace(">","",$sToken);
-
+		//edited by Mike, 20250224
+		//replace only first instance
+		//$sToken = str_replace(">","",$sToken);
+		replaceFirstOccurence($sToken,">","");
+			
 		//added by Mike, 20250125
 		$sToken=updateTextInputWithLink($sToken);
 
