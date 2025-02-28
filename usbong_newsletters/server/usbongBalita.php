@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250224; from 20250208
+  @date updated: 20250228; from 20250226
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -266,7 +266,7 @@
 							color: rgb(0,0,0); /* black */
 							font-weight: bold;
 						}
-
+						
 						h2
 						{
 							color: rgb(0,0,0); /* black */
@@ -299,7 +299,7 @@
 
 						b
 						{
-							color: rgb(0,0,0); /* from black to white */
+							color: #222222;
 						}
 
 						img.Image-philnitsLogo {
@@ -3099,10 +3099,10 @@ while ($sToken !== false)
 
 		//echo "HALLO!!!";
 		
-		//edited by Mike, 20250224
+		//edited by Mike, 20250226; from 20250224
 		//replace only first instance
 		//$sToken = str_replace(">","",$sToken);
-		replaceFirstOccurence($sToken,">","");
+		$sToken=replaceFirstOccurence($sToken,">","");
 			
 		//added by Mike, 20250125
 		$sToken=updateTextInputWithLink($sToken);
