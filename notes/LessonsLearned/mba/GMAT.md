@@ -15,3 +15,15 @@ Verify first availability, etc.
 1) MISNet Education, Inc.
 
 2) Pearson Professional Centers-Manila, Philippines
+
+
+# Additional Helpful Resource
+
+https://www.amazon.com/dp/B0CLL853TL; last accessed: 20250319
+
+> GMAT Foundations of Math (Manhattan Prep GMAT Prep) Kindle Edition
+
+> by Manhattan Prep (Author) Format: Kindle Edition
+
+> Kindle $0.00 
+
