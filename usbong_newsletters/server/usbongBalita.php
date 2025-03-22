@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250228; from 20250226
+  @date updated: 20250322; from 20250228
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2991,9 +2991,9 @@ $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not incl
 
 $newsTitleWithTranslation = substr($newsTitleOriginal,0,strpos($newsTitleOriginal,">")); //">" not included
 
-$newsTitleMain = substr($newsTitleWithTranslation,0,strpos($newsTitleOriginal,"\n"));
+$newsTitleMain = updateTextInputWithLink(substr($newsTitleWithTranslation,0,strpos($newsTitleOriginal,"\n")));
 
-$newsTitleTranslated = substr($newsTitleWithTranslation,strlen($newsTitleMain));
+$newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,strlen($newsTitleMain)));
 
 $newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
 
