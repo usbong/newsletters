@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250322; from 20250228
+  @date updated: 20250414; from 20250322
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -84,37 +84,16 @@
 							font-size: 100%;
 							color: rgb(30,30,30);
 
-							/* This makes the width of the output page that is displayed on a browser equal with that of the printed page. */
-							/* Legal Size; Landscape*/
-
-							/* //removed by Mike, 20220627 */
-							/*width: 670px;*//*860px;*//* 802px;*//* 670px */
-
-							/* removed by Mike, 20210105 */
-							/* use zoom 67% scale*/
-							/* at present, command not support in Mozilla Firefox */
-/*
-							zoom: 67%;
-							transform: scale(0.67);
-							transform-origin: 0 0;
-*/
-
-							/* //edited by Mike, 20220630
-							   //note: faster to read, without NEED to move head from left to right; */
-							/*
-							width: 520px;
-							*/
-
-							/* //edited by Mike, 20221208
-							width: 50%;
-							*/
 							width: 100%;
 							height: 100%;
 
-/*							padding-left: 5%;*/
-
 							padding: 2%;							
 							padding-top: 0%;
+
+/*	//TODO: -reverify: this							
+							padding-left: 10%;
+							padding-right: 10%;
+*/							
 
 							/* //added by Mike, 20220628
 							   //reference: https://www.w3schools.com/cssref/css3_pr_text-justify.asp;
@@ -127,6 +106,7 @@
 							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
 							/*user-select: none;*/ /* standard syntax */
 							transform: scale(1.0);
+							
 							/*touch-action: none;*/
 							overflow: auto;
                         }
@@ -137,6 +117,9 @@
 							font-family: Arial;
 */
 
+/*  TODO: -verify: this
+							background-color: lightblue;
+*/
 							/*	//removed by Mike, 20220701
 							  font-size: 16pt;
 							*/
@@ -1624,7 +1607,7 @@
 		echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
 	}
 	else {
-		echo "<body id='myBodyId' onload='onLoad()'>";
+		echo "<body id='myBodyId' class='body' onload='onLoad()'>";
 	}
 
 	date_default_timezone_set('Asia/Hong_Kong');
