@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250414; from 20250322
+  @date updated: 20250429; from 20250414
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2102,7 +2102,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 						$sNewsDisplayedName="LINKEDIN";
 					}
 */
-					for ($i=1; $i<=7; $i++) { //<=7; 6
+					for ($i=1; $i<=8; $i++) { //<=7; 6
 					//default
 //					$sNewsSource="asahishimbun";
 
@@ -2131,6 +2131,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					else if ($i==7) {
 						$sNewsSource="ignchina";
 						$sNewsDisplayedName="IGN CHINA";
+					}
+					else if ($i==8) {
+						$sNewsSource="personal";
+						$sNewsDisplayedName="PERSONAL";
 					}
 					
 					if ($i==$iNewsNumberRaw) {
@@ -2254,6 +2258,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sGitHubLinkTemp=str_replace("asahishimbun","asahiShimbun",$sGitHubLinkTemp);
 			//eurogamerspain
 			$sGitHubLinkTemp=str_replace("eurogamerspain","Eurogamerspain",$sGitHubLinkTemp);
+			//added by Mike, 20250429
+			//TODO: -update: this
+//$sGitHubLinkTemp=str_replace("personal","Personal",$sGitHubLinkTemp);
 						
 			$sGitHubLinkTemp="https://github.com/usbong/newsletters/blob/main/notes/".substr($sGitHubLinkTemp,strpos($sGitHubLinkTemp,"LessonsLearned"));
 						
