@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250429; from 20250414
+  @date updated: 20250430; from 20250429
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1712,10 +1712,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //added by Mike, 20230913
 $sInputURL=$_SERVER['REQUEST_URI'];
 $sNewsNumberLocationPart="";
-$iNewsNumberRaw=0;
+//edited by Mike, 20250430
+$iNewsNumberRaw=8;//0; //8
 
 //step#1
 $sNewsNumber=substr($sInputURL, strpos($sInputURL,".php/"));
+
+//echo $sNewsNumber;
 
 /*
 echo "sInputURL: ".$sInputURL."<br/><br/>";
@@ -1744,7 +1747,12 @@ else {
 	//edited by Mike, 20240512
 	$sNewsNumber=substr($sNewsNumber, strpos(strtoupper($sNewsNumber),"N"));
 
-	//echo $sNewsNumber;
+	//echo ">>>>".$sNewsNumber;
+	
+	//http://localhost/usbong_newsletters/server/usbongBalita.php
+	if (strpos($sNewsNumber,".php")!==false) {
+		$sNewsNumber="N8";
+	}
 
 	//step#3
 	//get the question number in integer
@@ -2045,114 +2053,81 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			</td>
 			<td>
 			<?php
-				//added by Mike, 20230920; from 20230919
+				//added by Mike, 20250430; from 20230920
 				//default
-				$sNewsSource="asahishimbun";
+				$sNewsSource="personal";//asahishimbun";//"personal";
 				
 				$sNewsSourceSelected=$sNewsSource;
 				
-				//added by Mike, 20241017
-				$sNewsDisplayedName="ASAHI SHIMBUN";
+				//added by Mike, 202504240; from 20241017
+				$sNewsDisplayedName="PERSONAL";//ASAHI SHIMBUN"; //"PERSONAL";
+				
+				//$iNewsNumberRaw=8;
 				
 				//echo ">>>".$iNewsNumberRaw;
 //				echo "DITO"; //note previously inside select tag;
 			?>
-
 			<select class="newsSelect" id="newsSelectId" onchange="showNews()">
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
-//				for ($i=1; $i<=7; $i++) {
-				//edited by Mike, 20241017; from 20240418
-/*				
-				for ($i=1; $i<=8; $i++) { //<=7; 6
-					//default
-//					$sNewsSource="asahishimbun";
 
-					if ($i==2) {
-						$sNewsSource="eurogamerspain";
-						$sNewsDisplayedName="EUROGAMER.ES";
-					}
-					//added by Mike, 20230927
-					else if ($i==3) {
-						$sNewsSource="elpais";
-						$sNewsDisplayedName="EL PAíS";
-					}
-					else if ($i==4) {
-						$sNewsSource="ignjapan";
-						$sNewsDisplayedName="IGN JAPAN";
-					}
-					//added by Mike, 20231003
-					else if ($i==5) {
-						$sNewsSource="famitsu";
-						$sNewsDisplayedName="FAMITSU";
-					}
-					//added by Mike, 20231012
-					else if ($i==6) {
-						$sNewsSource="zaobao";
-						$sNewsDisplayedName="ZAOBAO"; //早报
-					}
-					//added by Mike, 20231201
-					else if ($i==7) {
-						$sNewsSource="gamedeveloper";
-						$sNewsDisplayedName="GAME DEVELOPER";
-					}
-					//added by Mike, 20240418
-					else if ($i==8) {
-						$sNewsSource="linkedin";
-						$sNewsDisplayedName="LINKEDIN";
-					}
-*/
 					for ($i=1; $i<=8; $i++) { //<=7; 6
-					//default
-//					$sNewsSource="asahishimbun";
+						//default
+	//					$sNewsSource="asahishimbun";
 
-					if ($i==2) {
-						$sNewsSource="eurogamerspain";
-						$sNewsDisplayedName="EUROGAMER SPAIN";
-					}
-					else if ($i==3) {
-						$sNewsSource="ignjapan";
-						$sNewsDisplayedName="IGN JAPAN";
-					}
-					//added by Mike, 20231003
-					else if ($i==4) {
-						$sNewsSource="famitsu";
-						$sNewsDisplayedName="FAMITSU";
-					}
-					//added by Mike, 20231201
-					else if ($i==5) {
-						$sNewsSource="gamedeveloper";
-						$sNewsDisplayedName="GAME DEVELOPER";
-					}
-					else if ($i==6) {
-						$sNewsSource="zaobao";
-						$sNewsDisplayedName="ZAOBAO";
-					}
-					else if ($i==7) {
-						$sNewsSource="ignchina";
-						$sNewsDisplayedName="IGN CHINA";
-					}
-					else if ($i==8) {
-						$sNewsSource="personal";
-						$sNewsDisplayedName="PERSONAL";
-					}
-					
-					if ($i==$iNewsNumberRaw) {
-						//edited by Mike, 20241017
-						//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
-						echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
+						//edited by MIke, 20250430
+						if ($i==1) {
+							$sNewsSource="asahishimbun";
+							$sNewsDisplayedName="ASAHI SHIMBUN";
+						}
+						else if ($i==2) {
+							$sNewsSource="eurogamerspain";
+							$sNewsDisplayedName="EUROGAMER SPAIN";
+						}
+						else if ($i==3) {
+							$sNewsSource="ignjapan";
+							$sNewsDisplayedName="IGN JAPAN";
+						}
+						//added by Mike, 20231003
+						else if ($i==4) {
+							$sNewsSource="famitsu";
+							$sNewsDisplayedName="FAMITSU";
+						}
+						//added by Mike, 20231201
+						else if ($i==5) {
+							$sNewsSource="gamedeveloper";
+							$sNewsDisplayedName="GAME DEVELOPER";
+						}
+						else if ($i==6) {
+							$sNewsSource="zaobao";
+							$sNewsDisplayedName="ZAOBAO";
+						}
+						else if ($i==7) {
+							$sNewsSource="ignchina";
+							$sNewsDisplayedName="IGN CHINA";
+						}
+						else if ($i==8) {
+							$sNewsSource="personal";
+							$sNewsDisplayedName="PERSONAL";
+						}
+						
+						if ($i==$iNewsNumberRaw) {							
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+							
+							echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
 
-						//added by Mike, 20230920
-						//note using string, instead of int
-						$sNewsSourceSelected=$sNewsSource;
-					}
-					else {
-						//edited by Mike, 20241017
-						//echo "<option value='N".$i."'>".$sNewsSource."</option>";
+							//added by Mike, 20230920
+							//note using string, instead of int
+							$sNewsSourceSelected=$sNewsSource;
+						}
+						else {
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."'>".$sNewsSource."</option>";
 
-						echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+							echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+						}
 					}
-				}
 			?>
 <!--
 			  <option value="N1">asahishimbun</option>
