@@ -8,7 +8,7 @@
 @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250430; from 20250429
+  @date updated: 20250501; from 20250430
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2844,9 +2844,57 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			echo $completeFilename."<br/>";
 			echo ">>>".$filename."<br/>";
 */
+			
+			$iLanguageCount=0;
+			$iLanguageCountMax=5;
+			$sLanguage="";
+			$completeFilenameOrig=$completeFilename;
+			
+			while ($iLanguageCount<$iLanguageCountMax) {
+				$completeFilename=$completeFilenameOrig;
+				
+				switch ($iLanguageCount) {
+					case 0: //en
+						$sLanguage="";
+						break;
+					case 1: //jp
+						$sLanguage="jp";
+						break;
+					case 2: //es
+						$sLanguage="es";
+						break;
+					case 3: //ch
+						$sLanguage="ch";
+						break;
+					case 4: //ph
+						$sLanguage="ph";
+						break;
+				}
+				
+				//echo "sLanguage: ".$sLanguage."<br/>";
+					
+				$completeFilename=$completeFilename.$sLanguage.".md";
+
+				//echo "completeFilename: ".$completeFilename."<br/>";
+				
+				if (file_exists($completeFilename)) {				
+					//$completeFilename=$completeFilename.$iLanguageCount.".md";
+					
+					//echo "EXISTS!!!";
+					//echo "completeFilename: ".$completeFilename."<br/>";
+
+					break;
+				}
+				$iLanguageCount++;
+			}
+
+			if ($iLanguageCount>=$iLanguageCountMax) {
+				//echo "MAX!!!";
+				$completeFilename=$completeFilenameOrig;
+			}
 
 			//added by Mike, 20230707
-			if (!file_exists($completeFilename)) {
+			if (!file_exists($completeFilename)) {				
 				$completeFilename=$completeFilename.".md";
 			}
 
@@ -2879,6 +2927,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 		}
 
+//echo ">>>>>>>".$completeFilename;
 
 	//added by Mike, 20231228
 	if (!file_exists($completeFilename)) {
