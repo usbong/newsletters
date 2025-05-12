@@ -5,10 +5,10 @@
   http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIcS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
 
-@company: USBONG
+  @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250501; from 20250430
+  @date updated: 20250512; from 20250502
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -900,6 +900,14 @@
 						{
 						  width: 100%;
 						  height: 512px; /*100%*/
+						  display: block;
+						  margin: 0 auto;
+						}
+						
+						iFrame.youtubeIFrameMini
+						{
+						  width: 24%;
+						  height: 24%;
 						  display: block;
 						  margin: 0 auto;
 						}
@@ -2286,6 +2294,26 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
 	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL,$completeFilename) {
 		
+		//echo ">>>>".$completeFilename;
+		
+		//added by Mike, 20250512
+		//-----
+		$sLanguage="EN";//"English"; //default
+		
+		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
+			$sLanguage="CN";//"Chinese Mandarin";
+		}
+		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
+			$sLanguage="JP";//"Japanese";
+		}
+		else if ((strpos($completeFilename, "es.md")!==false) or (strpos($completeFilename, "eurogamerspain")!==false)){
+			$sLanguage="ES";//"Spanish";
+		}
+		else if (strpos($completeFilename, "ph.md")!==false) {
+			$sLanguage="PH";//"Filipino";
+		}
+		//-----
+		
 		$sToken = strtok($cellValue, "\n");
 
 		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL,$completeFilename);
@@ -2337,9 +2365,23 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		//$sGitHubLink="hallo";		
 		//echo $sGitHubLink."hallo";
 		
+		//edited by Mike, 20250512
+/*
 		$sOutput="<h3>
 		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink."</h3><hr>";
+*/
+/*			//TODO: -reverify: this
+			$sReferenceWebsiteTemp="https://www.youtube.com/watch?v=ufLugXanDD0";
 
+			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
+			
+			$sOutput="<iframe class='youtubeIFrameMini' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";	
+*/
+		$sOutput="";
+			
+		$sOutput=$sOutput."<h3>
+		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+		
 		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 
 		return $sOutput;
@@ -2678,50 +2720,53 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	$sKeyphrase="";
 	$bHasFoundKeyphrase=false;
 
+	///var/www/html/usbong_newsletters/server/notes/LessonsLearned/asahiShimbun/202304
 
-		///var/www/html/usbong_newsletters/server/notes/LessonsLearned/asahiShimbun/202304
+	//edited by Mike, 20230919
+	//$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
+	//$sInputDirectory="/server/notes/LessonsLearned/eurogamerspain/";
+	$sInputDirectory="/server/notes/LessonsLearned/";
 
-		//edited by Mike, 20230919
-		//$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
-		//$sInputDirectory="/server/notes/LessonsLearned/eurogamerspain/";
-		$sInputDirectory="/server/notes/LessonsLearned/";
-
-		//$sYearDirectory=$sInputDirectory."2023/";
-		//$filename="202305/asahiShimbun20230504.md";
+	//$sYearDirectory=$sInputDirectory."2023/";
+	//$filename="202305/asahiShimbun20230504.md";
 //		$filename="202305/asahiShimbun20230508.md";
-		//edited by Mike, 20230515
+	//edited by Mike, 20230515
 //		$filename="202305/asahiShimbun20230511.md";
 //		$filename="";
-		//note: "99";
+	//note: "99";
 //		$filename="202305/asahiShimbun20230599.md";
-		$filename="202305/blank.md";
+	$filename="202305/blank.md";
 
 //		echo ">>>".$sYearDirectory."<br/>";
 
-		//added by Mike, 20231201; from 20230526
-		//set to max 5; to iterate from highest in count
-		$iReportForTheDayCountMax=5;
-		$iReportForTheDayCount=$iReportForTheDayCountMax; //0
+	//added by Mike, 20231201; from 20230526
+	//set to max 5; to iterate from highest in count
+	//edited by Mike, 20250512
+	//$iReportForTheDayCountMax=5;
+	$iReportForTheDayCountMax=7; //8;
+	
+	$iReportForTheDayCount=$iReportForTheDayCountMax; //0
 
-	    //edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/".$filename);
+	//edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/".$filename);
 
-		//echo $sNewsSourceSelected;
+	//echo $sNewsSourceSelected;
 
-		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/".$filename);
+	$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/".$filename);
 
 
-		//echo $completeFilename;
+	//echo $completeFilename;
 
-		$iDayCount=0;
+	$iDayCount=0;
 
-		//added by Mike, 20230527
-		$iTotalDayCountWithMultiReportsForTheDay=0;
+	//added by Mike, 20230527
+	$iTotalDayCountWithMultiReportsForTheDay=0;
 
 
 	//added by Mike, 20231206
 	$prevCompleteFilename="";
 
-	$iNewsRankCountMax=5;
+	//edited by Mike, 20250512
+	$iNewsRankCountMax=$iReportForTheDayCountMax;//5;
 
 	//TODO: -reverify: this when news source changed;
 	$iHitSameNewsCount=0;
@@ -2783,7 +2828,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				$currYearMonthBasedOnDateTodayTemp=((int)$currYearMonthBasedOnDateTodayTemp-1);
 
 				//echo ">>>>".$currYearMonthBasedOnDateTodayTemp."<br/>";
-				
 				
 				$currMonthOnlyBasedOnDateTodayTemp=substr($currYearMonthBasedOnDateTodayTemp,4);
 				
@@ -2863,8 +2907,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					case 2: //es
 						$sLanguage="es";
 						break;
-					case 3: //ch
-						$sLanguage="ch";
+					case 3: //cn
+						$sLanguage="cn";
 						break;
 					case 4: //ph
 						$sLanguage="ph";
@@ -2882,8 +2926,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					
 					//echo "EXISTS!!!";
 					//echo "completeFilename: ".$completeFilename."<br/>";
-
+					
+					//edited by Mike, 20250502
 					break;
+					//continue;
 				}
 				$iLanguageCount++;
 			}
