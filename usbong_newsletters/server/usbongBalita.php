@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250512; from 20250502
+  @date updated: 20250513; from 20250512
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2287,16 +2287,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		return " ".$sGitHubLink;
 	}
 
-	//added by Mike, 20231207
-	//return sOutput
-	//edited by Mike, 20240516
-	//function processWebsiteReferenceForHeaderTitle($cellValue) {
-	//function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
-	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL,$completeFilename) {
-		
-		//echo ">>>>".$completeFilename;
-		
-		//added by Mike, 20250512
+	//added by Mike, 20250513
+	function processLanguageTagToDisplay($completeFilename) {
 		//-----
 		$sLanguage="EN";//"English"; //default
 		
@@ -2313,6 +2305,39 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sLanguage="PH";//"Filipino";
 		}
 		//-----
+		
+		return $sLanguage;
+	}
+
+	//added by Mike, 20231207
+	//return sOutput
+	//edited by Mike, 20240516
+	//function processWebsiteReferenceForHeaderTitle($cellValue) {
+	//function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
+	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL,$completeFilename) {
+		
+		//echo ">>>>".$completeFilename;
+		
+		//edited by Mike, 20250513; from 20250512
+		$sLanguage=processLanguageTagToDisplay($completeFilename);
+/*
+		//-----
+		$sLanguage="EN";//"English"; //default
+		
+		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
+			$sLanguage="CN";//"Chinese Mandarin";
+		}
+		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
+			$sLanguage="JP";//"Japanese";
+		}
+		else if ((strpos($completeFilename, "es.md")!==false) or (strpos($completeFilename, "eurogamerspain")!==false)){
+			$sLanguage="ES";//"Spanish";
+		}
+		else if (strpos($completeFilename, "ph.md")!==false) {
+			$sLanguage="PH";//"Filipino";
+		}
+		//-----
+*/
 		
 		$sToken = strtok($cellValue, "\n");
 
@@ -2445,7 +2470,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		
 			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
 
-		
 			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
 			
 			//edited by Mike, 20240511
@@ -2483,6 +2507,40 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		
 			echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
 		}
+		//TODO: -reverify: this		
+		//added by Mike, 20250513
+		else if (strpos($sReferenceWebsiteTemp,"bsky.app")!==false) {
+			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
+			echo $sReferenceWebsiteAccessedDate."<br/>";
+			
+			$sReferenceWebsiteBlueSky=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
+					
+			//echo "Reference: ".$sReferenceWebsiteBlueSky."<br/>";
+			
+			$sDataBlueSkyUri=substr($sReferenceWebsiteBlueSky,strpos($sReferenceWebsiteBlueSky,"/did:"));
+			
+			//echo ">>".$sDataBlueSkyUri."<br/>";
+
+			$sDataBlueSkyUri=str_replace("post","app.bsky.feed.post",$sDataBlueSkyUri);
+			
+			//echo ">>>>>".$sDataBlueSkyUri."<br/>";
+			
+			$sReferenceWebsiteBlueSky=substr($sReferenceWebsiteBlueSky,strpos($sReferenceWebsiteBlueSky,"status/")+strlen("status/"));
+			
+			//echo "href: ".$sReferenceWebsiteBlueSky."<br/>";
+
+			echo "<blockquote class='bluesky-embed' data-bluesky-uri='at:/".$sDataBlueSkyUri."'' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https:/".$sReferenceWebsiteBlueSky."'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
+
+			//echo "<blockquote class='bluesky-embed' data-bluesky-uri='at://did:plc:rcyyjldt7topi6fz3dxnsaxx/app.bsky.feed.post/3lotio37mwz2b' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
+			
+			//Reference: 
+			//1) https://embed.bsky.app/; last accessed: 20250513
+			//2) https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b; last accessed: 20250513
+			//<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:rcyyjldt7topi6fz3dxnsaxx/app.bsky.feed.post/3lotio37mwz2b" data-bluesky-cid="bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q" data-bluesky-embed-color-mode="system"><p lang="">You encounter this enigmatic man early in #FF15. Ardyn proves to be so much more.Plus, his outfit is incredible. Just look at it. A true work of art from FINAL FANTASY XV character designer, Roberto Ferrari! #MTGxFINALFANTASY<br><br><a href="https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b?ref_src=embed">[image or embed]</a></p>&mdash; Magic: The Gathering (<a href="https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx?ref_src=embed">@magic.wizards.com</a>) <a href="https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b?ref_src=embed">May 11, 2025 at 1:46 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+		
+			//echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+		}		
 		else {
 			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
@@ -3141,6 +3199,10 @@ while ($sToken !== false)
 		echo $sIncomingDraftText;
 		
 		echo $sGitHubLink;
+		
+		//added by Mike, 20250513
+		$sLanguage=processLanguageTagToDisplay($completeFilename);
+		echo " ".$sLanguage;
 
 		echo "</h3>";
 		echo "</span>";
