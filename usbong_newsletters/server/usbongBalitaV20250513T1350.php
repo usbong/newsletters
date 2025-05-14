@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250514; from 20250513
+  @date updated: 20250513; from 20250512
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -775,9 +775,6 @@
 							margin-top: 0.5%;
 							margin-bottom: 1%;
 						}
-						
-						button.languageButton {
-						}
 
 						span.spanFileNotFound, span.spanKeyphraseNotFound
 						{
@@ -1029,9 +1026,6 @@
 		//const fFramesPerSecondDefault=33.33;
 		var fFramesPerSecond=fFramesPerSecondDefault;
 		var iCurrentIntervalId=-1;		
-		
-		//added by Mike, 20250514
-		bHasPressedLanguageChange=false;
 
 		function myUpdateFunction() {
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
@@ -1434,15 +1428,6 @@
 	  //added by Mike, 20231207
 	  //toggles in displayed full text;
 	  function toggleMoreEnd(sParamId) {
-		  //language change button is activated first before toggleMoreEnd function
-/*		  
-		  alert (bHasPressedLanguageChange);
-		  
-		  if (bHasPressedLanguageChange) {
-			  bHasPressedLanguageChange=false;
-			  return;
-		  }
-*/
 		  
 		  //alert("toggleMoreEnd");
 
@@ -1611,12 +1596,7 @@
 				  
 		  //}
 		}
-		
-	  //added by Mike, 20250514
-	  function myLanguageChangeFunction(sLanguage) {
-		  //alert(sLanguage);
-		  //bHasPressedLanguageChange=true;
-	  }
+
 
 	  </script>	  
 
@@ -2326,66 +2306,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		}
 		//-----
 		
-		//added by Mike, 20250514
-		//check if other languages exist
-		$iLanguageCountMax=5; //TODO: -update: this
-		$bIsLanguageBlank=false;
-		
-		for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
-
-			//echo ">>>".$completeFilename."<br/>";
-			$sLanguageInCompleteFilename=substr($completeFilename,strpos($completeFilename,".md")-2,2);
-			
-			//echo "!!!!!".$sLanguageInCompleteFilename."<br/>";
-			
-			if (is_int(intval($sLanguageInCompleteFilename))) {
-				$bIsLanguageBlank=true;
-				//echo "BLANK!!!<br/>";
-			}
-		
-			//echo "iLanguageCount: ".$iLanguageCount."<br/>";
-			
-			switch ($iLanguageCount) {
-					case 0: //en
-						$sLanguageTemp="";
-						break;
-					case 1: //jp
-						$sLanguageTemp="jp";
-						break;
-					case 2: //es
-						$sLanguageTemp="es";
-						break;
-					case 3: //cn
-						$sLanguageTemp="cn";
-						break;
-					case 4: //ph
-						$sLanguageTemp="ph";
-						break;
-			}			
-						
-			if ($bIsLanguageBlank) {
-				$completeFilenameTemp = str_replace(".md",$sLanguageTemp.".md",$completeFilename);
-				
-				$bIsLanguageBlank=false;
-			}
-			else {
-				//echo "DITO!".$sLanguageInCompleteFilename."<br/";
-				
-				$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,strtoupper($sLanguageTemp),$completeFilenameTemp);
-			}
-
-			//echo ">>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
-			
-			//TODO: -update: this; read each file and put into memory,
-			//so that the text can be displayed rapidly;
-			if (file_exists($completeFilenameTemp)) {	
-				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
-
-				$sLanguage=$sLanguage.strtoupper($sLanguageTemp).";";
-			}
-		}
-		
-		return processDisplayedLanguages($sLanguage);
+		return $sLanguage;
 	}
 
 	//added by Mike, 20231207
@@ -2482,65 +2403,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sOutput="<iframe class='youtubeIFrameMini' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";	
 */
 		$sOutput="";
-		
-		//edited by Mike, 20250514
-/*		
-		$sOutput=$sOutput."<h3>
-		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
-*/
-
-/*
-		$languageTokensArray=explode(";",$sLanguage);
-		$iNumOfLanguageTokens=count($languageTokensArray)-1;
-		
-		//echo ">>>iNumOfLanguageTokens: ".$iNumOfLanguageTokens."<br/>";
-		
-		if ($iNumOfLanguageTokens>1) {
-			//echo ">>>".$languageTokensArray[3]."<br/>";
-			$sLanguage="";
-			for ($iCount=0; $iCount<$iNumOfLanguageTokens; $iCount++) {
-				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
-			}
 			
-			$sOutput=$sOutput."<h3>
-			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
-		}
-		else {
-			$sLanguage=str_replace(";","",$sLanguage);
-			
-			$sOutput=$sOutput."<h3>
-			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
-		}
-*/		
-		$sLanguage=processDisplayedLanguages($sLanguage);
-
 		$sOutput=$sOutput."<h3>
 		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
 		
 		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 
 		return $sOutput;
-	}
-	
-	//added by Mike, 20250514
-	function processDisplayedLanguages($sLanguage) {
-		$languageTokensArray=explode(";",$sLanguage);
-		$iNumOfLanguageTokens=count($languageTokensArray)-1;
-		
-		//echo ">>>iNumOfLanguageTokens: ".$iNumOfLanguageTokens."<br/>";
-		
-		if ($iNumOfLanguageTokens>1) {
-			//echo ">>>".$languageTokensArray[3]."<br/>";
-			$sLanguage="";
-			for ($iCount=0; $iCount<$iNumOfLanguageTokens; $iCount++) {
-				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
-			}
-		}
-		else {
-			$sLanguage=str_replace(";","",$sLanguage);
-		}		
-		
-		return $sLanguage;
 	}
 
 	//added by Mike, 20230801
@@ -3114,11 +2983,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					//$completeFilename=$completeFilename.$iLanguageCount.".md";
 					
 					//echo "EXISTS!!!";
-					//echo "!!!completeFilename: ".$completeFilename."<br/>";
-					
-					//added by Mike, 20250514
-					//check other languages if available
-					
+					//echo "completeFilename: ".$completeFilename."<br/>";
 					
 					//edited by Mike, 20250502
 					break;
