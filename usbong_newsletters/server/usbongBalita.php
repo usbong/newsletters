@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250514; from 20250513
+  @date updated: 20250515; from 20250514
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -433,9 +433,8 @@
 */
 						div.textDoubleSpacedDiv {
 							line-height: 2;
-							font-size: 24pt; /*30pt*80%;*/							
+							font-size: 24pt; /*30pt*80%;*/	
 						}
-
 
 						table.imageTable
 						{
@@ -446,6 +445,14 @@
 						{
 							width: 100%;/*80%;*/
 							height: auto;
+						}
+
+						table.bodyTableHidden
+						{
+							width: 100%;/*80%;*/
+							height: auto;
+							
+							display: none;
 						}
 
 	                    td.mainTextTd
@@ -1228,6 +1235,7 @@
 			//updateNewsNameIfHasIncomingDraft();
 		}
 		
+		//TODO: -reverify: this if still necessary
 		function updateNewsNameIfHasIncomingDraft() {
 			var sSummaryReportsHeader = document.getElementById("summaryReportsHeaderId"+"0").innerHTML; 
 
@@ -1454,6 +1462,8 @@
 			  return;
 		  }
 		  
+		  //alert(sParamId);
+		  
 		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
 		  
 		  //added by Mike, 20231221
@@ -1612,10 +1622,46 @@
 		  //}
 		}
 		
-	  //added by Mike, 20250514
+	  //added by Mike, 20250515; from 20250514
+	  //TODO: -update: this
 	  function myLanguageChangeFunction(sLanguage) {
-		  //alert(sLanguage);
+		  alert(sLanguage);
 		  //bHasPressedLanguageChange=true;
+		  
+		  if (sLanguage.includes("EN")) {
+			  sLanguage="";
+		  }
+		  
+/*		  
+		  var bodyTable = document.getElementById("bodyTableId");	
+		  bodyTable.style.display = "none";		  
+*/		  
+		  //set to none all the available languages
+		  var bodyTable = document.getElementById("bodyTableId");	
+		  bodyTable.style.display = "none";		  
+
+		  var bodyTableJP = document.getElementById("bodyTableIdJP");
+		  if (bodyTableJP!==null) {
+			bodyTableJP.style.display = "none";		  
+		  }
+
+		  var bodyTableES = document.getElementById("bodyTableIdES");
+		  if (bodyTableES!==null) {
+			bodyTableES.style.display = "none";		  
+		  }
+
+		  var bodyTableCN = document.getElementById("bodyTableIdCN");
+		  if (bodyTableCN!==null) {
+			bodyTableCN.style.display = "none";		  
+		  }
+
+		  var bodyTablePH = document.getElementById("bodyTableIdPH");
+		  if (bodyTablePH!==null) {
+			bodyTablePH.style.display = "none";		  
+		  }
+		  
+		  var bodyTable = document.getElementById("bodyTableId"+sLanguage);	
+		  bodyTable.style.display = "inline";		  
 	  }
 
 	  </script>	  
@@ -2324,8 +2370,42 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		else if (strpos($completeFilename, "ph.md")!==false) {
 			$sLanguage="PH";//"Filipino";
 		}
-		//-----
 		
+		//-----
+		//edited by Mike, 20250515
+		$languageCompleteFilenameArray=processCheckLanguageAvailability($completeFilename);
+		
+		//$iValueCount=0;
+		
+		//added by Mike, 20250515
+		$sLanguage="";
+
+		foreach($languageCompleteFilenameArray as $value) {
+			if (file_exists($value[0])) {	
+				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
+/*
+				echo ">>>>>value[0]: ".$value[0]."<br/>";
+				echo ">>>>>value[1]: ".$value[1]."<br/>";
+*/
+				if ($value[1]==="") {
+					$value[1]="en";
+					$sLanguage="";
+				}
+	
+				$sLanguage=$sLanguage.strtoupper($value[1]).";";
+
+				//added by Mike, 20250515
+				//processReadFile($completeFilenameTemp);
+			}
+			
+			//$iValueCount++;
+		}
+		
+		//$sLanguage = str_replace("CN","EN",$sLanguage);
+		
+		//echo "OUTPUT: ".$sLanguage."<br/>";
+		
+/*				
 		//added by Mike, 20250514
 		//check if other languages exist
 		$iLanguageCountMax=5; //TODO: -update: this
@@ -2382,10 +2462,119 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
 
 				$sLanguage=$sLanguage.strtoupper($sLanguageTemp).";";
+				
+				//added by Mike, 20250515
+				processReadFile($completeFilenameTemp);
+			}
+		}
+*/		
+		return processDisplayedLanguages($sLanguage);
+	}
+
+	//added by Mike, 20250515
+	function processCheckLanguageAvailability($completeFilename) {
+		//added by Mike, 20250514
+		//check if other languages exist
+		$iLanguageCountMax=5; //TODO: -update: this
+		$bIsLanguageBlank=false;
+		
+		$languageCompleteFilenameArray = array();
+		$completeFilenameTemp="";
+		$sLanguageTemp="";
+		
+		for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
+
+			//echo ">>>".$completeFilename."<br/>";
+			$sLanguageInCompleteFilename=substr($completeFilename,strpos($completeFilename,".md")-2,2);
+			
+			//echo "!!!!!".$sLanguageInCompleteFilename."<br/>";
+			
+			if (is_numeric($sLanguageInCompleteFilename)==1) {
+				$bIsLanguageBlank=true;
+				//echo "BLANK!!!<br/>";
+			}
+/*
+			else {
+				echo "RESET!!!";
+				//reset back to default; "...md"
+				$completeFilename=str_replace($sLanguageInCompleteFilename,"",$completeFilename);
+			}
+*/		
+			//echo "iLanguageCount: ".$iLanguageCount."<br/>";
+			
+			switch ($iLanguageCount) {
+					case 0: //en
+						$sLanguageTemp="";
+						break;
+					case 1: //jp
+						$sLanguageTemp="jp";
+						break;
+					case 2: //es
+						$sLanguageTemp="es";
+						break;
+					case 3: //cn
+						$sLanguageTemp="cn";
+						break;
+					case 4: //ph
+						$sLanguageTemp="ph";
+						break;
+			}		
+
+			//echo "HALLO: ".$sLanguageTemp."<br/>";			
+						
+			if ($bIsLanguageBlank) {
+				$completeFilenameTemp = str_replace(".md",$sLanguageTemp.".md",$completeFilename);
+				
+				$bIsLanguageBlank=false;
+			}
+			else {
+				//echo "DITO!".$sLanguageInCompleteFilename."<br/";
+				//echo "sLanguageTemp: ".$sLanguageTemp."<br/";
+/*				
+				if ($iLanguageCount==0) {
+					echo "HEY!".$sLanguageInCompleteFilename."<br/>";
+					echo "YOYO!".$completeFilename."<br/>";
+					echo "Language TEMP!".$sLanguageTemp."<br/>";
+				}
+*/
+				$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,$sLanguageTemp,$completeFilename);
+			}
+
+			//echo ">>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
+			
+			//TODO: -update: this; read each file and put into memory,
+			//so that the text can be displayed rapidly;
+			if (file_exists($completeFilenameTemp)) {	
+				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
+				
+				//echo ">>>>>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
+
+				//$sLanguage=$sLanguage.strtoupper($sLanguageTemp).";";
+				
+				//added by Mike, 20250515
+				//processReadFile($completeFilenameTemp);
+
+				array_push($languageCompleteFilenameArray,array($completeFilenameTemp,$sLanguageTemp));
 			}
 		}
 		
-		return processDisplayedLanguages($sLanguage);
+		return $languageCompleteFilenameArray; //$sLanguage;
+	}
+
+	//added by Mike, 20250515
+	function processReadFile($completeFilename) {
+		if (!file_exists($completeFilename)) {
+		  return null;
+		}
+
+		if (($handle = fopen($completeFilename, "r")) !== FALSE) {
+		  while (!feof($handle)) {
+			$data = fread($handle,filesize($completeFilename));
+			$cellValue = $data;
+			
+			//echo ">>>".$cellValue."<br/>";
+		  }
+		}
 	}
 
 	//added by Mike, 20231207
@@ -2512,6 +2701,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
 		}
 */		
+		//echo "DITO!!!!";
+
 		$sLanguage=processDisplayedLanguages($sLanguage);
 
 		$sOutput=$sOutput."<h3>
@@ -3167,11 +3358,33 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		}
 
 //echo ">>>>>>>".$completeFilename;
+	
+	//added by Mike, 20250515
+	//echo ">>>>>>>>>>>>>>>>>>>>>".$iLanguageCountMax."<br/>";
+	
+	$languageCompleteFilenameArray=processCheckLanguageAvailability($completeFilename);
+	
+	$languageCompleteFilenameArrayCount=0;
+		
+	foreach($languageCompleteFilenameArray as $value) {
+		$completeFilename=$value[0];
+		$languageCompleteFilenameArrayCount++;
+		
+		//echo "!!!!".$completeFilenameOrig."<br/>";
+		
+		$sLanguageValue=str_replace($completeFilenameOrig,"",$value[0]);
+		
+		$sLanguageValue=str_replace(".md","",$sLanguageValue);
+		$sLanguageValue=strtoupper($sLanguageValue);
+
+		//echo ">>>>>>".$sLanguageValue."<br/>";
 
 	//added by Mike, 20231228
 	if (!file_exists($completeFilename)) {
 		break;
 	}
+	
+	//echo "Complete Filename: ".$completeFilename."<br/>";
 
 	if (($handle = fopen($completeFilename, "r")) !== FALSE) {
 
@@ -3227,14 +3440,22 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//note: .md format
 	//edited by Mike, 20230504
 	//echo ">>>".$cellValue."<br/>";
-
-		echo "<table class='bodyTable'><tr><td>";
-		
+	//edited by Mike, 20250515
+	//echo ">>>>>>".$sLanguageValue[0]."<br/>";
+	if ($languageCompleteFilenameArrayCount==1) { //>2){ 
+		echo "<table id='bodyTableId' class='bodyTable'><tr><td>";
+	}
+	else {
+		echo "<table id='bodyTableId".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
+	}
+	
 		echo "<div id='mainTextDivId".$iNewsRankCount."' class='mainTextDiv'>";
 		
 		echo "<div class='textDoubleSpacedDiv'>";
 
 //$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax);
+
+//echo "completeFilename: ".$completeFilename."<br/>";
 
 $sNewsTitleWebsiteReference = processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL, $completeFilename);
 
@@ -3249,20 +3470,26 @@ $newsTitleMain = updateTextInputWithLink(substr($newsTitleWithTranslation,0,strp
 $newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,strlen($newsTitleMain)));
 
 $newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+/*
+if ($languageCompleteFilenameArrayCount==1) {
+	echo "DITO!!!!";
+*/	
+
+//$languageCompleteFilenameArrayCountIndexZero=$languageCompleteFilenameArrayCount-1;
 
 ?>
 
-<span id="summaryReportsHeaderId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')"><?php echo "$newsTitleOutput";?></span>
-
+<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php echo "$newsTitleOutput";?></span>
 
 <!-- added by Mike, 20231215 -->
-<span id="summaryReportsCountId<?php echo $iNewsRankCount;?>" class="spanSummaryReportsCount"></span>
+<span id="summaryReportsCountId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="spanSummaryReportsCount"></span>
 
-
-<span id="summaryReportsId<?php echo $iNewsRankCount;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
-
+<span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
 
 <?php
+/*
+} //added by Mike, 20250515
+*/
 
 //added by Mike, 20240720
 $bHasAdditionalReference=false;
@@ -3608,6 +3835,9 @@ while ($sToken !== false)
 	//echo ">>>".$iRowCount;
 }
 
+//added by Mike, 20250515
+}
+
 	//edited by Mike, 20240720; from 20231222
 	//add only if has additional reference
 	//echo "<br/>";
@@ -3633,6 +3863,10 @@ while ($sToken !== false)
 	</tr>
 	</table>
 <?php
+	//added by Mike, 20250515
+	//} //if ($languageCompleteFilenameArrayCount>1) {
+
+
 	//added by Mike, 20231206
 	//multiple news per source; max 5
 	}
