@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250515; from 20250514
+  @date updated: 20250516; from 20250515
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -100,8 +100,11 @@
 							   //last accessed: 20220628
 							*/
 
+/*removed by Mike, 20250516
 							text-align: justify;
 							text-justify: inter-word;
+*/							
+							
 							/*-webkit-user-select: none;*/ /* Safari */
 							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
 							/*user-select: none;*/ /* standard syntax */
@@ -113,22 +116,10 @@
 
 	                    div.mainTextDiv
                         {
- /*
-							font-family: Arial;
-*/
-
-/*  TODO: -verify: this
-							background-color: lightblue;
-*/
-							/*	//removed by Mike, 20220701
-							  font-size: 16pt;
-							*/
-
-							color: rgb(30,30,30); /*rgb(120,63,4);*/
-
-							/*font-weight: bold;*/
+ 							color: rgb(30,30,30);
 
 							width: 100%;
+							height: auto;
 
 							padding-left: 5%;
 							padding-right: 5%;
@@ -137,10 +128,6 @@
 
 							text-align: justify;
 							text-justify: inter-word;
-							
-							/*
-								background-color: #eeeeee;
-							*/
                         }
 
 						div.newsListAtRightPanelDiv
@@ -443,13 +430,13 @@
 
 						table.bodyTable
 						{
-							width: 100%;/*80%;*/
+							width: 100%;
 							height: auto;
 						}
 
 						table.bodyTableHidden
 						{
-							width: 100%;/*80%;*/
+							width: 100%;
 							height: auto;
 							
 							display: none;
@@ -889,8 +876,6 @@
 
 						span.moreTextSpanIIISummaryReportsHeader
 						{
-							/*color: green;*/
-							/*border: 3px solid #ab9c7d;	*/
 							line-height: 2;
 							font-size: 24pt;
 
@@ -1234,7 +1219,8 @@
 			//TODO: -update: this
 			//updateNewsNameIfHasIncomingDraft();
 		}
-		
+
+/*		
 		//TODO: -reverify: this if still necessary
 		function updateNewsNameIfHasIncomingDraft() {
 			var sSummaryReportsHeader = document.getElementById("summaryReportsHeaderId"+"0").innerHTML; 
@@ -1257,6 +1243,7 @@
 				selectBox.options[selectBox.selectedIndex].innerHTML = selectedText + " +";
 			}
 		}
+*/
 			
 		function getAudioTotalDuration() {
 			var dMyAudioDurationInSec = document.getElementById("myAudioId").duration; 
@@ -1432,16 +1419,26 @@
 
 	  //added by Mike, 20231215
 	  function toggleMoreStart(sParamId) {
+/*		  
+		  //added by Mike, 20250516
+		  return;
+*/
 		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
 
 		  //current start time;
 		  summaryReportsCount.innerHTML = new Date().getTime();
+		  
+		  //alert("HALLO!!!!");
 	  }
 
 
 	  //added by Mike, 20231207
 	  //toggles in displayed full text;
 	  function toggleMoreEnd(sParamId) {
+/*
+		  //added by Mike, 20250516
+		  return;
+*/		  
 		  //language change button is activated first before toggleMoreEnd function
 /*		  
 		  alert (bHasPressedLanguageChange);
@@ -1466,8 +1463,12 @@
 		  
 		  var summaryReportsCount = document.getElementById("summaryReportsCountId"+sParamId.substring("summaryReportsHeaderId".length));
 		  
-		  //added by Mike, 20231221
+		  //edited by Mike, 20250516; from 20231221
+		  //TODO: -update: this
 		  var mainTextDivId = document.getElementById("mainTextDivId"+sParamId.substring("summaryReportsHeaderId".length));	
+		  
+		  //note: when article element is selected, the previous is given;
+		  //var sSelectedMainTextDivId = sParamId.substring("summaryReportsHeaderId".length);
 
 		  //alert("sParamId: "+sParamId);
 		  
@@ -1533,11 +1534,17 @@
 		  }
 */		  
 
+		  //alert("sParamId: "+sParamId);
+
 		  //var summaryReportsId = document.getElementById("summaryReportsId");//+sParamId.substring(0,indexOf(summaryReportsHeaderId));
 
 		  var summaryReportsId = document.getElementById("summaryReportsId"+sParamId.substring("summaryReportsHeaderId".length));
-
-		  var summaryReportsHeaderId = document.getElementById(sParamId);
+			
+	      //edited by Mike, 20250516
+		  //var summaryReportsHeaderId = document.getElementById(sParamId);
+		  var summaryReportsHeaderId = document.getElementById("summaryReportsHeaderId"+sParamId.substring("summaryReportsHeaderId".length));
+		  
+		  //alert ("YOYO!!!");
 
 		  //alert(sParamId);
 /*
@@ -1551,6 +1558,7 @@
 		  //sParamId.indexOf("summaryReportsHeaderId"));
 		  //alert(sParamId.substring(sParamId.indexOf("summaryReportsHeaderId")));
 
+/*	//removed by Mike, 20250516
 		  //removed by Mike, 20231207
 		  //if (sParamId=="summaryReportsHeaderId") {
 			  //alert("dito"+summaryReportsId.style.display);
@@ -1570,13 +1578,13 @@
 
 				  summaryReportsHeaderId.style.display = "none";
 			  }
-/*			  
-			  else if (summaryReportsId.style.display === "") {
-				  summaryReportsId.style.display = "inline";
-
-				  summaryReportsHeaderId.style.display = "none";
-			  }
-*/			  
+			  
+////			  else if (summaryReportsId.style.display === "") {
+////				  summaryReportsId.style.display = "inline";
+////
+////				  summaryReportsHeaderId.style.display = "none";
+////			  }
+			  
 			  else if (summaryReportsId.style.display === "none") {
 				  summaryReportsId.style.display = "inline";
 
@@ -1586,60 +1594,226 @@
 				  summaryReportsId.style.display = "none";
 
 				  summaryReportsHeaderId.style.display = "inline";
-				  
-				  //added by Mike, 20231220
-/*				  
-				  //reference: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp; 
-				  //last accessed: 20231220
-				  document.body.scrollTop = 0; // For Safari
-				  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera				  
-*/
+////				  
+////				  //added by Mike, 20231220
+////				  //reference: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp; 
+////				  //last accessed: 20231220
+////				  document.body.scrollTop = 0; // For Safari
+////				  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera				  
+////
 				  //reference: https://www.w3schools.com/jsref/met_element_scrollintoview.asp;
 				  //last accessed: 20231220
 				  //edited by Mike, 20231221
 				  //summaryReportsHeaderId.scrollIntoView();		
 				  mainTextDivId.scrollIntoView();
 			  }
-			  			  
-			  //added by Mike, 20231221
-			  mainTextDivId.style.border = "5px solid #1c9bdf"; //37b819; green; 1c9bdf; blue
+*/
+
+			  summaryReportsId.style.display = "inline";
+			  summaryReportsHeaderId.style.display = "none";
 			  
-			  //TODO: -update: max count 5 to use variable
+			  //added by Mike, 20250516
+			  //set mainTextDivId border of all elements in the list to default;
+			  //----------
+			  for(iCount=0; iCount<7; iCount++) {				  
+				var sLanguageTemp="";
+				
+				for(iLanguageCount=0; iLanguageCount<5; iLanguageCount++) {		
+					switch (iLanguageCount) {
+						case 0: //en
+							sLanguageTemp="EN";
+							break;
+						case 1: //jp
+							sLanguageTemp="JP";
+							break;
+						case 2: //es
+							sLanguageTemp="ES";
+							break;
+						case 3: //cn
+							sLanguageTemp="CN";
+							break;
+						case 4: //ph
+							sLanguageTemp="PH";
+							break;
+					}	
+/*			
+						alert("iCount: "+iCount);
+						alert("sLanguageTemp: "+sLanguageTemp);
+*/						
+					sCurrText=iCount+"-"+sLanguageTemp;
+						
+					//alert(sCurrText);
+
+					var otherMainTextDivId = document.getElementById("mainTextDivId"+sCurrText);
+					
+					//alert("!!!!!");					
+/*
+					alert("sCurrText: "+sCurrText);
+					alert("sSelectedMainTextDivId: "+sSelectedMainTextDivId);
+*/
+					
+					//if (otherMainTextDivId!=mainTextDivId) {
+/*						
+					if (!sCurrText.includes(sSelectedMainTextDivId)) {
+*/						
+						otherMainTextDivId.style.border = "1px solid #aaaaaa";
+/*
+					}
+					else {
+						//alert ("HERE!!!");
+					}
+*/					
+				}
+			  }
+			  //----------
+			  
+			  
+			  //alert("DITO!!!");
+			  
+			  //alert(sSelectedMainTextDivId);
+			  
+			  //edited by Mike, 20250516; from 20231221
+			  //TODO: -update: this
+			  //mainTextDivId.style.border = "5px solid #1c9bdf"; //37b819; green; 1c9bdf; blue
+
+			  //alert(">>>>DITO!!!");
+			  
+			  
+/*			  //removed by Mike, 20250516
+			  //TODO: -update: max count 7 to use variable
+			  //example: 0-EN
 			  var iSelectedMainTextDivId = sParamId.substring("summaryReportsHeaderId".length);
 			  
-			  //alert("iSelectedMainTextDivId: "+iSelectedMainTextDivId);
+			  alert("iSelectedMainTextDivId: "+iSelectedMainTextDivId);
 			  
-			  for(iCount=0; iCount<5; iCount++) {
+			  //max articles to display at 7 now; 
+			  //TODO: -update to use variable
+			  //for(iCount=0; iCount<5; iCount++) {
+			  for(iCount=0; iCount<7; iCount++) {				  
 				  //alert(iCount);
-				if (iCount!=iSelectedMainTextDivId) {
-					var otherMainTextDivId = document.getElementById("mainTextDivId"+iCount);	
+				//if (iCount!=iSelectedMainTextDivId) {
+					//edited by Mike, 20250516
+					//var otherMainTextDivId = document.getElementById("mainTextDivId"+iCount);	
 
-					otherMainTextDivId.style.border = "1px solid #aaaaaa";
-				}			
+					var sLanguageTemp="";
+					for(iLanguageCount=0; iLanguageCount<5; iLanguageCount++) {		
+						switch (iLanguageCount) {
+							case 0: //en
+								sLanguageTemp="EN";
+								break;
+							case 1: //jp
+								sLanguageTemp="JP";
+								break;
+							case 2: //es
+								sLanguageTemp="ES";
+								break;
+							case 3: //cn
+								sLanguageTemp="CN";
+								break;
+							case 4: //ph
+								sLanguageTemp="PH";
+								break;
+						}	
+			
+////						alert("iCount: "+iCount);
+////						alert("sLanguageTemp: "+sLanguageTemp);
+						
+						sCurrText=iCount+"-"+sLanguageTemp;
+						
+						//alert(iCount);
+						
+						if (!sCurrText.includes(iSelectedMainTextDivId)) {
+
+							var otherMainTextDivId = document.getElementById("mainTextDivId"+sCurrText);	
+
+							otherMainTextDivId.style.border = "1px solid #aaaaaa";
+						}
+						else {
+							alert(sCurrText);
+						}
+					}			
 			  }
-				  
+*/				  
 				  
 		  //}
 		}
 		
 	  //added by Mike, 20250515; from 20250514
 	  //TODO: -update: this
-	  function myLanguageChangeFunction(sLanguage) {
+	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
+/*
 		  alert(sLanguage);
-		  //bHasPressedLanguageChange=true;
+		  alert(iNewsRankCount);
+*/
+		  //toggleMoreStart("summaryReportsHeaderId"+iNewsRankCount+"-"+sLanguage);
+		  //toggleMoreEnd("summaryReportsHeaderId"+iNewsRankCount+"-"+sLanguage);
 		  
+		  //bHasPressedLanguageChange=true;
+/*		  
 		  if (sLanguage.includes("EN")) {
 			  sLanguage="";
 		  }
-		  
+*/		  
 /*		  
 		  var bodyTable = document.getElementById("bodyTableId");	
 		  bodyTable.style.display = "none";		  
 */		  
+/*
+		  alert("bodyTableId"+iNewsRankCount+"-"+sLanguage);
+*/
 		  //set to none all the available languages
-		  var bodyTable = document.getElementById("bodyTableId");	
-		  bodyTable.style.display = "none";		  
+		  //var bodyTable = document.getElementById("bodyTableId");	
+		  //example
+		  //var bodyTable = document.getElementById("'bodyTableId0-ES'");
+		  //var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);
+		  var bodyTableEN = document.getElementById("bodyTableId"+iNewsRankCount+"-EN");
+		  if (bodyTableEN) {
+			bodyTableEN.style.display = "none";		  
+		  }
 
+		  //alert("DITO!");
+
+		  var bodyTableJP = document.getElementById("bodyTableId"+iNewsRankCount+"-JP");
+		  if (bodyTableJP) {
+			bodyTableJP.style.display = "none";		  
+		  }
+
+		  var bodyTableES = document.getElementById("bodyTableId"+iNewsRankCount+"-ES");
+		  if (bodyTableES) {
+			bodyTableES.style.display = "none";		  
+		  }
+
+		  var bodyTableCN = document.getElementById("bodyTableId"+iNewsRankCount+"-CN");
+		  if (bodyTableCN) {
+			bodyTableCN.style.display = "none";		  
+		  }
+
+		  var bodyTablePH = document.getElementById("bodyTableId"+iNewsRankCount+"-PH");
+		  if (bodyTablePH) {
+			bodyTablePH.style.display = "none";		  
+		  }
+		  
+		  //alert ("sLanguage: "+sLanguage);
+		  
+		  var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);	
+		  bodyTable.style.display = "inline"; 
+		  
+		  var summaryReports = document.getElementById("summaryReportsId"+iNewsRankCount+"-"+sLanguage);
+
+		  var summaryReportsHeader = document.getElementById("summaryReportsHeaderId"+iNewsRankCount+"-"+sLanguage);
+		  
+		  //set this here to open the article;
+		  //note CN resizes to smaller width otherwise;
+		  summaryReports.style.display = "inline";
+		  summaryReportsHeader.style.display = "none"; 
+		  
+		  var mainTextDivId = document.getElementById("mainTextDivId"+iNewsRankCount+"-"+sLanguage);	
+		  
+		  mainTextDivId.scrollIntoView();
+		  
+		  //alert("DITO!!!!");
+		  
+/*
 		  var bodyTableJP = document.getElementById("bodyTableIdJP");
 		  if (bodyTableJP!==null) {
 			bodyTableJP.style.display = "none";		  
@@ -1661,7 +1835,9 @@
 		  }
 		  
 		  var bodyTable = document.getElementById("bodyTableId"+sLanguage);	
-		  bodyTable.style.display = "inline";		  
+		  bodyTable.style.display = "inline"; 
+*/		  
+
 	  }
 
 	  </script>	  
@@ -2354,7 +2530,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 
 	//added by Mike, 20250513
-	function processLanguageTagToDisplay($completeFilename) {
+	function processLanguageTagToDisplay($completeFilename,$iNewsRankCount) {
 		//-----
 		$sLanguage="EN";//"English"; //default
 		
@@ -2468,10 +2644,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			}
 		}
 */		
-		return processDisplayedLanguages($sLanguage);
+		return processDisplayedLanguages($sLanguage,$iNewsRankCount);
 	}
 
-	//added by Mike, 20250515
+	//edited by Mike, 20250516; from 20250515
 	function processCheckLanguageAvailability($completeFilename) {
 		//added by Mike, 20250514
 		//check if other languages exist
@@ -2537,7 +2713,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					echo "Language TEMP!".$sLanguageTemp."<br/>";
 				}
 */
-				$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,$sLanguageTemp,$completeFilename);
+				//edited by Mike, 20250516
+				//replace only the last occurrence by adding ".md"
+				//$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,$sLanguageTemp,$completeFilename);
+				$completeFilenameTemp = str_replace($sLanguageInCompleteFilename.".md",$sLanguageTemp.".md",$completeFilename);
+
+				//echo "completeFilenameTemp: ".$completeFilenameTemp."<br/";
+
 			}
 
 			//echo ">>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
@@ -2586,8 +2768,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		
 		//echo ">>>>".$completeFilename;
 		
-		//edited by Mike, 20250513; from 20250512
-		$sLanguage=processLanguageTagToDisplay($completeFilename);
+		//edited by Mike, 20250516; from 20250513
+		//$sLanguage=processLanguageTagToDisplay($completeFilename);
+		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
+		
 /*
 		//-----
 		$sLanguage="EN";//"English"; //default
@@ -2703,7 +2887,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 */		
 		//echo "DITO!!!!";
 
-		$sLanguage=processDisplayedLanguages($sLanguage);
+		$sLanguage=processDisplayedLanguages($sLanguage,$iNewsRankCount);
 
 		$sOutput=$sOutput."<h3>
 		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
@@ -2714,7 +2898,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 	
 	//added by Mike, 20250514
-	function processDisplayedLanguages($sLanguage) {
+	function processDisplayedLanguages($sLanguage,$iNewsRankCount) {
 		$languageTokensArray=explode(";",$sLanguage);
 		$iNumOfLanguageTokens=count($languageTokensArray)-1;
 		
@@ -2724,7 +2908,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//echo ">>>".$languageTokensArray[3]."<br/>";
 			$sLanguage="";
 			for ($iCount=0; $iCount<$iNumOfLanguageTokens; $iCount++) {
-				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
+				//echo "languageTokensArray".$iCount.": ".$languageTokensArray[$iCount]."<br/>";
+				
+				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
+				
+				//$sLanguage=$sLanguage."<button onmousedown='toggleMoreStart(\"summaryReportsHeaderId".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")' onmouseup='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";				
 			}
 		}
 		else {
@@ -3437,19 +3625,41 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 //-----
 //PART 2
 
+	//echo ">>".$sLanguageValue."<<<br/>";
+
 	//note: .md format
 	//edited by Mike, 20230504
 	//echo ">>>".$cellValue."<br/>";
-	//edited by Mike, 20250515
+	//edited by Mike, 20250516; from 20250515
 	//echo ">>>>>>".$sLanguageValue[0]."<br/>";
+	
+	//echo ">>iNewsRankCount: ".$iNewsRankCount."<br/>";
+	
 	if ($languageCompleteFilenameArrayCount==1) { //>2){ 
-		echo "<table id='bodyTableId' class='bodyTable'><tr><td>";
+		//echo "sLanguageValue: ".$sLanguageValue."<br/>";
+		//edited by Mike, 20250516
+		//English in sLanguageValue is blank here
+	
+		if ($sLanguageValue==="") {
+			$sLanguageValue="EN";
+		}
+	
+		//echo "<table id='bodyTableId' class='bodyTable'><tr><td>";
+		//echo "<table id='bodyTableId".$iNewsRankCount."-EN' class='bodyTable'><tr><td>";
+
+		//echo "<table id='bodyTableId".$iNewsRankCount."-EN' class='bodyTable'><tr><td>";
+		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTable'><tr><td>";
 	}
 	else {
-		echo "<table id='bodyTableId".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
+		//echo "<table id='bodyTableId".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
+
+		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
 	}
 	
-		echo "<div id='mainTextDivId".$iNewsRankCount."' class='mainTextDiv'>";
+		//edited by Mike, 20250516
+		//echo "<div id='mainTextDivId".$iNewsRankCount."' class='mainTextDiv'>";
+
+		echo "<div id='mainTextDivId".$iNewsRankCount."-".$sLanguageValue."' class='mainTextDiv'>";
 		
 		echo "<div class='textDoubleSpacedDiv'>";
 
@@ -3484,7 +3694,7 @@ if ($languageCompleteFilenameArrayCount==1) {
 <!-- added by Mike, 20231215 -->
 <span id="summaryReportsCountId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="spanSummaryReportsCount"></span>
 
-<span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount;?>')">
+<span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
 
 <?php
 /*
@@ -3562,8 +3772,8 @@ while ($sToken !== false)
 		
 		echo $sGitHubLink;
 		
-		//added by Mike, 20250513
-		$sLanguage=processLanguageTagToDisplay($completeFilename);
+		//edited by Mike, 20250516; from 20250513
+		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
 		echo " ".$sLanguage;
 
 		echo "</h3>";
