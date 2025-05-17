@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250516; from 20250515
+  @date updated: 20250517; from 20250516
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -389,14 +389,17 @@
 						}
 
 						blockquote.usbongBlockquote {
-							/*background: #eee;*/
+							width: 100%;
+							
+							line-height: 2;
+
+							text-align: justify;
+							text-justify: inter-word;
+
+							
 							background: #fff;
-
-							/*color: rgb(40,40,40); *//* from black to white */
 							color: rgb(20,20,20);
-
-							/*font-weight: bold;*/
-							font-size: 24pt; /*30pt*80%;*/
+							font-size: 24pt;
 
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
@@ -419,8 +422,9 @@
 						last accessed: 20220626
 */
 						div.textDoubleSpacedDiv {
+							width: 100%;
 							line-height: 2;
-							font-size: 24pt; /*30pt*80%;*/	
+							font-size: 24pt;
 						}
 
 						table.imageTable
@@ -867,20 +871,32 @@
 
 						span.moreTextSpanIIISummaryReports
 						{
-							display: none;
+							width: 100%;
+
 							line-height: 2;
 							font-size: 24pt;
-							
-							font-family: Tahoma, Garamond, sans-serif; /*Arial;*/
+
+							font-weight: Normal;							
+							font-family: Tahoma, Garamond, sans-serif;
+
+							text-align: justify;
+							text-justify: inter-word;
+
+							display: none;
 						}
 
 						span.moreTextSpanIIISummaryReportsHeader
 						{
+							width: 100%;
+							
 							line-height: 2;
 							font-size: 24pt;
 
 							font-weight: Normal;
-							font-family: Tahoma, Garamond, sans-serif; /*Arial;*/
+							font-family: Tahoma, Garamond, sans-serif;
+
+							text-align: justify;
+							text-justify: inter-word;
 							
 							display: inline;
 						}
@@ -1469,7 +1485,16 @@
 		  
 		  //note: when article element is selected, the previous is given;
 		  //var sSelectedMainTextDivId = sParamId.substring("summaryReportsHeaderId".length);
-
+		  
+		  //edited by Mike, 20250517
+		  //var sSelectedRow = sParamId.substring("summaryReportsHeaderId".length);
+		  var sSelectedRow = sParamId.substring("summaryReportsHeaderId".length);
+		  
+		  sSelectedRow = sSelectedRow.substring(0,1);
+		  
+		  //alert("sSelectedRow: "+sSelectedRow);
+		  //alert("sSelectedRow.indexOf(...): "+sSelectedRow.indexOf("-"));
+		  
 		  //alert("sParamId: "+sParamId);
 		  
 		  //alert(sParamId.substring("sHeaderId".length));
@@ -1547,6 +1572,9 @@
 		  //alert ("YOYO!!!");
 
 		  //alert(sParamId);
+		  
+		  //alert(summaryReportsHeaderId.innerHTML);
+		  
 /*
 		  //alert(summaryReportsHeaderId);
 		  alert("summaryReportsHeaderId".length);
@@ -1558,14 +1586,14 @@
 		  //sParamId.indexOf("summaryReportsHeaderId"));
 		  //alert(sParamId.substring(sParamId.indexOf("summaryReportsHeaderId")));
 
-/*	//removed by Mike, 20250516
+	//removed by Mike, 20250516
 		  //removed by Mike, 20231207
 		  //if (sParamId=="summaryReportsHeaderId") {
 			  //alert("dito"+summaryReportsId.style.display);
 			  //note: 1st summaryReportsId.style.display value is blank, i.e. "";
 			  
 			  //alert("dito"+summaryReportsHeaderId.style.display);
-			  
+/*			  
 			  //edited by Mike, 20241031
 			  //if display set by CSS to "inline"; blank
 			  if (summaryReportsHeaderId.style.display === "") {
@@ -1609,8 +1637,10 @@
 			  }
 */
 
+/*
 			  summaryReportsId.style.display = "inline";
 			  summaryReportsHeaderId.style.display = "none";
+*/
 			  
 			  //added by Mike, 20250516
 			  //set mainTextDivId border of all elements in the list to default;
@@ -1644,7 +1674,12 @@
 						
 					//alert(sCurrText);
 
-					var otherMainTextDivId = document.getElementById("mainTextDivId"+sCurrText);
+					var currMainTextDivId = document.getElementById("mainTextDivId"+sCurrText);
+					
+					var currSummaryReportsId = document.getElementById("summaryReportsId"+sCurrText);
+			
+					var currSummaryReportsHeaderId = document.getElementById("summaryReportsHeaderId"+sCurrText);
+
 					
 					//alert("!!!!!");					
 /*
@@ -1656,13 +1691,100 @@
 /*						
 					if (!sCurrText.includes(sSelectedMainTextDivId)) {
 */						
-						otherMainTextDivId.style.border = "1px solid #aaaaaa";
+						//removed by Mike, 20250517
+						//otherMainTextDivId.style.border = "1px solid #aaaaaa";
+
 /*
 					}
 					else {
 						//alert ("HERE!!!");
 					}
 */					
+/*
+					//get only the iCount; then, updated the border for all available languages;
+					alert("sCurrText: "+sCurrText);
+					alert("iCount: "+iCount);
+					alert("sSelectedRow: "+sSelectedRow);
+*/					
+					if (currMainTextDivId!==null) {
+						//if (!sCurrText.indexOf(iCount)!==-1) {
+						//if ((!sCurrText.indexOf(iCount)!==-1) && (sSelectedRow.indexOf(iCount)!==-1)) {
+						if ((!sCurrText.indexOf(iCount)!==-1) && (iCount==parseInt(sSelectedRow))) {
+	
+							currMainTextDivId.style.border = "5px solid #1c9bdf"; 
+							
+/*							
+							if (currSummaryReportsId!==null) {
+								currSummaryReportsId.style.display = "inline";
+							}
+							if (currSummaryReportsHeaderId!==null) {
+								currSummaryReportsHeaderId.style.display = "none";
+							}
+*/
+			  if ((currSummaryReportsId!==null) && (currSummaryReportsHeaderId!==null)) {
+				  //if display set by CSS to "inline"; blank
+				  if (currSummaryReportsHeaderId.style.display === "") {
+					  currSummaryReportsId.style.display = "inline";
+					  currSummaryReportsHeaderId.style.display = "none";
+				  }
+				  else if (currSummaryReportsHeaderId.style.display === "inline") {
+					  currSummaryReportsId.style.display = "inline";
+					  currSummaryReportsHeaderId.style.display = "none";
+				  }
+				  else if (currSummaryReportsId.style.display === "none") {
+					  currSummaryReportsId.style.display = "inline";
+					  currSummaryReportsHeaderId.style.display = "none";
+				  }
+				  else {
+					  ///alert ("DITO!!!!");
+					  var usbongBlockquote = document.getElementById("usbongBlockquoteId"+sCurrText);
+
+					  //currSummaryReportsHeaderId.style.width = "%";
+					  
+/*
+			//removed by Mike, 20250517; if header text is in CN, width decreases;
+					  currSummaryReportsId.style.display = "none";
+					  currSummaryReportsHeaderId.style.display = "inline";
+
+					  currMainTextDivId.scrollIntoView();
+*/					  
+/*
+					  alert(currSummaryReportsHeaderId.innerHTML);
+					  alert(currSummaryReportsHeaderId.clientWidth);
+*/
+/*
+					  alert(usbongBlockquote.innerHTML);
+					  alert(usbongBlockquote.offsetWidth);
+*/					  
+/*
+					  //usbongBlockquote.offsetWidth="1082";
+					  alert(usbongBlockquote.innerHTML);
+					  alert(usbongBlockquote.clientWidth); //1077
+*/					  
+					  //usbongBlockquote.clientWidth=1077;
+					  
+					  //currSummaryReportsHeaderId.style.width="3000px";
+					  //currMainTextDivId.style.width="1082px";
+					  //currMainTextDivId.style.width="100%";
+				  }
+			  }
+			  
+
+							//alert ("!!!!");
+						}
+						else {
+							currMainTextDivId.style.border = "1px solid #aaaaaa";
+/*							
+							if (currSummaryReportsId!==null) {
+								currSummaryReportsId.style.display = "none";
+							}
+							if (currSummaryReportsHeaderId!==null) {
+								currSummaryReportsHeaderId.style.display = "inline";
+							}
+*/							
+							//alert ("WALA!!!");
+						}
+					}
 				}
 			  }
 			  //----------
@@ -1738,9 +1860,9 @@
 		  //}
 		}
 		
-	  //added by Mike, 20250515; from 20250514
+	  //added by Mike, 20250517; from 20250515
 	  //TODO: -update: this
-	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
+	  function myLanguageChangeFunctionPREV(iNewsRankCount,sLanguage) {
 /*
 		  alert(sLanguage);
 		  alert(iNewsRankCount);
@@ -1839,7 +1961,100 @@
 */		  
 
 	  }
+	
+      //added by Mike, 20250517; from 20250515
+	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
+	/*
+			  alert(sLanguage);
+			  alert(iNewsRankCount);
+	*/
+			  
+			  //alert(sLanguage);
+			  //alert("usbongBlockquoteId"+iNewsRankCount+"-"+sLanguage);
+/*			  
+			  //noted: 52 characters; required for header;
+			  usbongBlockquote = document.getElementById("usbongBlockquoteId"+iNewsRankCount+"-"+sLanguage);
+			  
+			  //alert(usbongBlockquote.innerHTML);
+			  alert(usbongBlockquote.innerHTML.length);
+*/			  
 
+/*			  //TODO: -update: this
+			  //if (sLanguage.indexOf("CN")!=-1) {
+				  //alert("DITO!!!");
+				  //noted: 51 characters; required for header;
+				  usbongBlockquote = document.getElementById("usbongBlockquoteId"+iNewsRankCount+"-"+sLanguage);
+				  
+				  alert(usbongBlockquote.innerHTML.length);
+				  
+				  iUsbongBlockquoteStrLen=usbongBlockquote.innerHTML.length;
+				  iUsbongBlockquoteStrLenMax=102; //51;
+				  
+				  iUsbongBlockquoteStrLenDiffFromMax=iUsbongBlockquoteStrLenMax-iUsbongBlockquoteStrLen;
+				  
+				  if (iUsbongBlockquoteStrLenDiffFromMax>0) {
+					  //usbongBlockquote.innerHTML
+					  alert("HALLO!!!!: "+iUsbongBlockquoteStrLenDiffFromMax);
+					  
+					  for (var iCharCount=0; iCharCount<iUsbongBlockquoteStrLenDiffFromMax; iCharCount++) {
+						//usbongBlockquote.innerHTML=usbongBlockquote.innerHTML+"<font color='#FFFFFF'>哈</font>";
+					  }
+				  }
+			  //}
+*/
+			  
+			  //set to none all the available languages
+			  //var bodyTable = document.getElementById("bodyTableId");	
+			  //example
+			  //var bodyTable = document.getElementById("'bodyTableId0-ES'");
+			  //var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);
+			  var bodyTableEN = document.getElementById("bodyTableId"+iNewsRankCount+"-EN");
+			  if (bodyTableEN) {
+				bodyTableEN.style.display = "none";		  
+			  }
+
+			  //alert("DITO!");
+
+			  var bodyTableJP = document.getElementById("bodyTableId"+iNewsRankCount+"-JP");
+			  if (bodyTableJP) {
+				bodyTableJP.style.display = "none";		  
+			  }
+
+			  var bodyTableES = document.getElementById("bodyTableId"+iNewsRankCount+"-ES");
+			  if (bodyTableES) {
+				bodyTableES.style.display = "none";		  
+			  }
+
+			  var bodyTableCN = document.getElementById("bodyTableId"+iNewsRankCount+"-CN");
+			  if (bodyTableCN) {
+				bodyTableCN.style.display = "none";		  
+			  }
+
+			  var bodyTablePH = document.getElementById("bodyTableId"+iNewsRankCount+"-PH");
+			  if (bodyTablePH) {
+				bodyTablePH.style.display = "none";		  
+			  }
+			  
+			  //alert ("sLanguage: "+sLanguage);
+			  
+			  var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);	
+			  bodyTable.style.display = "inline"; 
+			  
+			  var summaryReports = document.getElementById("summaryReportsId"+iNewsRankCount+"-"+sLanguage);
+
+			  var summaryReportsHeader = document.getElementById("summaryReportsHeaderId"+iNewsRankCount+"-"+sLanguage);
+			  
+			  //set this here to open the article;
+			  //note CN resizes to smaller width otherwise;
+			  summaryReports.style.display = "inline";
+			  summaryReportsHeader.style.display = "none"; 
+			  
+			  var mainTextDivId = document.getElementById("mainTextDivId"+iNewsRankCount+"-"+sLanguage);	
+			  
+			  mainTextDivId.scrollIntoView();
+			  
+			  //alert("DITO!!!!");		
+		  }
 	  </script>	  
 
 <?php
@@ -3672,14 +3887,21 @@ $sNewsTitleWebsiteReference = processWebsiteReferenceForHeaderTitle($cellValue, 
 
 $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
 
-
 $newsTitleWithTranslation = substr($newsTitleOriginal,0,strpos($newsTitleOriginal,">")); //">" not included
 
 $newsTitleMain = updateTextInputWithLink(substr($newsTitleWithTranslation,0,strpos($newsTitleOriginal,"\n")));
 
 $newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,strlen($newsTitleMain)));
 
-$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+/*	character count varies from actual via word count if in Mandarin
+	//TODO: -update: this part
+	echo $newsTitleMain."<br/>";
+
+	echo $newsTitleMain."<br/>";
+	echo strlen($newsTitleMain)."<br/>";
+*/	
+	
+$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
 /*
 if ($languageCompleteFilenameArrayCount==1) {
 	echo "DITO!!!!";
