@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250517; from 20250516
+  @date updated: 20250520; from 20250519
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -395,7 +395,6 @@
 
 							text-align: justify;
 							text-justify: inter-word;
-
 							
 							background: #fff;
 							color: rgb(20,20,20);
@@ -410,6 +409,10 @@
 							padding-left: 3%;
 
 							/* text-indent: 5%;*/
+						}
+	 
+						iframe {
+							width: 100% !important;
 						}
 
 						p.usbongTranslatedQuote {
@@ -3229,8 +3232,37 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTwitterX,strpos($sReferenceWebsiteTwitterX,"status/")+strlen("status/"));
 
 			//echo $sReferenceWebsiteTwitterX."<br/>";
-		
+			//edited by Mike, 20250520
+			echo "<div align='center'>";		
 			echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+			echo "</div>";
+		}
+		//added by Mike, 20250519
+		else if (strpos($sReferenceWebsiteTemp,"instagram.com")!==false) {
+			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
+			//added by Mike, 20230801
+			echo $sReferenceWebsiteAccessedDate."<br/>";
+		
+			//reference: https://help.instagram.com/620154495870484?helpref=faq_content; last accessed: 20250519
+		
+			//echo "!!!".$sReferenceWebsiteTemp."<br/>";
+			//example input: https://www.instagram.com/yenfukayan/reel/DGfAHD-SyDo/
+			//example output: reel/DGfAHD-SyDo/
+			
+			$sReferenceWebsiteInstagram=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,"reel"));
+					
+			//echo $sReferenceWebsiteTwitterX."<br/>";
+			//sample			
+/*
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DGfAHD-SyDo/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+*/			
+			//echo ">>>>>".$sReferenceWebsiteInstagram."<br/>";
+			echo "<div align='center'>";
+			echo "<blockquote class='instagram-media' data-instgrm-permalink='https://www.instagram.com/".$sReferenceWebsiteInstagram."'></blockquote>
+			<script async src='//www.instagram.com/embed.js'></script>";
+			echo "</div>";
 		}
 		//TODO: -reverify: this		
 		//added by Mike, 20250513
@@ -3254,8 +3286,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sReferenceWebsiteBlueSky=substr($sReferenceWebsiteBlueSky,strpos($sReferenceWebsiteBlueSky,"status/")+strlen("status/"));
 			
 			//echo "href: ".$sReferenceWebsiteBlueSky."<br/>";
-
+			//edited by Mike, 20250520
+			echo "<div align='center'>";		
 			echo "<blockquote class='bluesky-embed' data-bluesky-uri='at:/".$sDataBlueSkyUri."'' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https:/".$sReferenceWebsiteBlueSky."'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
+			echo "</div>";		
 
 			//echo "<blockquote class='bluesky-embed' data-bluesky-uri='at://did:plc:rcyyjldt7topi6fz3dxnsaxx/app.bsky.feed.post/3lotio37mwz2b' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
 			
