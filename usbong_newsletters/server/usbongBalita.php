@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250520; from 20250519
+  @date updated: 20250521; from 20250520
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1739,22 +1739,53 @@
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
 				  else {
+					  //alert("START"+currMainTextDivId.clientWidth);
+					  //alert("START currMainTextDivId: "+currMainTextDivId.offsetWidth);
+					  //alert("START currSummaryReportsHeaderId: "+currSummaryReportsHeaderId.offsetWidth);
+					  
+					  var iStartCurrMainTextDivOffsetWidth=currMainTextDivId.offsetWidth;
+					  					  
 					  ///alert ("DITO!!!!");
 					  var usbongBlockquote = document.getElementById("usbongBlockquoteId"+sCurrText);
 
 					  //currSummaryReportsHeaderId.style.width = "%";
+					  //currSummaryReportsHeaderId.innerHTML+="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 					  
 /*
-			//removed by Mike, 20250517; if header text is in CN, width decreases;
+				//removed by Mike, 20250517; if header text is in CN, width decreases;
 					  currSummaryReportsId.style.display = "none";
 					  currSummaryReportsHeaderId.style.display = "inline";
 
 					  currMainTextDivId.scrollIntoView();
 */					  
+					  //alert(currSummaryReportsHeaderId.innerHTML);
+					  //alert(currSummaryReportsHeaderId.clientWidth);
+					  //alert(currSummaryReportsHeaderId.style.width);
+
+					  //currMainTextDivId.style.width="100%";//"1213px";
+/*					  					  
+					  var iNewCurrMainTextDivOffsetWidth=currMainTextDivId.offsetWidth;
+					  
+					  while (iNewCurrMainTextDivOffsetWidth<iStartCurrMainTextDivOffsetWidth) {
+						  currMainTextDivId.innerHTML+="X";
+						  
+						  iNewCurrMainTextDivOffsetWidth+="X".width;
+					  }
+*/					  
+
 /*
-					  alert(currSummaryReportsHeaderId.innerHTML);
-					  alert(currSummaryReportsHeaderId.clientWidth);
+					  if (iNewCurrMainTextDivOffsetWidth<iStartCurrMainTextDivOffsetWidth) {
+					    //currSummaryReportsHeaderId.width=iStartCurrMainTextDivOffsetWidth;
+						currSummaryReportsHeaderId.innerHTML+="XXXXXXXXXXXXXX";
+					  }
+*/					  
+
+/*
+					  //alert(currMainTextDivId.clientWidth);
+					  alert("currMainTextDivId: "+currMainTextDivId.offsetWidth);
+					  alert("currSummaryReportsHeaderId: "+currSummaryReportsHeaderId.offsetWidth);
 */
+
 /*
 					  alert(usbongBlockquote.innerHTML);
 					  alert(usbongBlockquote.offsetWidth);
@@ -1981,8 +2012,8 @@
 			  //alert(usbongBlockquote.innerHTML);
 			  alert(usbongBlockquote.innerHTML.length);
 */			  
-
-/*			  //TODO: -update: this
+/*
+			  //TODO: -update: this
 			  //if (sLanguage.indexOf("CN")!=-1) {
 				  //alert("DITO!!!");
 				  //noted: 51 characters; required for header;
@@ -1998,6 +2029,8 @@
 				  if (iUsbongBlockquoteStrLenDiffFromMax>0) {
 					  //usbongBlockquote.innerHTML
 					  alert("HALLO!!!!: "+iUsbongBlockquoteStrLenDiffFromMax);
+					  
+					  usbongBlockquote.style.fontSize = "2em"; 
 					  
 					  for (var iCharCount=0; iCharCount<iUsbongBlockquoteStrLenDiffFromMax; iCharCount++) {
 						//usbongBlockquote.innerHTML=usbongBlockquote.innerHTML+"<font color='#FFFFFF'>哈</font>";
@@ -3137,6 +3170,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sLanguage=str_replace(";","",$sLanguage);
 		}		
 		
+		//added by Mike, 20250521
+		$sLanguage=str_replace("CN","CH",$sLanguage);
+		
 		return $sLanguage;
 	}
 
@@ -3245,12 +3281,23 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			echo $sReferenceWebsiteAccessedDate."<br/>";
 		
 			//reference: https://help.instagram.com/620154495870484?helpref=faq_content; last accessed: 20250519
-		
-			//echo "!!!".$sReferenceWebsiteTemp."<br/>";
-			//example input: https://www.instagram.com/yenfukayan/reel/DGfAHD-SyDo/
-			//example output: reel/DGfAHD-SyDo/
 			
-			$sReferenceWebsiteInstagram=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,"reel"));
+			//edited by Mike, 20250521
+			if (strpos($sReferenceWebsiteTemp,"reel/")!==false) {
+				//echo "!!!".$sReferenceWebsiteTemp."<br/>";
+				//example input: https://www.instagram.com/yenfukayan/reel/DGfAHD-SyDo/
+				//example output: reel/DGfAHD-SyDo/
+							
+				$sReferenceWebsiteInstagram=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,"reel"));
+			}
+			else {
+				//$sReferenceWebsiteInstagram="yenfukayan";
+				//echo ">>>>>".$sReferenceWebsiteTemp."<br/>";
+				
+				$sReferenceWebsiteInstagram=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,"instagram.com/")+strlen("instagram.com/"));
+				
+				//echo "HALLO".$sReferenceWebsiteInstagram."<br/>";
+			}
 					
 			//echo $sReferenceWebsiteTwitterX."<br/>";
 			//sample			
