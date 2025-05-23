@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250521; from 20250520
+  @date updated: 20250523; from 20250521
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1662,8 +1662,8 @@
 						case 2: //es
 							sLanguageTemp="ES";
 							break;
-						case 3: //cn
-							sLanguageTemp="CN";
+						case 3: //ch
+							sLanguageTemp="ch";
 							break;
 						case 4: //ph
 							sLanguageTemp="PH";
@@ -1863,8 +1863,8 @@
 							case 2: //es
 								sLanguageTemp="ES";
 								break;
-							case 3: //cn
-								sLanguageTemp="CN";
+							case 3: //ch
+								sLanguageTemp="ch";
 								break;
 							case 4: //ph
 								sLanguageTemp="PH";
@@ -1939,9 +1939,9 @@
 			bodyTableES.style.display = "none";		  
 		  }
 
-		  var bodyTableCN = document.getElementById("bodyTableId"+iNewsRankCount+"-CN");
-		  if (bodyTableCN) {
-			bodyTableCN.style.display = "none";		  
+		  var bodyTableCH = document.getElementById("bodyTableId"+iNewsRankCount+"-CH");
+		  if (bodyTableCH) {
+			bodyTableCH.style.display = "none";		  
 		  }
 
 		  var bodyTablePH = document.getElementById("bodyTableId"+iNewsRankCount+"-PH");
@@ -1980,9 +1980,9 @@
 			bodyTableES.style.display = "none";		  
 		  }
 
-		  var bodyTableCN = document.getElementById("bodyTableIdCN");
-		  if (bodyTableCN!==null) {
-			bodyTableCN.style.display = "none";		  
+		  var bodyTableCH = document.getElementById("bodyTableIdch");
+		  if (bodyTableCH!==null) {
+			bodyTableCH.style.display = "none";		  
 		  }
 
 		  var bodyTablePH = document.getElementById("bodyTableIdPH");
@@ -2014,7 +2014,7 @@
 */			  
 /*
 			  //TODO: -update: this
-			  //if (sLanguage.indexOf("CN")!=-1) {
+			  //if (sLanguage.indexOf("ch")!=-1) {
 				  //alert("DITO!!!");
 				  //noted: 51 characters; required for header;
 				  usbongBlockquote = document.getElementById("usbongBlockquoteId"+iNewsRankCount+"-"+sLanguage);
@@ -2061,9 +2061,9 @@
 				bodyTableES.style.display = "none";		  
 			  }
 
-			  var bodyTableCN = document.getElementById("bodyTableId"+iNewsRankCount+"-CN");
-			  if (bodyTableCN) {
-				bodyTableCN.style.display = "none";		  
+			  var bodyTableCH = document.getElementById("bodyTableId"+iNewsRankCount+"-CH");
+			  if (bodyTableCH) {
+				bodyTableCH.style.display = "none";		  
 			  }
 
 			  var bodyTablePH = document.getElementById("bodyTableId"+iNewsRankCount+"-PH");
@@ -2786,7 +2786,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$sLanguage="EN";//"English"; //default
 		
 		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
-			$sLanguage="CN";//"Chinese Mandarin";
+			$sLanguage="ch";//"Chinese Mandarin";
 		}
 		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
 			$sLanguage="JP";//"Japanese";
@@ -2828,7 +2828,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			//$iValueCount++;
 		}
 		
-		//$sLanguage = str_replace("CN","EN",$sLanguage);
+		//$sLanguage = str_replace("ch","EN",$sLanguage);
 		
 		//echo "OUTPUT: ".$sLanguage."<br/>";
 		
@@ -2862,8 +2862,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					case 2: //es
 						$sLanguageTemp="es";
 						break;
-					case 3: //cn
-						$sLanguageTemp="cn";
+					case 3: //ch
+						$sLanguageTemp="ch";
 						break;
 					case 4: //ph
 						$sLanguageTemp="ph";
@@ -2939,8 +2939,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					case 2: //es
 						$sLanguageTemp="es";
 						break;
-					case 3: //cn
-						$sLanguageTemp="cn";
+					case 3: //ch
+						$sLanguageTemp="ch";
 						break;
 					case 4: //ph
 						$sLanguageTemp="ph";
@@ -3028,7 +3028,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$sLanguage="EN";//"English"; //default
 		
 		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
-			$sLanguage="CN";//"Chinese Mandarin";
+			$sLanguage="ch";//"Chinese Mandarin";
 		}
 		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
 			$sLanguage="JP";//"Japanese";
@@ -3170,8 +3170,9 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			$sLanguage=str_replace(";","",$sLanguage);
 		}		
 		
-		//added by Mike, 20250521
-		$sLanguage=str_replace("CN","CH",$sLanguage);
+		//removed by Mike, 20250523; from 20250521
+		//TODO: -reverify: this
+		//$sLanguage=str_replace("ch","CH",$sLanguage);
 		
 		return $sLanguage;
 	}
@@ -3771,8 +3772,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 					case 2: //es
 						$sLanguage="es";
 						break;
-					case 3: //cn
-						$sLanguage="cn";
+					case 3: //ch
+						$sLanguage="ch";
 						break;
 					case 4: //ph
 						$sLanguage="ph";
@@ -3930,7 +3931,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	//echo ">>>>>>".$sLanguageValue[0]."<br/>";
 	
 	//echo ">>iNewsRankCount: ".$iNewsRankCount."<br/>";
-	
+		
 	if ($languageCompleteFilenameArrayCount==1) { //>2){ 
 		//echo "sLanguageValue: ".$sLanguageValue."<br/>";
 		//edited by Mike, 20250516
