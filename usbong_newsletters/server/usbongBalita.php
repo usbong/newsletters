@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250523; from 20250521
+  @date updated: 20250526; from 20250523
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3236,6 +3236,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
 
 			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
+			
+			//added by Mike, 20250526
+			$sReferenceWebsiteTempUpdated = str_replace("shorts/","embed/",$sReferenceWebsiteTempUpdated);
+			
+			//echo ">>>>".$sReferenceWebsiteTempUpdated;
 			
 			//edited by Mike, 20240511
 			//TODO: -verify: this
