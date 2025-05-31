@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250526; from 20250523
+  @date updated: 20250531; from 20250526
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -149,6 +149,10 @@
 							text-align: justify;
 							text-justify: inter-word;
                         }
+						
+						div.newsTitleDiv {
+							float: right;
+						}
 
 						/* TO-DO: -update: this to include body */
 						body.mobileBody {
@@ -834,6 +838,11 @@
 						
 						span.dateTodaySpan, .balitaSpan {
 							font-size: 24pt; /*1em;*/
+						}
+						
+						span.incomingDraftTextSelectOptionSpan {
+							vertical-align: middle;
+							/*font-size: 8pt; no change*/
 						}
 
 						hr.usbongTextSectionPartHr {
@@ -1588,7 +1597,7 @@
 
 		  //sParamId.indexOf("summaryReportsHeaderId"));
 		  //alert(sParamId.substring(sParamId.indexOf("summaryReportsHeaderId")));
-
+/*
 	//removed by Mike, 20250516
 		  //removed by Mike, 20231207
 		  //if (sParamId=="summaryReportsHeaderId") {
@@ -1596,7 +1605,7 @@
 			  //note: 1st summaryReportsId.style.display value is blank, i.e. "";
 			  
 			  //alert("dito"+summaryReportsHeaderId.style.display);
-/*			  
+			  
 			  //edited by Mike, 20241031
 			  //if display set by CSS to "inline"; blank
 			  if (summaryReportsHeaderId.style.display === "") {
@@ -2557,21 +2566,120 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				//added by Mike, 20250430; from 20230920
 				//default
 				$sNewsSource="personal";//asahishimbun";//"personal";
-				
 				$sNewsSourceSelected=$sNewsSource;
-				
 				//added by Mike, 202504240; from 20241017
 				$sNewsDisplayedName="PERSONAL";//ASAHI SHIMBUN"; //"PERSONAL";
-				
+
+/*
+				$sNewsSource="ignjapan";
+				$sNewsSourceSelected=$sNewsSource;
+				$sNewsDisplayedName="IGN JAPAN";
+*/				
 				//$iNewsNumberRaw=8;
 				
 				//echo ">>>".$iNewsNumberRaw;
 //				echo "DITO"; //note previously inside select tag;
+
+/*				//removed by Mike, 20250531; debug; echo output doesn't appear if inside the <select> tag 
+				for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
+						$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
+
+			echo $dateTodayTemp."<br/>";
+
+						$dateTodayTemp=str_replace('-','',$dateTodayTemp);
+						
+						//2023-07-07; output: 202307
+						$currYearMonthBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,6);
+
+						$currYearOnlyBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,4);
+			
+						//WINDOWS machine
+						//edited by Mike, 20230707
+						//if (strpos(dirname(__DIR__), ":\"")!==false) {
+						if (strpos(dirname(__DIR__), ":\\")!==false) {
+							$filename=$currYearOnlyBasedOnDateTodayTemp."\\".$currYearMonthBasedOnDateTodayTemp."\\".$dateTodayTemp;
+						}
+						//LINUX machine
+						else {				
+							$filename=$currYearOnlyBasedOnDateTodayTemp."/".$currYearMonthBasedOnDateTodayTemp."/".$dateTodayTemp;
+						}
+						
+						$sInputDirectory="/server/notes/LessonsLearned/";
+						
+						$iLanguageCountMax=5;
+						$bIsLanguageBlank=false;
+		
+						for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
+							switch ($iLanguageCount) {
+								case 0: //en
+									$sLanguageTemp="";
+									break;
+								case 1: //jp
+									$sLanguageTemp="jp";
+									break;
+								case 2: //es
+									$sLanguageTemp="es";
+									break;
+								case 3: //ch
+									$sLanguageTemp="ch";
+									break;
+								case 4: //ph
+									$sLanguageTemp="ph";
+									break;
+							}			
+
+						$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSource."/").$filename.$sLanguageTemp.".md";
+
+						echo $completeFilename."<br/>";
+
+						if (!file_exists($completeFilename)) {
+							continue;
+						}
+
+						$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($dateTodayTemp);
+			
+					echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
+			
+						if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+							//$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
+							$sIncomingDraftTextSelectOption="<span>*</span>";
+							
+							echo "DITO!!!!";
+						}	
+
+						}
+
+					}					
+*/			
+/*						
+						if ($i==$iNewsNumberRaw) {							
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+							
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
+
+							echo "<option value='N".$i."' selected>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
+
+							//added by Mike, 20230920
+							//note using string, instead of int
+							$sNewsSourceSelected=$sNewsSource;
+						}
+						else {
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."'>".$sNewsSource."</option>";
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+							//red square
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."🟥</option>";
+							echo "<option value='N".$i."'>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
+						}
+					}
+*/					
 			?>
 			<select class="newsSelect" id="newsSelectId" onchange="showNews()">
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
-
 					for ($i=1; $i<=8; $i++) { //<=7; 6
 						//default
 	//					$sNewsSource="asahishimbun";
@@ -2612,11 +2720,85 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 							$sNewsDisplayedName="PERSONAL";
 						}
 						
+						//added by Mike, 20250531
+						$sIncomingDraftTextSelectOption="";
+						
+					    //iDateTodayAndNewsLastAccessedDifferenceMax = 3;
+						//verify if an incoming draft is present						
+						for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
+							$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
+
+						//echo $dateTodayTemp."<br/>";
+
+							$dateTodayTemp=str_replace('-','',$dateTodayTemp);
+							
+							//2023-07-07; output: 202307
+							$currYearMonthBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,6);
+
+							$currYearOnlyBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,4);
+				
+							//WINDOWS machine
+							//edited by Mike, 20230707
+							//if (strpos(dirname(__DIR__), ":\"")!==false) {
+							if (strpos(dirname(__DIR__), ":\\")!==false) {
+								$filename=$currYearOnlyBasedOnDateTodayTemp."\\".$currYearMonthBasedOnDateTodayTemp."\\".$dateTodayTemp;
+							}
+							//LINUX machine
+							else {				
+								$filename=$currYearOnlyBasedOnDateTodayTemp."/".$currYearMonthBasedOnDateTodayTemp."/".$dateTodayTemp;
+							}
+							
+							$sInputDirectory="/server/notes/LessonsLearned/";
+							
+							$iLanguageCountMax=5;
+							$bIsLanguageBlank=false;
+			
+							for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
+								switch ($iLanguageCount) {
+									case 0: //en
+										$sLanguageTemp="";
+										break;
+									case 1: //jp
+										$sLanguageTemp="jp";
+										break;
+									case 2: //es
+										$sLanguageTemp="es";
+										break;
+									case 3: //ch
+										$sLanguageTemp="ch";
+										break;
+									case 4: //ph
+										$sLanguageTemp="ph";
+										break;
+								}			
+
+							$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSource."/").$filename.$sLanguageTemp.".md";
+
+							//echo $completeFilename."<br/>";
+
+							if (!file_exists($completeFilename)) {
+								continue;
+							}
+
+							$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($dateTodayTemp);
+				
+							//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
+				
+							if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+								$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'>⭐</span>"; //*
+							}	
+						}
+					}
+			
+						//TODO: -verify: this
 						if ($i==$iNewsNumberRaw) {							
 							//edited by Mike, 20241017
 							//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
 							
-							echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
+
+							echo "<option value='N".$i."' selected>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
 
 							//added by Mike, 20230920
 							//note using string, instead of int
@@ -2625,8 +2807,13 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 						else {
 							//edited by Mike, 20241017
 							//echo "<option value='N".$i."'>".$sNewsSource."</option>";
-
-							echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+							
+							//red square
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."🟥</option>";
+							
+							echo "<option value='N".$i."'>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
 						}
 					}
 			?>
@@ -3987,8 +4174,12 @@ $newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,
 	echo $newsTitleMain."<br/>";
 	echo strlen($newsTitleMain)."<br/>";
 */	
-	
+
+//edited by Mike, 20250529	
 $newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+
+//$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."<div class='newsTitleDiv'>HALLO</div></blockquote>".$newsTitleTranslated;
+
 /*
 if ($languageCompleteFilenameArrayCount==1) {
 	echo "DITO!!!!";
