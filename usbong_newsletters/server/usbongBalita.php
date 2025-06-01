@@ -1,4 +1,4 @@
-﻿<!--
+﻿﻿<!--
   Copyright 2021~2025 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250531; from 20250526
+  @date updated: 20250601; from 20250531
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -86,7 +86,18 @@
 
 							width: 100%;
 							height: 100%;
-
+							
+							/* 
+								//added by Mike, 20250601
+								//LINUX LUBUNTU; OS brightness resets
+							*/
+/*							
+//reference: Usbong KMS; viewReportPatientQueue
+//TODO: -update: to include the rest of the parts in the page
+							background-color: #cacaca; 							
+							filter: brightness(80%);
+*/
+							
 							padding: 2%;							
 							padding-top: 0%;
 
