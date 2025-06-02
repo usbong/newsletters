@@ -1,4 +1,4 @@
-﻿﻿<!--
+﻿<!--
   Copyright 2021~2025 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250601; from 20250531
+  @date updated: 20250602; from 20250601
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2216,7 +2216,7 @@
 //echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
 
 //edited by Mike, 20240614; from 20240516
-$iDateTodayAndNewsLastAccessedDifferenceMax=3;
+$iDateTodayAndNewsLastAccessedDifferenceMax=4; //3
 
 //default
 $updatedDirDueToURL="";
@@ -2576,10 +2576,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			<?php
 				//added by Mike, 20250430; from 20230920
 				//default
-				$sNewsSource="personal";//asahishimbun";//"personal";
+				$sNewsSource="famitsu";//"personal";//asahishimbun";//"personal";
 				$sNewsSourceSelected=$sNewsSource;
 				//added by Mike, 202504240; from 20241017
-				$sNewsDisplayedName="PERSONAL";//ASAHI SHIMBUN"; //"PERSONAL";
+				$sNewsDisplayedName="FAMITSU";//"PERSONAL";//ASAHI SHIMBUN"; //"PERSONAL";
 
 /*
 				$sNewsSource="ignjapan";
@@ -2590,12 +2590,12 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 				
 				//echo ">>>".$iNewsNumberRaw;
 //				echo "DITO"; //note previously inside select tag;
-
-/*				//removed by Mike, 20250531; debug; echo output doesn't appear if inside the <select> tag 
-				for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
+/*
+				//removed by Mike, 20250531; debug; echo output doesn't appear if inside the <select> tag 
+				for ($iDayCount=0; $iDayCount<$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
 						$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
 
-			echo $dateTodayTemp."<br/>";
+						echo $dateTodayTemp."<br/>";
 
 						$dateTodayTemp=str_replace('-','',$dateTodayTemp);
 						
@@ -2649,7 +2649,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 						$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($dateTodayTemp);
 			
-					echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
+					echo ">>>>".$iDateTodayAndNewsLastAccessedDifference."<br/>";
 			
 						if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
 							//$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
@@ -2661,7 +2661,8 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 						}
 
 					}					
-*/			
+*/
+			
 /*						
 						if ($i==$iNewsNumberRaw) {							
 							//edited by Mike, 20241017
@@ -2735,8 +2736,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 						$sIncomingDraftTextSelectOption="";
 						
 					    //iDateTodayAndNewsLastAccessedDifferenceMax = 3;
+						
 						//verify if an incoming draft is present						
-						for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
+						//for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
+						for ($iDayCount=0; $iDayCount<$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
 							$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
 
 						//echo $dateTodayTemp."<br/>";
@@ -2858,17 +2861,54 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	}
 
 	//added by Mike, 20240516
-	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
+	function processDateTodayAndNewsLastAccessedDifferencePrev($sLastAccessed) {
 		//echo str_replace("; last accessed: ","",$sLastAccessed);
 		$iNewsLastAccessedDate=intval(str_replace("; last accessed: ","",$sLastAccessed));
 
 		//echo "<br/>".Date('Y-m-d');
 
 		$iDateToday=intval(str_replace("-","",Date('Y-m-d')));
-		
-		//echo $iDateToday;			
+
+		echo "iNewsLastAccessedDate: ".$iNewsLastAccessedDate."<br/>";
+		echo "iDateToday: ".$iDateToday."<br/>";
+
+		//echo ">>>date_diff: ".date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%R%a days")."<br/>";
+
+		echo ">>>date_diff: ".intval(date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%a"))."<br/>";
+
+
 		//echo $iDateToday-$iNewsLastAccessedDate;
 		$iDateTodayAndNewsLastAccessedDifference = $iDateToday-$iNewsLastAccessedDate;
+
+		return $iDateTodayAndNewsLastAccessedDifference;
+	}
+	
+	//added by Mike, 20250602
+	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
+		//echo str_replace("; last accessed: ","",$sLastAccessed);
+		//$iNewsLastAccessedDate=intval(str_replace("; last accessed: ","",$sLastAccessed));
+
+		//echo "<br/>".Date('Y-m-d');
+
+		//$iDateToday=intval(str_replace("-","",Date('Y-m-d')));
+
+		$dateNewsLastAccessedDate=date_create(str_replace("; last accessed: ","",$sLastAccessed));//->format('Y-m-d');
+		$dateToday=date_create(Date('Y-m-d'));
+
+		//echo "iNewsLastAccessedDate: ".$iNewsLastAccessedDate."<br/>";
+		//echo "iDateToday: ".$iDateToday."<br/>";
+
+		//echo "dateNewsLastAccessedDate: ".$dateNewsLastAccessedDate."<br/>";
+
+		//echo ">>>date_diff: ".date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%R%a days")."<br/>";
+
+		//echo ">>>date_diff: ".intval(date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%a"))."<br/>";
+
+
+		$iDateTodayAndNewsLastAccessedDifference=intval(date_diff($dateNewsLastAccessedDate,$dateToday)->format("%a"))."<br/>";
+
+		//echo $iDateToday-$iNewsLastAccessedDate;
+		//$iDateTodayAndNewsLastAccessedDifference = $iDateToday-$iNewsLastAccessedDate;
 
 		return $iDateTodayAndNewsLastAccessedDifference;
 	}	
