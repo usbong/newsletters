@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250602; from 20250601
+  @date updated: 20250606; from 20250602
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -4255,6 +4255,8 @@ if ($languageCompleteFilenameArrayCount==1) {
 //added by Mike, 20240720
 $bHasAdditionalReference=false;
 
+//echo ">>>>>>>".$cellValue."<br/>";
+
 //$sToken = strtok($cellValue, "<br/>");
 $sToken = strtok($cellValue, "\n");
 $sPrevToken="";
@@ -4264,9 +4266,8 @@ while ($sToken !== false)
 {
 	//added by Mike, 20240717
 	//echo ">>>".$iRowCount;
-	//echo "$sToken<br>";
+	//echo "TOKEN: $sToken<br>";
 
-	
 	//if (strpos($cellValue, "##")!==false) {
 	if ($iRowCount==0) {
 		//note: space after "##"
@@ -4539,15 +4540,18 @@ while ($sToken !== false)
 	else if (strpos($sToken, "http")!==false) {
 		processWebsiteReference($sToken);
 	}
-	//added by Mike, 20231222
-	else if (strlen($sToken)==strlen("<br/>")) {		
-//	else if (strpos(strtolower($sToken), "<br/>")!==false) {
-		if (strpos(strtolower($sToken), "<br/>")!==false) {
+	//edited by Mike, 20231222
+	//else if (strlen($sToken)==strlen("<br/>")) {
+	else if (strpos(strtolower($sToken), "<br/>")!==false) {
+		//if (strpos(strtolower($sToken), "<br/>")!==false) {
+		if (strlen($sToken)==strlen("<br/>")) {
 			echo "<br/>";
 		}
+		
+		//echo "HERE!!!".$sToken."END<br/>";
 	}
 	else {
-		//echo ">>>DITO";
+		//echo ">>>DITO<br/>";
 
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
