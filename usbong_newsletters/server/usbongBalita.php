@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250606; from 20250602
+  @date updated: 20250610; from 20250606
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -417,7 +417,7 @@
 
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
-							margin-top: 3%;/*5%;*/
+							margin-top: 3%;
 
 							border-left: 5px solid #ababab; /*#ab9c7d;*/
 							padding: 2px;
@@ -921,7 +921,8 @@
 							text-align: justify;
 							text-justify: inter-word;
 							
-							display: inline;
+							display: block; /*inline;*/
+							margin-bottom: 2%;
 						}
 
 						span.spanSummaryReportsCount
@@ -2114,6 +2115,9 @@
 	  </script>	  
 
 <?php
+	//added by Mike, 20250610
+	//TODO: -update: this
+	$bIsShowOriginalText=true; //false; //default
 
 	//added by Mike, 20220628
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
@@ -4209,7 +4213,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 $sNewsTitleWebsiteReference = processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL, $completeFilename);
 
-
 $newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
 
 $newsTitleWithTranslation = substr($newsTitleOriginal,0,strpos($newsTitleOriginal,">")); //">" not included
@@ -4226,8 +4229,24 @@ $newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,
 	echo strlen($newsTitleMain)."<br/>";
 */	
 
-//edited by Mike, 20250529	
-$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+//edited by Mike, 20250610; from 20250529	
+//$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+
+//echo ">>>>".$completeFilename;
+
+$newsTitleOutput = "";
+
+if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
+	$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+}
+else {
+	if ($bIsShowOriginalText) {
+		$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+	}
+	else {
+		$newsTitleOutput = $sNewsTitleWebsiteReference.$newsTitleTranslated;
+	}
+}
 
 //$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."<div class='newsTitleDiv'>HALLO</div></blockquote>".$newsTitleTranslated;
 
@@ -4240,7 +4259,7 @@ if ($languageCompleteFilenameArrayCount==1) {
 
 ?>
 
-<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php echo "$newsTitleOutput";?></span>
+<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php echo $newsTitleOutput."";?></span>
 
 <!-- added by Mike, 20231215 -->
 <span id="summaryReportsCountId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="spanSummaryReportsCount"></span>
@@ -4353,12 +4372,22 @@ while ($sToken !== false)
 		//added by Mike, 20250125
 		$sToken=updateTextInputWithLink($sToken);
 
-		echo "<blockquote class='usbongBlockquote'>";
-		echo "$sToken";
+		//added by Mike, 20250610
+		//echo ">>>>".$completeFilename;
 		
-		//echo "HALLO!!!";
-		
-		echo "</blockquote>";
+		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
+			echo "<blockquote class='usbongBlockquote'>";
+			echo "$sToken";
+			echo "</blockquote>";
+		}
+		else {
+			if ($bIsShowOriginalText) {
+				echo "<blockquote class='usbongBlockquote'>";
+				echo "$sToken";
+				//echo "HALLO!!!";
+				echo "</blockquote>";
+			}
+		}
 	}
 	else if (strpos($sToken, "-->")!==false) {		
 		//added by Mike, 20230801
