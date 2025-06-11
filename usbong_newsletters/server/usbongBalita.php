@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250610; from 20250606
+  @date updated: 20250611; from 20250610
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -425,6 +425,31 @@
 
 							/* text-indent: 5%;*/
 						}
+
+						blockquote.usbongBlockquotePersonal {
+							width: 100%;
+							
+							line-height: 2;
+
+							text-align: justify;
+							text-justify: inter-word;
+							
+							background: #fff;
+							color: rgb(20,20,20);
+							font-size: 24pt;
+
+							margin:0;
+							margin-bottom: 3%;/*5%;*/
+							margin-top: 3%;
+
+							border-left: 0px solid #ab9c7d; /*#ababab;*/
+							
+							padding: 2px;
+							
+							/*padding-left: 3%;*/
+
+							/* text-indent: 5%;*/
+						}
 	 
 						iframe {
 							width: 100% !important;
@@ -818,11 +843,10 @@
 							text-align: right;
 							color: rgb(80,52,37);
 							font-weight: bold;
+							
 							/*							
 							background-color: rgb(220,220,220);
 							padding: 4px;
-							/*
-							border: 0.2em dotted #000; 
 							*/
 						}
 
@@ -904,6 +928,9 @@
 
 							text-align: justify;
 							text-justify: inter-word;
+/*							
+							margin-top: -0.4em;
+*/
 
 							display: none;
 						}
@@ -1746,17 +1773,22 @@
 							}
 */
 			  if ((currSummaryReportsId!==null) && (currSummaryReportsHeaderId!==null)) {
-				  //if display set by CSS to "inline"; blank
+				  //if display set by CSS to "block"; blank
 				  if (currSummaryReportsHeaderId.style.display === "") {
-					  currSummaryReportsId.style.display = "inline";
+					  //currSummaryReportsId.style.display = "inline";
+					  currSummaryReportsId.style.display = "block";
+					  
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
-				  else if (currSummaryReportsHeaderId.style.display === "inline") {
-					  currSummaryReportsId.style.display = "inline";
+				  else if (currSummaryReportsHeaderId.style.display === "block") {
+					  //currSummaryReportsId.style.display = "inline";
+					  currSummaryReportsId.style.display = "block";
+
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
 				  else if (currSummaryReportsId.style.display === "none") {
-					  currSummaryReportsId.style.display = "inline";
+					  //currSummaryReportsId.style.display = "inline";
+					  currSummaryReportsId.style.display = "block";
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
 				  else {
@@ -1973,7 +2005,8 @@
 		  //alert ("sLanguage: "+sLanguage);
 		  
 		  var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);	
-		  bodyTable.style.display = "inline"; 
+		  //bodyTable.style.display = "inline"; 
+		  bodyTable.style.display = "block"; 
 		  
 		  var summaryReports = document.getElementById("summaryReportsId"+iNewsRankCount+"-"+sLanguage);
 
@@ -1981,7 +2014,8 @@
 		  
 		  //set this here to open the article;
 		  //note CN resizes to smaller width otherwise;
-		  summaryReports.style.display = "inline";
+		  //summaryReports.style.display = "inline";
+		  summaryReports.style.display = "block";
 		  summaryReportsHeader.style.display = "none"; 
 		  
 		  var mainTextDivId = document.getElementById("mainTextDivId"+iNewsRankCount+"-"+sLanguage);	
@@ -2095,7 +2129,8 @@
 			  //alert ("sLanguage: "+sLanguage);
 			  
 			  var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);	
-			  bodyTable.style.display = "inline"; 
+			  //bodyTable.style.display = "inline"; 
+			  bodyTable.style.display = "block"; 
 			  
 			  var summaryReports = document.getElementById("summaryReportsId"+iNewsRankCount+"-"+sLanguage);
 
@@ -2103,7 +2138,8 @@
 			  
 			  //set this here to open the article;
 			  //note CN resizes to smaller width otherwise;
-			  summaryReports.style.display = "inline";
+			  //summaryReports.style.display = "inline";
+			  summaryReports.style.display = "block";
 			  summaryReportsHeader.style.display = "none"; 
 			  
 			  var mainTextDivId = document.getElementById("mainTextDivId"+iNewsRankCount+"-"+sLanguage);	
@@ -2117,7 +2153,7 @@
 <?php
 	//added by Mike, 20250610
 	//TODO: -update: this
-	$bIsShowOriginalText=true; //false; //default
+	$bIsShowOriginalText=true; //true; //false; //default
 
 	//added by Mike, 20220628
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
@@ -4237,7 +4273,7 @@ $newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,
 $newsTitleOutput = "";
 
 if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
-	$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+	$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquotePersonal' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
 }
 else {
 	if ($bIsShowOriginalText) {
@@ -4327,7 +4363,7 @@ while ($sToken !== false)
 				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
 			}			
 		}
-		
+
 		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
 		echo "<h3>";
 
@@ -4349,8 +4385,7 @@ while ($sToken !== false)
 
 		echo "</h3>";
 		echo "</span>";
-
-		echo "<hr>";
+		echo "<hr>";		
 	}
 	//else if (strpos($cellValue, ">")!==false) {
 	else if (substr($sToken,0,1)==">") {
@@ -4376,7 +4411,7 @@ while ($sToken !== false)
 		//echo ">>>>".$completeFilename;
 		
 		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
-			echo "<blockquote class='usbongBlockquote'>";
+			echo "<blockquote class='usbongBlockquotePersonal'>";
 			echo "$sToken";
 			echo "</blockquote>";
 		}
