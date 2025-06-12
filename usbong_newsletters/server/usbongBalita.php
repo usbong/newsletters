@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250611; from 20250610
+  @date updated: 20250612; from 20250611
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -57,9 +57,8 @@
   //TO-DO: -delete: excess instructions
 
 
-//added by Mike, 20231224
-  //TODO: -verify: page format using various articles; with "REFERENCE", USBONG NOTE", etc.
-  //newlines not yet consistent;
+  //added by Mike, 20250612
+  //TODO: -fix: delay when loading audio text and bat image;
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -341,7 +340,15 @@
 							margin-left: 0%;							
 						}
 
+						img.ImageTileFrame1 {
+							position: absolute;
 
+							clip: rect(0px,32px,32px,0px);
+							visibility: hidden;
+							
+							z-index: 4; /*2;*/
+						}
+						
 						img.Image-radio {
 /*
 							width: 100%;
@@ -511,6 +518,14 @@
 						td.radioImageTd
                         {
 							width: 1%;
+                        }
+
+						td.selectNewsSourceTd
+                        {
+							/*width: 1%;*/
+							float: right;
+							display: inline-block;
+							margin-top: 0.6em;
                         }
 
 						table.noteTable
@@ -1007,6 +1022,13 @@
 							border: 0px solid;	
 						}
 
+						button.origTextButton
+						{
+							background-color: white;
+							border: 0px solid;	
+							margin-right: 2.5em;
+						}
+
 						button.playRadioButton
 						{
 /*							
@@ -1022,6 +1044,12 @@
 						}
 
 						button.jeepRadioButton:hover
+						{
+							background-color: #f1f1f1;
+							border-radius: 10px;
+						}						
+
+						button.origTextButton:hover
 						{
 							background-color: #f1f1f1;
 							border-radius: 10px;
@@ -1091,6 +1119,21 @@
 		
 		//added by Mike, 20250514
 		bHasPressedLanguageChange=false;
+		
+		//added by Mike, 20250612
+		var batMonsterImageTile = document.getElementById("batMonsterImageId");
+		var iBatMonsterAnimationCount=-1;//0; start at -1
+		var iBatMonsterAnimationCountMax=5;
+		var iBatMonsterAnimationDelayCount=10; //bat; //0
+		var iBatMonsterAnimationDelayCountMax=6;
+		
+		var iImageFrameWidth=32;// 64; //0;
+		var iImageFrameHeight=32;// 64;
+
+		var iImageFrameWidthDefault=32;
+		var iImageFrameHeightDefault=32;
+		
+		var isBatMonsterTileActive=true;
 
 		function myUpdateFunction() {
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
@@ -1111,6 +1154,11 @@
 			}
 			
 			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
+			
+			//added by Mike, 20250612
+			if (isBatMonsterTileActive) {
+				executeBatMonsterWalkingAnimation();
+			}
 		}
 	
 		function onLoad() {
@@ -1274,11 +1322,15 @@
 			  }
 			};
 			
-			
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
 
 			sMyAudioDurationText.innerHTML="0:00 / "+getAudioTotalDuration();
 						
+			//added by Mike, 20250612
+			if (sessionStorage.getItem('isDisplayOriginalText')==='false') {
+				toggleOriginalTextDisplay();
+			}
+
 			//fFramesPerSecond=16.66; //100.00; //16.66;
 			clearInterval(iCurrentIntervalId);
 			iCurrentIntervalId=setInterval(myUpdateFunction, fFramesPerSecond);	
@@ -1483,6 +1535,44 @@
 			//note: use of "+" (in Javascript), instead of "." (in PHP);
 		}
 
+	  //added by Mike, 20250612
+	  function toggleOriginalTextDisplay() {
+		const usbongBlockquoteCollection = document.getElementsByClassName("usbongBlockquote");
+		
+		var selectBox = document.getElementById("newsSelectId");
+		var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+			
+		var batMonsterImageTile = document.getElementById("batMonsterImageId");
+
+		//alert(selectedValue);
+
+		if (selectedValue==="N8") { //PERSONAL
+			batMonsterImageTile.style.visibility="hidden";
+			isBatMonsterTileActive=false;
+			//sessionStorage.setItem('isDisplayOriginalText', 'true');
+		}
+		else {
+			batMonsterImageTile.style.visibility="visible";
+			isBatMonsterTileActive=true;
+
+			//reference: Google AI; last accessed: 20250612
+			for (let i = 0; i < usbongBlockquoteCollection.length; i++) {
+			  //console.log(array[i]);
+			  //usbongBlockquoteCollection[i].style.display = "none";
+			  
+			  if (usbongBlockquoteCollection[i].style.display === "none") {
+				usbongBlockquoteCollection[i].style.display = "block";
+				sessionStorage.setItem('isDisplayOriginalText', 'true');
+			  }
+			  else {
+				usbongBlockquoteCollection[i].style.display = "none";
+				sessionStorage.setItem('isDisplayOriginalText', 'false');
+			  }
+			}
+		}
+		
+		//alert("DITO!!!");
+	  }
 
 	  //added by Mike, 20231215
 	  function toggleMoreStart(sParamId) {
@@ -2050,6 +2140,39 @@
 */		  
 
 	  }
+	  
+	  //added by Mike, 20250612
+	  function executeBatMonsterWalkingAnimation() {
+		var batMonsterImageTile = document.getElementById("batMonsterImageId");
+		
+		batMonsterImageTile.style.visibility="visible";
+
+		//iMonsterAnimationDelayCountMax=15;
+		
+		if (iBatMonsterAnimationDelayCount>=iBatMonsterAnimationDelayCountMax) {
+			iBatMonsterAnimationCount=(iBatMonsterAnimationCount+1)%2; //3; //last hidden
+
+			iBatMonsterAnimationDelayCount=0;			
+
+		}
+		else {
+			iBatMonsterAnimationDelayCount++;
+
+	//		alert("iExplosionEffectAnimationCount: "+iExplosionEffectAnimationCount);
+		}
+
+		//var iFrameY=0;
+		var iFrameY=iImageFrameHeight*2;//64*2; 128;
+
+		//currently two frames only
+		if (iBatMonsterAnimationCount==0) { 
+			batMonsterImageTile.style.objectPosition = "-" + 0 + "px -" + iFrameY + "px";
+		}
+		else if (iBatMonsterAnimationCount==1) { 
+			batMonsterImageTile.style.objectPosition = "-" + iImageFrameWidthDefault + "px -" + iFrameY + "px";
+		}
+	}
+	
 	
       //added by Mike, 20250517; from 20250515
 	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
@@ -2455,7 +2578,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 					//note: can select previous days?...
 
+					//edited by Mike, 20250612
 					echo "<span class='dateTodaySpan'>$dateTodayDay | ";
+
+					//echo "<span class='dateTodaySpan'><button class='origTextButton'><img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'></button>$dateTodayDay | ";
+					
 					echo "<a class='webServiceTimeOffLink' target='_blank' href='http://store.usbong.ph/timeoff'>";
 					echo $dateToday;
 					echo "</a></span>";
@@ -2612,7 +2739,21 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 
 </div>
 			</td>
-			<td>
+			
+			<td class="selectNewsSourceTd">
+<button class='origTextButton'>
+<?php
+//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
+	//answer by: Greg, 20081126T1928
+/*	
+	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
+*/	
+
+	echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
+	
+?>	
+</button>
+
 			<?php
 				//added by Mike, 20250430; from 20230920
 				//default
@@ -2876,7 +3017,6 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			  <option value="N2">eurogamerspain</option>
 -->
 			  </select>
-
 <!-- //added by Mike, 20230929 -->
 			</td>
 		</tr>
@@ -3028,7 +3168,10 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 			if (filter_var($sGitHubLinkTemp, FILTER_VALIDATE_URL) === FALSE) {
 			}
 			else {
-				if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+				//edited by Mike, 20250612
+				//if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+				//Warning: get_headers(): php_network_getaddresses: getaddrinfo failed: No such host is known.
+				if ((strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false) || (strpos(get_headers($sGitHubLinkTemp, 1)[0],"Warning: get_headers()")!==false))
 				{
 					//URL throws a 404 error
 					//echo "DITO";
