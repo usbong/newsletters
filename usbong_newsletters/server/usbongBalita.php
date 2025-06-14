@@ -2980,7 +2980,11 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 							//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
 				
 							if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+								//edited by Mike, 20250614
 								$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'>⭐</span>"; //*
+								
+								//image not displayed in select option
+								//$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'><img class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250614'></span>";
 							}	
 						}
 					}
