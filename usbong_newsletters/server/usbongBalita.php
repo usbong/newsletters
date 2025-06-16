@@ -1232,6 +1232,16 @@
   						var element = formTitleList[i];
   						element.style.fontSize = "1.25em";//"18px";
 					}
+					
+					//if not iPad (mobile)
+					if (!bIsUsingAppleWebKit) {
+						//redirect to lite version;
+						var sInput = window.location.href;			
+						sInput=sInput.replace("usbongBalita.php","usbongBalitaLite.php");
+						sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+
+						window.location.href = ""+sInput;
+					}
 				}
 			}
 
