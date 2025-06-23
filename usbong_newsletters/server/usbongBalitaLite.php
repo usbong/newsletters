@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250616; from 20250613
+  @date updated: 20250623; from 20250616
   @website address: http://www.usbong.ph
 
   Computer Browser: Website Address (Example):
@@ -80,6 +80,24 @@
 							overflow: auto;
                         }
 						
+						canvas.myCanvas {
+							position: absolute;
+
+							padding: 0;
+							margin: auto;
+							display: block;
+
+							width: 640px;
+							height: 360px;
+							
+							visibility: hidden;
+
+							border: 0px; /*1px dotted gray;*/
+
+							z-index: -1;
+						}
+						
+						
 						div.copyright
 						{
 							text-align: center;
@@ -130,6 +148,15 @@
 		//added by Mike, 20250514
 		bHasPressedLanguageChange=false;
 		
+		//added by Mike, 20250623
+		var mainBody = document.getElementById("myBodyId");
+
+				
+		//alert(mainBody.clientWidth);
+		//alert(document.body.offsetWidth);
+		//OK
+		//alert(window.innerWidth);
+		
 		//added by Mike, 20250612
 		var batMonsterImageTile = document.getElementById("batMonsterImageId");
 		var iBatMonsterAnimationCount=-1;//0; start at -1
@@ -174,6 +201,18 @@
 									
 			//alert(window.getComputedStyle(batMonsterImageTile.style.left));
 			
+			//added by Mike, 20250623
+			var mainBody = document.getElementById("myBodyId");
+
+			//alert(mainBody.clientWidth);
+		
+			//batMonsterImageTile.style.left = window.innerWidth/2-(iImageFrameWidth/2)+"px";
+
+			batMonsterImageTile.style.left = mainBody.clientWidth/2-(iImageFrameWidth/2)+"px";		
+			
+			//alert(">>>>"+batMonsterImageTile.style.left);
+		
+		
 			if (iBatMonsterAnimationDelayCount>=iBatMonsterAnimationDelayCountMax) {
 				iBatMonsterAnimationCount=(iBatMonsterAnimationCount+1)%2; //3; //last hidden
 
@@ -199,6 +238,10 @@
 		}
 	  </script>	  
 	<body id='myBodyId' class='body' onload='onLoad()'>
+<!--	
+	<canvas id="myCanvasId" class="myCanvas">
+	</canvas>
+-->	
 	<br/>
 	<br/>	
 	<div class="copyright">
