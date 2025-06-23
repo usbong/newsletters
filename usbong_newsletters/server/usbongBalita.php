@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250613; from 20250612
+  @date updated: 20250623; from 20250613
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1211,6 +1211,7 @@
 				//added by Mike, 20230510
 				//mobile telephone; not tablet pc
 				if (bIsMobile) {
+/*					//removed by Mike, 20250623
 					usbongBlockquoteList = document.getElementsByClassName("usbongBlockquote");
 					textDoubleSpacedDivList = document.getElementsByClassName("textDoubleSpacedDiv");
 					//added by Mike, 20230511
@@ -1232,6 +1233,7 @@
   						var element = formTitleList[i];
   						element.style.fontSize = "1.25em";//"18px";
 					}
+*/
 					
 					//if not iPad (mobile)
 					if (!bIsUsingAppleWebKit) {
@@ -1241,6 +1243,8 @@
 						sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
 
 						window.location.href = ""+sInput;
+
+						return;
 					}
 				}
 			}
