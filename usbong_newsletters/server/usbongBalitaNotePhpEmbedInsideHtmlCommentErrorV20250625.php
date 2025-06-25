@@ -1,4 +1,4 @@
-﻿<!--
+﻿﻿<!--
   Copyright 2021~2025 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250625; from 20250623
+  @date updated: 20250623; from 20250613
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -702,7 +702,7 @@
 						}
 
 						tr.rowEvenNumber {
-							background-color: #dddddd; 
+							background-color: #dddddd; <!--#dddddd; = gray #95b3d7; = sky blue; use as row background color-->
 							border: 1pt solid #00ff00;
 						}
 
@@ -1082,6 +1082,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20211014
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
+-->
+
+<!-- //removed by Mike, 20230815
+	<base href="http://store.usbong.ph/" target="_blank">
+-->
+
+	<!-- added by Mike, 20220630 -->
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="google-site-verification" content="fIE_s1RlOUpi0n7Yi2lEawdU_P6W003_QNSF1hKGu1A" />
 
@@ -2308,196 +2318,56 @@
 	//$dateToday = (new DateTime())->format('Y-m-d');
 	$dateToday = Date('Y-m-d');
 	
-//	$result = array();
-	$sYearDirectory="/server/2021/";
+	//default
+	$updatedDirDueToURL="";
 
-	//edited by Mike, 20211020
-//    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory);
-    $arrayFilesInCurrentDirectory = scandir(dirname(__DIR__).$sYearDirectory, SCANDIR_SORT_DESCENDING);
-
-	//echo idate("Y");
-	//edited by Mike, 20220619
-	$iYearCount=2022; //2021;
-	$iCurrentYear = idate("Y");
-
-	while ($iYearCount<=$iCurrentYear) {
-		//edited by Mike, 20230110
-		$sYearDirectoryPartTwo="/server/".$iYearCount."/";
-
-		if (file_exists(dirname(__DIR__).$sYearDirectoryPartTwo)) {
-			$arrayFilesInCurrentDirectory = array_merge($arrayFilesInCurrentDirectory, scandir(dirname(__DIR__).$sYearDirectoryPartTwo, SCANDIR_SORT_DESCENDING));
+	if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
+		$updatedDirDueToURL="../";
+		if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
+			$updatedDirDueToURL=$updatedDirDueToURL."../";
 		}
-
-		$iYearCount++;
-	}
-
-	//echo $arrayFilesInCurrentDirectory[0];
-
-//--
-
-	$usbongSearchBasePath=str_replace('/', DIRECTORY_SEPARATOR, "/server/usbongSearch.php");
-
-	//added by Mike, 20211013; edited by Mike, 20211014
-	//note: update this
-//	$sWebAddressBasePath = "http://localhost";
-	//edited by Mike, 20220304
-	$sWebAddressBasePath = "http://store.usbong.ph";
-		
-	//added by Mike, 20240726
-	//------------------------------------------
-	//TODO: -add: MySQL DB; put IP addresses; MVC
-/*	
-	$ipAddress = $_SERVER['REMOTE_ADDR'];
+	}	
 	
-	if (strpos($ipAddress, "::")!==false) {
-		$ipAddress = "SERVER ADDRESS";
-		
-		echo "<font color='#FF0000'><b>Please set as default in the Computer Server Browser,<br/>the Computer Server Internet Protocol (IP) Address<br/>that is not \"localhost\".<br/><br/></b></font>";
-	}		
-
-	//$this->session->set_userdata('client_ip_address', $ipAddress);
-
-	//TO-DO: -set: value for blank machine address due to Windows Machine		
-//		echo $_SESSION["client_ip_address"];
-//		echo $_SESSION["client_machine_address"];
-
-	//edited by Mike, 20240727	
-	//note: excess space before text;
-	//example:  YOUR INTERNET PROTOCOL ADDRESS: 127.0.0.1
-	echo "<b><font color='#FF4500'>YOUR INTERNET PROTOCOL ADDRESS: </font></b>".$ipAddress."<br/>";	
-		
-	//browser and machine specs
-	//example: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-	echo $_SERVER["HTTP_USER_AGENT"]."<br/>";
-*/	
-	//------------------------------------------
-
 ?>
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">
 		<a class="menuLink" target="_blank" href="http://www.usbong.ph">
 <?php
-//reference: https://stackoverflow.com/questions/1283327/how-to-get-url-of-current-page-in-php; last accessed: 20230912
-//answer by: Amber, 20090816T0208
-//edited by: Brad Larson, 20180309T0122
-
-//echo $_SERVER['REQUEST_URI']."<br/>"; ///usbong_newsletters/server/usbongExam.php/Q4
-
-//echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
-
-//edited by Mike, 20240614; from 20240516
-$iDateTodayAndNewsLastAccessedDifferenceMax=4; //3
-
-//default
-$updatedDirDueToURL="";
-
-if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
-	$updatedDirDueToURL="../";
-	
-	if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
-		$updatedDirDueToURL=$updatedDirDueToURL."../";
-	}
-}
-
-
-//added by Mike, 20230913
-$sInputURL=$_SERVER['REQUEST_URI'];
-$sNewsNumberLocationPart="";
-//edited by Mike, 20250430
-$iNewsNumberRaw=8;//0; //8
-
-//step#1
-$sNewsNumber=substr($sInputURL, strpos($sInputURL,".php/"));
-
-//echo $sNewsNumber;
-
-//.".php/"
-if ($sNewsNumber==$sInputURL) { //default URL; no Q1, etc.
-
-//added by Mike, 20230920
-//TODO: -update: this
-
-//default;
-$sNewsNumberLocationPart="Q1-20230815";
-//	echo "DITO";
-}
-else {
-	//added by Mike, 20230920
-	//TODO: -update: this
-
-	//step#2
-	//edited by Mike, 20240512
-	$sNewsNumber=substr($sNewsNumber, strpos(strtoupper($sNewsNumber),"N"));
-
-	//echo ">>>>".$sNewsNumber;
-	
-	//http://localhost/usbong_newsletters/server/usbongBalita.php
-	if (strpos($sNewsNumber,".php")!==false) {
-		$sNewsNumber="N8";
-	}
-
-	//step#3
-	//get the question number in integer
-	//start date: 20230815
-
-	$iNewsNumber=intval(substr($sNewsNumber,1));
-	$iNewsNumberRaw=$iNewsNumber;
-
-	//echo "sNewsNumber: ".$sNewsNumber."<br/>";
-}
-
-	if (isMobile()) {
-		echo "<img class='Image-companyLogoMobile' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
-	}
-	else {
 		echo "<img class='Image-companyLogo' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
-	}
-?>
+?>		
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
-
 		<a class="menuLink" target="_blank" href="https://philnits.org/review-38/">
 <?php
 		echo "<img class='Image-philnitsLogo' src='../".$updatedDirDueToURL."assets/images/philnitsLogo.jpg'>";
-?>
+?>		
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
 		<a class="usbongYoutubeLink" target="_blank" href="https://www.youtube.com/@usbong">
+
 <?php
 		echo "<img class='Image-usbongYouTubeLogo' src='../".$updatedDirDueToURL."assets/images/usbongYouTubeLogo.png'>";
 ?>
 		</a>
-		</td>		
-
+		</td>
 		<td class="pageNameColumn">
-		<div class='formTitle'>
-			<span class='balitaSpan'>
-			<b>BALITA</b>
-			</span>
-			<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
-<?php
-		echo "<img class='Image-favicon' src='../".$updatedDirDueToURL."assets/images/favicon.png'>";
-?>
-			</a>
-			<br/>
+			<div class='formTitle'>
+				<span class='balitaSpan'>
+				<b>BALITA</b>
+				</span>
+				<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
+				<?php
+						echo "<img class='Image-favicon' src='../".$updatedDirDueToURL."assets/images/favicon.png'>";
+				?>
+				</a>
+				<br/>
 				<?php
 					//$dateToday="2023-05-08";
 					$dateTodayDay = strtoupper(date('D', strtotime($dateToday)));
-					//echo $dateToday;
-
-					//edited by Mike, 20230711
-					//echo "$dateTodayDay | ".$dateToday;
-
-					//note: can select previous days?...
-
-					//edited by Mike, 20250612
 					echo "<span class='dateTodaySpan'>$dateTodayDay | ";
-
-					//echo "<span class='dateTodaySpan'><button class='origTextButton'><img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'></button>$dateTodayDay | ";
-					
 					echo "<a class='webServiceTimeOffLink' target='_blank' href='http://store.usbong.ph/timeoff'>";
 					echo $dateToday;
 					echo "</a></span>";
@@ -2505,86 +2375,75 @@ else {
 			</div>
 		</td>
 	   </tr>
-	</table>
-
-<table class="searchTable">
+	   </table>	   
+	
+	   <table class="searchTable">
 		<tr>
 			<td class="radioImageTd">
-<button class='jeepRadioButton'>
-<?php
-	//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
-	//answer by: Greg, 20081126T1928
-	
-	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
-?>	
-</button>
+				<button class='jeepRadioButton'>
+				<?php
+				//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
+					//answer by: Greg, 20081126T1928
+					
+					echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
+				?>	
+				</button>
 			</td>
 			<td>
 <?php
-	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
-		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-	}
-	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
-		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
-	}
-	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
-		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
-		//$sAudioInput="../".$sBaseAssetsDirectory."audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
-	}
-	//added by Mike, 20241021
-	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
-		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
-	}	
-	else {
-		//edited by Mike, 20241010
-		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
-			//http://localhost/usbong_newsletters/server/usbongBalita.php/
-			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
-			
-			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-		}		
-		else { 
-			//no slash at the end
-			//http://localhost/usbong_newsletters/server/usbongBalita.php
-			//edited by Mike, 20241010			
-			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
-			
-			//$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-			
-			$sAudioInput=$updatedDirDueToURL."../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-		}
-	}
-
+			if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
+				$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			}
+			else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
+				$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+			}
+			else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
+				$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
+			}
+			else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
+				$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+			}	
+			else {
+				if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
+					$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+				}		
+				else { 
+					//no slash at the end
+					//http://localhost/usbong_newsletters/server/usbongBalita.php
+					//edited by Mike, 20241010			
+					$sAudioInput=$updatedDirDueToURL."../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+				}
+			}
+	
 	//echo $sAudioInput;
 ?>
-<div class="divAudioPlayerContainer">
+				<div class="divAudioPlayerContainer">
+				<button class="playRadioButton">
+				<?php
+					echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
+					
+				?>
+				</button>
 
-<button class="playRadioButton">
-<?php
-	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
-	
-?>
-</button>
+				<span id="myAudioDurationTextId" class="spanAudioDuration">
+				</span>
 
-<span id="myAudioDurationTextId" class="spanAudioDuration">
-</span>
+				<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
+				  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
+				  Your browser does not support the audio tag.
+				</audio>	
 
-		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
-		  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
-		  Your browser does not support the audio tag.
-		</audio>	
-
-		</div>
-		</td>
-		<td class="selectNewsSourceTd">
-		<button class='origTextButton'>
-<?php
-//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
-	//answer by: Greg, 20081126T1928
-	echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
-	
-?>	
-		</button>
+				</div>
+			</td>
+			<td class="selectNewsSourceTd">
+				<button class='origTextButton'>
+				<?php
+				//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
+					//answer by: Greg, 20081126T1928
+					echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
+					
+				?>	
+				</button>
 			<?php
 				//added by Mike, 20250430; from 20230920
 				//default
@@ -2592,15 +2451,15 @@ else {
 				$sNewsSourceSelected=$sNewsSource;
 				//added by Mike, 202504240; from 20241017
 				$sNewsDisplayedName="FAMITSU";//"PERSONAL";//ASAHI SHIMBUN"; //"PERSONAL";
+
 			?>
-			<select class="newsSelect" id="newsSelectId" onchange="showNews()">
+				<select class="newsSelect" id="newsSelectId" onchange="showNews()">
 			 <?php
 				//reference: https://www.w3schools.com/php/php_looping_for.asp; last accessed: 20230913
 					for ($i=1; $i<=8; $i++) { //<=7; 6
 						//default
 	//					$sNewsSource="asahishimbun";
 
-						//edited by MIke, 20250430
 						if ($i==1) {
 							$sNewsSource="asahishimbun";
 							$sNewsDisplayedName="ASAHI SHIMBUN";
@@ -2613,12 +2472,10 @@ else {
 							$sNewsSource="ignjapan";
 							$sNewsDisplayedName="IGN JAPAN";
 						}
-						//added by Mike, 20231003
 						else if ($i==4) {
 							$sNewsSource="famitsu";
 							$sNewsDisplayedName="FAMITSU";
 						}
-						//added by Mike, 20231201
 						else if ($i==5) {
 							$sNewsSource="gamedeveloper";
 							$sNewsDisplayedName="GAME DEVELOPER";
@@ -2636,17 +2493,11 @@ else {
 							$sNewsDisplayedName="PERSONAL";
 						}
 						
-						//added by Mike, 20250531
 						$sIncomingDraftTextSelectOption="";
 						
-					    //iDateTodayAndNewsLastAccessedDifferenceMax = 3;
-						
 						//verify if an incoming draft is present						
-						//for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
 						for ($iDayCount=0; $iDayCount<$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
 							$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
-
-						//echo $dateTodayTemp."<br/>";
 
 							$dateTodayTemp=str_replace('-','',$dateTodayTemp);
 							
@@ -2699,15 +2550,9 @@ else {
 							}
 
 							$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($dateTodayTemp);
-				
-							//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
-				
-							if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
-								//edited by Mike, 20250614
-								$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'>⭐</span>"; //*
 								
-								//image not displayed in select option
-								//$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'><img class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250614'></span>";
+							if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+								$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'>⭐</span>"; //*
 							}	
 						}
 					}
@@ -2725,1054 +2570,51 @@ else {
 						}
 					}
 			?>
+<!--
+			  <option value="N1">asahishimbun</option>
+			  <option value="N2">eurogamerspain</option>
+-->
 			  </select>
 			</td>
 		</tr>
 	</table>
 	<br/>
-	
 <?php
-	//added by Mike, 20250224
-	function replaceFirstOccurence($sToken,$needle,$replace) {
-		//$needle=">";
-		//$replace="";			
-		$haystack=$sToken;
-		$pos = strpos($haystack, $needle);
-		if ($pos !== false) {
-			$sToken = substr_replace($haystack, $replace, $pos, strlen($needle));
+		echo ">>>>>";
+		$sInputDirectory="/server/notes/LessonsLearned/";
+
+		//WINDOWS machine
+		if (strpos(dirname(__DIR__), ":\\")!==false) {
+			$filename=$currYearOnlyBasedOnDateTodayTemp."\\".$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;
+		}
+		//LINUX machine
+		else {				
+			$filename=$currYearOnlyBasedOnDateTodayTemp."/".$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
 		}
 		
-		return $sToken;
-	}
-
-	//added by Mike, 20240516
-	function processDateTodayAndNewsLastAccessedDifferencePrev($sLastAccessed) {
-		//echo str_replace("; last accessed: ","",$sLastAccessed);
-		$iNewsLastAccessedDate=intval(str_replace("; last accessed: ","",$sLastAccessed));
-
-		//echo "<br/>".Date('Y-m-d');
-
-		$iDateToday=intval(str_replace("-","",Date('Y-m-d')));
-
-		echo "iNewsLastAccessedDate: ".$iNewsLastAccessedDate."<br/>";
-		echo "iDateToday: ".$iDateToday."<br/>";
-
-		//echo ">>>date_diff: ".date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%R%a days")."<br/>";
-
-		echo ">>>date_diff: ".intval(date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%a"))."<br/>";
-
-
-		//echo $iDateToday-$iNewsLastAccessedDate;
-		$iDateTodayAndNewsLastAccessedDifference = $iDateToday-$iNewsLastAccessedDate;
-
-		return $iDateTodayAndNewsLastAccessedDifference;
-	}
-	
-	//added by Mike, 20250602
-	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
-		//echo str_replace("; last accessed: ","",$sLastAccessed);
-		//$iNewsLastAccessedDate=intval(str_replace("; last accessed: ","",$sLastAccessed));
-
-		//echo "<br/>".Date('Y-m-d');
-
-		//$iDateToday=intval(str_replace("-","",Date('Y-m-d')));
-
-		$dateNewsLastAccessedDate=date_create(str_replace("; last accessed: ","",$sLastAccessed));//->format('Y-m-d');
-		$dateToday=date_create(Date('Y-m-d'));
-
-		$iDateTodayAndNewsLastAccessedDifference=intval(date_diff($dateNewsLastAccessedDate,$dateToday)->format("%a"))."<br/>";
-
-		//echo $iDateToday-$iNewsLastAccessedDate;
-		//$iDateTodayAndNewsLastAccessedDifference = $iDateToday-$iNewsLastAccessedDate;
-
-		return $iDateTodayAndNewsLastAccessedDifference;
-	}	
-
-	//added by Mike, 20220305
-	function getUpdatedWebAddress($completeFilename, $sWebAddressBasePath) {
-		if (strpos($completeFilename,"www.usbong.ph")!==false) {
-			$sWebAddress = $completeFilename;
-			$sWebAddressUpdated = $sWebAddress;
-		}
-		else {
-			//if Windows machine
-			if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
-				$sWebAddress = str_replace("\\","/",$completeFilename);
-				$sWebAddress = "usbong_newsletters".$sWebAddress;
-			}
-			else {
-				$sWebAddress = $completeFilename;
-			}
-
-//							echo ">>".$completeFilename;
-
-			$sWebAddress = explode("server", $sWebAddress)[1];
-			$sWebAddress = $sWebAddressBasePath."/server".$sWebAddress;
-
-			//removed by Mike, 20220305
-			//$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
-		}
-
-		return $sWebAddress;
-	}
-
-	function getGitHubLinkFromInput($cellValue, $updatedDirDueToURL, $completeFilename) {
-		$sGitHubLink = $cellValue;
-		
-		$sGitHubLink = substr($sGitHubLink, strpos($sGitHubLink,"github.com"), strpos($sGitHubLink,".md")-strpos($sGitHubLink,"github.com"));
-
-		//example: ## https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/famitsuDotCom/2024/202412/20241220.md
-		if (strlen(trim($sGitHubLink))>0) {
-			$sGitHubLink="https://".$sGitHubLink.".md";
+		$filename=str_replace("asahishimbun","",$filename);
 			
-			//$sGitHubLink="<a class='webServiceLink' target='_blank' href='".$sGitHubLink."'>A</a>";
+		$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/".$filename);
 
-			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
-		}
-		else {
-			//example: C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\gamedeveloper\2024\202412\20241218.md			
-			
-			//create temp variable
-			$sGitHubLinkTemp=str_replace("\\","/",$completeFilename);
-			
-			//famitsu
-			$sGitHubLinkTemp=str_replace("famitsu","famitsuDotCom",$sGitHubLinkTemp);
-			//gameDeveloper; case sensitive
-			$sGitHubLinkTemp=str_replace("gamedeveloper","GameDeveloperDotCom",$sGitHubLinkTemp);
-			//ignjapan; case sensitive
-			$sGitHubLinkTemp=str_replace("ignjapan","IGNJapan",$sGitHubLinkTemp);
-			//ignchina; case sensitive
-			$sGitHubLinkTemp=str_replace("ignchina","IGNChina",$sGitHubLinkTemp);
-			//asahiShimbun
-			$sGitHubLinkTemp=str_replace("asahishimbun","asahiShimbun",$sGitHubLinkTemp);
-			//eurogamerspain
-			$sGitHubLinkTemp=str_replace("eurogamerspain","Eurogamerspain",$sGitHubLinkTemp);
-			//added by Mike, 20250429
-			//TODO: -update: this
-//$sGitHubLinkTemp=str_replace("personal","Personal",$sGitHubLinkTemp);
-						
-			$sGitHubLinkTemp="https://github.com/usbong/newsletters/blob/main/notes/".substr($sGitHubLinkTemp,strpos($sGitHubLinkTemp,"LessonsLearned"));
-						
-			//echo "DITO".$sGitHubLinkTemp."<br/>";
-			
-			//$sGitHubLink=$sGitHubLinkTemp;
-			
-			//print_r(get_headers($sGitHubLinkTemp, 1));
-
-			//not valid URL
-			if (filter_var($sGitHubLinkTemp, FILTER_VALIDATE_URL) === FALSE) {
-			}
-			else {
-				//edited by Mike, 20250612
-				//if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
-				//Warning: get_headers(): php_network_getaddresses: getaddrinfo failed: No such host is known.
-				if ((strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false) || (strpos(get_headers($sGitHubLinkTemp, 1)[0],"Warning: get_headers()")!==false))
-				{
-					//URL throws a 404 error
-					//echo "DITO";
-				}	
-				else {
-					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
-				}
-			}
-		}
+		echo "Complete Filename: ".$completeFilename."<br/>";
 		
-		return " ".$sGitHubLink;
-	}
-
-	//added by Mike, 20250513
-	function processLanguageTagToDisplay($completeFilename,$iNewsRankCount) {
-		//-----
-		$sLanguage="EN";//"English"; //default
-		
-		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
-			$sLanguage="ch";//"Chinese Mandarin";
-		}
-		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
-			$sLanguage="JP";//"Japanese";
-		}
-		else if ((strpos($completeFilename, "es.md")!==false) or (strpos($completeFilename, "eurogamerspain")!==false)){
-			$sLanguage="ES";//"Spanish";
-		}
-		else if (strpos($completeFilename, "ph.md")!==false) {
-			$sLanguage="PH";//"Filipino";
-		}
-		
-		//-----
-		//edited by Mike, 20250515
-		$languageCompleteFilenameArray=processCheckLanguageAvailability($completeFilename);
-		
-		//$iValueCount=0;
-		
-		//added by Mike, 20250515
-		$sLanguage="";
-
-		foreach($languageCompleteFilenameArray as $value) {
-			if (file_exists($value[0])) {	
-				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
 /*
-				echo ">>>>>value[0]: ".$value[0]."<br/>";
-				echo ">>>>>value[1]: ".$value[1]."<br/>";
-*/
-				if ($value[1]==="") {
-					$value[1]="en";
-					$sLanguage="";
-				}
-	
-				$sLanguage=$sLanguage.strtoupper($value[1]).";";
-
-				//added by Mike, 20250515
-				//processReadFile($completeFilenameTemp);
-			}
-			
-			//$iValueCount++;
-		}
-		
-		//$sLanguage = str_replace("ch","EN",$sLanguage);
-		
-		//echo "OUTPUT: ".$sLanguage."<br/>";
-		
-		return processDisplayedLanguages($sLanguage,$iNewsRankCount);
-	}
-
-	//edited by Mike, 20250516; from 20250515
-	function processCheckLanguageAvailability($completeFilename) {
-		//added by Mike, 20250514
-		//check if other languages exist
-		$iLanguageCountMax=5; //TODO: -update: this
-		$bIsLanguageBlank=false;
-		
-		$languageCompleteFilenameArray = array();
-		$completeFilenameTemp="";
-		$sLanguageTemp="";
-		
-		for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
-
-			//echo ">>>".$completeFilename."<br/>";
-			$sLanguageInCompleteFilename=substr($completeFilename,strpos($completeFilename,".md")-2,2);
-			
-			//echo "!!!!!".$sLanguageInCompleteFilename."<br/>";
-			
-			if (is_numeric($sLanguageInCompleteFilename)==1) {
-				$bIsLanguageBlank=true;
-				//echo "BLANK!!!<br/>";
-			}
-			//echo "iLanguageCount: ".$iLanguageCount."<br/>";
-			
-			switch ($iLanguageCount) {
-					case 0: //en
-						$sLanguageTemp="";
-						break;
-					case 1: //jp
-						$sLanguageTemp="jp";
-						break;
-					case 2: //es
-						$sLanguageTemp="es";
-						break;
-					case 3: //ch
-						$sLanguageTemp="ch";
-						break;
-					case 4: //ph
-						$sLanguageTemp="ph";
-						break;
-			}		
-
-			//echo "HALLO: ".$sLanguageTemp."<br/>";			
-						
-			if ($bIsLanguageBlank) {
-				$completeFilenameTemp = str_replace(".md",$sLanguageTemp.".md",$completeFilename);
-				
-				$bIsLanguageBlank=false;
-			}
-			else {
-				//echo "DITO!".$sLanguageInCompleteFilename."<br/";
-				//echo "sLanguageTemp: ".$sLanguageTemp."<br/";
-
-				//edited by Mike, 20250516
-				//replace only the last occurrence by adding ".md"
-				//$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,$sLanguageTemp,$completeFilename);
-				$completeFilenameTemp = str_replace($sLanguageInCompleteFilename.".md",$sLanguageTemp.".md",$completeFilename);
-
-				//echo "completeFilenameTemp: ".$completeFilenameTemp."<br/";
-
-			}
-
-			//echo ">>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
-			
-			//TODO: -update: this; read each file and put into memory,
-			//so that the text can be displayed rapidly;
-			if (file_exists($completeFilenameTemp)) {	
-				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
-				
-				//echo ">>>>>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
-
-				//$sLanguage=$sLanguage.strtoupper($sLanguageTemp).";";
-				
-				//added by Mike, 20250515
-				//processReadFile($completeFilenameTemp);
-
-				array_push($languageCompleteFilenameArray,array($completeFilenameTemp,$sLanguageTemp));
-			}
-		}
-		
-		return $languageCompleteFilenameArray; //$sLanguage;
-	}
-
-	//added by Mike, 20250515
-	function processReadFile($completeFilename) {
 		if (!file_exists($completeFilename)) {
-		  return null;
+			break;
 		}
-
+*/
 		if (($handle = fopen($completeFilename, "r")) !== FALSE) {
-		  while (!feof($handle)) {
-			$data = fread($handle,filesize($completeFilename));
-			$cellValue = $data;
-			
-			//echo ">>>".$cellValue."<br/>";
-		  }
+			  while (!feof($handle)) {
+				//edited by Mike, 20211014;
+				//TO-DO: -update: to identify if keyphrase uses
+				//the previous read batch and the next batch
+				//edited by Mike, 20211014; edited again by Mike, 20211022
+				//$data = fread($handle, 128);
+				$data = fread($handle,filesize($completeFilename));
+			  }
 		}
-	}
-
-	//added by Mike, 20231207
-	//return sOutput
-	//edited by Mike, 20240516
-	//function processWebsiteReferenceForHeaderTitle($cellValue) {
-	//function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax) {
-	function processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax, $updatedDirDueToURL,$completeFilename) {
-		
-		//echo ">>>>".$completeFilename;
-		
-		//edited by Mike, 20250516; from 20250513
-		//$sLanguage=processLanguageTagToDisplay($completeFilename);
-		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
-		
-		$sToken = strtok($cellValue, "\n");
-
-		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL,$completeFilename);
-
-		//note: space after "##"
-		$sToken = str_replace("## ", "", $sToken);
-		
-		$sReferenceWebsite=substr($sToken,0,25)."... ";
-		
-		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
-				strpos($sToken,";")-strpos($sToken,"http"));
-				
-		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
-
-		//added by Mike, 20240516
-		$sIncomingDraftText="";
-		if ($iNewsRankCount==0) {
-			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
-				
-			if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
-				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
-			}	
-		}
-			
-		$sOutput="";
-		
-		//echo "DITO!!!!";
-
-		$sLanguage=processDisplayedLanguages($sLanguage,$iNewsRankCount);
-
-		$sOutput=$sOutput."<h3>
-		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
-
-		return $sOutput;
-	}
-	
-	//added by Mike, 20250514
-	function processDisplayedLanguages($sLanguage,$iNewsRankCount) {
-		$languageTokensArray=explode(";",$sLanguage);
-		$iNumOfLanguageTokens=count($languageTokensArray)-1;
-		
-		//echo ">>>iNumOfLanguageTokens: ".$iNumOfLanguageTokens."<br/>";
-		
-		if ($iNumOfLanguageTokens>1) {
-			//echo ">>>".$languageTokensArray[3]."<br/>";
-			$sLanguage="";
-			for ($iCount=0; $iCount<$iNumOfLanguageTokens; $iCount++) {
-				//echo "languageTokensArray".$iCount.": ".$languageTokensArray[$iCount]."<br/>";
-				
-				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
-			}
-		}
-		else {
-			$sLanguage=str_replace(";","",$sLanguage);
-		}		
-		
-		return $sLanguage;
-	}
-
-	//added by Mike, 20230801
-	function processWebsiteReference($sToken) {
-		if (strpos($sToken, "-->")!==false) {
-			//includes space after ">"
-			$sToken = str_replace("--> ","",$sToken);
-		}
-
-		//added by Mike, 20230919
-		if (strpos($sToken, "http")>=3) {
-			//example: 1) ...
-			echo substr($sToken,0,strpos($sToken,"http"));
-
-			//includes space after ">"
-			$sToken = substr($sToken,strpos($sToken,"http"));
-
-			//echo "dito: ".$sToken."<br/><br/>";
-		}
-/*
-		echo $sToken."<br/><br/>";
-		echo strpos($sToken,"http")."<br/><br/>";
-*/
-
-		//edited by Mike, 20240131
-	    //TODO: -fix: error without last accessed;
-		$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"http"),strpos($sToken,";"));
-	   
-		$sReferenceWebsiteAccessedDate=substr($sToken,strpos($sToken,";"));
-
-		//echo "DITO: ".$sReferenceWebsiteAccessedDate;
-
-		//echo "DITO: ".strpos($sToken,";");
-
-		//echo "HALLO: ".$sReferenceWebsiteTemp;
-
-		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp));
-
-		//added by Mike, 20240511
-		//embed sample: https://www.youtube.com/embed/tgbNymZ7vqY
-		//https://www.youtube.com/watch?v=YDu-7EFRrb0
-		//echo ">>>>".$sReferenceWebsiteTemp;
-
-		//reference: https://www.w3schools.com/html/html_youtube.asp; last accessed: 20240511
-		if (strpos($sReferenceWebsiteTemp,"www.youtube.com")!==false) {
-			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
-		
-			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
-
-			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
-			
-			//added by Mike, 20250526
-			$sReferenceWebsiteTempUpdated = str_replace("shorts/","embed/",$sReferenceWebsiteTempUpdated);
-			
-			//echo ">>>>".$sReferenceWebsiteTempUpdated;
-			
-			echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";			
-		}
-		//added by Mike, 20240711
-		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
-			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
-			//added by Mike, 20230801
-			echo $sReferenceWebsiteAccessedDate."<br/>";
-		
-			//Reference: https://stackoverflow.com/questions/41090108/how-to-embed-a-tweet-on-a-page-if-i-only-know-its-id; last accessed: 20240711
-			//answer by: Daren Chandisingh, 20200522T1126
-			//note: use of twitter.com; instead of x.com
-			
-			$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
-					
-			//echo $sReferenceWebsiteTwitterX."<br/>";
-			
-			$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTwitterX,strpos($sReferenceWebsiteTwitterX,"status/")+strlen("status/"));
-
-			//echo $sReferenceWebsiteTwitterX."<br/>";
-			//edited by Mike, 20250520
-			echo "<div align='center'>";		
-			echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
-			echo "</div>";
-		}
-		//added by Mike, 20250519
-		else if (strpos($sReferenceWebsiteTemp,"instagram.com")!==false) {
-			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
-			//added by Mike, 20230801
-			echo $sReferenceWebsiteAccessedDate."<br/>";
-		
-			//reference: https://help.instagram.com/620154495870484?helpref=faq_content; last accessed: 20250519
-			
-			//edited by Mike, 20250521
-			if (strpos($sReferenceWebsiteTemp,"reel/")!==false) {
-				//echo "!!!".$sReferenceWebsiteTemp."<br/>";
-				//example input: https://www.instagram.com/yenfukayan/reel/DGfAHD-SyDo/
-				//example output: reel/DGfAHD-SyDo/
-							
-				$sReferenceWebsiteInstagram=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,"reel"));
-			}
-			else {
-				//$sReferenceWebsiteInstagram="yenfukayan";
-				//echo ">>>>>".$sReferenceWebsiteTemp."<br/>";
-				
-				$sReferenceWebsiteInstagram=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,"instagram.com/")+strlen("instagram.com/"));
-				
-				//echo "HALLO".$sReferenceWebsiteInstagram."<br/>";
-			}
-					
-			//echo $sReferenceWebsiteTwitterX."<br/>";
-			//sample			
-			//echo ">>>>>".$sReferenceWebsiteInstagram."<br/>";
-			echo "<div align='center'>";
-			echo "<blockquote class='instagram-media' data-instgrm-permalink='https://www.instagram.com/".$sReferenceWebsiteInstagram."'></blockquote>
-			<script async src='//www.instagram.com/embed.js'></script>";
-			echo "</div>";
-		}
-		//TODO: -reverify: this		
-		//added by Mike, 20250513
-		else if (strpos($sReferenceWebsiteTemp,"bsky.app")!==false) {
-			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
-			echo $sReferenceWebsiteAccessedDate."<br/>";
-			
-			$sReferenceWebsiteBlueSky=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
-					
-			//echo "Reference: ".$sReferenceWebsiteBlueSky."<br/>";
-			
-			$sDataBlueSkyUri=substr($sReferenceWebsiteBlueSky,strpos($sReferenceWebsiteBlueSky,"/did:"));
-			
-			//echo ">>".$sDataBlueSkyUri."<br/>";
-
-			$sDataBlueSkyUri=str_replace("post","app.bsky.feed.post",$sDataBlueSkyUri);
-			
-			//echo ">>>>>".$sDataBlueSkyUri."<br/>";
-			
-			$sReferenceWebsiteBlueSky=substr($sReferenceWebsiteBlueSky,strpos($sReferenceWebsiteBlueSky,"status/")+strlen("status/"));
-			
-			//echo "href: ".$sReferenceWebsiteBlueSky."<br/>";
-			//edited by Mike, 20250520
-			echo "<div align='center'>";		
-			echo "<blockquote class='bluesky-embed' data-bluesky-uri='at:/".$sDataBlueSkyUri."'' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https:/".$sReferenceWebsiteBlueSky."'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
-			echo "</div>";		
-			
-			//Reference: 
-			//1) https://embed.bsky.app/; last accessed: 20250513
-			//2) https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b; last accessed: 20250513
-			//<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:rcyyjldt7topi6fz3dxnsaxx/app.bsky.feed.post/3lotio37mwz2b" data-bluesky-cid="bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q" data-bluesky-embed-color-mode="system"><p lang="">You encounter this enigmatic man early in #FF15. Ardyn proves to be so much more.Plus, his outfit is incredible. Just look at it. A true work of art from FINAL FANTASY XV character designer, Roberto Ferrari! #MTGxFINALFANTASY<br><br><a href="https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b?ref_src=embed">[image or embed]</a></p>&mdash; Magic: The Gathering (<a href="https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx?ref_src=embed">@magic.wizards.com</a>) <a href="https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b?ref_src=embed">May 11, 2025 at 1:46 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-		
-			//echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/".$sReferenceWebsiteTwitterX."'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
-		}		
-		else {
-			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
-			//added by Mike, 20230801
-			echo $sReferenceWebsiteAccessedDate."<br/>";
-		}
-	}
-
-	//added by Mike, 20240723
-	//output: slastAccessed
-	function getLastAccessedFromReferenceWebsite($sToken) {		
-		$sReferenceWebsite=substr($sToken,0,25)."... ";
-		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
-				strpos($sToken,";")-strpos($sToken,"http"));
-		$sLastAccessed=substr($sToken,strpos($sToken,";"));
-		
-		//added by Mike, 20240723
-		//auto-remove "; from date";		
-		if (strpos($sLastAccessed,"; from ")!==false) {
-			$sLastAccessedPartToKeep=substr($sLastAccessed, 0, strpos($sLastAccessed,"; from "));
-			$sLastAccessed=$sLastAccessedPartToKeep." ";
-			//echo ">>>>$sLastAccessedPartToKeep";
-		}
-		
-		return $sLastAccessed;
-	}
-	
-	function updateTextInputWithLink($sToken) {	
-		//$sOutput=$sToken;
-	
-		//edited by Mike, 20250128
-		//if (strpos(strtolower($sToken), "[")!==false) {
-		while ((strpos(strtolower($sToken), "[")!==false) and (strpos(strtolower($sToken), "](")!==false)) {			
-		
-			//echo "!!!!!!!";
-				
-			//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
-
-			$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
-			$sReferenceWebsiteTempTail=substr($sToken,strpos($sToken,"]"));
-						
-			//has announced
-			$sReferenceWebsiteTempText=str_replace($sReferenceWebsiteTempTail,"",$sReferenceWebsiteTempStart);
-			
-			//echo ">>>>>> ".$sReferenceWebsiteTempTail."<br><br>";
-			//echo ">>>>>> TAIL: ".$sReferenceWebsiteTempAddress."<br><br>";
-
-			$sReferenceWebsiteTempTailTwo=substr($sReferenceWebsiteTempTail,strpos($sReferenceWebsiteTempTail,")"));
-
-			//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempTailTwo."<br><br>";
-
-			$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
-
-			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteTempTail,"(","");
-			
-			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteAddress,")","");
-
-			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteAddress,"]","");
-
-			$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";			
-			//$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
-			$sOutput=str_replace("[".$sReferenceWebsiteTempText."]",$sLink,$sToken);
-
-			$sOutput=str_replace("(".$sReferenceWebsiteAddress.")","",$sOutput);
-			
-			//echo ">>>>>".$sLink;
-			//echo ">>>>>".$sReferenceWebsiteTempStart;
-
-			$sToken=$sOutput;
-		}	
-		return $sToken;
-	}	
-	
-	//added by Mike, 20211016
-	//note: reusable function
-	function autoWriteOutput($completeFilename, $sWebAddressBasePath, $cellValue, $sKeyphrase) {
-//		echo "hallo: ".$cellValue;
-
-			echo "<table class='searchTable'>
-				<tr>
-				  <td>";
-
-				$sWebAddress = getUpdatedWebAddress($completeFilename, $sWebAddressBasePath);
-				$sWebAddressUpdated = str_replace(" ","%20",$sWebAddress);
-
-				if (strpos($sWebAddress,"downloaded")!==false) {
-					$sYearDate=substr($sWebAddress,strpos($sWebAddress,"downloadedNewsletter"));
-					$sYearDate=str_replace("downloadedNewsletter","",$sYearDate);
-					$sYearDate=str_replace(".php","",$sYearDate);
-
-//					echo "sYearDate: ".$sYearDate;
-
-					echo "<a class='webServiceLink' href='http://www.usbong.ph/excel/excel-".$sYearDate."'>
-						http://www.usbong.ph/excel/excel-".$sYearDate."</a><br/>";
-				}
-				else {
-					echo "<a class='webServiceLink' href=".$sWebAddressUpdated.">".$sWebAddress."</a><br/>";
-				}
-
-				echo "... ";
-
-				//added by Mike, 20211014
-				//String Find COMMAND: case sensitive OFF; output case sensitive
-				$sKeyphraseCaseSensitive = stristr($cellValue,$sKeyphrase, false); //after needle
-				//note: output of stristr also includes part of string after the $sKeyphrase
-				$sKeyphraseCaseSensitive = substr($sKeyphraseCaseSensitive,0,strlen($sKeyphrase));
-
-				$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
-
-				//edited by Mike, 20211017
-//				if (strlen($cellValue)>118) {
-				if (strlen($cellValue)>100) {
-
-					//note: add in the displayed output,
-					//additional characters before the $sKeyphrase,
-					//due to if $sKeyphrase is at end part of $cellValue,
-					//$sKeyphrase becomes the only text of the newsletter
-					$iOffset=30;
-
-					$iStartPos=strpos($cellValue,$sKeyphrase)-$iOffset;
-					$iKeyPhraseStartPos=strpos($cellValue,$sKeyphrase);
-					$iKeyPhraseCharLength=strlen($sKeyphrase);
-
-					if ($iStartPos<0) {
-						$iStartPos=0;
-					}
-					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos+$iOffset);
-				}
-
-				//edited by Mike, 20211022
-				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,160);
-
-				echo " ...";
-			echo "</td>
-				</tr>
-					</table>";
-
-			echo "<br/><br/>";
-	}
-
-	//added by Mike, 20230504
-	//==========================================
-
-	//added by Mike, 20211012
-	//auto-read: newsletters
-	//find keyphrase from searchbox
-
-	//note: output: displayed web page format incorrect;
-	//use text identified via keyphrases
-
-	ini_set('auto_detect_line_endings', true);
-
-	//added by Mike, 20211014
-	$sKeyphrase="";
-	$bHasFoundKeyphrase=false;
-
-	///var/www/html/usbong_newsletters/server/notes/LessonsLearned/asahiShimbun/202304
-
-	//edited by Mike, 20230919
-	//$sInputDirectory="/server/notes/LessonsLearned/asahiShimbun/";
-	//$sInputDirectory="/server/notes/LessonsLearned/eurogamerspain/";
-	$sInputDirectory="/server/notes/LessonsLearned/";
-
-	//$sYearDirectory=$sInputDirectory."2023/";
-	//$filename="202305/asahiShimbun20230504.md";
-//		$filename="202305/asahiShimbun20230508.md";
-	//edited by Mike, 20230515
-//		$filename="202305/asahiShimbun20230511.md";
-//		$filename="";
-	//note: "99";
-//		$filename="202305/asahiShimbun20230599.md";
-	$filename="202305/blank.md";
-
-//		echo ">>>".$sYearDirectory."<br/>";
-
-	//added by Mike, 20231201; from 20230526
-	//set to max 5; to iterate from highest in count
-	//edited by Mike, 20250512
-	//$iReportForTheDayCountMax=5;
-	$iReportForTheDayCountMax=7; //8;
-	
-	$iReportForTheDayCount=$iReportForTheDayCountMax; //0
-
-	//edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/".$filename);
-
-	//echo $sNewsSourceSelected;
-
-	$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/".$filename);
-
-
-	//echo $completeFilename;
-
-	$iDayCount=0;
-
-	//added by Mike, 20230527
-	$iTotalDayCountWithMultiReportsForTheDay=0;
-
-
-	//added by Mike, 20231206
-	$prevCompleteFilename="";
-
-	//edited by Mike, 20250512
-	$iNewsRankCountMax=$iReportForTheDayCountMax;//5;
-
-	//TODO: -reverify: this when news source changed;
-	$iHitSameNewsCount=0;
-	
-	//added by Mike, 20241031
-	$iNewsRankCount=0;
-
-	//multiple news per source; max 5
-	for ($iNewsRankCount=0; $iNewsRankCount<$iNewsRankCountMax; $iNewsRankCount++) {
-
-		//echo ">>>iNewsRankCount: ".$iNewsRankCount."<br/>";
-		$completeFilename="";
-
-		//added by Mike, 20230511
-		while (!file_exists($completeFilename)) {
-
-//			echo "completeFilename: ".$completeFilename."<br/><br/>";
-
-			$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
-
-//			echo $dateTodayTemp."<br/>";
-
-			$dateTodayTemp=str_replace('-','',$dateTodayTemp);
-
-			//added by Mike, 20230707
-			//2023-07-07; output: 202307
-			$currYearMonthBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,6);
-
-			//added by Mike, 20231228
-			$currYearOnlyBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,4);
-			
-			//WINDOWS machine
-			//edited by Mike, 20230707
-			//if (strpos(dirname(__DIR__), ":\"")!==false) {
-			if (strpos(dirname(__DIR__), ":\\")!==false) {
-
-				//edited by Mike, 20231228
-//				$filename=$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;
-				$filename=$currYearOnlyBasedOnDateTodayTemp."\\".$currYearMonthBasedOnDateTodayTemp."\asahishimbun".$dateTodayTemp;
-			}
-			//LINUX machine
-			else {				
-				//$filename=$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
-				
-				$filename=$currYearOnlyBasedOnDateTodayTemp."/".$currYearMonthBasedOnDateTodayTemp."/asahishimbun".$dateTodayTemp;
-			}
-
-			//edited by Mike, 20230930; from 20230919
-			//$filename=str_replace("asahiShimbun","",$filename);
-			$filename=str_replace("asahishimbun","",$filename);
-
-			//echo $filename."<br/>";
-
-			//echo "dito".$currYearMonthBasedOnDateTodayTemp;
-
-			//added by Mike, 20230707
-			//if does not exist due to the 1st day of the new month
-			if (!is_dir($currYearMonthBasedOnDateTodayTemp)) {
-				$currYearMonthBasedOnDateTodayTemp=((int)$currYearMonthBasedOnDateTodayTemp-1);
-
-				//echo ">>>>".$currYearMonthBasedOnDateTodayTemp."<br/>";
-				
-				$currMonthOnlyBasedOnDateTodayTemp=substr($currYearMonthBasedOnDateTodayTemp,4);
-				
-				//added by Mike, 20231228
-				if ($currMonthOnlyBasedOnDateTodayTemp<0) {
-					$currYearOnlyBasedOnDateTodayTemp-=1;
-					$currMonthOnlyBasedOnDateTodayTemp=12;
-					
-					$currYearMonthBasedOnDateTodayTemp=$currYearOnlyBasedOnDateTodayTemp.$currMonthOnlyBasedOnDateTodayTemp;
-				}
-				
-				if ($currYearOnlyBasedOnDateTodayTemp<2018) {
-					break; //END
-				}
-			}
-
-				$iDistanceBetweenDateTodayAndCurrNews=0;
-
-				$currNewsDate=$dateTodayTemp;
-				$dateTodayTemp=str_replace('-','',Date('Y-m-d'));
-
-////				echo "dateTodayTemp: ".$dateTodayTemp."<br/>";
-////				echo "currNewsDate: ".$currNewsDate."<br/>";
-
-				$iDistanceBetweenDateTodayAndCurrNews=intval($dateTodayTemp)-intval($currNewsDate);
-
-////				echo "iDistanceBetweenDateTodayAndCurrNews: ".$iDistanceBetweenDateTodayAndCurrNews."<br/>";
-
-				//TO-DO: -verify: this
-				//edited by Mike, 20230526
-//				$iReportForTheDayCount=$iDistanceBetweenDateTodayAndCurrNews;//0;
-				$iReportForTheDayCountTemp=$iDistanceBetweenDateTodayAndCurrNews;//0;
-				
-/*
-				echo ">>>>>>>>>>>>>>>".$iReportForTheDayCount."<br/>";
-*/
-
-			if ($iReportForTheDayCount>1){
-				//edited by Mike, 20230526
-				$filename=$filename."-".$iReportForTheDayCount;
-
-				//edited by Mike, 20231201
-				//$iReportForTheDayCount++;
-				$iReportForTheDayCount--;
-			}
-			else {
-				//added by Mike, 20230526
-				$iReportForTheDayCount=$iReportForTheDayCountMax;//0;
-				$iDayCount++;
-			}
-			
-			//echo $sNewsSourceSelected;
-
-		    //edited by Mike, 20230920	//$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory."eurogamerspain/").$filename;
-			$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/").$filename;
-
-/*
-			echo $completeFilename."<br/>";
-			echo ">>>".$filename."<br/>";
-*/
-			
-			$iLanguageCount=0;
-			$iLanguageCountMax=5;
-			$sLanguage="";
-			$completeFilenameOrig=$completeFilename;
-			
-			while ($iLanguageCount<$iLanguageCountMax) {
-				$completeFilename=$completeFilenameOrig;
-				
-				switch ($iLanguageCount) {
-					case 0: //en
-						$sLanguage="";
-						break;
-					case 1: //jp
-						$sLanguage="jp";
-						break;
-					case 2: //es
-						$sLanguage="es";
-						break;
-					case 3: //ch
-						$sLanguage="ch";
-						break;
-					case 4: //ph
-						$sLanguage="ph";
-						break;
-				}
-				
-				//echo "sLanguage: ".$sLanguage."<br/>";
-					
-				$completeFilename=$completeFilename.$sLanguage.".md";
-
-				//echo "completeFilename: ".$completeFilename."<br/>";
-				
-				if (file_exists($completeFilename)) {				
-					//$completeFilename=$completeFilename.$iLanguageCount.".md";
-					
-					//echo "EXISTS!!!";
-					//echo "!!!completeFilename: ".$completeFilename."<br/>";
-					
-					//added by Mike, 20250514
-					//check other languages if available
-					
-					
-					//edited by Mike, 20250502
-					break;
-					//continue;
-				}
-				$iLanguageCount++;
-			}
-
-			if ($iLanguageCount>=$iLanguageCountMax) {
-				//echo "MAX!!!";
-				$completeFilename=$completeFilenameOrig;
-			}
-
-			//added by Mike, 20230707
-			if (!file_exists($completeFilename)) {				
-				$completeFilename=$completeFilename.".md";
-			}
-
-			//added by Mike, 20231206
-			if (strpos($prevCompleteFilename, $completeFilename)!==false) {
-				$completeFilename="next";
-
-				//edited by Mike, 20231208
-//				if ($iHitSameNewsCount>=3) {
-				//reminder: iReportForTheDayCountMax=5;
-				//before moving on to the next day;
-				//notes: select news sources do not yet have folders for 3 months due to insufficient content
-				if ($iHitSameNewsCount>=30) { //90
-					//END
-					$iNewsRankCount=$iNewsRankCountMax;
-				}
-
-				$iHitSameNewsCount++;
-
-				continue;
-			}
-
-			$prevCompleteFilename=$completeFilename;
-			//echo "prevCompleteFilename: ".$prevCompleteFilename."<br/>";
-
-		}
-	
-	$languageCompleteFilenameArray=processCheckLanguageAvailability($completeFilename);
-	
-	$languageCompleteFilenameArrayCount=0;
-		
-	foreach($languageCompleteFilenameArray as $value) {
-		$completeFilename=$value[0];
-		$languageCompleteFilenameArrayCount++;
-		
-		//echo "!!!!".$completeFilenameOrig."<br/>";
-		
-		$sLanguageValue=str_replace($completeFilenameOrig,"",$value[0]);
-		
-		$sLanguageValue=str_replace(".md","",$sLanguageValue);
-		$sLanguageValue=strtoupper($sLanguageValue);
-
-		//echo ">>>>>>".$sLanguageValue."<br/>";
-
-	//added by Mike, 20231228
-	if (!file_exists($completeFilename)) {
-		break;
-	}
-	
-	//echo "Complete Filename: ".$completeFilename."<br/>";
-
-	if (($handle = fopen($completeFilename, "r")) !== FALSE) {
-
-				  while (!feof($handle)) {
-					//edited by Mike, 20211014;
-					//TO-DO: -update: to identify if keyphrase uses
-					//the previous read batch and the next batch
-					//edited by Mike, 20211014; edited again by Mike, 20211022
-					//$data = fread($handle, 128);
-					$data = fread($handle,filesize($completeFilename));
-
-					$cellValue = $data;
-					
-					//added by Mike, 20230110
-					//note: list of additional rules to remove select displayed search outputs via updating searched value for use as input
-//-----
-//PART 1
-					$cellValue = str_replace("by Mike, ".$sKeyphrase, "", $cellValue);
-
-					$cellValue = str_replace("server\\".$sKeyphrase, "", $cellValue);
-
-					$cellValue = str_replace("var/www/html/", "", $cellValue);
-					
-					//added by Mike, 20240717
-					$sStringToRemoveInCellValue=substr($cellValue, strpos($cellValue,"?"));
-					$sStringToRemoveInCellValue=substr($sStringToRemoveInCellValue, 0,strpos($sStringToRemoveInCellValue,"continuehere"))."continuehere";
-					
-					//echo ">>>>".$sStringToRemoveInCellValue;
-					
-					$cellValue = str_replace($sStringToRemoveInCellValue, "", $cellValue);
-
-					
-					//added by Mike, 20231207
-					if (empty($cellValue)) {
-						//echo "HALLO!";
-						continue;
-					}
-
-//-----
-//PART 2
-
-	//echo ">>iNewsRankCount: ".$iNewsRankCount."<br/>";
-		
-	if ($languageCompleteFilenameArrayCount==1) { //>2){ 
-		//echo "sLanguageValue: ".$sLanguageValue."<br/>";
-		//edited by Mike, 20250516
-		//English in sLanguageValue is blank here
-	
-		if ($sLanguageValue==="") {
-			$sLanguageValue="EN";
-		}
-	
-		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTable'><tr><td>";
-	}
-	else {
-		//echo "<table id='bodyTableId".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
-
-		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
-	}
-	
-		echo "<div id='mainTextDivId".$iNewsRankCount."-".$sLanguageValue."' class='mainTextDiv'>";
-		
-		echo "<div class='textDoubleSpacedDiv'>";
-
-$sNewsTitleWebsiteReference = processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL, $completeFilename);
-
-$newsTitleOriginal = substr($cellValue,strpos($cellValue,">")+1); //">" not included
-
-$newsTitleWithTranslation = substr($newsTitleOriginal,0,strpos($newsTitleOriginal,">")); //">" not included
-
-$newsTitleMain = updateTextInputWithLink(substr($newsTitleWithTranslation,0,strpos($newsTitleOriginal,"\n")));
-
-$newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,strlen($newsTitleMain)));
-
-$newsTitleOutput = "";
-
-if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
-	$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquotePersonal' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
-}
-else {
-	if ($bIsShowOriginalText) {
-		$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
-	}
-	else {
-		$newsTitleOutput = $sNewsTitleWebsiteReference.$newsTitleTranslated;
-	}
-}
-
 ?>
+<!-- TODO: -add: this 
 
 <span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php echo $newsTitleOutput."";?></span>
 
@@ -3780,324 +2622,8 @@ else {
 
 <span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
 
-<?php
-
-//added by Mike, 20240720
-$bHasAdditionalReference=false;
-
-//echo ">>>>>>>".$cellValue."<br/>";
-
-//$sToken = strtok($cellValue, "<br/>");
-$sToken = strtok($cellValue, "\n");
-$sPrevToken="";
-$iRowCount=0;
-
-while ($sToken !== false)
-{
-	if ($iRowCount==0) {
-		//note: space after "##"
-		$sToken = str_replace("## ", "", $sToken);
-
-		$sReferenceWebsite=substr($sToken,0,25)."... ";
-		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
-				strpos($sToken,";")-strpos($sToken,"http"));
-
-		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL, $completeFilename);
-
-		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
-		
-		//echo strpos($cellValue,"<br/>");
-
-		//added by Mike, 20240516
-		$sIncomingDraftText="";
-		
-		if ($iNewsRankCount==0) {
-			//added by Mike, 20240516
-			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
-			
-			//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
-			
-			if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
-				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
-			}			
-		}
-
-		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
-		echo "<h3>";
-
-		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
-		echo $sReferenceWebsite."</a>";
-		//edited by Mike, 20240723; from 20231208
-		//echo "<b>".$sLastAccessed."</b>";
-		echo $sLastAccessed;
-		//echo $sLastAccessed;
-		
-		//added by Mike, 20240516
-		echo $sIncomingDraftText;
-		
-		echo $sGitHubLink;
-		
-		//edited by Mike, 20250516; from 20250513
-		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
-		echo " ".$sLanguage;
-
-		echo "</h3>";
-		echo "</span>";
-		echo "<hr>";		
-	}
-	//else if (strpos($cellValue, ">")!==false) {
-	else if (substr($sToken,0,1)==">") {
-		
-		//echo ">>>>>>>>";
-
-		//if prev token was a note
-		if (strpos($sPrevToken, "-->")!==false) {
-//			echo "<br/>";
-		}
-
-		//echo "HALLO!!!";
-		
-		//edited by Mike, 20250226; from 20250224
-		//replace only first instance
-		//$sToken = str_replace(">","",$sToken);
-		$sToken=replaceFirstOccurence($sToken,">","");
-			
-		//added by Mike, 20250125
-		$sToken=updateTextInputWithLink($sToken);
-
-		//added by Mike, 20250610
-		//echo ">>>>".$completeFilename;
-		
-		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
-			echo "<blockquote class='usbongBlockquotePersonal'>";
-			echo "$sToken";
-			echo "</blockquote>";
-		}
-		else {
-			if ($bIsShowOriginalText) {
-				echo "<blockquote class='usbongBlockquote'>";
-				echo "$sToken";
-				//echo "HALLO!!!";
-				echo "</blockquote>";
-			}
-		}
-	}
-	else if (strpos($sToken, "-->")!==false) {		
-		//added by Mike, 20230801
-		if (strpos($sToken, "http")!==false) {
-			processWebsiteReference($sToken);
-		}
-		else {
-	//		$sToken = str_replace("-->","",$sToken);
-			echo "<span class='usbongNoteSpan'>";
-			echo "$sToken<br/>";
-
-			//removed by by Mike, 20231221; from 20231212
-			//echo "<br/>";
-
-			echo "</span>";
-		}
-	}
-	else if (strpos(strtolower($sToken), "# reference")!==false) {
-		//noted by Mike, 20230518; "###" also exists for references
-		if (strpos(strtolower($sToken), "####")!==false) {
-			$sToken = str_replace("#", "", $sToken);
-
-			//edited by Mike, 20231224
-//			$sToken = str_replace("Reference:", "", $sToken);
-			$sToken = str_replace(strtolower("reference"), "", $sToken);
-
-			$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));
-			$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);
-
-			//added by Mike, 20230518
-			if (is_numeric($sPrevToken[0])) {
-				echo "<br/>";
-			}
-
-			echo "<span class='usbongTextReferencePart'>";
-			echo "<br/>Reference:<br/>";
-			
-			echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-			echo $sReferenceWebsiteTemp."</a>;<br/>";
-			echo "$sLastAccessedTemp<br/><br/>";
-			echo "</span>";
-		}
-		else {
-			//echo "DITO";
-			
-			//echo "<b>## REFERENCE</b><br/>"; //###
-			
-			echo "<p class='usbongTranslatedQuote'>";
-			echo "<b>## REFERENCE</b>";
-			echo "</p>";
-			
-			//added by Mike, 20240720
-			$bHasAdditionalReference=true;
-		}
-	}
-	else if (strpos(strtolower($sToken), "# 参考")!==false) {
-		//noted by Mike, 20230518; "###" also exists for references
-		if (strpos(strtolower($sToken), "####")!==false) {
-			$sToken = str_replace("#", "", $sToken);
-
-			//edited by Mike, 20231224
-//			$sToken = str_replace("Reference:", "", $sToken);
-			$sToken = str_replace(strtolower("reference"), "", $sToken);
-
-			$sReferenceWebsiteTemp=substr($sToken,0,strpos($sToken,";"));
-			$sLastAccessedTemp=substr($sToken,strpos($sToken,";")+1);
-
-			//added by Mike, 20230518
-			if (is_numeric($sPrevToken[0])) {
-				echo "<br/>";
-			}
-
-			echo "<span class='usbongTextReferencePart'>";
-			echo "<br/>Reference:<br/>";
-			
-			echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
-			echo $sReferenceWebsiteTemp."</a>;<br/>";
-			echo "$sLastAccessedTemp<br/><br/>";
-			echo "</span>";
-		}
-		else {
-			
-			//echo "<b>## 参考</b><br/>"; //###
-
-			echo "<p class='usbongTranslatedQuote'>";
-			echo "<b>## 参考</b>";
-			echo "</p>";
-			
-			//added by Mike, 20240720
-			$bHasAdditionalReference=true;
-		}
-	}
-	else if ((strpos(strtoupper($sToken), "# LAST UPDATED")!==false) || (strpos(strtoupper($sToken), "# UPDATED")!==false) || (strpos(strtoupper($sToken), "# 更新")!==false)) {
-		$sToken=str_replace("#","",$sToken);
-		$sToken=str_replace("LAST UPDATED:","<b>Updated:</b>",strtoupper($sToken));
-		$sToken=str_replace("更新：","<b>更新：</b>",strtoupper($sToken));
-		$sToken=str_replace("更新:","<b>更新:</b>",strtoupper($sToken));
-		$sToken=trim($sToken);
-		
-		//echo ">>>".$sToken.">>>><br/>";
-		
-		echo "<span class='usbongLastUpdatedTextSectionPart'>";
-		//echo "<br/>$sToken<br/>";
-		echo "$sToken";
-		echo "</span>";
-	}
-	//added by Mike, 20250123
-	else if (strpos(strtolower($sToken), "[")!==false) {
-		echo "<p class='usbongTranslatedQuote'>";
-		echo updateTextInputWithLink($sToken);	
-		echo "</p>";		
-	}		
-	else if ((strpos($sToken, "### SELECT WORDS")!==false) ||
-		(strpos($sToken, "### SELECT PARTS")!==false)) {
-		echo "<span class='usbongTextSectionPart'>";
-		echo "<br/>$sToken<br/>";
-		echo "</span>";
-	}
-	//added by Mike, 20230923
-	else if (strpos($sToken, "## --")!==false) {
-		echo "<hr class='usbongTextSectionPartHr'>";
-	}
-	else if (strpos($sToken, "##")!==false) {		
-		//TODO: -put: in output string, instead of immediately use echo command; to know if has already added <br/>...
-		
-		if (strpos($sToken,"https://github.com/usbong/")!==false) {
-		}
-		else {
-			//edited by Mike, 20230923
-			echo "<span class='usbongTextSectionPart'>";
-			echo "$sToken<br/>";
-			echo "</span>";
-		}
-	}
-	//added by Mike, 20230518
-	else if (strpos($sToken, "http")!==false) {
-		processWebsiteReference($sToken);
-	}
-	//edited by Mike, 20231222
-	//else if (strlen($sToken)==strlen("<br/>")) {
-	else if (strpos(strtolower($sToken), "<br/>")!==false) {
-		//if (strpos(strtolower($sToken), "<br/>")!==false) {
-		if (strlen($sToken)==strlen("<br/>")) {
-			echo "<br/>";
-		}
-		
-		//echo "HERE!!!".$sToken."END<br/>";
-	}
-	else {
-		//echo ">>>DITO<br/>";
-
-		//if prev token was a note
-		if (strpos($sPrevToken, "-->")!==false) {
-			echo "<br/>";
-		}
-
-		if (is_numeric($sToken[0])) { //1st character a number, notes; not "<"
-			//echo "dito: ".$sToken[0]."<br/>";
-			if (is_numeric($sPrevToken[0])) {
-			  echo "<br/>";
-			}
-			
-			if ((strpos($sPrevToken, "# REFERENCE")!==false) ||
-				(strpos($sPrevToken, "# 参考")!==false)) {
-			  //echo "<br/>";
-			  //ECHO "dito";
-			}
-			
-			//edited by Mike, 20231222
-			//echo "$sToken<br/>";
-			echo "$sToken";
-		}
-		else {
-			echo "<p class='usbongTranslatedQuote'>";
-			//note: technique
-			echo "$sToken";
-			echo "</p>";
-		}
-	}
-
-	$sPrevToken = $sToken;
-	$sToken = strtok("\n");
-	$iRowCount++;
-
-	//added by Mike, 20240717
-	//echo ">>>".$iRowCount;
-}
-
-//added by Mike, 20250515
-}
-
-	//edited by Mike, 20240720; from 20231222
-	//add only if has additional reference
-	//echo "<br/>";
-	if ($bHasAdditionalReference) {
-	  echo "<br/><br/>";
-	}
-	//echo "<br/><br/>";
-
-?>
-
-</span>
-	</div>
-	</div>
-	</td>
-	</tr>
-	</table>
-<?php
-	}
-
-//-----
-
-
-					}
-				}
-?>
-
+-->
+	
 	<br/>
 	<br/>
 	<div class="copyright">

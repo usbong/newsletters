@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250625; from 20250623
+  @date updated: 20250623; from 20250613
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -189,10 +189,6 @@
 							transform: scale(1.0);
 							/*touch-action: none;*/
 							  overflow: auto;
-							
-							/*
-							visibility: hidden;
-							*/
 						}
 
 						div.formTitle
@@ -702,7 +698,7 @@
 						}
 
 						tr.rowEvenNumber {
-							background-color: #dddddd; 
+							background-color: #dddddd; <!--#dddddd; = gray #95b3d7; = sky blue; use as row background color-->
 							border: 1pt solid #00ff00;
 						}
 
@@ -1082,6 +1078,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css">
     </style>
+<!-- //edited by Mike, 20211014
+	<base href="http://localhost/usbong_newsletters/" target="_blank">
+-->
+
+<!-- //removed by Mike, 20230815
+	<base href="http://store.usbong.ph/" target="_blank">
+-->
+
+	<!-- added by Mike, 20220630 -->
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="google-site-verification" content="fIE_s1RlOUpi0n7Yi2lEawdU_P6W003_QNSF1hKGu1A" />
 
@@ -2412,6 +2418,14 @@ $sNewsNumber=substr($sInputURL, strpos($sInputURL,".php/"));
 
 //echo $sNewsNumber;
 
+/*
+echo "sInputURL: ".$sInputURL."<br/><br/>";
+///usbong_newsletters/server/usbongExam.php
+
+echo "sNewsNumber: ".$sNewsNumber."<br/><br/><br/>";
+///usbong_newsletters/server/usbongExam.php
+*/
+
 //.".php/"
 if ($sNewsNumber==$sInputURL) { //default URL; no Q1, etc.
 
@@ -2423,6 +2437,7 @@ $sNewsNumberLocationPart="Q1-20230815";
 //	echo "DITO";
 }
 else {
+
 	//added by Mike, 20230920
 	//TODO: -update: this
 
@@ -2445,44 +2460,128 @@ else {
 	$iNewsNumberRaw=$iNewsNumber;
 
 	//echo "sNewsNumber: ".$sNewsNumber."<br/>";
+
+	//step#4
+	//reminder: did two questions per day;
+	//Q1 : 1; Q2 : 1;
+	//Q3 : 2; Q4 : 2;
+	//Q5 : 3; Q6 : 3;
+	//Q7 : 4; Q8 : 4;
+	if ($iNewsNumber%2==0) { //even
+		$iNewsNumber=$iNewsNumber/2-1;
+	}
+	else { //odd
+		//note: computation; simpler exists?
+		if ($iNewsNumber==1) {
+			$iNewsNumber=0;
+		}
+		else {
+			//echo intval($iNewsNumber/2);
+			//echo $iNewsNumber%2;
+
+			$iNewsNumber=intval($iNewsNumber/2)+$iNewsNumber%2-1;
+		}
+
+		//echo $iNewsNumber;
+	}
+
+	$sNewsNumberWithDate=20230815+($iNewsNumber);
+
+	//echo "sNewsNumberWithDate: ".$sNewsNumberWithDate."<br/>";
+
+	//step#5
+	$sNewsNumberLocationPart=$sNewsNumber."-".$sNewsNumberWithDate; //output: Q2-20230816
+
+	//echo $sNewsNumberLocationPart;
 }
 
+/*
+//added by Mike, 20230920;
+//default
+//$updatedDirDueToURL="";//../";
+
+//if (strpos($_SERVER['REQUEST_URI'],".php/Q")!==false) {
+//.php//N
+if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
+	//echo "HALLO!";
+	$updatedDirDueToURL="../";
+	
+	//added by Mike, 20240801
+	if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
+		$updatedDirDueToURL=$updatedDirDueToURL."../";
+	}
+}
+*/
+
+
 	if (isMobile()) {
+		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+
+		//edited by Mike, 20230912
+		//echo "<img class='Image-companyLogoMobile' src='../assets/images/usbongLogo.png'>";
+
 		echo "<img class='Image-companyLogoMobile' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
 	else {
+		//echo "<img class='Image-companyLogo' src='../assets/images/usbongLogo.png'>";
+		//echo "<img class='Image-companyLogo' src='../../assets/images/usbongLogo.png'>";
+
 		echo "<img class='Image-companyLogo' src='../".$updatedDirDueToURL."assets/images/usbongLogo.png'>";
 	}
+
 ?>
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
 
 		<a class="menuLink" target="_blank" href="https://philnits.org/review-38/">
+<!-- edited by Mike, 20230912
+<img class="Image-philnitsLogo" src='../assets/images/philnitsLogo.jpg'>
+-->
 <?php
 		echo "<img class='Image-philnitsLogo' src='../".$updatedDirDueToURL."assets/images/philnitsLogo.jpg'>";
 ?>
 		</a>
 		</td>
 		<td class="imageColumnPartTwo">
-		<a class="usbongYoutubeLink" target="_blank" href="https://www.youtube.com/@usbong">
+<a class="usbongYoutubeLink" target="_blank" href="https://www.youtube.com/@usbong">
+
 <?php
 		echo "<img class='Image-usbongYouTubeLogo' src='../".$updatedDirDueToURL."assets/images/usbongYouTubeLogo.png'>";
 ?>
-		</a>
+
+</a>
 		</td>		
 
 		<td class="pageNameColumn">
 		<div class='formTitle'>
-			<span class='balitaSpan'>
-			<b>BALITA</b>
-			</span>
-			<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
+<?php
+/*
+	if (isMobile()) {
+			echo "<div class='formTitleMobile'>";
+	}
+	else {
+			echo "<div class='formTitle'>";
+	}
+*/
+?>
+<!-- //edited by Mike, 20231213
+				<b>BALITA</b>
+				<br/>
+-->
+				<span class='balitaSpan'>
+				<b>BALITA</b>
+				</span>
+<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
+
 <?php
 		echo "<img class='Image-favicon' src='../".$updatedDirDueToURL."assets/images/favicon.png'>";
 ?>
-			</a>
-			<br/>
+
+</a>
+				<br/>
+
+
 				<?php
 					//$dateToday="2023-05-08";
 					$dateTodayDay = strtoupper(date('D', strtotime($dateToday)));
@@ -2507,9 +2606,13 @@ else {
 	   </tr>
 	</table>
 
+<!-- //edited by Mike, 22030929; _blank -->
 <table class="searchTable">
 		<tr>
 			<td class="radioImageTd">
+<!--			
+<a class='usbongRadioLink' target='_blank' href='' onclick='changeAudio()'>
+-->
 <button class='jeepRadioButton'>
 <?php
 	//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
@@ -2518,9 +2621,69 @@ else {
 	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
 ?>	
 </button>
+<!--			
+</a>
+			  <select>
+				<option value="R1">日本語</option>
+				<option value="R2">English</option>
+			  </select>
+-->			  
 			</td>
 			<td>
+<!-- //removed by Mike, 20231228; from 20231227; TODO: -add: this
+			<form id="search-form" method="get" action="usbongSearch.php">
+				<?php/*echo site_url('browse/confirmPatient')*/?>
+				<?php
+					$itemCounter = 1;
+
+					//added by Mike, 20230929
+					//TODO: -remove: space between textbox and button
+				?>
+					<table width="100%">
+					  <tr>
+						<td>
+						  <input type="text" class="searchInput" placeholder="" name="q" required>
+						<button type="submit" class="searchButton">
+							Search
+						</button>
+						</td>
+					  </tr>
+					</table>
+
+			</form>
+
+-->
 <?php
+	//added by Mike, 20240801
+/*	
+	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
+		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
+		$sAudioInput="../../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+	}
+	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
+		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
+	}
+	//added by Mike, 20241021
+	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
+		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+	}	
+	else {
+		//edited by Mike, 20241010
+		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
+			//http://localhost/usbong_newsletters/server/usbongBalita.php/
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}		
+		else { 
+			//no slash at the end
+			//http://localhost/usbong_newsletters/server/usbongBalita.php
+			//edited by Mike, 20241010			
+			$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
+		}
+	}
+*/
+
 	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 	}
@@ -2534,6 +2697,7 @@ else {
 	//added by Mike, 20241021
 	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
 		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
+		//$sAudioInput="../".$sBaseAssetsDirectory."audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
 	}	
 	else {
 		//edited by Mike, 20241010
@@ -2542,6 +2706,7 @@ else {
 			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
 			
 			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}		
 		else { 
 			//no slash at the end
@@ -2552,15 +2717,27 @@ else {
 			//$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 			
 			$sAudioInput=$updatedDirDueToURL."../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
+			
+			//$sAudioInput=$sBaseAssetsDirectory."audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 		}
 	}
 
+	
 	//echo $sAudioInput;
 ?>
+<!--
+		<audio width="416" height="312" controls>
+		  <source src="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio>	
+-->
+
 <div class="divAudioPlayerContainer">
 
 <button class="playRadioButton">
 <?php
+	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230' onclick='playAudio(".$sAudioInput.")'>"; 
+
 	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
 	
 ?>
@@ -2574,17 +2751,23 @@ else {
 		  Your browser does not support the audio tag.
 		</audio>	
 
-		</div>
-		</td>
-		<td class="selectNewsSourceTd">
-		<button class='origTextButton'>
+</div>
+			</td>
+			
+			<td class="selectNewsSourceTd">
+<button class='origTextButton'>
 <?php
 //https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
 	//answer by: Greg, 20081126T1928
+/*	
+	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
+*/	
+
 	echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
 	
 ?>	
-		</button>
+</button>
+
 			<?php
 				//added by Mike, 20250430; from 20230920
 				//default
@@ -2592,6 +2775,114 @@ else {
 				$sNewsSourceSelected=$sNewsSource;
 				//added by Mike, 202504240; from 20241017
 				$sNewsDisplayedName="FAMITSU";//"PERSONAL";//ASAHI SHIMBUN"; //"PERSONAL";
+
+/*
+				$sNewsSource="ignjapan";
+				$sNewsSourceSelected=$sNewsSource;
+				$sNewsDisplayedName="IGN JAPAN";
+*/				
+				//$iNewsNumberRaw=8;
+				
+				//echo ">>>".$iNewsNumberRaw;
+//				echo "DITO"; //note previously inside select tag;
+/*
+				//removed by Mike, 20250531; debug; echo output doesn't appear if inside the <select> tag 
+				for ($iDayCount=0; $iDayCount<$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
+						$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
+
+						echo $dateTodayTemp."<br/>";
+
+						$dateTodayTemp=str_replace('-','',$dateTodayTemp);
+						
+						//2023-07-07; output: 202307
+						$currYearMonthBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,6);
+
+						$currYearOnlyBasedOnDateTodayTemp=substr(str_replace('-','',$dateTodayTemp),0,4);
+			
+						//WINDOWS machine
+						//edited by Mike, 20230707
+						//if (strpos(dirname(__DIR__), ":\"")!==false) {
+						if (strpos(dirname(__DIR__), ":\\")!==false) {
+							$filename=$currYearOnlyBasedOnDateTodayTemp."\\".$currYearMonthBasedOnDateTodayTemp."\\".$dateTodayTemp;
+						}
+						//LINUX machine
+						else {				
+							$filename=$currYearOnlyBasedOnDateTodayTemp."/".$currYearMonthBasedOnDateTodayTemp."/".$dateTodayTemp;
+						}
+						
+						$sInputDirectory="/server/notes/LessonsLearned/";
+						
+						$iLanguageCountMax=5;
+						$bIsLanguageBlank=false;
+		
+						for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
+							switch ($iLanguageCount) {
+								case 0: //en
+									$sLanguageTemp="";
+									break;
+								case 1: //jp
+									$sLanguageTemp="jp";
+									break;
+								case 2: //es
+									$sLanguageTemp="es";
+									break;
+								case 3: //ch
+									$sLanguageTemp="ch";
+									break;
+								case 4: //ph
+									$sLanguageTemp="ph";
+									break;
+							}			
+
+						$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSource."/").$filename.$sLanguageTemp.".md";
+
+						echo $completeFilename."<br/>";
+
+						if (!file_exists($completeFilename)) {
+							continue;
+						}
+
+						$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($dateTodayTemp);
+			
+					echo ">>>>".$iDateTodayAndNewsLastAccessedDifference."<br/>";
+			
+						if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+							//$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
+							$sIncomingDraftTextSelectOption="<span>*</span>";
+							
+							echo "DITO!!!!";
+						}	
+
+						}
+
+					}					
+*/
+			
+/*						
+						if ($i==$iNewsNumberRaw) {							
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+							
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
+
+							echo "<option value='N".$i."' selected>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
+
+							//added by Mike, 20230920
+							//note using string, instead of int
+							$sNewsSourceSelected=$sNewsSource;
+						}
+						else {
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."'>".$sNewsSource."</option>";
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+							//red square
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."🟥</option>";
+							echo "<option value='N".$i."'>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
+						}
+					}
+*/					
 			?>
 			<select class="newsSelect" id="newsSelectId" onchange="showNews()">
 			 <?php
@@ -2714,6 +3005,12 @@ else {
 			
 						//TODO: -verify: this
 						if ($i==$iNewsNumberRaw) {							
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."' selected>".$sNewsSource."</option>";
+							
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."' selected>".$sNewsDisplayedName."</option>";
+
 							echo "<option value='N".$i."' selected>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
 
 							//added by Mike, 20230920
@@ -2721,15 +3018,31 @@ else {
 							$sNewsSourceSelected=$sNewsSource;
 						}
 						else {
+							//edited by Mike, 20241017
+							//echo "<option value='N".$i."'>".$sNewsSource."</option>";
+							//edited by Mike, 20250531
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."</option>";
+							
+							//red square
+							//echo "<option value='N".$i."'>".$sNewsDisplayedName."🟥</option>";
+							
 							echo "<option value='N".$i."'>".$sNewsDisplayedName.$sIncomingDraftTextSelectOption."</option>";
 						}
 					}
 			?>
+<!--
+			  <option value="N1">asahishimbun</option>
+			  <option value="N2">eurogamerspain</option>
+-->
 			  </select>
+<!-- //added by Mike, 20230929 -->
 			</td>
 		</tr>
 	</table>
+
+<!-- //added by Mike, 20241017 -->	
 	<br/>
+
 	
 <?php
 	//added by Mike, 20250224
@@ -2779,6 +3092,16 @@ else {
 
 		$dateNewsLastAccessedDate=date_create(str_replace("; last accessed: ","",$sLastAccessed));//->format('Y-m-d');
 		$dateToday=date_create(Date('Y-m-d'));
+
+		//echo "iNewsLastAccessedDate: ".$iNewsLastAccessedDate."<br/>";
+		//echo "iDateToday: ".$iDateToday."<br/>";
+
+		//echo "dateNewsLastAccessedDate: ".$dateNewsLastAccessedDate."<br/>";
+
+		//echo ">>>date_diff: ".date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%R%a days")."<br/>";
+
+		//echo ">>>date_diff: ".intval(date_diff(date_create("2025-05-30"),date_create("2025-06-02"))->format("%a"))."<br/>";
+
 
 		$iDateTodayAndNewsLastAccessedDifference=intval(date_diff($dateNewsLastAccessedDate,$dateToday)->format("%a"))."<br/>";
 
@@ -2875,6 +3198,22 @@ else {
 					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 				}
 			}
+
+/*
+			//print_r(get_headers($sGitHubLinkTemp, 1)[0]);
+			
+			if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
+			{
+				//URL throws a 404 error
+				echo "DITO".$sGitHubLinkTemp;
+			}	
+			else {
+				$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
+			}
+*/			
+/*
+	$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
+*/
 		}
 		
 		return " ".$sGitHubLink;
@@ -2932,6 +3271,69 @@ else {
 		
 		//echo "OUTPUT: ".$sLanguage."<br/>";
 		
+/*				
+		//added by Mike, 20250514
+		//check if other languages exist
+		$iLanguageCountMax=5; //TODO: -update: this
+		$bIsLanguageBlank=false;
+		
+		for ($iLanguageCount=0; $iLanguageCount<$iLanguageCountMax; $iLanguageCount++) {
+
+			//echo ">>>".$completeFilename."<br/>";
+			$sLanguageInCompleteFilename=substr($completeFilename,strpos($completeFilename,".md")-2,2);
+			
+			//echo "!!!!!".$sLanguageInCompleteFilename."<br/>";
+			
+			if (is_int(intval($sLanguageInCompleteFilename))) {
+				$bIsLanguageBlank=true;
+				//echo "BLANK!!!<br/>";
+			}
+		
+			//echo "iLanguageCount: ".$iLanguageCount."<br/>";
+			
+			switch ($iLanguageCount) {
+					case 0: //en
+						$sLanguageTemp="";
+						break;
+					case 1: //jp
+						$sLanguageTemp="jp";
+						break;
+					case 2: //es
+						$sLanguageTemp="es";
+						break;
+					case 3: //ch
+						$sLanguageTemp="ch";
+						break;
+					case 4: //ph
+						$sLanguageTemp="ph";
+						break;
+			}			
+						
+			if ($bIsLanguageBlank) {
+				$completeFilenameTemp = str_replace(".md",$sLanguageTemp.".md",$completeFilename);
+				
+				$bIsLanguageBlank=false;
+			}
+			else {
+				//echo "DITO!".$sLanguageInCompleteFilename."<br/";
+				
+				$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,strtoupper($sLanguageTemp),$completeFilenameTemp);
+			}
+
+			//echo ">>completeFilenameTemp: ".$completeFilenameTemp."<br/>";
+			
+			//TODO: -update: this; read each file and put into memory,
+			//so that the text can be displayed rapidly;
+			if (file_exists($completeFilenameTemp)) {	
+				//echo ">>>>>sLanguageTemp: ".$sLanguageTemp."<br/>";
+
+				$sLanguage=$sLanguage.strtoupper($sLanguageTemp).";";
+				
+				//added by Mike, 20250515
+				processReadFile($completeFilenameTemp);
+			}
+		}
+*/		
 		return processDisplayedLanguages($sLanguage,$iNewsRankCount);
 	}
 
@@ -2957,6 +3359,13 @@ else {
 				$bIsLanguageBlank=true;
 				//echo "BLANK!!!<br/>";
 			}
+/*
+			else {
+				echo "RESET!!!";
+				//reset back to default; "...md"
+				$completeFilename=str_replace($sLanguageInCompleteFilename,"",$completeFilename);
+			}
+*/		
 			//echo "iLanguageCount: ".$iLanguageCount."<br/>";
 			
 			switch ($iLanguageCount) {
@@ -2987,7 +3396,13 @@ else {
 			else {
 				//echo "DITO!".$sLanguageInCompleteFilename."<br/";
 				//echo "sLanguageTemp: ".$sLanguageTemp."<br/";
-
+/*				
+				if ($iLanguageCount==0) {
+					echo "HEY!".$sLanguageInCompleteFilename."<br/>";
+					echo "YOYO!".$completeFilename."<br/>";
+					echo "Language TEMP!".$sLanguageTemp."<br/>";
+				}
+*/
 				//edited by Mike, 20250516
 				//replace only the last occurrence by adding ".md"
 				//$completeFilenameTemp = str_replace($sLanguageInCompleteFilename,$sLanguageTemp,$completeFilename);
@@ -3047,6 +3462,25 @@ else {
 		//$sLanguage=processLanguageTagToDisplay($completeFilename);
 		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
 		
+/*
+		//-----
+		$sLanguage="EN";//"English"; //default
+		
+		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
+			$sLanguage="ch";//"Chinese Mandarin";
+		}
+		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
+			$sLanguage="JP";//"Japanese";
+		}
+		else if ((strpos($completeFilename, "es.md")!==false) or (strpos($completeFilename, "eurogamerspain")!==false)){
+			$sLanguage="ES";//"Spanish";
+		}
+		else if (strpos($completeFilename, "ph.md")!==false) {
+			$sLanguage="PH";//"Filipino";
+		}
+		//-----
+*/
+		
 		$sToken = strtok($cellValue, "\n");
 
 		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL,$completeFilename);
@@ -3059,7 +3493,31 @@ else {
 		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
 				strpos($sToken,";")-strpos($sToken,"http"));
 				
+		//edited by Mike, 20240723
+/*		
+		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+		
+		//added by Mike, 20240723
+		//auto-remove "; from date";
+		$sLastAccessedPartToKeep=substr($sLastAccessed, 0, strpos($sLastAccessed,"; from "));
+		$sLastAccessed=$sLastAccessedPartToKeep." ";
+		
+		//echo ">>>>$sLastAccessedPartToKeep";
+*/	
 		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
+		
+
+/*
+		echo "<h3>";
+		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
+		echo $sReferenceWebsite."</a>";
+		echo "<b>".$sLastAccessed."</b>";
+		//echo $sLastAccessed;
+		echo "</h3>";
+		echo "<hr>";
+*/
+		//edited by Mike, 20240516; from 20231208
+		//$sOutput="<h3><a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a><b>".$sLastAccessed."</b></h3><hr>";
 
 		//added by Mike, 20240516
 		$sIncomingDraftText="";
@@ -3070,15 +3528,61 @@ else {
 				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
 			}	
 		}
+				
+		//$sGitHubLink="hallo";		
+		//echo $sGitHubLink."hallo";
+		
+		//edited by Mike, 20250512
+/*
+		$sOutput="<h3>
+		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink."</h3><hr>";
+*/
+/*			//TODO: -reverify: this
+			$sReferenceWebsiteTemp="https://www.youtube.com/watch?v=ufLugXanDD0";
+
+			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","embed/",$sReferenceWebsiteTemp);
 			
+			$sOutput="<iframe class='youtubeIFrameMini' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";	
+*/
 		$sOutput="";
 		
+		//edited by Mike, 20250514
+/*		
+		$sOutput=$sOutput."<h3>
+		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+*/
+
+/*
+		$languageTokensArray=explode(";",$sLanguage);
+		$iNumOfLanguageTokens=count($languageTokensArray)-1;
+		
+		//echo ">>>iNumOfLanguageTokens: ".$iNumOfLanguageTokens."<br/>";
+		
+		if ($iNumOfLanguageTokens>1) {
+			//echo ">>>".$languageTokensArray[3]."<br/>";
+			$sLanguage="";
+			for ($iCount=0; $iCount<$iNumOfLanguageTokens; $iCount++) {
+				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
+			}
+			
+			$sOutput=$sOutput."<h3>
+			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+		}
+		else {
+			$sLanguage=str_replace(";","",$sLanguage);
+			
+			$sOutput=$sOutput."<h3>
+			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+		}
+*/		
 		//echo "DITO!!!!";
 
 		$sLanguage=processDisplayedLanguages($sLanguage,$iNewsRankCount);
 
 		$sOutput=$sOutput."<h3>
 		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+		
+		//$sOutput="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'><b>".$sReferenceWebsite."</a>".$sLastAccessed."</b><hr>";
 
 		return $sOutput;
 	}
@@ -3097,11 +3601,17 @@ else {
 				//echo "languageTokensArray".$iCount.": ".$languageTokensArray[$iCount]."<br/>";
 				
 				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
+				
+				//$sLanguage=$sLanguage."<button onmousedown='toggleMoreStart(\"summaryReportsHeaderId".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")' onmouseup='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";				
 			}
 		}
 		else {
 			$sLanguage=str_replace(";","",$sLanguage);
 		}		
+		
+		//removed by Mike, 20250523; from 20250521
+		//TODO: -reverify: this
+		//$sLanguage=str_replace("ch","CH",$sLanguage);
 		
 		return $sLanguage;
 	}
@@ -3142,6 +3652,17 @@ else {
 
 		$sTokenTemp=substr($sToken,0,strpos($sToken,$sReferenceWebsiteTemp));
 
+/* //edited by Mike, 20240723
+		echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
+		echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
+		//added by Mike, 20230801
+		echo $sReferenceWebsiteAccessedDate."<br/>";
+*/		
+/*	//removed by Mike, 20240723
+		$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
+		
+		echo $sReferenceWebsiteAccessedDateShortened."<br/>";
+*/
 		//added by Mike, 20240511
 		//embed sample: https://www.youtube.com/embed/tgbNymZ7vqY
 		//https://www.youtube.com/watch?v=YDu-7EFRrb0
@@ -3160,10 +3681,19 @@ else {
 			
 			//echo ">>>>".$sReferenceWebsiteTempUpdated;
 			
+			//edited by Mike, 20240511
+			//TODO: -verify: this
+			//echo "<iframe width='420' height='345' src='".$sReferenceWebsiteTempUpdated."'></iframe>";
 			echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";			
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
+			
+/*			//edited by Mike, 20240723; does not appear on iPAD;
+			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
+		
+			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
+*/
 			echo "$sTokenTemp<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteTemp."'>";
 			echo $sReferenceWebsiteTemp."</a>"; //"<br/>";
 			//added by Mike, 20230801
@@ -3172,6 +3702,9 @@ else {
 			//Reference: https://stackoverflow.com/questions/41090108/how-to-embed-a-tweet-on-a-page-if-i-only-know-its-id; last accessed: 20240711
 			//answer by: Daren Chandisingh, 20200522T1126
 			//note: use of twitter.com; instead of x.com
+	/*		
+			echo "<blockquote class='twitter-tweet'><a href='https://twitter.com/x/status/1810244562486542786'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>";
+	*/
 			
 			$sReferenceWebsiteTwitterX=substr($sReferenceWebsiteTemp,strpos($sReferenceWebsiteTemp,";"));
 					
@@ -3213,6 +3746,10 @@ else {
 					
 			//echo $sReferenceWebsiteTwitterX."<br/>";
 			//sample			
+/*
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DGfAHD-SyDo/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+*/			
 			//echo ">>>>>".$sReferenceWebsiteInstagram."<br/>";
 			echo "<div align='center'>";
 			echo "<blockquote class='instagram-media' data-instgrm-permalink='https://www.instagram.com/".$sReferenceWebsiteInstagram."'></blockquote>
@@ -3245,6 +3782,8 @@ else {
 			echo "<div align='center'>";		
 			echo "<blockquote class='bluesky-embed' data-bluesky-uri='at:/".$sDataBlueSkyUri."'' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https:/".$sReferenceWebsiteBlueSky."'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
 			echo "</div>";		
+
+			//echo "<blockquote class='bluesky-embed' data-bluesky-uri='at://did:plc:rcyyjldt7topi6fz3dxnsaxx/app.bsky.feed.post/3lotio37mwz2b' data-bluesky-cid='bafyreice34caadm5ucpc7yh5jto6a2e5bwh4g47lz2cfuuinhiel5sfg4q' data-bluesky-embed-color-mode='system'><a href='https://bsky.app/profile/did:plc:rcyyjldt7topi6fz3dxnsaxx/post/3lotio37mwz2b'></a></blockquote> <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>";
 			
 			//Reference: 
 			//1) https://embed.bsky.app/; last accessed: 20250513
@@ -3306,20 +3845,80 @@ else {
 
 			$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
 
+//			$sReferenceWebsiteAddress=$sReferenceWebsiteTempTail;
+			
+			//replace only the first occurrence;
+/*			
+			//reference: https://stackoverflow.com/questions/1252693/using-str-replace-so-that-it-only-acts-on-the-first-match;
+			//last accessed: 20250208
+			//answered by: zombat, 20090810T00:46
+			//edited by: You Old Fool, 20161204T05:13
+			
+			//TODO: -update: this
+			
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$newstring = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+			
+			////$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
+			////$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
+			////$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);			
+*/
+
 			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteTempTail,"(","");
 			
 			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteAddress,")","");
 
 			$sReferenceWebsiteAddress=replaceFirstOccurence($sReferenceWebsiteAddress,"]","");
 
+/*
+			$needle="(";
+			$replace="";
+			$haystack=$sReferenceWebsiteTempTail;
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+
+			$needle=")";
+			$replace="";			
+			$haystack=$sReferenceWebsiteAddress;
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+
+			$needle="]";
+			$replace="";			
+			$haystack=$sReferenceWebsiteAddress;
+			$pos = strpos($haystack, $needle);
+			if ($pos !== false) {
+				$sReferenceWebsiteAddress = substr_replace($haystack, $replace, $pos, strlen($needle));
+			}
+*/			
+			//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
+			//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
+			
+			//edited by Mike, 20250208
+			//$sOutput=$sToken;
+
 			$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";			
 			//$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
 			$sOutput=str_replace("[".$sReferenceWebsiteTempText."]",$sLink,$sToken);
 
+/*
+			$sOutput=str_replace("[","",$sOutput);
+			$sOutput=str_replace("]","",$sOutput);
+*/			
 			$sOutput=str_replace("(".$sReferenceWebsiteAddress.")","",$sOutput);
 			
 			//echo ">>>>>".$sLink;
 			//echo ">>>>>".$sReferenceWebsiteTempStart;
+
+			//echo $sOutput."<br/><br/>";
+
+			//return $sOutput;
 
 			$sToken=$sOutput;
 		}	
@@ -3353,6 +3952,11 @@ else {
 				}
 
 				echo "... ";
+				//edited by Mike, 20211013
+	//				echo $cellValue;
+
+				//edited by Mike, 20211014
+	//							echo str_replace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";
 
 				//added by Mike, 20211014
 				//String Find COMMAND: case sensitive OFF; output case sensitive
@@ -3360,11 +3964,23 @@ else {
 				//note: output of stristr also includes part of string after the $sKeyphrase
 				$sKeyphraseCaseSensitive = substr($sKeyphraseCaseSensitive,0,strlen($sKeyphrase));
 
+				//String Replace COMMAND: case sensitive OFF
+	//							echo str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue)."<br/>";	
 				$cellValue=str_ireplace($sKeyphrase,"<b>".$sKeyphrase."</b>",$cellValue);
+
+/*
+				//added by Mike, 20211016
+				echo strlen($cellValue)."<br/><br/>";
+				echo strpos($cellValue,$sKeyphrase)."<br/><br/>";
+*/
 
 				//edited by Mike, 20211017
 //				if (strlen($cellValue)>118) {
 				if (strlen($cellValue)>100) {
+
+//					$cellValue=substr($cellValue,0,118); //118 max character string length
+					//edited by Mike, 20211017
+//					$cellValue="<b>".substr($cellValue,strpos($cellValue,$sKeyphrase),118); //118 max character string length
 
 					//note: add in the displayed output,
 					//additional characters before the $sKeyphrase,
@@ -3379,10 +3995,14 @@ else {
 					if ($iStartPos<0) {
 						$iStartPos=0;
 					}
+
+//					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos)."<b>";
 					$cellValue=substr($cellValue,$iStartPos,$iKeyPhraseStartPos+$iOffset);
 				}
 
 				//edited by Mike, 20211022
+				//echo str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue);
+//				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,280);
 				echo substr(str_replace($sKeyphrase,$sKeyphraseCaseSensitive,$cellValue),0,160);
 
 				echo " ...";
@@ -3639,6 +4259,11 @@ else {
 
 			//added by Mike, 20231206
 			if (strpos($prevCompleteFilename, $completeFilename)!==false) {
+
+				//echo ">>>>>>>>>>>>iNewsRankCount: ".$iNewsRankCount;
+
+				//echo ">>>>>>>>>>>>completeFilename: ".$completeFilename."; prevCompleteFilename: ".$prevCompleteFilename."<br/><br/>";
+
 				$completeFilename="next";
 
 				//edited by Mike, 20231208
@@ -3660,6 +4285,11 @@ else {
 			//echo "prevCompleteFilename: ".$prevCompleteFilename."<br/>";
 
 		}
+
+//echo ">>>>>>>".$completeFilename;
+	
+	//added by Mike, 20250515
+	//echo ">>>>>>>>>>>>>>>>>>>>>".$iLanguageCountMax."<br/>";
 	
 	$languageCompleteFilenameArray=processCheckLanguageAvailability($completeFilename);
 	
@@ -3694,8 +4324,19 @@ else {
 					//edited by Mike, 20211014; edited again by Mike, 20211022
 					//$data = fread($handle, 128);
 					$data = fread($handle,filesize($completeFilename));
+//					$data = fread($handle, 164);
 
+					//edited by Mike, 20211013
+					//$cellValue = utf8_encode($data);
+
+					//edited by Mike, 20211014
+//					$cellValue = strip_tags(utf8_encode($data));
+
+					//$cellValue = strip_tags($data);
+					//edited by Mike, 20231222
+					//$cellValue = strip_tags($data);
 					$cellValue = $data;
+
 					
 					//added by Mike, 20230110
 					//note: list of additional rules to remove select displayed search outputs via updating searched value for use as input
@@ -3725,6 +4366,14 @@ else {
 //-----
 //PART 2
 
+	//echo ">>".$sLanguageValue."<<<br/>";
+
+	//note: .md format
+	//edited by Mike, 20230504
+	//echo ">>>".$cellValue."<br/>";
+	//edited by Mike, 20250516; from 20250515
+	//echo ">>>>>>".$sLanguageValue[0]."<br/>";
+	
 	//echo ">>iNewsRankCount: ".$iNewsRankCount."<br/>";
 		
 	if ($languageCompleteFilenameArrayCount==1) { //>2){ 
@@ -3736,6 +4385,10 @@ else {
 			$sLanguageValue="EN";
 		}
 	
+		//echo "<table id='bodyTableId' class='bodyTable'><tr><td>";
+		//echo "<table id='bodyTableId".$iNewsRankCount."-EN' class='bodyTable'><tr><td>";
+
+		//echo "<table id='bodyTableId".$iNewsRankCount."-EN' class='bodyTable'><tr><td>";
 		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTable'><tr><td>";
 	}
 	else {
@@ -3744,9 +4397,16 @@ else {
 		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
 	}
 	
+		//edited by Mike, 20250516
+		//echo "<div id='mainTextDivId".$iNewsRankCount."' class='mainTextDiv'>";
+
 		echo "<div id='mainTextDivId".$iNewsRankCount."-".$sLanguageValue."' class='mainTextDiv'>";
 		
 		echo "<div class='textDoubleSpacedDiv'>";
+
+//$sNewsTitleWebsiteReference =processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax);
+
+//echo "completeFilename: ".$completeFilename."<br/>";
 
 $sNewsTitleWebsiteReference = processWebsiteReferenceForHeaderTitle($cellValue, $iNewsRankCount,$iDateTodayAndNewsLastAccessedDifferenceMax,$updatedDirDueToURL, $completeFilename);
 
@@ -3757,6 +4417,19 @@ $newsTitleWithTranslation = substr($newsTitleOriginal,0,strpos($newsTitleOrigina
 $newsTitleMain = updateTextInputWithLink(substr($newsTitleWithTranslation,0,strpos($newsTitleOriginal,"\n")));
 
 $newsTitleTranslated = updateTextInputWithLink(substr($newsTitleWithTranslation,strlen($newsTitleMain)));
+
+/*	character count varies from actual via word count if in Mandarin
+	//TODO: -update: this part
+	echo $newsTitleMain."<br/>";
+
+	echo $newsTitleMain."<br/>";
+	echo strlen($newsTitleMain)."<br/>";
+*/	
+
+//edited by Mike, 20250610; from 20250529	
+//$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."</blockquote>".$newsTitleTranslated;
+
+//echo ">>>>".$completeFilename;
 
 $newsTitleOutput = "";
 
@@ -3772,15 +4445,28 @@ else {
 	}
 }
 
+//$newsTitleOutput = $sNewsTitleWebsiteReference."<blockquote class='usbongBlockquote' id='usbongBlockquoteId".$iNewsRankCount."-".$sLanguageValue."'>".$newsTitleMain."<div class='newsTitleDiv'>HALLO</div></blockquote>".$newsTitleTranslated;
+
+/*
+if ($languageCompleteFilenameArrayCount==1) {
+	echo "DITO!!!!";
+*/	
+
+//$languageCompleteFilenameArrayCountIndexZero=$languageCompleteFilenameArrayCount-1;
+
 ?>
 
 <span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php echo $newsTitleOutput."";?></span>
 
+<!-- added by Mike, 20231215 -->
 <span id="summaryReportsCountId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="spanSummaryReportsCount"></span>
 
 <span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
 
 <?php
+/*
+} //added by Mike, 20250515
+*/
 
 //added by Mike, 20240720
 $bHasAdditionalReference=false;
@@ -3794,6 +4480,11 @@ $iRowCount=0;
 
 while ($sToken !== false)
 {
+	//added by Mike, 20240717
+	//echo ">>>".$iRowCount;
+	//echo "TOKEN: $sToken<br>";
+
+	//if (strpos($cellValue, "##")!==false) {
 	if ($iRowCount==0) {
 		//note: space after "##"
 		$sToken = str_replace("## ", "", $sToken);
@@ -3804,6 +4495,18 @@ while ($sToken !== false)
 
 		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL, $completeFilename);
 
+		//edited by Mike, 20240723	
+/*		
+		$sLastAccessed=substr($sToken,strpos($sToken,";"));
+		
+		//added by Mike, 20240723
+		//auto-remove "; from date";
+		$sLastAccessedPartToKeep=substr($sLastAccessed, 0, strpos($sLastAccessed,"; from "));
+		$sLastAccessed=$sLastAccessedPartToKeep." ";
+		
+		//echo ">>>>$sLastAccessedPartToKeep";		
+
+*/		
 		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
 		
 		//echo strpos($cellValue,"<br/>");
@@ -3989,6 +4692,49 @@ while ($sToken !== false)
 	}
 	//added by Mike, 20250123
 	else if (strpos(strtolower($sToken), "[")!==false) {
+/*		
+		//example input: Usbong [has announced](http://www.usbong.ph) its plan for the year.
+
+		$sReferenceWebsiteTempStart=substr($sToken,strpos($sToken,"[")+1);
+		$sReferenceWebsiteTempTail=substr($sToken,strpos($sToken,"]"));
+		
+		//has announced
+		$sReferenceWebsiteTempText=str_replace($sReferenceWebsiteTempTail,"",$sReferenceWebsiteTempStart);
+		
+		//echo ">>>>>> ".$sReferenceWebsiteTempText."<br><br>";
+		//echo ">>>>>> TAIL: ".$sReferenceWebsiteTempAddress."<br><br>";
+
+		$sReferenceWebsiteTempTailTwo=substr($sReferenceWebsiteTempTail,strpos($sReferenceWebsiteTempTail,")"));
+
+		//echo ">>>>>> TAIL TWO: ".$sReferenceWebsiteTempAddressTwo."<br><br>";
+
+		$sReferenceWebsiteTempTail=str_replace($sReferenceWebsiteTempTailTwo,"",$sReferenceWebsiteTempTail);
+		
+		$sReferenceWebsiteAddress=str_replace("(","",$sReferenceWebsiteTempTail);
+		$sReferenceWebsiteAddress=str_replace(")","",$sReferenceWebsiteAddress);
+		$sReferenceWebsiteAddress=str_replace("]","",$sReferenceWebsiteAddress);
+		
+		//https://sonyinteractive.com/en/news/blog/ted-price-announces-retirement
+		//echo ">>>>>> Address: ".$sReferenceWebsiteAddress."<br><br>";
+				
+		$sOutput=$sToken;
+
+		$sLink="<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteAddress."'>".$sReferenceWebsiteTempText."</a>";
+		
+		$sOutput=str_replace($sReferenceWebsiteTempText,$sLink,$sToken);
+		$sOutput=str_replace("[","",$sOutput);
+		$sOutput=str_replace("]","",$sOutput);
+		$sOutput=str_replace("(".$sReferenceWebsiteAddress.")","",$sOutput);
+		
+		//echo ">>>>>".$sLink;
+		//echo ">>>>>".$sReferenceWebsiteTempStart;
+
+		echo $sOutput;
+*/
+/*
+		echo updateTextInputWithLink($sToken);	
+		echo "<br/>";
+*/
 		echo "<p class='usbongTranslatedQuote'>";
 		echo updateTextInputWithLink($sToken);	
 		echo "</p>";		
@@ -4052,6 +4798,16 @@ while ($sToken !== false)
 			//edited by Mike, 20231222
 			//echo "$sToken<br/>";
 			echo "$sToken";
+			
+/*						
+			//edited by Mike, 20240720; from 20231222
+			//add only if has additional reference
+			//echo "<br/>";
+			if ($bHasAdditionalReference) {
+			  echo "<br/><br/>";
+			  $bHasAdditionalReference=false;
+			}
+*/			
 		}
 		else {
 			echo "<p class='usbongTranslatedQuote'>";
@@ -4082,13 +4838,27 @@ while ($sToken !== false)
 
 ?>
 
+<!-- added by Mike, 20231207 -->
 </span>
+
+	<!-- removed by Mike, 20240720; from 20231212
+	//TODO: -use: half the height of the default -->
+	<!--
+	  <br/>
+	-->
+	
 	</div>
 	</div>
 	</td>
 	</tr>
 	</table>
 <?php
+	//added by Mike, 20250515
+	//} //if ($languageCompleteFilenameArrayCount>1) {
+
+
+	//added by Mike, 20231206
+	//multiple news per source; max 5
 	}
 
 //-----
