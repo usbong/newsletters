@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250623; from 20250616
+  @date updated: 20250701; from 20250623
   @website address: http://www.usbong.ph
 
   Computer Browser: Website Address (Example):
@@ -190,6 +190,8 @@
 
 			batMonsterImageTile.style.visibility="hidden";
 			isBatMonsterTileActive=false;
+			
+			window.location.href = "http://store.usbong.ph/timeoff";
 		}
 	  
 		function executeBatMonsterWalkingAnimation() {

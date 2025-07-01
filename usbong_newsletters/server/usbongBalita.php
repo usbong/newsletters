@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250625; from 20250623
+  @date updated: 20250701; from 20250625
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -2286,6 +2286,9 @@
 	//TODO: -update: this
 	$bIsShowOriginalText=true; //true; //false; //default
 
+	//added by Mike, 20250701
+	$sWebAddressBasePath = "http://store.usbong.ph";
+
 	//added by Mike, 20220628
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
 	//last accessed: 20220628
@@ -2296,7 +2299,23 @@
 	}
 
 	if (isMobile()) {
-		echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
+		//edited by Mike, 20250701
+		//echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
+
+		$url=$sWebAddressBasePath."/server/usbongBalitaLite.php";
+
+		echo "<script>location.href = '".$url."';</script>";
+		
+		echo "<body>";
+
+		echo "<br/>Redirecting to mobile...<br/>";
+		
+		echo "<br/>".$url."<br/>";
+
+		echo "</body>";
+		echo "</html>";
+		
+		die();
 	}
 	else {
 		echo "<body id='myBodyId' class='body' onload='onLoad()'>";
@@ -2340,8 +2359,9 @@
 	//added by Mike, 20211013; edited by Mike, 20211014
 	//note: update this
 //	$sWebAddressBasePath = "http://localhost";
-	//edited by Mike, 20220304
-	$sWebAddressBasePath = "http://store.usbong.ph";
+	
+	//removed by Mike, 20250701; from 20220304
+	//$sWebAddressBasePath = "http://store.usbong.ph";
 		
 	//added by Mike, 20240726
 	//------------------------------------------
