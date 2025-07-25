@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250701; from 20250625
+  @date updated: 20250725; from 20250701
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1809,7 +1809,7 @@
 							sLanguageTemp="ES";
 							break;
 						case 3: //ch
-							sLanguageTemp="ch";
+							sLanguageTemp="CH";//"CN";//"ch";
 							break;
 						case 4: //ph
 							sLanguageTemp="PH";
@@ -1870,7 +1870,7 @@
 								currSummaryReportsHeaderId.style.display = "none";
 							}
 */
-			  if ((currSummaryReportsId!==null) && (currSummaryReportsHeaderId!==null)) {
+			  if ((currSummaryReportsId!==null) && (currSummaryReportsHeaderId!==null)) {				  
 				  //if display set by CSS to "block"; blank
 				  if (currSummaryReportsHeaderId.style.display === "") {
 					  //currSummaryReportsId.style.display = "inline";
@@ -1902,13 +1902,25 @@
 					  //currSummaryReportsHeaderId.style.width = "%";
 					  //currSummaryReportsHeaderId.innerHTML+="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 					  
-/*
-				//removed by Mike, 20250517; if header text is in CN, width decreases;
+
+					  //edited by Mike, 20250725; from 20250517; if header text is in CN, width decreases;
+					  //alert(sLanguageTemp);
+					  location.reload();
+/*					  
 					  currSummaryReportsId.style.display = "none";
 					  currSummaryReportsHeaderId.style.display = "inline";
-
 					  currMainTextDivId.scrollIntoView();
-*/					  
+*/
+					  //reload() already scrolls into view
+					  //TODO: -add: this
+//					  currMainTextDivId.style.border = "5px solid #1c9bdf"; 
+
+/*
+window.location
+location.href = location.href;
+add news row; language
+*/
+					  
 					  //alert(currSummaryReportsHeaderId.innerHTML);
 					  //alert(currSummaryReportsHeaderId.clientWidth);
 					  //alert(currSummaryReportsHeaderId.style.width);
@@ -2905,8 +2917,10 @@ else {
 		//-----
 		$sLanguage="EN";//"English"; //default
 		
-		if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
-			$sLanguage="ch";//"Chinese Mandarin";
+		//edited by Mike, 20250725
+		//if ((strpos($completeFilename, "cn.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
+		if ((strpos($completeFilename, "ch.md")!==false) or (strpos($completeFilename, "zaobao")!==false) or (strpos($completeFilename, "ignchina")!==false)) {
+			$sLanguage="cn";//"ch";//"Chinese Mandarin";
 		}
 		else if ((strpos($completeFilename, "jp.md")!==false)or (strpos($completeFilename, "asahishimbun")!==false) or (strpos($completeFilename, "ignjapan")!==false) or (strpos($completeFilename, "famitsu")!==false) or (strpos($completeFilename, "gamedeveloper")!==false)) {
 			$sLanguage="JP";//"Japanese";
