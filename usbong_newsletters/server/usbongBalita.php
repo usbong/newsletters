@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250725; from 20250701
+  @date updated: 20250728; from 20250726
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -124,6 +124,22 @@
 							overflow: auto;
                         }
 
+						div.not-scrollable-div
+						{
+							width: 100%;
+							height: 100%;
+							overflow: hidden;
+							border: 1px solid #aaaaaa;
+						}
+
+						td.not-scrollable-td
+						{
+							width: 10%;
+							height: 100%;
+							overflow: hidden;
+							border: 1px solid #aaaaaa;
+						}
+						
 	                    div.mainTextDiv
                         {
  							color: rgb(30,30,30);
@@ -1905,13 +1921,14 @@
 
 					  //edited by Mike, 20250725; from 20250517; if header text is in CN, width decreases;
 					  //alert(sLanguageTemp);
-					  location.reload();
+					  //location.reload();
 /*					  
 					  currSummaryReportsId.style.display = "none";
 					  currSummaryReportsHeaderId.style.display = "inline";
 					  currMainTextDivId.scrollIntoView();
 */
-					  //reload() already scrolls into view
+					  currMainTextDivId.scrollIntoView();
+
 					  //TODO: -add: this
 //					  currMainTextDivId.style.border = "5px solid #1c9bdf"; 
 
@@ -3427,9 +3444,20 @@ else {
 			echo "<br/><br/>";
 	}
 
-	//added by Mike, 20230504
+	//edited by Mike, 20250728; from 20230504
 	//==========================================
-
+?>	
+	<table>
+		<tr>
+		<td class="not-scrollable-td">
+<!--		
+			<div class="not-scrollable-div">A</div>
+			
+			<td id="closeReportId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="closeReportTableTd" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
+-->			
+		</td>
+		<td>
+<?php
 	//added by Mike, 20211012
 	//auto-read: newsletters
 	//find keyphrase from searchbox
@@ -4130,7 +4158,13 @@ while ($sToken !== false)
 
 					}
 				}
+	//added by Mike, 20250728
 ?>
+		</td>
+		<td class="not-scrollable-td">
+		</td>
+		</tr>
+	<table>
 
 	<br/>
 	<br/>
