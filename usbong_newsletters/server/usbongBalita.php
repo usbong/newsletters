@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250728; from 20250726
+  @date updated: 20250729; from 20250728
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -137,7 +137,7 @@
 							width: 10%;
 							height: 100%;
 							overflow: hidden;
-							border: 1px solid #aaaaaa;
+							border: 0px solid #aaaaaa;
 						}
 						
 	                    div.mainTextDiv
@@ -364,8 +364,8 @@
 							position: absolute;
 
 							clip: rect(0px,32px,32px,0px);
-							visibility: hidden;
-							
+							visibility: hidden; /*visible;*/
+													
 							z-index: 4; /*2;*/
 						}
 						
@@ -440,7 +440,7 @@
 							
 							background: #fff;
 							color: rgb(20,20,20);
-							font-size: 24pt;
+							font-size: 18pt; /*24pt;*/
 
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
@@ -463,7 +463,7 @@
 							
 							background: #fff;
 							color: rgb(20,20,20);
-							font-size: 24pt;
+							font-size: 18pt;
 
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
@@ -494,7 +494,7 @@
 						div.textDoubleSpacedDiv {
 							width: 100%;
 							line-height: 2;
-							font-size: 24pt;
+							font-size: 18pt;
 						}
 
 						table.imageTable
@@ -594,6 +594,7 @@
 							color: rgb(51,145,23);
 							font-weight: bold;
 							font-family: Arial;
+							/*font-size: 16pt;*/
 						}
 
 						a.webServiceGitHubLink
@@ -665,8 +666,9 @@
 						select.newsSelect
 						{
 							float: right;
-							font-size: 16pt;
-							margin-top: 0.5%;
+							font-size: 12pt; /*18pt*/
+							
+							margin-top: 1%;/*0.5%;*/
 							margin-bottom: 1%;
 							
 							background-color: #ffffff;
@@ -869,15 +871,16 @@
 							text-align: left;
 
 							position: absolute;
-							font-size: 2em;
+							font-size: 1.5em; /*2em*/
 							margin:0;
-							margin-top: -4px;					
+							margin-top: 0; /*-4px;*/			
 						}
 
 						span.webServiceLinkRowIncomingDraftSpan {
 							text-align: right;
 							color: rgb(80,52,37);
 							font-weight: bold;
+							/*font-size: 16pt;*/
 							
 							/*							
 							background-color: rgb(220,220,220);
@@ -907,7 +910,7 @@
 						}
 						
 						span.dateTodaySpan, .balitaSpan {
-							font-size: 24pt; /*1em;*/
+							font-size: 16pt; /*24pt;*/ /*1em;*/
 						}
 						
 						span.incomingDraftTextSelectOptionSpan {
@@ -956,7 +959,7 @@
 							width: 100%;
 
 							line-height: 2;
-							font-size: 24pt;
+							font-size: 18pt;
 
 							font-weight: Normal;							
 							font-family: Tahoma, Garamond, sans-serif;
@@ -975,7 +978,7 @@
 							width: 100%;
 							
 							line-height: 2;
-							font-size: 24pt;
+							font-size: 18pt;
 
 							font-weight: Normal;
 							font-family: Tahoma, Garamond, sans-serif;
@@ -996,9 +999,17 @@
 						iFrame.youtubeIFrame
 						{
 						  width: 100%;
+						  height: 320px; /*100%*/
+						  display: block;
+						  margin: 0 0; /*auto;*/
+						}
+
+						iFrame.youtubeIFrameIpad
+						{
+						  width: 100%;
 						  height: 512px; /*100%*/
 						  display: block;
-						  margin: 0 auto;
+						  margin: 0 0; /*auto;*/
 						}
 						
 						iFrame.youtubeIFrameMini
@@ -1146,15 +1157,16 @@
 		var isBatMonsterTileActive=true;
 
 		function myUpdateFunction() {
+/*	//removed by Mike, 20250729			
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
 
-/*			//edited by Mike, 20250130		
-			dMyAudioCurrentTimeDurationInMin=Math.round(dMyAudioCurrentTimeDurationInSec/60);
-			iMyAudioCurrentTimeDurationInSec=Math.round(dMyAudioCurrentTimeDurationInSec%60);
-*/
-			dMyAudioCurrentTimeDurationInMin=Math.floor(dMyAudioCurrentTimeDurationInSec/60);
-			
+////			//edited by Mike, 20250130		
+////			dMyAudioCurrentTimeDurationInMin=Math.round(dMyAudioCurrentTimeDurationInSec/60);
+////			iMyAudioCurrentTimeDurationInSec=Math.round(dMyAudioCurrentTimeDurationInSec%60);
+
+////			dMyAudioCurrentTimeDurationInMin=Math.floor(dMyAudioCurrentTimeDurationInSec/60);
+////			
 			iMyAudioCurrentTimeDurationInSec=Math.floor(dMyAudioCurrentTimeDurationInSec%60);
 
 			sMyAudioCurrentTimeDurationInSec=iMyAudioCurrentTimeDurationInSec;
@@ -1164,7 +1176,8 @@
 			}
 			
 			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
-			
+*/						
+
 			//added by Mike, 20250612
 			if (isBatMonsterTileActive) {
 				executeBatMonsterWalkingAnimation();
@@ -1345,16 +1358,17 @@
 				}
 			  }
 			};
-			
+/*			
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
 
 			sMyAudioDurationText.innerHTML="0:00 / "+getAudioTotalDuration();
-						
+*/						
+
 			//added by Mike, 20250612
 			if (sessionStorage.getItem('isDisplayOriginalText')==='false') {
 				toggleOriginalTextDisplay();
 			}
-
+			
 			//fFramesPerSecond=16.66; //100.00; //16.66;
 			clearInterval(iCurrentIntervalId);
 			iCurrentIntervalId=setInterval(myUpdateFunction, fFramesPerSecond);	
@@ -1387,7 +1401,7 @@
 			}
 		}
 */
-			
+/*			
 		function getAudioTotalDuration() {
 			var dMyAudioDurationInSec = document.getElementById("myAudioId").duration; 
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
@@ -1404,6 +1418,7 @@
 			
 			return dMyAudioDurationInMin+":"+sMyAudioDurationInSec;
 		}
+*/		
 
 		//added by Mike, 20240801
 		function changeAudio() {			
@@ -1461,7 +1476,8 @@
 				//selectedValue;
 			}
 		}
-		
+
+/*		
 		//Game Off 2024
 		function playAudio() {
 			//alert("DITO");
@@ -1507,15 +1523,15 @@
 				}				
 			}
 			//myAudio.setAttribute("src", sAudioSource);
-/*
-			var fMyAudioVolume=1.0;//0.4;
-			myAudio.volume=fMyAudioVolume;
-			myAudio.loop=false;		
-			myAudio.play();
-*/			
+
+			////var fMyAudioVolume=1.0;//0.4;
+			////myAudio.volume=fMyAudioVolume;
+			////myAudio.loop=false;		
+			////myAudio.play();
+			
 			//alert("HALLO!");
 		}
-		
+*/		
 		//added by Mike, 20230920
 		function showNews() {
 			//alert("HALLO!");
@@ -2326,6 +2342,15 @@ add news row; language
 
 		return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 	}
+	
+	//added by Mike, 20250729
+	function isMobileAndUsingAppleWebKit() {
+		//echo "CLIENT USER DETAILS: " . $_SERVER["HTTP_USER_AGENT"];
+
+		//return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+
+		return preg_match("/(iPad|iPod|AppleWebKit)/i", $_SERVER["HTTP_USER_AGENT"]);
+	}
 
 	if (isMobile()) {
 		//edited by Mike, 20250701
@@ -2558,18 +2583,21 @@ else {
 
 <table class="searchTable">
 		<tr>
+<!-- //removed by Mike, 20250729
 			<td class="radioImageTd">
 <button class='jeepRadioButton'>
 <?php
 	//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
 	//answer by: Greg, 20081126T1928
 	
-	echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
+	//removed by Mike, 20250729
+	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
 ?>	
 </button>
 			</td>
 			<td>
 <?php
+/*	//removed by Mike, 20250729
 	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
 		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
 	}
@@ -2605,12 +2633,14 @@ else {
 	}
 
 	//echo $sAudioInput;
+*/	
 ?>
 <div class="divAudioPlayerContainer">
 
 <button class="playRadioButton">
 <?php
-	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
+	//removed by Mike, 20250729
+	//echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
 	
 ?>
 </button>
@@ -2619,12 +2649,13 @@ else {
 </span>
 
 		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
-		  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
+		  <source id="audioSourceId" src="<?php //echo $sAudioInput;?>" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio>	
 
 		</div>
 		</td>
+-->		
 		<td class="selectNewsSourceTd">
 		<button class='origTextButton'>
 <?php
@@ -2632,7 +2663,8 @@ else {
 	//answer by: Greg, 20081126T1928
 	echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
 	
-?>	
+	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
+?>
 		</button>
 			<?php
 				//added by Mike, 20250430; from 20230920
@@ -3097,7 +3129,7 @@ else {
 		//edited by Mike, 20250516; from 20250513
 		//$sLanguage=processLanguageTagToDisplay($completeFilename);
 		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
-		
+				
 		$sToken = strtok($cellValue, "\n");
 
 		$sGitHubLink = getGitHubLinkFromInput($cellValue, $updatedDirDueToURL,$completeFilename);
@@ -3127,10 +3159,20 @@ else {
 		//echo "DITO!!!!";
 
 		$sLanguage=processDisplayedLanguages($sLanguage,$iNewsRankCount);
-
-		$sOutput=$sOutput."<h3>
-		<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
-
+		
+		//edited by Mike, 20250729
+		//$sOutput=$sOutput."<h3>
+		//<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+		
+		if (!isMobileAndUsingAppleWebKit()) {
+			$sOutput=$sOutput."<h4>
+			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h4><hr>";
+		}
+		else {
+			$sOutput=$sOutput."<h3>
+			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
+		}
+		
 		return $sOutput;
 	}
 	
@@ -3210,8 +3252,13 @@ else {
 			$sReferenceWebsiteTempUpdated = str_replace("shorts/","embed/",$sReferenceWebsiteTempUpdated);
 			
 			//echo ">>>>".$sReferenceWebsiteTempUpdated;
-			
-			echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";			
+			//edited by Mike, 20250729
+			if (!isMobileAndUsingAppleWebKit()) {
+				echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";
+			}
+			else {
+				echo "<iframe class='youtubeIFrameIpad' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";
+			}
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
@@ -3449,6 +3496,9 @@ else {
 ?>	
 	<table>
 		<tr>
+<?php
+		if (!isMobileAndUsingAppleWebKit()) {
+?>	
 		<td class="not-scrollable-td">
 <!--		
 			<div class="not-scrollable-div">A</div>
@@ -3456,6 +3506,9 @@ else {
 			<td id="closeReportId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="closeReportTableTd" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
 -->			
 		</td>
+<?php
+		}
+?>	
 		<td>
 <?php
 	//added by Mike, 20211012
@@ -3494,7 +3547,9 @@ else {
 	//set to max 5; to iterate from highest in count
 	//edited by Mike, 20250512
 	//$iReportForTheDayCountMax=5;
-	$iReportForTheDayCountMax=7; //8;
+	//added by Mike, 20250729
+	//TODO: -reverify: this; cause of lag
+	$iReportForTheDayCountMax=1;//7; //8;
 	
 	$iReportForTheDayCount=$iReportForTheDayCountMax; //0
 
@@ -3885,7 +3940,13 @@ while ($sToken !== false)
 		}
 
 		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
-		echo "<h3>";
+		//edited by Mike, 20250729
+		if (!isMobileAndUsingAppleWebKit()) {
+			echo "<h4>";
+		}
+		else {
+			echo "<h3>";
+		}
 
 		echo "<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>";
 		echo $sReferenceWebsite."</a>";
@@ -3903,7 +3964,14 @@ while ($sToken !== false)
 		$sLanguage=processLanguageTagToDisplay($completeFilename,$iNewsRankCount);
 		echo " ".$sLanguage;
 
-		echo "</h3>";
+		//edited by Mike, 20250729
+		if (!isMobileAndUsingAppleWebKit()) {
+			echo "</h4>";
+		}
+		else {
+			echo "</h3>";
+		}
+
 		echo "</span>";
 		echo "<hr>";		
 	}
@@ -4161,8 +4229,15 @@ while ($sToken !== false)
 	//added by Mike, 20250728
 ?>
 		</td>
+<?php
+		//added by Mike, 20250729
+		if (!isMobileAndUsingAppleWebKit()) {
+?>	
 		<td class="not-scrollable-td">
 		</td>
+<?php
+		}
+		?>	
 		</tr>
 	<table>
 
