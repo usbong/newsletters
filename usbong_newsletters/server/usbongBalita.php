@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250729; from 20250728
+  @date updated: 20250730; from 20250729
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -24,41 +24,6 @@
   1) local: http://localhost/usbong_newsletters/server/usbongBalita.php
 
   2) public internet: http://store.usbong.ph/server/usbongBalita.php
-
-  Recommended References:
-  0) Usbong Knowledge Management System (KMS)
-  // https://github.com/usbong/kms; last accessed: 20230506;
-  // notes: noticeable margin space @right side;
-  // OUTPUT: USBONG logo, et cetera; size correct even on MOBILE TABLET PC
-
-  1) https://www.w3schools.com/howto/howto_css_table_center.asp;
-  //last accessed: 20210703
-  //https://www.w3schools.com/css/css_font_size.asp;
-  //last accessed: 20230828; "Responsive Font Size"
-
-  2) https://www.asahi.com/; last accessed: 20220626
-
-  3) https://www.1101.com/home.html; last accessed: 20220626
-
-  4) AMAZON.COM Kindle eBOOK Reader
-  //TO-DO: -add: mobile responsiveness via reusing USBONG STORE computer instructions received from ZENT as paid sub-contractor
-  reminder: pay: to learn technique for USBONG to share lessons-learned with PUBLIC
-
-  //TO-DO: -update: newsletter pages system to be more organized
-  //TO-DO: -add: LINE NUMBERS?
-
-  //note: Android mobile telephone; PORTRAIT mode has excess horizontal scrolling;
-  //auto-set font-size to be smaller; AMAZON.COM; Kindle;
-  //verify width x height;
-  //notes: self had read eBOOKS on Kindle, PORTRAIT mode
-  //removed: excess touch screen movement on iPAD Table PC;
-  //TO-DO: -fix: excess movement returns after change from PORTRAIT to LANDSCAPE, and vice-versa;
-  //UsbongV2 -> UsbongV3?
-  //TO-DO: -delete: excess instructions
-
-
-  //added by Mike, 20250612
-  //TODO: -fix: delay when loading audio text and bat image;
 -->
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
@@ -134,7 +99,7 @@
 
 						td.not-scrollable-td
 						{
-							width: 10%;
+							width: 5%;
 							height: 100%;
 							overflow: hidden;
 							border: 0px solid #aaaaaa;
@@ -154,6 +119,8 @@
 
 							text-align: justify;
 							text-justify: inter-word;
+							
+							display: block;
                         }
 
 						div.newsListAtRightPanelDiv
@@ -266,7 +233,7 @@
 						div.copyright
 						{
 							text-align: center;
-							font-size: 16pt;
+							font-size: 12pt;
 							color: rgb(0,0,0); /* black */
 							font-weight: bold;
 						}
@@ -451,6 +418,8 @@
 							padding-left: 3%;
 
 							/* text-indent: 5%;*/
+							
+							display: block;
 						}
 
 						blockquote.usbongBlockquotePersonal {
@@ -476,6 +445,8 @@
 							/*padding-left: 3%;*/
 
 							/* text-indent: 5%;*/
+							
+							display: block;
 						}
 	 
 						iframe {
@@ -666,7 +637,7 @@
 						select.newsSelect
 						{
 							float: right;
-							font-size: 12pt; /*18pt*/
+							font-size: 12pt; /*20pt*/
 							
 							margin-top: 1%;/*0.5%;*/
 							margin-bottom: 1%;
@@ -969,8 +940,9 @@
 /*							
 							margin-top: -0.4em;
 */
-
-							display: none;
+							/* note doesn't use full width when zooming in and out */
+							display: block; /*none;//block;*/
+							visibility: visible; /*hidden;*/
 						}
 
 						span.moreTextSpanIIISummaryReportsHeader
@@ -986,7 +958,7 @@
 							text-align: justify;
 							text-justify: inter-word;
 							
-							display: block; /*inline;*/
+							display: block; /*none;*/
 							margin-bottom: 2%;
 						}
 
@@ -1214,6 +1186,11 @@
 				if (navigator.userAgent.includes("Linux x")) {
 					bIsMobile=false;
 				}
+				
+				//added by Mike, 20250730
+				if (navigator.userAgent.includes("Safari")) {
+					bIsMobile=false;
+				}
 
 				//note: iPAD and MacBookPro OS : Mac OS X
 				//adds: to be re-classified as iPAD via TOUCH command
@@ -1368,7 +1345,7 @@
 			if (sessionStorage.getItem('isDisplayOriginalText')==='false') {
 				toggleOriginalTextDisplay();
 			}
-			
+						
 			//fFramesPerSecond=16.66; //100.00; //16.66;
 			clearInterval(iCurrentIntervalId);
 			iCurrentIntervalId=setInterval(myUpdateFunction, fFramesPerSecond);	
@@ -1583,13 +1560,32 @@
 		var selectedValue = selectBox.options[selectBox.selectedIndex].value;
 			
 		var batMonsterImageTile = document.getElementById("batMonsterImageId");
+		
+		//added by Mike, 20250730
+		//const displayIncomingDraft = document.getElementById("displayIncomingDraftId");
 
 		//alert(selectedValue);
 
 		if (selectedValue==="N8") { //PERSONAL
+/*
+			//edited by Mike, 20250730
 			batMonsterImageTile.style.visibility="hidden";
 			isBatMonsterTileActive=false;
-			//sessionStorage.setItem('isDisplayOriginalText', 'true');
+*/
+			batMonsterImageTile.style.visibility="visible";
+			isBatMonsterTileActive=true;
+
+			//alert("HALLO");//+displayIncomingDraft.value);
+
+/*			TODO: -update: this
+			//added by Mike, 20250612
+			if (sessionStorage.getItem('isDisplayIncomingDraft')==='false') {
+				sessionStorage.setItem('isDisplayIncomingDraft', 'true');
+			}
+			else {
+				sessionStorage.setItem('isDisplayIncomingDraft', 'false');
+			}
+*/			
 		}
 		else {
 			batMonsterImageTile.style.visibility="visible";
@@ -1893,7 +1889,7 @@
 						if ((!sCurrText.indexOf(iCount)!==-1) && (iCount==parseInt(sSelectedRow))) {
 	
 							currMainTextDivId.style.border = "5px solid #1c9bdf"; 
-							
+
 /*							
 							if (currSummaryReportsId!==null) {
 								currSummaryReportsId.style.display = "inline";
@@ -1902,23 +1898,28 @@
 								currSummaryReportsHeaderId.style.display = "none";
 							}
 */
-			  if ((currSummaryReportsId!==null) && (currSummaryReportsHeaderId!==null)) {				  
+			  if ((currSummaryReportsId!==null) && (currSummaryReportsHeaderId!==null)) {	
+			  
 				  //if display set by CSS to "block"; blank
 				  if (currSummaryReportsHeaderId.style.display === "") {
 					  //currSummaryReportsId.style.display = "inline";
 					  currSummaryReportsId.style.display = "block";
+					  currSummaryReportsId.style.visibility = "visible";
 					  
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
 				  else if (currSummaryReportsHeaderId.style.display === "block") {
 					  //currSummaryReportsId.style.display = "inline";
 					  currSummaryReportsId.style.display = "block";
+					  currSummaryReportsId.style.visibility = "visible";
 
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
 				  else if (currSummaryReportsId.style.display === "none") {
 					  //currSummaryReportsId.style.display = "inline";
 					  currSummaryReportsId.style.display = "block";
+					  currSummaryReportsId.style.visibility = "visible";
+
 					  currSummaryReportsHeaderId.style.display = "none";
 				  }
 				  else {
@@ -2460,8 +2461,8 @@ add news row; language
 
 //echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
 
-//edited by Mike, 20240614; from 20240516
-$iDateTodayAndNewsLastAccessedDifferenceMax=4; //3
+//edited by Mike, 20240730; from 20240614
+$iDateTodayAndNewsLastAccessedDifferenceMax=2;//4; //3
 
 //default
 $updatedDirDueToURL="";
@@ -3732,7 +3733,7 @@ else {
 					
 					//echo "EXISTS!!!";
 					//echo "!!!completeFilename: ".$completeFilename."<br/>";
-					
+
 					//added by Mike, 20250514
 					//check other languages if available
 					
@@ -3772,6 +3773,44 @@ else {
 
 				continue;
 			}
+			
+			//added by Mike, 20250730
+			//----------------------------------------------
+			//isDisplayIncomingDraft
+			//if (false) {
+			if (true) {
+				//echo "!!!completeFilename: ".$completeFilename."<br/>";
+
+				$fileDateArray=explode("\\",$completeFilename);
+				//echo "count(fileDateArray): ".count($fileDateArray)."<br/>";
+				
+				//if Linux server
+				if (count($fileDateArray)<=1) {
+					$fileDateArray=explode("/",$completeFilename);
+				}
+				
+				$sFileDate=$fileDateArray[count($fileDateArray)-1];
+				$sFileDate=str_replace(".md","",$sFileDate);
+				$sFileDate=str_replace("en","",$sFileDate);
+				$sFileDate=str_replace("jp","",$sFileDate);
+				$sFileDate=str_replace("es","",$sFileDate);
+				$sFileDate=str_replace("ch","",$sFileDate);
+				$sFileDate=str_replace("ph","",$sFileDate);
+				
+				//echo "sFileDate: ".$sFileDate."<br/>";
+
+				//added by Mike, 20250730
+				$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sFileDate);
+			
+				if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+					//echo "SKIP!!";
+					
+					$completeFilename="next";
+					continue; //skip incoming draft
+				}	
+			}
+			//----------------------------------------------
+						
 
 			$prevCompleteFilename=$completeFilename;
 			//echo "prevCompleteFilename: ".$prevCompleteFilename."<br/>";
@@ -3781,7 +3820,7 @@ else {
 	$languageCompleteFilenameArray=processCheckLanguageAvailability($completeFilename);
 	
 	$languageCompleteFilenameArrayCount=0;
-		
+			
 	foreach($languageCompleteFilenameArray as $value) {
 		$completeFilename=$value[0];
 		$languageCompleteFilenameArrayCount++;
@@ -3889,13 +3928,18 @@ else {
 	}
 }
 
-?>
+//echo ">>>>".$newsTitleOutput."<br/>END<br/>";
 
-<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php echo $newsTitleOutput."";?></span>
+?>
+	<input type="hidden" id="displayIncomingDraftId" value="0" required>
+
+
+<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php //removed by Mike, 20250730 //echo $newsTitleOutput."";?></span>
 
 <span id="summaryReportsCountId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="spanSummaryReportsCount"></span>
 
 <span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
+
 
 <?php
 
@@ -3912,6 +3956,7 @@ $iRowCount=0;
 while ($sToken !== false)
 {
 	if ($iRowCount==0) {
+		//added by Mike, 20250730
 		//note: space after "##"
 		$sToken = str_replace("## ", "", $sToken);
 
@@ -3973,7 +4018,7 @@ while ($sToken !== false)
 		}
 
 		echo "</span>";
-		echo "<hr>";		
+		echo "<hr>";
 	}
 	//else if (strpos($cellValue, ">")!==false) {
 	else if (substr($sToken,0,1)==">") {
@@ -4202,11 +4247,13 @@ while ($sToken !== false)
 //added by Mike, 20250515
 }
 
-	//edited by Mike, 20240720; from 20231222
+	//edited by Mike, 20250730; from 20240720
 	//add only if has additional reference
 	//echo "<br/>";
-	if ($bHasAdditionalReference) {
-	  echo "<br/><br/>";
+	if (isset($bHasAdditionalReference)) {
+		if ($bHasAdditionalReference) {
+		  echo "<br/><br/>";
+		}
 	}
 	//echo "<br/><br/>";
 
@@ -4240,7 +4287,6 @@ while ($sToken !== false)
 		?>	
 		</tr>
 	<table>
-
 	<br/>
 	<br/>
 	<div class="copyright">
