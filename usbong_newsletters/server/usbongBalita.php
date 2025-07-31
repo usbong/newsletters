@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250730; from 20250729
+  @date updated: 20250731; from 20250730
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -930,7 +930,7 @@
 							width: 100%;
 
 							line-height: 2;
-							font-size: 18pt;
+							font-size: 20pt;
 
 							font-weight: Normal;							
 							font-family: Tahoma, Garamond, sans-serif;
@@ -1158,6 +1158,10 @@
 	
 		function onLoad() {
 		  //alert ("HALLO");
+		  
+		  //added by Mike, 20250731
+		  var selectBox = document.getElementById("newsSelectId");
+		  var selectedValue = selectBox.options[selectBox.selectedIndex].value;
 
 			//added by Mike, 20230510
 			if (/Mobile|Android|webOS|iPhone|iPad|iPod|AppleWebKit|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
@@ -1341,9 +1345,12 @@
 			sMyAudioDurationText.innerHTML="0:00 / "+getAudioTotalDuration();
 */						
 
-			//added by Mike, 20250612
-			if (sessionStorage.getItem('isDisplayOriginalText')==='false') {
-				toggleOriginalTextDisplay();
+			//edited by Mike, 20250731; from 20250612
+			if (selectedValue!=="N8") {
+				if (sessionStorage.getItem('isDisplayOriginalText')==='false') {
+					//also used with isDisplayIncomingDraft;
+					toggleOriginalTextDisplay();
+				}
 			}
 						
 			//fFramesPerSecond=16.66; //100.00; //16.66;
@@ -1534,18 +1541,25 @@
 
 			var sInput = window.location.href;
 
-			//added by Mike, 20240801
-			var sRadioInput=sInput.substring(sInput.indexOf("/R"));
+			//added by Mike, 20250731
+			var sDisplayIncomingDraftInput="";
+			if (sInput.indexOf("?d=") !== -1) {
+				sDisplayIncomingDraftInput=sInput.substring(sInput.indexOf("?d="));
+			}
+
+			//added by Mike, 20250731; from 20240801
+			//var sRadioInput=sInput.substring(sInput.indexOf("/R"));
+			var sRadioInput=sInput.substring(sInput.indexOf("/R"),sInput.indexOf("?d="));
 
 			//alert(sInput.substring(0,sInput.indexOf(".php")));
 			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
 
 			//added by Mike, 20240801						
 			if (sRadioInput.length<=3) { //has "/R1", etc.			
-				window.location.href = ""+sInput+selectedValue+sRadioInput;
+				window.location.href = ""+sInput+selectedValue+sRadioInput+sDisplayIncomingDraftInput;
 			}
 			else {
-				window.location.href = ""+sInput+selectedValue;
+				window.location.href = ""+sInput+selectedValue+sDisplayIncomingDraftInput;
 			}
 			
 			//TODO: -update: selected option;
@@ -1575,17 +1589,26 @@
 			batMonsterImageTile.style.visibility="visible";
 			isBatMonsterTileActive=true;
 
-			//alert("HALLO");//+displayIncomingDraft.value);
-
-/*			TODO: -update: this
-			//added by Mike, 20250612
-			if (sessionStorage.getItem('isDisplayIncomingDraft')==='false') {
+			//------------------------------------------			
+			//added by Mike, 20250731
+			var selectBox = document.getElementById("newsSelectId");
+			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+			
+			//alert("selectedValue: "+selectedValue);
+			
+			var sInput = window.location.href;
+			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/"+selectedValue;
+			//------------------------------------------
+			
+			//added by Mike, 20250731
+			if ((sessionStorage.getItem('isDisplayIncomingDraft')===null) || (sessionStorage.getItem('isDisplayIncomingDraft')==='false')) {
 				sessionStorage.setItem('isDisplayIncomingDraft', 'true');
+				window.location.href = ""+sInput+"?d=1";
 			}
 			else {
 				sessionStorage.setItem('isDisplayIncomingDraft', 'false');
+				window.location.href = ""+sInput+"?d=0";
 			}
-*/			
 		}
 		else {
 			batMonsterImageTile.style.visibility="visible";
@@ -1944,7 +1967,10 @@
 					  currSummaryReportsHeaderId.style.display = "inline";
 					  currMainTextDivId.scrollIntoView();
 */
-					  currMainTextDivId.scrollIntoView();
+					  //removed by Mike, 20250731
+					  //currMainTextDivId.scrollIntoView();
+					  //note: usable with next or previous page;
+					  //currMainTextDivId.scrollIntoView({ behavior: 'smooth'});
 
 					  //TODO: -add: this
 //					  currMainTextDivId.style.border = "5px solid #1c9bdf"; 
@@ -2347,7 +2373,11 @@ add news row; language
 	//added by Mike, 20250729
 	function isMobileAndUsingAppleWebKit() {
 		//echo "CLIENT USER DETAILS: " . $_SERVER["HTTP_USER_AGENT"];
-
+/*
+		if (preg_match("/(Safari)/i", $_SERVER["HTTP_USER_AGENT"])) {
+			return false;
+		}
+*/
 		//return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
 
 		return preg_match("/(iPad|iPod|AppleWebKit)/i", $_SERVER["HTTP_USER_AGENT"]);
@@ -2462,7 +2492,7 @@ add news row; language
 //echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
 
 //edited by Mike, 20240730; from 20240614
-$iDateTodayAndNewsLastAccessedDifferenceMax=2;//4; //3
+$iDateTodayAndNewsLastAccessedDifferenceMax=1;//2;//4; //3
 
 //default
 $updatedDirDueToURL="";
@@ -3778,7 +3808,11 @@ else {
 			//----------------------------------------------
 			//isDisplayIncomingDraft
 			//if (false) {
-			if (true) {
+			//if (true) {
+			//echo ">>>>>".$_SERVER['REQUEST_URI']."<br/>";
+			if (strpos($_SERVER['REQUEST_URI'],"?d=1")===false) {
+				//echo "DITO!!!";
+				
 				//echo "!!!completeFilename: ".$completeFilename."<br/>";
 
 				$fileDateArray=explode("\\",$completeFilename);
