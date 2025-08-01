@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250731; from 20250730
+  @date updated: 20250801; from 20250731
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -826,8 +826,22 @@
 						}
 						
 						button.languageButton {
+							background: #E9E9ED;
+							border: 0.1em solid #AAA;
+							border-radius: 4px;
 						}
 
+						button.languageButton:hover {
+							background: #C1C1C4;
+							border: 0.1em solid #AAA;
+							border-radius: 4px;
+						}
+						
+/*
+						button.languageButton:active {
+							background-color:yellow;
+						}
+*/
 						span.spanFileNotFound, span.spanKeyphraseNotFound
 						{
 							width: 100%;
@@ -945,12 +959,50 @@
 							visibility: visible; /*hidden;*/
 						}
 
+						span.moreTextSpanIIISummaryReportsApple
+						{
+							width: 100%;
+
+							line-height: 2;
+							font-size: 22pt;
+
+							font-weight: Normal;							
+							font-family: Tahoma, Garamond, sans-serif;
+
+							text-align: justify;
+							text-justify: inter-word;
+/*							
+							margin-top: -0.4em;
+*/
+							/* note doesn't use full width when zooming in and out */
+							display: block; /*none;//block;*/
+							visibility: visible; /*hidden;*/
+						}
+
+
 						span.moreTextSpanIIISummaryReportsHeader
 						{
 							width: 100%;
 							
 							line-height: 2;
-							font-size: 18pt;
+							font-size: 22pt;
+
+							font-weight: Normal;
+							font-family: Tahoma, Garamond, sans-serif;
+
+							text-align: justify;
+							text-justify: inter-word;
+							
+							display: block; /*none;*/
+							margin-bottom: 2%;
+						}
+
+						span.moreTextSpanIIISummaryReportsHeaderApple
+						{
+							width: 100%;
+							
+							line-height: 2;
+							font-size: 24pt;
 
 							font-weight: Normal;
 							font-family: Tahoma, Garamond, sans-serif;
@@ -1191,10 +1243,13 @@
 					bIsMobile=false;
 				}
 				
-				//added by Mike, 20250730
+				//removed by Mike, 20250801; 20250730
+				//even ipad uses Safari
+/*				
 				if (navigator.userAgent.includes("Safari")) {
 					bIsMobile=false;
 				}
+*/
 
 				//note: iPAD and MacBookPro OS : Mac OS X
 				//adds: to be re-classified as iPAD via TOUCH command
@@ -2256,11 +2311,10 @@ add news row; language
 	
       //added by Mike, 20250517; from 20250515
 	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
-	/*
-			  alert(sLanguage);
+/*	
 			  alert(iNewsRankCount);
-	*/
-			  
+			  alert(sLanguage);
+*/				  
 			  //alert(sLanguage);
 			  //alert("usbongBlockquoteId"+iNewsRankCount+"-"+sLanguage);
 /*			  
@@ -2296,7 +2350,54 @@ add news row; language
 				  }
 			  //}
 */
+
+/*			//TODO: -reverify: this; the language button other than the first do not get displayed as pressed			  
+			  alert("DITO!!!! languageButtonId"+iNewsRankCount+"-"+sLanguage);		
 			  
+			  var languageButton = document.getElementById("languageButtonId"+iNewsRankCount+"-"+sLanguage);	
+			  
+			  var languageButtonEN = document.getElementById("languageButtonId"+iNewsRankCount+"-EN");	
+			  var languageButtonJP = document.getElementById("languageButtonId"+iNewsRankCount+"-JP");	
+			  var languageButtonES = document.getElementById("languageButtonId"+iNewsRankCount+"-ES");	
+			  var languageButtonCH = document.getElementById("languageButtonId"+iNewsRankCount+"-CH");	
+			  var languageButtonPH = document.getElementById("languageButtonId"+iNewsRankCount+"-PH");	
+			  
+			  if (languageButtonEN!==null) {
+				languageButtonEN.style.background = "#E9E9ED";
+			  }
+			  
+			  if (languageButtonJP!==null) {
+				languageButtonJP.style.background = "#E9E9ED";
+			  }
+
+			  if (languageButtonES!==null) {
+				//alert(sLanguage);
+				alert(sLanguage.indexOf("ES"));
+				
+				if (sLanguage.indexOf("ES")===0) { //clicked
+					alert("HALLO!!!");
+					languageButtonES.style.background = "#C1C1C4";
+					alert(">>>>");
+				}
+				else {
+					alert("HOHO");
+					languageButtonES.style.background = "#E9E9ED";
+				}
+			  }
+
+			  if (languageButtonCH!==null) {
+				languageButtonCH.style.background = "#E9E9ED";
+			  }
+
+			  if (languageButtonPH!==null) {
+				languageButtonPH.style.background = "#E9E9ED";
+			  }
+
+			  if (languageButton!==null) {
+				alert("YAHOOO!!!");
+				languageButton.style.background = "#C1C1C4";
+			  }
+*/			  
 			  //set to none all the available languages
 			  //var bodyTable = document.getElementById("bodyTableId");	
 			  //example
@@ -2304,7 +2405,7 @@ add news row; language
 			  //var bodyTable = document.getElementById("bodyTableId"+iNewsRankCount+"-"+sLanguage);
 			  var bodyTableEN = document.getElementById("bodyTableId"+iNewsRankCount+"-EN");
 			  if (bodyTableEN) {
-				bodyTableEN.style.display = "none";		  
+				bodyTableEN.style.display = "none";		
 			  }
 
 			  //alert("DITO!");
@@ -2348,8 +2449,6 @@ add news row; language
 			  var mainTextDivId = document.getElementById("mainTextDivId"+iNewsRankCount+"-"+sLanguage);	
 			  
 			  mainTextDivId.scrollIntoView();
-			  
-			  //alert("DITO!!!!");		
 		  }
 	  </script>	  
 
@@ -3220,7 +3319,12 @@ else {
 			for ($iCount=0; $iCount<$iNumOfLanguageTokens; $iCount++) {
 				//echo "languageTokensArray".$iCount.": ".$languageTokensArray[$iCount]."<br/>";
 				
-				$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
+				//edited by Mike, 20250801
+				//$sLanguage=$sLanguage."<button onclick='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
+				
+				//echo "languageButtonId".$iNewsRankCount."-".$languageTokensArray[$iCount]."<br/>";
+				
+				$sLanguage=$sLanguage."<button class='languageButton' id='languageButtonId".$iNewsRankCount."-".$languageTokensArray[$iCount]."' onclick='myLanguageChangeFunction(\"".$iNewsRankCount."\",\"".$languageTokensArray[$iCount]."\")'>".$languageTokensArray[$iCount]."</button>";
 			}
 		}
 		else {
@@ -3967,12 +4071,22 @@ else {
 ?>
 	<input type="hidden" id="displayIncomingDraftId" value="0" required>
 
+<?php
+$sClassHeader='moreTextSpanIIISummaryReportsHeader';
+$sClass='moreTextSpanIIISummaryReports';
 
-<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReportsHeader" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php //removed by Mike, 20250730 //echo $newsTitleOutput."";?></span>
+if (isMobileAndUsingAppleWebKit()) {
+	$sClassHeader='moreTextSpanIIISummaryReportsHeaderApple';
+	$sClass='moreTextSpanIIISummaryReportsApple';
+}
+
+?>
+
+<span id="summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="<?php echo $sClassHeader;?>" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')"><?php //removed by Mike, 20250730 //echo $newsTitleOutput."";?></span>
 
 <span id="summaryReportsCountId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="spanSummaryReportsCount"></span>
 
-<span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="moreTextSpanIIISummaryReports" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
+<span id="summaryReportsId<?php echo $iNewsRankCount."-".$sLanguageValue;?>" class="<?php echo $sClass;?>" onmousedown="toggleMoreStart('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')" onmouseup="toggleMoreEnd('summaryReportsHeaderId<?php echo $iNewsRankCount."-".$sLanguageValue;?>')">
 
 
 <?php
