@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250801; from 20250731
+  @date updated: 20250802; from 20250801
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -332,10 +332,21 @@
 
 							clip: rect(0px,32px,32px,0px);
 							visibility: hidden; /*visible;*/
-													
+																						
 							z-index: 4; /*2;*/
 						}
 						
+						img.ImageTileFrame1:hover {
+							position: absolute;
+
+							clip: rect(0px,32px,32px,0px);
+							visibility: hidden; /*visible;*/
+																						
+							z-index: 4; /*2;*/
+
+							opacity: 0.6;
+						}
+
 						img.Image-radio {
 /*
 							width: 100%;
@@ -607,6 +618,7 @@
 						{
 							color: rgb(64,64,64);
 							text-decoration: underline;
+							opacity: 0.6;
 						}
 						
 						a.usbongYoutubeLink
@@ -2853,8 +2865,10 @@ else {
 					    //iDateTodayAndNewsLastAccessedDifferenceMax = 3;
 						
 						//verify if an incoming draft is present						
-						//for ($iDayCount=0; $iDayCount<3; $iDayCount++) { 
-						for ($iDayCount=0; $iDayCount<$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
+						//for ($iDayCount=0; $iDayCount<3; $iDayCount++) {
+						//edited by Mike, 20250802
+						//for ($iDayCount=0; $iDayCount<$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
+						for ($iDayCount=0; $iDayCount<=$iDateTodayAndNewsLastAccessedDifferenceMax; $iDayCount++) { 
 							$dateTodayTemp = Date('Y-m-d',strtotime('-'.$iDayCount.'days'));
 
 						//echo $dateTodayTemp."<br/>";
@@ -2912,8 +2926,9 @@ else {
 							$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($dateTodayTemp);
 				
 							//echo ">>>>".$iDateTodayAndNewsLastAccessedDifference;
-				
-							if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+							//edited by Mike, 20250802
+							//if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+							if ($iDateTodayAndNewsLastAccessedDifference<=$iDateTodayAndNewsLastAccessedDifferenceMax) {
 								//edited by Mike, 20250614
 								$sIncomingDraftTextSelectOption="<span class='incomingDraftTextSelectOptionSpan'>⭐</span>"; //*
 								
