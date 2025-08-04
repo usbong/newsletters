@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250802; from 20250801
+  @date updated: 20250804; from 20250802
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1219,9 +1219,61 @@
 				executeBatMonsterWalkingAnimation();
 			}
 		}
+
+		//added by Mike, 20250804
+		//reference: Google AI Overview
+	    function replaceCharAtIndex(str, index, char) {
+			if (index < 0 || index >= str.length) {
+				return str; // Handle out-of-bounds index
+			}
+			return str.substring(0, index) + char + str.substring(index + 1);
+		}
 	
 		function onLoad() {
 		  //alert ("HALLO");
+		  //added by Mike, 20250804 
+		  var sInput = window.location.href;
+		  		  
+		  if (sInput.indexOf("?d=") !== -1) {
+		
+			sDisplayBasedOnDayInput=sInput.substring(sInput.indexOf("?d="));
+		
+			//incoming draft
+			if (sInput.indexOf("-") !== -1) {
+
+				sDisplayBasedOnDayInput=sDisplayBasedOnDayInput.replace("-","");
+				
+				iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+1);
+				
+				//alert(iDay);
+				
+				//TODO: -fix: if "-01";
+				//if (iDay>1) {
+				//if (iDay!==1) {
+				if (iDay!=1) {
+
+/*
+					iDay=-1;
+					iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+2);
+*/					
+					sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+					window.location.href = ""+sInput;
+				}
+			}
+			else {
+
+				//alert("DITO!!!");
+
+				iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+1);
+				
+				//alert(iDay);
+				
+				if (iDay>=10) {
+					sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+					window.location.href = ""+sInput;
+				}
+			}
+		  }
 		  
 		  //added by Mike, 20250731
 		  var selectBox = document.getElementById("newsSelectId");
@@ -1366,11 +1418,129 @@
 			//OK;
 			onmousedown = (event) => {
 			  //alert("DITO");
-/*
+			  
+			  //added by Mike, 20250804
 			  if (event.button === 0) { //left click
-          alert("LEFT CLICK!");
-        }
-*/
+				//alert("LEFT CLICK!");
+				//note: ZOOM function causes position ERROR via screenX
+				var iXPos = event.clientX;//screenX;
+
+				//note: screenY includes BROWSER address bar, et cetera;
+				var iYPos = event.pageY; //screenY;
+
+				//note increases/decreases based on zoom
+				var iScreenWidth = screen.width;
+				
+				//alert("screen width: "+iScreenWidth);
+				//alert("LEFT CLICK! iXPos,iYPos: "+iXPos+","+iYPos);
+								
+				//iXPosInRelationToScreenWidth=iXPos/iScreenWidth*100;
+				//alert("LEFT CLICK! iXPos: "+iXPos);
+				//alert("iScreenWidth*0.10: "+iScreenWidth*0.10);
+
+				dMargin=iScreenWidth*0.02; //2%
+
+				//alert("dMargin: "+dMargin);
+				
+				//----------------------------------------------------
+				//TODO: -add in other news sources;
+				//note: last article may not be the previous day; 
+				
+				var sInput = window.location.href;
+
+				//if not home page; default; has "N"
+				if (sInput.indexOf(".php/N") !== -1) {
+					//if not PERSONAL
+					if (sInput.indexOf("N8") === -1) {
+						return;
+					}
+				}
+				
+				//added by Mike, 20250731
+				var sDisplayBasedOnDayInput="";
+				var iDay=0;
+				
+				sDisplayBasedOnDayInput="?d=0";
+
+				if (sInput.indexOf("?d=") !== -1) {
+					sDisplayBasedOnDayInput=sInput.substring(sInput.indexOf("?d="));
+
+					//incoming draft
+					if (sInput.indexOf("-") !== -1) {
+						sDisplayBasedOnDayInput=sDisplayBasedOnDayInput.replace("-","");
+						iDay=-1;
+						//iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+2);
+					}
+					else {
+						iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+1);
+					}
+				}
+				
+				//alert(iDay);
+				
+				var bHasPressedPageMove=false;
+				
+				if (iXPos<iScreenWidth*0.10-dMargin) { //-margin
+					//alert("MOVE LEFT!!!");
+					//move left
+					//alert(sDisplayBasedOnDayInput);
+					iDay++;
+
+					if (iDay>10) {
+					  iDay=10;
+					}
+					else {
+						bHasPressedPageMove=true;
+					}
+				}
+
+				if (iXPos>iScreenWidth-iScreenWidth*0.10) {
+					//alert("MOVE RIGHT!!!");
+					//move right
+					iDay--;
+
+					//-1 is incoming draft
+					if (iDay<-1) {
+					  iDay=-1;
+					}
+					else {
+						bHasPressedPageMove=true;
+					}
+				}
+				
+				//added by Mike, 20250731; from 20240801
+				//var sRadioInput=sInput.substring(sInput.indexOf("/R"));
+				var sRadioInput=sInput.substring(sInput.indexOf("/R"),sInput.indexOf("?d="));
+
+				//alert(sInput.substring(0,sInput.indexOf(".php")));
+				sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+
+				if (bHasPressedPageMove) {
+/*					
+					alert("iDay: "+iDay);
+					alert(sDisplayBasedOnDayInput);
+					alert(sDisplayBasedOnDayInput.indexOf("=")+1);
+*/					
+					//sDisplayBasedOnDayInput=replaceCharAtIndex(sDisplayBasedOnDayInput, sDisplayBasedOnDayInput.indexOf("=")+1, iDay);
+					sDisplayBasedOnDayInput=sDisplayBasedOnDayInput.substring(0,sDisplayBasedOnDayInput.indexOf("=")+1)+iDay;
+					
+					
+					//alert("sDisplayBasedOnDayInput: "+sDisplayBasedOnDayInput);
+					
+					if (sRadioInput.length<=3) { //has "/R1", etc.			
+						window.location.href = ""+sInput+selectedValue+sRadioInput+sDisplayBasedOnDayInput;
+					}
+					else {
+						window.location.href = ""+sInput+selectedValue+sDisplayBasedOnDayInput;
+					}
+				}
+				//----------------------------------------------------
+
+				//var bodyTable = document.getElementById("bodyTableId"+0+"-EN");
+				//alert("bodyTable left: "+bodyTable.style.left);
+				
+			  }
+
 			  if (event.button === 2) { //right click
 				//alert("DITO");
 				bHasPressedRightClick=true;
@@ -1612,6 +1782,16 @@
 			var sDisplayIncomingDraftInput="";
 			if (sInput.indexOf("?d=") !== -1) {
 				sDisplayIncomingDraftInput=sInput.substring(sInput.indexOf("?d="));
+/*				
+				//incoming draft
+				if (sDisplayIncomingDraftInput.indexOf("-") !== -1) {
+					sDisplayBasedOnDayInput="?d=-1";
+				}
+				else {
+					sDisplayBasedOnDayInput="?d=0";
+				}
+*/				
+				sDisplayIncomingDraftInput="";
 			}
 
 			//added by Mike, 20250731; from 20240801
@@ -1648,15 +1828,17 @@
 		//alert(selectedValue);
 
 		if (selectedValue==="N8") { //PERSONAL
-/*
 			//edited by Mike, 20250730
 			batMonsterImageTile.style.visibility="hidden";
 			isBatMonsterTileActive=false;
-*/
+
+/*
 			batMonsterImageTile.style.visibility="visible";
 			isBatMonsterTileActive=true;
-
-			//------------------------------------------			
+*/
+			//------------------------------------------	
+/*			
+	//removed by Mike, 20250804; change to move forward in personal; showing incoming draft;
 			//added by Mike, 20250731
 			var selectBox = document.getElementById("newsSelectId");
 			var selectedValue = selectBox.options[selectBox.selectedIndex].value;
@@ -1670,12 +1852,13 @@
 			//added by Mike, 20250731
 			if ((sessionStorage.getItem('isDisplayIncomingDraft')===null) || (sessionStorage.getItem('isDisplayIncomingDraft')==='false')) {
 				sessionStorage.setItem('isDisplayIncomingDraft', 'true');
-				window.location.href = ""+sInput+"?d=1";
+				window.location.href = ""+sInput+"?d=-1"; //edited by Mike, 20250804
 			}
 			else {
 				sessionStorage.setItem('isDisplayIncomingDraft', 'false');
 				window.location.href = ""+sInput+"?d=0";
-			}
+			}			
+*/			
 		}
 		else {
 			batMonsterImageTile.style.visibility="visible";
@@ -2460,7 +2643,8 @@ add news row; language
 			  
 			  var mainTextDivId = document.getElementById("mainTextDivId"+iNewsRankCount+"-"+sLanguage);	
 			  
-			  mainTextDivId.scrollIntoView();
+			  //removed by Mike, 20250804
+			  //mainTextDivId.scrollIntoView();
 		  }
 	  </script>	  
 
@@ -3714,6 +3898,14 @@ else {
 
 	$iDayCount=0;
 
+	//$iDayCount+=2; //to move back; add; start at 2
+
+	if (strpos($_SERVER['REQUEST_URI'],"?d=")!==false) {
+		$sCurrURL = $_SERVER['REQUEST_URI'];
+		//echo ">>>>>".explode("?d=",$sCurrURL)[1];
+		$iDayCount+=(explode("?d=",$sCurrURL)[1]+1);
+	}
+	
 	//added by Mike, 20230527
 	$iTotalDayCountWithMultiReportsForTheDay=0;
 
@@ -3929,8 +4121,10 @@ else {
 			//if (false) {
 			//if (true) {
 			//echo ">>>>>".$_SERVER['REQUEST_URI']."<br/>";
-			if (strpos($_SERVER['REQUEST_URI'],"?d=1")===false) {
-				//echo "DITO!!!";
+			//edited by Mike, 20250804
+			//if (strpos($_SERVER['REQUEST_URI'],"?d=1")===false) {
+			if (strpos($_SERVER['REQUEST_URI'],"?d=-1")===false) {
+	//echo "DITO!!!";
 				
 				//echo "!!!completeFilename: ".$completeFilename."<br/>";
 
