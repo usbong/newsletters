@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250804; from 20250802
+  @date updated: 20250808; from 20250804
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1035,7 +1035,7 @@
 						iFrame.youtubeIFrame
 						{
 						  width: 100%;
-						  height: 320px; /*100%*/
+						  height: 480px; /*320px;*/
 						  display: block;
 						  margin: 0 0; /*auto;*/
 						}
@@ -1437,8 +1437,10 @@
 				//iXPosInRelationToScreenWidth=iXPos/iScreenWidth*100;
 				//alert("LEFT CLICK! iXPos: "+iXPos);
 				//alert("iScreenWidth*0.10: "+iScreenWidth*0.10);
-
-				dMargin=iScreenWidth*0.02; //2%
+				
+				//removed by Mike, 20250805
+				//zoom affecting dMargin?
+				//dMargin=iScreenWidth*0.02; //2%
 
 				//alert("dMargin: "+dMargin);
 				
@@ -1448,6 +1450,7 @@
 				
 				var sInput = window.location.href;
 
+/*				//removed by Mike, 20250805; show incoming draft even for other news sources via forward movement	
 				//if not home page; default; has "N"
 				if (sInput.indexOf(".php/N") !== -1) {
 					//if not PERSONAL
@@ -1455,7 +1458,7 @@
 						return;
 					}
 				}
-				
+*/				
 				//added by Mike, 20250731
 				var sDisplayBasedOnDayInput="";
 				var iDay=0;
@@ -1480,6 +1483,7 @@
 				
 				var bHasPressedPageMove=false;
 				
+/*				//removed by Mike, 20250805				
 				if (iXPos<iScreenWidth*0.10-dMargin) { //-margin
 					//alert("MOVE LEFT!!!");
 					//move left
@@ -1493,20 +1497,25 @@
 						bHasPressedPageMove=true;
 					}
 				}
+*/
+				//if not mobile; TODO: -update to use swipe?
+				if (!bIsMobile) {
+					if (iXPos>iScreenWidth-iScreenWidth*0.10) {
+						//alert("MOVE RIGHT!!!");
+						//move right
+						iDay--;
 
-				if (iXPos>iScreenWidth-iScreenWidth*0.10) {
-					//alert("MOVE RIGHT!!!");
-					//move right
-					iDay--;
-
-					//-1 is incoming draft
-					if (iDay<-1) {
-					  iDay=-1;
-					}
-					else {
-						bHasPressedPageMove=true;
+						//-1 is incoming draft
+						if (iDay<-1) {
+						  iDay=-1;
+						}
+						else {
+							bHasPressedPageMove=true;
+						}
 					}
 				}
+				
+				
 				
 				//added by Mike, 20250731; from 20240801
 				//var sRadioInput=sInput.substring(sInput.indexOf("/R"));
@@ -3877,13 +3886,38 @@ else {
 
 //		echo ">>>".$sYearDirectory."<br/>";
 
+	//added by Mike, 20250805
+	$iDayCount=0;
+	//$iDayCount+=2; //to move back; add; start at 2
+
+	if (strpos($_SERVER['REQUEST_URI'],"?d=")!==false) {
+		$sCurrURL = $_SERVER['REQUEST_URI'];
+		//echo ">>>>>".explode("?d=",$sCurrURL)[1];
+		$iDayCount+=(explode("?d=",$sCurrURL)[1]+1);
+	}
+
 	//added by Mike, 20231201; from 20230526
 	//set to max 5; to iterate from highest in count
 	//edited by Mike, 20250512
 	//$iReportForTheDayCountMax=5;
 	//added by Mike, 20250729
 	//TODO: -reverify: this; cause of lag
-	$iReportForTheDayCountMax=1;//7; //8;
+	//edited by Mike, 20250805
+	//video loading on iPad
+	$iReportForTheDayCountMax=7;//1; //8;	
+
+	//added by Mike, 20250805
+	if (isMobileAndUsingAppleWebKit()) {
+/*
+		if (strpos($_SERVER['REQUEST_URI'],"?d=-1")!==false) {
+			$iReportForTheDayCountMax=4;
+		}
+		else {
+			$iReportForTheDayCountMax=3;
+		}
+*/		
+		$iReportForTheDayCountMax=3;
+	}
 	
 	$iReportForTheDayCount=$iReportForTheDayCountMax; //0
 
@@ -3893,9 +3927,9 @@ else {
 
 	$completeFilename=dirname(__DIR__).str_replace('/', DIRECTORY_SEPARATOR, $sInputDirectory.$sNewsSourceSelected."/".$filename);
 
-
 	//echo $completeFilename;
 
+/*	//removed by Mike, 20250805
 	$iDayCount=0;
 
 	//$iDayCount+=2; //to move back; add; start at 2
@@ -3905,6 +3939,7 @@ else {
 		//echo ">>>>>".explode("?d=",$sCurrURL)[1];
 		$iDayCount+=(explode("?d=",$sCurrURL)[1]+1);
 	}
+*/
 	
 	//added by Mike, 20230527
 	$iTotalDayCountWithMultiReportsForTheDay=0;
@@ -4121,11 +4156,10 @@ else {
 			//if (false) {
 			//if (true) {
 			//echo ">>>>>".$_SERVER['REQUEST_URI']."<br/>";
-			//edited by Mike, 20250804
+			//edited by Mike, 20250805; from 20250804
 			//if (strpos($_SERVER['REQUEST_URI'],"?d=1")===false) {
 			if (strpos($_SERVER['REQUEST_URI'],"?d=-1")===false) {
-	//echo "DITO!!!";
-				
+		//echo "DITO!!!";
 				//echo "!!!completeFilename: ".$completeFilename."<br/>";
 
 				$fileDateArray=explode("\\",$completeFilename);
