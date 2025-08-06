@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250808; from 20250804
+  @date updated: 20250806; from 20250805
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -114,7 +114,16 @@
 
 							padding-left: 5%;
 							padding-right: 5%;
+/*
 
+							padding-left: 6em;
+							padding-right: 6em;
+*/							
+/*
+							padding: 4em;
+							padding-left: 6em;
+							padding-right: 6em;
+*/
 							border: 1px solid #aaaaaa;
 
 							text-align: justify;
@@ -484,10 +493,26 @@
 							width: 100%;
 						}
 
+						table.bodyTableLatest
+						{
+							width: 100%;
+							height: auto;
+						}
+
 						table.bodyTable
 						{
 							width: 100%;
 							height: auto;
+							
+							border-top: 4em dotted #ffffff;/*#aaaaaa;*/
+						}
+
+						table.bodyTableHiddenLatest
+						{
+							width: 100%;
+							height: auto;
+							
+							display: none;
 						}
 
 						table.bodyTableHidden
@@ -496,6 +521,8 @@
 							height: auto;
 							
 							display: none;
+
+							border-top: 4em dotted #ffffff;/*#aaaaaa;*/
 						}
 
 	                    td.mainTextTd
@@ -3271,7 +3298,10 @@ else {
 //$sGitHubLinkTemp=str_replace("personal","Personal",$sGitHubLinkTemp);
 						
 			$sGitHubLinkTemp="https://github.com/usbong/newsletters/blob/main/notes/".substr($sGitHubLinkTemp,strpos($sGitHubLinkTemp,"LessonsLearned"));
-						
+			
+			//added by Mike, 20250806
+			//$sGitHubLinkTemp=trim($sGitHubLinkTemp);
+			
 			//echo "DITO".$sGitHubLinkTemp."<br/>";
 			
 			//$sGitHubLink=$sGitHubLinkTemp;
@@ -3502,9 +3532,27 @@ else {
 		//$sOutput=$sOutput."<h3>
 		//<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h3><hr>";
 		
+		//added by Mike, 20250806
+		//if this is the first article
+		if ($iNewsRankCount==0) { 
+			if (strlen($sIncomingDraftText)==0) {
+			//echo ">>>>".$sIncomingDraftText;
+				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| LATEST</span>";
+			}			
+		}
+		
 		if (!isMobileAndUsingAppleWebKit()) {
+			
+			//echo "sLastAccessed: ".$sLastAccessed."".$sIncomingDraftText."<br/>";
+			
+			//echo ">>>>".$sIncomingDraftText;
+			
+			//echo ">>>>".$sGitHubLink;
+
 			$sOutput=$sOutput."<h4>
 			<a class='webServiceLink' target='_blank' href='".$sReferenceWebsiteComplete."'>".$sReferenceWebsite."</a>".$sLastAccessed."".$sIncomingDraftText.$sGitHubLink." ".$sLanguage."</h4><hr>";
+			
+			//echo "DITO!!".$sOutput;
 		}
 		else {
 			$sOutput=$sOutput."<h3>
@@ -4272,13 +4320,23 @@ else {
 		if ($sLanguageValue==="") {
 			$sLanguageValue="EN";
 		}
-	
-		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTable'><tr><td>";
+				
+		if ($iNewsRankCount==0) {
+			echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableLatest'><tr><td>";
+		}
+		else {
+			echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTable'><tr><td>";
+		}
 	}
 	else {
 		//echo "<table id='bodyTableId".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
 
-		echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
+		if ($iNewsRankCount==0) {
+			echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableHiddenLatest'><tr><td>";
+		}
+		else {
+			echo "<table id='bodyTableId".$iNewsRankCount."-".$sLanguageValue."' class='bodyTableHidden'><tr><td>";
+		}
 	}
 	
 		echo "<div id='mainTextDivId".$iNewsRankCount."-".$sLanguageValue."' class='mainTextDiv'>";
@@ -4347,6 +4405,7 @@ $iRowCount=0;
 while ($sToken !== false)
 {
 	if ($iRowCount==0) {
+/*		//removed by Mike, 20250806
 		//added by Mike, 20250730
 		//note: space after "##"
 		$sToken = str_replace("## ", "", $sToken);
@@ -4360,7 +4419,6 @@ while ($sToken !== false)
 		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
 		
 		//echo strpos($cellValue,"<br/>");
-
 		//added by Mike, 20240516
 		$sIncomingDraftText="";
 		
@@ -4374,7 +4432,9 @@ while ($sToken !== false)
 				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";
 			}			
 		}
-
+*/
+		echo $sNewsTitleWebsiteReference;
+/*
 		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
 		//edited by Mike, 20250729
 		if (!isMobileAndUsingAppleWebKit()) {
@@ -4407,9 +4467,9 @@ while ($sToken !== false)
 		else {
 			echo "</h3>";
 		}
-
 		echo "</span>";
 		echo "<hr>";
+*/
 	}
 	//else if (strpos($cellValue, ">")!==false) {
 	else if (substr($sToken,0,1)==">") {
