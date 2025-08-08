@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250807; from 20250806
+  @date updated: 20250808; from 20250807
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1540,8 +1540,7 @@
 							bHasPressedPageMove=true;
 						}
 					}
-				}
-				
+				}				
 				
 				
 				//added by Mike, 20250731; from 20240801
@@ -2822,8 +2821,8 @@ add news row; language
 
 //echo $_SERVER['QUERY_STRING']."<br/>"; //after ?
 
-//edited by Mike, 20250807; from 20250730
-$iDateTodayAndNewsLastAccessedDifferenceMax=2;//1;//4; //3
+//edited by Mike, 20250808; from 20250807
+$iDateTodayAndNewsLastAccessedDifferenceMax=1;//2;//1;//4; //3
 
 //default
 $updatedDirDueToURL="";
@@ -3214,7 +3213,8 @@ else {
 		return $iDateTodayAndNewsLastAccessedDifference;
 	}
 	
-	//added by Mike, 20250602
+	//edited by Mike, 20250808; 20250602
+	//TODO: -use date in filename
 	function processDateTodayAndNewsLastAccessedDifference($sLastAccessed) {
 		//echo str_replace("; last accessed: ","",$sLastAccessed);
 		//$iNewsLastAccessedDate=intval(str_replace("; last accessed: ","",$sLastAccessed));
