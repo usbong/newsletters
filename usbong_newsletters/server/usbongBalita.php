@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250808; from 20250807
+  @date updated: 20250809; from 20250808
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -353,6 +353,26 @@
 																						
 							z-index: 4; /*2;*/
 
+							opacity: 0.6;
+						}
+
+						img.ImageTileFrameSapphire {
+							position: absolute;
+								
+							clip: rect(0px,32px,64px,0px);
+							visibility: visible;
+	
+							z-index: 4; /*2;*/
+						}
+
+						img.ImageTileFrameSapphire:hover {
+							position: absolute;
+
+							clip: rect(0px,32px,64px,0px);
+							visibility: visible;
+	
+							z-index: 4; /*2;*/
+							
 							opacity: 0.6;
 						}
 
@@ -1121,6 +1141,7 @@
 							background-color: white;
 							border: 0px solid;	
 							margin-right: 2.5em;
+							margin-top: -0.8em;
 						}
 
 						button.playRadioButton
@@ -1203,8 +1224,8 @@
 		
 		//added by Mike, 20250514
 		bHasPressedLanguageChange=false;
-		
-		//added by Mike, 20250612
+/*		
+		//removed by Mike, 20250809; from 20250612
 		var batMonsterImageTile = document.getElementById("batMonsterImageId");
 		var iBatMonsterAnimationCount=-1;//0; start at -1
 		var iBatMonsterAnimationCountMax=5;
@@ -1218,6 +1239,19 @@
 		var iImageFrameHeightDefault=32;
 		
 		var isBatMonsterTileActive=true;
+*/
+		//added by Mike, 20250809
+		var sapphireImageTile = document.getElementById("sapphireImageId");
+		var iSapphireAnimationCount=-1;//0; start at -1
+		var iSapphireAnimationCountMax=5;
+		var iSapphireAnimationDelayCount=64;//10; 
+		var iSapphireAnimationDelayCountMax=60;//6;
+		
+		var iSapphireImageFrameWidth=32;//16;//128;
+		var iSapphireImageFrameHeight=64;//24;//192;
+
+		var iSapphireImageFrameWidthDefault=32;//16;//128;
+		var iSapphireImageFrameHeightDefault=64;//24;//192;
 
 		function myUpdateFunction() {
 /*	//removed by Mike, 20250729			
@@ -1240,11 +1274,13 @@
 			
 			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
 */						
-
+/*
 			//added by Mike, 20250612
 			if (isBatMonsterTileActive) {
 				executeBatMonsterWalkingAnimation();
 			}
+*/			
+			executeSapphireAnimation()
 		}
 
 		//added by Mike, 20250804
@@ -1525,6 +1561,7 @@
 					}
 				}
 */
+/*	//removed by Mike, 20250809
 				//if not mobile; TODO: -update to use swipe?
 				if (!bIsMobile) {
 					if (iXPos>iScreenWidth-iScreenWidth*0.10) {
@@ -1541,7 +1578,7 @@
 						}
 					}
 				}				
-				
+*/				
 				
 				//added by Mike, 20250731; from 20240801
 				//var sRadioInput=sInput.substring(sInput.indexOf("/R"));
@@ -1855,7 +1892,8 @@
 		var selectBox = document.getElementById("newsSelectId");
 		var selectedValue = selectBox.options[selectBox.selectedIndex].value;
 			
-		var batMonsterImageTile = document.getElementById("batMonsterImageId");
+		//var batMonsterImageTile = document.getElementById("batMonsterImageId");
+		var sapphireImageTile = document.getElementById("sapphireImageId");
 		
 		//added by Mike, 20250730
 		//const displayIncomingDraft = document.getElementById("displayIncomingDraftId");
@@ -1864,8 +1902,75 @@
 
 		if (selectedValue==="N8") { //PERSONAL
 			//edited by Mike, 20250730
-			batMonsterImageTile.style.visibility="hidden";
+/*			batMonsterImageTile.style.visibility="hidden";
 			isBatMonsterTileActive=false;
+*/			
+			//removed by Mike, 20250809
+			//sapphireImageTile.style.visibility="hidden";
+			//----------------------------------------------
+			var sInput = window.location.href;
+
+			var sDisplayBasedOnDayInput="";
+			var iDay=0;
+			
+			sDisplayBasedOnDayInput="?d=0";
+
+			//added by Mike, 20250809
+			//INCOMING DRAFT already displayed
+			if (sInput.indexOf("?d=-1") !== -1) {
+				return;
+			}
+			if (sInput.indexOf("?d=") !== -1) {
+				sDisplayBasedOnDayInput=sInput.substring(sInput.indexOf("?d="));
+
+				//incoming draft
+				if (sInput.indexOf("-") !== -1) {
+					sDisplayBasedOnDayInput=sDisplayBasedOnDayInput.replace("-","");
+					iDay=-1;
+					//iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+2);
+				}
+				else {
+					iDay=sDisplayBasedOnDayInput.substring(sDisplayBasedOnDayInput.indexOf("=")+1);
+				}
+			}
+				
+			bHasPressedPageMove=false;
+			
+			//if not mobile; 
+			if (!bIsMobile) {
+				//alert("MOVE RIGHT!!!");
+				//move right
+				iDay--;
+
+				//-1 is incoming draft
+				if (iDay<-1) {
+				  iDay=-1;
+				}
+				
+				bHasPressedPageMove=true;
+			}		
+				
+			//var sRadioInput=sInput.substring(sInput.indexOf("/R"));
+			var sRadioInput=sInput.substring(sInput.indexOf("/R"),sInput.indexOf("?d="));
+
+			//alert(sInput.substring(0,sInput.indexOf(".php")));
+			sInput=sInput.substring(0,sInput.indexOf(".php"))+".php/";
+
+				
+			if (bHasPressedPageMove) {
+				sDisplayBasedOnDayInput=sDisplayBasedOnDayInput.substring(0,sDisplayBasedOnDayInput.indexOf("=")+1)+iDay;
+					
+				//alert("sDisplayBasedOnDayInput: "+sDisplayBasedOnDayInput);
+					
+				if (sRadioInput.length<=3) { //has "/R1", etc.			
+					window.location.href = ""+sInput+selectedValue+sRadioInput+sDisplayBasedOnDayInput;
+				}
+				else {
+					window.location.href = ""+sInput+selectedValue+sDisplayBasedOnDayInput;
+				}
+			}
+			//----------------------------------------------
+				
 
 /*
 			batMonsterImageTile.style.visibility="visible";
@@ -1896,8 +2001,11 @@
 */			
 		}
 		else {
+/*			
 			batMonsterImageTile.style.visibility="visible";
 			isBatMonsterTileActive=true;
+*/
+			sapphireImageTile.style.visibility="visible";
 
 			//reference: Google AI; last accessed: 20250612
 			for (let i = 0; i < usbongBlockquoteCollection.length; i++) {
@@ -2505,7 +2613,8 @@ add news row; language
 */		  
 
 	  }
-	  
+
+/*	  
 	  //added by Mike, 20250612
 	  function executeBatMonsterWalkingAnimation() {
 		var batMonsterImageTile = document.getElementById("batMonsterImageId");
@@ -2537,7 +2646,40 @@ add news row; language
 			batMonsterImageTile.style.objectPosition = "-" + iImageFrameWidthDefault + "px -" + iFrameY + "px";
 		}
 	}
+*/
 	
+	//added by Mike, 20250809
+	function executeSapphireAnimation() {
+		var sapphireImageTile = document.getElementById("sapphireImageId");
+		
+		sapphireImageTile.style.visibility="visible";
+
+		//iMonsterAnimationDelayCountMax=15;
+		
+		if (iSapphireAnimationDelayCount>=iSapphireAnimationDelayCountMax) {
+			iSapphireAnimationCount=(iSapphireAnimationCount+1)%2; //3; //last hidden
+
+			iSapphireAnimationDelayCount=0;			
+
+		}
+		else {
+			iSapphireAnimationDelayCount++;
+
+	//		alert("iExplosionEffectAnimationCount: "+iExplosionEffectAnimationCount);
+		}
+
+		//var iFrameY=0;
+		var iFrameY=iSapphireImageFrameHeight*0;//2;//64*2; 128;
+
+		//currently two frames only
+		if (iSapphireAnimationCount==0) { 
+			sapphireImageTile.style.objectPosition = "-" + 0 + "px -" + iFrameY + "px";
+		}
+		else if (iSapphireAnimationCount==1) { 
+			sapphireImageTile.style.objectPosition = "-" + iSapphireImageFrameWidthDefault + "px -" + iFrameY + "px";
+		}
+	}
+
 	
       //added by Mike, 20250517; from 20250515
 	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
@@ -3022,7 +3164,11 @@ else {
 <?php
 //https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
 	//answer by: Greg, 20081126T1928
-	echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
+	//edited by Mike, 20250809
+	//echo "<img id='batMonsterImageId' class='ImageTileFrame1' src='../".$updatedDirDueToURL."assets/images/monsters.png?lastmod=20250612' onclick='toggleOriginalTextDisplay()'>"; 
+	
+	echo "<img id='sapphireImageId' class='ImageTileFrameSapphire' src='../".$updatedDirDueToURL."assets/images/sapphire.png?lastmod=20250809T1255' onclick='toggleOriginalTextDisplay()'>"; 
+
 	
 	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
 ?>
@@ -4206,8 +4352,16 @@ else {
 			//echo ">>>>>".$_SERVER['REQUEST_URI']."<br/>";
 			//edited by Mike, 20250805; from 20250804
 			//if (strpos($_SERVER['REQUEST_URI'],"?d=1")===false) {
+			//edited by Mike, 20250809
+			//TODO: -reverify; files with "-2.md" not added if URL doesn't have "?d=1"
 			if (strpos($_SERVER['REQUEST_URI'],"?d=-1")===false) {
-		//echo "DITO!!!";
+				
+			//echo ">>>>".$sNewsNumber;
+				
+			//if ((strpos($_SERVER['REQUEST_URI'],"?d=-1")===false) or 
+			//	(strpos($sNewsNumber,"N8")===false)) {
+				
+				//echo "DITO!!!";
 				//echo "!!!completeFilename: ".$completeFilename."<br/>";
 
 				$fileDateArray=explode("\\",$completeFilename);
