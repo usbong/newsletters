@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250809; from 20250808
+  @date updated: 20250812; from 20250809
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1080,6 +1080,14 @@
 						
 						/* edited by Mike, 20240515; from 20240511 */
 						iFrame.youtubeIFrame
+						{
+						  width: 100%;
+						  height: 480px; /*320px;*/
+						  display: block;
+						  margin: 0 0; /*auto;*/
+						}
+
+						iFrame.youtubeIFrameCover
 						{
 						  width: 100%;
 						  height: 480px; /*320px;*/
@@ -3789,13 +3797,32 @@ else {
 			$sReferenceWebsiteTempUpdated = str_replace("shorts/","embed/",$sReferenceWebsiteTempUpdated);
 			
 			//echo ">>>>".$sReferenceWebsiteTempUpdated;
-			//edited by Mike, 20250729
+			
+			//edited by Mike, 20250812; from 20250729
 			if (!isMobileAndUsingAppleWebKit()) {
-				echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";
+				echo "<iframe class='youtubeIFrame' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></iframe>"; //removed "</>"
+				
+				//added by Mike, 20250812
+/*
+				$sReferenceWebsiteTempUpdated = str_replace("embed/","vi/",$sReferenceWebsiteTempUpdated);
+
+				$sReferenceWebsiteTempUpdated = str_replace("https://www.youtube.com/","https://img.youtube.com/",$sReferenceWebsiteTempUpdated);
+				
+				//echo "HALLO!!!".$sReferenceWebsiteTempUpdated;
+				//note size too small or too big; maxresdefault
+				echo "<br/><img class='youtubeIFrameCover' src='".$sReferenceWebsiteTempUpdated."/hqdefault.jpg'>";
+*/				
 			}
 			else {
-				echo "<iframe class='youtubeIFrameIpad' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></></iframe>";
+				echo "<iframe class='youtubeIFrameIpad' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></iframe>"; //removed "</>"
 			}
+			
+			//http://img.youtube.com/vi/<YouTube_Video_ID_HERE>/mqdefault.jpg
+			
+			//echo "<img class='youtubeIFrame' src='http://img.youtube.com/vi/YDu-7EFRrb0/mqdefault.jpg'>";
+
+			//echo "<img class='youtubeIFrame' src='http://img.youtube.com/vi/YDu-7EFRrb0/hqdefault.jpg'>";
+			
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
