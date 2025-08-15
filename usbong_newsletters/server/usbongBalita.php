@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250812; from 20250809
+  @date updated: 20250815; from 20250812
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1085,6 +1085,16 @@
 						  height: 480px; /*320px;*/
 						  display: block;
 						  margin: 0 0; /*auto;*/
+						}
+						
+						iFrame.storeSteamIFrame
+						{
+						  width: 100%;
+						  height: 200px;
+						  display: block;
+						  
+						  border: 0px solid black;
+						  margin: 0 0;
 						}
 
 						iFrame.youtubeIFrameCover
@@ -3823,6 +3833,27 @@ else {
 
 			//echo "<img class='youtubeIFrame' src='http://img.youtube.com/vi/YDu-7EFRrb0/hqdefault.jpg'>";
 			
+		}
+		//added by Mike, 20250815
+		else if (strpos($sReferenceWebsiteTemp,"store.steampowered.com")!==false) {
+			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
+		
+			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
+
+			$sReferenceWebsiteTempUpdated = str_replace("watch?v=","widget/",$sReferenceWebsiteTemp);
+						
+			//echo ">>>>".$sReferenceWebsiteTempUpdated;
+			
+			//echo "<iframe src='".$sReferenceWebsiteTempUpdated."'></iframe>";		
+			
+			//if (!isMobileAndUsingAppleWebKit()) {
+				echo "<iframe class='storeSteamIFrame' src='".$sReferenceWebsiteTempUpdated."'></iframe>"; 
+			//}
+/*			
+			else {
+				echo "<iframe class='youtubeIFrameIpad' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></iframe>"; //removed "</>"
+			}
+*/			
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
