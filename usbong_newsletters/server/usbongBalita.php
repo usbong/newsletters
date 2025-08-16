@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250815; from 20250812
+  @date updated: 20250816; from 20250815
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1085,6 +1085,21 @@
 						  height: 480px; /*320px;*/
 						  display: block;
 						  margin: 0 0; /*auto;*/
+/*						  
+						   background-image: url('http://img.youtube.com/vi/XqVgGZ4ON7c/hqdefault.jpg');
+						   background-size: cover;
+*/						   
+						}
+
+						img.youtubeCoverImg
+						{
+						  width: 100%;
+						  height: auto;
+						  
+						  display: block;
+						  margin: 0 0; /*auto;*/
+
+						   background-size: cover;
 						}
 						
 						iFrame.storeSteamIFrame
@@ -3827,12 +3842,21 @@ else {
 				echo "<iframe class='youtubeIFrameIpad' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></iframe>"; //removed "</>"
 			}
 			
+			$sReferenceWebsiteTempUpdatedCover = str_replace("www.youtube.com","img.youtube.com",$sReferenceWebsiteTempUpdated);
+			
+			//$sReferenceWebsiteTempUpdatedCover = str_replace("embed/","vi/",$sReferenceWebsiteTempUpdatedCover)."/mqdefault.jpg";
+			$sReferenceWebsiteTempUpdatedCover = str_replace("embed/","vi/",$sReferenceWebsiteTempUpdatedCover)."/mqdefault.jpg";
+			
+			//echo "!!!!!".$sReferenceWebsiteTempUpdatedCover;
+			
 			//http://img.youtube.com/vi/<YouTube_Video_ID_HERE>/mqdefault.jpg
 			
 			//echo "<img class='youtubeIFrame' src='http://img.youtube.com/vi/YDu-7EFRrb0/mqdefault.jpg'>";
 
 			//echo "<img class='youtubeIFrame' src='http://img.youtube.com/vi/YDu-7EFRrb0/hqdefault.jpg'>";
 			
+			//TODO: -add: this
+			//echo "<img class='youtubeCoverImg' src='".$sReferenceWebsiteTempUpdatedCover."'>";
 		}
 		//added by Mike, 20250815
 		else if (strpos($sReferenceWebsiteTemp,"store.steampowered.com")!==false) {
