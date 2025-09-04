@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250816; from 20250815
+  @date updated: 20250903; from 20250816
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3686,9 +3686,17 @@ else {
 		
 		$sReferenceWebsite=substr($sToken,0,25)."... ";
 		
-		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),
-				strpos($sToken,";")-strpos($sToken,"http"));
-				
+		$sReferenceWebsiteComplete=substr($sToken,strpos($sToken,"http"),strpos($sToken,";")-strpos($sToken,"http"));
+		
+		//added by Mike, 20250903
+		//--------------------------
+		$sReferenceWebsiteComplete = str_replace("/edit/main/", "/blob/main/", $sReferenceWebsiteComplete);
+		
+		$sReferenceWebsiteComplete = str_replace("/tree/main/", "/blob/main/", $sReferenceWebsiteComplete);
+		
+		//echo ">>>>".$sReferenceWebsiteComplete;
+		//--------------------------
+		
 		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
 
 		//added by Mike, 20240516
