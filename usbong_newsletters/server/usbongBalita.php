@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250903; from 20250816
+  @date updated: 20250913; from 20250903
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -134,13 +134,6 @@
 
 						div.newsListAtRightPanelDiv
                         {
-/*
-							font-family: Arial;
-	*/
-							/*	//removed by Mike, 20220701
-							  font-size: 16pt;
-							*/
-
 							color: rgb(30,30,30); /*rgb(120,63,4);*/
 							font-weight: bold;
 
@@ -1007,6 +1000,8 @@
 
 							font-weight: Normal;							
 							font-family: Tahoma, Garamond, sans-serif;
+							/*font-family: "Times New Roman", Times, serif;*/
+							/*font-family: Garamond, "Times New Roman", serif;*/
 
 							text-align: justify;
 							text-justify: inter-word;
@@ -1027,6 +1022,8 @@
 
 							font-weight: Normal;							
 							font-family: Tahoma, Garamond, sans-serif;
+							/*font-family: "Times New Roman", Times, serif;*/
+							/*font-family: Garamond, "Times New Roman", serif;*/
 
 							text-align: justify;
 							text-justify: inter-word;
@@ -1048,6 +1045,8 @@
 
 							font-weight: Normal;
 							font-family: Tahoma, Garamond, sans-serif;
+							/*font-family: "Times New Roman", Times, serif;*/
+							/*font-family: Garamond, "Times New Roman", serif;*/
 
 							text-align: justify;
 							text-justify: inter-word;
@@ -1065,6 +1064,8 @@
 
 							font-weight: Normal;
 							font-family: Tahoma, Garamond, sans-serif;
+							/*font-family: "Times New Roman", Times, serif;*/
+							/*font-family: Garamond, "Times New Roman", serif;*/
 
 							text-align: justify;
 							text-justify: inter-word;
