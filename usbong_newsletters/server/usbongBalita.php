@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20250913; from 20250903
+  @date updated: 20251011; from 20250913
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -369,6 +369,16 @@
 							opacity: 0.6;
 						}
 
+						img.ImageTileFrameSoldier {
+							position: absolute;
+								
+							clip: rect(0px,64px,64px,0px);
+							visibility: visible;
+	
+							z-index: 4;
+						}
+
+
 						img.Image-radio {
 /*
 							width: 100%;
@@ -568,6 +578,14 @@
 							float: right;
 							display: inline-block;
 							margin-top: 0.6em;
+                        }
+
+						td.soldierTd
+                        {
+							float: left;
+							display: inline-block;
+							
+							/*margin-top: 0.6em;*/
                         }
 
 						table.noteTable
@@ -1287,6 +1305,20 @@
 		var iSapphireImageFrameWidthDefault=32;//16;//128;
 		var iSapphireImageFrameHeightDefault=64;//24;//192;
 
+		//added by Mike, 20251011
+		var soldierImageTile = document.getElementById("soldierImageId");
+		var iSoldierAnimationCount=-1;//0; start at -1
+		var iSoldierAnimationCountMax=5;
+		var iSoldierAnimationDelayCount=64;//10; 
+		var iSoldierAnimationDelayCountMax=10;//60;//6;
+		
+		var iSoldierImageFrameWidth=64;//16;//128;
+		var iSoldierImageFrameHeight=64;//24;//192;
+
+		var iSoldierImageFrameWidthDefault=64;//16;//128;
+		var iSoldierImageFrameHeightDefault=64;//24;//192;
+
+
 		function myUpdateFunction() {
 /*	//removed by Mike, 20250729			
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
@@ -1315,6 +1347,9 @@
 			}
 */			
 			executeSapphireAnimation()
+			
+			//added by Mike, 20251011
+			executeSoldierAnimation()
 		}
 
 		//added by Mike, 20250804
@@ -2714,6 +2749,42 @@ add news row; language
 		}
 	}
 
+	//added by Mike, 20251011
+	function executeSoldierAnimation() {
+		var soldierImageTile = document.getElementById("soldierImageId");
+		
+		soldierImageTile.style.visibility="visible";
+
+		//iMonsterAnimationDelayCountMax=15;
+		
+		if (iSoldierAnimationDelayCount>=iSoldierAnimationDelayCountMax) {
+			iSoldierAnimationCount=(iSoldierAnimationCount+1)%4; //3; //last hidden
+
+			iSoldierAnimationDelayCount=0;			
+
+		}
+		else {
+			iSoldierAnimationDelayCount++;
+
+	//		alert("iExplosionEffectAnimationCount: "+iExplosionEffectAnimationCount);
+		}
+
+		//var iFrameY=0;
+		var iFrameY=iSoldierImageFrameHeight*0;//2;//64*2; 128;
+
+/*
+		//currently two frames only
+		if (iSoldierAnimationCount==0) { 
+			soldierImageTile.style.objectPosition = "-" + 0 + "px -" + iFrameY + "px";
+		}
+		else if (iSoldierAnimationCount==1) { 
+			soldierImageTile.style.objectPosition = "-" + iSoldierImageFrameWidthDefault + "px -" + iFrameY + "px";
+		}
+*/		
+		soldierImageTile.style.objectPosition = "-" + iSoldierImageFrameWidthDefault*iSoldierAnimationCount + "px -" + iFrameY + "px";
+
+	}
+
 	
       //added by Mike, 20250517; from 20250515
 	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
@@ -3193,6 +3264,13 @@ else {
 		</div>
 		</td>
 -->		
+		<td class="soldierTd">
+<?php
+	//added by Mike, 20251011
+	echo "<img id='soldierImageId' class='ImageTileFrameSoldier' src='../".$updatedDirDueToURL."assets/images/soldier.png?lastmod=20251011T1430'>"; 
+?>	
+		</td>
+		
 		<td class="selectNewsSourceTd">
 		<button class='origTextButton'>
 <?php
