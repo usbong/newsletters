@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251011; from 20250913
+  @date updated: 20251201; from 20251105
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3159,8 +3159,9 @@ else {
 			<span class='balitaSpan'>
 			<b>BALITA</b>
 			</span>
-			<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/blue-sapphire-galaxy'>
+			<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/outer-waves'>
 <?php
+		//blue-sapphire-galaxy
 		echo "<img class='Image-favicon' src='../".$updatedDirDueToURL."assets/images/favicon.png'>";
 ?>
 			</a>
@@ -3265,10 +3266,13 @@ else {
 		</td>
 -->		
 		<td class="soldierTd">
+			<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/outer-waves'>
 <?php
 	//added by Mike, 20251011
-	echo "<img id='soldierImageId' class='ImageTileFrameSoldier' src='../".$updatedDirDueToURL."assets/images/soldier.png?lastmod=20251011T1430'>"; 
+	echo "<img id='soldierImageId' class='ImageTileFrameSoldier' src='../".$updatedDirDueToURL."assets/images/soldier.png?lastmod=20251201T1355'>"; 
 ?>	
+
+			</a>
 		</td>
 		
 		<td class="selectNewsSourceTd">
@@ -3573,11 +3577,13 @@ else {
 				//edited by Mike, 20250612
 				//if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
 				//Warning: get_headers(): php_network_getaddresses: getaddrinfo failed: No such host is known.
+			
+				//TODO: -add: suppress warning due to get_headers(...); when there's no internet connectivity
+			
 				if ((strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false) || (strpos(get_headers($sGitHubLinkTemp, 1)[0],"Warning: get_headers()")!==false))
 				{
 					//URL throws a 404 error
-					//echo "DITO";
-				}	
+				}
 				else {
 					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 				}
