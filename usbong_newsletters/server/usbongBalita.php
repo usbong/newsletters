@@ -582,11 +582,21 @@
 
 						td.soldierTd
                         {
+
 							float: left;
 							display: inline-block;
 							
 							/*margin-top: 0.6em;*/
                         }
+						
+						td.playTd
+                        {
+
+							float: left;
+							display: inline-block;
+							
+							/*margin-top: 0.6em;*/
+                        }						
 
 						table.noteTable
 						{
@@ -926,9 +936,11 @@
 							text-align: left;
 
 							position: absolute;
-							font-size: 1.5em; /*2em*/
+							font-size: 1.5em;
 							margin:0;
-							margin-top: 0; /*-4px;*/			
+							margin-top: 0;
+							
+							visibility: visible;
 						}
 
 						span.webServiceLinkRowIncomingDraftSpan {
@@ -1180,6 +1192,8 @@
 						  width: 100%;
 						  height: auto;
 						  padding-top: 2%;
+						  
+						  margin-left: 120%;
 						}
 
 						button.jeepRadioButton
@@ -1320,7 +1334,8 @@
 
 
 		function myUpdateFunction() {
-/*	//removed by Mike, 20250729			
+			
+	//removed by Mike, 20250729			
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
 
@@ -1328,10 +1343,9 @@
 ////			dMyAudioCurrentTimeDurationInMin=Math.round(dMyAudioCurrentTimeDurationInSec/60);
 ////			iMyAudioCurrentTimeDurationInSec=Math.round(dMyAudioCurrentTimeDurationInSec%60);
 
-////			dMyAudioCurrentTimeDurationInMin=Math.floor(dMyAudioCurrentTimeDurationInSec/60);
-////			
-			iMyAudioCurrentTimeDurationInSec=Math.floor(dMyAudioCurrentTimeDurationInSec%60);
+			dMyAudioCurrentTimeDurationInMin=Math.floor(dMyAudioCurrentTimeDurationInSec/60);
 
+			iMyAudioCurrentTimeDurationInSec=Math.floor(dMyAudioCurrentTimeDurationInSec%60);
 			sMyAudioCurrentTimeDurationInSec=iMyAudioCurrentTimeDurationInSec;
 			
 			if (iMyAudioCurrentTimeDurationInSec<10) {
@@ -1339,7 +1353,7 @@
 			}
 			
 			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
-*/						
+						
 /*
 			//added by Mike, 20250612
 			if (isBatMonsterTileActive) {
@@ -1349,7 +1363,12 @@
 			executeSapphireAnimation()
 			
 			//added by Mike, 20251011
-			executeSoldierAnimation()
+			if (!bIsAudioPaused) {
+				executeSoldierAnimation()
+			}
+			else {
+				executeSoldierStandAnimation()
+			}
 		}
 
 		//added by Mike, 20250804
@@ -1763,7 +1782,7 @@
 			}
 		}
 */
-/*			
+
 		function getAudioTotalDuration() {
 			var dMyAudioDurationInSec = document.getElementById("myAudioId").duration; 
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
@@ -1779,8 +1798,7 @@
 			}
 			
 			return dMyAudioDurationInMin+":"+sMyAudioDurationInSec;
-		}
-*/		
+		}		
 
 		//added by Mike, 20240801
 		function changeAudio() {			
@@ -1839,7 +1857,7 @@
 			}
 		}
 
-/*		
+		
 		//Game Off 2024
 		function playAudio() {
 			//alert("DITO");
@@ -1847,6 +1865,8 @@
 			
 			//var sAudioSource = document.getElementById("audioSourceId").src;
 			//alert(sAudioSource);
+
+			//var soldierImage = document.getElementById("soldierImageId"); 
 
 			var sImagePlayRadioSource = document.getElementById("imagePlayRadioId").src;
 			var myAudio = document.getElementById("myAudioId");
@@ -1862,38 +1882,54 @@
 			myAudio.volume=fMyAudioVolume;
 			myAudio.loop=false;		
 			//myAudio.play();
+			
+			myAudio.addEventListener("ended", function() {
+			  //console.log("Audio playback has finished.");
+			  // You can add any other actions here that you want to perform when the audio ends.
+			  // For example, playing the next track in a playlist, resetting the audio, etc.
+			  //alert("DITO!!!");
+			  
+			  document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPause","radioPlay");
+			  
+			  bIsAudioPaused=true;
+			});
+			
 						
 			if (dMyAudioCurrentTimeDurationInSec==0) {
 				document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPlay","radioPause");
-				
 				myAudio.play();
+				bIsAudioPaused=false;
 			}
 			else {
 				//if currently paused
 				if (sImagePlayRadioSource.indexOf("radioPlay")!=-1) {
 					document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPlay","radioPause");
+					
 					myAudio.play();
+					bIsAudioPaused=false;
 					
 					//alert("PLAY AUDIO NOW!");					
 				}
 				//if currently playing;
 				else {
 					document.getElementById("imagePlayRadioId").src=sImagePlayRadioSource.replace("radioPause","radioPlay");
+					
 					myAudio.pause();
+					bIsAudioPaused=true;
 					
 					//alert("PAUSE AUDIO NOW!");
 				}				
 			}
 			//myAudio.setAttribute("src", sAudioSource);
-
-			////var fMyAudioVolume=1.0;//0.4;
-			////myAudio.volume=fMyAudioVolume;
-			////myAudio.loop=false;		
-			////myAudio.play();
-			
+/*
+			var fMyAudioVolume=1.0;//0.4;
+			myAudio.volume=fMyAudioVolume;
+			myAudio.loop=false;		
+			myAudio.play();
+*/			
 			//alert("HALLO!");
 		}
-*/		
+		
 		//added by Mike, 20230920
 		function showNews() {
 			//alert("HALLO!");
@@ -2785,6 +2821,35 @@ add news row; language
 
 	}
 
+	//added by Mike, 20251011
+	function executeSoldierStandAnimation() {
+		var soldierImageTile = document.getElementById("soldierImageId");
+		
+		soldierImageTile.style.visibility="visible";
+
+		//iMonsterAnimationDelayCountMax=15;
+		
+		iSoldierAnimationCount=0;
+		iSoldierAnimationDelayCount=0;
+/*		
+		if (iSoldierAnimationDelayCount>=iSoldierAnimationDelayCountMax) {
+			iSoldierAnimationCount=(iSoldierAnimationCount+1)%4; //3; //last hidden
+
+			iSoldierAnimationDelayCount=0;			
+
+		}
+		else {
+			iSoldierAnimationDelayCount++;
+
+	//		alert("iExplosionEffectAnimationCount: "+iExplosionEffectAnimationCount);
+		}
+*/
+		//var iFrameY=0;
+		var iFrameY=iSoldierImageFrameHeight*0;//2;//64*2; 128;
+	
+		soldierImageTile.style.objectPosition = "-" + iSoldierImageFrameWidthDefault*0 + "px -" + iFrameY + "px";
+
+	}
 	
       //added by Mike, 20250517; from 20250515
 	  function myLanguageChangeFunction(iNewsRankCount,sLanguage) {
@@ -3205,6 +3270,7 @@ else {
 </button>
 			</td>
 			<td>
+-->
 <?php
 /*	//removed by Mike, 20250729
 	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
@@ -3242,14 +3308,44 @@ else {
 	}
 
 	//echo $sAudioInput;
+*/
+	
+	$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
+/*
+	if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
+		$sAudioInput="../../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3";
+	}		
+	else { 
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3";
+	}
+*/
+	//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/usbongGameOff2025DogWolfHowl.mp3";
+
+/*	
+	echo ">>>>>".$updatedDirDueToURL."<br/>";
+	echo ">>>>>>>>".$sAudioInput;
 */	
 ?>
+<td class="soldierTd">
+<?php
+	//added by Mike, 20251011
+	echo "<img id='soldierImageId' class='ImageTileFrameSoldier' src='../".$updatedDirDueToURL."assets/images/soldier.png?lastmod=20251203T1111'>"; 
+?>	
+
+<!--
+		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
+		  <source id="audioSourceId" src="<?php //echo $sAudioInput;?>" type="audio/mp3">
+		  Your browser does not support the audio tag.
+		</audio>	
+-->
+</td>
+<td class="playTd">
 <div class="divAudioPlayerContainer">
 
 <button class="playRadioButton">
 <?php
 	//removed by Mike, 20250729
-	//echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
+	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
 	
 ?>
 </button>
@@ -3258,22 +3354,15 @@ else {
 </span>
 
 		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
-		  <source id="audioSourceId" src="<?php //echo $sAudioInput;?>" type="audio/mp3">
+		  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio>	
 
 		</div>
-		</td>
--->		
-		<td class="soldierTd">
-			<a class='webServiceGameOffLink' target='_blank' href='https://masarapmabuhay.itch.io/outer-waves'>
-<?php
-	//added by Mike, 20251011
-	echo "<img id='soldierImageId' class='ImageTileFrameSoldier' src='../".$updatedDirDueToURL."assets/images/soldier.png?lastmod=20251201T1355'>"; 
-?>	
+		</td>		
+		
 
-			</a>
-		</td>
+
 		
 		<td class="selectNewsSourceTd">
 		<button class='origTextButton'>
