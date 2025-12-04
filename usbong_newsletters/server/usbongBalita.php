@@ -3363,7 +3363,7 @@ else {
 	$sAudioInput="";
 	$sAudioInputText="";
 	
-	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<=11))) { //the hour of 8PM
+	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<21))) { //the hour of 8PM
 	//if (true) {
 
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
@@ -3371,6 +3371,11 @@ else {
 		$sAudioInputText=" | <b>🎵 \"Last Christmas\"...</b>";
 
 		$bIsMusicTime=true;
+	}
+	else if ((intval($currentDateTime->format('H')>=21)) or (intval($currentDateTime->format('H')<=8))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T2047";
+		
+		$sAudioInputText=" | <b>Talking about the new Octopath Traveler 0</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=12))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
