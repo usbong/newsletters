@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251201; from 20251105
+  @date updated: 20251204; from 20251201
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -591,10 +591,10 @@
 						
 						td.playTd
                         {
-
+							
 							float: left;
 							display: inline-block;
-							
+														
 							/*margin-top: 0.6em;*/
                         }						
 
@@ -941,6 +941,19 @@
 							margin-top: 0;
 							
 							visibility: visible;
+						}
+
+						span.spanAudioInfoText {
+							width: 100%;
+							
+							text-align: left;
+
+							position: absolute;
+							font-size: 1.5em;
+							margin:0;
+							margin-top: 0;
+							
+							visibility: hidden;
 						}
 
 						span.webServiceLinkRowIncomingDraftSpan {
@@ -1339,6 +1352,9 @@
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
 			var sMyAudioDurationText = document.getElementById("myAudioDurationTextId"); 
 
+			var myAudioInfoText = document.getElementById("myAudioInfoTextId");
+
+
 ////			//edited by Mike, 20250130		
 ////			dMyAudioCurrentTimeDurationInMin=Math.round(dMyAudioCurrentTimeDurationInSec/60);
 ////			iMyAudioCurrentTimeDurationInSec=Math.round(dMyAudioCurrentTimeDurationInSec%60);
@@ -1352,7 +1368,13 @@
 				sMyAudioCurrentTimeDurationInSec="0"+iMyAudioCurrentTimeDurationInSec;
 			}
 			
-			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
+			//sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
+			
+		//sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration()+" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
+			
+			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration()+"<span>"+myAudioInfoText.innerHTML+"</span>";
+			
+			
 						
 /*
 			//added by Mike, 20250612
@@ -1381,6 +1403,13 @@
 		}
 	
 		function onLoad() {
+/*
+			var myAudio = document.getElementById("myAudioId");
+			var myAudioInfoText = document.getElementById("myAudioInfoTextId");
+			
+			//myAudioInfoText.style.left=parseInt(myAudio.style.left);
+*/
+
 		  //alert ("HALLO");
 		  //added by Mike, 20250804 
 		  var sInput = window.location.href;
@@ -1756,6 +1785,7 @@
 			
 			//TODO: -update: this
 			//updateNewsNameIfHasIncomingDraft();
+			
 		}
 
 /*		
@@ -1859,7 +1889,9 @@
 
 		
 		//Game Off 2024
-		function playAudio() {
+		//function playAudio() {
+		function playAudio(bIsMusicTime) {
+			
 			//alert("DITO");
 			//alert(sAudioInput);
 			
@@ -1870,17 +1902,27 @@
 
 			var sImagePlayRadioSource = document.getElementById("imagePlayRadioId").src;
 			var myAudio = document.getElementById("myAudioId");
+			var myAudioInfoText = document.getElementById("myAudioInfoTextId");
+			
 			//>>>http://localhost/usbong_newsletters/assets/images/radioPlay.png?lastmod=20241230T1418
 			//alert(">>>"+sImagePlayRadioSource);
 		
 			var dMyAudioCurrentTimeDurationInSec = document.getElementById("myAudioId").currentTime; 
 			var dAudioTotalDuration = getAudioTotalDuration();
 			
+			//myAudioInfoText.style.left=parseInt(myAudio.style.left);
+									
 			//alert("dMyAudioCurrentTimeDurationInSec: "+dMyAudioCurrentTimeDurationInSec);
 			
 			var fMyAudioVolume=1.0;//0.4;
 			myAudio.volume=fMyAudioVolume;
-			myAudio.loop=false;		
+			
+			if (bIsMusicTime) {
+				myAudio.loop=true;		
+			}
+			else {
+				myAudio.loop=false;		
+			}	
 			//myAudio.play();
 			
 			myAudio.addEventListener("ended", function() {
@@ -3309,8 +3351,39 @@ else {
 
 	//echo $sAudioInput;
 */
+
+	//edited by Mike, 20251204
+	$currentDateTime = new DateTime();
+
+//echo $currentDateTime->format('Y-m-d H:i:s')."<br/>"; // Example output: 2025-12-04 10:36:00
+
+//echo $currentDateTime->format('H')."<br/>"; // Example output: 2025-12-04 10:36:00
 	
-	$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
+	$bIsMusicTime=false;
+	$sAudioInput="";
+	$sAudioInputText="";
+	
+	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<=11))) { //the hour of 8PM
+	//if (true) {
+
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
+		
+		$sAudioInputText=" | <b>🎵 \"Last Christmas\"...</b>";
+
+		$bIsMusicTime=true;
+	}
+	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=12))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
+		
+		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
+	}
+	else {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
+		
+		$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
+	}
+	
+	
 /*
 	if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
 		$sAudioInput="../../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3";
@@ -3339,13 +3412,16 @@ else {
 		</audio>	
 -->
 </td>
-<td class="playTd">
-<div class="divAudioPlayerContainer">
 
+<td class="playTd">
+
+<div class="divAudioPlayerContainer">
 <button class="playRadioButton">
 <?php
 	//removed by Mike, 20250729
-	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
+	//echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio()'>"; 
+
+	echo "<img id='imagePlayRadioId' class='ImagePlayRadio' src='../".$updatedDirDueToURL."assets/images/radioPlay.png?lastmod=20241230T1418' onclick='playAudio(".$bIsMusicTime.")'>";
 	
 ?>
 </button>
@@ -3353,18 +3429,27 @@ else {
 <span id="myAudioDurationTextId" class="spanAudioDuration">
 </span>
 
+
+<!--
 		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
+-->
+<?php
+	echo "<audio id='myAudioId' class='audioPlayerDefault' width='416' height='312' controls>";
+?>		
 		  <source id="audioSourceId" src="<?php echo $sAudioInput;?>" type="audio/mp3">
 		  Your browser does not support the audio tag.
 		</audio>	
-
+		
+		
+		
 		</div>
-		</td>		
-		
+		</td>
+<td>
+<span id="myAudioInfoTextId" class="spanAudioInfoText"><?php echo $sAudioInputText;?></span>
+</td>
 
-
-		
 		<td class="selectNewsSourceTd">
+
 		<button class='origTextButton'>
 <?php
 //https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
