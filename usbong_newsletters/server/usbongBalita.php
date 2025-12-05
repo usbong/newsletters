@@ -3420,9 +3420,7 @@ else {
 	else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
 		
-		//$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
-
-		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
+		$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
 	}
 	
 	
