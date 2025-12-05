@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251204; from 20251201
+  @date updated: 20251205; from 20251204
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -114,16 +114,9 @@
 
 							padding-left: 5%;
 							padding-right: 5%;
-/*
+							
+							margin-top: 1%;
 
-							padding-left: 6em;
-							padding-right: 6em;
-*/							
-/*
-							padding: 4em;
-							padding-left: 6em;
-							padding-right: 6em;
-*/
 							border: 1px solid #aaaaaa;
 
 							text-align: justify;
@@ -933,12 +926,16 @@
 						}					
 						
 						span.spanAudioDuration {
+							width: 65%;
+							
 							text-align: left;
 
 							position: absolute;
 							font-size: 1.5em;
 							margin:0;
 							margin-top: 0;
+							
+							word-wrap: break-word;
 							
 							visibility: visible;
 						}
@@ -952,7 +949,7 @@
 							font-size: 1.5em;
 							margin:0;
 							margin-top: 0;
-							
+														
 							visibility: hidden;
 						}
 
@@ -960,12 +957,6 @@
 							text-align: right;
 							color: rgb(80,52,37);
 							font-weight: bold;
-							/*font-size: 16pt;*/
-							
-							/*							
-							background-color: rgb(220,220,220);
-							padding: 4px;
-							*/
 						}
 
 						span.usbongTextSectionPart {
@@ -1346,6 +1337,44 @@
 		var iSoldierImageFrameHeightDefault=64;//24;//192;
 
 
+//Reference: Google AI
+function detectZoomLevel() {
+  const browserZoomLevel = Math.round(window.devicePixelRatio * 100);
+  //console.log(`Current browser zoom level: ${browserZoomLevel}%`);
+/*
+  if (browserZoomLevel > 100) {
+    console.log("Page is zoomed in.");
+	
+	alert("Page is zoomed in: "+browserZoomLevel);
+
+  } else if (browserZoomLevel < 100) {
+    console.log("Page is zoomed out.");
+	
+	alert("Page is zoomed out");
+	
+  } else {
+    console.log("Page is at 100% zoom.");
+
+	alert("Page is at 100% zoom.");
+
+  }
+*/  
+  var myAudioInfoText = document.getElementById("myAudioInfoTextId");
+
+/*	TODO: -reverify;
+  if (browserZoomLevel >= 150) {
+	  myAudioInfoText.style.visibility="hidden";
+  }
+  else {
+	  myAudioInfoText.style.visibility="visible";
+  }
+*/  
+}
+
+// Call the function on page load and on resize events
+window.addEventListener('load', detectZoomLevel);
+window.addEventListener('resize', detectZoomLevel);
+
 		function myUpdateFunction() {
 			
 	//removed by Mike, 20250729			
@@ -1368,12 +1397,18 @@
 				sMyAudioCurrentTimeDurationInSec="0"+iMyAudioCurrentTimeDurationInSec;
 			}
 			
+			if (myAudioInfoText.style.visibility=="hidden") {
+				myAudioInfoText.innerHTML="";
+			}
+			
 			//sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration();
 			
 		//sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration()+" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 			
-			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration()+"<span>"+myAudioInfoText.innerHTML+"</span>";
+			//sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration()+"<span>"+myAudioInfoText.innerHTML+"</span>";
 			
+			
+			sMyAudioDurationText.innerHTML=dMyAudioCurrentTimeDurationInMin+":"+sMyAudioCurrentTimeDurationInSec+" / "+getAudioTotalDuration()+"<span>"+myAudioInfoText.innerHTML+"</span>";
 			
 						
 /*
@@ -1623,7 +1658,7 @@
 				//dMargin=iScreenWidth*0.02; //2%
 
 				//alert("dMargin: "+dMargin);
-				
+								
 				//----------------------------------------------------
 				//TODO: -add in other news sources;
 				//note: last article may not be the previous day; 
@@ -3385,7 +3420,9 @@ else {
 	else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
 		
-		$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
+		//$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
+
+		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 	}
 	
 	
@@ -3433,6 +3470,8 @@ else {
 
 <span id="myAudioDurationTextId" class="spanAudioDuration">
 </span>
+
+<br/>
 
 
 <!--
