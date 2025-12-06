@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251205; from 20251204
+  @date updated: 20251206; from 20251205
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3407,15 +3407,45 @@ else {
 
 		$bIsMusicTime=true;
 	}
-	else if ((intval($currentDateTime->format('H')>=21)) or (intval($currentDateTime->format('H')<=8))) {
+	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=5))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
+		
+		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
+	}	
+	else if ((intval($currentDateTime->format('H')>=6)) and (intval($currentDateTime->format('H')<=8))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T2047";
 		
 		$sAudioInputText=" | <b>Talking about the new Octopath Traveler 0</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=12))) {
+	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=11))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
 		
 		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=14))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
+		
+		$sAudioInputText=" | <b>シンガポールに移動してどうなる・・・</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=16))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Finding Singapore in the News.mp3?lastmod=20251206T1437";
+		
+		$sAudioInputText=" | <b>Finding Singapore in the News...</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=17)) and (intval($currentDateTime->format('H')<=17))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about Octopath Traveler 0 to practice Mandarin.mp3?lastmod=20251206T1534";
+		
+		$sAudioInputText=" | <b>讲Octopath Traveler 0练习普通话</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=18)) and (intval($currentDateTime->format('H')<=18))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording UsbongTabi ReferenceNiZaiShenBianAcousticVersionYoutubeChannelKimberleyChen.mp3?lastmod=20251206T1616";
+		
+		$sAudioInputText=" | <b>🎵 \"你在身边\"</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=19)) and (intval($currentDateTime->format('H')<=19))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording UsbongTabiReferenceNeverLetHerGoTheDavidGatesSongbookGoogle 202402112031.mp3?lastmod=20251206T1622";
+		
+		$sAudioInputText=" | <b>🎵 \"Never Let Her Go\"</b>";
 	}
 	else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
