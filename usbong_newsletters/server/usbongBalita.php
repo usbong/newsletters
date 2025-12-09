@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251206; from 20251205
+  @date updated: 20251209; from 20251208
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -38,7 +38,8 @@
     <!-- Reference: Apache Friends Dashboard index.html -->
     <!-- "Always force latest IE rendering engine or request Chrome Frame" -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no"/>
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <style type="text/css">
 	/**/
@@ -3407,7 +3408,12 @@ else {
 
 		$bIsMusicTime=true;
 	}
-	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=5))) {
+	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=21))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
+		
+		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
+	}		
+	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
