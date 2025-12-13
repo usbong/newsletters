@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251209; from 20251208
+  @date updated: 20251213; from 20251209
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -942,7 +942,7 @@
 						}
 
 						span.spanAudioInfoText {
-							width: 100%;
+							width: 10%;
 							
 							text-align: left;
 
@@ -3221,6 +3221,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 	$updatedDirDueToURL="../";
 	
 	if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
+	//if (strpos($_SERVER['REQUEST_URI'],"/N")!==false) {
 		$updatedDirDueToURL=$updatedDirDueToURL."../";
 	}
 }
@@ -3335,58 +3336,7 @@ else {
 
 <table class="searchTable">
 		<tr>
-<!-- //removed by Mike, 20250729
-			<td class="radioImageTd">
-<button class='jeepRadioButton'>
 <?php
-	//https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image; last accessed: 20241026
-	//answer by: Greg, 20081126T1928
-	
-	//removed by Mike, 20250729
-	//echo "<img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'>"; //radio
-?>	
-</button>
-			</td>
-			<td>
--->
-<?php
-/*	//removed by Mike, 20250729
-	if (strpos($_SERVER['REQUEST_URI'],"/R1")!==false) {
-		$sAudioInput="../../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-	}
-	else if (strpos($_SERVER['REQUEST_URI'],"/R2")!==false) {
-		$sAudioInput="../../../assets/audio/english/2024/202407/Recording UsbongEnglishLove 20240728T1908.mp3";
-	}
-	else if (strpos($_SERVER['REQUEST_URI'],"/R3")!==false) {
-		$sAudioInput="../../../assets/audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
-		//$sAudioInput="../".$sBaseAssetsDirectory."audio/spanish/2024/202408/Recording UsbongSpanishMolestarnos 20240819T1854.mp3";
-	}
-	//added by Mike, 20241021
-	else if (strpos($_SERVER['REQUEST_URI'],"/R4")!==false) {
-		$sAudioInput="../../../assets/audio/filipino/2024/202410/Recording UsbongFilipinoSFZ 20241019T1929.mp3";
-	}	
-	else {
-		//edited by Mike, 20241010
-		if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
-			//http://localhost/usbong_newsletters/server/usbongBalita.php/
-			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
-			
-			$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-		}		
-		else { 
-			//no slash at the end
-			//http://localhost/usbong_newsletters/server/usbongBalita.php
-			//edited by Mike, 20241010			
-			//$sAudioInput="../../assets/audio/nihongo/2024/202407/Recording UsbongNihongoIi 20240719T2006.mp3";
-			
-			//$sAudioInput="../../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-			
-			$sAudioInput=$updatedDirDueToURL."../assets/audio/nihongo/2024/202412/Recording UsbongNihongoGozareba 20241221T1918.mp3";
-		}
-	}
-
-	//echo $sAudioInput;
-*/
 
 	//edited by Mike, 20251204
 	$currentDateTime = new DateTime();
@@ -3398,6 +3348,8 @@ else {
 	$bIsMusicTime=false;
 	$sAudioInput="";
 	$sAudioInputText="";
+	
+	//echo ">>>>>".$updatedDirDueToURL;
 	
 	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<21))) { //the hour of 8PM
 	//if (true) {
@@ -3429,6 +3381,8 @@ else {
 		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=14))) {
+		//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
+		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
 		
 		$sAudioInputText=" | <b>シンガポールに移動してどうなる・・・</b>";
@@ -3459,35 +3413,20 @@ else {
 		$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
 	}
 	
-	
-/*
-	if (substr($_SERVER['REQUEST_URI'],strlen($_SERVER['REQUEST_URI'])-1)==="/N") {
-		$sAudioInput="../../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3";
-	}		
-	else { 
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3";
-	}
-*/
-	//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/usbongGameOff2025DogWolfHowl.mp3";
-
-/*	
-	echo ">>>>>".$updatedDirDueToURL."<br/>";
-	echo ">>>>>>>>".$sAudioInput;
-*/	
+	//echo $sAudioInput;
 ?>
+
+
 <td class="soldierTd">
 <?php
 	//added by Mike, 20251011
 	echo "<img id='soldierImageId' class='ImageTileFrameSoldier' src='../".$updatedDirDueToURL."assets/images/soldier.png?lastmod=20251203T1111'>"; 
 ?>	
 
-<!--
-		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
-		  <source id="audioSourceId" src="<?php //echo $sAudioInput;?>" type="audio/mp3">
-		  Your browser does not support the audio tag.
-		</audio>	
--->
+<span id="myAudioInfoTextId" class="spanAudioInfoText"><?php echo $sAudioInputText;?></span>
 </td>
+
+
 
 <td class="playTd">
 
@@ -3522,9 +3461,8 @@ else {
 		
 		</div>
 		</td>
-<td>
-<span id="myAudioInfoTextId" class="spanAudioInfoText"><?php echo $sAudioInputText;?></span>
-</td>
+		
+
 
 		<td class="selectNewsSourceTd">
 
