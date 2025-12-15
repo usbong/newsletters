@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251215; from 20251213
+  @date updated: 20251213; from 20251209
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3364,6 +3364,8 @@ else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
 		
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
+		
+		$bIsMusicTime=true;
 	}		
 	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
@@ -3411,11 +3413,15 @@ else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording UsbongTabi ReferenceNiZaiShenBianAcousticVersionYoutubeChannelKimberleyChen.mp3?lastmod=20251206T1616";
 		
 		$sAudioInputText=" | <b>🎵 \"你在身边\"</b>";
+
+		$bIsMusicTime=true;
 	}
 	else if ((intval($currentDateTime->format('H')>=19)) and (intval($currentDateTime->format('H')<=19))) {
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording UsbongTabiReferenceNeverLetHerGoTheDavidGatesSongbookGoogle 202402112031.mp3?lastmod=20251206T1622";
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording UsbongTabiReferenceNeverLetHerGoTheDavidGatesSongbookGoogle 202402112031.mp3?lastmod=20251206T1622";
 		
 		$sAudioInputText=" | <b>🎵 \"Never Let Her Go\"</b>";
+
+		$bIsMusicTime=true;
 	}
 	else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
