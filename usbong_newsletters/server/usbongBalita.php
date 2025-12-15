@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251213; from 20251209
+  @date updated: 20251215; from 20251213
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3365,12 +3365,22 @@ else {
 		
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
 	}		
-	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=5))) {
+	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
 	}	
-	else if ((intval($currentDateTime->format('H')>=6)) and (intval($currentDateTime->format('H')<=8))) {
+	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=5))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice why do cats fight each other 20251213.mp3?lastmod=20251215T1427";
+		
+		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
+	}	
+	else if ((intval($currentDateTime->format('H')>=6)) and (intval($currentDateTime->format('H')<=6))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice cats are more than just robots, action figures 20251213.mp3?lastmod=20251215T1419";
+		
+		$sAudioInputText=" | <b>Cats are more than just robots, action figures...</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=8))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T2047";
 		
 		$sAudioInputText=" | <b>Talking about the new Octopath Traveler 0</b>";
