@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251213; from 20251209
+  @date updated: 20251217; from 20251213
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3354,7 +3354,7 @@ else {
 	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<21))) { //the hour of 8PM
 	//if (true) {
 
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100AmplifiedV2.mp3?lastmod=20251217T1842";
 		
 		$sAudioInputText=" | <b>🎵 \"Last Christmas\"...</b>";
 
