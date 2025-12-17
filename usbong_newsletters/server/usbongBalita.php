@@ -3366,13 +3366,20 @@ else {
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
 		
 		$bIsMusicTime=true;
-	}		
+	}	
 	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording OtsukaAiYumekuiAvexGoogleLyricFind 20251217T2112.mp3?lastmod=20251217T2117";
+		
+		$sAudioInputText=" | <b>🎵 \"ユメクイ\"...</b>";
+		
+		$bIsMusicTime=true;
+	}	
+	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=23))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
 	}	
-	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=5))) {
+	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice why do cats fight each other 20251213.mp3?lastmod=20251215T1427";
 		
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
