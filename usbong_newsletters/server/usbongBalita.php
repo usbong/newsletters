@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251217; from 20251213
+  @date updated: 20251222; from 20251213
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3354,7 +3354,7 @@ else {
 	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<21))) { //the hour of 8PM
 	//if (true) {
 
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100AmplifiedV2.mp3?lastmod=20251217T1842";
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
 		
 		$sAudioInputText=" | <b>🎵 \"Last Christmas\"...</b>";
 
@@ -3366,20 +3366,13 @@ else {
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
 		
 		$bIsMusicTime=true;
-	}	
+	}		
 	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording OtsukaAiYumekuiAvexGoogleLyricFind 20251217T2112.mp3?lastmod=20251217T2117";
-		
-		$sAudioInputText=" | <b>🎵 \"ユメクイ\"...</b>";
-		
-		$bIsMusicTime=true;
-	}	
-	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=23))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
 	}	
-	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=5))) {
+	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice why do cats fight each other 20251213.mp3?lastmod=20251215T1427";
 		
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
@@ -4115,9 +4108,31 @@ else {
 		//embed sample: https://www.youtube.com/embed/tgbNymZ7vqY
 		//https://www.youtube.com/watch?v=YDu-7EFRrb0
 		//echo ">>>>".$sReferenceWebsiteTemp;
-
-		//reference: https://www.w3schools.com/html/html_youtube.asp; last accessed: 20240511
-		if (strpos($sReferenceWebsiteTemp,"www.youtube.com")!==false) {
+		
+		//reference: https://www.w3schools.com/html/html_youtube.asp; last accessed: 20240511		
+		//if (strpos($sReferenceWebsiteTemp,"www.youtube.com")!==false) {
+		if ((strpos($sReferenceWebsiteTemp,"www.youtube.com")!==false) or (strpos($sReferenceWebsiteTemp,"youtu.be")!==false)) {
+		
+			//edited by Mike, 20251222
+			//https://youtu.be/hJnAHzo4-KI?si=eOZVUOIa965xCmoX&t=51
+			if (strpos($sReferenceWebsiteTemp,"youtu.be")!==false) {
+				//$sReferenceWebsiteTemp="https://www.youtube.com/watch?v=hJnAHzo4-KI";
+				
+				//OK
+				//$sReferenceWebsiteTemp="https://www.youtube.com/watch?v=hJnAHzo4-KI?start=51";
+				
+				
+				//echo ">>>>".$sToken;
+				
+				//get start time if available
+				$sReferenceWebsiteTempStartTime=substr($sToken,strpos($sToken,"&"));
+				$sReferenceWebsiteTempStartTime=str_replace("&t=","?start=",$sReferenceWebsiteTempStartTime);
+				
+				$sReferenceWebsiteTemp=substr($sToken,strpos($sToken,"https://youtu.be/"),strpos($sToken,"?"));
+				
+				$sReferenceWebsiteTemp=str_replace("youtu.be/","www.youtube.com/watch?v=",$sReferenceWebsiteTemp).$sReferenceWebsiteTempStartTime;
+			}
+		
 			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
 		
 			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
