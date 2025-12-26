@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251222; from 20251213
+  @date updated: 20251226; from 20251222
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3382,10 +3382,17 @@ else {
 		
 		$sAudioInputText=" | <b>Cats are more than just robots, action figures...</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=8))) {
+	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=7))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T2047";
 		
 		$sAudioInputText=" | <b>Talking about the new Octopath Traveler 0</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=8)) and (intval($currentDateTime->format('H')<=8))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording JohnMayerSayYouTubeMusixmatch 20251224.mp3?lastmod=20251226T1545";
+		
+		$sAudioInputText=" | <b>🎵 \"Say\"...</b>";
+		
+		$bIsMusicTime=true;
 	}
 	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=11))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
