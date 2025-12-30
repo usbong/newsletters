@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251226; from 20251222
+  @date updated: 20251230; from 20251229
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3394,12 +3394,22 @@ else {
 		
 		$bIsMusicTime=true;
 	}
-	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=11))) {
+	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=10))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
 		
 		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=14))) {
+	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=12))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice La industria de los videojuegos desde la lente de Game Off.mp3?lastmod=20251229T1521";
+		
+		$sAudioInputText=" | <b>La industria de los videojuegos desde la lente de Game Off</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=13))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about the video game industry through the lens of Game Off.mp3?lastmod=20251230T1213";
+		
+		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
 		//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
 		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
@@ -3416,6 +3426,13 @@ else {
 		
 		$sAudioInputText=" | <b>讲Octopath Traveler 0练习普通话</b>";
 	}
+/*
+	else if ((intval($currentDateTime->format('H')>=17)) and (intval($currentDateTime->format('H')<=17))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about the video game industry through the lens of Game Off.mp3?lastmod=20251230T1213";
+		
+		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
+	}
+*/
 	else if ((intval($currentDateTime->format('H')>=18)) and (intval($currentDateTime->format('H')<=18))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording UsbongTabi ReferenceNiZaiShenBianAcousticVersionYoutubeChannelKimberleyChen.mp3?lastmod=20251206T1616";
 		
