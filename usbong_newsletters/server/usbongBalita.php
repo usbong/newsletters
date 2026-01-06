@@ -1,5 +1,5 @@
 ﻿<!--
-  Copyright 2021~2025 SYSON, MICHAEL B.
+  Copyright 2021~2026 SYSON, MICHAEL B.
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
 
   http://www.apache.org/licenses/LICENSE-2.0
@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20251230; from 20251229
+  @date updated: 20260106; from 20260103
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3399,24 +3399,29 @@ else {
 		
 		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=12))) {
+	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=11))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice La industria de los videojuegos desde la lente de Game Off.mp3?lastmod=20251229T1521";
 		
 		$sAudioInputText=" | <b>La industria de los videojuegos desde la lente de Game Off</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=13))) {
+	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=12))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about the video game industry through the lens of Game Off.mp3?lastmod=20251230T1213";
 		
 		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
+	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=14))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Thoughts on Sacha Chua's Working on Emacs News.mp3?lastmod=20260106T1151";
+		
+		$sAudioInputText=" | <b>Thoughts on Sacha Chua's \"Working on Emacs News\"</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=15))) {
 		//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
 		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
 		
 		$sAudioInputText=" | <b>シンガポールに移動してどうなる・・・</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=16))) {
+	else if ((intval($currentDateTime->format('H')>=16)) and (intval($currentDateTime->format('H')<=16))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Finding Singapore in the News.mp3?lastmod=20251206T1437";
 		
 		$sAudioInputText=" | <b>Finding Singapore in the News...</b>";
@@ -5055,7 +5060,7 @@ while ($sToken !== false)
 	//else if (strpos($cellValue, ">")!==false) {
 	else if (substr($sToken,0,1)==">") {
 		
-		//echo ">>>>>>>>";
+		//echo ">>>>>>>> ".$iRowCount;
 
 		//if prev token was a note
 		if (strpos($sPrevToken, "-->")!==false) {
@@ -5076,7 +5081,18 @@ while ($sToken !== false)
 		//echo ">>>>".$completeFilename;
 		
 		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
-			echo "<blockquote class='usbongBlockquotePersonal'>";
+			//edited by Mike, 20260103
+			//echo "<blockquote class='usbongBlockquotePersonal'>";
+			//echo "<blockquote class='usbongBlockquote'>";
+			
+			//title, author, publication date rows
+			if (($iRowCount==2)||($iRowCount==4)||($iRowCount==6)) {
+				echo "<blockquote class='usbongBlockquotePersonal'>";
+			}
+			else {
+				echo "<blockquote class='usbongBlockquote'>";
+			}
+			
 			echo "$sToken";
 			echo "</blockquote>";
 		}
