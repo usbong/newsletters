@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260106; from 20260103
+  @date updated: 20260107; from 20260106
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3353,12 +3353,16 @@ else {
 	
 	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<21))) { //the hour of 8PM
 	//if (true) {
-
+/*
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
 		
 		$sAudioInputText=" | <b>🎵 \"Last Christmas\"...</b>";
 
 		$bIsMusicTime=true;
+*/		
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106.mp3?lastmod=20260106T1708";
+		
+		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=21))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
@@ -3414,23 +3418,29 @@ else {
 		
 		$sAudioInputText=" | <b>Thoughts on Sacha Chua's \"Working on Emacs News\"</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=15))) {
+	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=16))) {
 		//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
-		
+/*		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
 		
 		$sAudioInputText=" | <b>シンガポールに移動してどうなる・・・</b>";
+*/		
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Sega Saturn Bomberman 20260106.mp3?lastmod=20260106T1250";
+		
+		$sAudioInputText=" | <b>セガサターン用のボンバーマン・・・</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=16)) and (intval($currentDateTime->format('H')<=16))) {
+	else if ((intval($currentDateTime->format('H')>=17)) and (intval($currentDateTime->format('H')<=17))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Finding Singapore in the News.mp3?lastmod=20251206T1437";
 		
 		$sAudioInputText=" | <b>Finding Singapore in the News...</b>";
 	}
+/*	
 	else if ((intval($currentDateTime->format('H')>=17)) and (intval($currentDateTime->format('H')<=17))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about Octopath Traveler 0 to practice Mandarin.mp3?lastmod=20251206T1534";
 		
 		$sAudioInputText=" | <b>讲Octopath Traveler 0练习普通话</b>";
 	}
+*/	
 /*
 	else if ((intval($currentDateTime->format('H')>=17)) and (intval($currentDateTime->format('H')<=17))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about the video game industry through the lens of Game Off.mp3?lastmod=20251230T1213";
