@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260107; from 20260106
+  @date updated: 20260108; from 20260107
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3360,7 +3360,7 @@ else {
 
 		$bIsMusicTime=true;
 */		
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106.mp3?lastmod=20260106T1708";
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106v2.mp3?lastmod=20260108T1112";
 		
 		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";
 	}
