@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260108; from 20260107
+  @date updated: 20260109; from 20260108
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3413,10 +3413,15 @@ else {
 		
 		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=14))) {
+	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=13))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Thoughts on Sacha Chua's Working on Emacs News.mp3?lastmod=20260106T1151";
 		
 		$sAudioInputText=" | <b>Thoughts on Sacha Chua's \"Working on Emacs News\"</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2026/202601/Recording MandarinPractice How did the Nintendo Switch solve the controller issues in mobile apps like Dan The Man and Metal Slug 20260109.mp3?lastmod=20260109T1354";
+		
+		$sAudioInputText=" | <b>任天堂Switch Lite如何解决Dan The Man, Metal Slug手机游戏的控制问题？</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=16))) {
 		//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
