@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260109; from 20260108
+  @date updated: 20260111; from 20260109
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3365,18 +3365,25 @@ else {
 		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=21))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording summertimeCinnamonRoomYouTubeGoogleLyricsMusixmatchSongwritersNatsukiHaradaMarikoSuzuki 20260110.mp3?lastmod=20260111T0953";
+		
+		$sAudioInputText=" | <b>🎵 \"Summertime\"...</b>";
+		
+		$bIsMusicTime=true;
+	}	
+	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
 		
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
 		
 		$bIsMusicTime=true;
-	}		
-	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
+	}	
+	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=23))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
 	}	
-	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=5))) {
+	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice why do cats fight each other 20251213.mp3?lastmod=20251215T1427";
 		
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
@@ -3398,6 +3405,15 @@ else {
 		
 		$bIsMusicTime=true;
 	}
+/*	
+	else if ((intval($currentDateTime->format('H')>=9)) and (intval($currentDateTime->format('H')<=9))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording summertimeCinnamonRoomYouTubeGoogleLyricsMusixmatchSongwritersNatsukiHaradaMarikoSuzuki 20260110.mp3?lastmod=20260111T0953";
+		
+		$sAudioInputText=" | <b>🎵 \"Summertime\"...</b>";
+		
+		$bIsMusicTime=true;
+	}
+*/
 	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=10))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
 		
