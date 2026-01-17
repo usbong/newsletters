@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260111; from 20260109
+  @date updated: 20260117; from 20260111
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3383,11 +3383,18 @@ else {
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
 	}	
-	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=5))) {
+	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=4))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice why do cats fight each other 20251213.mp3?lastmod=20251215T1427";
 		
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
-	}	
+	}
+	else if ((intval($currentDateTime->format('H')>=5)) and (intval($currentDateTime->format('H')<=5))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
+		
+		$sAudioInputText=" | <b>🎵 \"Call Me Maybe\"...</b>";
+		
+		$bIsMusicTime=true;
+	}		
 	else if ((intval($currentDateTime->format('H')>=6)) and (intval($currentDateTime->format('H')<=6))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice cats are more than just robots, action figures 20251213.mp3?lastmod=20251215T1419";
 		
@@ -3435,11 +3442,18 @@ else {
 		$sAudioInputText=" | <b>Thoughts on Sacha Chua's \"Working on Emacs News\"</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceIfEverYou'reInMyArmsAgainMusicTravelLoveFtHamzaHawsawi(DesertRock,TheRedSea)PeaboBrysonYouTubeGoogleLyricsLyricFind 20260114.mp3?lastmod=20260117T1628";
+		
+		$sAudioInputText=" | <b>🎵 \"If Ever You're In My Arms Again\"...</b>";
+		
+		$bIsMusicTime=true;
+	}
+	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=15))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2026/202601/Recording MandarinPractice How did the Nintendo Switch solve the controller issues in mobile apps like Dan The Man and Metal Slug 20260109.mp3?lastmod=20260109T1354";
 		
 		$sAudioInputText=" | <b>任天堂Switch Lite如何解决Dan The Man, Metal Slug手机游戏的控制问题？</b>";
 	}
-	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=16))) {
+	else if ((intval($currentDateTime->format('H')>=16)) and (intval($currentDateTime->format('H')<=16))) {
 		//$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
 /*		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo Singapore 20251206.mp3?lastmod=20251206T1159";
