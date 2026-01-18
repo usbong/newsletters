@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260117; from 20260111
+  @date updated: 20260118; from 20260117
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3389,7 +3389,7 @@ else {
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=5)) and (intval($currentDateTime->format('H')<=5))) {
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
 		
 		$sAudioInputText=" | <b>🎵 \"Call Me Maybe\"...</b>";
 		
