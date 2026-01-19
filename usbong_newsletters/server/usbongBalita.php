@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260118; from 20260117
+  @date updated: 20260119; from 20260118
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3351,7 +3351,7 @@ else {
 	
 	//echo ">>>>>".$updatedDirDueToURL;
 	
-	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<21))) { //the hour of 8PM
+	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<20))) { //the hour of 8PM
 	//if (true) {
 /*
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
@@ -3370,14 +3370,14 @@ else {
 		$sAudioInputText=" | <b>🎵 \"Summertime\"...</b>";
 		
 		$bIsMusicTime=true;
-	}	
+	}
 	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
 		
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
 		
 		$bIsMusicTime=true;
-	}	
+	}
 	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=23))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
@@ -3426,6 +3426,7 @@ else {
 		
 		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 	}
+/*
 	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=11))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice La industria de los videojuegos desde la lente de Game Off.mp3?lastmod=20251229T1521";
 		
@@ -3435,6 +3436,12 @@ else {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2025/202512/Recording MandarinPractice Talking about the video game industry through the lens of Game Off.mp3?lastmod=20251230T1213";
 		
 		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
+	}
+*/	
+	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=12))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice YouTubeDragonQuestVITrigger 20260119.mp3?lastmod=20260119T1039";
+		
+		$sAudioInputText=" | <b>Talking about YouTube, Dragon Quest VI and the Trigger</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=13))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Thoughts on Sacha Chua's Working on Emacs News.mp3?lastmod=20260106T1151";
@@ -3490,10 +3497,19 @@ else {
 
 		$bIsMusicTime=true;
 	}
+/*
 	else if ((intval($currentDateTime->format('H')>=19)) and (intval($currentDateTime->format('H')<=19))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording UsbongTabiReferenceNeverLetHerGoTheDavidGatesSongbookGoogle 202402112031.mp3?lastmod=20251206T1622";
 		
 		$sAudioInputText=" | <b>🎵 \"Never Let Her Go\"</b>";
+
+		$bIsMusicTime=true;
+	}
+*/
+	else if ((intval($currentDateTime->format('H')>=19)) and (intval($currentDateTime->format('H')<=19))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ThatsAllRodStewart(fromItHadToBeYouTheGreatAmericanSongbook)YouTubeGoogleLyricsGeniusNatKingCole 20260117.mp3?lastmod=20260119T1057";
+		
+		$sAudioInputText=" | <b>🎵 \"That's all\"</b>";
 
 		$bIsMusicTime=true;
 	}
@@ -5307,8 +5323,15 @@ while ($sToken !== false)
 
 		if (is_numeric($sToken[0])) { //1st character a number, notes; not "<"
 			//echo "dito: ".$sToken[0]."<br/>";
+			
 			if (is_numeric($sPrevToken[0])) {
-			  echo "<br/>";
+			  //added by Mike, 20260119
+			  //TODO: -reverify this
+			  if (strpos(strtolower($sPrevToken), "[")!==false) {
+			  }
+			  else {
+				echo "<br/>";
+			  }
 			}
 			
 			if ((strpos($sPrevToken, "# REFERENCE")!==false) ||
@@ -5345,7 +5368,14 @@ while ($sToken !== false)
 	//echo "<br/>";
 	if (isset($bHasAdditionalReference)) {
 		if ($bHasAdditionalReference) {
-		  echo "<br/><br/>";
+			
+		  //added by Mike, 20260119
+		  //TODO: -reverify this
+		  if (strpos(strtolower($sPrevToken), "[")!==false) {
+		  }
+		  else {
+			echo "<br/><br/>";
+		  }
 		}
 	}
 	//echo "<br/><br/>";
