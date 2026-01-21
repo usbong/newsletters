@@ -3358,7 +3358,7 @@ else {
 		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";
 	}
 */
-	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<20))) { //the hour of 8PM
+	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<=20))) { //the hour of 8PM
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo AI Academe Industry 20260120.mp3?lastmod=20260121T1656";
 		
 		$sAudioInputText=" | <b>生成AIと大学と通信会社の関係性？・・・</b>";
@@ -3527,9 +3527,14 @@ else {
 		$bIsMusicTime=true;
 	}
 	else {
+/*		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2025/202512/Recording UsbongNihongo GameOff2025 20251202 short.mp3?lastmod=20251203T1210";
 		
 		$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
+*/
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106v2.mp3?lastmod=20260108T1112";
+		
+		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";	
 	}
 	
 	//echo $sAudioInput;
