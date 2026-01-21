@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260119; from 20260118
+  @date updated: 20260121; from 20260119
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3350,34 +3350,33 @@ else {
 	$sAudioInputText="";
 	
 	//echo ">>>>>".$updatedDirDueToURL;
-	
+/*	
 	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<20))) { //the hour of 8PM
 	//if (true) {
-/*
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording LastChristmasMusicTravelLoveAndFriendsWhamLyricsMusixmatch 20251203T2100Amplified.mp3?lastmod=20251204T1042";
-		
-		$sAudioInputText=" | <b>🎵 \"Last Christmas\"...</b>";
-
-		$bIsMusicTime=true;
-*/		
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106v2.mp3?lastmod=20260108T1112";
 		
 		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";
 	}
+*/
+	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<20))) { //the hour of 8PM
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo AI Academe Industry 20260120.mp3?lastmod=20260121T1656";
+		
+		$sAudioInputText=" | <b>生成AIと大学と通信会社の関係性？・・・</b>";
+	}	
 	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=21))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording summertimeCinnamonRoomYouTubeGoogleLyricsMusixmatchSongwritersNatsukiHaradaMarikoSuzuki 20260110.mp3?lastmod=20260111T0953";
 		
 		$sAudioInputText=" | <b>🎵 \"Summertime\"...</b>";
 		
 		$bIsMusicTime=true;
-	}
+	}/*
 	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
 		
 		$sAudioInputText=" | <b>🎵 \"WILD\"...</b>";
 		
 		$bIsMusicTime=true;
-	}
+	}*/
 	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=23))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
@@ -3421,11 +3420,20 @@ else {
 		$bIsMusicTime=true;
 	}
 */
+/*
 	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=10))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
 		
 		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
 	}
+*/
+/*	
+	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=10))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T1144";
+		
+		$sAudioInputText=" | <b>El mundo que podemos encontrar en el Octopath Traveler 0 de Square Enix</b>";
+	}
+*/	
 /*
 	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=11))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2025/202512/Recording SpanishPractice La industria de los videojuegos desde la lente de Game Off.mp3?lastmod=20251229T1521";
@@ -3438,10 +3446,15 @@ else {
 		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
 	}
 */	
-	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=12))) {
+	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=11))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice YouTubeDragonQuestVITrigger 20260119.mp3?lastmod=20260119T1039";
 		
 		$sAudioInputText=" | <b>Talking about YouTube, Dragon Quest VI and the Trigger</b>";
+	}
+	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=12))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2026/202601/Recording SpanishPractice AnimalCrossing 20260121.mp3?lastmod=20260121T1147";
+		
+		$sAudioInputText=" | <b>Pensamientos sobre el repaso de GameSpot de la franquicia Animal Crossing de Nintendo</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=13))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Thoughts on Sacha Chua's Working on Emacs News.mp3?lastmod=20260106T1151";
