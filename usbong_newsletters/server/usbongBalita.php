@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260121; from 20260119
+  @date updated: 20260122; from 20260121
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3359,7 +3359,7 @@ else {
 	}
 */
 	if ((intval($currentDateTime->format('H')>=20)) and (intval($currentDateTime->format('H')<=20))) { //the hour of 8PM
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo AI Academe Industry 20260120.mp3?lastmod=20260121T1656";
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo AI Academe Industry 20260120V2.mp3?lastmod=20260121T1656";
 		
 		$sAudioInputText=" | <b>生成AIと大学と通信会社の関係性？・・・</b>";
 	}	
