@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260122; from 20260121
+  @date updated: 20260126; from 20260122
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3387,6 +3387,13 @@ else {
 		
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
 	}
+	else if ((intval($currentDateTime->format('H')>=4)) and (intval($currentDateTime->format('H')<=4))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording StraightFromTheHeartBryanAdamsYouTubeGoogleGeniusV3 20260126.mp3?lastmod=20260126T1550";
+		
+		$sAudioInputText=" | <b>🎵 \"Straight from the Heart\"...</b>";
+		
+		$bIsMusicTime=true;
+	}
 	else if ((intval($currentDateTime->format('H')>=5)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
 		
@@ -3446,11 +3453,18 @@ else {
 		$sAudioInputText=" | <b>分析Game Off比赛来讲现在游戏行业</b>";
 	}
 */	
-	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=11))) {
+	else if ((intval($currentDateTime->format('H')>=10)) and (intval($currentDateTime->format('H')<=10))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice YouTubeDragonQuestVITrigger 20260119.mp3?lastmod=20260119T1039";
 		
 		$sAudioInputText=" | <b>Talking about YouTube, Dragon Quest VI and the Trigger</b>";
 	}
+	else if ((intval($currentDateTime->format('H')>=11)) and (intval($currentDateTime->format('H')<=11))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording IKnewIlovedYouSavageGardenDaveMoffattMusicYouTubeGoogleLyricsGenius 20260124.mp3?lastmod=20260126T1127";
+		
+		$sAudioInputText=" | <b>🎵 I Knew I loved You</b>";
+		
+		$bIsMusicTime=true;
+	}	
 	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=12))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2026/202601/Recording SpanishPractice AnimalCrossing 20260121.mp3?lastmod=20260121T1147";
 		
