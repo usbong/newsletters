@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260126; from 20260122
+  @date updated: 20260129; from 20260126
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3382,11 +3382,12 @@ else {
 		
 		$sAudioInputText=" | <b>Solving the problem of hurting others with VR...</b>";
 	}	
-	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=4))) {
+	else if ((intval($currentDateTime->format('H')>=0)) and (intval($currentDateTime->format('H')<=3))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice why do cats fight each other 20251213.mp3?lastmod=20251215T1427";
 		
 		$sAudioInputText=" | <b>Why do cats fight each other...</b>";
 	}
+/*
 	else if ((intval($currentDateTime->format('H')>=4)) and (intval($currentDateTime->format('H')<=4))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording StraightFromTheHeartBryanAdamsYouTubeGoogleGeniusV3 20260126.mp3?lastmod=20260126T1550";
 		
@@ -3394,6 +3395,7 @@ else {
 		
 		$bIsMusicTime=true;
 	}
+*/	
 	else if ((intval($currentDateTime->format('H')>=5)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
 		
@@ -3475,12 +3477,19 @@ else {
 		
 		$sAudioInputText=" | <b>Thoughts on Sacha Chua's \"Working on Emacs News\"</b>";
 	}
+/*	
 	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceIfEverYou'reInMyArmsAgainMusicTravelLoveFtHamzaHawsawi(DesertRock,TheRedSea)PeaboBrysonYouTubeGoogleLyricsLyricFind 20260114.mp3?lastmod=20260117T1628";
 		
 		$sAudioInputText=" | <b>🎵 \"If Ever You're In My Arms Again\"...</b>";
 		
 		$bIsMusicTime=true;
+	}
+*/
+	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Creating my own fighting games by learning from Street Fighter, Darkstalkers and the PlayStation 20260128.mp3?lastmod=20260129T1258";
+		
+		$sAudioInputText=" | <b>Creating my own fighting games by learning from Street Fighter, Darkstalkers and the PlayStation...</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=15))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2026/202601/Recording MandarinPractice How did the Nintendo Switch solve the controller issues in mobile apps like Dan The Man and Metal Slug 20260109.mp3?lastmod=20260109T1354";
