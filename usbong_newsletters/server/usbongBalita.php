@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260129; from 20260126
+  @date updated: 20260202; from 20260131
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3396,6 +3396,11 @@ else {
 		$bIsMusicTime=true;
 	}
 */	
+	else if ((intval($currentDateTime->format('H')>=4)) and (intval($currentDateTime->format('H')<=4))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202602/Recording EnglishPractice Talking about Burgers after Seeing Danny Grubs' Video on the Best Burger in NYC 20260202.mp3?lastmod=20260202T1608";
+		
+		$sAudioInputText=" | <b>Talking about Burgers after Seeing Danny Grubs' Video on the Best Burger in NYC</b>";
+	}
 	else if ((intval($currentDateTime->format('H')>=5)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
 		
@@ -3408,10 +3413,17 @@ else {
 		
 		$sAudioInputText=" | <b>Cats are more than just robots, action figures...</b>";
 	}
+/*
 	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=7))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice OctopathTraveler0 20251204.mp3?lastmod=20251204T2047";
 		
 		$sAudioInputText=" | <b>Talking about the new Octopath Traveler 0</b>";
+	}
+*/	
+	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=7))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice The core of Capcom according to Keiji Inafune 20260130.mp3?lastmod=20260131T1228";
+		
+		$sAudioInputText=" | <b>The core of Capcom according to Keiji Inafune</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=8)) and (intval($currentDateTime->format('H')<=8))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording JohnMayerSayYouTubeMusixmatch 20251224.mp3?lastmod=20251226T1545";
