@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260202; from 20260131
+  @date updated: 20260207; from 20260206
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3420,10 +3420,17 @@ else {
 		$sAudioInputText=" | <b>Talking about the new Octopath Traveler 0</b>";
 	}
 */	
+/*
 	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=7))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice The core of Capcom according to Keiji Inafune 20260130.mp3?lastmod=20260131T1228";
 		
 		$sAudioInputText=" | <b>The core of Capcom according to Keiji Inafune</b>";
+	}
+*/
+	else if ((intval($currentDateTime->format('H')>=7)) and (intval($currentDateTime->format('H')<=7))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202602/Recording UsbongNihongo Thoughts on Keiji Inafune's favorite Mega Man series 20260206.mp3?lastmod=20260207T1527";
+		
+		$sAudioInputText=" | <b>稲船敬二先生の一番好きなロックマンシリーズが流星のロックマンだと仰ると・・・</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=8)) and (intval($currentDateTime->format('H')<=8))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording JohnMayerSayYouTubeMusixmatch 20251224.mp3?lastmod=20251226T1545";
@@ -3928,7 +3935,9 @@ else {
 				//Warning: get_headers(): php_network_getaddresses: getaddrinfo failed: No such host is known.
 			
 				//TODO: -add: suppress warning due to get_headers(...); when there's no internet connectivity
-			
+				
+				//edited by Mike, 20260206
+/*				
 				if ((strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false) || (strpos(get_headers($sGitHubLinkTemp, 1)[0],"Warning: get_headers()")!==false))
 				{
 					//URL throws a 404 error
@@ -3936,6 +3945,17 @@ else {
 				else {
 					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 				}
+*/				
+/*
+				try {
+*/
+					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
+/*
+				}
+				catch(error_log e) {
+					$sGitHubLink="";
+				}
+*/				
 			}
 		}
 		
