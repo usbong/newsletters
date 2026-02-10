@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260207; from 20260206
+  @date updated: 20260210; from 20260207
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3363,13 +3363,23 @@ else {
 		
 		$sAudioInputText=" | <b>生成AIと大学と通信会社の関係性？・・・</b>";
 	}	
+/*	
 	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=21))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording summertimeCinnamonRoomYouTubeGoogleLyricsMusixmatchSongwritersNatsukiHaradaMarikoSuzuki 20260110.mp3?lastmod=20260111T0953";
 		
 		$sAudioInputText=" | <b>🎵 \"Summertime\"...</b>";
 		
 		$bIsMusicTime=true;
-	}/*
+	}
+*/
+	else if ((intval($currentDateTime->format('H')>=21)) and (intval($currentDateTime->format('H')<=21))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202602/Recording HowDeepIsYourLoveBeeGeesYouTubeGoogleLyricFind 20260208.mp3?lastmod=20260210T1105";
+		
+		$sAudioInputText=" | <b>🎵 \"How Deep is Your Love\"...</b>";
+		
+		$bIsMusicTime=true;
+	}
+	/*
 	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording BABYMONSTERWildYouTubeGoogleLyricsMusixmatch 20251208.mp3?lastmod=20251209T1416";
 		
@@ -3505,10 +3515,17 @@ else {
 		$bIsMusicTime=true;
 	}
 */
+/*
 	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Creating my own fighting games by learning from Street Fighter, Darkstalkers and the PlayStation 20260128.mp3?lastmod=20260129T1258";
 		
 		$sAudioInputText=" | <b>Creating my own fighting games by learning from Street Fighter, Darkstalkers and the PlayStation...</b>";
+	}
+*/	
+	else if ((intval($currentDateTime->format('H')>=14)) and (intval($currentDateTime->format('H')<=14))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2026/202602/Recording SpanishPractice El nuevo compilatorio de Bomberman y cómo Steam facilita iniciarlo 20260208.mp3?lastmod=20260210T1058";
+		
+		$sAudioInputText=" | <b>El nuevo compilatorio de Bomberman y cómo Steam facilita iniciarlo...</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=15)) and (intval($currentDateTime->format('H')<=15))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/mandarin/2026/202601/Recording MandarinPractice How did the Nintendo Switch solve the controller issues in mobile apps like Dan The Man and Metal Slug 20260109.mp3?lastmod=20260109T1354";
