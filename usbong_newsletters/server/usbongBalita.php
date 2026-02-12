@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260210; from 20260207
+  @date updated: 20260212; from 20260210
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3387,6 +3387,13 @@ else {
 		
 		$bIsMusicTime=true;
 	}*/
+	else if ((intval($currentDateTime->format('H')>=22)) and (intval($currentDateTime->format('H')<=22))) {
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202602/Recording SongForHYYouTubeGoogleMusixmatch 20260211.mp3?lastmod=20260212T1437";
+		
+		$sAudioInputText=" | <b>🎵 \"Song for\"...</b>";
+		
+		$bIsMusicTime=true;
+	}	
 	else if ((intval($currentDateTime->format('H')>=23)) and (intval($currentDateTime->format('H')<=23))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2025/202512/Recording EnglishPractice Solving the problem of hurting others with VR.mp3?lastmod=20251206T1449";
 		
