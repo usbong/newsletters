@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260212; from 20260210
+  @date updated: 20260515; from 20260212
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -285,6 +285,11 @@
 
 						img.Image-usbongYouTubeLogo {
 							width: 100%;
+							height: auto;
+						}
+						
+						img.Image-usbongCalcLogo {
+							width: 20%;
 							height: auto;
 						}
 
@@ -692,6 +697,27 @@
 							background-color: #f3f3f3;
 							padding-top:15%;
 							padding-bottom:15%;	
+							border-radius: 10px;							
+						}
+
+						a.usbongCalcLink
+						{
+							margin-left: 20%;
+							padding-top:10%;
+							padding-bottom:10%;
+							padding-left:5%;
+							padding-right:5%;
+						}
+						
+						a.usbongCalcLink:hover
+						{
+							margin-left: 20%;
+
+							background-color: #f3f3f3;
+							padding-top:10%;
+							padding-bottom:10%;
+							padding-left:5%;
+							padding-right:5%;
 							border-radius: 10px;							
 						}
 						
@@ -3297,7 +3323,13 @@ else {
 ?>
 		</a>
 		</td>		
-
+		<td class="imageColumnPartTwo">
+		<a class="usbongCalcLink" target="_blank" href="http://store.usbong.ph/server/calc/calc.html">
+<?php
+		echo "<img class='Image-usbongCalcLogo' src='../".$updatedDirDueToURL."assets/images/calcfaviconLarge.png'>";
+?>
+		</a>
+		</td>		
 		<td class="pageNameColumn">
 		<div class='formTitle'>
 			<span class='balitaSpan'>
@@ -3598,9 +3630,13 @@ else {
 		
 		$sAudioInputText=" | <b>頭の中に住んでいる者たちへ・・・</b>";
 */
-		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106v2.mp3?lastmod=20260108T1112";
+/*		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202601/Recording UsbongNihongo Thoughts on Mr Yoshiki Okamoto's Most Favorite Street Fighter 20260106v2.mp3?lastmod=20260108T1112";
 		
 		$sAudioInputText=" | <b>岡本吉起先生の一番良かったストリートファイターとは・・・</b>";	
+*/
+		$sAudioInput="../".$updatedDirDueToURL."assets/audio/nihongo/2026/202605/Recording NihongoPractice Weight 20260514.mp3?lastmod=20260515T1449";
+		
+		$sAudioInputText=" | <b>体重を減らすには？砂糖に関わるもの・・・</b>";	
 	}
 	
 	//echo $sAudioInput;
