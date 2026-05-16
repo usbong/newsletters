@@ -772,6 +772,7 @@
 							width: 100%;
 							padding-left: 60px;
 							margin-top: 0.5%;
+							margin-bottom: 2%;
 						}
 
 						tr.menuRow
@@ -963,7 +964,7 @@
 						}					
 						
 						span.spanAudioDuration {
-							width: 65%;
+							width: 55%;
 							
 							text-align: left;
 
@@ -3463,7 +3464,8 @@ else {
 	else if ((intval($currentDateTime->format('H')>=4)) and (intval($currentDateTime->format('H')<=4))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202602/Recording EnglishPractice Talking about Burgers after Seeing Danny Grubs' Video on the Best Burger in NYC 20260202.mp3?lastmod=20260202T1608";
 		
-		$sAudioInputText=" | <b>Talking about Burgers after Seeing Danny Grubs' Video on the Best Burger in NYC</b>";
+		//$sAudioInputText=" | <b>Talking about Burgers after Seeing Danny Grubs' Video on the Best Burger in NYC</b>";
+		$sAudioInputText=" | <b>Talking about Burgers after Seeing Danny Grubs' Best NYC Burger</b>";
 	}
 	else if ((intval($currentDateTime->format('H')>=5)) and (intval($currentDateTime->format('H')<=5))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording ReferenceCallMeMaybeCarlyRaeJepsenGoogleLyricsAIOverview 20260114.mp3?lastmod=20260117T1631";
@@ -3553,7 +3555,9 @@ else {
 	else if ((intval($currentDateTime->format('H')>=12)) and (intval($currentDateTime->format('H')<=12))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/spanish/2026/202601/Recording SpanishPractice AnimalCrossing 20260121.mp3?lastmod=20260121T1147";
 		
-		$sAudioInputText=" | <b>Pensamientos sobre el repaso de GameSpot de la franquicia Animal Crossing de Nintendo</b>";
+//		$sAudioInputText=" | <b>Pensamientos sobre el repaso de GameSpot de la franquicia Animal Crossing de Nintendo</b>";
+		$sAudioInputText=" | <b>El repaso de GameSpot de la franquicia Animal Crossing de Nintendo</b>";
+
 	}
 	else if ((intval($currentDateTime->format('H')>=13)) and (intval($currentDateTime->format('H')<=13))) {
 		$sAudioInput="../".$updatedDirDueToURL."assets/audio/english/2026/202601/Recording EnglishPractice Thoughts on Sacha Chua's Working on Emacs News.mp3?lastmod=20260106T1151";
