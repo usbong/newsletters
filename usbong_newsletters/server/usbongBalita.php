@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260515; from 20260212
+  @date updated: 20260516; from 20260515
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -184,7 +184,6 @@
 
 							/*font-size: 28pt;*/
 							font-size: 2em;
-
 
 							color: rgb(0,0,0); /* black */
 
@@ -744,6 +743,10 @@
 							
 							background-color: #ffffff;
 							border: 1px solid #aaaaaa;
+							
+							text-align: left;
+							-webkit-appearance: none;
+							appearance: none;							
 						}
 
 						form
@@ -894,6 +897,9 @@
 							width: 45%; /*40%;*/
 							/*display: inline-block;*/
 							text-align: right;
+							
+							padding: 0;
+							margin: 0;
 						}
 
 						td.menuColumn
@@ -929,12 +935,16 @@
 							background: #E9E9ED;
 							border: 0.1em solid #AAA;
 							border-radius: 4px;
+							padding: 0.1em;
+							margin: 0;
 						}
 
 						button.languageButton:hover {
 							background: #C1C1C4;
 							border: 0.1em solid #AAA;
 							border-radius: 4px;
+							padding: 0.1em;
+							margin: 0;
 						}
 						
 /*
@@ -1008,7 +1018,11 @@
 						}
 						
 						span.dateTodaySpan, .balitaSpan {
-							font-size: 16pt; /*24pt;*/ /*1em;*/
+							font-size: 13pt;
+							font-weight: bold;
+							
+							padding: 0;
+							margin: 0;
 						}
 						
 						span.incomingDraftTextSelectOptionSpan {
@@ -3352,8 +3366,9 @@ else {
 
 					//note: can select previous days?...
 
-					//edited by Mike, 20250612
+					//edited by Mike, 20260516; from 20250612
 					echo "<span class='dateTodaySpan'>$dateTodayDay | ";
+					//echo "<span class='dateTodaySpan'>";
 
 					//echo "<span class='dateTodaySpan'><button class='origTextButton'><img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'></button>$dateTodayDay | ";
 					
@@ -3852,7 +3867,9 @@ else {
 			</td>
 		</tr>
 	</table>
+<!--
 	<br/>
+-->
 	
 <?php
 	//added by Mike, 20250224
