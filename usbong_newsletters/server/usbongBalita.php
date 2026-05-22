@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260516; from 20260515
+  @date updated: 20260522; from 20260516
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3961,18 +3961,70 @@ else {
 		return $sWebAddress;
 	}
 
+	//added by Mike, 20260522
+	function autoUpdateGitHubLink($sGitHubLink) {
+				//added by Mike, 20260522
+		//----------------------------------
+		//reverify if link has date folder in the URL;
+		
+		//example input: https://github.com/usbong/personal/blob/main/milestone/2026/202605/20260521/20260521PM.md
+		//example output: 20260521
+		//8 characters
+		$sGitHubDate = substr($sGitHubLink,strrpos($sGitHubLink,"/")+1,8);
+
+		$sGitHubDateMonth = substr($sGitHubLink,strrpos($sGitHubLink,"/")+1,6);
+		
+		//example input: https://github.com/usbong/personal/blob/main/milestone/2026/202605/20260521/20260521PM.md
+		//this step's output: https://github.com/usbong/personal/blob/main/milestone/2026/202605/20260521
+		
+		$sGitHubDir = substr($sGitHubLink,0,strrpos($sGitHubLink,"/"));
+		
+		str_replace($sGitHubDate,"",$sGitHubLink,$iGitHubDateCount);
+		
+		if ($iGitHubDateCount<2) {
+			$sGitHubLink = str_replace($sGitHubDateMonth."/",$sGitHubDateMonth."/".$sGitHubDate."/",$sGitHubLink);
+		}
+		
+		return $sGitHubLink;
+	}
+
 	function getGitHubLinkFromInput($cellValue, $updatedDirDueToURL, $completeFilename) {
 		$sGitHubLink = $cellValue;
 		
 		$sGitHubLink = substr($sGitHubLink, strpos($sGitHubLink,"github.com"), strpos($sGitHubLink,".md")-strpos($sGitHubLink,"github.com"));
 
+		//added by Mike, 20260522
+		$sGitHubLink = autoUpdateGitHubLink($sGitHubLink);
+		
 		//example: ## https://github.com/usbong/newsletters/blob/main/notes/LessonsLearned/famitsuDotCom/2024/202412/20241220.md
 		if (strlen(trim($sGitHubLink))>0) {
 			$sGitHubLink="https://".$sGitHubLink.".md";
 			
 			//$sGitHubLink="<a class='webServiceLink' target='_blank' href='".$sGitHubLink."'>A</a>";
 
-			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";			
+/*			
+			//added by Mike, 20260522
+			//reverify if link has date folder in the URL;
+			
+			//example input: https://github.com/usbong/personal/blob/main/milestone/2026/202605/20260521/20260521PM.md
+			//example output: 20260521
+			//8 characters
+			$sGitHubDate = substr($sGitHubLink,strrpos($sGitHubLink,"/")+1,8);
+
+			$sGitHubDateMonth = substr($sGitHubLink,strrpos($sGitHubLink,"/")+1,6);
+			
+			//example input: https://github.com/usbong/personal/blob/main/milestone/2026/202605/20260521/20260521PM.md
+			//this step's output: https://github.com/usbong/personal/blob/main/milestone/2026/202605/20260521
+			
+			$sGitHubDir = substr($sGitHubLink,0,strrpos($sGitHubLink,"/"));
+			
+			str_replace($sGitHubDate,"",$sGitHubLink,$iGitHubDateCount);
+			
+			if ($iGitHubDateCount<2) {
+				$sGitHubLink = str_replace($sGitHubDateMonth."/",$sGitHubDateMonth."/".$sGitHubDate."/",$sGitHubLink);
+			}
+*/
+			$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLink."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 		}
 		else {
 			//example: C:\xampp\htdocs\usbong_newsletters\server\notes\LessonsLearned\gamedeveloper\2024\202412\20241218.md			
@@ -4011,35 +4063,10 @@ else {
 			if (filter_var($sGitHubLinkTemp, FILTER_VALIDATE_URL) === FALSE) {
 			}
 			else {
-				//edited by Mike, 20250612
-				//if (strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false)
-				//Warning: get_headers(): php_network_getaddresses: getaddrinfo failed: No such host is known.
-			
-				//TODO: -add: suppress warning due to get_headers(...); when there's no internet connectivity
-				
-				//edited by Mike, 20260206
-/*				
-				if ((strpos(get_headers($sGitHubLinkTemp, 1)[0],"404 Not Found")!==false) || (strpos(get_headers($sGitHubLinkTemp, 1)[0],"Warning: get_headers()")!==false))
-				{
-					//URL throws a 404 error
-				}
-				else {
-					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
-				}
-*/				
-/*
-				try {
-*/
-					$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
-/*
-				}
-				catch(error_log e) {
-					$sGitHubLink="";
-				}
-*/				
+				$sGitHubLink="<a class='webServiceGitHubLink' target='_blank' href='".$sGitHubLinkTemp."'><img class='Image-github-mark' src='../".$updatedDirDueToURL."assets/images/github-mark.png'></a>";
 			}
 		}
-		
+
 		return " ".$sGitHubLink;
 	}
 
@@ -4230,6 +4257,10 @@ else {
 		$sReferenceWebsiteComplete = str_replace("/tree/main/", "/blob/main/", $sReferenceWebsiteComplete);
 		
 		//echo ">>>>".$sReferenceWebsiteComplete;
+		
+		//added by Mike, 20260522
+		$sReferenceWebsiteComplete = autoUpdateGitHubLink($sReferenceWebsiteComplete);
+		
 		//--------------------------
 		
 		$sLastAccessed=getLastAccessedFromReferenceWebsite($sToken);
