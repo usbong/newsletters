@@ -507,11 +507,15 @@
 							width: 100%;
 							line-height: 2;
 							font-size: 18pt;
+							
+							margin-top: 1em;
 						}
 
 						table.imageTable
 						{
 							width: 100%;
+							margin-top: 1em;
+							margin-bottom: 1em;
 						}
 
 						table.bodyTableLatest
@@ -938,6 +942,8 @@
 							border-radius: 4px;
 							padding: 0.1em;
 							margin: 0;
+
+							font-size: 1.9rem;
 						}
 
 						button.languageButton:hover {
@@ -1019,7 +1025,7 @@
 						}
 						
 						span.dateTodaySpan, .balitaSpan {
-							font-size: 13pt;
+							font-size: 1.7rem;
 							font-weight: bold;
 							
 							padding: 0;
@@ -3381,9 +3387,10 @@ else {
 		</td>
 	   </tr>
 	</table>
-
+<!--
 <table class="searchTable">
 		<tr>
+-->
 <?php
 
 	//edited by Mike, 20251204
@@ -3661,7 +3668,7 @@ else {
 	//echo $sAudioInput;
 ?>
 
-
+<!--
 <td class="soldierTd">
 <?php
 	//added by Mike, 20251011
@@ -3692,9 +3699,6 @@ else {
 <br/>
 
 
-<!--
-		<audio id="myAudioId" class="audioPlayerDefault" width="416" height="312" controls>
--->
 <?php
 	echo "<audio id='myAudioId' class='audioPlayerDefault' width='416' height='312' controls>";
 ?>		
@@ -3867,10 +3871,13 @@ else {
 						}
 					}
 			?>
+<!--			
 			  </select>
 			</td>
 		</tr>
 	</table>
+-->
+	
 <!--
 	<br/>
 -->
