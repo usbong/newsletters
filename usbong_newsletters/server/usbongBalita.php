@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260525; from 20260522
+  @date updated: 20260530; from 20260525
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -287,8 +287,8 @@
 							height: auto;
 						}
 						
-						img.Image-usbongCalcLogo {
-							width: 20%;
+						img.Image-usbongCalcLogo, img.Image-usbongConvLogo {
+							width: 40%;
 							height: auto;
 						}
 
@@ -703,24 +703,26 @@
 							border-radius: 10px;							
 						}
 
-						a.usbongCalcLink
+						a.usbongCalcLink, a.usbongConvLink
 						{
-							margin-left: 20%;
-							padding-top:10%;
-							padding-bottom:10%;
-							padding-left:5%;
-							padding-right:5%;
+							margin-right: 0;
+							margin-left: 30%;
+							padding-top:20%;
+							padding-bottom:20%;
+							padding-left:15%;
+							padding-right:15%;
 						}
 						
-						a.usbongCalcLink:hover
+						a.usbongCalcLink:hover, a.usbongConvLink:hover
 						{
-							margin-left: 20%;
+							margin-right: 0;
+							margin-left: 30%;
 
 							background-color: #f3f3f3;
-							padding-top:10%;
-							padding-bottom:10%;
-							padding-left:5%;
-							padding-right:5%;
+							padding-top:20%;
+							padding-bottom:20%;
+							padding-left:15%;
+							padding-right:15%;
 							border-radius: 10px;							
 						}
 						
@@ -895,6 +897,11 @@
 /*
 							display: inline-block;
 */
+						}
+
+						td.imageColumnPartThree, td.imageColumnPartFour
+						{
+							width: 10%;
 						}
 
 						td.pageNameColumn
@@ -3344,10 +3351,17 @@ else {
 ?>
 		</a>
 		</td>		
-		<td class="imageColumnPartTwo">
+		<td class="imageColumnPartThree">
 		<a class="usbongCalcLink" target="_blank" href="http://store.usbong.ph/server/calc/calc.html">
 <?php
 		echo "<img class='Image-usbongCalcLogo' src='../".$updatedDirDueToURL."assets/images/calcalphaiconLarge.png'>";
+?>
+		</a>
+		</td>		
+		<td class="imageColumnPartFour">
+		<a class="usbongConvLink" target="_blank" href="http://store.usbong.ph/server/conv/conv.html">
+<?php
+		echo "<img class='Image-usbongConvLogo' src='../".$updatedDirDueToURL."assets/images/convalphaiconLarge.png'>";
 ?>
 		</a>
 		</td>		
