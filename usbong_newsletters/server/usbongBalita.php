@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260530; from 20260525
+  @date updated: 20260603; from 20260530
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -286,9 +286,14 @@
 							width: 100%;
 							height: auto;
 						}
-						
-						img.Image-usbongCalcLogo, img.Image-usbongConvLogo {
+
+						img.Image-usbongCalcLogo {
 							width: 40%;
+							height: auto;
+						}
+						
+						img.Image-usbongConvLogo {
+							width: 80%;
 							height: auto;
 						}
 
@@ -703,7 +708,7 @@
 							border-radius: 10px;							
 						}
 
-						a.usbongCalcLink, a.usbongConvLink
+						a.usbongCalcLink
 						{
 							margin-right: 0;
 							margin-left: 30%;
@@ -713,7 +718,7 @@
 							padding-right:15%;
 						}
 						
-						a.usbongCalcLink:hover, a.usbongConvLink:hover
+						a.usbongCalcLink:hover
 						{
 							margin-right: 0;
 							margin-left: 30%;
@@ -725,6 +730,29 @@
 							padding-right:15%;
 							border-radius: 10px;							
 						}
+
+						a.usbongConvLink
+						{
+							margin-right: 0;
+							margin-left: 10%;
+							padding-top:15%;
+							padding-bottom:15%;
+							padding-left:5%;
+							padding-right:5%;
+						}
+						
+						a.usbongConvLink:hover
+						{
+							margin-right: 0;
+							margin-left: 10%;
+
+							background-color: #f3f3f3;
+							padding-top:15%;
+							padding-bottom:15%;
+							padding-left:5%;
+							padding-right:5%;
+							border-radius: 10px;							
+						}				
 						
 						a.usbongRadioLink
 						{
@@ -3361,7 +3389,7 @@ else {
 		<td class="imageColumnPartFour">
 		<a class="usbongConvLink" target="_blank" href="http://store.usbong.ph/server/conv/conv.html">
 <?php
-		echo "<img class='Image-usbongConvLogo' src='../".$updatedDirDueToURL."assets/images/convalphaiconLarge.png'>";
+		echo "<img class='Image-usbongConvLogo' src='../".$updatedDirDueToURL."assets/images/convalphaicon.png'>";
 ?>
 		</a>
 		</td>		
