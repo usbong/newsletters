@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260604; from 20260603
+  @date updated: 20260606; from 20260604
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3382,7 +3382,7 @@ else {
 		<td class="imageColumnPartThree">
 		<a class="usbongCalcLink" target="_blank" href="http://store.usbong.ph/server/calc/calc.html">
 <?php
-		echo "<img class='Image-usbongCalcLogo' src='../".$updatedDirDueToURL."assets/images/calcalphaicon.png'>";
+		echo "<img class='Image-usbongCalcLogo' src='../".$updatedDirDueToURL."assets/images/calcalphaicon3.png'>";
 ?>
 		</a>
 		</td>		
