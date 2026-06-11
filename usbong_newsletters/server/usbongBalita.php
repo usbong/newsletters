@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260606; from 20260604
+  @date updated: 20260611; from 20260606
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -5248,7 +5248,7 @@ else {
 	}
 }
 
-//echo ">>>>".$newsTitleOutput."<br/>END<br/>";
+	//echo ">>>>".$newsTitleOutput."<br/>END<br/>";
 
 ?>
 	<input type="hidden" id="displayIncomingDraftId" value="0" required>
@@ -5314,7 +5314,9 @@ while ($sToken !== false)
 			}			
 		}
 */
+
 		echo $sNewsTitleWebsiteReference;
+		
 /*
 		echo "<span class='moreTextSpanIIISummaryReportsHeader'>";
 		//edited by Mike, 20250729
@@ -5374,6 +5376,12 @@ while ($sToken !== false)
 
 		//added by Mike, 20250610
 		//echo ">>>>".$completeFilename;
+		
+		//added by Mike, 20260611
+		//----------------------------
+		//auto-correct
+		$sToken = str_replace("Cuentos del Productor de los videojuegos", "Cuentos del Productor de videojuegos", $sToken);
+		//----------------------------
 		
 		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
 			//edited by Mike, 20260103
