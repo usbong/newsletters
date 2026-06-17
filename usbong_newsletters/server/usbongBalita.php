@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260611; from 20260606
+  @date updated: 20260616; from 20260611
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -5381,6 +5381,11 @@ while ($sToken !== false)
 		//----------------------------
 		//auto-correct
 		$sToken = str_replace("Cuentos del Productor de los videojuegos", "Cuentos del Productor de videojuegos", $sToken);
+		
+		//added by Mike, 20260616
+		if (strpos($sLanguageValue,"EN")!==false) {
+			$sToken = str_replace("Redactor:", "Writer:", $sToken);
+		}
 		//----------------------------
 		
 		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
