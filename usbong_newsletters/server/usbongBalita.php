@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260616; from 20260611
+  @date updated: 20260623; from 20260616
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -502,6 +502,13 @@
 						p.usbongTranslatedQuote {
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
+						}
+						
+						p.paragraphReference {
+							margin:0;
+							margin-bottom: 3%;/*5%;*/
+							
+							text-align: left;
 						}
 
 /*
@@ -5459,8 +5466,10 @@ while ($sToken !== false)
 			
 			//echo "<b>## REFERENCE</b><br/>"; //###
 			
-			echo "<p class='usbongTranslatedQuote'>";
-			echo "<b>## REFERENCE</b>";
+			echo "<p class='paragraphReference'>";
+			//edited by Mike, 20260623
+			//echo "<b>## REFERENCE</b>";
+			echo "<b>## Reference:</b>";
 			echo "</p>";
 			
 			//added by Mike, 20240720
@@ -5496,7 +5505,7 @@ while ($sToken !== false)
 			
 			//echo "<b>## 参考</b><br/>"; //###
 
-			echo "<p class='usbongTranslatedQuote'>";
+			echo "<p class='paragraphReference'>";
 			echo "<b>## 参考</b>";
 			echo "</p>";
 			
@@ -5520,7 +5529,7 @@ while ($sToken !== false)
 	}
 	//added by Mike, 20250123
 	else if (strpos(strtolower($sToken), "[")!==false) {
-		echo "<p class='usbongTranslatedQuote'>";
+		echo "<p class='paragraphReference'>";
 		echo updateTextInputWithLink($sToken);	
 		echo "</p>";		
 	}		
@@ -5615,16 +5624,16 @@ while ($sToken !== false)
 	//echo "<br/>";
 	if (isset($bHasAdditionalReference)) {
 		if ($bHasAdditionalReference) {
-			
-		  //added by Mike, 20260119
-		  //TODO: -reverify this
+		  //edited by Mike, 20260623; from 20260119
 		  if (strpos(strtolower($sPrevToken), "[")!==false) {
 		  }
 		  else {
-			echo "<br/><br/>";
+			//removed by Mike, 20260623
+			//echo "<br/><br/>";
 		  }
 		}
 	}
+	
 	//echo "<br/><br/>";
 
 ?>
