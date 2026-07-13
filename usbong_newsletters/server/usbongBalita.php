@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260623; from 20260616
+  @date updated: 20260713; from 20260623
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3170,6 +3170,20 @@ add news row; language
 	//added by Mike, 20250701
 	$sWebAddressBasePath = "http://store.usbong.ph";
 
+	//added by Mike, 20260713
+	//default
+	$updatedDirDueToURL="";
+
+	if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
+		$updatedDirDueToURL="../";
+		
+		if (strpos($_SERVER['REQUEST_URI'],"/R")!==false) {
+		//if (strpos($_SERVER['REQUEST_URI'],"/N")!==false) {
+			$updatedDirDueToURL=$updatedDirDueToURL."../";
+		}
+	}
+
+
 	//added by Mike, 20220628
 	//reference: https://github.com/usbong/UsbongStore/blob/master/usbong_store/application/core/MY_Controller.php;
 	//last accessed: 20220628
@@ -3303,6 +3317,7 @@ add news row; language
 //edited by Mike, 20250808; from 20250807
 $iDateTodayAndNewsLastAccessedDifferenceMax=1;//2;//1;//4; //3
 
+/* //removed by Mike, 20260713
 //default
 $updatedDirDueToURL="";
 
@@ -3314,7 +3329,7 @@ if (strpos($_SERVER['REQUEST_URI'],".php/")!==false) {
 		$updatedDirDueToURL=$updatedDirDueToURL."../";
 	}
 }
-
+*/
 
 //added by Mike, 20230913
 $sInputURL=$_SERVER['REQUEST_URI'];
@@ -4399,8 +4414,9 @@ else {
 		return $sLanguage;
 	}
 
-	//added by Mike, 20230801
-	function processWebsiteReference($sToken) {
+	//edited by Mike, 20260713; from 20230801
+	//function processWebsiteReference($sToken) {
+	function processWebsiteReference($sToken,$updatedDirDueToURL) {
 		if (strpos($sToken, "-->")!==false) {
 			//includes space after ">"
 			$sToken = str_replace("--> ","",$sToken);
@@ -4530,6 +4546,19 @@ else {
 				echo "<iframe class='youtubeIFrameIpad' src='".$sReferenceWebsiteTempUpdated."' allow='fullscreen'></iframe>"; //removed "</>"
 			}
 */			
+		}
+		//added by Mike, 20260724
+		//example input: http://store.usbong.ph/res/img/philnits20260713.png
+		else if (strpos($sReferenceWebsiteTemp,"store.usbong.ph")!==false) {
+			$sReferenceWebsiteAccessedDateShortened=str_replace("; last","Last",$sReferenceWebsiteAccessedDate);
+		
+			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
+
+			$sReferenceWebsiteTempUpdated = str_replace("http://store.usbong.ph/","assets/images/newsletter/",$sReferenceWebsiteTemp);
+						
+			//echo "<img class='' src='../".$updatedDirDueToURL."assets/images/newsletter/2026/202607/philnits20260713.png'>";
+			
+			echo "<img class='' src='../".$updatedDirDueToURL.$sReferenceWebsiteTempUpdated."'>";
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
@@ -5423,7 +5452,9 @@ while ($sToken !== false)
 	else if (strpos($sToken, "-->")!==false) {		
 		//added by Mike, 20230801
 		if (strpos($sToken, "http")!==false) {
-			processWebsiteReference($sToken);
+			//edited by Mike, 20260713
+			//processWebsiteReference($sToken);
+			processWebsiteReference($sToken,$updatedDirDueToURL);
 		}
 		else {
 	//		$sToken = str_replace("-->","",$sToken);
@@ -5557,7 +5588,9 @@ while ($sToken !== false)
 	}
 	//added by Mike, 20230518
 	else if (strpos($sToken, "http")!==false) {
-		processWebsiteReference($sToken);
+		//edited by Mike, 20260713
+		//processWebsiteReference($sToken);
+		processWebsiteReference($sToken,$updatedDirDueToURL);
 	}
 	//edited by Mike, 20231222
 	//else if (strlen($sToken)==strlen("<br/>")) {
