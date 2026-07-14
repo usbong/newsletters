@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260713; from 20260623
+  @date updated: 20260714; from 20260713
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1225,6 +1225,16 @@
 						  margin: 0 0; /*auto;*/
 
 						   background-size: cover;
+						}
+						
+						img.articleFileImg {
+						  width: 100%;
+						  height: auto;
+
+						  display: block;
+						  margin: 0 0; /*auto;*/
+						  
+						  object-fit: contain;
 						}
 						
 						iFrame.storeSteamIFrame
@@ -4555,10 +4565,11 @@ else {
 			echo $sReferenceWebsiteAccessedDateShortened."<br/>";
 
 			$sReferenceWebsiteTempUpdated = str_replace("http://store.usbong.ph/","assets/images/newsletter/",$sReferenceWebsiteTemp);
-						
+			
+			//edited by Mike, 20260714
 			//echo "<img class='' src='../".$updatedDirDueToURL."assets/images/newsletter/2026/202607/philnits20260713.png'>";
 			
-			echo "<img class='' src='../".$updatedDirDueToURL.$sReferenceWebsiteTempUpdated."'>";
+			echo "<img class='articleFileImg' src='../".$updatedDirDueToURL.$sReferenceWebsiteTempUpdated."'>";
 		}
 		//added by Mike, 20240711
 		else if ((strpos($sReferenceWebsiteTemp,"twitter.com")!==false) || (strpos($sReferenceWebsiteTemp,"x.com")!==false)) {
