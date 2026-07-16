@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260714; from 20260713
+  @date updated: 20260716; from 20260714
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -4349,11 +4349,28 @@ else {
 		//added by Mike, 20240516
 		$sIncomingDraftText="";
 		if ($iNewsRankCount==0) {
-			$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
-				
-			if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
-				$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
-			}	
+			//edited by Mike, 20260716
+			//----------------------------------
+			//TODO: -put in a function; reused code;
+			//echo $completeFilename;
+			$fileDateArray=explode("\\",$completeFilename);
+			//echo "count(fileDateArray): ".count($fileDateArray)."<br/>";
+			
+			//if Linux server
+			if (count($fileDateArray)<=1) {
+				$fileDateArray=explode("/",$completeFilename);
+			}
+			
+			$sFileDate=$fileDateArray[count($fileDateArray)-1];
+			//----------------------------------
+			
+			if (strpos($sFileDate,"-")===false) {
+				$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sLastAccessed);
+					
+				if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+					$sIncomingDraftText="<span class='webServiceLinkRowIncomingDraftSpan'>| INCOMING DRAFT</span>";				
+				}	
+			}
 		}
 			
 		$sOutput="";
@@ -5016,9 +5033,14 @@ else {
 				echo ">>>>>>>>>>>>>>>".$iReportForTheDayCount."<br/>";
 */
 
+			//edited by Mike, 20260716
 			if ($iReportForTheDayCount>1){
+				//echo $iReportForTheDayCount."<br/>";
+				
 				//edited by Mike, 20230526
 				$filename=$filename."-".$iReportForTheDayCount;
+
+				//echo ">>filename: ".$filename."<br/>";
 
 				//edited by Mike, 20231201
 				//$iReportForTheDayCount++;
@@ -5159,12 +5181,24 @@ else {
 				//added by Mike, 20250730
 				$iDateTodayAndNewsLastAccessedDifference=processDateTodayAndNewsLastAccessedDifference($sFileDate);
 			
-				if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
-					//echo "SKIP!!";
-					
-					$completeFilename="next";
-					continue; //skip incoming draft
-				}	
+				//echo ">>> iDateTodayAndNewsLastAccessedDifference: ".$iDateTodayAndNewsLastAccessedDifference."<br/>";
+				//echo ">>> iDateTodayAndNewsLastAccessedDifferenceMax: ".$iDateTodayAndNewsLastAccessedDifferenceMax."<br/>";
+				
+				//echo ">>>>>".$sFileDate."<br/>";
+			
+				//edited by Mike, 20260716
+				//sample input: 20260715-2
+				if (strpos($sFileDate,"-")) {
+					//echo "HALLO!!!";
+				}
+				else {
+					if ($iDateTodayAndNewsLastAccessedDifference<$iDateTodayAndNewsLastAccessedDifferenceMax) {
+						//echo "SKIP!!";
+						
+						$completeFilename="next";
+						continue; //skip incoming draft
+					}	
+				}
 			}
 			//----------------------------------------------
 						
@@ -5294,7 +5328,7 @@ else {
 		$newsTitleOutput = $sNewsTitleWebsiteReference.$newsTitleTranslated;
 	}
 }
-
+		
 	//echo ">>>>".$newsTitleOutput."<br/>END<br/>";
 
 ?>
@@ -5441,7 +5475,9 @@ while ($sToken !== false)
 			//echo "<blockquote class='usbongBlockquote'>";
 			
 			//title, author, publication date rows
-			if (($iRowCount==2)||($iRowCount==4)||($iRowCount==6)) {
+			//edited by Mike, 20260716
+//			if (($iRowCount==2)||($iRowCount==4)||($iRowCount==6)) {
+			if ($iRowCount<=6) {
 				echo "<blockquote class='usbongBlockquotePersonal'>";
 			}
 			else {
