@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260716; from 20260714
+  @date updated: 20260821; from 20260716
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -160,18 +160,13 @@
 
 							/* //added by Mike, 20230828 */
 							font-size: 100%;
-
-
-							/*-webkit-user-select: none;*/ /* Safari */
-							/*-ms-user-select: none;*/ /* IE 10 and IE 11 */
-							/*user-select: none;*/ /* standard syntax */
-							transform: scale(1.0);
+/*							
+							transform: scaleX(0.8);
+							transform: scaleY(0.4);
+							transform-origin: top left;
+*/
 							/*touch-action: none;*/
 							  overflow: auto;
-							
-							/*
-							visibility: hidden;
-							*/
 						}
 
 						div.formTitle
@@ -1010,6 +1005,13 @@
 
 						span.usbongNoteSpan {
 						}					
+
+						span.noticeSpan {
+							position: absolute;
+							padding: 0;
+							margin: 0;
+							margin-top: 0.75%;
+						}					
 						
 						span.spanAudioDuration {
 							width: 55%;
@@ -1672,7 +1674,7 @@ window.addEventListener('resize', detectZoomLevel);
   						element.style.fontSize = "1.25em";//"18px";
 					}
 */
-					
+
 					//if not iPad (mobile)
 					if (!bIsUsingAppleWebKit) {
 						//redirect to lite version;
@@ -3217,7 +3219,8 @@ add news row; language
 	}
 
 	if (isMobile()) {
-		//edited by Mike, 20250701
+		
+		//edited by Mike, 20260821; from 20250701
 		//echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
 
 		$url=$sWebAddressBasePath."/server/usbongBalitaLite.php";
@@ -3234,6 +3237,9 @@ add news row; language
 		echo "</html>";
 		
 		die();
+/*		
+		echo "<body id='myBodyId' class='mobileBody' onload='onLoad()'>";
+*/		
 	}
 	else {
 		echo "<body id='myBodyId' class='body' onload='onLoad()'>";
@@ -3310,7 +3316,9 @@ add news row; language
 */	
 	//------------------------------------------
 
+	echo "<span class='noticeSpan'><b><font color='#FF4500'>NOTICE:</font> SCHEDULED SERVER MAINTENANCE THIS SEPT. 5, 2026 FROM 16:00 TO 18:00 (PH TIME).<br/>PLEASE EXPECT THE WEBSITE TO BE TEMPORARILY UNAVAILABLE DURING THAT TIME.</b></span><br/><br/>";
 ?>
+
 	<table class="imageTable">
 	  <tr>
 		<td class="imageColumn">
@@ -5481,7 +5489,13 @@ while ($sToken !== false)
 				echo "<blockquote class='usbongBlockquotePersonal'>";
 			}
 			else {
-				echo "<blockquote class='usbongBlockquote'>";
+				//edited by Mike, 20260720
+				if ((strpos($sToken, "Translator:")!==false) || (strpos($sToken, "Publication Date:")!==false)) {
+					echo "<blockquote class='usbongBlockquotePersonal'>";
+				}
+				else {
+					echo "<blockquote class='usbongBlockquote'>";
+				}
 			}
 			
 			echo "$sToken";
