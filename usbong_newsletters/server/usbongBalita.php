@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260821; from 20260716
+  @date updated: 20260831; from 20260821
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3455,9 +3455,11 @@ else {
 
 					//note: can select previous days?...
 
-					//edited by Mike, 20260516; from 20250612
-					echo "<span class='dateTodaySpan'>$dateTodayDay | ";
-					//echo "<span class='dateTodaySpan'>";
+					//edited by Mike, 20260831; from 20260516
+					//echo "<span class='dateTodaySpan'>$dateTodayDay | ";
+
+					echo "<span class='dateTodaySpan'><a class='webServiceTimeOffLink' target='_blank' href='http://store.usbong.ph/server/workbook/workbook.php'>".$dateTodayDay."</a> | ";					
+					
 
 					//echo "<span class='dateTodaySpan'><button class='origTextButton'><img class='Image-radio' src='../".$updatedDirDueToURL."assets/images/jeep.png?lastmod=20241023' onclick='changeAudio()'></button>$dateTodayDay | ";
 					
