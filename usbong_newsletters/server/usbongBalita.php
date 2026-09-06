@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260831; from 20260821
+  @date updated: 20260906; from 20260831
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -3315,8 +3315,9 @@ add news row; language
 	echo $_SERVER["HTTP_USER_AGENT"]."<br/>";
 */	
 	//------------------------------------------
-
+/*	//removed by Mike, 20260906
 	echo "<span class='noticeSpan'><b><font color='#FF4500'>NOTICE:</font> SCHEDULED SERVER MAINTENANCE THIS SEPT. 5, 2026 FROM 16:00 TO 18:00 (PH TIME).<br/>PLEASE EXPECT THE WEBSITE TO BE TEMPORARILY UNAVAILABLE DURING THAT TIME.</b></span><br/><br/>";
+*/	
 ?>
 
 	<table class="imageTable">
