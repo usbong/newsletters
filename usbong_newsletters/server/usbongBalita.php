@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260906; from 20260831
+  @date updated: 20260926; from 20260908
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -1134,6 +1134,7 @@
 /*							
 							margin-top: -0.4em;
 */
+							
 							/* note doesn't use full width when zooming in and out */
 							display: block; /*none;//block;*/
 							visibility: visible; /*hidden;*/
@@ -5650,8 +5651,9 @@ while ($sToken !== false)
 			echo "</span>";
 		}
 	}
-	//added by Mike, 20230518
-	else if (strpos($sToken, "http")!==false) {
+	//edited by Mike, 20260926; 20230518
+	//else if (strpos($sToken, "http")!==false) {
+	else if ((strpos($sToken, "http://")!==false) || (strpos($sToken, "https://")!==false)) {
 		//edited by Mike, 20260713
 		//processWebsiteReference($sToken);
 		processWebsiteReference($sToken,$updatedDirDueToURL);
@@ -5659,9 +5661,17 @@ while ($sToken !== false)
 	//edited by Mike, 20231222
 	//else if (strlen($sToken)==strlen("<br/>")) {
 	else if (strpos(strtolower($sToken), "<br/>")!==false) {
+		
+		//echo ">>".$sToken;
+		
+		//echo strlen($sToken);
+		//echo strlen("<br/>");
+
 		//if (strpos(strtolower($sToken), "<br/>")!==false) {
 		if (strlen($sToken)==strlen("<br/>")) {
+
 			echo "<br/>";
+			echo "<br/>"; //added by Mike, 20260908
 		}
 		
 		//echo "HERE!!!".$sToken."END<br/>";
@@ -5732,7 +5742,7 @@ while ($sToken !== false)
 	}
 	
 	//echo "<br/><br/>";
-
+	//echo "<br/>"; //removed by Mike, 20260908
 ?>
 
 </span>
