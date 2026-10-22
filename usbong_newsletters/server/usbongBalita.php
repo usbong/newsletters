@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20260926; from 20260908
+  @date updated: 20261022; from 20260926
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -503,7 +503,11 @@
 							margin:0;
 							margin-bottom: 3%;/*5%;*/
 							
+							text-align: justify;
+							text-justify: inter-word;
+/*								
 							text-align: left;
+*/							
 						}
 
 /*
@@ -514,7 +518,7 @@
 							width: 100%;
 							line-height: 2;
 							font-size: 18pt;
-							
+														
 							margin-top: 1em;
 						}
 
@@ -5716,7 +5720,9 @@ while ($sToken !== false)
 	}
 
 	$sPrevToken = $sToken;
+	
 	$sToken = strtok("\n");
+	
 	$iRowCount++;
 
 	//added by Mike, 20240717
