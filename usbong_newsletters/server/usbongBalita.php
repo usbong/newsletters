@@ -8,7 +8,7 @@
   @company: USBONG
   @author: SYSON, MICHAEL B.
   @date created: 20211011
-  @date updated: 20261022; from 20260926
+  @date updated: 20261101; from 20261022
   @website address: http://www.usbong.ph
 
   Note: "default.md", not "default.md.txt";
@@ -5382,6 +5382,35 @@ $iRowCount=0;
 
 while ($sToken !== false)
 {
+	//added by Mike, 20261101
+	//auto-correct
+	if (strpos($sLanguageValue,"ES")!==false) {
+		$sToken = str_replace("Sr. Okamoto", "Okamoto", $sToken);
+		$sToken = str_replace("el Okamoto", "el Sr. Okamoto", $sToken);
+
+		$sToken = str_replace("Sr. Yoshiki Okamoto", "Yoshiki Okamoto", $sToken);
+
+/*
+		$sToken = str_replace("de Sr.", "del Sr.", $sToken);
+		$sToken = str_replace("Sr.", "el Sr.", $sToken);
+		$sToken = str_replace("del el Sr.", "del Sr.", $sToken);
+
+		$sToken = str_replace("de Sra.", "de la Sra.", $sToken);
+		$sToken = str_replace("Sra.", "la Sra.", $sToken);
+		$sToken = str_replace("la la Sra.", "la Sra.", $sToken);
+*/
+		$sToken = str_replace("del Sr.", "de", $sToken);
+		$sToken = str_replace("de la Sra.", "de", $sToken);
+		$sToken = str_replace("de la Srtaa.", "de", $sToken);
+
+		$sToken = str_replace("Sr.", "", $sToken);
+		$sToken = str_replace("Sra.", "", $sToken);
+		$sToken = str_replace("Srta.", "", $sToken);
+
+
+	}
+
+
 	if ($iRowCount==0) {
 /*		//removed by Mike, 20250806
 		//added by Mike, 20250730
@@ -5483,6 +5512,7 @@ while ($sToken !== false)
 		if (strpos($sLanguageValue,"EN")!==false) {
 			$sToken = str_replace("Redactor:", "Writer:", $sToken);
 		}
+
 		//----------------------------
 		
 		if (strpos($completeFilename,"\personal\\") or strpos($completeFilename,"/personal/")) {
